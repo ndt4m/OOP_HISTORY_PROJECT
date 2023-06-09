@@ -1,0 +1,176 @@
+historicalSiteName: Chiến khu Tân Trào
+aliases: [Kim Long và Kim Châu]
+location: Thôn Tân Lập, xã Tân Trào, huyện Sơn Dương, tỉnh Tuyên Quang
+establishment: 1945
+category: Không rõ
+relatedCharacters: [Hoàng Như Loan, Hồ Chí Minh, Võ Nguyên Giáp]
+overview: Chiến khu Tân Trào là khu di tích lịch sử của cách mạng Việt Nam thời kỳ Cách mạng tháng Tám. Hiện nay, nơi đây đã được thủ tướng chính phủ Việt Nam đưa vào danh sách xếp hạng 23 di tích quốc gia đặc biệt. Tân Trào là thủ đô lâm thời của khu giải phóng, nơi Ðảng Cộng sản Việt Nam tiến hành hội nghị toàn quốc ngày 13 tháng 8 năm 1945 để quyết định tổng khởi nghĩa. Ðại hội quốc dân đã họp tại đây ngày 16 tháng 8 năm 1945, thông qua 10 chính sách lớn của Việt Minh, bầu ra một chính phủ lâm thời do Hồ Chí Minh làm chủ tịch và quân giải phóng Việt Nam làm lễ ra quân.Tân Trào là tên mới, được hợp nhất từ hai xã Tân Lập và Hồng Thái vào năm 1945 (trước đây còn gọi là Kim Long và Kim Châu).
+=========================================================================================
+historicalSiteName: chùa Phổ Minh
+aliases: []
+location: thôn Tức Mạc, thành phố Nam Định
+establishment: 1061
+category: Không rõ
+relatedCharacters: [Trần Nhân Tông]
+overview: Chùa Phổ Minh (Phổ Minh tự 普明寺) hay chùa Tháp là một ngôi chùa ở thôn Tức Mạc, nằm cách thành phố Nam Định khoảng 5 km về phía bắc. Năm 2012, di tích lịch sử và kiến trúc nghệ thuật đền Trần và chùa Phổ Minh được xếp hạng di tích quốc gia đặc biệt.Theo biên niên sử, chùa được xây dựng vào năm 1262, ở phía tây cung Trùng Quang của các vua nhà Trần. Nhưng theo các minh văn trên bia, trên chuông thì ngôi chùa này đã có từ thời nhà Lý. Có thể chùa đã được xây dựng lại với quy mô rộng lớn từ năm 1262. Tuy đã nhiều lần tu bổ nhưng chùa vẫn còn giữ được nhiều dấu tích nghệ thuật đời Trần.
+=========================================================================================
+historicalSiteName: chùa Thầy
+aliases: [núi Phật Tích]
+location: Sài Sơn, huyện Quốc Oai, Hà Nội
+establishment: Chùa được xây dựng từ thời nhà Lý
+category: Không rõ
+relatedCharacters: [Lý Nhân Tông, Lê Trung Hưng, Trần Dụ Tông, Phan Huy Chú, Phan Huy Ích, Lý Thần Tông, Nguyễn Thượng Hiền, Đỗ Cảnh Thạc, Trần Hưng Đạo, Phùng Khắc Khoan, Thiền sư Từ Đạo Hạnh, Lê Thần Tông, Trần Tuấn Khải, Đặng Thị Huệ, Nguyễn Trực, Trịnh Sâm]
+overview: Chùa Thầy là một ngôi chùa ở chân núi Sài Sơn, huyện Quốc Oai, tỉnh Hà Tây cũ, nay là xã Sài Sơn, huyện Quốc Oai, Hà Nội, cách trung tâm Hà Nội khoảng 20 km về phía Tây nam, đi theo đường cao tốc Láng - Hòa Lạc. Sài Sơn có tên Nôm là núi Thầy, nên chùa được gọi là chùa Thầy. Chùa được xây dựng từ thời nhà Đinh. Đây từng là nơi tu hành của Thiền sư Từ Đạo Hạnh, lúc này núi Thầy còn gọi là núi Phật Tích.Cùng với chùa Tây Phương và Chùa Hương, Chùa Thầy là một trong những ngôi chùa nổi tiếng nhất Hà Nội. Nếu như Chùa Láng gắn liền với giai đoạn đầu của cuộc đời Từ Đạo Hạnh, thì chùa Thầy lại chứng kiến quãng đời sau cùng cho đến ngày thoát xác của vị sư thế hệ thứ 12 thuộc dòng Thiền Ti-ni-đa-lưu-chi này.
+=========================================================================================
+historicalSiteName: Cố đô Hoa Lư
+aliases: []
+location: Nằm trên địa bàn giáp ranh giới 2 huyện Hoa Lư, Gia Viễn và thành phố Ninh Bình của tỉnh Ninh Bình, kinh đô Hoa Lư xưa (tức khu di tích Cố đô Hoa Lư hiện nay) là vùng đất phù sa cổ ven chân núi có con người cư trú từ rất sớm.
+establishment: Năm 1010 vua Lý Thái Tổ dời kinh đô từ Hoa Lư (Ninh Bình) về Thăng Long (Hà Nội), Hoa Lư trở thành Cố đô.
+category: Không rõ
+relatedCharacters: [Lê Long Tích, Đinh Hạng Lang, Thành Vương, Đinh Phế Đế, Ngô Xương Ngập, Dương Vân Nga, Trần Quốc Vượng, Lê Tương Dực, Phạm Cự Lượng, Ngô Xương Văn, Lê Đại Hành, Hoàng Long, Trần Thái Tông, Lý Thái Tông, Lý Thái Tổ, Lê Trung Tông, Trịnh Sâm, Đinh Tiên Hoàng, Dương Vương, Nguyễn Bặc, Lý Công Uẩn, Đinh Điền, Lê Thánh Tông, Ngô Nhật Khánh, Lê Long Thâu, Đinh Xuân Lâm, Đinh Công Trứ, Nguyễn Minh Không, Đinh Bộ Lĩnh, Đinh Liễn, Lý Long Bồ, Lê Thị Phất Ngân, Trần Đức Lương, Lê Hoàn]
+overview: Cố đô Hoa Lư là quần thể di tích quốc gia đặc biệt quan trọng của Việt Nam đồng thời là một trong 4 vùng lõi của quần thể di sản thế giới Tràng An đã được UNESCO công nhận. Hệ thống di tích ở Hoa Lư liên quan đến sự nghiệp của các nhân vật lịch sử thuộc ba triều đại nhà Đinh, nhà Tiền Lê và khởi đầu nhà Lý, tính từ Đinh Tiên Hoàng đến Lý Thái Tông trong lịch sử. Hoa Lư là kinh đô đầu tiên của nhà nước phong kiến Trung ương tập quyền ở Việt Nam với các dấu ấn lịch sử: thống nhất giang sơn, đánh Tống - dẹp Chiêm và phát tích quá trình định đô Hà Nội. Năm 1010 vua Lý Thái Tổ dời kinh đô từ Hoa Lư (Ninh Bình) về Thăng Long (Hà Nội), Hoa Lư trở thành Cố đô. Các triều vua Lý, Trần, Lê, Nguyễn sau đó dù không đóng đô ở Hoa Lư nữa nhưng vẫn cho tu bổ và xây dựng thêm ở đây nhiều công trình kiến trúc như đền, lăng, đình, chùa, phủ… Khu di tích lịch sử Cố đô Hoa Lư hiện nay có diện tích quy hoạch 13,87 km² thuộc tỉnh Ninh Bình. Với bề dày thời gian hơn 1000 năm, Cố đô Hoa Lư là nơi lưu trữ các di tích lịch sử qua nhiều thời đại.Nằm trên địa bàn giáp ranh giới 2 huyện Hoa Lư, Gia Viễn và thành phố Ninh Bình của tỉnh Ninh Bình, kinh đô Hoa Lư xưa (tức khu di tích Cố đô Hoa Lư hiện nay) là vùng đất phù sa cổ ven chân núi có con người cư trú từ rất sớm. Các nhà khảo cổ học đã phát hiện trầm tích có xương răng đười ươi và các động vật trên cạn thuộc sơ kỳ đồ đá cũ thuộc nền văn hóa Tràng An và nhiều hang động có di chỉ cư trú của con người các thời kỳ văn hoá Hoà Bình, Bắc Sơn, Đông Sơn và Đa Bút. Quần thể di sản thế giới Tràng An ở Hoa Lư còn lưu giữ nhiều di vật của người tiền sử từ 30.000 năm trước. Thời Hồng Bàng nơi đây thuộc bộ Quân Ninh. Thời An Dương Vương, vùng này thuộc bộ lạc Câu Lậu.
+=========================================================================================
+historicalSiteName: Dinh Độc Lập
+aliases: [Dinh Norodom, dinh Norodom, dinh Thống Nhất hay hội trường Thống Nhất]
+location: 135 Nam Kỳ khởi nghĩa, phường Bến Nghé, quận 1, Thành phố Hồ Chí Minh, Việt Nam
+establishment: 31 tháng 10 năm 1966
+category: Không rõ
+relatedCharacters: [Phan Văn Điển, Ngô Đình Diệm, Ngô Viết Thụ, Phạm Phú Quốc, Hồ Chí Minh, Nguyễn Thành Trung, Bùi Quang Thận, Nguyễn Văn Thiệu, Vũ Đăng Toàn, Lê Chánh]
+overview: Dinh Độc Lập (tên gọi trước đây là dinh Norodom, ngày nay còn gọi là dinh Thống Nhất hay hội trường Thống Nhất) là một công trình kiến trúc, tòa nhà ở Thành phố Hồ Chí Minh. Nó từng là nơi ở và làm việc của Tổng thống Việt Nam Cộng hòa. Hiện nay, nó đã được chính phủ Việt Nam xếp hạng là di tích quốc gia đặc biệt.Năm 1858, Pháp nổ súng tấn công Đà Nẵng mở đầu cuộc chiến tranh xâm chiếm Việt Nam. Năm 1867, Pháp chiếm xong lục tỉnh Nam kỳ (Biên Hoà, Gia Định, Định Tường, Vĩnh Long, An Giang, Hà Tiên). Ngày 23 tháng 2 năm 1868, ông Thống đốc Nam Kỳ Lagrandière đã làm lễ đặt viên đá đầu tiên khởi công xây dựng Dinh Thống đốc Nam Kỳ mới tại Sài Gòn thay cho dinh cũ được dựng bằng gỗ vào năm 1863. Dinh mới được xây dựng theo đồ án do kiến trúc sư Hermite phác thảo (người phác thảo đồ án Tòa thị sảnh Hongkong). Viên đá lịch sử này là khối đá lấy ở Biên Hòa, hình vuông rộng mỗi cạnh 50 cm, có lỗ bên trong chứa những đồng tiền hiện hành thuở ấy bằng vàng, bạc, đồng có chạm hình Napoleon đệ tam.
+=========================================================================================
+historicalSiteName: Đền Hùng
+aliases: []
+location: xã Hy Cương, thành phố Việt Trì, tỉnh Phú Thọ.
+establishment: xây dựng từ thời vua Đinh Tiên Hoàng trị vì.
+category: Không rõ
+relatedCharacters: [Đinh Tiên Hoàng, Kinh Dương Vương, Hồ Chí Minh, Lạc Long Quân]
+overview: Đền Hùng là tên gọi khái quát của Khu di tích lịch sử Đền Hùng - quần thể đền chùa thờ phụng các Vua Hùng và tôn thất của nhà vua trên núi Nghĩa Lĩnh, gắn với Giỗ Tổ Hùng Vương - Lễ hội Đền Hùng được tổ chức tại địa điểm đó hàng năm vào ngày 10 tháng 3 âm lịch. Hiện nay, theo các tài liệu khoa học đã công bố đa số đều thống nhất nền móng kiến trúc đền Hùng bắt đầu được xây dựng từ thời vua Đinh Tiên Hoàng trị vì. Đến thời Hậu Lê (thế kỷ 15) được xây dựng hoàn chỉnh theo quy mô như hiện tại.Đền Hùng được dựng trên núi Nghĩa Lĩnh, giữa đất Phong Châu, ngày nay là xã Hy Cương, thành phố Việt Trì, tỉnh Phú Thọ. Quần thể di tích đền Hùng nằm từ chân núi đến đỉnh ngọn núi Nghĩa Lĩnh cao 175 mét (núi có những tên gọi như Núi Cả, Nghĩa Lĩnh, Nghĩa Cương, Hy Cương, Hy Sơn, Bảo Thiếu Lĩnh, Bảo Thiếu Sơn), thuộc địa phận xã Hy Cương, thành phố Việt Trì, tỉnh Phú Thọ, trong khu rừng được bảo vệ nghiêm ngặt giáp giới với những xã thuộc huyện Lâm Thao, Phù Ninh và vùng ngoại ô thành phố Việt Trì, cách trung tâm thành phố Việt Trì khoảng 10 km. Khu vực đền Hùng ngày nay nằm trong địa phận của kinh đô Phong Châu của quốc gia Văn Lang xưa. Theo cuốn Ngọc phả Hùng Vương, đương thời các Vua Hùng đã cho xây dựng điện Kính Thiên tại khu vực núi Nghĩa Lĩnh này.
+=========================================================================================
+historicalSiteName: Đền Ngọc Sơn
+aliases: [chùa Ngọc Sơn ]
+location: quận Hoàn Kiếm, thành phố Hà Nội, Việt Nam
+establishment: thế kỷ 19
+category: Không rõ
+relatedCharacters: [Trần Hưng Đạo, Nguyễn Văn Siêu, Trần Quốc Tuấn, Tín Trai, Văn Xương Đế Quân, Lý Thái Tổ, Lê Chiêu Thống]
+overview: Đền Ngọc Sơn là một ngôi đền thờ nằm trên đảo Ngọc của hồ Hoàn Kiếm ở Hà Nội, Việt Nam. Đây cũng là một di tích quốc gia đặc biệt của Việt Nam được xếp hạng đợt 4.Đền hiện nay được xây dựng từ thế kỷ 19. Lúc đầu được gọi là chùa Ngọc Sơn (chữ Nho: 玉山), sau đổi gọi là đền Ngọc Sơn vì trong đền chỉ thờ thần Văn Xương Đế Quân là ngôi sao chủ việc văn chương khoa cử và thờ Trần Hưng Đạo, vị anh hùng có công phá quân Nguyên thế kỷ 13.
+=========================================================================================
+historicalSiteName: Đền Phù Đổng
+aliases: [đền Gióng thờ Thánh Gióng - Phù Đổng Thiên Vương, đền Thượng]
+location: xã Phù Đổng, huyện Gia Lâm, thành phố Hà Nội, Việt Nam
+establishment: Năm 1010 khi rời đô về Thăng Long, Lý Thái Tổ đã cho dựng đền, đến nay đã được trùng tu nhiều lần.
+category: Di tích lịch sử, kiến trúc
+relatedCharacters: [Phù Đổng Thiên Vương, Lý Thái Tổ]
+overview: Đền Phù Đổng hay còn gọi là đền Gióng thờ Thánh Gióng - Phù Đổng Thiên Vương, nằm ở xã Phù Đổng, Gia Lâm, ngoại thành Hà Nội.Đền Phù Đổng còn được gọi là đền Thượng, tương truyền được dựng trên nền nhà cũ của Thánh Gióng, bên trong đê sông Đuống, còn đền Hạ thờ mẹ của Thánh Gióng nằm ngoài đê, gần nơi được cho là có dấu chân khổng lồ mà bà đã ướm thử rồi sinh ra Thánh Gióng. Năm 1010 khi rời đô về Thăng Long, Lý Thái Tổ đã cho dựng đền, đến nay đã được trùng tu nhiều lần.
+=========================================================================================
+historicalSiteName: Đền Trần (Nam Định)
+aliases: []
+location: phường Lộc Vượng, thành phố Nam Định, tỉnh Nam Định, Việt Nam
+establishment: 1695
+category: Không rõ
+relatedCharacters: [Phạm Ngộ, Trần Hưng Đạo, Phạm Ngũ Lão, Trần Thừa, Hoàng thất nhà Trần, Nguyễn Chế Nghĩa, Trương Hán Siêu]
+overview: Đền Trần (陳廟 - Trần Miếu) là một quần thể đền thờ tại đường Trần Thừa, phường Lộc Vượng, thành phố Nam Định (sát quốc lộ 10), là nơi thờ các vua nhà Trần cùng các quan lại có công phù tá nhà Trần. Đền Trần được xây dựng từ năm 1695, trên nền Thái miếu cũ của nhà Trần đã bị quân Minh phá hủy vào thế kỷ 15.Đền Trần bao gồm 3 công trình kiến trúc chính là đền Thiên Trường (hay đền Thượng), đền Cố Trạch (hay đền Hạ) và đền Trùng Hoa. Trước khi vào đền, phải qua hệ thống cổng ngũ môn. Trên cổng ghi các chữ Hán Chính nam môn (正南門 - cổng chính phía nam) và Trần Miếu (陳廟 - Miếu thờ nhà Trần). Qua cổng là một hồ nước hình chữ nhật. Chính giữa phía sau hồ nước là khu đền Thiền Trường. Phía Tây đền Thiên Trường là đền Trùng Hoa, phía Đông là đền Cố Trạch.
+=========================================================================================
+historicalSiteName: Đền Trần (Thái Bình)
+aliases: [Thái Đường Lăng]
+location: làng Tam Đường, xã Tiến Đức, huyện Hưng Hà, tỉnh Thái Bình, Việt Nam
+establishment: Không rõ
+category: Không rõ
+relatedCharacters: [Trần Khánh Dư, Trần Hưng Đạo, Trần Quang Khải, Hoàng tộc nhà Trần, Trần Nhân Tông, Trần Lý, Trần Thừa, Hoàng thất nhà Trần, Trần Thánh Tông, Trần Nhật Duật, Trần Thái Tông, Trần Thủ Độ]
+overview: Đền Trần Thái Bình là một quần thể di tích gồm các đền thờ, lăng mộ thờ các vị vua quan nhà Trần. Đền thờ các vua Trần trên đất phát tích Thái Bình (còn gọi là Thái Đường Lăng) thuộc làng Tam Đường, xã Tiến Đức, huyện Hưng Hà. Hệ thống các di tích lịch sử ở đây gồm Khu lăng mộ và đền thờ các vị vua triều Trần đều đã được chính phủ Việt Nam xếp hạng di tích quốc gia đặc biệt quan trọng.Lịch sử Việt Nam ghi nhận vương triều nhà Trần có nhiều vị vua anh minh tuấn kiệt như Trần Thái Tông, Trần Thánh Tông, Trần Nhân Tông và rất nhiều tướng kiệt xuất như Trần Thủ Độ, Trần Hưng Đạo; Trần Quang Khải, Trần Nhật Duật, Trần Khánh Dư... Thái Bình là vùng đất phát tích của vương triều Trần, vì cách đây hơn 700 năm, tại đây các vị vua khai nghiệp nhà Trần được sinh ra, gia tộc nhà Trần dựa vào đây dấy nghiệp.
+=========================================================================================
+historicalSiteName: Hồ Hoàn Kiếm
+aliases: [Hồ Gươm , hồ Lục Thủy ]
+location: quận Hoàn Kiếm, Hà Nội
+establishment: năm 1886, hồ này được gọi là Hồ Hoàn Gươm - Lac de Hoan Guom), là một hồ nước ngọt tự nhiên của thành phố Hà Nội.
+category: Không rõ
+relatedCharacters: [Đinh Tiên Hoàng, Lê Thận, Lý Thường Kiệt, Võ An Ninh, Nguyễn Khuyến, Trần Hưng Đạo, Nguyễn Trãi, Lê Thái Tổ, Nguyễn Văn Siêu, Lê Lợi, Lê Trung, Trần Tuấn Khải, Trần Đăng Khoa, Lý Thái Tổ, Trịnh Sâm, Lê Chiêu Thống]
+overview: Hồ Hoàn Kiếm còn được gọi là Hồ Gươm (trong bản đồ Hà Nội năm 1886, hồ này được gọi là Hồ Hoàn Gươm - Lac de Hoan Guom), là một hồ nước ngọt tự nhiên của thành phố Hà Nội. Hồ có diện tích khoảng 12 ha . Trước kia, hồ còn có các tên gọi là hồ Lục Thủy (vì nước có màu xanh quanh năm), hồ Thủy Quân (dùng để duyệt thủy binh), hồ Tả Vọng và Hữu Vọng (trong thời Lê mạt). Tên gọi Hoàn Kiếm xuất hiện vào đầu thế kỷ 15 gắn với truyền thuyết vua Lê Lợi trả gươm báu cho Rùa thần. Tên hồ được lấy để đặt cho một quận trung tâm của Hà Nội (quận Hoàn Kiếm) và là hồ nước duy nhất của quận này cho đến ngày nay.Hồ Hoàn Kiếm có vị trí kết nối giữa khu phố cổ gồm các phố Hàng Ngang, Hàng Đào, Cầu Gỗ, Lương Văn Can, Lò Sũ... với khu phố Tây do người Pháp quy hoạch cách đây hơn một thế kỷ là Bảo Khánh, Nhà thờ, Tràng Thi, Hàng Bài, Đinh Tiên Hoàng, Tràng Tiền, Hàng Khay, Bà Triệu.
+=========================================================================================
+historicalSiteName: Khu di tích chiến thắng Điện Biên Phủ
+aliases: []
+location: Không rõ
+establishment: Không rõ
+category: Không rõ
+relatedCharacters: [Võ Nguyên Giáp, Hoàng Văn Thái]
+overview: Khu di tích chiến trường Ðiện Biên Phủ là một quần thể các di tích lịch sử ghi lại chiến công của quân và dân Việt Nam trong cuộc kháng chiến anh dũng chống thực dân Pháp xâm lược. Hiện nay, nơi đây đã được thủ tướng chính phủ Việt Nam đưa vào danh sách xếp hạng 23 di tích quốc gia đặc biệt.Các di tích nổi bật của chiến trường Ðiện Biên năm xưa là đồi A1, C1, C2, D1, cứ điểm Hồng Cúm, Him Lam, đồi Ðộc Lập, cầu và sân bay Mường Thanh, hầm chỉ huy của tướng Ðờ Catri.
+=========================================================================================
+historicalSiteName: Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch
+aliases: [Khu di tích Phủ Chủ tịch tại Hà Nội]
+location: phần đất phía tây bắc của Hoàng thành thuộc Kinh thành Thăng Long xưa.
+establishment: năm 1954 đến 2 tháng 9 năm 1969), được Bộ Văn hóa Thông tin ra Quyết định xếp hạng là Khu di tích ngày 15 tháng 5 năm 1975.
+category: Không rõ
+relatedCharacters: [Hồ Chí Minh, Nguyễn Sinh Sắc]
+overview: Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch, gọi tắt là Khu di tích Phủ Chủ tịch tại Hà Nội, là nơi sống và làm việc lâu nhất của Hồ Chí Minh (từ 19 tháng 12 năm 1954 đến 2 tháng 9 năm 1969), được Bộ Văn hóa Thông tin ra Quyết định xếp hạng là Khu di tích ngày 15 tháng 5 năm 1975. Hiện nay, nơi đây đã được thủ tướng chính phủ Việt Nam đưa vào danh sách xếp hạng 23 di tích quốc gia đặc biệt.Khu đất này nguyên là phần đất phía tây bắc của Hoàng thành thuộc Kinh thành Thăng Long xưa. Khi Pháp xâm lược Việt Nam, sau khi chiếm xong miền Bắc đã chọn Hà Nội làm trung tâm đầu não cho toàn bộ Đông Dương và Phủ toàn quyền Đông Dương được xây dựng trên mảnh đất này. Sau khi cuộc kháng chiến chống Pháp kết thúc, nơi này được chọn là nơi làm việc của Đảng Cộng sản Việt Nam và Nhà nước, đồng thời là nơi sống và làm việc của Chủ tịch Hồ Chí Minh. Nơi đây cũng là nơi Hồ Chí Minh đã qua đời.
+=========================================================================================
+historicalSiteName: Khu di tích Pác Bó
+aliases: []
+location: xã Trường Hà huyện Hà Quảng tỉnh Cao Bằng , cách thành phố Cao Bằng 55 km về phía Bắc.
+establishment: năm 1941, khi về nước, Hồ Chí Minh đã sống và làm việc trong hang Cốc Bó và đặt tên dòng suối trước cửa hang là "suối Lênin" và ngọn núi có hang này là "núi Các Mác".
+category: Không rõ
+relatedCharacters: [Hồ Chí Minh]
+overview: Khu di tích Pác Bó là một khu di tích lịch sử cách mạng quốc gia - đặc biệt của Việt Nam, thuộc bản Pác Bó xã Trường Hà huyện Hà Quảng tỉnh Cao Bằng , cách thành phố Cao Bằng 55 km về phía Bắc. Khu di tích bao gồm: nhà tưởng niệm Bác Hồ, hang Cốc Pó(tên địa phương có nghĩa là "đầu nguồn" ), hang Lũng Lạn, hang Ngườm Vài (đều trên núi Các Mác), suối Lê nin, bàn đá nơi Bác Hồ làm việc, nền nhà ông Lý Quốc Súng, nền nhà ông La Thành, v.v...Ngày 8 tháng 2 năm 1941, khi về nước, Hồ Chí Minh đã sống và làm việc trong hang Cốc Bó và đặt tên dòng suối trước cửa hang là "suối Lênin" và ngọn núi có hang này là "núi Các Mác". Trước năm 1979 hang Cốc Pó rộng khoảng 15m³, trước cửa hang có một con suối lớn chảy ngầm từ trong núi đá ra, nguồn của con suối là bên phía Bắc của ngọn núi này và thuộc lãnh thổ Trung Quốc. Trong chiến tranh biên giới Việt-Trung năm 1979, quân Trung Quốc đã cho nổ mìn phá hoại hang Cốc Pó . Ngày nay, hang Cốc Pó được khôi phục một phần để phục vụ khách tham quan du lịch.
+=========================================================================================
+historicalSiteName: Khu lăng mộ và đền thờ các vị vua triều Lý
+aliases: [đền Cổ Pháp, Đền Đô hoặc Cổ Pháp điện]
+location: khu Phố Thượng, phường Đình Bảng, thị xã Từ Sơn, tỉnh Bắc Ninh, Việt Nam
+establishment: 3 tháng 3, 1030
+category: Không rõ
+relatedCharacters: [Lý Nhân Tông, Lý Thường Kiệt, Lý Công Uẩn, Lê Phụng Hiểu, Lý Anh Tông, Lý Thánh Tông, Lý Thần Tông, Lý Chiêu Hoàng, Lê Kính Tông, Lý Đạo Thành, Lý Huệ Tông, Lý Thái Tông, Lý Thái Tổ, Lý Cao Tông, Tám vua nhà Lý]
+overview: Đền Lý Bát Đế, còn gọi là Đền Đô hoặc Cổ Pháp điện là một quần thể kiến trúc tín ngưỡng thờ tám vị vua đầu tiên của nhà Lý. Đền Lý Bát Đế đã được Nhà nước Việt Nam công nhận là di tích lịch sử - văn hóa theo Quyết định số 154 của Bộ Văn hóa - Thông tin (nay là Bộ Văn hóa, Thể thao và Du lịch) ngày 25 tháng 1 năm 1991. Năm 2014, nơi đây cùng với khu lăng mộ các Vua nhà Lý đã được xếp hạng di tích quốc gia đặc biệt.Đền Lý Bát Đế thuộc Khu Phố Thượng, phường Đình Bảng, thị xã Từ Sơn, tỉnh Bắc Ninh. Đền nằm cách thủ đô Hà Nội gần 15 km về phía Bắc, thuộc địa phận hương Cổ Pháp, châu Cổ Pháp (làng Đình Bảng, Từ Sơn, Bắc Ninh) nên còn gọi là đền Cổ Pháp.
+=========================================================================================
+historicalSiteName: Khu lưu niệm Chủ tịch Tôn Đức Thắng
+aliases: [Bác Tôn]
+location: xã Mỹ Hòa Hưng, thành phố Long Xuyên, tỉnh An Giang.
+establishment: năm 2012, công bố ngày 17 tháng 7 năm 2012).
+category: Không rõ
+relatedCharacters: [Hồ Chí Minh, Tôn Đức Thắng]
+overview: Khu lưu niệm Chủ tịch Tôn Đức Thắng tọa lạc trên cù lao Ông Hổ, thuộc xã Mỹ Hòa Hưng, thành phố Long Xuyên, tỉnh An Giang. Đây là một trong số 23 di tích Việt Nam đã được xếp hạng di tích quốc gia đặc biệt (ký ngày 10 tháng 5 năm 2012, công bố ngày 17 tháng 7 năm 2012).Khu lưu niệm bao gồm ngôi nhà thời niên thiếu của Chủ tịch Tôn Đức Thắng (gọi tắt là Bác Tôn, 1888 - 1980), đền thờ và nhà trưng bày về cuộc đời và sự nghiệp của ông.
+=========================================================================================
+historicalSiteName: Quần thể di tích Cố đô Huế
+aliases: []
+location: trên địa bàn kinh đô Huế xưa; nay thuộc phạm vi thành phố Huế và một vài vùng phụ cận thuộc tỉnh Thừa Thiên-Huế, Việt Nam.
+establishment: 1993 (kì thứ 17)
+category: Văn hóa
+relatedCharacters: [Hoàng Thái Hậu, Phan Đình Phùng, Lê Trực, Nguyễn Hoàng, Nguyễn Phúc Côn, Nguyễn Kim, Thành Thái, Nguyễn Phúc Luân, Nguyễn Phúc Thuần, Nguyễn Thị Hoàn]
+overview: Quần thể di tích Cố đô Huế hay Quần thể di tích Huế là những di tích lịch sử - văn hoá do triều Nguyễn chủ trương xây dựng trong khoảng thời gian từ đầu thế kỷ 19 đến nửa đầu thế kỷ 20 trên địa bàn kinh đô Huế xưa; nay thuộc phạm vi thành phố Huế và một vài vùng phụ cận thuộc tỉnh Thừa Thiên-Huế, Việt Nam. Phần lớn các di tích này nay thuộc sự quản lý của Trung tâm Bảo tồn Di tích Cố đô Huế và được UNESCO công nhận là Di sản Văn hoá Thế giới vào ngày 11 tháng 12 năm 1993. Hiện tại, cố đô Huế đã được thủ tướng chính phủ Việt Nam đưa vào danh sách xếp hạng 62 di tích quốc gia đặc biệt quan trọng. Quần thể di tích Cố đô Huế có thể phân chia thành các cụm công trình gồm các cụm công trình ngoài Kinh thành Huế và trong kinh thành Huế.Kinh thành Huế được vua Gia Long tiến hành khảo sát từ năm 1803, khởi công xây dựng từ 1805 và hoàn chỉnh vào năm 1832 dưới triều vua Minh Mạng.
+=========================================================================================
+historicalSiteName: Quần thể di tích danh thắng Yên Tử
+aliases: []
+location: nằm ở khu vực giáp ranh giữa 3 tỉnh Bắc Giang, Hải Dương và Quảng Ninh, bao gồm 5 khu vực: Khu di tích và danh thắng Đông Yên Tử (TP Uông Bí, Quảng Ninh), Khu di tích lịch sử nhà Trần (Đông Triều, Quảng Ninh), Khu di tích và danh thắng Tây Yên Tử (nằm trên các huyện Yên Dũng, Lục Nam, Lục Ngạn, Sơn Động tỉnh Bắc Giang) , Khu di tích Côn Sơn - Kiếp Bạc – Thanh Mai (Chí Linh, tỉnh Hải Dương).
+establishment: Không rõ
+category: Không rõ
+relatedCharacters: [Trần Thánh Tông, Trần Dụ Tông, Trần Đệ, Vũ Đức Đam, Hoàng Hoa Thám, Trần Quốc Tảng, Trần Thuận Tông, Trần Nghệ Tông, Trần Hưng Đạo, Trần Cảnh, Phạm Ngũ Lão, Hồ Quý Ly, Trần Liễu, Lê Lợi, Trương Hống, Trần Thái Tông, Trần Hiến Tông, Trần Nguyên Đán, Trương Hát, Trần Giản Hoàng, Trần An, Trần Minh Tông, Nguyễn Trãi, Trần Nhân Tông, Trần Quốc Tuấn, Trần Duệ Tông, Trần Khâm]
+overview: Quần thể di tích và danh thắng Yên Tử bao gồm một hệ thống các di tích lịch sử văn hóa gắn liền với sự ra đời, hình thành và phát triển của thiền phái Trúc Lâm ở Việt Nam. Các di tích này nằm ở khu vực giáp ranh giữa 3 tỉnh Bắc Giang, Hải Dương và Quảng Ninh, bao gồm 5 khu vực: Khu di tích và danh thắng Đông Yên Tử (TP Uông Bí, Quảng Ninh), Khu di tích lịch sử nhà Trần (Đông Triều, Quảng Ninh), Khu di tích và danh thắng Tây Yên Tử (nằm trên các huyện Yên Dũng, Lục Nam, Lục Ngạn, Sơn Động tỉnh Bắc Giang) , Khu di tích Côn Sơn - Kiếp Bạc – Thanh Mai (Chí Linh, tỉnh Hải Dương).Hiện nay, Bộ Văn hóa, Thể thao và Du lịch (Việt Nam) đang triển khai việc phối hợp với UBND các tỉnh Bắc Giang, Hải Dương và Quảng Ninh lập hồ sơ di tích - danh thắng Yên Tử đệ trình Tổ chức Giáo dục, Khoa học và Văn hóa của Liên hiệp quốc UNESCO xem xét, công nhận là Di sản thế giới. Đây có thể là di sản thế giới liên tỉnh đầu tiên ở Việt Nam.
+=========================================================================================
+historicalSiteName: thành Cổ Loa
+aliases: []
+location: xã Cổ Loa, huyện Đông Anh, Hà Nội.
+establishment: dưới thời An Dương Vương vào khoảng thế kỷ thứ 3 trước Công nguyên và của nhà nước phong kiến dưới thời Ngô Quyền thế kỷ 10 sau Công nguyên.
+category: Không rõ
+relatedCharacters: [Ngô Quyền, Dương Vương]
+overview: Cổ Loa là kinh đô của nhà nước Âu Lạc, dưới thời An Dương Vương vào khoảng thế kỷ thứ 3 trước Công nguyên và của nhà nước phong kiến dưới thời Ngô Quyền thế kỷ 10 sau Công nguyên.Hiện nay, di tích Cổ Loa thuộc xã Cổ Loa, huyện Đông Anh, Hà Nội.
+=========================================================================================
+historicalSiteName: Thành cổ Quảng Trị
+aliases: [Cổ thành Quảng Trị]
+location: Quảng Trị
+establishment: 1809
+category: Không rõ
+relatedCharacters: [Triệu Phong]
+overview: Tọa độ: 16°45′06″B 107°11′12″Đ / 16,751672°B 107,186772°ĐThành cổ Quảng Trị hoặc Cổ thành Quảng Trị là một Di tích quốc gia đặc biệt của Việt Nam được xếp hạng đợt 4, tọa lạc ở trung tâm thị xã Quảng Trị, tỉnh Quảng Trị,.
+=========================================================================================
+historicalSiteName: Thành nhà Hồ
+aliases: [thành Tây Đô]
+location: nằm trên địa phận nay thuộc tỉnh Thanh Hóa.
+establishment: 2011 (kì thứ 35)
+category: Văn hóa
+relatedCharacters: [Lê Kính Tông, Hồ Quý Ly, Trần Khát Chân, Lê Thánh Tông, Thành Thái, Lê Hiến Tông, Trịnh Sâm]
+overview: Tọa độ: 20°4′40″B 105°36′17″Đ / 20,07778°B 105,60472°ĐThành nhà Hồ (hay còn gọi là thành Tây Đô, thành An Tôn, thành Tây Kinh hay thành Tây Giai) là kinh đô nước Đại Ngu (quốc hiệu Việt Nam thời nhà Hồ), nằm trên địa phận nay thuộc tỉnh Thanh Hóa. Đây là tòa thành kiên cố với kiến trúc độc đáo bằng đá có quy mô lớn hiếm hoi ở Việt Nam, có giá trị và độc đáo nhất, duy nhất còn lại ở Đông Nam Á và là một trong rất ít những thành lũy bằng đá còn lại trên thế giới . Thành được xây dựng trong thời gian ngắn, chỉ khoảng 3 tháng (từ tháng Giêng đến tháng 3 năm 1397) và cho đến nay, dù đã tồn tại hơn 6 thế kỷ nhưng một số đoạn của tòa thành này còn lại tương đối nguyên vẹn.
+=========================================================================================
+historicalSiteName: Văn Miếu - Quốc Tử Giám
+aliases: []
+location: nằm ở phía Nam kinh thành Thăng Long.
+establishment: năm 1070 tức năm Thần Vũ thứ hai đời Lý Thánh Tông (Đại Việt sử ký toàn thư.
+category: Không rõ
+relatedCharacters: [Nguyễn Thái Học, Lê Quý Đôn, Lý Nhân Tông, Lê Thánh Tông, Lý Anh Tông, Thành Thái, Lý Thánh Tông, Nguyễn Văn Lang, Trần Văn Giáp, Nguyễn Huệ, Trần Minh Tông, Trần Nghệ Tông, Lê Tương Dực, Trần Trọng Kim, Lý Càn Đức, Phạm Công Trứ, Nguyễn Văn Thành, Trần Thái Tông, Hoàng Phúc, Tôn Đức Thắng]
+overview: Văn Miếu - Quốc Tử Giám (chữ Hán:文廟 - 國子監) là quần thể di tích đa dạng và phong phú hàng đầu của thành phố Hà Nội, nằm ở phía Nam kinh thành Thăng Long. Hiện nay, nơi đây đã được thủ tướng chính phủ Việt Nam đưa vào danh sách xếp hạng 23 di tích quốc gia đặc biệt. Quần thể kiến trúc Văn Miếu - Quốc Tử Giám bao gồm: hồ Văn, khu Văn Miếu - Quốc Tử Giám và vườn Giám và kiến trúc chủ thể là Văn Miếu - nơi thờ Khổng Tử và Quốc Tử Giám - trường đại học đầu tiên của Việt Nam. Khu Văn Miếu - Quốc Tử Giám có tường gạch vồ bao quanh, phía trong chia thành 5 lớp không gian với các kiến trúc khác nhau. Mỗi lớp không gian đó được giới hạn bởi các tường gạch có 3 cửa để thông với nhau (gồm cửa chính giữa và hai cửa phụ hai bên). Từ ngoài vào trong có các cổng lần lượt là: cổng Văn Miếu, Đại Trung, Đại Thành và cổng Thái Học. Với hơn 700 năm hoạt động đã đào tạo hàng nghìn nhân tài cho đất nước. Ngày nay, Văn Miếu Quốc Tử Giám là nơi tham quan của du khách trong và ngoài nước đồng thời cũng là nơi khen tặng cho học sinh xuất sắc và còn là nơi tổ chức hội thơ hàng năm vào ngày rằm tháng giêng. Đây từng là nơi các sĩ tử đến "cầu may" trước mỗi kỳ thi bằng cách vuốt đầu rùa tại các bia tiến sĩ, tuy nhiên, ngày nay, để bảo tồn di tích, một hàng rào được thiết lập và các sĩ tử không còn làm nghi thức cầu may như trước nữa.Nơi này là nơi trên tờ tiền polymer 100.000 VND của Việt NamVăn Miếu được xây dựng từ năm 1070 tức năm Thần Vũ thứ hai đời Lý Thánh Tông (Đại Việt sử ký toàn thư. Nhà xuất bản. Khoa học xã hội, Hà Nội, tập 1, tr.234) chép: "Mùa thu tháng 8, làm Văn Miếu, đắp tượng, Khổng Tử, Chu Công và Tứ phối, vẽ tượng Thất thập nhị hiền, bốn mùa cúng tế. Hoàng thái tử đến đấy học.". Như vậy Văn miếu ngoài chức năng thờ các bậc Tiên thánh, Tiên sư của đạo Nho, còn mang chức năng của một trường học Hoàng gia mà học trò đầu tiên là Thái tử Lý Càn Đức, con trai vua Lý Thánh Tông với Nguyên phi Ỷ Lan, lúc đó mới 5 tuổi, đến năm 1072 tức là năm 8 tuổi lên ngôi trở thành vua Lý Nhân Tông
+=========================================================================================

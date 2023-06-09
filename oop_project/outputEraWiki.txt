@@ -1,0 +1,200 @@
+eraName: Hồng Bàng
+time: Không rõ
+overview: Hồng Bàng thị (chữ Hán: 鴻龐氏) hay Thời đại Hồng Bàng là một giai đoạn lịch sử thuộc thời đại thượng cổ của lịch sử Việt Nam.
+founder: Lộc Tục, tức Kinh Dương Vương
+capital: Hùng Vương thứ nhất định đô ở Phong Châu (nay là huyện Bạch Hạc, tỉnh Phú Thọ)
+aliases: [Hồng Bàng thị]
+relatedCharacters: [Kinh Dương Vương, Lạc Long Quân, Hùng Vương thứ nhất, Hùng Vương thứ hai, Hùng Vương thứ ba, Hùng Vương thứ tư, Hùng Vương thứ năm, Hùng Vương thứ sáu, Hùng Vương thứ bảy, Hùng Vương thứ tám, Hùng Vương thứ chín, Hùng Vương thứ mười, Hùng Vương thứ 11, Hùng Vương thứ 12, Hùng Vương thứ 13, Hùng Vương thứ 14, Hùng Vương thứ 15, Hùng Vương thứ 16, Hùng Vương thứ 17, Hùng Vương thứ 18, Hùng Vương thứ 19]
+===========================================================================
+eraName: Nhà Thục
+time: 257–208 TCN, hoặc 207–179 TCN
+overview: Không rõ
+founder: Thục Phán, tức An Dương Vương
+capital: Phong Khê (nay là thành Cổ Loa, huyện Đông Anh, Hà Nội)
+aliases: []
+relatedCharacters: [An Dương Vương]
+===========================================================================
+eraName: Nhà Triệu
+time: 204–111 TCN
+overview: Nhà Triệu (chữ Hán: 趙朝; bính âm: Zhào cháo; Hán Việt: Triệu triều) là triều đại duy nhất cai trị nước Nam Việt (ngày nay gồm 1 phần của Miền Nam Trung Quốc và Miền Bắc Việt Nam) suốt giai đoạn 204–111 trước Công nguyên.
+founder: Triệu Đà, tức Triệu Vũ Đế
+capital: Cung điện Phiên Ngung (thành phố Quảng Châu, tỉnh Quảng Đông, Trung Quốc)
+aliases: []
+relatedCharacters: [Triệu Vũ Vương, Triệu Văn Vương, Triệu Minh Vương, Triệu Ai Vương, Triệu Dương Vương]
+===========================================================================
+eraName: Trưng Nữ Vương
+time: 40–43
+overview: Không rõ
+founder: Trưng Trắc, tức Trưng Nữ Vương
+capital: Huyện Mê Linh, Hà Nội
+aliases: [Họ Trưng]
+relatedCharacters: [Trưng Vương]
+===========================================================================
+eraName: Nhà Tiền Lý và Triệu Việt Vương
+time: 544–603
+overview: Nhà Tiền Lý (chữ Nôm: 茹前李, chữ Hán: 前李朝, Hán Việt: Tiền Lý triều, 544 – 602) là một triều đại trong lịch sử Việt Nam, gắn liền với quốc hiệu Vạn Xuân. Nhà Tiền Lý kéo dài 61 năm và nước Vạn Xuân kéo dài 58 năm, tổng cộng ba đời vua, trong đó có hai vua họ Lý và một vua họ Triệu cũng được tính gộp vào nhà Tiền Lý, tương tự như Dương Tam Kha trong nhà Ngô sau đó.
+founder: Lý Bí, tức Lý Nam Đế
+capital: Long Uyên (nay thuộc quận Long Biên, Hà Nội hoặc Bắc Ninh)
+aliases: [Nhà Tiền Lý]
+relatedCharacters: [Lý Nam Đế, Triệu Việt Vương, Đào Lang Vương, Hậu Lý Nam Đế, Lý Sư Lợi]
+===========================================================================
+eraName: Họ Mai
+time: 713–723
+overview: Không rõ
+founder: Mai Thúc Loan, tức Mai Hắc Đế
+capital: Vạn An (nay thuộc huyện Nam Đàn, Nghệ An)
+aliases: []
+relatedCharacters: [Mai Hắc Đế, Mai Thiếu Đế, Bạch Đầu Đế]
+===========================================================================
+eraName: Họ Phùng
+time: 766–791
+overview: Không rõ
+founder: Phùng Hưng, tức Bố Cái Đại Vương
+capital: Tống Bình (nay thuộc Hà Nội)
+aliases: []
+relatedCharacters: [Phùng Hưng, Phùng An]
+===========================================================================
+eraName: Họ Khúc
+time: 905–923 hoặc 905–930
+overview: Họ Khúc là dòng họ nắm quyền cai trị Việt Nam đầu thế kỷ X, mở đầu Thời kỳ tự chủ Việt Nam sau hơn 1000 năm Bắc thuộc. Họ Khúc truyền nối làm chức Tiết độ sứ gồm 3 đời: Khúc Thừa Dụ, Khúc Hạo, Khúc Thừa Mỹ, cai trị từ năm 905 tới năm 923 hoặc 930.
+founder: Khúc Thừa Dụ, tức Khúc Tiên Chủ
+capital: Đại La (nay thuộc Hà Nội)
+aliases: []
+relatedCharacters: [Khúc Tiên Chủ, Khúc Trung Chủ, Khúc Hậu Chủ]
+===========================================================================
+eraName: Họ Dương
+time: 931–937
+overview: Không rõ
+founder: Dương Đình Nghệ, tức Dương Chính Công (giai đoạn tự chủ) Dương Tam Kha, tức Dương Bình Vương (xen giữa Tiền Ngô Vương và Hậu Ngô Vương)
+capital: Dương Đình Nghệ đóng đô ở Đại La (nay thuộc Hà Nội) còn Dương Tam Kha đóng đô ở thành Cổ Loa (huyện Đông Anh, Hà Nội)
+aliases: []
+relatedCharacters: [Dương Chính Công]
+===========================================================================
+eraName: Họ Kiều
+time: 937–938
+overview: Không rõ
+founder: Kiều Công Tiễn
+capital: Đại La (nay thuộc Hà Nội)
+aliases: []
+relatedCharacters: [Kiều Công Tiễn]
+===========================================================================
+eraName: Nhà Ngô và Dương Tam Kha
+time: 939–966
+overview: Nhà Ngô (chữ Nôm: 茹吳, chữ Hán: 吳朝, Hán Việt: Ngô triều) là một triều đại quân chủ trong lịch sử Việt Nam, truyền được hai đời nhưng có tới ba vị vua, kéo dài từ năm 939 đến năm 965. Khoảng thời gian xen giữa từ 944 đến 950 còn có Dương Bình Vương tức Dương Tam Kha. Khác với các triều đại quân chủ Việt Nam sau này, các vua nhà Ngô vẫn xưng tước vương mà chưa xưng đế hiệu trên phạm vi toàn lãnh thổ do họ cai trị.
+founder: Ngô Quyền, tức Tiền Ngô Vương
+capital: Cổ Loa (huyện Đông Anh, Hà Nội)
+aliases: [Nhà Ngô]
+relatedCharacters: [Tiền Ngô Vương, Dương Bình Vương, Thiên Sách Vương, Nam Tấn Vương, Ngô Sứ Quân]
+===========================================================================
+eraName: Nhà Đinh
+time: 968–980
+overview: Nhà Đinh (chữ Nôm: 茹丁, chữ Hán: 丁朝, Hán Việt: Đinh triều) là triều đại quân chủ phong kiến trong lịch sử Việt Nam bắt đầu năm 968, sau khi Đinh Tiên Hoàng dẹp xong loạn 12 sứ quân thống nhất đất nước và kết thúc năm 980 khi con của Đinh Tiên Hoàng là Đinh Phế Đế nhường ngôi cho Lê Hoàn.
+founder: Đinh Bộ Lĩnh, tức Đinh Tiên Hoàng
+capital: Hoa Lư (nay thuộc tỉnh Ninh Bình)
+aliases: []
+relatedCharacters: [Đinh Tiên Hoàng, Đinh Phế Đế]
+===========================================================================
+eraName: Nhà Tiền Lê
+time: 980–1009
+overview: Nhà Lê (chữ Nôm: 茹黎, chữ Hán: 黎朝, Hán Việt: Lê triều), hay còn được gọi là nhà Tiền Lê (chữ Nôm: 家前黎, Chữ Hán: 前黎朝, Hán Việt: Tiền Lê triều)[2] là một triều đại quân chủ trong lịch sử Việt Nam, bắt đầu khi Đinh Phế Đế nhường ngôi cho Lê Hoàn vào năm 980, trải qua ba đời quân chủ và chấm dứt khi Lê Long Đĩnh qua đời. Quốc hiệu vẫn là Đại Cồ Việt.
+founder: Lê Hoàn, tức Lê Đại Hành
+capital: Hoa Lư (nay thuộc tỉnh Ninh Bình)
+aliases: []
+relatedCharacters: [Lê Đại Hành, Lê Trung Tông, Lê Ngọa Triều]
+===========================================================================
+eraName: Nhà Lý
+time: 1009–1225
+overview: Nhà Lý (chữ Nôm: 茹李, chữ Hán: 李朝, Hán Việt: Lý triều), đôi khi gọi là nhà Hậu Lý (để phân biệt với triều đại Tiền Lý do Lý Bí thành lập) là một triều đại trong nền quân chủ Việt Nam. Triều đại này bắt đầu khi Lý Công Uẩn lên ngôi vào tháng 10 âm lịch năm 1009 sau khi giành được quyền lực từ tay nhà Tiền Lê. Triều đại này trải qua 9 vị hoàng đế và chấm dứt khi Lý Chiêu Hoàng, lúc đó mới có 7 tuổi, bị ép thoái vị để nhường ngôi cho chồng là Trần Cảnh vào năm 1225 – tổng cộng là 216 năm.
+founder: Lý Công Uẩn, tức Lý Thái Tổ
+capital: Thăng Long (Hà Nội)
+aliases: []
+relatedCharacters: [Lý Thái Tổ, Lý Thái Tông, Lý Thánh Tông, Lý Nhân Tông, Lý Thần Tông, Lý Anh Tông, Lý Cao Tông, Lý Thẩm, Lý Huệ Tông, Lý Nguyên Vương, Lý Chiêu Hoàng]
+===========================================================================
+eraName: Nhà Trần
+time: 1225–1400
+overview: Nhà Trần (chữ Nôm: 茹陳, chữ Hán: 陳朝, Hán Việt: Trần triều) là một triều đại quân chủ cai trị nước Đại Việt từ năm 1226 đến năm 1400. Đây là triều đại được lưu danh với những chiến công hiển hách trong lịch sử Việt Nam. Triều đại này khởi đầu khi Trần Cảnh lên ngôi vào năm 1226 sau khi được vợ là Lý Chiêu Hoàng truyền ngôi. Những năm đầu tiên, Trần Cảnh còn nhỏ tuổi, toàn bộ quyền hành của nhà Trần đều do một tông thất vai chú của Trần Cảnh là Trần Thủ Độ nắm quyền, chính Trần Thủ Độ đã âm thầm ép Lý Chiêu Hoàng nhường ngôi cho cháu mình.
+founder: Trần Thủ Độ (người sáng lập thực tế) Trần Cảnh, tức Trần Thái Tông (hoàng đế đầu tiên)
+capital: Thăng Long (Hà Nội)
+aliases: []
+relatedCharacters: [Trần Thái Tông, Trần Thánh Tông, Trần Nhân Tông, Trần Anh Tông, Trần Minh Tông, Trần Hiến Tông, Trần Dụ Tông, Đại Định Đế, Trần Nghệ Tông, Trần Duệ Tông, Trần Phế Đế, Trần Thuận Tông, Trần Thiếu Đế]
+===========================================================================
+eraName: Nhà Hồ
+time: 1400–1407
+overview: Nhà Hồ (chữ Nôm: 茹胡, chữ Hán: 胡朝, Hán Việt: Hồ triều) là một triều đại quân chủ trong lịch sử Việt Nam, bắt đầu khi Hồ Quý Ly lên ngôi năm 1400 sau khi giành được quyền lực từ tay nhà Trần và chấm dứt khi Hồ Hán Thương bị quân Minh bắt vào năm 1407 – tổng cộng là 7 năm. Quốc hiệu Đại Việt đã đổi thành Đại Ngu năm 1400.
+founder: Hồ Quý Ly
+capital: Tây Đô (huyện Vĩnh Lộc, Thanh Hoá)
+aliases: []
+relatedCharacters: [Hồ Quý Ly, Hồ Hán Thương]
+===========================================================================
+eraName: Nhà Hậu Trần
+time: 1407–1414
+overview: Hậu Trần (chữ Nôm: 茹後陳, chữ Hán: 後陳朝, Hán Việt: Hậu Trần triều) là một triều đại trong lịch sử Việt Nam từ 1407 đến 1414 mà các sách sử vẫn chưa thống nhất cách gọi. Sách Đại Việt sử ký toàn thư thì gọi là nhà Hậu Trần, còn Khâm định Việt sử Thông giám cương mục thì hoàn toàn không nhắc đến cụm từ này mà chỉ thuật lại sự việc trong những năm tháng ấy. Ở đây, viết theo sách Đại Việt sử ký toàn thư nên gọi là nhà Hậu Trần.
+founder: Trần Ngỗi, tức Giản Định Đế
+capital: Mô Độ (huyện Yên Mô - Ninh Bình
+aliases: []
+relatedCharacters: [Trần Nguyệt Hồ, Giản Định Đế, Trùng Quang Đế]
+===========================================================================
+eraName: Khởi nghĩa Lam Sơn
+time: 1418–1427
+overview: Không rõ
+founder: Không rõ
+capital: Không rõ
+aliases: []
+relatedCharacters: [Trần Cảo]
+===========================================================================
+eraName: Nhà Hậu Lê – giai đoạn Lê sơ
+time: 1428–1527
+overview: Nhà Hậu Lê (chữ Nôm: 茹後黎, chữ Hán: 後黎朝, Hán Việt: Hậu Lê triều; (1428-1789) là một triều đại phong kiến Việt Nam tồn tại sau thời Bắc thuộc lần 4 và đồng thời với nhà Mạc, nhà Tây Sơn trong một thời gian, trước Nhà Nguyễn
+founder: Lê Lợi, tức Lê Thái Tổ (giai đoạn Lê sơ) Lê Duy Ninh, tức Lê Trang Tông (giai đoạn Lê Trung hưng)
+capital: Đông Kinh (Hà Nội)
+aliases: [Nhà Hậu Lê]
+relatedCharacters: [Lê Thái Tổ, Lê Thái Tông, Lê Nhân Tông, Lạng Sơn Vương, Lê Thánh Tông, Lê Hiến Tông, Lê Túc Tông, Lê Uy Mục, Lê Tương Dực, Lê Quang Trị, Lê Chiêu Tông, Lê Bảng, Lê Do, Lê Cung Hoàng]
+===========================================================================
+eraName: Bắc triều – Nhà Mạc và thời kỳ Cao Bằng 
+time: 1527–1592 và 1592-1683
+overview: Nhà Mạc (chữ Hán: 莫朝 / Mạc triều) là triều đại quân chủ trong lịch sử Việt Nam, bắt đầu khi Mạc Đăng Dung, sau khi dẹp được các bè phái trong cung đình, đã ép vua Lê Cung Hoàng nhà Hậu Lê nhường ngôi tháng 6 năm 1527 và chấm dứt khi vua Mạc Mậu Hợp lập con trai là Mạc Toàn lên ngôi, bị quân đội Lê-Trịnh do Trịnh Tùng chỉ huy đánh bại vào cuối năm 1592 – Sau đó Mạc Toàn lên ngôi nhưng tại vị chỉ được 2 tháng, tổng cộng thời gian tồn tại chính thức của triều đại là gần 66 năm.
+founder: Mạc Đăng Dung, tức Mạc Thái Tổ
+capital: Đông Kinh (Hà Nội)
+aliases: [Nhà Mạc]
+relatedCharacters: [Mạc Thái Tổ, Mạc Thái Tông, Mạc Hiến Tông, Mạc Chính Trung, Mạc Tuyên Tông, Mạc Mục Tông, Mạc Cảnh Tông, Mạc Mẫn Tông, Mạc Đại Tông, Mạc Quang Tổ, Mạc Minh Tông, Mạc Quý Tông, Mạc Đức Tông]
+===========================================================================
+eraName: Nam triều – Nhà Hậu Lê – giai đoạn Lê Trung hưng
+time: 1533–1789
+overview: Nhà Lê trung hưng (chữ Nôm: 茹黎中興, chữ Hán: 黎中興朝, Hán Việt: Lê trung hưng triều, 1533–1789) là giai đoạn sau của triều đại quân chủ nhà Hậu Lê (giai đoạn đầu là nhà Lê sơ) trong lịch sử Việt Nam. Nhà Lê trung hưng được thành lập khi Lê Trang Tông với sự phò tá của cựu thần nhà Lê sơ là Nguyễn Kim được đưa lên ngôi báu. Đây là triều đại dài nhất so với các triều đại Việt Nam với 256 năm.
+founder: Lê Lợi, tức Lê Thái Tổ (giai đoạn Lê sơ) Lê Duy Ninh, tức Lê Trang Tông (giai đoạn Lê Trung hưng)
+capital: Đông Kinh (Hà Nội)
+aliases: [Nhà Hậu Lê]
+relatedCharacters: [Lê Trang Tông, Lê Trung Tông, Lê Anh Tông, Lê Thế Tông, Lê Kính Tông, Lê Thần Tông, Lê Chân Tông, Lê Thần Tông, Lê Huyền Tông, Lê Gia Tông, Lê Hy Tông, Lê Dụ Tông, Lê Duy Phường, Lê Thuần Tông, Lê Ý Tông, Lê Hiển Tông, Lê Chiêu Thống]
+===========================================================================
+eraName: Đàng Ngoài - Chúa Trịnh
+time: 1545-1787
+overview: Đàng Ngoài (chữ Hán: 唐外) hay Bắc Hà (北河) các tài liệu phương Tây đương thời gọi xứ Đàng Ngoài là Tonkin (hay Tunquin, Tonqueen, Tonquin, Ton Kin...) là tên gọi vùng lãnh thổ Đại Việt kiểm soát bởi Chúa Trịnh, xác định từ sông Gianh (tỉnh Quảng Bình) trở ra Bắc. Kinh đô Đàng Ngoài là Đông Kinh (còn gọi là Kinh Kỳ hay Kẻ Chợ).
+founder: Trịnh Kiểm (tức Trịnh Thế Tổ - người sáng lập thực tế) Trịnh Tùng (tức Trịnh Thành Tổ - chúa Trịnh chính thức đầu tiên)
+capital: Đông Kinh (Hà Nội)
+aliases: [Chúa Trịnh]
+relatedCharacters: [Trịnh Kiểm, Trịnh Cối, Bình An Vương, Thanh Đô Vương, Tây Định Vương, Định Nam Vương, An Đô Vương, Uy Nam Vương, Minh Đô Vương, Tĩnh Đô Vương, Điện Đô Vương, Đoan Nam Vương, Án Đô Vương]
+===========================================================================
+eraName: Đàng Trong - Chúa Nguyễn
+time: 1558-1777
+overview: Đàng Trong (塘中), hay Nam Hà (chữ Hán: 南河) là tên gọi vùng lãnh thổ Đại Việt do chúa Nguyễn kiểm soát, xác định từ sông Gianh (Quảng Bình) trở vào Nam.[1] Bắt đầu từ năm 1600, khi từ Bắc trở về Thuận Hóa, Nguyễn Hoàng đã quyết tâm xây dựng một thế lực độc lập, điều này dẫn tới nội chiến chia cắt hai miền vào năm 1627, và các đời chúa Nguyễn tiếp sau ở thế đối đầu với thế lực vua Lê – chúa Trịnh, cho đến năm 1777 thì chúa Nguyễn sụp đổ bởi quân Tây Sơn thế lực lúc đấy đang khiến chúa Trịnh quy hàng.
+founder: Nguyễn Kim (tức Nguyễn Triệu Tổ - người sáng lập thực tế) Nguyễn Hoàng (tức Nguyễn Thái Tổ - chúa Nguyễn chính thức đầu tiên)
+capital: Phú Xuân (thành phố Huế - tỉnh Thừa Thiên Huế)
+aliases: [Chúa Nguyễn]
+relatedCharacters: [Tiên Vương, Sãi Vương, Thượng Vương, Hiền Vương, Nghĩa Vương, Minh Vương, Ninh Vương, Vũ Vương, Định Vương, Tân Chính Vương]
+===========================================================================
+eraName: Nhà Tây Sơn
+time: 1778-1802
+overview: Nhà Tây Sơn (chữ Nôm: 家西山, chữ Hán: 西山朝 / Tây Sơn triều) là một triều đại quân chủ trong lịch sử Việt Nam tồn tại từ năm 1778 đến năm 1802, được thành lập trong bối cảnh tranh chấp quyền lực cuối thời Lê Trung hưng (1533–1789). Theo cách gọi của phần lớn sử gia, nhất là các sử gia hiện đại[1] tại Việt Nam thì "nhà Tây Sơn" được dùng để gọi triều đại của anh em Nguyễn Nhạc, Nguyễn Lữ và Nguyễn Huệ để phân biệt với nhà Nguyễn của Nguyễn Ánh (vì cùng họ Nguyễn). Ngoài ra, "Tây Sơn" cũng chỉ các lãnh tụ và quân đội khởi nghĩa xuất thân từ ấp Tây Sơn; cũng được dùng làm tên cuộc chiến của Tây Sơn.
+founder: Nguyễn Nhạc, tức Thái Đức Đế
+capital: Quy Nhơn (thị xã An Nhơn, Bình Định)
+aliases: []
+relatedCharacters: [Thái Đức, Quang Trung, Nguyễn Quang Toản]
+===========================================================================
+eraName: Nhà Nguyễn
+time: 1802-1945
+overview: Nhà Nguyễn (chữ Nôm: 茹阮, chữ Hán: 阮朝; Hán-Việt: Nguyễn triều) là triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Nhà Nguyễn được thành lập sau khi Nguyễn Ánh (Gia Long) lên ngôi hoàng đế năm 1802 và kết thúc khi Bảo Đại thoái vị vào năm 1945, tổng cộng là 143 năm. Triều Nguyễn là một triều đại đánh dấu nhiều thăng trầm trong lịch sử Việt Nam, đặc biệt là cuộc xâm lược của người Pháp giữa thế kỷ 19.
+founder: Nguyễn Ánh, tức Nguyễn Thế Tổ
+capital: Huế (thành phố Huế - tỉnh Thừa Thiên Huế)
+aliases: []
+relatedCharacters: [Gia Long, Minh Mạng, Thiệu Trị, Tự Đức, Dục Đức, Hiệp Hòa, Kiến Phúc, Hàm Nghi, Đồng Khánh, Thành Thái, Duy Tân, Khải Định, Bảo Đại]
+===========================================================================
