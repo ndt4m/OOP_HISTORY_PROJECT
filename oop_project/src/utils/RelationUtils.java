@@ -8,10 +8,12 @@ import java.util.Map;
 
 import collection.EraCollection;
 import collection.EventCollection;
+import collection.FestivalCollection;
 import collection.HistoricalCharCollection;
 import collection.HistoricalSiteCollection;
 import entity.Era;
 import entity.Event;
+import entity.Festival;
 import entity.HistoricalCharacter;
 import entity.HistoricalSite;
 
@@ -105,6 +107,36 @@ public class RelationUtils
             newSites.add(site);
         }
         newSiteCollection.setData(newSites);
+    }
+
+    public static void relateCharToFestival(FestivalCollection festivalCollection, HistoricalCharCollection charCollection, FestivalCollection newFestivalCollection)
+    {
+        List<Festival> newFestivals = new ArrayList<>();
+        for (Festival festival: festivalCollection.getData())
+        {
+            Map<String, Integer> newMap = new HashMap<>();
+            for (Map.Entry<String, Integer> entity: festival.getRelatedCharacters().entrySet())
+            {
+                boolean hasRelation = false;
+                for (HistoricalCharacter figure: charCollection.getData())
+                {
+                    if (figure.getAllPossibleNames().contains(entity.getKey()))
+                    {
+                        newMap.put(entity.getKey(), figure.getId());
+                        hasRelation = true;
+                        break;
+                    }
+                }
+
+                if (!hasRelation)
+                {
+                    newMap.put(entity.getKey(), entity.getValue());
+                }
+            }
+            festival.setRelatedCharacters(newMap);
+            newFestivals.add(festival);
+        }
+        newFestivalCollection.setData(newFestivals);
     }
 
     public static void relateEraToChar(HistoricalCharCollection charCollection, EraCollection eraCollection, HistoricalCharCollection newCharCollection)
@@ -208,6 +240,13 @@ public class RelationUtils
         EventCollection newEventCollection = new EventCollection();
         RelationUtils.relateCharToEvent(eventCollection, charCollection, newEventCollection);
         newEventCollection.toJsonFiles();
+           
+        FestivalCollection festivalCollection = new FestivalCollection();
+        festivalCollection.loadJsonFiles();
+
+        FestivalCollection newFestivalCollection = new FestivalCollection();
+        RelationUtils.relateCharToFestival(festivalCollection, charCollection, newFestivalCollection);
+        newFestivalCollection.toJsonFiles();
 
         HistoricalSiteCollection siteCollection = new HistoricalSiteCollection();
         siteCollection.loadJsonFiles();
