@@ -3,9 +3,9 @@
   "founder": "Khúc Thừa Dụ, tức Khúc Tiên Chủ",
   "capital": "Đại La (nay thuộc Hà Nội)",
   "relatedCharacters": {
-    "Khúc Tiên Chủ": null,
-    "Khúc Trung Chủ": null,
-    "Khúc Hậu Chủ": null
+    "Khúc Tiên Chủ": 3079,
+    "Khúc Trung Chủ": 989,
+    "Khúc Hậu Chủ": 2078
   },
   "id": 2,
   "entityName": "Họ Khúc",

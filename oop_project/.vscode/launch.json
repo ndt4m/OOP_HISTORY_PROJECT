@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RelationUtils",
+            "request": "launch",
+            "mainClass": "utils.RelationUtils",
+            "projectName": "oop_project_24d13e5e"
+        },
+        {
+            "type": "java",
             "name": "CrawHistorycalCharFromVS",
             "request": "launch",
             "mainClass": "crawling.historycalChar.CrawHistorycalCharFromVS",

@@ -3,11 +3,11 @@
   "establishment": "1997",
   "category": "Lịch sử",
   "relatedCharacters": {
-    "Châu Thị Tế": null,
+    "Châu Thị Tế": 1885,
     "Trương Thị Miệt": null,
-    "Thoại Ngọc Hầu": null,
+    "Thoại Ngọc Hầu": 1007,
     "Ngô Quang Láng": null,
-    "Nguyễn Văn Thoại": null
+    "Nguyễn Văn Thoại": 1007
   },
   "id": 224,
   "entityName": "Lăng Thoại Ngọc Hầu",

@@ -3,9 +3,9 @@
   "founder": "Mai Thúc Loan, tức Mai Hắc Đế",
   "capital": "Vạn An (nay thuộc huyện Nam Đàn, Nghệ An)",
   "relatedCharacters": {
-    "Bạch Đầu Đế": null,
-    "Mai Thiếu Đế": null,
-    "Mai Hắc Đế": null
+    "Bạch Đầu Đế": 2215,
+    "Mai Thiếu Đế": 1419,
+    "Mai Hắc Đế": 2852
   },
   "id": 3,
   "entityName": "Họ Mai",

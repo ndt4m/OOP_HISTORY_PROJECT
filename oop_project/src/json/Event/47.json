@@ -3,11 +3,11 @@
   "time": "10 tháng 11 năm 1951 - 25 tháng 2 năm 1952",
   "result": "Quân đội Nhân dân Việt Nam giành thắng lợi chiến lược",
   "relatedCharacters": {
-    "Nguyễn Văn Tâm": null,
-    "Nguyễn Chí Thanh": null,
-    "Hồ Chí Minh": null,
-    "Võ Nguyên Giáp": null,
-    "Hoàng Văn Thái": null
+    "Nguyễn Văn Tâm": 393,
+    "Nguyễn Chí Thanh": 106,
+    "Hồ Chí Minh": 1288,
+    "Võ Nguyên Giáp": 157,
+    "Hoàng Văn Thái": 3165
   },
   "id": 47,
   "entityName": "Chiến dịch Hòa Bình",

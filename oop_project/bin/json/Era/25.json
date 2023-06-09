@@ -3,11 +3,11 @@
   "founder": "Ngô Quyền, tức Tiền Ngô Vương",
   "capital": "Cổ Loa (huyện Đông Anh, Hà Nội)",
   "relatedCharacters": {
-    "Thiên Sách Vương": null,
-    "Ngô Sứ Quân": null,
-    "Dương Bình Vương": null,
-    "Nam Tấn Vương": null,
-    "Tiền Ngô Vương": null
+    "Thiên Sách Vương": 335,
+    "Ngô Sứ Quân": 246,
+    "Dương Bình Vương": 1905,
+    "Nam Tấn Vương": 1063,
+    "Tiền Ngô Vương": 1229
   },
   "id": 25,
   "entityName": "Nhà Ngô và Dương Tam Kha",

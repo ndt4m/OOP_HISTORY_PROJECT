@@ -3,16 +3,16 @@
   "establishment": "Không rõ",
   "category": "Di tích lịch sử",
   "relatedCharacters": {
-    "Ngô Đình Diệm": null,
-    "Phan Trọng Tuệ": null,
-    "Hồ Chí Minh": null,
+    "Ngô Đình Diệm": 1582,
+    "Phan Trọng Tuệ": 415,
+    "Hồ Chí Minh": 1288,
     "Vũ Xuân Chiêm": null,
-    "Đinh Đức Thiện": null,
-    "Võ Nguyên Giáp": null,
-    "Hoàng Văn Thái": null,
+    "Đinh Đức Thiện": 2369,
+    "Võ Nguyên Giáp": 157,
+    "Hoàng Văn Thái": 3165,
     "Đường Trường Sơn": null,
     "Trần Ngọc Giao": null,
-    "Hoàng Thế Thiện": null
+    "Hoàng Thế Thiện": 1152
   },
   "id": 1111,
   "entityName": "Đường Trường Sơn - Đường Hồ Chí Minh",

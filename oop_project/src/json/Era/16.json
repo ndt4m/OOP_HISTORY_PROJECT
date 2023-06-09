@@ -3,11 +3,11 @@
   "founder": "Triệu Đà, tức Triệu Vũ Đế",
   "capital": "Cung điện Phiên Ngung (thành phố Quảng Châu, tỉnh Quảng Đông, Trung Quốc)",
   "relatedCharacters": {
-    "Triệu Văn Vương": null,
-    "Triệu Minh Vương": null,
-    "Triệu Dương Vương": null,
-    "Triệu Vũ Vương": null,
-    "Triệu Ai Vương": null
+    "Triệu Văn Vương": 176,
+    "Triệu Minh Vương": 1844,
+    "Triệu Dương Vương": 876,
+    "Triệu Vũ Vương": 2875,
+    "Triệu Ai Vương": 371
   },
   "id": 16,
   "entityName": "Nhà Triệu",

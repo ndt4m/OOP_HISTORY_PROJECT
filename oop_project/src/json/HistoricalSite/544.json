@@ -3,10 +3,10 @@
   "establishment": "1988",
   "category": "Lịch sử",
   "relatedCharacters": {
-    "Vương Hồng Sển": null,
-    "Hồ Chí Minh": null,
-    "Nguyễn Tất Thành": null,
-    "Đỗ Hữu Phương": null
+    "Vương Hồng Sển": 2500,
+    "Hồ Chí Minh": 1288,
+    "Nguyễn Tất Thành": 1288,
+    "Đỗ Hữu Phương": 1356
   },
   "id": 544,
   "entityName": "Nơi đồng chí Nguyễn Tất Thành ở trước khi ra đi tìm đường cứu nước",

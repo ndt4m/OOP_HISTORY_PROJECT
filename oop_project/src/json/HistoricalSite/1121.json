@@ -3,10 +3,10 @@
   "establishment": "1992",
   "category": "Lịch sử",
   "relatedCharacters": {
-    "Trần Anh Tông": null,
-    "Trần Minh Tông": null,
+    "Trần Anh Tông": 2018,
+    "Trần Minh Tông": 2061,
     "Bia Thanh Mai": null,
-    "Huyền Quang": null
+    "Huyền Quang": 1349
   },
   "id": 1121,
   "entityName": "Chùa Thanh Mai",

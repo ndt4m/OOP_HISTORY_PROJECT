@@ -3,8 +3,8 @@
   "founder": "Hồ Quý Ly",
   "capital": "Tây Đô (huyện Vĩnh Lộc, Thanh Hoá)",
   "relatedCharacters": {
-    "Hồ Quý Ly": null,
-    "Hồ Hán Thương": null
+    "Hồ Hán Thương": 1616,
+    "Hồ Quý Ly": 2439
   },
   "id": 9,
   "entityName": "Nhà Hồ",

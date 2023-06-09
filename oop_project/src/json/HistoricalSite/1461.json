@@ -3,13 +3,13 @@
   "establishment": "Không rõ",
   "category": "Lịch sử văn hóa",
   "relatedCharacters": {
-    "Quách Hữu Nghiêm": null,
-    "Lê Thái Tông": null,
-    "Quách Đình Bảo": null,
+    "Quách Hữu Nghiêm": 1009,
+    "Lê Thái Tông": 1666,
+    "Quách Đình Bảo": 1416,
     "Nguyễn Đình Mỹ": null,
-    "Nguyễn Đức Trinh": null,
-    "Lương Thế Vinh": null,
-    "Lê Hoằng Dục": null
+    "Nguyễn Đức Trinh": 1575,
+    "Lương Thế Vinh": 2049,
+    "Lê Hoằng Dục": 590
   },
   "id": 1461,
   "entityName": "Đền Côn Giang, Từ đường họ Quách, Nhà thờ Quách Đình Bảo, Quách Hữu Nghiêm",

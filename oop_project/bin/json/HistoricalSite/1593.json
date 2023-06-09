@@ -3,14 +3,14 @@
   "establishment": "10/07/1980",
   "category": "Danh thắng",
   "relatedCharacters": {
-    "Thoại Ngọc Hầu": null,
+    "Thoại Ngọc Hầu": 1007,
     "Vĩnh Tế Sơn": null,
     "Vĩnh Tế Hà": null,
-    "Trần Hữu Thường": null,
+    "Trần Hữu Thường": 1879,
     "Bia Vĩnh Tế Sơn": null,
     "Trịnh Bửu Hoài": null,
     "Ngọc Lãnh Sơn": null,
-    "Trương Gia Mô": null
+    "Trương Gia Mô": 1207
   },
   "id": 1593,
   "entityName": "Núi Sam",

@@ -3,9 +3,9 @@
   "founder": "Nguyễn Nhạc, tức Thái Đức Đế",
   "capital": "Quy Nhơn (thị xã An Nhơn, Bình Định)",
   "relatedCharacters": {
-    "Quang Trung": null,
-    "Thái Đức": null,
-    "Nguyễn Quang Toản": null
+    "Quang Trung": 1404,
+    "Thái Đức": 945,
+    "Nguyễn Quang Toản": 1277
   },
   "id": 21,
   "entityName": "Nhà Tây Sơn",

@@ -3,11 +3,11 @@
   "time": "25 tháng 4 năm 1882",
   "result": "Pháp chiến thắng",
   "relatedCharacters": {
-    "Hoàng Diệu": null,
-    "Trần Trọng Kim": null,
-    "Lê Trực": null,
-    "Trương Quang Đản": null,
-    "Hoàng Kế Viêm": null
+    "Hoàng Diệu": 80,
+    "Trần Trọng Kim": 1134,
+    "Lê Trực": 2302,
+    "Trương Quang Đản": 2166,
+    "Hoàng Kế Viêm": 1505
   },
   "id": 29,
   "entityName": "Trận thành Hà Nội",

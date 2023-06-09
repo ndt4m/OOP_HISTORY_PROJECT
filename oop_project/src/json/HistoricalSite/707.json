@@ -3,11 +3,11 @@
   "establishment": "Không rõ",
   "category": "Lịch sử",
   "relatedCharacters": {
-    "Lý Nam Đế": null,
+    "Lý Nam Đế": 136,
     "Phạm Quý Thích": null,
     "Thích Thanh Nhã": null,
-    "Lê Hy Tông": null,
-    "Nguyễn Xuân Chính": null
+    "Lê Hy Tông": 595,
+    "Nguyễn Xuân Chính": 259
   },
   "id": 707,
   "entityName": "Chùa Trấn Quốc",

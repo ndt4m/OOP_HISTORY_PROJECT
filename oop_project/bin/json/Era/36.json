@@ -3,11 +3,11 @@
   "founder": "Lý Bí, tức Lý Nam Đế",
   "capital": "Long Uyên (nay thuộc quận Long Biên, Hà Nội hoặc Bắc Ninh)",
   "relatedCharacters": {
-    "Lý Nam Đế": null,
-    "Lý Sư Lợi": null,
-    "Hậu Lý Nam Đế": null,
-    "Triệu Việt Vương": null,
-    "Đào Lang Vương": null
+    "Lý Nam Đế": 136,
+    "Lý Sư Lợi": 485,
+    "Hậu Lý Nam Đế": 1755,
+    "Đào Lang Vương": 1772,
+    "Triệu Việt Vương": 2910
   },
   "id": 36,
   "entityName": "Nhà Tiền Lý và Triệu Việt Vương",

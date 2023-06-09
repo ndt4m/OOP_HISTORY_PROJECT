@@ -3,13 +3,13 @@
   "time": "11 tháng 12 năm 1883 - 16 tháng 12 năm 1883",
   "result": "Quân Pháp chiếm được thành Sơn Tây.",
   "relatedCharacters": {
-    "Phạm Văn Sơn": null,
-    "Nguyễn Thế Anh": null,
-    "Trần Văn Giàu": null,
-    "Trần Đình Túc": null,
-    "Hoàng Tá Viêm": null,
-    "Nguyễn Trọng Hợp": null,
-    "Hoàng Kế Viêm": null
+    "Phạm Văn Sơn": 458,
+    "Nguyễn Thế Anh": 2908,
+    "Trần Văn Giàu": 819,
+    "Trần Đình Túc": 822,
+    "Hoàng Tá Viêm": 1505,
+    "Nguyễn Trọng Hợp": 2961,
+    "Hoàng Kế Viêm": 1505
   },
   "id": 35,
   "entityName": "Trận Sơn Tây",

@@ -4,14 +4,14 @@
   "result": "Đại Việt chiến thắng; Quân Mông Cổ rút về Vân Nam",
   "relatedCharacters": {
     "Trần Cảnh": null,
-    "Lê Tắc": null,
-    "Trần Nhân Tông": null,
-    "Trần Quốc Tuấn": null,
-    "Trần Thánh Tông": null,
-    "Thành Cát Tư Hãn": null,
-    "Trần Thái Tông": null,
-    "Trần Thủ Độ": null,
-    "Lê Tân": null
+    "Lê Tắc": 2302,
+    "Trần Nhân Tông": 2376,
+    "Trần Quốc Tuấn": 45,
+    "Trần Thánh Tông": 1935,
+    "Thành Cát Tư Hãn": 2536,
+    "Trần Thái Tông": 1286,
+    "Trần Thủ Độ": 114,
+    "Lê Tân": 223
   },
   "id": 4,
   "entityName": "Chiến tranh Nguyên Mông - Đại Việt lần 1",
