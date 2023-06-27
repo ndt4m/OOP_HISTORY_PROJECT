@@ -1,8 +1,8 @@
 package application.controller;
 
 import application.App;
-import history.model.Era;
-import history.collection.Eras;
+import collection.EraCollection;
+import entity.Era;
 import javafx.collections.FXCollections;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
@@ -19,6 +19,8 @@ import java.io.IOException;
 
 public class EraScreenController {
 
+    private EraCollection eraCollection = new EraCollection();
+
     @FXML
     private TableView<Era> eraTable;
 
@@ -32,50 +34,56 @@ public class EraScreenController {
     private TableColumn<Era, String> colEraDate;
 
     @FXML
-    private TableColumn<Era, String> colEraTimeStamp;
+    private TableColumn<Era, String> colEraCapital;
 
     @FXML
     private SearchBarController searchBarController;
 
     @FXML
     public void initialize() {
+        try {
+            eraCollection.loadJsonFiles();
+        } catch (IOException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
 
         colEraId.setCellValueFactory(
                 new PropertyValueFactory<Era, Integer>("id")
         );
         colEraName.setCellValueFactory(
-                new PropertyValueFactory<Era, String>("name")
+                new PropertyValueFactory<Era, String>("entityName")
         );
         colEraDate.setCellValueFactory(
                 new PropertyValueFactory<Era, String>("time")
         );
-        colEraTimeStamp.setCellValueFactory(
-                new PropertyValueFactory<Era, String>("belongsToTimestamp")
+        colEraCapital.setCellValueFactory(
+                new PropertyValueFactory<Era, String>("capital")
         );
-        eraTable.setItems(Eras.collection.getData());
+        eraTable.setItems(eraCollection.getData());
 
         searchBarController.setSearchBoxListener(
                 new SearchBoxListener() {
                     @Override
                     public void handleSearchName(String name) {
-                        eraTable.setItems(Eras.collection.searchByName(name));
+                        //eraTable.setItems(eraCollection.searchByName(name));
                     }
 
                     @Override
                     public void handleSearchId(String id) {
-                        try {
-                            int intId = Integer.parseInt(id);
-                            eraTable.setItems(
-                                    FXCollections.singletonObservableList(Eras.collection.get(intId))
-                            );
-                        } catch (Exception e){
-                            System.err.println("Cannot find the entity with the id " + id);
-                        }
+                        // try {
+                        //     int intId = Integer.parseInt(id);
+                        //     eraTable.setItems(
+                        //             FXCollections.singletonObservableList(eraCollection.get(intId))
+                        //     );
+                        // } catch (Exception e){
+                        //     System.err.println("Cannot find the entity with the id " + id);
+                        // }
                     }
 
                     @Override
                     public void handleBlank() {
-                        eraTable.setItems(Eras.collection.getData());
+                        //eraTable.setItems(Eras.collection.getData());
                     }
                 }
         );

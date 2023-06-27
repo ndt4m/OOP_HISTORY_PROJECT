@@ -56,7 +56,7 @@
                       <TableColumn fx:id="colEraId" prefWidth="75.0" text="ID" />
                       <TableColumn fx:id="colEraName" prefWidth="150.0" text="Tên" />
                         <TableColumn fx:id="colEraDate" prefWidth="150.0" text="Thời gian" />
-                        <TableColumn fx:id="colEraTimeStamp" prefWidth="150.0" text="Thuộc thời gian" />
+                        <TableColumn fx:id="colEraCapital" prefWidth="150.0" text="Thủ đô" />
                     </columns>
                      <columnResizePolicy>
                         <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
