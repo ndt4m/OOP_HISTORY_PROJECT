@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox alignment="CENTER" maxHeight="1.7976931348623157E308" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" spacing="16.0" style="-fx-background-color: #00807D;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.controller.SidebarController">
+    <children>
+        <ImageView fitHeight="90.0" fitWidth="90.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@../images/logo.png" />
+            </image></ImageView>
+        <Button alignment="CENTER" contentDisplay="CENTER" maxWidth="1.7976931348623157E308" mnemonicParsing="false" onAction="#switchToMain" style="-fx-background-color: #f5bf1f;" text="TRANG CHỦ" textAlignment="CENTER">
+            <VBox.margin>
+                <Insets />
+            </VBox.margin>
+            <font>
+                <Font size="14.0" />
+            </font>
+        </Button>
+        <Button alignment="CENTER" contentDisplay="CENTER" maxWidth="1.7976931348623157E308" mnemonicParsing="false" onAction="#switchToHistoricalFigures" style="-fx-background-color: #f5bf1f;" text="NHÂN VẬT LỊCH SỬ" textAlignment="CENTER">
+            <font>
+                <Font size="14.0" />
+            </font></Button>
+        <Button alignment="CENTER" contentDisplay="CENTER" maxWidth="1.7976931348623157E308" mnemonicParsing="false" onAction="#switchToHistoricSite" style="-fx-background-color: #f5bf1f;" text="DI TÍCH" textAlignment="CENTER">
+            <font>
+                <Font size="14.0" />
+            </font></Button>
+        <Button alignment="CENTER" contentDisplay="CENTER" maxWidth="1.7976931348623157E308" mnemonicParsing="false" onAction="#switchToEras" style="-fx-background-color: #f5bf1f;" text="TRIỀU ĐẠI" textAlignment="CENTER">
+            <font>
+                <Font size="14.0" />
+            </font></Button>
+        <Button alignment="CENTER" contentDisplay="CENTER" maxWidth="1.7976931348623157E308" mnemonicParsing="false" onAction="#switchToEvents" style="-fx-background-color: #f5bf1f;" text="SỰ KIỆN" textAlignment="CENTER">
+            <font>
+                <Font size="14.0" />
+            </font></Button>
+        <Button alignment="CENTER" contentDisplay="CENTER" maxWidth="1.7976931348623157E308" mnemonicParsing="false" onAction="#switchToFestivals" style="-fx-background-color: #f5bf1f;" text="LỄ HỘI" textAlignment="CENTER">
+            <font>
+                <Font size="14.0" />
+            </font></Button>
+    </children>
+    <padding>
+        <Insets bottom="30.0" left="16.0" right="16.0" top="20.0" />
+    </padding>
+</VBox>

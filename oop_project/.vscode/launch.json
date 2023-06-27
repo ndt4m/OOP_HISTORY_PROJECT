@@ -1,123 +1,156 @@
 {
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
     "configurations": [
         {
             "type": "java",
-            "name": "RelationUtils",
+            "name": "Current File",
             "request": "launch",
-            "mainClass": "utils.RelationUtils",
-            "projectName": "oop_project_24d13e5e"
-        },
-        {
-            "type": "java",
-            "name": "CrawHistorycalCharFromVS",
-            "request": "launch",
-            "mainClass": "crawling.historycalChar.CrawHistorycalCharFromVS",
-            "projectName": "oop_project_24d13e5e"
-        },
-        {
-            "type": "java",
-            "name": "CrawlHistoricalCharFromNKS",
-            "request": "launch",
-            "mainClass": "crawling.historycalChar.CrawlHistoricalCharFromNKS",
-            "projectName": "oop_project_24d13e5e"
-        },
-        {
-            "type": "java",
-            "name": "CrawlHistoricalSiteFromNKS",
-            "request": "launch",
-            "mainClass": "crawling.historicalsite.CrawlHistoricalSiteFromNKS",
-            "projectName": "oop_project_24d13e5e"
-        },
-        {
-            "type": "java",
-            "name": "CrawlHistoricalSiteFromSecondWikiLink",
-            "request": "launch",
-            "mainClass": "crawling.historicalsite.CrawlHistoricalSiteFromSecondWikiLink",
-            "projectName": "oop_project_24d13e5e"
-        },
-        {
-            "type": "java",
-            "name": "CrawlHistoricalSiteFromFirstWikiLink",
-            "request": "launch",
-            "mainClass": "crawling.historicalsite.CrawlHistoricalSiteFromFirstWikiLink",
-            "projectName": "oop_project_24d13e5e"
-        },
-        {
-            "type": "java",
-            "name": "CrawlFestivalFromCoutureTravelCompanyLink",
-            "request": "launch",
-            "mainClass": "crawling.festival.CrawlFestivalFromCoutureTravelCompanyLink",
-            "projectName": "oop_project_24d13e5e"
-        },
-        {
-            "type": "java",
-            "name": "CrawlFestivalFromWikiLink",
-            "request": "launch",
-            "mainClass": "crawling.festival.CrawlFestivalFromWikiLink",
-            "projectName": "oop_project_24d13e5e"
-        },
-        {
-            "type": "java",
-            "name": "CrawlEventFromNKS",
-            "request": "launch",
-            "mainClass": "crawling.event.CrawlEventFromNKS",
-            "projectName": "oop_project_24d13e5e"
-        },
-        {
-            "type": "java",
-            "name": "EntityCollection",
-            "request": "launch",
-            "mainClass": "collection.EntityCollection",
-            "projectName": "oop_project_24d13e5e"
-        },
-        {
-            "type": "java",
-            "name": "MergingUtils",
-            "request": "launch",
-            "mainClass": "utils.MergingUtils",
-            "projectName": "oop_project_24d13e5e"
-        },
-        {
-            "type": "java",
-            "name": "CrawlHistoricalCharFromWikiLink",
-            "request": "launch",
-            "mainClass": "crawling.historycalChar.CrawlHistoricalCharFromWikiLink",
-            "projectName": "oop_project_24d13e5e"
+            "mainClass": "${file}"
         },
         {
             "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Main",
-            "projectName": "oop_project_24d13e5e"
+            "projectName": "oop_project_fe880ddf"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "application.App",
+            "projectName": "oop_project_fe880ddf"
+        },
+        {
+            "type": "java",
+            "name": "GUIStarter",
+            "request": "launch",
+            "mainClass": "application.GUIStarter",
+            "projectName": "oop_project_fe880ddf"
         },
         {
             "type": "java",
             "name": "EraCollection",
             "request": "launch",
             "mainClass": "collection.EraCollection",
-            "projectName": "oop_project_24d13e5e"
+            "projectName": "oop_project_fe880ddf"
         },
         {
             "type": "java",
-            "name": "CrawlEraFromWiki",
+            "name": "Crawler",
             "request": "launch",
-            "mainClass": "crawling.era.CrawlEraFromWiki",
-            "projectName": "oop_project_24d13e5e"
+            "mainClass": "crawling.Crawler",
+            "projectName": "oop_project_fe880ddf"
         },
         {
             "type": "java",
             "name": "CrawlEraFromVS",
             "request": "launch",
             "mainClass": "crawling.era.CrawlEraFromVS",
-            "projectName": "oop_project_24d13e5e"
+            "projectName": "oop_project_fe880ddf"
+        },
+        {
+            "type": "java",
+            "name": "CrawlEraFromWiki",
+            "request": "launch",
+            "mainClass": "crawling.era.CrawlEraFromWiki",
+            "projectName": "oop_project_fe880ddf"
+        },
+        {
+            "type": "java",
+            "name": "CrawlEventFromNKS",
+            "request": "launch",
+            "mainClass": "crawling.event.CrawlEventFromNKS",
+            "projectName": "oop_project_fe880ddf"
+        },
+        {
+            "type": "java",
+            "name": "CrawlFestivalFromCoutureTravelCompanyLink",
+            "request": "launch",
+            "mainClass": "crawling.festival.CrawlFestivalFromCoutureTravelCompanyLink",
+            "projectName": "oop_project_fe880ddf"
+        },
+        {
+            "type": "java",
+            "name": "CrawlFestivalFromWikiLink",
+            "request": "launch",
+            "mainClass": "crawling.festival.CrawlFestivalFromWikiLink",
+            "projectName": "oop_project_fe880ddf"
+        },
+        {
+            "type": "java",
+            "name": "CrawlHistoricalSiteFromFirstWikiLink",
+            "request": "launch",
+            "mainClass": "crawling.historicalsite.CrawlHistoricalSiteFromFirstWikiLink",
+            "projectName": "oop_project_fe880ddf"
+        },
+        {
+            "type": "java",
+            "name": "CrawlHistoricalSiteFromNKS",
+            "request": "launch",
+            "mainClass": "crawling.historicalsite.CrawlHistoricalSiteFromNKS",
+            "projectName": "oop_project_fe880ddf"
+        },
+        {
+            "type": "java",
+            "name": "CrawlHistoricalSiteFromSecondWikiLink",
+            "request": "launch",
+            "mainClass": "crawling.historicalsite.CrawlHistoricalSiteFromSecondWikiLink",
+            "projectName": "oop_project_fe880ddf"
+        },
+        {
+            "type": "java",
+            "name": "CrawHistorycalCharFromVS",
+            "request": "launch",
+            "mainClass": "crawling.historycalChar.CrawHistorycalCharFromVS",
+            "projectName": "oop_project_fe880ddf"
+        },
+        {
+            "type": "java",
+            "name": "CrawlHistoricalCharFromNKS",
+            "request": "launch",
+            "mainClass": "crawling.historycalChar.CrawlHistoricalCharFromNKS",
+            "projectName": "oop_project_fe880ddf"
+        },
+        {
+            "type": "java",
+            "name": "CrawlHistoricalCharFromWikiLink",
+            "request": "launch",
+            "mainClass": "crawling.historycalChar.CrawlHistoricalCharFromWikiLink",
+            "projectName": "oop_project_fe880ddf"
+        },
+        {
+            "type": "java",
+            "name": "eraScreen",
+            "request": "launch",
+            "mainClass": "gui.controller.eraScreen",
+            "projectName": "oop_project_fe880ddf",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-20.0.1/lib\" --add-modules javafx.controls,javafx.fxml,javafx.base,javafx.graphics,javafx.media,javafx.swing,javafx.web"
+
         },
         {
             "type": "java",
             "name": "JsonUtils",
             "request": "launch",
-            "mainClass": "jsonutil.JsonUtils",
-            "projectName": "oop_project_24d13e5e"
+            "mainClass": "utils.JsonUtils",
+            "projectName": "oop_project_fe880ddf"
+        },
+        {
+            "type": "java",
+            "name": "MergingUtils",
+            "request": "launch",
+            "mainClass": "utils.MergingUtils",
+            "projectName": "oop_project_fe880ddf"
+        },
+        {
+            "type": "java",
+            "name": "RelationUtils",
+            "request": "launch",
+            "mainClass": "utils.RelationUtils",
+            "projectName": "oop_project_fe880ddf"
         }
     ]
 }

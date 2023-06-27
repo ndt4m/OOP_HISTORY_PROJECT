@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefWidth="680.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
+    <top>
+        <MenuBar BorderPane.alignment="CENTER">
+            <menus>
+                <Menu mnemonicParsing="false" text="File">
+                    <items>
+                        <MenuItem mnemonicParsing="false" text="Close" />
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Edit">
+                    <items>
+                        <MenuItem mnemonicParsing="false" text="Delete" />
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Help">
+                    <items>
+                        <MenuItem mnemonicParsing="false" text="About" />
+                    </items>
+                </Menu>
+            </menus>
+        </MenuBar>
+    </top>
+    <left>
+        <fx:include fx:id="sideBar" source="Sidebar.fxml" />
+    </left>
+    <center>
+        <Pane prefHeight="530.0" prefWidth="506.0" BorderPane.alignment="CENTER">
+            <children>
+                <Label layoutX="38.0" layoutY="34.0" prefHeight="53.0" prefWidth="351.0" text="Chào mừng,">
+                    <font>
+                        <Font size="36.0" />
+                    </font>
+                </Label>
+                <Text layoutX="35.0" layoutY="149.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Đây là ứng dụng tìm hiểu và tra cứu các thông tin liên quan về lịch sử Việt Nam." wrappingWidth="402.7496337890625">
+                    <font>
+                        <Font size="18.0" />
+                    </font>
+                </Text>
+                <Text layoutX="34.0" layoutY="311.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Ứng dụng được nhóm 15 tạo ra trong khi tìm hiểu môn học Lâp trình hướng đối tượng." wrappingWidth="398.18096923828125">
+                    <font>
+                        <Font size="18.0" />
+                    </font>
+                </Text>
+                <Text layoutX="35.0" layoutY="220.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Ứng dụng được phát triển với mục đích đưa các thông tin lịch sử tới người cần tìm kiếm một cách logic và dễ dàng tiếp cận." wrappingWidth="397.00042724609375">
+                    <font>
+                        <Font size="18.0" />
+                    </font>
+                </Text>
+                <Text layoutX="38.0" layoutY="378.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Để tìm kiếm nhân vật, di tích, triều đại hoặc lễ hội hãy chọn mục tương ứng ở phía bên trái để tìm kiếm. Để xem thông tin chi tiết của đối tượng, nhấp đúp chuột vào hàng của đối tượng cần xem" wrappingWidth="408.3496398925781">
+                    <font>
+                        <Font size="18.0" />
+                    </font>
+                </Text>
+            </children>
+        </Pane>
+    </center>
+</BorderPane>

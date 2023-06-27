@@ -49,8 +49,8 @@ public class JsonUtils
         epl1.id = 1111;
         epl1.name = "tam";
         JsonUtils.toJsonFile("1.json", epl1);
-        Example employee = fromJsonFile(PREFIX_URL + "\\1.json", Example.class);
-        System.out.println(employee.id);
+        // Example employee = fromJsonFile(PREFIX_URL + "\\1.json", Example.class);
+        // System.out.println(PREFIX_URL);
         
     }
 }
