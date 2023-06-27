@@ -1,10 +1,10 @@
 package application.controller;
 
 import application.App;
-import history.model.Era;
-import history.collection.Eras;
-import history.model.HistoricalFigure;
-import history.collection.HistoricalFigures;
+import collection.EraCollection;
+import collection.HistoricalCharCollection;
+import entity.Era;
+import entity.HistoricalCharacter;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
@@ -20,23 +20,30 @@ import java.io.IOException;
 
 public class FigureDetailScreenController {
 
+    private HistoricalCharCollection historicalCharCollection = new HistoricalCharCollection();
+
+    private EraCollection eraCollection = new EraCollection();
+
     @FXML
     private Text nameText;
 
     @FXML
-    private Text realNameText;
+    private Text dateOfBirthText;
 
     @FXML
-    private Text bornText;
-
-    @FXML
-    private Text diedText;
+    private Text dateOfDeathText;
 
     @FXML
     private Text overviewText;
 
     @FXML
-    private Text workTimeText;
+    private Text workTenureText;
+
+    @FXML
+    private Text occupationText;
+
+    @FXML
+    private Text hometownText;
 
     @FXML
     private Text eraText;
@@ -48,48 +55,54 @@ public class FigureDetailScreenController {
     private Text motherText;
 
     @FXML
-    private Text precededByText;
-
-    @FXML
-    private Text succeededByText;
-
-    @FXML
     private FlowPane aliasFlowPane;
 
     @FXML
     private SidebarController sideBarController;
 
-    private HistoricalFigure figure;
+    private HistoricalCharacter character;
 
     @FXML
     public void onClickBack(ActionEvent event) throws IOException {
         sideBarController.switchByGetFxml("/application/view/HistoricalFiguresScreen.fxml", event);
     }
 
-    public void setFigure(HistoricalFigure figure) {
-        this.figure = figure;
-        nameText.setText(figure.getName());
-        realNameText.setText(figure.getRealName());
-        for (String alias : figure.getAliases()) {
+    public void setFigure(HistoricalCharacter character) {
+        try {
+            historicalCharCollection.loadJsonFiles();
+        } catch (IOException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
+        
+        try {
+            eraCollection.loadJsonFiles();
+        } catch (IOException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
+
+        this.character = character;
+
+        nameText.setText(character.getEntityName());
+        occupationText.setText(character.getOccupation());
+        hometownText.setText(character.getHometown());
+
+        for (String alias : character.getAliases()) {
             Text aliasText = new Text(alias);
             aliasFlowPane.getChildren().add(aliasText);
         }
-        bornText.setText(figure.getBorn());
-        diedText.setText(figure.getDied());
-        overviewText.setText(figure.getOverview());
-        workTimeText.setText(figure.getWorkTime());
-        eraText.setText(figure.getEra().getKey());
-        fatherText.setText(figure.getFather().getKey());
-        motherText.setText(figure.getMother().getKey());
-        precededByText.setText(figure.getPrecededBy().getKey());
-        succeededByText.setText(figure.getSucceededBy().getKey());
+        dateOfBirthText.setText(character.getDateOfBirth());
+        dateOfDeathText.setText(character.getDateOfDeath());
+        overviewText.setText(character.getOverview());
+        workTenureText.setText(character.getWorkTenure());
+        eraText.setText(character.getEraName().keySet().toArray(new String[0])[0]);
+        fatherText.setText(character.getFatherName().keySet().toArray(new String[0])[0]);
+        motherText.setText(character.getMotherName().keySet().toArray(new String[0])[0]);
 
-        Era era = Eras.collection.get(figure.getEra().getValue());
-        HistoricalFigure father = HistoricalFigures.collection.get(figure.getFather().getValue());
-        HistoricalFigure mother = HistoricalFigures.collection.get(figure.getMother().getValue());
-        HistoricalFigure precededFigure = HistoricalFigures.collection.get(figure.getPrecededBy().getValue());
-        HistoricalFigure succeededFigure = HistoricalFigures.collection.get(figure.getSucceededBy().getValue());
-
+        Era era = eraCollection.get(character.getEraName().get(eraText.getText()));
+        HistoricalCharacter father = historicalCharCollection.get(character.getFatherName().get(fatherText.getText()));
+        HistoricalCharacter mother = historicalCharCollection.get(character.getMotherName().get(motherText.getText()));
 
         if(era != null) {
             eraText.setFill(Color.web("#3498db"));
@@ -110,29 +123,20 @@ public class FigureDetailScreenController {
         } else {
             eraText.setFill(Color.web("#000000"));
         }
+
         if(father != null) {
             fatherText.setFill(Color.web("#3498db"));
             fatherText.setOnMouseClicked(mouseEvent -> setFigure(father));
         } else {
             fatherText.setFill(Color.web("#000000"));
         }
+
         if(mother != null) {
             motherText.setFill(Color.web("#3498db"));
             motherText.setOnMouseClicked(mouseEvent -> setFigure(mother));
         } else {
             motherText.setFill(Color.web("#000000"));
         }
-        if(precededFigure != null) {
-            precededByText.setFill(Color.web("#3498db"));
-            precededByText.setOnMouseClicked(mouseEvent -> setFigure(precededFigure));
-        } else {
-            precededByText.setFill(Color.web("#000000"));
-        }
-        if(succeededFigure != null) {
-            succeededByText.setFill(Color.web("#3498db"));
-            succeededByText.setOnMouseClicked(mouseEvent -> setFigure(succeededFigure));
-        } else {
-            succeededByText.setFill(Color.web("#000000"));
-        }
+
     }
 }

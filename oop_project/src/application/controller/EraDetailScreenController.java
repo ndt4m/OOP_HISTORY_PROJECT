@@ -17,27 +17,22 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 import java.util.Map;
-import java.util.concurrent.Flow;
 
 public class EraDetailScreenController {
 
+    private HistoricalCharCollection historicalCharCollection = new HistoricalCharCollection();
+    
     @FXML
-    public FlowPane kingsFlowPane;
+    public FlowPane relatedCharFlowPane;
 
     @FXML
     private Text nameText;
 
     @FXML
-    private Text timeStampText;
-
-    @FXML
-    private Text homelandText;
-
-    @FXML
     private Text founderText;
 
     @FXML
-    private Text capLocateText;
+    private Text capitalText;
 
     @FXML
     private Text timeText;
@@ -59,24 +54,28 @@ public class EraDetailScreenController {
     }
 
     public void setEra(Era era) {
+        try {
+            historicalCharCollection.loadJsonFiles();
+        } catch (IOException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
         this.era = era;
         nameText.setText(era.getEntityName());
-        timeStampText.setText(era.get());
-        homelandText.setText(era.getCapital());
-        founderText.setText(era.getFounder());
-        capLocateText.setText(era.get());
         timeText.setText(era.getTime());
+        founderText.setText(era.getFounder());
+        capitalText.setText(era.getCapital());
         for (String alias : era.getAliases()) {
             Text aliasText = new Text(alias);
             aliasFlowPane.getChildren().add(aliasText);
         }
         overviewText.setText(era.getOverview());
         for(Map.Entry<String, Integer> entry : era.getRelatedCharacters().entrySet()){
-            Text kingText = new Text(entry.getKey());
+            Text relatedCharText = new Text(entry.getKey());
             if(entry.getValue() != null) {
-                kingText.setFill(Color.web("#3498db"));
-                kingText.setOnMouseClicked(mouseEvent -> {
-                    HistoricalCharacter figure = HistoricalCharCollection.getData().get(1);
+                relatedCharText.setFill(Color.web("#3498db"));
+                relatedCharText.setOnMouseClicked(mouseEvent -> {
+                    HistoricalCharacter figure = historicalCharCollection.getData().get(entry.getValue());
                     try {
                         FXMLLoader loader = new FXMLLoader(App.convertToURL("/application/view/FigureDetailScreen.fxml"));
                         Parent root = loader.load();
@@ -91,7 +90,7 @@ public class EraDetailScreenController {
                     }
                 });
             }
-            kingsFlowPane.getChildren().add(kingText);
+            relatedCharFlowPane.getChildren().add(relatedCharText);
         }
     }
 }

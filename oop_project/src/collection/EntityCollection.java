@@ -31,4 +31,21 @@ public abstract class EntityCollection <T extends Entity>
 
     }
 
+    public T get(Integer id)
+    {
+        if (id == null)
+        {
+            return null;
+        }
+
+        for (T entity : this.data)
+        {
+            if (entity.getId() == id) 
+            {
+                return entity;
+            }
+        }
+        return null;
+    }
+
 }

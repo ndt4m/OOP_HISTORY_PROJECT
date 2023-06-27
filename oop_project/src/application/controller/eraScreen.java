@@ -19,7 +19,6 @@ public class eraScreen extends Application
         try {
 
             root = loader.load();
-            System.out.println("2jljafkljalk");
             Scene scene = new Scene(root);
             stage.setScene(scene);
 

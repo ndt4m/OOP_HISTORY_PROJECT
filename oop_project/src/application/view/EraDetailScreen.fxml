@@ -96,7 +96,7 @@
                      <children>
                         <VBox prefWidth="176.0">
                            <children>
-                              <Label text="Thời kỳ">
+                              <Label text="Thời gian">
                                  <font>
                                     <Font name="System Bold" size="12.0" />
                                  </font>
@@ -105,7 +105,7 @@
                         </VBox>
                         <VBox prefWidth="100.0" HBox.hgrow="ALWAYS">
                            <children>
-                              <Text fx:id="timeStampText" strokeType="OUTSIDE" strokeWidth="0.0" text="timeStampText" wrappingWidth="349.6773376464844" />
+                              <Text fx:id="timeText" strokeType="OUTSIDE" strokeWidth="0.0" text="timeText" wrappingWidth="349.6773376464844" />
                            </children>
                         </VBox>
                      </children>
@@ -114,7 +114,7 @@
                      <children>
                         <VBox prefWidth="176.0">
                            <children>
-                              <Label text="Quê hương">
+                              <Label text="Thủ đô">
                                  <font>
                                     <Font name="System Bold" size="12.0" />
                                  </font>
@@ -123,7 +123,7 @@
                         </VBox>
                         <VBox prefWidth="100.0" HBox.hgrow="ALWAYS">
                            <children>
-                              <Text fx:id="homelandText" strokeType="OUTSIDE" strokeWidth="0.0" text="homelandText" wrappingWidth="349.6773376464844" />
+                              <Text fx:id="capitalText" strokeType="OUTSIDE" strokeWidth="0.0" text="capitalText" wrappingWidth="349.6773376464844" />
                            </children>
                         </VBox>
                      </children>
@@ -146,54 +146,18 @@
                         </VBox>
                      </children>
                   </HBox>
-                  <HBox layoutX="10.0" layoutY="61.0">
-                     <children>
-                        <VBox prefWidth="176.0">
-                           <children>
-                              <Label text="Kinh đô">
-                                 <font>
-                                    <Font name="System Bold" size="12.0" />
-                                 </font>
-                              </Label>
-                           </children>
-                        </VBox>
-                        <VBox prefWidth="100.0" HBox.hgrow="ALWAYS">
-                           <children>
-                              <Text fx:id="capLocateText" strokeType="OUTSIDE" strokeWidth="0.0" text="capLocateText" wrappingWidth="349.6773376464844" />
-                           </children>
-                        </VBox>
-                     </children>
-                  </HBox>
-                  <HBox layoutX="10.0" layoutY="87.0">
-                     <children>
-                        <VBox prefWidth="176.0">
-                           <children>
-                              <Label text="Thời gian">
-                                 <font>
-                                    <Font name="System Bold" size="12.0" />
-                                 </font>
-                              </Label>
-                           </children>
-                        </VBox>
-                        <VBox prefWidth="100.0" HBox.hgrow="ALWAYS">
-                           <children>
-                              <Text fx:id="timeText" strokeType="OUTSIDE" strokeWidth="0.0" text="timeText" wrappingWidth="349.6773376464844" />
-                           </children>
-                        </VBox>
-                     </children>
-                  </HBox>
                   <HBox layoutX="10.0" layoutY="112.0">
                      <children>
                         <VBox prefWidth="176.0">
                            <children>
-                              <Label text="Các vị vua">
+                              <Label text="Các nhân vật liên quan">
                                  <font>
                                     <Font name="System Bold" size="12.0" />
                                  </font>
                               </Label>
                            </children>
                         </VBox>
-                        <FlowPane fx:id="kingsFlowPane" hgap="15.0" vgap="5.0" HBox.hgrow="ALWAYS" />
+                        <FlowPane fx:id="relatedCharFlowPane" hgap="15.0" vgap="5.0" HBox.hgrow="ALWAYS" />
                      </children>
                   </HBox>
                </children>
