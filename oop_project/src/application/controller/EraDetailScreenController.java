@@ -75,7 +75,7 @@ public class EraDetailScreenController {
             if(entry.getValue() != null) {
                 relatedCharText.setFill(Color.web("#3498db"));
                 relatedCharText.setOnMouseClicked(mouseEvent -> {
-                    HistoricalCharacter figure = historicalCharCollection.getData().get(entry.getValue());
+                    HistoricalCharacter figure = historicalCharCollection.get(entry.getValue());
                     try {
                         FXMLLoader loader = new FXMLLoader(App.convertToURL("/application/view/FigureDetailScreen.fxml"));
                         Parent root = loader.load();
