@@ -2,6 +2,7 @@ package application.controller;
 
 import java.io.IOException;
 
+import application.App;
 import gui.controller.eraScreenController;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -13,6 +14,17 @@ public class eraScreen extends Application
 {
     @Override
     public void start(Stage stage) {
+        try {
+            App.eraCollection.loadJsonFiles();
+            App.eventCollection.loadJsonFiles();
+            App.festivalCollection.loadJsonFiles();
+            App.historicalCharCollection.loadJsonFiles();
+            App.hissHistoricalSiteCollection.loadJsonFiles();
+
+        } catch (IOException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
         FXMLLoader loader = new FXMLLoader(getClass().getResource("/application/view/EraScreen.fxml"));
         System.out.println(loader.toString());
         Parent root;

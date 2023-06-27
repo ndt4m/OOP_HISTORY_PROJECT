@@ -1,10 +1,5 @@
 package application;
 
-import history.collection.Eras;
-import history.collection.Events;
-import history.collection.Festivals;
-import history.collection.HistoricalFigures;
-import history.collection.HistoricSites;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
@@ -15,7 +10,18 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.nio.file.FileSystems;
 
+import collection.EraCollection;
+import collection.EventCollection;
+import collection.FestivalCollection;
+import collection.HistoricalCharCollection;
+import collection.HistoricalSiteCollection;
+
 public class App extends Application {
+    public static EraCollection eraCollection = new EraCollection();
+    public static HistoricalCharCollection historicalCharCollection = new HistoricalCharCollection();
+    public static HistoricalSiteCollection hissHistoricalSiteCollection = new HistoricalSiteCollection();
+    public static EventCollection eventCollection = new EventCollection();
+    public static FestivalCollection festivalCollection = new FestivalCollection();
 
     public static final String TOPSCREEN_PATH = "/application/view/MainScreen.fxml";
 
@@ -29,7 +35,7 @@ public class App extends Application {
      */
     public static URL convertToURL(String path) {
         try {
-            String passedInPath = "./src/main/java" + path;
+            String passedInPath = "./src" + path;
             URL url = FileSystems.getDefault().getPath(passedInPath)
                     .toUri().toURL();
             return url;
@@ -48,11 +54,11 @@ public class App extends Application {
         stage.show();
 
         /* Loading all resources */
-        Eras.loadJSON();
-        Events.loadJSON();
-        Festivals.loadJSON();
-        HistoricalFigures.loadJSON();
-        HistoricSites.loadJSON();
+        // eraCollection.loadJsonFiles();
+        // eventCollection.loadJsonFiles();
+        // festivalCollection.loadJsonFiles();
+        // historicalCharCollection.loadJsonFiles();
+        // hissHistoricalSiteCollection.loadJsonFiles();
     }
 
     /*  WARNING */

@@ -94,6 +94,7 @@ public class EraScreenController {
             row.setOnMouseClicked(event -> {
                 if (event.getClickCount() == 2 && (!row.isEmpty())) {
                     Era era = row.getItem();
+                    System.out.println("=============================");
                     try {
                         FXMLLoader loader = new FXMLLoader(App.convertToURL("/application/view/EraDetailScreen.fxml"));
                         Parent root = loader.load();
