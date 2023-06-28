@@ -14,7 +14,8 @@ public class eraScreen extends Application
 {
     @Override
     public void start(Stage stage) {
-        try {
+        System.setProperty("file.encoding", "UTF-8");
+        /*try {
             App.eraCollection.loadJsonFiles();
             App.eventCollection.loadJsonFiles();
             App.festivalCollection.loadJsonFiles();
@@ -24,9 +25,9 @@ public class eraScreen extends Application
         } catch (IOException e) {
             // TODO Auto-generated catch block
             e.printStackTrace();
-        }
+        }*/
         FXMLLoader loader = new FXMLLoader(getClass().getResource("/application/view/EraScreen.fxml"));
-        System.out.println(loader.toString());
+        //System.out.println(loader.toString());
         Parent root;
         try {
 

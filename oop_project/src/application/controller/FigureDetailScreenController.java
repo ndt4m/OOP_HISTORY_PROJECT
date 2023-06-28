@@ -96,8 +96,8 @@ public class FigureDetailScreenController {
         dateOfDeathText.setText(character.getDateOfDeath());
         overviewText.setText(character.getOverview());
         workTenureText.setText(character.getWorkTenure());
-        System.out.println("==============================" +character.getId()+ "=============================");
-        System.out.println("==============================" +character.getEraName().get(eraText.getText())+ "=============================");
+        //System.out.println("==============================" +character.getId()+ "=============================");
+        //System.out.println("==============================" +character.getEraName().get(eraText.getText())+ "=============================");
         
         eraText.setText(character.getEraName().keySet().toArray(new String[0])[0]);
         fatherText.setText(character.getFatherName().keySet().toArray(new String[0])[0]);
