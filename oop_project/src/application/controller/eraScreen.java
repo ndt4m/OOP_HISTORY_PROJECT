@@ -27,7 +27,7 @@ public class eraScreen extends Application
             e.printStackTrace();
         }*/
         FXMLLoader loader = new FXMLLoader(getClass().getResource("/application/view/EraScreen.fxml"));
-        //System.out.println(loader.toString());
+        System.out.println(loader.toString());
         Parent root;
         try {
 

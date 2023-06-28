@@ -40,12 +40,6 @@ public class FigureDetailScreenController {
     private Text workTenureText;
 
     @FXML
-    private Text occupationText;
-
-    @FXML
-    private Text hometownText;
-
-    @FXML
     private Text eraText;
 
     @FXML
@@ -85,8 +79,6 @@ public class FigureDetailScreenController {
         this.character = character;
 
         nameText.setText(character.getEntityName());
-        occupationText.setText(character.getOccupation());
-        hometownText.setText(character.getHometown());
 
         for (String alias : character.getAliases()) {
             Text aliasText = new Text(alias);

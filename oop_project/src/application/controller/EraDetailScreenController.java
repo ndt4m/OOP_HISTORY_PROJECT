@@ -80,12 +80,14 @@ public class EraDetailScreenController {
                         FXMLLoader loader = new FXMLLoader(App.convertToURL("/application/view/FigureDetailScreen.fxml"));
                         Parent root = loader.load();
                         FigureDetailScreenController controller = loader.getController();
-                        try{
+                        /*try{
                             controller.setFigure(figure);
                         } catch (Exception e){
                             // Thêm xử lí exception không load được nhân vật
-                            System.out.println("No such character in database");
-                        }
+                            System.out.println("Không biết sao lại không hiện được nhân vật:))))");
+                        }*/
+                        System.out.println(figure.getId());
+                        controller.setFigure(figure);
                         Scene scene = new Scene(root);
                         Stage stage = (Stage)((Node)mouseEvent.getSource()).getScene().getWindow();
                         stage.setScene(scene);
