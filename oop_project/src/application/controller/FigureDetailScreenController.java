@@ -101,6 +101,8 @@ public class FigureDetailScreenController {
         {
             eraText.setText(character.getEraName().keySet().toArray(new String[0])[0]);
         }
+        else
+        {}
         // System.out.println("==============================" +character.getEraName()+ "=============================");
         // System.out.println("==============================" +eraText.getText()+ "=============================");
         // System.out.println("==============================" +character.getEraName().get(eraText.getText())+ "=============================");
@@ -109,10 +111,18 @@ public class FigureDetailScreenController {
             fatherText.setText(character.getFatherName().keySet().toArray(new String[0])[0]);
 
         }
-        
+        else
+        {
+            fatherText.setText("Không rõ");
+        }
+
         if (!character.getMotherName().isEmpty())
         {
             motherText.setText(character.getMotherName().keySet().toArray(new String[0])[0]);
+        }
+        else
+        {
+            motherText.setText("Không rõ");
         }
         
         Era era = eraCollection.get(character.getEraName().get(eraText.getText()));
