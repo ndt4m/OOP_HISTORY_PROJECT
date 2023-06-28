@@ -1,8 +1,8 @@
 package application.controller;
 
 import application.App;
-import history.model.Festival;
-import history.collection.Festivals;
+import entity.Festival;
+import collection.FestivalCollection;
 import javafx.collections.FXCollections;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
@@ -38,21 +38,29 @@ public class FestivalScreenController {
 
     @FXML
     public void initialize() {
+        FestivalCollection festivalCollection = new FestivalCollection();
+        try{
+            festivalCollection.loadJsonFiles();
+        } catch (IOException e){
+            e.printStackTrace();
+        }
 
         colFesId.setCellValueFactory(
                 new PropertyValueFactory<Festival, Integer>("id")
         );
         colFesName.setCellValueFactory(
-                new PropertyValueFactory<Festival, String>("name")
+                new PropertyValueFactory<Festival, String>("entityName")
         );
         colFesDate.setCellValueFactory(
-                new PropertyValueFactory<Festival, String>("date")
+                new PropertyValueFactory<Festival, String>("time")
         );
         colFesLocate.setCellValueFactory(
                 new PropertyValueFactory<Festival, String>("location")
         );
-        fesTable.setItems(Festivals.collection.getData());
 
+        fesTable.setItems(festivalCollection.getData());
+
+        /* 
         searchBarController.setSearchBoxListener(
                 new SearchBoxListener() {
                     @Override
@@ -78,7 +86,7 @@ public class FestivalScreenController {
                     }
                 }
         );
-
+        */
         fesTable.setRowFactory(tableView -> {
             TableRow<Festival> row = new TableRow<>();
             row.setOnMouseClicked(event -> {

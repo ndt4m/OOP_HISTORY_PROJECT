@@ -1,9 +1,9 @@
 package application.controller;
 
 import application.App;
-import history.model.Event;
-import history.model.HistoricalFigure;
-import history.collection.HistoricalFigures;
+import entity.Event;
+import entity.HistoricalCharacter;
+import collection.HistoricalCharCollection;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
@@ -20,6 +20,9 @@ import java.util.Map;
 
 public class EventDetailScreenController {
     @FXML
+    private FlowPane aliasFlowPane;
+
+    @FXML
     private Text nameText;
 
     @FXML
@@ -30,9 +33,6 @@ public class EventDetailScreenController {
 
     @FXML
     private Text overviewText;
-
-    @FXML
-    private Text causeText;
 
     @FXML
     private Text resultText;
@@ -52,18 +52,30 @@ public class EventDetailScreenController {
 
     public void setEvent(Event event) {
         this.event = event;
-        nameText.setText(event.getName());
-        timeText.setText(event.getDate());
+        nameText.setText(event.getEntityName());
+        timeText.setText(event.getTime());
         locationText.setText(event.getLocation());
         overviewText.setText(event.getOverview());
-        causeText.setText(event.getCause());
         resultText.setText(event.getResult());
-        for(Map.Entry<String, Integer> entry : event.getRelatedFiguresId().entrySet()){
+        for (String alias : event.getAliases()) {
+            Text aliasText = new Text(alias);
+            aliasFlowPane.getChildren().add(aliasText);
+        }
+
+        HistoricalCharCollection historicalCharCollection = new HistoricalCharCollection();
+        try {
+            historicalCharCollection.loadJsonFiles();
+        } catch (IOException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
+
+        for(Map.Entry<String, Integer> entry : event.getRelatedCharacters().entrySet()){
             Text figureText = new Text(entry.getKey());
             if(entry.getValue() != null){
                 figureText.setFill(Color.web("#3498db"));
                 figureText.setOnMouseClicked(mouseEvent -> {
-                    HistoricalFigure figure = HistoricalFigures.collection.get(entry.getValue());
+                    HistoricalCharacter figure = historicalCharCollection.get(entry.getValue());
                     try {
                         FXMLLoader loader = new FXMLLoader(App.convertToURL("/application/view/FigureDetailScreen.fxml"));
                         Parent root = loader.load();

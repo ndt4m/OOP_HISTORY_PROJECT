@@ -1,11 +1,11 @@
 package application.controller;
 
 import application.App;
-import history.collection.Festivals;
-import history.model.Festival;
-import history.model.HistoricalFigure;
-import history.collection.HistoricalFigures;
-import history.model.HistoricSite;
+import collection.FestivalCollection;
+import entity.Festival;
+import entity.HistoricalCharacter;
+import collection.HistoricalCharCollection;
+import entity.HistoricalSite;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
@@ -28,16 +28,7 @@ public class SiteDetailScreenController {
     private Text locationText;
 
     @FXML
-    private Text constructionDateText;
-
-    @FXML
-    private Text founderText;
-
-    @FXML
     private Text overviewText;
-
-    @FXML
-    private Text noteText;
 
     @FXML
     private Text categoryText;
@@ -54,23 +45,30 @@ public class SiteDetailScreenController {
     @FXML
     private SidebarController sideBarController;
 
-    private HistoricSite site;
+    private HistoricalSite site;
 
     @FXML
     public void onClickBack(ActionEvent event) throws IOException {
         sideBarController.switchByGetFxml("/application/view/HistoricSiteScreen.fxml", event);
     }
 
-    public void setHistoricSite(HistoricSite site) {
+    public void setHistoricSite(HistoricalSite site) {
+        HistoricalCharCollection historicalCharCollection = new HistoricalCharCollection();
+        try {
+            historicalCharCollection.loadJsonFiles();
+        } catch (IOException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
+
         this.site = site;
-        nameText.setText(site.getName());
+        nameText.setText(site.getEntityName());
         locationText.setText(site.getLocation());
-        constructionDateText.setText(site.getConstructionDate());
-        founderText.setText(site.getFounder());
         overviewText.setText(site.getOverview());
-        noteText.setText(site.getNote());
         categoryText.setText(site.getCategory());
-        approvedYearText.setText(site.getApprovedYear());
+        approvedYearText.setText(site.getEstablishment());
+
+        /*
         for (Map.Entry<String, Integer> entry : site.getRelatedFestivalId().entrySet()) {
             festivalsText.setText(entry.getKey());
             if (entry.getValue() != null) {
@@ -92,12 +90,14 @@ public class SiteDetailScreenController {
                 });
             }
         }
-        for (Map.Entry<String, Integer> entry : site.getRelatedFiguresId().entrySet()){
+        */
+
+        for (Map.Entry<String, Integer> entry : site.getRelatedCharacters().entrySet()){
             Text figureText = new Text(entry.getKey());
             if(entry.getValue() != null) {
                 figureText.setFill(Color.web("#3498db"));
                 figureText.setOnMouseClicked(mouseEvent -> {
-                    HistoricalFigure figure = HistoricalFigures.collection.get(entry.getValue());
+                    HistoricalCharacter figure = historicalCharCollection.get(entry.getValue());
                     try {
                         FXMLLoader loader = new FXMLLoader(App.convertToURL("/application/view/FigureDetailScreen.fxml"));
                         Parent root = loader.load();

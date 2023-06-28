@@ -13,7 +13,7 @@
 <?import javafx.scene.text.Font?>
 <?import javafx.scene.text.Text?>
 
-<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.controller.SiteDetailScreenController">
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.controller.SiteDetailScreenController">
     <top>
         <MenuBar BorderPane.alignment="CENTER">
             <menus>
@@ -78,42 +78,6 @@
                         </VBox>
                      </children>
                   </HBox>
-                  <HBox layoutX="10.0" layoutY="10.0">
-                     <children>
-                        <VBox prefWidth="176.0">
-                           <children>
-                              <Label text="Ngày khởi công">
-                                 <font>
-                                    <Font name="System Bold" size="12.0" />
-                                 </font>
-                              </Label>
-                           </children>
-                        </VBox>
-                        <VBox HBox.hgrow="ALWAYS">
-                           <children>
-                              <Text fx:id="constructionDateText" strokeType="OUTSIDE" strokeWidth="0.0" text="constructionDateText" wrappingWidth="395.73663330078125" />
-                           </children>
-                        </VBox>
-                     </children>
-                  </HBox>
-                  <HBox layoutX="10.0" layoutY="43.0">
-                     <children>
-                        <VBox prefWidth="176.0">
-                           <children>
-                              <Label text="Người sáng lập">
-                                 <font>
-                                    <Font name="System Bold" size="12.0" />
-                                 </font>
-                              </Label>
-                           </children>
-                        </VBox>
-                        <VBox HBox.hgrow="ALWAYS">
-                           <children>
-                              <Text fx:id="founderText" strokeType="OUTSIDE" strokeWidth="0.0" text="founderText" wrappingWidth="393.33660888671875" />
-                           </children>
-                        </VBox>
-                     </children>
-                  </HBox>
                   <HBox layoutX="10.0" layoutY="76.0">
                      <children>
                         <VBox prefWidth="176.0">
@@ -128,24 +92,6 @@
                         <VBox HBox.hgrow="ALWAYS">
                            <children>
                               <Text fx:id="overviewText" strokeType="OUTSIDE" strokeWidth="0.0" text="overviewText" wrappingWidth="393.33660888671875" />
-                           </children>
-                        </VBox>
-                     </children>
-                  </HBox>
-                  <HBox layoutX="10.0" layoutY="173.0">
-                     <children>
-                        <VBox prefWidth="176.0">
-                           <children>
-                              <Label text="Ghi chú">
-                                 <font>
-                                    <Font name="System Bold" size="12.0" />
-                                 </font>
-                              </Label>
-                           </children>
-                        </VBox>
-                        <VBox HBox.hgrow="ALWAYS">
-                           <children>
-                              <Text fx:id="noteText" strokeType="OUTSIDE" strokeWidth="0.0" text="noteText" wrappingWidth="393.33660888671875" />
                            </children>
                         </VBox>
                      </children>

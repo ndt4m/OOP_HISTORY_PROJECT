@@ -19,8 +19,6 @@ import java.io.IOException;
 import java.util.Map;
 
 public class EraDetailScreenController {
-
-    private HistoricalCharCollection historicalCharCollection = new HistoricalCharCollection();
     
     @FXML
     public FlowPane relatedCharFlowPane;
@@ -54,6 +52,7 @@ public class EraDetailScreenController {
     }
 
     public void setEra(Era era) {
+        HistoricalCharCollection historicalCharCollection = new HistoricalCharCollection();
         try {
             historicalCharCollection.loadJsonFiles();
         } catch (IOException e) {
@@ -80,14 +79,14 @@ public class EraDetailScreenController {
                         FXMLLoader loader = new FXMLLoader(App.convertToURL("/application/view/FigureDetailScreen.fxml"));
                         Parent root = loader.load();
                         FigureDetailScreenController controller = loader.getController();
-                        /*try{
+                        try{
                             controller.setFigure(figure);
                         } catch (Exception e){
                             // Thêm xử lí exception không load được nhân vật
                             System.out.println("Không biết sao lại không hiện được nhân vật:))))");
-                        }*/
-                        System.out.println(figure.getId());
-                        controller.setFigure(figure);
+                        }
+                        /*System.out.println(figure.getId());
+                        controller.setFigure(figure);*/
                         Scene scene = new Scene(root);
                         Stage stage = (Stage)((Node)mouseEvent.getSource()).getScene().getWindow();
                         stage.setScene(scene);

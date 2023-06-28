@@ -13,7 +13,7 @@
 <?import javafx.scene.text.Font?>
 <?import javafx.scene.text.Text?>
 
-<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.controller.FesDetailScreenController">
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.controller.FesDetailScreenController">
     <top>
         <MenuBar BorderPane.alignment="CENTER">
             <menus>
@@ -60,6 +60,24 @@
                   <Insets bottom="5.0" left="10.0" right="10.0" top="10.0" />
                </VBox.margin>
                <children>
+                  <HBox layoutX="10.0" layoutY="91.0">
+                     <children>
+                        <VBox prefWidth="176.0">
+                           <children>
+                              <Label text="Mô tả">
+                                 <font>
+                                    <Font name="System Bold" size="12.0" />
+                                 </font>
+                              </Label>
+                           </children>
+                        </VBox>
+                        <VBox HBox.hgrow="ALWAYS">
+                           <children>
+                              <Text fx:id="overviewText" strokeType="OUTSIDE" strokeWidth="0.0" text="overviewText" wrappingWidth="301.33673095703125" />
+                           </children>
+                        </VBox>
+                     </children>
+                  </HBox>
                   <HBox>
                      <children>
                         <VBox prefWidth="176.0">

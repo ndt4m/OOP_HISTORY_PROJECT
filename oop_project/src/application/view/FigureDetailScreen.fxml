@@ -6,6 +6,7 @@
 <?import javafx.scene.control.Menu?>
 <?import javafx.scene.control.MenuBar?>
 <?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.ScrollPane?>
 <?import javafx.scene.layout.BorderPane?>
 <?import javafx.scene.layout.FlowPane?>
 <?import javafx.scene.layout.HBox?>
@@ -13,7 +14,7 @@
 <?import javafx.scene.text.Font?>
 <?import javafx.scene.text.Text?>
 
-<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.controller.FigureDetailScreenController">
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.controller.FigureDetailScreenController" >
     <top>
         <MenuBar BorderPane.alignment="CENTER">
             <menus>
@@ -39,212 +40,216 @@
         <fx:include fx:id="sideBar" source="Sidebar.fxml" />
     </left>
     <center>
-        <VBox styleClass="background" stylesheets="@../stylesheet/stylesheet.css" BorderPane.alignment="CENTER">
-            <children>
-                <HBox>
-                    <children>
-                        <Button mnemonicParsing="false" onAction="#onClickBack" text="Quay lại" />
-                    </children>
-                </HBox>
-                <HBox alignment="CENTER">
-               <children>
-                  <Text fx:id="nameText" strokeType="OUTSIDE" strokeWidth="0.0" text="Name" textAlignment="CENTER" wrappingWidth="564.0101442337036">
-                     <font>
-                        <Font size="36.0" />
-                     </font>
-                  </Text>
-               </children>
-                </HBox>
-            <VBox spacing="15.0" VBox.vgrow="ALWAYS">
-               <children>
-                  <HBox>
+      <ScrollPane BorderPane.alignment="CENTER">
+         <BorderPane.margin>
+            <Insets />
+         </BorderPane.margin>
+         <content>
+              <VBox styleClass="background" stylesheets="@../stylesheet/stylesheet.css">
+                  <children>
+                      <HBox>
+                          <children>
+                              <Button mnemonicParsing="false" onAction="#onClickBack" text="Quay lại" />
+                          </children>
+                      </HBox>
+                      <HBox alignment="CENTER">
                      <children>
-                        <VBox prefHeight="18.0" prefWidth="176.0">
-                           <children>
-                              <Label text="Tên khác">
-                                 <font>
-                                    <Font name="System Bold" size="12.0" />
-                                 </font>
-                              </Label>
-                           </children>
-                        </VBox>
-                        <FlowPane fx:id="aliasFlowPane" hgap="15.0" vgap="5.0" HBox.hgrow="ALWAYS" />
+                        <Text fx:id="nameText" strokeType="OUTSIDE" strokeWidth="0.0" text="Name" textAlignment="CENTER" wrappingWidth="564.0101442337036">
+                           <font>
+                              <Font size="36.0" />
+                           </font>
+                        </Text>
                      </children>
-                  </HBox>
-                  <HBox layoutX="10.0" layoutY="10.0">
+                      </HBox>
+                  <VBox spacing="15.0" VBox.vgrow="ALWAYS">
                      <children>
-                        <VBox prefHeight="18.0" prefWidth="176.0">
+                        <HBox>
                            <children>
-                              <Label text="Năm sinh">
-                                 <font>
-                                    <Font name="System Bold" size="12.0" />
-                                 </font>
-                              </Label>
+                              <VBox prefHeight="18.0" prefWidth="176.0">
+                                 <children>
+                                    <Label text="Tên khác">
+                                       <font>
+                                          <Font name="System Bold" size="12.0" />
+                                       </font>
+                                    </Label>
+                                 </children>
+                              </VBox>
+                              <FlowPane fx:id="aliasFlowPane" hgap="15.0" vgap="5.0" HBox.hgrow="ALWAYS" />
                            </children>
-                        </VBox>
-                        <VBox HBox.hgrow="ALWAYS">
+                        </HBox>
+                        <HBox layoutX="10.0" layoutY="10.0">
                            <children>
-                              <Text fx:id="dateOfBirthText" strokeType="OUTSIDE" strokeWidth="0.0" text="dateOfBirthText" wrappingWidth="370.1365661621094" VBox.vgrow="ALWAYS" />
+                              <VBox prefHeight="18.0" prefWidth="176.0">
+                                 <children>
+                                    <Label text="Năm sinh">
+                                       <font>
+                                          <Font name="System Bold" size="12.0" />
+                                       </font>
+                                    </Label>
+                                 </children>
+                              </VBox>
+                              <VBox HBox.hgrow="ALWAYS">
+                                 <children>
+                                    <Text fx:id="dateOfBirthText" strokeType="OUTSIDE" strokeWidth="0.0" text="dateOfBirthText" wrappingWidth="370.1365661621094" VBox.vgrow="ALWAYS" />
+                                 </children>
+                              </VBox>
                            </children>
-                        </VBox>
+                        </HBox>
+                        <HBox layoutX="10.0" layoutY="106.0">
+                           <children>
+                              <VBox prefHeight="18.0" prefWidth="176.0">
+                                 <children>
+                                    <Label text="Năm mất">
+                                       <font>
+                                          <Font name="System Bold" size="12.0" />
+                                       </font>
+                                    </Label>
+                                 </children>
+                              </VBox>
+                              <VBox HBox.hgrow="ALWAYS">
+                                 <children>
+                                    <Text fx:id="dateOfDeathText" strokeType="OUTSIDE" strokeWidth="0.0" text="dateOfDeathText" wrappingWidth="368.5365905761719" VBox.vgrow="ALWAYS" />
+                                 </children>
+                              </VBox>
+                           </children>
+                        </HBox>
+                        <HBox layoutX="10.0" layoutY="202.0">
+                           <children>
+                              <VBox prefHeight="18.0" prefWidth="176.0">
+                                 <children>
+                                    <Label text="Tổng quan">
+                                       <font>
+                                          <Font name="System Bold" size="12.0" />
+                                       </font>
+                                    </Label>
+                                 </children>
+                              </VBox>
+                              <VBox HBox.hgrow="ALWAYS">
+                                 <children>
+                                    <Text fx:id="overviewText" strokeType="OUTSIDE" strokeWidth="0.0" text="overviewText" wrappingWidth="370.9366149902344" VBox.vgrow="ALWAYS" />
+                                 </children>
+                              </VBox>
+                           </children>
+                        </HBox>
+                        <HBox layoutX="10.0" layoutY="298.0">
+                           <children>
+                              <VBox prefHeight="18.0" prefWidth="176.0">
+                                 <children>
+                                    <Label text="Thời gian tại chức">
+                                       <font>
+                                          <Font name="System Bold" size="12.0" />
+                                       </font>
+                                    </Label>
+                                 </children>
+                              </VBox>
+                              <VBox HBox.hgrow="ALWAYS">
+                                 <children>
+                                    <Text fx:id="workTenureText" strokeType="OUTSIDE" strokeWidth="0.0" text="workTenureText" wrappingWidth="370.1366882324219" VBox.vgrow="ALWAYS" />
+                                 </children>
+                              </VBox>
+                           </children>
+                        </HBox>
+                        <HBox layoutX="10.0" layoutY="298.0">
+                           <children>
+                              <VBox prefHeight="18.0" prefWidth="176.0">
+                                 <children>
+                                    <Label text="Chức vụ">
+                                       <font>
+                                          <Font name="System Bold" size="12.0" />
+                                       </font>
+                                    </Label>
+                                 </children>
+                              </VBox>
+                              <VBox HBox.hgrow="ALWAYS">
+                                 <children>
+                                    <Text fx:id="occupationText" strokeType="OUTSIDE" strokeWidth="0.0" text="occupationText" wrappingWidth="370.1366882324219" VBox.vgrow="ALWAYS" />
+                                 </children>
+                              </VBox>
+                           </children>
+                        </HBox>
+                        <HBox layoutX="10.0" layoutY="298.0">
+                           <children>
+                              <VBox prefHeight="18.0" prefWidth="176.0">
+                                 <children>
+                                    <Label text="Quê quán">
+                                       <font>
+                                          <Font name="System Bold" size="12.0" />
+                                       </font>
+                                    </Label>
+                                 </children>
+                              </VBox>
+                              <VBox HBox.hgrow="ALWAYS">
+                                 <children>
+                                    <Text fx:id="hometownText" strokeType="OUTSIDE" strokeWidth="0.0" text="hometownText" wrappingWidth="370.1366882324219" VBox.vgrow="ALWAYS" />
+                                 </children>
+                              </VBox>
+                           </children>
+                        </HBox>
+                        <HBox layoutX="10.0" layoutY="394.0">
+                           <children>
+                              <VBox prefHeight="18.0" prefWidth="176.0">
+                                 <children>
+                                    <Label text="Triều đại">
+                                       <font>
+                                          <Font name="System Bold" size="12.0" />
+                                       </font>
+                                    </Label>
+                                 </children>
+                              </VBox>
+                              <VBox HBox.hgrow="ALWAYS">
+                                 <children>
+                                    <Text fx:id="eraText" strokeType="OUTSIDE" strokeWidth="0.0" text="eraText" wrappingWidth="369.3366394042969" VBox.vgrow="ALWAYS" />
+                                 </children>
+                              </VBox>
+                           </children>
+                        </HBox>
+                        <HBox layoutX="10.0" layoutY="490.0">
+                           <children>
+                              <VBox prefHeight="18.0" prefWidth="176.0">
+                                 <children>
+                                    <Label text="Cha">
+                                       <font>
+                                          <Font name="System Bold" size="12.0" />
+                                       </font>
+                                    </Label>
+                                 </children>
+                              </VBox>
+                              <VBox HBox.hgrow="ALWAYS">
+                                 <children>
+                                    <Text fx:id="fatherText" strokeType="OUTSIDE" strokeWidth="0.0" text="fatherText" wrappingWidth="369.3366394042969" VBox.vgrow="ALWAYS" />
+                                 </children>
+                              </VBox>
+                           </children>
+                        </HBox>
+                        <HBox layoutX="10.0" layoutY="586.0">
+                           <children>
+                              <VBox prefHeight="18.0" prefWidth="176.0">
+                                 <children>
+                                    <Label text="Mẹ">
+                                       <font>
+                                          <Font name="System Bold" size="12.0" />
+                                       </font>
+                                    </Label>
+                                 </children>
+                              </VBox>
+                              <VBox HBox.hgrow="ALWAYS">
+                                 <children>
+                                    <Text fx:id="motherText" strokeType="OUTSIDE" strokeWidth="0.0" text="motherText" wrappingWidth="370.1366882324219" VBox.vgrow="ALWAYS" />
+                                 </children>
+                              </VBox>
+                           </children>
+                        </HBox>
                      </children>
-                  </HBox>
-                  <HBox layoutX="10.0" layoutY="106.0">
-                     <children>
-                        <VBox prefHeight="18.0" prefWidth="176.0">
-                           <children>
-                              <Label text="Năm mất">
-                                 <font>
-                                    <Font name="System Bold" size="12.0" />
-                                 </font>
-                              </Label>
-                           </children>
-                        </VBox>
-                        <VBox HBox.hgrow="ALWAYS">
-                           <children>
-                              <Text fx:id="dateOfDeathText" strokeType="OUTSIDE" strokeWidth="0.0" text="dateOfDeathText" wrappingWidth="368.5365905761719" VBox.vgrow="ALWAYS" />
-                           </children>
-                        </VBox>
-                     </children>
-                  </HBox>
-                  <HBox layoutX="10.0" layoutY="202.0">
-                     <children>
-                        <VBox prefHeight="18.0" prefWidth="176.0">
-                           <children>
-                              <Label text="Tổng quan">
-                                 <font>
-                                    <Font name="System Bold" size="12.0" />
-                                 </font>
-                              </Label>
-                           </children>
-                        </VBox>
-                        <VBox HBox.hgrow="ALWAYS">
-                           <children>
-                              <Text fx:id="overviewText" strokeType="OUTSIDE" strokeWidth="0.0" text="overviewText" wrappingWidth="370.9366149902344" VBox.vgrow="ALWAYS" />
-                           </children>
-                        </VBox>
-                     </children>
-                  </HBox>
-                  <HBox layoutX="10.0" layoutY="298.0">
-                     <children>
-                        <VBox prefHeight="18.0" prefWidth="176.0">
-                           <children>
-                              <Label text="Thời gian tại chức">
-                                 <font>
-                                    <Font name="System Bold" size="12.0" />
-                                 </font>
-                              </Label>
-                           </children>
-                        </VBox>
-                        <VBox HBox.hgrow="ALWAYS">
-                           <children>
-                              <Text fx:id="workTenureText" strokeType="OUTSIDE" strokeWidth="0.0" text="workTenureText" wrappingWidth="370.1366882324219" VBox.vgrow="ALWAYS" />
-                           </children>
-                        </VBox>
-                     </children>
-                  </HBox>
-                  <HBox layoutX="10.0" layoutY="298.0">
-                     <children>
-                        <VBox prefHeight="18.0" prefWidth="176.0">
-                           <children>
-                              <Label text="Chức vụ">
-                                 <font>
-                                    <Font name="System Bold" size="12.0" />
-                                 </font>
-                              </Label>
-                           </children>
-                        </VBox>
-                        <VBox HBox.hgrow="ALWAYS">
-                           <children>
-                              <Text fx:id="occupationText" strokeType="OUTSIDE" strokeWidth="0.0" text="occupationText" wrappingWidth="370.1366882324219" VBox.vgrow="ALWAYS" />
-                           </children>
-                        </VBox>
-                     </children>
-                  </HBox>
-                  <HBox layoutX="10.0" layoutY="298.0">
-                     <children>
-                        <VBox prefHeight="18.0" prefWidth="176.0">
-                           <children>
-                              <Label text="Quê quán">
-                                 <font>
-                                    <Font name="System Bold" size="12.0" />
-                                 </font>
-                              </Label>
-                           </children>
-                        </VBox>
-                        <VBox HBox.hgrow="ALWAYS">
-                           <children>
-                              <Text fx:id="hometownText" strokeType="OUTSIDE" strokeWidth="0.0" text="hometownText" wrappingWidth="370.1366882324219" VBox.vgrow="ALWAYS" />
-                           </children>
-                        </VBox>
-                     </children>
-                  </HBox>
-                  <HBox layoutX="10.0" layoutY="394.0">
-                     <children>
-                        <VBox prefHeight="18.0" prefWidth="176.0">
-                           <children>
-                              <Label text="Triều đại">
-                                 <font>
-                                    <Font name="System Bold" size="12.0" />
-                                 </font>
-                              </Label>
-                           </children>
-                        </VBox>
-                        <VBox HBox.hgrow="ALWAYS">
-                           <children>
-                              <Text fx:id="eraText" strokeType="OUTSIDE" strokeWidth="0.0" text="eraText" wrappingWidth="369.3366394042969" VBox.vgrow="ALWAYS" />
-                           </children>
-                        </VBox>
-                     </children>
-                  </HBox>
-                  <HBox layoutX="10.0" layoutY="490.0">
-                     <children>
-                        <VBox prefHeight="18.0" prefWidth="176.0">
-                           <children>
-                              <Label text="Cha">
-                                 <font>
-                                    <Font name="System Bold" size="12.0" />
-                                 </font>
-                              </Label>
-                           </children>
-                        </VBox>
-                        <VBox HBox.hgrow="ALWAYS">
-                           <children>
-                              <Text fx:id="fatherText" strokeType="OUTSIDE" strokeWidth="0.0" text="fatherText" wrappingWidth="369.3366394042969" VBox.vgrow="ALWAYS" />
-                           </children>
-                        </VBox>
-                     </children>
-                  </HBox>
-                  <HBox layoutX="10.0" layoutY="586.0">
-                     <children>
-                        <VBox prefHeight="18.0" prefWidth="176.0">
-                           <children>
-                              <Label text="Mẹ">
-                                 <font>
-                                    <Font name="System Bold" size="12.0" />
-                                 </font>
-                              </Label>
-                           </children>
-                        </VBox>
-                        <VBox HBox.hgrow="ALWAYS">
-                           <children>
-                              <Text fx:id="motherText" strokeType="OUTSIDE" strokeWidth="0.0" text="motherText" wrappingWidth="370.1366882324219" VBox.vgrow="ALWAYS" />
-                           </children>
-                        </VBox>
-                     </children>
-                  </HBox>
-               </children>
-               <VBox.margin>
-                  <Insets bottom="5.0" left="10.0" right="10.0" top="10.0" />
-               </VBox.margin>
-            </VBox>
-            </children>
-            <BorderPane.margin>
-                <Insets />
-            </BorderPane.margin>
-            <padding>
-                <Insets bottom="5.0" left="20.0" right="20.0" top="10.0" />
-            </padding>
-        </VBox>
+                     <VBox.margin>
+                        <Insets bottom="5.0" left="10.0" right="10.0" top="10.0" />
+                     </VBox.margin>
+                  </VBox>
+                  </children>
+                  <padding>
+                      <Insets bottom="5.0" left="20.0" right="20.0" top="10.0" />
+                  </padding>
+              </VBox>
+         </content>
+      </ScrollPane>
     </center>
 </BorderPane>

@@ -1,8 +1,8 @@
 package application.controller;
 
 import application.App;
-import history.model.HistoricSite;
-import history.collection.HistoricSites;
+import entity.HistoricalSite;
+import collection.HistoricalSiteCollection;
 import javafx.collections.FXCollections;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
@@ -19,40 +19,45 @@ import java.io.IOException;
 
 public class SiteScreenController {
     @FXML
-    private TableView<HistoricSite> siteTable;
+    private TableView<HistoricalSite> siteTable;
 
     @FXML
-    private TableColumn<HistoricSite, Integer> colSiteId;
+    private TableColumn<HistoricalSite, Integer> colSiteId;
 
     @FXML
-    private TableColumn<HistoricSite, String> colSiteName;
+    private TableColumn<HistoricalSite, String> colSiteName;
 
     @FXML
-    private TableColumn<HistoricSite, String> colSiteDate;
+    private TableColumn<HistoricalSite, String> colSiteDate;
 
     @FXML
-    private TableColumn<HistoricSite, String> colSiteLocate;
+    private TableColumn<HistoricalSite, String> colSiteLocate;
 
     @FXML
     private SearchBarController searchBarController;
 
     @FXML
     public void initialize() {
+        HistoricalSiteCollection historicalSiteCollection = new HistoricalSiteCollection();
+        try {
+            historicalSiteCollection.loadJsonFiles();
+        } catch (IOException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
 
         colSiteId.setCellValueFactory(
-                new PropertyValueFactory<HistoricSite, Integer>("id")
+                new PropertyValueFactory<HistoricalSite, Integer>("id")
         );
         colSiteName.setCellValueFactory(
-                new PropertyValueFactory<HistoricSite, String>("name")
-        );
-        colSiteDate.setCellValueFactory(
-                new PropertyValueFactory<HistoricSite, String>("constructionDate")
+                new PropertyValueFactory<HistoricalSite, String>("entityName")
         );
         colSiteLocate.setCellValueFactory(
-                new PropertyValueFactory<HistoricSite, String>("location")
+                new PropertyValueFactory<HistoricalSite, String>("location")
         );
-        siteTable.setItems(HistoricSites.collection.getData());
-
+        siteTable.setItems(historicalSiteCollection.getData());
+        
+        /*
         searchBarController.setSearchBoxListener(
                 new SearchBoxListener() {
                     @Override
@@ -78,12 +83,13 @@ public class SiteScreenController {
                     }
                 }
         );
+        */
 
         siteTable.setRowFactory(tableView -> {
-            TableRow<HistoricSite> row = new TableRow<>();
+            TableRow<HistoricalSite> row = new TableRow<>();
             row.setOnMouseClicked(event -> {
                 if(event.getClickCount() == 2 && (!row.isEmpty())){
-                    HistoricSite site = row.getItem();
+                    HistoricalSite site = row.getItem();
                     try {
                         FXMLLoader loader = new FXMLLoader(App.convertToURL("/application/view/SiteDetailScreen.fxml"));
                         Parent root = loader.load();

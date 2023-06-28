@@ -1,8 +1,8 @@
 package application.controller;
 
 import application.App;
-import history.model.Event;
-import history.collection.Events;
+import entity.Event;
+import collection.EventCollection;
 import javafx.collections.FXCollections;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
@@ -39,21 +39,30 @@ public class EventScreenController {
 
     @FXML
     public void initialize() {
+        EventCollection eventCollection = new EventCollection();
+        try {
+            eventCollection.loadJsonFiles();
+        } catch (IOException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
 
         colEventId.setCellValueFactory(
                 new PropertyValueFactory<Event, Integer>("id")
         );
         colEventName.setCellValueFactory(
-                new PropertyValueFactory<Event, String>("name")
+                new PropertyValueFactory<Event, String>("entityName")
         );
         colEventDate.setCellValueFactory(
-                new PropertyValueFactory<Event, String>("date")
+                new PropertyValueFactory<Event, String>("time")
         );
         colEventLocate.setCellValueFactory(
                 new PropertyValueFactory<Event, String>("location")
         );
-        eventTable.setItems(Events.collection.getData());
 
+        eventTable.setItems(eventCollection.getData());
+
+        /*
         searchBarController.setSearchBoxListener(
                 new SearchBoxListener() {
                     @Override
@@ -79,7 +88,8 @@ public class EventScreenController {
                     }
                 }
         );
-
+        */
+        
         eventTable.setRowFactory(tableView -> {
             TableRow<Event> row = new TableRow<>();
             row.setOnMouseClicked(mouseEvent -> {

@@ -20,10 +20,6 @@ import java.io.IOException;
 
 public class FigureDetailScreenController {
 
-    private HistoricalCharCollection historicalCharCollection = new HistoricalCharCollection();
-
-    private EraCollection eraCollection = new EraCollection();
-
     @FXML
     private Text nameText;
 
@@ -62,6 +58,7 @@ public class FigureDetailScreenController {
     }
 
     public void setFigure(HistoricalCharacter character) {
+        HistoricalCharCollection historicalCharCollection = new HistoricalCharCollection();
         try {
             historicalCharCollection.loadJsonFiles();
         } catch (IOException e) {
@@ -69,6 +66,7 @@ public class FigureDetailScreenController {
             e.printStackTrace();
         }
 
+        EraCollection eraCollection = new EraCollection();
         try {
             eraCollection.loadJsonFiles();
         } catch (IOException e) {

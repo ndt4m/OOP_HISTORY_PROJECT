@@ -1,9 +1,8 @@
 package application.controller;
 
 import application.App;
-import history.model.HistoricalFigure;
-import history.collection.HistoricalFigures;
-import history.relation.Pair;
+import entity.HistoricalCharacter;
+import collection.HistoricalCharCollection;
 import javafx.collections.FXCollections;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
@@ -15,42 +14,53 @@ import javafx.scene.control.TableRow;
 import javafx.scene.control.TableView;
 import javafx.scene.control.cell.PropertyValueFactory;
 import javafx.stage.Stage;
+import javafx.util.Pair;
 
 import java.io.IOException;
+import java.util.Map;
 
 public class FigureScreenController {
 
     @FXML
-    private TableView<HistoricalFigure> tblFigure;
+    private TableView<HistoricalCharacter> tblFigure;
 
     @FXML
-    private TableColumn<HistoricalFigure, Integer> colFigureId;
+    private TableColumn<HistoricalCharacter, Integer> colFigureId;
 
     @FXML
-    private TableColumn<HistoricalFigure, String> colFigureName;
+    private TableColumn<HistoricalCharacter, String> colFigureName;
 
     @FXML
-    private TableColumn<HistoricalFigure, Pair<String, Integer> > colFigureEra;
+    private TableColumn<HistoricalCharacter, Map<String, Integer> > colFigureEra;
 
     @FXML
-    private TableColumn<HistoricalFigure, String> colFigureOverview;
+    private TableColumn<HistoricalCharacter, String> colFigureOverview;
 
     @FXML
     private SearchBarController searchBarController;
 
     @FXML
     public void initialize() {
+        HistoricalCharCollection historicalCharCollection = new HistoricalCharCollection();
+        try {
+            historicalCharCollection.loadJsonFiles();
+        } catch (IOException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
 
         colFigureId.setCellValueFactory(
-                new PropertyValueFactory<HistoricalFigure, Integer>("id"));
+                new PropertyValueFactory<HistoricalCharacter, Integer>("id"));
         colFigureName.setCellValueFactory(
-                new PropertyValueFactory<HistoricalFigure, String>("name"));
+                new PropertyValueFactory<HistoricalCharacter, String>("entityName"));
         colFigureEra.setCellValueFactory(
-                new PropertyValueFactory<HistoricalFigure, Pair<String, Integer> >("era"));
+                new PropertyValueFactory<HistoricalCharacter, Map<String, Integer> >("eraName"));
         colFigureOverview.setCellValueFactory(
-                new PropertyValueFactory<HistoricalFigure, String>("overview"));
-        tblFigure.setItems(HistoricalFigures.collection.getData());
+                new PropertyValueFactory<HistoricalCharacter, String>("overview"));
 
+        tblFigure.setItems(historicalCharCollection.getData());
+
+        /*
         searchBarController.setSearchBoxListener(
                 new SearchBoxListener() {
                     @Override
@@ -76,12 +86,13 @@ public class FigureScreenController {
                     }
                 }
         );
+        */
 
         tblFigure.setRowFactory(tableView -> {
-            TableRow<HistoricalFigure> row = new TableRow<>();
+            TableRow<HistoricalCharacter> row = new TableRow<>();
             row.setOnMouseClicked(event -> {
                 if(event.getClickCount() == 2 && (!row.isEmpty())){
-                    HistoricalFigure figure = row.getItem();
+                    HistoricalCharacter figure = row.getItem();
                     try {
                         FXMLLoader loader = new FXMLLoader(App.convertToURL("/application/view/FigureDetailScreen.fxml"));
                         Parent root = loader.load();
