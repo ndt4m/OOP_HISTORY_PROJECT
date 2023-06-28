@@ -96,13 +96,25 @@ public class FigureDetailScreenController {
         dateOfDeathText.setText(character.getDateOfDeath());
         overviewText.setText(character.getOverview());
         workTenureText.setText(character.getWorkTenure());
-        System.out.println("==============================" +character.getId()+ "=============================");
-        System.out.println("==============================" +character.getEraName().get(eraText.getText())+ "=============================");
         
-        eraText.setText(character.getEraName().keySet().toArray(new String[0])[0]);
-        fatherText.setText(character.getFatherName().keySet().toArray(new String[0])[0]);
-        motherText.setText(character.getMotherName().keySet().toArray(new String[0])[0]);
+        if (!character.getEraName().isEmpty())
+        {
+            eraText.setText(character.getEraName().keySet().toArray(new String[0])[0]);
+        }
+        // System.out.println("==============================" +character.getEraName()+ "=============================");
+        // System.out.println("==============================" +eraText.getText()+ "=============================");
+        // System.out.println("==============================" +character.getEraName().get(eraText.getText())+ "=============================");
+        if (!character.getFatherName().isEmpty())
+        {
+            fatherText.setText(character.getFatherName().keySet().toArray(new String[0])[0]);
 
+        }
+        
+        if (!character.getMotherName().isEmpty())
+        {
+            motherText.setText(character.getMotherName().keySet().toArray(new String[0])[0]);
+        }
+        
         Era era = eraCollection.get(character.getEraName().get(eraText.getText()));
         HistoricalCharacter father = historicalCharCollection.get(character.getFatherName().get(fatherText.getText()));
         HistoricalCharacter mother = historicalCharCollection.get(character.getMotherName().get(motherText.getText()));
