@@ -2,6 +2,7 @@ package collection;
 
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
+import javafx.collections.transformation.FilteredList;
 
 import java.util.Collection;
 
@@ -48,4 +49,7 @@ public abstract class EntityCollection <T extends Entity>
         return null;
     }
 
+    public FilteredList<T> searchByName(String name){
+        return new FilteredList<>(data, entity -> entity.isMatch(name));
+    }
 }

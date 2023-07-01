@@ -60,12 +60,12 @@ public class FigureScreenController {
 
         tblFigure.setItems(historicalCharCollection.getData());
 
-        /*
+        
         searchBarController.setSearchBoxListener(
                 new SearchBoxListener() {
                     @Override
                     public void handleSearchName(String name) {
-                        tblFigure.setItems(HistoricalFigures.collection.searchByName(name));
+                        tblFigure.setItems(historicalCharCollection.searchByName(name));
                     }
 
                     @Override
@@ -73,7 +73,7 @@ public class FigureScreenController {
                         try {
                             int intId = Integer.parseInt(id);
                             tblFigure.setItems(
-                                    FXCollections.singletonObservableList(HistoricalFigures.collection.get(intId))
+                                    FXCollections.singletonObservableList(historicalCharCollection.get(intId))
                             );
                         } catch (Exception e){
                             System.err.println("Cannot find the entity with the id " + id);
@@ -82,11 +82,11 @@ public class FigureScreenController {
 
                     @Override
                     public void handleBlank() {
-                        tblFigure.setItems(HistoricalFigures.collection.getData());
+                        tblFigure.setItems(historicalCharCollection.getData());
                     }
                 }
         );
-        */
+        
 
         tblFigure.setRowFactory(tableView -> {
             TableRow<HistoricalCharacter> row = new TableRow<>();

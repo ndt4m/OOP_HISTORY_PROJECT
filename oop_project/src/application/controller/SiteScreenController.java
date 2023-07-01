@@ -57,12 +57,11 @@ public class SiteScreenController {
         );
         siteTable.setItems(historicalSiteCollection.getData());
         
-        /*
         searchBarController.setSearchBoxListener(
                 new SearchBoxListener() {
                     @Override
                     public void handleSearchName(String name) {
-                        siteTable.setItems(HistoricSites.collection.searchByName(name));
+                        siteTable.setItems(historicalSiteCollection.searchByName(name));
                     }
 
                     @Override
@@ -70,7 +69,7 @@ public class SiteScreenController {
                         try {
                             int intId = Integer.parseInt(id);
                             siteTable.setItems(
-                                    FXCollections.singletonObservableList(HistoricSites.collection.get(intId))
+                                    FXCollections.singletonObservableList(historicalSiteCollection.get(intId))
                             );
                         } catch (Exception e){
                             System.err.println("Cannot find the entity with the id " + id);
@@ -79,11 +78,10 @@ public class SiteScreenController {
 
                     @Override
                     public void handleBlank() {
-                        siteTable.setItems(HistoricSites.collection.getData());
+                        siteTable.setItems(historicalSiteCollection.getData());
                     }
                 }
         );
-        */
 
         siteTable.setRowFactory(tableView -> {
             TableRow<HistoricalSite> row = new TableRow<>();

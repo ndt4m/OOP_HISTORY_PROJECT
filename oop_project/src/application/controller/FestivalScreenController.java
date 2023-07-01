@@ -60,12 +60,12 @@ public class FestivalScreenController {
 
         fesTable.setItems(festivalCollection.getData());
 
-        /* 
+        
         searchBarController.setSearchBoxListener(
                 new SearchBoxListener() {
                     @Override
                     public void handleSearchName(String name) {
-                        fesTable.setItems(Festivals.collection.searchByName(name));
+                        fesTable.setItems(festivalCollection.searchByName(name));
                     }
 
                     @Override
@@ -73,7 +73,7 @@ public class FestivalScreenController {
                         try {
                             int intId = Integer.parseInt(id);
                             fesTable.setItems(
-                                    FXCollections.singletonObservableList(Festivals.collection.get(intId))
+                                    FXCollections.singletonObservableList(festivalCollection.get(intId))
                             );
                         } catch (Exception e){
                             System.err.println("Cannot find the entity with the id " + id);
@@ -82,11 +82,11 @@ public class FestivalScreenController {
 
                     @Override
                     public void handleBlank() {
-                        fesTable.setItems(Festivals.collection.getData());
+                        fesTable.setItems(festivalCollection.getData());
                     }
                 }
         );
-        */
+        
         fesTable.setRowFactory(tableView -> {
             TableRow<Festival> row = new TableRow<>();
             row.setOnMouseClicked(event -> {

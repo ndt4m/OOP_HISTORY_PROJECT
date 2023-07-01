@@ -85,8 +85,6 @@ public class EraDetailScreenController {
                             // Thêm xử lí exception không load được nhân vật
                             System.out.println("Không biết sao lại không hiện được nhân vật:))))");
                         }
-                        /*System.out.println(figure.getId());
-                        controller.setFigure(figure);*/
                         Scene scene = new Scene(root);
                         Stage stage = (Stage)((Node)mouseEvent.getSource()).getScene().getWindow();
                         stage.setScene(scene);

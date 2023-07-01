@@ -66,24 +66,24 @@ public class EraScreenController {
                 new SearchBoxListener() {
                     @Override
                     public void handleSearchName(String name) {
-                        //eraTable.setItems(eraCollection.searchByName(name));
+                        eraTable.setItems(eraCollection.searchByName(name));
                     }
 
                     @Override
                     public void handleSearchId(String id) {
-                        // try {
-                        //     int intId = Integer.parseInt(id);
-                        //     eraTable.setItems(
-                        //             FXCollections.singletonObservableList(eraCollection.get(intId))
-                        //     );
-                        // } catch (Exception e){
-                        //     System.err.println("Cannot find the entity with the id " + id);
-                        // }
+                        try {
+                            int intId = Integer.parseInt(id);
+                            eraTable.setItems(
+                                    FXCollections.singletonObservableList(eraCollection.get(intId))
+                            );
+                        } catch (Exception e){
+                            System.err.println("Cannot find the entity with the id " + id);
+                        }
                     }
 
                     @Override
                     public void handleBlank() {
-                        //eraTable.setItems(Eras.collection.getData());
+                        eraTable.setItems(eraCollection.getData());
                     }
                 }
         );

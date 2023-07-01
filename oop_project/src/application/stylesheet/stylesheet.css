@@ -6,3 +6,8 @@
 .search-box {
     -fx-background-radius: 100;
 }
+
+.scroll-pane > .viewport {
+    -fx-background-color: transparent;
+    -fx-background-image: url("../images/background.jpg");
+ }

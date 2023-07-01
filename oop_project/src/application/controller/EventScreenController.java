@@ -62,12 +62,12 @@ public class EventScreenController {
 
         eventTable.setItems(eventCollection.getData());
 
-        /*
+        
         searchBarController.setSearchBoxListener(
                 new SearchBoxListener() {
                     @Override
                     public void handleSearchName(String name) {
-                        eventTable.setItems(Events.collection.searchByName(name));
+                        eventTable.setItems(eventCollection.searchByName(name));
                     }
 
                     @Override
@@ -75,7 +75,7 @@ public class EventScreenController {
                         try {
                             int intId = Integer.parseInt(id);
                             eventTable.setItems(
-                                    FXCollections.singletonObservableList(Events.collection.get(intId))
+                                    FXCollections.singletonObservableList(eventCollection.get(intId))
                             );
                         } catch (Exception e){
                             System.err.println("Cannot find the entity with the id " + id);
@@ -84,11 +84,11 @@ public class EventScreenController {
 
                     @Override
                     public void handleBlank() {
-                        eventTable.setItems(Events.collection.getData());
+                        eventTable.setItems(eventCollection.getData());
                     }
                 }
         );
-        */
+        
         
         eventTable.setRowFactory(tableView -> {
             TableRow<Event> row = new TableRow<>();

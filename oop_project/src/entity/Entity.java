@@ -84,6 +84,10 @@ public abstract class Entity
         return false;
     }
 
-    
+    public boolean isMatch(String name){
+        if (this.getEntityName() != null){
+            return this.getEntityName().toLowerCase().contains(name.toLowerCase());
+        }
+        return false;
+    }
 }
-
