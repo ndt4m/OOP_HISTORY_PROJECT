@@ -27,6 +27,7 @@ public class SidebarController {
 
         stage = (Stage)((Node)event.getSource()).getScene().getWindow();
         scene = new Scene(root);
+        stage.setFullScreen(true);
         stage.setScene(scene);
         stage.show();
     }

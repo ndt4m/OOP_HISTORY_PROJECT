@@ -37,6 +37,9 @@ public class FesDetailScreenController {
     @FXML
     private FlowPane relatedCharsFlowPane;
 
+    @FXML
+    private FlowPane aliasFlowPane;
+
     private Festival fes;
 
     @FXML
@@ -60,6 +63,15 @@ public class FesDetailScreenController {
         locationText.setText(fes.getLocation());
         overviewText.setText(fes.getOverview());
 
+        if (!fes.getAliases().isEmpty()){
+            for (String alias : fes.getAliases()) {
+                Text aliasText = new Text(alias);
+                aliasFlowPane.getChildren().add(aliasText);
+            }
+        }else{
+            aliasFlowPane.getChildren().add(new Text("Không rõ"));
+        }
+
         for (Map.Entry<String, Integer> entry : fes.getRelatedCharacters().entrySet()){
             Text figureText = new Text(entry.getKey());
             if(entry.getValue() != null) {
@@ -74,6 +86,7 @@ public class FesDetailScreenController {
                         Scene scene = new Scene(root);
                         Stage stage = (Stage)((Node)mouseEvent.getSource()).getScene().getWindow();
                         stage.setScene(scene);
+                        stage.setFullScreen(true);
                         stage.show();
                     } catch (IOException e){
                         e.printStackTrace();

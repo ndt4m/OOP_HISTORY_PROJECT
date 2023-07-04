@@ -19,6 +19,11 @@ import javafx.stage.Stage;
 import java.io.IOException;
 
 public class FigureDetailScreenController {
+    @FXML
+    private Text hometownText;
+
+    @FXML
+    private Text occupationText;
 
     @FXML
     private Text nameText;
@@ -78,23 +83,31 @@ public class FigureDetailScreenController {
 
         nameText.setText(character.getEntityName());
 
-        for (String alias : character.getAliases()) {
-            Text aliasText = new Text(alias);
-            aliasFlowPane.getChildren().add(aliasText);
+        if (!character.getAliases().isEmpty()){
+            for (String alias : character.getAliases()) {
+                Text aliasText = new Text(alias);
+                aliasFlowPane.getChildren().add(aliasText);
+            }
+        }else{
+            aliasFlowPane.getChildren().add(new Text("Không rõ"));
         }
+
         dateOfBirthText.setText(character.getDateOfBirth());
         dateOfDeathText.setText(character.getDateOfDeath());
         overviewText.setText(character.getOverview());
         workTenureText.setText(character.getWorkTenure());
+        hometownText.setText(character.getHometown());
+        occupationText.setText(character.getOccupation());
+
         if (!character.getEraName().isEmpty())
         {
             eraText.setText(character.getEraName().keySet().toArray(new String[0])[0]);
         }
         else
-        {}
-        // System.out.println("==============================" +character.getEraName()+ "=============================");
-        // System.out.println("==============================" +eraText.getText()+ "=============================");
-        // System.out.println("==============================" +character.getEraName().get(eraText.getText())+ "=============================");
+        {
+            eraText.setText("Không rõ");
+            
+        }
         if (!character.getFatherName().isEmpty())
         {
             fatherText.setText(character.getFatherName().keySet().toArray(new String[0])[0]);
@@ -129,6 +142,7 @@ public class FigureDetailScreenController {
                     Scene scene = new Scene(root);
                     Stage stage = (Stage)((Node)mouseEvent.getSource()).getScene().getWindow();
                     stage.setScene(scene);
+                    stage.setFullScreen(true);
                     stage.show();
                 } catch (IOException e){
                     e.printStackTrace();

@@ -43,6 +43,10 @@ public class SiteDetailScreenController {
     private FlowPane relatedCharsFlowPane;
 
     @FXML
+    private FlowPane aliasFlowPane;
+
+
+    @FXML
     private SidebarController sideBarController;
 
     private HistoricalSite site;
@@ -68,29 +72,14 @@ public class SiteDetailScreenController {
         categoryText.setText(site.getCategory());
         approvedYearText.setText(site.getEstablishment());
 
-        /*
-        for (Map.Entry<String, Integer> entry : site.getRelatedFestivalId().entrySet()) {
-            festivalsText.setText(entry.getKey());
-            if (entry.getValue() != null) {
-                festivalsText.setFill(Color.web("#3498db"));
-                festivalsText.setOnMouseClicked(mouseEvent -> {
-                    Festival fes = Festivals.collection.get(entry.getValue());
-                    try {
-                        FXMLLoader loader = new FXMLLoader(App.convertToURL("/application/view/FesDetailScreen.fxml"));
-                        Parent root = loader.load();
-                        FesDetailScreenController controller = loader.getController();
-                        controller.setFestival(fes);
-                        Scene scene = new Scene(root);
-                        Stage stage = (Stage)((Node)mouseEvent.getSource()).getScene().getWindow();
-                        stage.setScene(scene);
-                        stage.show();
-                    } catch (IOException e) {
-                        e.printStackTrace();
-                    }
-                });
+        if (!site.getAliases().isEmpty()){
+            for (String alias : site.getAliases()) {
+                Text aliasText = new Text(alias);
+                aliasFlowPane.getChildren().add(aliasText);
             }
+        }else{
+            aliasFlowPane.getChildren().add(new Text("Không rõ"));
         }
-        */
 
         for (Map.Entry<String, Integer> entry : site.getRelatedCharacters().entrySet()){
             Text figureText = new Text(entry.getKey());
@@ -106,6 +95,7 @@ public class SiteDetailScreenController {
                         Scene scene = new Scene(root);
                         Stage stage = (Stage)((Node)mouseEvent.getSource()).getScene().getWindow();
                         stage.setScene(scene);
+                        stage.setFullScreen(true);
                         stage.show();
                     } catch (IOException e){
                         e.printStackTrace();

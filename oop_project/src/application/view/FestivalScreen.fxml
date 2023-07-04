@@ -12,31 +12,10 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.controller.FestivalScreenController">
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="613.0" prefWidth="820.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.controller.FestivalScreenController">
     <top>
-        <MenuBar BorderPane.alignment="CENTER">
-            <menus>
-                <Menu mnemonicParsing="false" text="File">
-                    <items>
-                        <MenuItem mnemonicParsing="false" text="Close" />
-                    </items>
-                </Menu>
-                <Menu mnemonicParsing="false" text="Edit">
-                    <items>
-                        <MenuItem mnemonicParsing="false" text="Delete" />
-                    </items>
-                </Menu>
-                <Menu mnemonicParsing="false" text="Help">
-                    <items>
-                        <MenuItem mnemonicParsing="false" text="About" />
-                    </items>
-                </Menu>
-            </menus>
-        </MenuBar>
-    </top>
-    <left>
         <fx:include fx:id="sideBar" source="Sidebar.fxml" />
-    </left>
+    </top>
     <center>
         <VBox BorderPane.alignment="CENTER">
             <children>
@@ -51,7 +30,7 @@
                 <fx:include fx:id="searchBar" source="SearchBar.fxml" />
                 <HBox alignment="CENTER" VBox.vgrow="ALWAYS">
                     <children>
-                  <TableView fx:id="fesTable">
+                  <TableView fx:id="fesTable" HBox.hgrow="ALWAYS">
                     <columns>
                       <TableColumn fx:id="colFesId" prefWidth="75.0" text="ID" />
                       <TableColumn fx:id="colFesName" prefWidth="150.0" text="Tên" />

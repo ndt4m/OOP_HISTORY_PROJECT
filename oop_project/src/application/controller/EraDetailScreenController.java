@@ -64,10 +64,16 @@ public class EraDetailScreenController {
         timeText.setText(era.getTime());
         founderText.setText(era.getFounder());
         capitalText.setText(era.getCapital());
-        for (String alias : era.getAliases()) {
-            Text aliasText = new Text(alias);
-            aliasFlowPane.getChildren().add(aliasText);
+        
+        if (!era.getAliases().isEmpty()){
+            for (String alias : era.getAliases()) {
+                Text aliasText = new Text(alias);
+                aliasFlowPane.getChildren().add(aliasText);
+            }
+        }else{
+            aliasFlowPane.getChildren().add(new Text("Không rõ"));
         }
+
         overviewText.setText(era.getOverview());
         for(Map.Entry<String, Integer> entry : era.getRelatedCharacters().entrySet()){
             Text relatedCharText = new Text(entry.getKey());
@@ -88,6 +94,7 @@ public class EraDetailScreenController {
                         Scene scene = new Scene(root);
                         Stage stage = (Stage)((Node)mouseEvent.getSource()).getScene().getWindow();
                         stage.setScene(scene);
+                        stage.setFullScreen(true);
                         stage.show();
                     } catch (IOException e){
                         e.printStackTrace();

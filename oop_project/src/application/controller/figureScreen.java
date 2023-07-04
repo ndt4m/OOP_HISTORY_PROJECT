@@ -33,6 +33,7 @@ public class figureScreen extends Application{
             root = loader.load();
             Scene scene = new Scene(root);
             stage.setScene(scene);
+            stage.setFullScreen(true);
 
             stage.show();
         } catch (IOException e) {

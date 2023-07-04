@@ -14,7 +14,6 @@ import javafx.scene.control.TableRow;
 import javafx.scene.control.TableView;
 import javafx.scene.control.cell.PropertyValueFactory;
 import javafx.stage.Stage;
-import javafx.util.Pair;
 
 import java.io.IOException;
 import java.util.Map;
@@ -29,9 +28,6 @@ public class FigureScreenController {
 
     @FXML
     private TableColumn<HistoricalCharacter, String> colFigureName;
-
-    @FXML
-    private TableColumn<HistoricalCharacter, Map<String, Integer> > colFigureEra;
 
     @FXML
     private TableColumn<HistoricalCharacter, String> colFigureOverview;
@@ -53,8 +49,6 @@ public class FigureScreenController {
                 new PropertyValueFactory<HistoricalCharacter, Integer>("id"));
         colFigureName.setCellValueFactory(
                 new PropertyValueFactory<HistoricalCharacter, String>("entityName"));
-        colFigureEra.setCellValueFactory(
-                new PropertyValueFactory<HistoricalCharacter, Map<String, Integer> >("eraName"));
         colFigureOverview.setCellValueFactory(
                 new PropertyValueFactory<HistoricalCharacter, String>("overview"));
 
@@ -101,6 +95,7 @@ public class FigureScreenController {
                         Stage stage = (Stage)((Node)event.getSource()).getScene().getWindow();
                         Scene scene = new Scene(root);
                         stage.setScene(scene);
+                        stage.setFullScreen(true);
                         stage.show();
                     } catch (IOException e){
                         e.printStackTrace();

@@ -103,6 +103,7 @@ public class EventScreenController {
                         Scene scene = new Scene(root);
                         Stage stage = (Stage)((Node)mouseEvent.getSource()).getScene().getWindow();
                         stage.setScene(scene);
+                        stage.setFullScreen(true);
                         stage.show();
                     } catch (IOException e){
                         e.printStackTrace();

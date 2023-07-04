@@ -2,9 +2,6 @@
 
 <?import javafx.geometry.Insets?>
 <?import javafx.scene.control.Label?>
-<?import javafx.scene.control.Menu?>
-<?import javafx.scene.control.MenuBar?>
-<?import javafx.scene.control.MenuItem?>
 <?import javafx.scene.control.TableColumn?>
 <?import javafx.scene.control.TableView?>
 <?import javafx.scene.layout.BorderPane?>
@@ -12,31 +9,10 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.controller.FigureScreenController">
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="613.0" prefWidth="820.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.controller.FigureScreenController">
     <top>
-        <MenuBar BorderPane.alignment="CENTER">
-            <menus>
-                <Menu mnemonicParsing="false" text="File">
-                    <items>
-                        <MenuItem mnemonicParsing="false" text="Close" />
-                    </items>
-                </Menu>
-                <Menu mnemonicParsing="false" text="Edit">
-                    <items>
-                        <MenuItem mnemonicParsing="false" text="Delete" />
-                    </items>
-                </Menu>
-                <Menu mnemonicParsing="false" text="Help">
-                    <items>
-                        <MenuItem mnemonicParsing="false" text="About" />
-                    </items>
-                </Menu>
-            </menus>
-        </MenuBar>
-    </top>
-    <left>
         <fx:include fx:id="sideBar" source="Sidebar.fxml" />
-    </left>
+    </top>
     <center>
         <VBox BorderPane.alignment="CENTER">
             <children>
@@ -49,15 +25,17 @@
                </VBox.margin>
             </Label>
                 <fx:include fx:id="searchBar" source="SearchBar.fxml" />
-                <HBox alignment="CENTER" VBox.vgrow="ALWAYS">
+                <HBox alignment="CENTER" prefHeight="400.0" prefWidth="747.0" VBox.vgrow="ALWAYS">
                     <children>
-                        <TableView fx:id="tblFigure">
+                        <TableView fx:id="tblFigure" prefHeight="400.0" prefWidth="773.0" HBox.hgrow="ALWAYS">
                             <columns>
                                 <TableColumn fx:id="colFigureId" prefWidth="75.0" text="ID" />
-                                <TableColumn fx:id="colFigureName" prefWidth="175.0" text="Tên" />
-                                <TableColumn fx:id="colFigureEra" prefWidth="100.0" text="Triều đại" />
-                                <TableColumn fx:id="colFigureOverview" prefWidth="300.0" text="Tổng quan" />
+                                <TableColumn fx:id="colFigureName" prefWidth="202.39996337890625" text="Tên" />
+                                <TableColumn fx:id="colFigureOverview" prefWidth="504.79997558593755" text="Tổng quan" />
                             </columns>
+                     <columnResizePolicy>
+                        <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+                     </columnResizePolicy>
                         </TableView>
                     </children>
                 </HBox>

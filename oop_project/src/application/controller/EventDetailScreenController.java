@@ -57,9 +57,14 @@ public class EventDetailScreenController {
         locationText.setText(event.getLocation());
         overviewText.setText(event.getOverview());
         resultText.setText(event.getResult());
-        for (String alias : event.getAliases()) {
-            Text aliasText = new Text(alias);
-            aliasFlowPane.getChildren().add(aliasText);
+        
+        if (!event.getAliases().isEmpty()){
+            for (String alias : event.getAliases()) {
+                Text aliasText = new Text(alias);
+                aliasFlowPane.getChildren().add(aliasText);
+            }
+        }else{
+            aliasFlowPane.getChildren().add(new Text("Không rõ"));
         }
 
         HistoricalCharCollection historicalCharCollection = new HistoricalCharCollection();
@@ -84,6 +89,7 @@ public class EventDetailScreenController {
                         Scene scene = new Scene(root);
                         Stage stage = (Stage)((Node)mouseEvent.getSource()).getScene().getWindow();
                         stage.setScene(scene);
+                        stage.setFullScreen(true);
                         stage.show();
                     } catch (IOException e){
                         e.printStackTrace();

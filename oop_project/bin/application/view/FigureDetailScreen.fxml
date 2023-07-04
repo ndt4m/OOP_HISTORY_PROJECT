@@ -3,9 +3,6 @@
 <?import javafx.geometry.Insets?>
 <?import javafx.scene.control.Button?>
 <?import javafx.scene.control.Label?>
-<?import javafx.scene.control.Menu?>
-<?import javafx.scene.control.MenuBar?>
-<?import javafx.scene.control.MenuItem?>
 <?import javafx.scene.control.ScrollPane?>
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.layout.BorderPane?>
@@ -17,37 +14,16 @@
 
 <BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="613.0" prefWidth="820.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.controller.FigureDetailScreenController">
     <top>
-        <MenuBar BorderPane.alignment="CENTER">
-            <menus>
-                <Menu mnemonicParsing="false" text="File">
-                    <items>
-                        <MenuItem mnemonicParsing="false" text="Close" />
-                    </items>
-                </Menu>
-                <Menu mnemonicParsing="false" text="Edit">
-                    <items>
-                        <MenuItem mnemonicParsing="false" text="Delete" />
-                    </items>
-                </Menu>
-                <Menu mnemonicParsing="false" text="Help">
-                    <items>
-                        <MenuItem mnemonicParsing="false" text="About" />
-                    </items>
-                </Menu>
-            </menus>
-        </MenuBar>
-    </top>
-    <left>
         <fx:include fx:id="sideBar" source="Sidebar.fxml" />
-    </left>
+    </top>
     <center>
       <ScrollPane fitToHeight="true" fitToWidth="true" hbarPolicy="ALWAYS" pannable="true" stylesheets="@../stylesheet/stylesheet.css" vbarPolicy="ALWAYS">
         <content>
           <AnchorPane prefHeight="389.0" prefWidth="630.0">
                <children>
-                  <VBox prefHeight="200.0" prefWidth="100.0">
+                  <VBox alignment="CENTER" maxHeight="1.7976931348623157E308" prefHeight="533.0" prefWidth="820.0">
                      <children>
-                            <HBox>
+                            <HBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308">
                                 <children>
                                     <Button mnemonicParsing="false" onAction="#onClickBack" text="Quay lại">
                                  <HBox.margin>
@@ -56,7 +32,7 @@
                               </Button>
                                 </children>
                             </HBox>
-                            <HBox alignment="CENTER">
+                            <HBox alignment="CENTER" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308">
                            <children>
                               <Text fx:id="nameText" strokeType="OUTSIDE" strokeWidth="0.0" text="Name" textAlignment="CENTER" wrappingWidth="564.0101442337036">
                                  <font>
@@ -68,37 +44,13 @@
                               </Text>
                            </children>
                             </HBox>
-                        <HBox>
-                           <children>
-                              <VBox prefHeight="38.0" prefWidth="78.0">
-                                 <children>
-                                    <Label text="Tên khác">
-                                       <font>
-                                          <Font name="System Bold" size="12.0" />
-                                       </font>
-                                       <VBox.margin>
-                                          <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
-                                       </VBox.margin>
-                                    </Label>
-                                 </children>
-                                 <HBox.margin>
-                                    <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
-                                 </HBox.margin>
-                              </VBox>
-                              <FlowPane fx:id="aliasFlowPane" hgap="15.0" prefHeight="38.0" prefWidth="158.0" vgap="5.0">
-                                 <HBox.margin>
-                                    <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
-                                 </HBox.margin>
-                              </FlowPane>
-                           </children>
-                        </HBox>
                         <VBox prefHeight="318.0" prefWidth="382.0">
                            <children>
-                              <HBox>
+                              <HBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308">
                                  <children>
-                                    <VBox prefHeight="18.0" prefWidth="176.0">
+                                    <VBox prefHeight="38.0" prefWidth="176.0">
                                        <children>
-                                          <Label text="Quê quán">
+                                          <Label prefHeight="18.0" prefWidth="176.0" text="Tên khác">
                                              <font>
                                                 <Font name="System Bold" size="12.0" />
                                              </font>
@@ -107,10 +59,34 @@
                                              </VBox.margin>
                                           </Label>
                                        </children>
+                                       <HBox.margin>
+                                          <Insets />
+                                       </HBox.margin>
+                                    </VBox>
+                                    <FlowPane fx:id="aliasFlowPane" alignment="CENTER_LEFT" hgap="15.0" prefHeight="38.0" prefWidth="430.0" vgap="5.0">
+                                       <HBox.margin>
+                                          <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                                       </HBox.margin>
+                                    </FlowPane>
+                                 </children>
+                              </HBox>
+                              <HBox>
+                                 <children>
+                                    <VBox prefHeight="18.0" prefWidth="176.0">
+                                       <children>
+                                          <Label alignment="TOP_LEFT" text="Quê quán">
+                                             <font>
+                                                <Font name="System Bold" size="12.0" />
+                                             </font>
+                                             <VBox.margin>
+                                                <Insets bottom="10.0" left="10.0" right="10.0" />
+                                             </VBox.margin>
+                                          </Label>
+                                       </children>
                                     </VBox>
                                     <VBox HBox.hgrow="ALWAYS">
                                        <children>
-                                          <Text fx:id="hometownText" strokeType="OUTSIDE" strokeWidth="0.0" text="hometownText" wrappingWidth="381.3367462158203">
+                                          <Text fx:id="hometownText" strokeType="OUTSIDE" strokeWidth="0.0" text="hometownText" wrappingWidth="627.130744934082">
                                              <VBox.margin>
                                                 <Insets bottom="10.0" left="10.0" top="10.0" />
                                              </VBox.margin>
@@ -135,7 +111,7 @@
                                     </VBox>
                                     <VBox HBox.hgrow="ALWAYS">
                                        <children>
-                                          <Text fx:id="workTenureText" strokeType="OUTSIDE" strokeWidth="0.0" text="workTenureText" wrappingWidth="200.5366668701172" VBox.vgrow="ALWAYS">
+                                          <Text fx:id="workTenureText" strokeType="OUTSIDE" strokeWidth="0.0" text="workTenureText" wrappingWidth="620.0" VBox.vgrow="ALWAYS">
                                              <VBox.margin>
                                                 <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
                                              </VBox.margin>
@@ -160,7 +136,7 @@
                                     </VBox>
                                     <VBox HBox.hgrow="ALWAYS">
                                        <children>
-                                          <Text fx:id="motherText" strokeType="OUTSIDE" strokeWidth="0.0" text="motherText" wrappingWidth="201.3367156982422" VBox.vgrow="ALWAYS">
+                                          <Text fx:id="motherText" strokeType="OUTSIDE" strokeWidth="0.0" text="motherText" wrappingWidth="620.0" VBox.vgrow="ALWAYS">
                                              <VBox.margin>
                                                 <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
                                              </VBox.margin>
@@ -191,7 +167,7 @@
                                     </VBox>
                                     <VBox HBox.hgrow="ALWAYS">
                                        <children>
-                                          <Text fx:id="fatherText" strokeType="OUTSIDE" strokeWidth="0.0" text="fatherText" wrappingWidth="192.5366668701172" VBox.vgrow="ALWAYS">
+                                          <Text fx:id="fatherText" strokeType="OUTSIDE" strokeWidth="0.0" text="fatherText" wrappingWidth="620.0" VBox.vgrow="ALWAYS">
                                              <VBox.margin>
                                                 <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
                                              </VBox.margin>
@@ -216,7 +192,7 @@
                                     </VBox>
                                     <VBox HBox.hgrow="ALWAYS">
                                        <children>
-                                          <Text fx:id="occupationText" strokeType="OUTSIDE" strokeWidth="0.0" text="occupationText" wrappingWidth="126.13670349121094" VBox.vgrow="ALWAYS">
+                                          <Text fx:id="occupationText" strokeType="OUTSIDE" strokeWidth="0.0" text="occupationText" wrappingWidth="620.0" VBox.vgrow="ALWAYS">
                                              <VBox.margin>
                                                 <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
                                              </VBox.margin>
@@ -241,7 +217,7 @@
                                     </VBox>
                                     <VBox>
                                        <children>
-                                          <Text fx:id="overviewText" strokeType="OUTSIDE" strokeWidth="0.0" text="overviewText" wrappingWidth="163.7366180419922" VBox.vgrow="ALWAYS">
+                                          <Text fx:id="overviewText" strokeType="OUTSIDE" strokeWidth="0.0" text="overviewText" wrappingWidth="620.0" VBox.vgrow="ALWAYS">
                                              <VBox.margin>
                                                 <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
                                              </VBox.margin>
@@ -266,7 +242,7 @@
                                     </VBox>
                                     <VBox HBox.hgrow="ALWAYS">
                                        <children>
-                                          <Text fx:id="dateOfDeathText" strokeType="OUTSIDE" strokeWidth="0.0" text="dateOfDeathText" wrappingWidth="164.53660583496094" VBox.vgrow="ALWAYS">
+                                          <Text fx:id="dateOfDeathText" strokeType="OUTSIDE" strokeWidth="0.0" text="dateOfDeathText" wrappingWidth="620.0" VBox.vgrow="ALWAYS">
                                              <VBox.margin>
                                                 <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
                                              </VBox.margin>
