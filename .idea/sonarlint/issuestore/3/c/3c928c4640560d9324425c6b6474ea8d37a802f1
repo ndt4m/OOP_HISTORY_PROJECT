@@ -1,0 +1,37 @@
+
+o
+java:S3776$"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(ªÃ½¦8šèÈ’1
+I
+java:S3011/",This accessibility update should be removed.(—„³¥8¤èÈ’1
+I
+java:S3011<",This accessibility bypass should be removed.(†¿‚Ë8©èÈ’1
+N
+java:S3011@",This accessibility bypass should be removed.(¶ûì¨ùÿÿÿÿ8ªèÈ’1
+N
+java:S3011H",This accessibility bypass should be removed.(¶ûì¨ùÿÿÿÿ8¬èÈ’1
+N
+java:S3011L",This accessibility bypass should be removed.(¶ûì¨ùÿÿÿÿ8­èÈ’1
+I
+java:S3011Q",This accessibility bypass should be removed.(ÓÄó¼8¯èÈ’1
+I
+java:S3011e",This accessibility bypass should be removed.(æå™ó8³èÈ’1
+I
+java:S3011u",This accessibility bypass should be removed.(‰Ğ·ø8½èÈ’1
+u
+java:S3776»"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(Ù”óÊúÿÿÿÿ8½èÈ’1
+^	java:S125ƒ"<This block of commented-out lines of code should be removed.(‹æ«çÿÿÿÿÿ8ÄèÈ’1
+^	java:S125•"<This block of commented-out lines of code should be removed.(·ƒñûÿÿÿÿ8ÄèÈ’1
+^	java:S125¹"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÄèÈ’1
+c
+java:S2147Õ"ECombine this catch with the one at line 209, which has the same body.(Æòã‡8ÍèÈ’1
+c
+java:S2147Ù"ECombine this catch with the one at line 213, which has the same body.(ŠêÒ¼8ĞèÈ’1
+h
+java:S2147İ"ECombine this catch with the one at line 217, which has the same body.(áë¥¥üÿÿÿÿ8ĞèÈ’1
+[	java:S106©"9Replace this use of System.out or System.err by a logger.(¥¢İüûÿÿÿÿ8åèÈ’1
+V	java:S106ª"9Replace this use of System.out or System.err by a logger.(Õ¬¯Ì8æèÈ’1
+V	java:S106°"9Replace this use of System.out or System.err by a logger.(íŞ®ö8èèÈ’1
+V	java:S106²"9Replace this use of System.out or System.err by a logger.(š¼™Ÿ8èèÈ’1
+[	java:S106¸"9Replace this use of System.out or System.err by a logger.(ı«‹üÿÿÿÿ8èèÈ’1
+ã
+java:S6541$"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 79 to 64, Complexity from 24 to 14, Nesting Level from 6 to 2, Number of Variables from 16 to 6.(ªÃ½¦8ôèÈ’1

@@ -1,0 +1,88 @@
+
+K
+java:S3740©"/Provide the parametrized type for this generic.(¥øˆºÿÿÿÿÿ
+F
+java:S3740­"/Provide the parametrized type for this generic.(¯øÓş
+o
+java:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(Ä„ƒ
+u
+java:S2293â"YReplace the type specification in this constructor call with the diamond operator ("<>").(ØÏØ™ıÿÿÿÿ
+u
+java:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").(ËÏ³ıÿÿÿÿ
+f
+java:S1192å"JDefine a constant instead of duplicating this literal "PÃ  HÆ°ng" 3 times.(¥½Îùüÿÿÿÿ
+a
+java:S1192?"FDefine a constant instead of duplicating this literal "parse" 3 times.(ğ²û™şÿÿÿÿ
+f
+java:S1192Ë"JDefine a constant instead of duplicating this literal "Niá»…ng O" 3 times.(×ÎÃüøÿÿÿÿ
+d
+java:S1192ù"HDefine a constant instead of duplicating this literal "Páº§u Y" 3 times.(ùØù´ıÿÿÿÿ
+t
+java:S1104ß"^Make VN_ETHNICITY_NAMES a static final constant or non-public and provide accessors if needed.(Ô»²L
+o
+java:S1104¢"XMake VN_ERA_NAMES a static final constant or non-public and provide accessors if needed.(¢¤¯¶
+N
+java:S1444ß"8Make this "public static VN_ETHNICITY_NAMES" field final(Ô»²L
+I
+java:S1444¢"2Make this "public static VN_ERA_NAMES" field final(¢¤¯¶
+—
+java:S1186'"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(—ƒé
+E
+java:S1197."*Move the array designators [] to the type.(³Âøëùÿÿÿÿ
+Q	java:S125/"<This block of commented-out lines of code should be removed.(ì—
+V	java:S125N"<This block of commented-out lines of code should be removed.(‘×¡×øÿÿÿÿ
+u
+java:S1149t"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+v
+java:S1149ƒ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(­ı†Ö
+X
+java:S1161‚":Add the "@Override" annotation above this method signature(ÿ–­ë8³ìçÈ’1
+]
+java:S1161Š":Add the "@Override" annotation above this method signature(­Œ¬ƒøÿÿÿÿ8ºìçÈ’1
+p
+java:S1450–"ZRemove the "rawSentence" field and declare it as a local variable in the relevant methods.(ÒÁ·
+l
+java:S1450—"URemove the "tokens" field and declare it as a local variable in the relevant methods.(çÖÇî
+k
+java:S1450š"TRemove the "words" field and declare it as a local variable in the relevant methods.(Ñ•şº
+u
+java:S2177¬"WRename this method; there is a "private" method in the parent class with the same name.(´„öï8ÓìçÈ’1
+z
+java:S2177¹"WRename this method; there is a "private" method in the parent class with the same name.(Ä•¤äùÿÿÿÿ8ÙìçÈ’1
+F
+java:S3416Ğ"/Update this logger to use "NewVNCoreNLP.class".(÷ñ¤
+\
+java:S1124Ğ"EReorder the modifiers to comply with the Java Language Specification.(÷ñ¤
+X
+java:S1161â":Add the "@Override" annotation above this method signature(£ß˜ã8¬íçÈ’1
+=	java:S131ä""Add a default case to this switch.(Îê’‹ÿÿÿÿÿ
+
+java:S1130ö"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(À¾´Ãøÿÿÿÿ8ÅíçÈ’1
+W	java:S125†"<This block of commented-out lines of code should be removed.(İÜ˜Ëşÿÿÿÿ
+a
+java:S1124œ"EReorder the modifiers to comply with the Java Language Specification.(Ã‹éıÿÿÿÿ
+Q
+java:S1854Æ":Remove this useless assignment to local variable "output".(±ØŸÕ
+W	java:S125µ"<This block of commented-out lines of code should be removed.(Ÿ¿ÿüÿÿÿÿÿ
+q
+java:S3252É"SUse static access with "vn.corenlp.wordsegmenter.Vocabulary" for "VN_FAMILY_NAMES".(˜8§îçÈ’1
+s
+java:S3008ß"]Rename this field "VN_ETHNICITY_NAMES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô»²L
+n
+java:S3008¢"WRename this field "VN_ERA_NAMES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¤¯¶
+I
+java:S2386â"-Make member "VN_ETHNICITY_NAMES" "protected".(ØÏØ™ıÿÿÿÿ
+C
+java:S2386¥"'Make member "VN_ERA_NAMES" "protected".(ËÏ³ıÿÿÿÿ
+N
+java:S1128",Remove this unused import 'javax.print.Doc'.(ö«‘™ıÿÿÿÿ8ñïçÈ’1
+s
+java:S1128"QRemove this unused import 'edu.emory.mathcs.nlp.component.template.node.FeatMap'.(õôÔÌüÿÿÿÿ8ñïçÈ’1
+V
+java:S1128""4Remove this unused import 'org.jsoup.nodes.Element'.(ıƒ‘öşÿÿÿÿ8ñïçÈ’1
+@
+java:S1068d"*Remove this unused "tokens" private field.(çÖÇî
+K
+java:S1068e"5Remove this unused "wordSegmentedText" private field.(‚ğ¹é
+?
+java:S1068f")Remove this unused "words" private field.(Ñ•şº

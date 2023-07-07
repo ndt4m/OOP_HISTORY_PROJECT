@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="700.0" prefWidth="900.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1">
+    <top>
+        <fx:include fx:id="sideBar" source="TopBar.fxml" />
+    </top>
+    <center>
+        <AnchorPane prefHeight="559.0" prefWidth="893.0" styleClass="background" stylesheets="@../stylesheet/mainStyleSheet.css" BorderPane.alignment="CENTER" />
+    </center>
+</BorderPane>
