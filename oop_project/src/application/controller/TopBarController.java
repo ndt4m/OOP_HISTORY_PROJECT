@@ -11,7 +11,7 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
-public class SidebarController {
+public class TopBarController {
 
     private Parent root;
     private Stage stage;
@@ -27,7 +27,7 @@ public class SidebarController {
 
         stage = (Stage)((Node)event.getSource()).getScene().getWindow();
         scene = new Scene(root);
-        stage.setFullScreen(true);
+        stage.setResizable(false);
         stage.setScene(scene);
         stage.show();
     }

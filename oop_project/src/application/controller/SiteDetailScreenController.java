@@ -1,8 +1,6 @@
 package application.controller;
 
 import application.App;
-import collection.FestivalCollection;
-import entity.Festival;
 import entity.HistoricalCharacter;
 import collection.HistoricalCharCollection;
 import entity.HistoricalSite;
@@ -47,13 +45,13 @@ public class SiteDetailScreenController {
 
 
     @FXML
-    private SidebarController sideBarController;
+    private TopBarController topBarController;
 
     private HistoricalSite site;
 
     @FXML
     public void onClickBack(ActionEvent event) throws IOException {
-        sideBarController.switchByGetFxml("/application/view/HistoricSiteScreen.fxml", event);
+        topBarController.switchByGetFxml("/application/view/HistoricSiteScreen.fxml", event);
     }
 
     public void setHistoricSite(HistoricalSite site) {
@@ -61,7 +59,6 @@ public class SiteDetailScreenController {
         try {
             historicalCharCollection.loadJsonFiles();
         } catch (IOException e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
 
@@ -95,7 +92,7 @@ public class SiteDetailScreenController {
                         Scene scene = new Scene(root);
                         Stage stage = (Stage)((Node)mouseEvent.getSource()).getScene().getWindow();
                         stage.setScene(scene);
-                        stage.setFullScreen(true);
+                        stage.setResizable(false);
                         stage.show();
                     } catch (IOException e){
                         e.printStackTrace();

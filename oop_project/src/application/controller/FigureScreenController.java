@@ -95,7 +95,7 @@ public class FigureScreenController {
                         Stage stage = (Stage)((Node)event.getSource()).getScene().getWindow();
                         Scene scene = new Scene(root);
                         stage.setScene(scene);
-                        stage.setFullScreen(true);
+                        stage.setResizable(false);
                         stage.show();
                     } catch (IOException e){
                         e.printStackTrace();

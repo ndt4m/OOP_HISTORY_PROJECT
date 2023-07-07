@@ -53,13 +53,13 @@ public class FigureDetailScreenController {
     private FlowPane aliasFlowPane;
 
     @FXML
-    private SidebarController sideBarController;
+    private TopBarController topBarController;
 
     private HistoricalCharacter character;
 
     @FXML
     public void onClickBack(ActionEvent event) throws IOException {
-        sideBarController.switchByGetFxml("/application/view/HistoricalFiguresScreen.fxml", event);
+        topBarController.switchByGetFxml("/application/view/HistoricalFiguresScreen.fxml", event);
     }
 
     public void setFigure(HistoricalCharacter character) {
@@ -142,7 +142,7 @@ public class FigureDetailScreenController {
                     Scene scene = new Scene(root);
                     Stage stage = (Stage)((Node)mouseEvent.getSource()).getScene().getWindow();
                     stage.setScene(scene);
-                    stage.setFullScreen(true);
+                    stage.setResizable(false);
                     stage.show();
                 } catch (IOException e){
                     e.printStackTrace();

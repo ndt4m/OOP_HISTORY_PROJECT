@@ -32,7 +32,7 @@ public class FesDetailScreenController {
     private Text locationText;
 
     @FXML
-    private SidebarController sideBarController;
+    private TopBarController topBarController;
 
     @FXML
     private FlowPane relatedCharsFlowPane;
@@ -44,7 +44,7 @@ public class FesDetailScreenController {
 
     @FXML
     public void onClickBack(ActionEvent event) throws IOException {
-        sideBarController.switchByGetFxml("/application/view/FestivalScreen.fxml", event);
+        topBarController.switchByGetFxml("/application/view/FestivalScreen.fxml", event);
     }
 
     public void setFestival(Festival fes) {
@@ -86,7 +86,7 @@ public class FesDetailScreenController {
                         Scene scene = new Scene(root);
                         Stage stage = (Stage)((Node)mouseEvent.getSource()).getScene().getWindow();
                         stage.setScene(scene);
-                        stage.setFullScreen(true);
+                        stage.setResizable(false);
                         stage.show();
                     } catch (IOException e){
                         e.printStackTrace();

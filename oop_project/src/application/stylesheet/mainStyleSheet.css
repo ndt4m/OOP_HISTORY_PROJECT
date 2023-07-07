@@ -1,0 +1,6 @@
+.background {
+    -fx-background-image: url("../images/HISTORY_WIKIPEDIA.png");
+    -fx-background-color: transparent;
+    -fx-background-size: cover;
+    -fx-background-position: center;
+}

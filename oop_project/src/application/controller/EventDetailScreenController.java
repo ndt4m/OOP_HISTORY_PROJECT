@@ -41,13 +41,13 @@ public class EventDetailScreenController {
     private FlowPane relatedCharsFlowPane;
 
     @FXML
-    private SidebarController sideBarController;
+    private TopBarController topBarController;
 
     private Event event;
 
     @FXML
     public void onClickBack(ActionEvent event) throws IOException {
-        sideBarController.switchByGetFxml("/application/view/EventScreen.fxml", event);
+        topBarController.switchByGetFxml("/application/view/EventScreen.fxml", event);
     }
 
     public void setEvent(Event event) {
@@ -71,7 +71,6 @@ public class EventDetailScreenController {
         try {
             historicalCharCollection.loadJsonFiles();
         } catch (IOException e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
 
@@ -89,7 +88,7 @@ public class EventDetailScreenController {
                         Scene scene = new Scene(root);
                         Stage stage = (Stage)((Node)mouseEvent.getSource()).getScene().getWindow();
                         stage.setScene(scene);
-                        stage.setFullScreen(true);
+                        stage.setResizable(false);
                         stage.show();
                     } catch (IOException e){
                         e.printStackTrace();

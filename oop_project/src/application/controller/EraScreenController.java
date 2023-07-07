@@ -44,7 +44,6 @@ public class EraScreenController {
         try {
             eraCollection.loadJsonFiles();
         } catch (IOException e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
 
@@ -103,7 +102,7 @@ public class EraScreenController {
                         Stage stage = (Stage)((Node)event.getSource()).getScene().getWindow();
                         Scene scene = new Scene(root);
                         stage.setScene(scene);
-                        stage.setFullScreen(true);
+                        stage.setResizable(false);
                         stage.show();
                     } catch (IOException e) {
                         e.printStackTrace();

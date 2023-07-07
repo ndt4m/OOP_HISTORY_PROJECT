@@ -1,5 +1,5 @@
 .background {
-    -fx-background-image: url("../images/background.jpg");
+    -fx-background-image: url("../images/newpane.jpg");
     -fx-background-color: transparent;
 }
 
@@ -9,5 +9,5 @@
 
 .scroll-pane > .viewport {
     -fx-background-color: transparent;
-    -fx-background-image: url("../images/background.jpg");
+    -fx-background-image: url("../images/newpane.jpg");
  }

@@ -42,13 +42,13 @@ public class EraDetailScreenController {
     private Text overviewText;
 
     @FXML
-    private SidebarController sideBarController;
+    private TopBarController topBarController;
 
     private Era era;
 
     @FXML
     public void onClickBack(ActionEvent event) throws IOException {
-        sideBarController.switchByGetFxml("/application/view/EraScreen.fxml", event);
+        topBarController.switchByGetFxml("/application/view/EraScreen.fxml", event);
     }
 
     public void setEra(Era era) {
@@ -56,7 +56,6 @@ public class EraDetailScreenController {
         try {
             historicalCharCollection.loadJsonFiles();
         } catch (IOException e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
         this.era = era;
@@ -94,7 +93,7 @@ public class EraDetailScreenController {
                         Scene scene = new Scene(root);
                         Stage stage = (Stage)((Node)mouseEvent.getSource()).getScene().getWindow();
                         stage.setScene(scene);
-                        stage.setFullScreen(true);
+                        stage.setResizable(false);
                         stage.show();
                     } catch (IOException e){
                         e.printStackTrace();
