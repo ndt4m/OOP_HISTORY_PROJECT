@@ -110,7 +110,6 @@ public class EraController {
             row.setOnMouseClicked(event -> {
                 if (event.getClickCount() == 2 && (!row.isEmpty())) {
                     Era era = row.getItem();
-                    System.out.println("=============================");
                     try {
                         FXMLLoader loader = new FXMLLoader(getClass().getResource("/newApp/fxml/EraDetail.fxml"));
                         ScrollPane root = loader.load();
