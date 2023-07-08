@@ -9,6 +9,7 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 public class NewStarter extends Application{
+	
     @Override
     public void start(Stage stage) {
         System.setProperty("file.encoding", "UTF-8");
@@ -26,17 +27,15 @@ public class NewStarter extends Application{
         }
         */
         FXMLLoader loader = new FXMLLoader(getClass().getResource("/application/view/MainScreen.fxml"));
-        System.out.println(loader.toString());
         Parent root;
         try {
 
             root = loader.load();
             Scene scene = new Scene(root);
             stage.setScene(scene);
-            stage.setFullScreen(true);
+//            stage.setFullScreen(true);
             stage.show();
         } catch (IOException e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
 

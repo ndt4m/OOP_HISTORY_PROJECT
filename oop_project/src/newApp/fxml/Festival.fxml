@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane fx:id="fesRoot" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="newApp.controller.FestivalController">
+   <center>
+      <BorderPane fx:id="fesNode1">
+         <top>
+            <VBox BorderPane.alignment="CENTER">
+               <children>
+                  <Label text="Lễ hội">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                  </Label>
+                  <fx:include fx:id="searchBar" source="searchBar.fxml" VBox.vgrow="ALWAYS" />
+               </children>
+            </VBox>
+         </top>
+         <center>
+            <HBox alignment="CENTER" BorderPane.alignment="CENTER">
+               <children>
+                  <TableView fx:id="fesTable" HBox.hgrow="ALWAYS">
+                    <columns>
+                      <TableColumn fx:id="colFesId" prefWidth="75.0" text="ID" />
+                      <TableColumn fx:id="colFesName" prefWidth="300.0" text="Tên" />
+                      <TableColumn fx:id="colFesLocate" prefWidth="300.0" text="Địa điểm" />
+                      <TableColumn fx:id="colFesDate" prefWidth="200.0" text="Thời gian" />
+                        
+                    </columns>
+                     <columnResizePolicy>
+                        <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+                     </columnResizePolicy>
+                  </TableView>
+               </children>
+            </HBox>
+         </center>
+      </BorderPane>
+   </center>
+</BorderPane>
