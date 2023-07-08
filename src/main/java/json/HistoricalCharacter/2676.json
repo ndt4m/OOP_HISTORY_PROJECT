@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "619",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế nước Hứa",
-  "workTenure" : "618 – 619",
-  "fatherName" : {
-    "Vũ Văn Thuật" : null
-  },
+  "dateOfBirth" : "1931\n----------------------------------------------\n…",
+  "dateOfDeath" : "Quí Mùi 1883",
+  "hometown" : "quê làng Thái La, huyện Vụ Bản, tỉnh Nam Định",
+  "occupation" : "Thiếu tướng\n----------------------------------------------\nLiệt sĩ kháng Pháp",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nhà Nguyễn độc lập" : 30
+  },
   "id" : 2676,
-  "entityName" : "Vũ Văn Hóa Cập",
-  "aliases" : [ "Niên hiệu Thiên Thọ (天壽) 9/618 - 2/619 ÂL", "Hứa Đế (許帝)" ],
-  "overview" : "Vũ Văn Hóa Cập (tiếng Trung: 宇文化及; bính âm: Yǔwén Huàjí, ? - 619) là một tướng lĩnh của triều Tùy trong lịch sử Trung Quốc. Năm 618, ông đã lãnh đạo một cuộc binh biến chống lại và giết chết Tùy Dạng Đế. Sau đó, ông đưa cháu (gọi bằng bác) của Tùy Dạng Đế là Dương Hạo lên làm hoàng đế và dẫn đội Kiêu Quả quân (驍果军) định tiến về đông đô Lạc Dương. Ông nhiều lần bại trận dưới tay Lý Mật, Lý Thần Thông, và cuối cùng là Đậu Kiến Đức. Thấy mình sắp thất bại, ông ta đã giết Dương Hạo và tự xưng là hoàng đế của nước Hứa (許). Năm 619, ông bị Đậu Kiến Đức bắt giết."
+  "entityName" : "Nguyễn Đức Huy",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Đức Huy (sinh 1931) là một tướng lĩnh cấp cao của Quân đội Nhân dân Việt Nam, hàm Thiếu tướng, quyền Tư lệnh Quân khu 2.\n----------------------------------------------\nNăm 1882, (Nhâm ngọ) giặc Pháp tiến công Bắc Kì lần thứ II, ông tham gia cuộc kháng chiến của Văn thân Nam Định do Võ Hữu Lợi lãnh đạo. Thất bại, ông bị bắt, chúng tra tấn dã man, dụ hàng nhưng ông bất khuất và bị giết trong năm Quí mùi 1883. Trong dân gian còn truyền tụng câu đối ông cảm tác lúc sắp bị hành hình: \"Sinh bất phùng thời, nan bả hình hài hoàn tạo hóa; Tử kì đắc táng, cảm tương tâm huyết báo từ thân\". Nghĩa: Sống chẳng gặp thời, khó trả hình hài cho tạo hóa; Chết may được táng, dám đem tâm huyết báo từ thân."
 }

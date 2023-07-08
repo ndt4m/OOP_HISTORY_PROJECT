@@ -1,16 +1,14 @@
 {
-  "dateOfBirth" : "Đinh Mão 1927",
-  "dateOfDeath" : "Ất Mão 1975",
-  "hometown" : "quê ở Diễn Thịnh, huyện Diễn Châu, tỉnh Nghệ An",
-  "occupation" : "Nhà nghiên cứu văn học",
+  "dateOfBirth" : "4 tháng 9 năm 1837",
+  "dateOfDeath" : "5 tháng 10 năm 1909 (72 tuổi)",
+  "hometown" : "Không rõ",
+  "occupation" : "Chính trị gia",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Nước Việt Nam mới" : 29
-  },
+  "eraName" : { },
   "id" : 1925,
-  "entityName" : "Cao Huy Đỉnh",
-  "aliases" : [ ],
-  "overview" : "Ông sinh ngày 31-12-1927, mất ngày 3-4-1975 tại Hà Nội, hưởng dương 48 tuổi. Còn để lại cho đời: - R. Tagore (dịch và giới thiệu, 1961) - Sakunt (dịch, 1963) - Tìm hiểu thần thoại Ấn Độ (nghiên cứu 1964) - Người anh hùng làng Gióng (nghiên cứu 1969) - Tìm hiểu tiến trình văn học dân gian Việt Nam (nghiên cứu, 1974)"
+  "entityName" : "Trương Chi Động",
+  "aliases" : [ "Tả Tông Đường", "Wade-Giles: Chang Chih-tung" ],
+  "overview" : "Trương Chi Động (chữ Hán giản thể: 张之洞; phồn thể: 張之洞; bính âm: Zhang Zhidong; phiên âm Wade-Giles: Chang Chih-tung; sinh ngày 4 tháng 9 năm 1837 - mất ngày 5 tháng 10 năm 1909) là một viên quan lại và chính trị gia nổi tiếng Trung Quốc vào cuối triều đại nhà Thanh và là người ủng hộ phái cải cách một cách thận trọng. Cùng với Tăng Quốc Phiên, Lý Hồng Chương và Tả Tông Đường là một trong bốn quan chức nổi danh của nhà Thanh (四大 名臣) nhà cải cách xuất sắc đại diện cho phái Dương vụ cuối đời Thanh."
 }

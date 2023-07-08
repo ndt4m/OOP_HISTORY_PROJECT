@@ -2,13 +2,15 @@
   "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "occupation" : "Danh tướng đời Lê Thái tổ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Triều Lê Sơ" : 7
+  },
   "id" : 2333,
-  "entityName" : "Lê Hữu Đức",
+  "entityName" : "Đoàn Phát",
   "aliases" : [ ],
-  "overview" : "Lê Hữu Đức là một tên người Việt Nam. Một số nhân vật nổi bật cùng mang tên này như:"
+  "overview" : "Nguyên trước ông là quan nhà Hồ, bị Lê Thiện dùng mưu đánh bắt được ở đồn núi Tản Viên, ông mới chịu theo giúp Bình Định vương Lê Lợi chống quân Minh. Tướng Minh nhiều lần muốn dụ hàng ông nên bắt mẹ ông làm con tin. Lê Lợi biết, sai ông đem thụy quân mai phục ở cửa biền Thần Phù cứu được mẹ. Bà mẹ nói: \"Ta chết cũng đáng tuổi, con sao khéo lo. Ta tưởng hôm nay ra được Đông Đô mắng Trương Phụ, Hoàng Phúc rồi chết cũng hả\". Ông lạy tạ, rồi đưa mẹ về Nghệ An ra mắt Bình Định vương. Vương khen: \"Lão mẫu thật trung liệt, không kém mẹ Vương Lăng, Từ Thứ khi xưa\". Mẹ con ông đều là bậc có khí tiết. Lúc đánh quân Minh, ông có làm bài hịch khởi nghĩa, lời lẽ rất trầm hùng."
 }

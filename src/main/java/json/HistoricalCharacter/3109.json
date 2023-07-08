@@ -1,17 +1,19 @@
 {
-  "dateOfBirth" : "Ất Mão 1915",
+  "dateOfBirth" : "Giáp Dần 1914",
   "dateOfDeath" : "Đinh Mão 1987",
-  "hometown" : "quê ở Hà Nội",
-  "occupation" : "Nhà luật học",
+  "hometown" : "nguyên quán làng Tùng Ảnh, huyện La Sơn, tỉnh Hà Tĩnh, cư ngụ ở Hà Nội, con trai thứ dật sĩ Phan Điện, em ruột luật sư Phan Anh (1912-1990)",
+  "occupation" : "Luật sư, nhà hoạt động chính trị, nguyên quán làng Tùng Ảnh, huyện La Sơn, tỉnh Hà Tĩnh, cư ngụ ở Hà Nội, con trai thứ dật sĩ Phan Điện, em ruột luật sư Phan Anh ",
   "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "fatherName" : {
+    "thứ dật sĩ Phan Điện" : null
+  },
   "motherName" : { },
   "eraName" : {
     "Pháp đô hộ" : 11,
     "Nước Việt Nam mới" : 29
   },
   "id" : 3109,
-  "entityName" : "Nguyễn Ngọc Minh",
+  "entityName" : "Phan Mỹ",
   "aliases" : [ ],
-  "overview" : "Cựu học sinh trường Bưởi, Đại học Luật Đông Dương, tốt nghiệp cử nhân luật. Thời còn là sinh viên, ông hoạt động năng nổ trong Tổng hội sinh viên Hà Nội, tham gia tích cực Hội Truyền bá Quốc ngữ. Thành viên ban Biên tập báo Thanh nghị chuyên về Kinh tế - Tài chánh. Năm 1945 tham gia khởi nghĩa, rồi nhập ngũ vào quân đội kháng chiến (QĐNDVN) phục vụ trong ngành Hậu cần suốt 9 năm chống Pháp. Sau năm 1954 về Hà Nội làm Viện phó Viện Kinh tế, Viện trưởng Viện Luật học, Phó chủ nhiệm Ban Pháp chế thuộc chính phủ VNDCCH. Ông mất năm 1987, tại Hà Nội. Ông là tác giả một số chuyên luận luật học."
+  "overview" : "Phan Mỹ có thể là tên của:\n----------------------------------------------\nXuất thân trong một gia đình Nho học truyền thống, cựu sinh viên Đại học luật Hà Nội. Năm 1939 tốt nghiệp cử nhân luật, Giáo sư tại trường Thăng Long. Khi còn là sinh viên ông hoạt động đắc lực cho Tổng hội sinh viên yêu nước (có khuynh hướng Việt Minh), tham gia các tổ chức hoạt động xã hội. Cộng tác viên báo Thanh Nghị của nhóm Vũ Đình Hòe, Vũ Văn Hiền, Phan Anh... Sau năm 1945 tham gia kháng chiến chống Pháp, giữ chức Chánh văn phòng chủ tịch chính phủ, đến những. năm 60. Sau đó giữ chức Thứ trưởng Bộ thủy lợi rồi về hưu trong những năm 70. Ông mất năm 1987 tại Hà Nội."
 }

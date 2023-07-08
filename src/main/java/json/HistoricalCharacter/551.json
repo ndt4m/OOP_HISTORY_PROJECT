@@ -1,17 +1,18 @@
 {
-  "dateOfBirth" : "Nhâm Thìn 1892",
-  "dateOfDeath" : "Bính Thìn 1976",
-  "hometown" : "tại làng Trà Bồ, huyện Phù Cừ, tỉnh Hưng Yên",
-  "occupation" : "Nhà khoa học, tác giả",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "dateOfBirth" : "? Kandapurpura",
+  "dateOfDeath" : "?",
+  "hometown" : "Không rõ",
+  "occupation" : "Quân vương triều đại thứ hai",
+  "workTenure" : "380-413",
+  "fatherName" : {
+    "Phạm Phật" : null
+  },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Vương triều thứ hai" : null
   },
   "id" : 551,
-  "entityName" : "Nguyễn Công Tiễu",
-  "aliases" : [ "Minh Nông" ],
-  "overview" : "Ông là một trong vài kĩ sư Nông lâm đầu tiên ở nước ta, nhà khoa học sớm nghiên cứu về bèo hoa dâu để làm phân bón lúa. Nhiều công trình nghiên cứu về bèo hoa dâu ở nước ngoài có nhắc đến đóng góp của ông. Ông sáng lập tạp chí khoa học đầu tiên của nước ta là tờ Khoa học tạp chí và Vệ nông báo, có nhiều sáng tác giá trị về khoa học thực nghiệm. Đầu năm 1945, do lâm bệnh \"thiên đầu thống\" khiến ông mù cả hai mắt. Dù vậy, ông vẫn đem quãng đời còn lại cống hiến cho khoa học, phục vụ cách mạng. Ông nghiên cứu và phát minh một thứ kí hiệu chữ nổi, để dạy người mù như Louis Braille đã làm. Năm 1960, ông được mời giữ chức ủy viên trung ương Hội Phổ biến khoa học và kĩ thuật Việt Nam, rồi làm Chủ tịch Hội người mù Việt Nam. Ngày 3-10-1976 ông mất, thọ 84 tuổi. Các tác phẩm chính của ông đã xuất bản: - Bèo dâu - Xen cây mọc dại - Biết loại đất hoang - Kí hiệu chữ nổi"
+  "entityName" : "Phạm Hồ Đạt",
+  "aliases" : [ "Jaya Bhadravarman I", "Kandapurpura", "Shiva" ],
+  "overview" : "Phạm Hồ Đạt (trị vì: 380-413) được nhiều sử gia cho là vua Dharmamaharaja, hiệu Jaya Bhadravarman I (Bạt Đà La Bạc Ma I), người sáng lập vương triều Gangaraja. Dưới thời Phạm Hồ Đạt, Phật giáo Tiểu thừa (Thevada) phát triển mạnh, nhiều nhà sư từ Ấn Độ sang truyền đạo. Thành Khu Lật (Huế) vẫn là trung tâm chính trị nhưng đổi tên thành Kandapurpura, nghĩa là Phật Bảo Thành (vì là nơi có nhiều đền đài và hình tượng Phật và Shiva). Bên cạnh đó nhà vua còn cho xây dựng thêm một trung tâm tôn giáo mới tại Amavarati, tức thánh địa Hào Quang (nay là thánh địa Mỹ Sơn, một thung lũng cách Đà Nẵng 70 km về phía tây). Nhiều đền thờ đạo Bà la môn được xây dựng tại Mỹ Sơn để thờ thần Shiva và tượng Linga, tượng trưng sức mạnh phái nam. Ngôi đền đầu tiên được xây bằng gỗ vào cuối thế kỷ 4 mang tên Bradresvara, kết hợp giữa tên vua Bradravarman I và thần Isvara (hay Shiva). Kể từ thế kỷ 4 trở đi lãnh tụ chính trị và tôn giáo tại Lâm Ấp là một: thờ thần tức thờ vua, vua thay mặt thần Shiva cai quản muôn dân. Shiva vừa là thần bảo hộ xứ sở vừa là vị thần giữ đền (Dvarapala) để dân chúng đến thờ phụng và dâng lễ vật."
 }

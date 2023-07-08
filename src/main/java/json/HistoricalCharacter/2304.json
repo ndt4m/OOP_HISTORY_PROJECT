@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Quê làng Kì Sơn, huyện Chí Linh, tỉnh Hải Dương",
-  "occupation" : "Nghĩa sĩ đời Trưng vương, hai anh em, em là Đào Đạt, anh là Đào Đạo - đều giỏi võ nghệ có lòng yêu nước, có tinh thần cao thượng cứu khó, phò nguy, tận tâm thương yêu dân nước",
+  "dateOfBirth" : "Đinh Mão 1627",
+  "dateOfDeath" : "Đinh Sửu 1697",
+  "hometown" : "quê tỉnh Hà Đông",
+  "occupation" : "Danh thần đời Lê Chân tông, con Liêm quận công Đặng Thế Khoa, dòng dõi Nghĩa quận công Đặng Huấn, nguyên họ Trần",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Trưng Nữ Vương" : 10
+    "Trịnh - Nguyễn" : 34
   },
   "id" : 2304,
-  "entityName" : "Đào Đạo - Đào Đạt",
+  "entityName" : "Đặng Tiến Thự",
   "aliases" : [ ],
-  "overview" : "Trước cuộc khởi nghĩa Trưng Vương, hai anh em ông vẫn từng tập họp nghĩa quân đánh phá quân xâm lược, và sau đó ủng hộ cuộc khởi nghĩa của toàn dân do hai bà Trưng lãnh đạo. Sau khi hai anh em ông mất, dân chúng cũng có lập đền thờ làng Kì Sơn còn phụng tự tại đình."
+  "overview" : "Năm Giáp thân 1644 ông mới 17 tuổi được bổ làm trấn thủ Nghệ An càng lúc càng được chúa Trịnh tin dùng được chúa ban cho tên họ là Trịnh Thế (có sách chép là Trịnh Liễu). Dần dần làm đến Thái phó, tườc Yên quận công. Năm Đinh sửu 1697 ông mất thọ 70 tuổi được truy tặng Thái tề và phong làm phúc thần. Ông có 17 nguời con, năm người hiển đạt nhất là Tiến Sở, Tiến Lân, Tiến Luân, Tiến Trứ và Đình Tướng. Đặng Đình Tướng sau này nổi danh trong khoa cử và quan trường đương thời của nước ta."
 }

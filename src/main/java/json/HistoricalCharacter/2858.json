@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Kỉ Tị 1449",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê xã Thuần Khang, huyện Siêu Loại, tỉnh Bắc Ninh",
-  "occupation" : "Danh thần đời Lê Thánh tông, không rõ năm mất",
+  "dateOfBirth" : "1362\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "1407\n----------------------------------------------\nKhông rõ",
+  "hometown" : "quê làng Bái Trại, huyện An Định",
+  "occupation" : "Văn thần nhà Hồ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Triều Lê Sơ" : 7
+    "nhà Hồ" : null,
+    "Nhà Trần" : 15,
+    "Nhà Hồ" : 9
   },
   "id" : 2858,
-  "entityName" : "Đào Cử",
-  "aliases" : [ "Thuấn Cử" ],
-  "overview" : "Năm Bính tuất 1466. Ông đỗ Đệ tam giáp tiến sĩ, được bổ Tri huyện. Năm sau, Đinh hợi 1467, nhân có khoa Hoành từ ông lại dự thi, trúng tuyến, bổ vào Bí giám làm Độc thư, rồi thăng chức Thi chế Viện Hàn lâm, sau được vinh thăng Tri chế cáo. Năm Bính thân 1476, do chức Thi thư Viện Hàn lâm, ông được thăng Hiệu thư đông các. Năm Nhâm dần 1482, ông hộ giá Lê Thánh tông thân chinh Chiêm Thành và Lão Qua. Rồi thăng Đông các đại học sĩ. Sau làm đến Thượng thư bộ Hộ coi Tú lâm cuộc ở Sùng văn quán. Ông có chân trong Tao đàn nhị thập bát tú từng cùng Thân Nhân Trung soạn bộ Thiên nam dư hạ tập và tập Thân chinh kỉ sự. Cũng có phê bình tập thơ Cố tâm bách vịnh. Trong Quỳnh Uyển cửu ca có bài tựa của ông. Ông mất trong đời Lê Hiến tông. Bộ Toàn Việt thi lục của Lê Quí Đôn còn sao lại 10 bài thơ của ông. Ông cũng có soạn bài văn bia các tiến sĩ triều Lê, dựng ngày 15-8, Hồng Đức 15 (1484)."
+  "entityName" : "Hoàng Hối Khanh",
+  "aliases" : [ ],
+  "overview" : "Hoàng Hối Khanh (chữ Hán: 黃晦卿, 1362-1407) là quan nhà Hồ trong lịch sử Việt Nam, người huyện Lệ Thuỷ, tỉnh Quảng Bình, Việt Nam.\n----------------------------------------------\nNăm Giáp tí 1384, đời Trần phế đế, ông đỗ Thái học sinh, làm An phủ sứ. Sau theo Hồ Quí Ly, được Quí Ly cho làm Chính hình viện đại phu. Rồi khi Hồ Qúi Ly cướp quyền nhà Trần, Hoàng Hối Khanh được phong làm Hành khiển. Khi quân Minh sang xâm lược, Hoàng Hối Khanh bị Trương Phụ bắt giải về hành dinh. Khi đến cửa bể Đan nhai, ông tự tử... Phụ bêu đầu ông ở chợ Đông Đô."
 }

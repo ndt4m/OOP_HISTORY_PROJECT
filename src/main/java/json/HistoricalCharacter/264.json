@@ -1,14 +1,17 @@
 {
-  "dateOfBirth" : "1363",
-  "dateOfDeath" : "1440",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Bính Tí 1876",
+  "dateOfDeath" : "Quí Tị 1953",
+  "hometown" : "quê làng Thạnh Hòa, huyện Thốt Nốt, tỉnh Long Xuyên (nay thuộc tỉnh Cần Thơ)",
+  "occupation" : "Nhà soạn tuồng cải lương",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
+  },
   "id" : 264,
-  "entityName" : "Hoàng Phúc",
-  "aliases" : [ "Hậu Nhạc Ông", "Như Tích" ],
-  "overview" : "Hoàng Phúc (黃福, 1363-1440), tự là Như Tích (如錫), biệt hiệu Hậu Nhạc Ông, người Xương Ấp, Sơn Đông, là một đại thần triều Minh, từng làm tán quân vụ ở An Nam thời Kỷ thuộc Minh."
+  "entityName" : "Nguyễn Trọng Quyền",
+  "aliases" : [ "Mộc Quán" ],
+  "overview" : "Tuổi trẻ ông học ở Thốt Nốt, Cần Thơ, rồi gia nhập làng báo, cộng tác cùng các cây bút nổi tiếng thời bấy giờ như Trần Chánh Chiếu, Lương Khắc Ninh, Nguyễn Chánh Sắt… trên các báo Nông Cổ mín đàm, Lục tỉnh tân văn... Từ năm 1920, khi nghệ thuật sân khấu cải lương phát triển ông trở thành nhà soạn tuồng sáng giá của các gánh hát lớn đương thời. Ngoài các bài báo và sách biên khảo như Phu thê nghị luận, ông là tác giả trên 50 vở tuồng nổi tiếng như Phụng Nghi Đình, Giọt lệ chung tình, Tình duyên phấn lạt... Những năm trước Thế chiến ở miền Nam ông là một trong hai nhà soạn giả cải lương (người thứ hai là Trương Duy Toản) có nhiều tác phẩm nhất và cũng được đã số khán giả mến mộ. Ông mất năm Quí tị 1953, thọ 77 tuổi."
 }

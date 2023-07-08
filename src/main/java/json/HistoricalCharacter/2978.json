@@ -1,17 +1,17 @@
 {
-  "dateOfBirth" : "Tân Mão 1891",
-  "dateOfDeath" : "Mậu Tuất 1958",
-  "hometown" : "quê làng Nam Thanh, huyện Hương Trà, tỉnh Thừa Thiên",
-  "occupation" : "Nhà báo",
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "979\n----------------------------------------------\nTân Tị 981",
+  "hometown" : "người làng Trà Hương, Nam Sách, Hải Dương.\n----------------------------------------------\nquê ở Nam Sách, tỉnh Hải Dương",
+  "occupation" : "Võ tướng nhà Đinh",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "nhà Trần" : null,
+    "Nhà Đinh" : 35
   },
   "id" : 2978,
-  "entityName" : "Lê Cương Phụng",
-  "aliases" : [ "Tùng Lâm" ],
-  "overview" : "Khoảng năm 1929-1930, ông vào Nam viết báo. Công trình đóng góp của ông vào nền văn hóa dân tộc rất đa dạng: dịch truyện Trung Quốc, sáng tác văn học, khảo cứu lịch sử ông là cây bút chính của các báo Đông Pháp thời báo, Công luận, Thần chung, Thời cuộc... Ông mất ngày 9-3-1958, tại nhà nêng ở Sài Gòn, thọ 67 tuổi. Trước khi mất ông có làm một câu đối tự điếu: \"Bể trầm luân theo chúng lội ra khơi, sáu mươi năm nào cười nào khóc, nào giận nào thương, lăn lóc vở tuồng trên vũ trụ; Cuộc phiền não khiến mình qua đủ cửa, ba thước đất hết dại hết khôn, hết ngu hết trí, rõ ràng hạt bụi giữa tang thương.\""
+  "entityName" : "Phạm Hạp",
+  "aliases" : [ ],
+  "overview" : "Phạm Hạp (范盍, ?-979) là một võ tướng đồng thời cũng là một trong những vị quan trung thần của vua Đinh Tiên Hoàng. Ông là người làng Trà Hương, Nam Sách, Hải Dương. Theo sách Tông phả kỷ yếu tân biên của Phạm Côn Sơn dẫn gia phả họ Phạm, ông là tổ 8 đời của tướng Phạm Ngũ Lão thời nhà Trần . Ông được sử sách Trung Hoa liệt vào danh sách \"Giao Châu thất hùng\", tức 7 anh hùng người Giao Châu gồm: Đinh Bộ Lĩnh, Đinh Liễn, Lê Hoàn, Đinh Điền, Nguyễn Bặc, Phạm Hạp và Phạm Cự Lượng.\n----------------------------------------------\nÔng nội là Thiên, làm Đồng giáp tướng quân đời Ngô Vương Quyền, cha là Mạn, làm Tham chính Đô đốc đời Hậu Ngô. Ông làm Vệ úy đời Đinh Tiên Hoàng. Kỉ mão 979 Đinh Tiên Hoàng bị Đỗ Thích ám sát chết. Đình thần tôn Đinh Tuệ mới 6 tuổi lên ngôi. Thập đại tướng quân Lê Hoàn nhiếp chính, tư thông với Dương hậu (Thái hậu Dương Vân Nga). Căm giận Lê Hoàn, ông đồng mưu với Đinh Điền, Nguyễn Bặc đem quân đánh Lê Hoàn, bị Lê Hoàn đánh bắt được cả 3 người, đem chém trong năm Tân tị 981. Về sau, em ông là Phạm Cự Lượng lại là người chủ xướng việc tôn phù Lê Hoàn lên ngôi, dựng nhà Tiền Lê."
 }

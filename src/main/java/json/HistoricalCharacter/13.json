@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Giáp Thìn 1724",
-  "dateOfDeath" : "Kỉ Dậu 1789",
-  "hometown" : "Quê huyện Hương Trà, tỉnh Thừa Thiên",
-  "occupation" : "Cũng gọi là Nguyễn Khoa Thuyên, Võ tướng đời chúa Duệ tông, con Nội tán Nguyễn Khoa Đăng",
+  "dateOfBirth" : "1720",
+  "dateOfDeath" : "1796",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34
+    "nhà Thanh" : null
   },
   "id" : 13,
-  "entityName" : "Nguyễn Khoa Toàn",
-  "aliases" : [ "Nguyễn Khoa Thuyên" ],
-  "overview" : "Ông xuất thân làm Cai bạ ở Long Hồ. Năm Giáp ngọ 1774 nghĩa quân Tây Sơn đánh vùng Khánh Hòa, Bình Thuận, ông cùng Lưu thủ Tống Phước Hiệp cầm quân chống cự, đóng chốt ở Vân Phong. Năm Ất mùi 1775, Duệ tông chạy vào Nam, ông hộ giá vào Gia Định. Được thăng làm Thanh chính, gồm coi bộ Hộ và bộ Binh. Khi về hưu, ông bệnh mất trong năm Kỉ dậu 1789, thọ 65 tuổi, được tặng Võ tích Thượng khanh. Con là Ngụyễn Khoa Kiên cũng có danh vọng to, tử trận lúc ông vào Gia Định."
+  "entityName" : "Tôn Sĩ Nghị",
+  "aliases" : [ "Trí Dã" ],
+  "overview" : "Tôn Sĩ Nghị (1720-1796), tên tiếng Trung: 孫士毅, tự Trí Dã (智冶), một tên tự khác là Bổ Sơn (补山), người tỉnh Chiết Giang, là một đại thần của nhà Thanh, Trung Quốc."
 }

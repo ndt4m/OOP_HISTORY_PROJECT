@@ -1,18 +1,14 @@
 {
-  "dateOfBirth" : "589",
-  "dateOfDeath" : "626 (36 – 37 tuổi)",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng thái tử Đại Đường",
-  "workTenure" : "618 - 626",
-  "fatherName" : {
-    "Đường Cao Tổ" : null
-  },
-  "motherName" : {
-    "Thái Mục hoàng hậu" : null
-  },
+  "dateOfBirth" : "1526",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng An Lạc (còn gọi là làng Thạc), huyện Thanh Lâm (nay thuộc xã An Châu, thành phố Hải Dương) .",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
   "eraName" : { },
   "id" : 1577,
-  "entityName" : "Lý Kiến Thành",
-  "aliases" : [ "Thụy hiệu Ẩn Thái tử (隱太子)", "Tỳ Sa Môn" ],
-  "overview" : "Lý Kiến Thành (chữ Hán: 李建成, 589 – 2 tháng 7, năm 626), biểu tự Tỳ Sa Môn (毗沙門), là một Thái tử nhà Đường. Ông là con trưởng của hoàng đế khai quốc Đường Cao Tổ Lý Uyên, được phong làm Thái tử sau khi triều đại thành lập vào năm 618."
+  "entityName" : "Đặng Thì Thố",
+  "aliases" : [ "Nam Chính" ],
+  "overview" : "Đặng Thì Thố (chữ Hán: 鄧時措, 1526 – ?) là trạng nguyên thứ 40 của Việt Nam. Ông là hậu duệ của Quốc công Đặng Tất, quê làng An Lạc (còn gọi là làng Thạc), huyện Thanh Lâm (nay thuộc xã An Châu, thành phố Hải Dương) . Hiện nay, ở các xã An Châu, Nam Trung và Nam Chính (Nam Sách) vẫn còn gia phả ghi về cụ Tổ Đặng Thì Thố - giỗ ngày 12 tháng 10 âm lịch."
 }

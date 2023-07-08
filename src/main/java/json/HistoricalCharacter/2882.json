@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Canh Ngọ 1930",
-  "dateOfDeath" : "Đinh Tị 1977",
-  "hometown" : "tại Chợ Mới, Long Xuyên (nay thuộc tỉnh An Giang)",
-  "occupation" : "Nghệ sĩ hiện đại",
+  "dateOfBirth" : "1921\n----------------------------------------------\nTân Dậu 1921",
+  "dateOfDeath" : "1969\n----------------------------------------------\nKỉ Dậu 1969",
+  "hometown" : "quê làng Thuận Bài, huyện Hương Thủy, tỉnh Thừa Thiên (nay là tỉnh Thừa Thiên Huế)",
+  "occupation" : "Anh hùng Quân đội Nhân dân VN",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
+    "Pháp đô hộ" : 11,
     "Nước Việt Nam mới" : 29
   },
   "id" : 2882,
-  "entityName" : "Can Trường",
-  "aliases" : [ "Phạm Hữu Lộc" ],
-  "overview" : "Từ những ngày đầu Nam Bộ kháng chiến ông là diễn viên ở đoàn kịch Cứu quốc tức đoàn Cửu Long Giang, và đoàn Văn công Nam Bộ tức đoàn Cải lương Nam Bộ. Suốt từ Nam ra Bắc, ông tận tình biểu diễn phục vụ nhân dân, bộ đội, trong các vở: - Đồng hồ chuông điện Krem-lin (vai Lê Nin) - Trương Định (vai Trương Định) - Hòn Đất (Tư Râu) - Người ven đô (Tám Khỏe) - Máu thắm Đồng Nọc Nạn (Phủ Huấn) - Kiều Nguyệt Nga (Bùi Kiệm) - Xâm lược (Bác sĩ)... Ông được tặng thưởng: Huân chương lao động hạng ba, Huy hiệu Thành đồng Tổ quốc, bốn giấy khen của Bộ Văn hóa và danh hiệu Nghệ sĩ nhân dân. Ngày 22-6-1977 ông mất tại TP. Hồ Chí Minh, hưởng dương 47 tuổi, an táng tại nghĩa trang Thủ Đức."
+  "entityName" : "Trần Đình Xu",
+  "aliases" : [ "Ba Đình", "Trần Sinh" ],
+  "overview" : "Trần Đình Xu (1921-1969), bí danh Ba Đình, tên thật Trần Sinh là đại tá (1961) trong Quân đội Nhân dân Việt Nam, liệt sĩ, nguyên Tư lệnh Quân khu Sài Gòn-Gia Định.\n----------------------------------------------\nÔng vào bộ đội từ năm 1945, sau khi Tổng khởi nghĩa thành công. Trong quân ngũ ông được giao nhiều chức vụ chỉ huy từ cơ sở đến cao cấp. Quân hàm trước khi hi sinh là Đại tá, sư đoàn phó sư đoàn 330 kiêm tư lệnh các lực lượng vũ trang khu Sài Gòn - Chợ Lớn. Ngày 22-3-1969 ông bị địch phục kích, hi sinh trên đường công tác."
 }

@@ -1,20 +1,17 @@
 {
-  "dateOfBirth" : "530",
-  "dateOfDeath" : "582",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế nhà Nam Trần",
-  "workTenure" : "568 - 582",
-  "fatherName" : {
-    "Trần Đạo Đàm (陳道譚)" : null
-  },
-  "motherName" : {
-    "?" : null
-  },
+  "dateOfBirth" : "Đinh Tị 1917",
+  "dateOfDeath" : "Canh Dần 1950",
+  "hometown" : "quê ở thị xã Hải Dương",
+  "occupation" : "Nhà thơ ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
   "eraName" : {
-    "Nam Trần" : null
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 2237,
-  "entityName" : "Trần Tuyên Đế",
-  "aliases" : [ "Cao Tông (高宗)", "Sư Lợi", "Trần Húc (陳頊)", "Trần Húc", "Trần Đàm Húc", "Thái Kiến (太建): 569-582", "Thiệu Thế", "Hiếu Tuyên Hoàng đế (孝宣皇帝)" ],
-  "overview" : "Trần Tuyên Đế (chữ Hán: 陳宣帝, 530–582), tên húy là Trần Húc (giản thể: 陈顼; phồn thể: 陳頊; bính âm: Chén Xù), hay Trần Đàm Húc (陳曇頊) , tên tự Thiệu Thế (紹世), tiểu tự Sư Lợi (師利), là một hoàng đế của triều Trần thời Nam-Bắc triều trong lịch sử Trung Quốc. Ông đoạt lấy hoàng vị từ chất tôn Trần Bá Tông vào năm 569 và sau đó cai trị quốc gia trong 13 năm. Ông được đánh giá là một vị quân chủ tài năng và mẫn cán, từng tiến đánh sang Bắc Tề. Sau khi Bắc Tề bị Bắc Chu thôn tính vào năm 577, Nam triều Trần bị dồn vào thế bất lợi, và để mất các lợi ích từng giành được từ Bắc Tề trước đó. Trần Tuyên Đế qua đời vào năm 582, trao lại quốc gia cho nhi tử bất tài Trần Thúc Bảo, và đến năm 589, Nam triều Trần đã bị triều Tùy tiêu diệt."
+  "entityName" : "Nguyễn Tuấn Trình",
+  "aliases" : [ "Thâm Tâm" ],
+  "overview" : "Nhà nghèo, học hết bậc tiểu học, ông bỏ học đi làm để mưu sinh. Từ năm 1938 ông cùng gia đình sống ở Hà Nội, vẽ tranh và sáng tác văn học. Ông viết nhiều nhất ở các báo Tiểu thuyết thứ bảy, Truyền bá, Phổ thông bán nguyệt san. Sau Cách mạng tháng Tám, ông tham gia Hội Văn hóa Cứu quốc, rồi toàn quốc kháng chiến, ông vào bộ đội, làm thư kí Tòa soạn báo Vệ quốc quân. Năm 1950, ông tham dự chiến dịch Cao Lạng, trên đường hành quân, ông mất vào ngày 18-8-1950 hưởng dương 33 tuổi. Thơ ông được tán thưởng nhiều qua các thi đề: Thanh ca, Vọng nhân hành, Tống biệt hành, Chiều mưa đường số 5. Thuốc mê là truyện dài đầu tay của ông được độc giả toàn quốc hoan nghênh từ trước năm 1945. Tống biệt hành là một thi đề đầy mĩ tính của nghệ thuật thi ca với những câu vượt thời gian: Đưa người, ta không đưa qua sông, Sao có tiếng sóng ở trong lòng! Bóng chiều không thắm không vàng vọt, Sao đầy hoàng hôn trong mắt trong? Đưa người, ta chỉ đưa người ấy, Một giã gia đình, một dửng dưng..."
 }

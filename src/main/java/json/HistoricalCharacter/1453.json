@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê làng Đan Loan, phủ Bình Giang (nay là Thanh Miện), tỉnh Hải Dương, dòng dõi học giả Phạm Đình Hổ, không rõ năm sinh, năm mất",
-  "occupation" : "Danh sĩ đời T",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "dateOfBirth" : "?, Hoa Lư, Ninh Bình",
+  "dateOfDeath" : "?",
+  "hometown" : "Không rõ",
+  "occupation" : "Định Phiên Vương",
+  "workTenure" : "993 - 1009",
+  "fatherName" : {
+    "Lê Đại Hành" : 2974
+  },
   "motherName" : { },
   "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+    "Nhà Tiền Lê" : 8
   },
   "id" : 1453,
-  "entityName" : "Phạm Đình Dục",
-  "aliases" : [ "Văn Sử Thị", "Loát Trúc Đạo Nhân", "Mộng Phủng" ],
-  "overview" : "Thuở nhỏ học ở quê, thi Hương nhiều lần chỉ đỗ Tú tài. Sau, chán khoa cử ông không thi nữa đến năm 1886 được bổ làm Huấn đạo huyện Chân Định (tức Kiến Xương) tỉnh Thái Bình. Ông là tác giả nhiều sách, nhưng nay đã thất lạc chỉ còn bộ Vân Nang tiểu sử. Vân Nang tiểu sử gồm một số bài thơ Tự đề của tác giả và một số thơ của bạn bè, trong đó có bài Tựa của một nữ sĩ người Trung Hoa tên là Vân Hoa, hiệu Thụy Phương đề năm Đinh dậu (1897). Sau đây là bài Tựa của tác giả đề năm Bính tuất (1886). Vân Nang tiểu sử không phải là một bộ sử, nó là một bộ sách ghi chép những truyện truyền kì mà cách viết cố gắng thể hiện như là một bộ dã sử (chẳng hạn: có ghi rõ địa điểm người kể chuyện…). Có các truyện như Bách nhật ngải (ngậm ngải 100 ngày), Tử nữ tương phối (anh em lấy nhau), Hiến thử (xét tội con chuột)... Tràng phái hầu Hoàng tặc (giặc châu chấu, quyển 3), Kỳ Đồng thủy mạt (Sự tích Kỳ Đồng, quyển 4)... Theo mục lục thì quyển I: 20 truyện; Quyển II: 23 truyện; Quyển III: 21 truyện; Quyển IV: 21 truyện; Quyển V ghi là có 16 truyện, nhưng bộ sách hiện có thì thiếu hẳn quyển V. Như vậy toàn bộ sách đầy đủ gồm 5 quyển, cộng 101 truyện, nhưng sách hiện có chỉ có 4 quyển, 85 truyện. Sau mỗi truyện tác giả có ghi chú và nêu những nhận định, ý kiến của mình. Theo bài tựa thì vào năm 1886 Phạm Đình Dục có gặp Nguyễn Thượng Hiền; Nguyễn Thượng Hiền đưa cho ông xem sách Hát Đông thư dị và khuyến khích ông nên chú ý viết sách. Sau đó ít lâu, Phạm Đình Dục được bổ làm huấn đạo huyện Chân Định (tức huyện Kiến Xương, tỉnh Thái Bình ngày nay) làm sách này trong thời gian ấy. Sau đây trích một đoạn trong bài Tự tự: Dịch nghĩa... Năm Bính tí (1876), tôi đậu tú tài Mùa hạ Năm Bính tuất (1886), tôi đến chơi nhà Đình thần Nguyễn thái sử (tức Nguyễn Thượng Hiền, thái sử đưa cho xem sách Hát Đông thư dị và bảo tôi nhuận chính. Thái sử nói: \"Sách Sưu thần, Chích quái là kho chuyện bảng quơ, sách Thuyết khoái, Đàm tùng là nhà chứa những điều không có. Sách của tôi không khác thế: cũng đều là những việc thường thấy cả thôi; nhưng những chuyện ấy đều có ý khuyên răn tinh vi thì may chăng có điều khả thủ. Ông có tài viết sử, sao cũng chẳng lượm lấy những điều đã ghi, chép lại thành sách? Thế rồi, tôi được bổ dạy học ở huyện Chân Định, ở rỗi một mình, nhân đó tôi biên lại những điều mắt thấy tai nghe từ lúc còn trẻ tuổi, vét khắp các túi mới làm thành được tập sách này, đề tên là Tiểu sử tức là Vân Nang tiểu sử."
+  "entityName" : "Lê Long Tung",
+  "aliases" : [ "Định Phiên Vương", "Lê Long Tung" ],
+  "overview" : "Lê Long Tung (chữ Hán: 黎龍鏦) là một hoàng tử của nhà Tiền Lê trong lịch sử Việt Nam. Ông là con trai thứ 7 của Vua Lê Đại Hành. Sinh tại kinh đô Hoa Lư, Ninh Bình, Việt Nam. Ông được vua phong tước Định Phiên Vương (定藩王), đóng tại Tư Doanh, tức vùng đất thuộc Cổ Loa Hà Nội ngày nay. Căn cứ vào năm sinh người con trai thứ năm của vua Lê Đại Hành (986) và năm phong vương thì năm sinh của ông nằm trong khoảng từ 986 đến 993."
 }

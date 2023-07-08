@@ -1,21 +1,16 @@
 {
-  "dateOfBirth" : "Mậu Ngọ 1918",
-  "dateOfDeath" : "Canh Ngọ 1990",
-  "hometown" : "tại làng Cam Lộ, tổng Cam Vũ huyện Cam Lộ, tỉnh Quảng Trị (nay thuộc thị xã Đông Hà, tỉnh Quảng Trị) cư ngụ ở Pháp nhiều năm, mất ngày 27-2-1990 tại Paris",
-  "occupation" : "Học giả, chuyên viết văn bằng tiếng Pháp, Hội viên Viện Hàn lâm khoa học hải ngoại Pháp quốc",
+  "dateOfBirth" : "Nhâm Dần 1902",
+  "dateOfDeath" : "Ất Dậu 1945",
+  "hometown" : "quê làng Tụy Anh, huyện Nghi Lộc, tỉnh Nghệ An",
+  "occupation" : "Nhà hoạt động cách mạng",
   "workTenure" : "Không rõ",
-  "fatherName" : {
-    "trai thứ ông Trần Minh Cầu" : null
-  },
-  "motherName" : {
-    "Nguyễn Thị Trà là anh em với các ông: Trần Minh Lại Trần Minh Tiểu" : null
-  },
+  "fatherName" : { },
+  "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Pháp đô hộ" : 11
   },
   "id" : 697,
-  "entityName" : "Trần Minh Tiết",
-  "aliases" : [ ],
-  "overview" : "Thuở nhỏ học ở Quảng Trị, Huế (cựu học sinh trường Pellerin). Những năm 50 (1954) của thế kỉ XX ông sang làm việc và định cư tại Pháp cho đến khi qua đời (1990). Từ khi định cư và viết văn tại Paris ông được các nhà văn Pháp tiến cử và trở thành Hội viên Viện Hàn lâm Khoa học Hải ngoại của Pháp từ những năm 60. Ông là cây bút chính của tờ Cahier de l'Asie Sud Est do Bác sĩ Hoàng Văn Đức sáng lập. Tờ báo có uy tín lớn đối với các nhà trí thức Việt Nam, Pháp ở Sài Gòn và Paris. Ông là tác giả hàng chục tác phẩm viết bằng tiếng Pháp về hòa bình thế giới; nhất là hòa bình ở châu Á. Có tác phẩm đã in đến lần thứ mười lăm thuộc loại sách bán chạy nhất tại Pháp trong những năm 60-80 ở Pháp, Âu châu, Á châu. Chính nhờ các tác phẩm của ông mà các dân tộc trong cộng đồng Pháp ngữ có điều kiện hiểu thấu đảo về châu Á, nhất là Việt Nam. Các tác phẩm của ông: - Thế giới Đại chiến lần thứ II (1950, dịch, Sài Gòn) - Tìm hiểu người Nhật để biết rõ những nhược điểm của ta (1964) - Kiến tạo hòa bình và công lí cho Việt Nam (NXB Minh Đức, Sài Gòn) - Tiếng nói của Phong trào Liên bang Đông Nam Á (NXB Nhân xã, Paris). - Chủ nghĩa Nhân bản xã hội - Tuyên ngôn về Quyền và Nhiệm vụ của con người và xã hội (Nhân xã, Paris). - Thường thức chính thuyết Quốc gia và liên bang của phong trào Liên bang Đông Nam Á (Nhân xã, Paris). Và nhiều các tác phẩm Pháp ngữ khác."
+  "entityName" : "Trương Vân Lĩnh",
+  "aliases" : [ "Trương Văn Thanh" ],
+  "overview" : "Ông sinh trong một gia đình công giáo gốc, lúc nhỏ học tại Chủng viện Xã Đoài Nghệ An, năm 1923 ông rời tổ quốc sang Thái Lan, Trung Quốc gia nhập Việt Nam thanh niên cách mạng đồng chí hội hoạt động chống Pháp ở hải ngoại. Năm 1927, ông gia nhập Đảng Cộng sản Trung Quốc, rồi vào học tại Trường võ bị Hoàng Phố, ra trường ông chỉ huy một đơn vị quân đội Quốc dân đảng chiến đấu ở Trung Quốc. Tháng 12 năm 1930 ông đến Hương Cảng hoạt động cho Đảng Cộng sản Đông Dương, rồi bị cảnh sát Anh bắt trục xuất về Trung Quốc. Đến năm 1932 ông bị mật thám Pháp bắt cóc ở Thượng Hải chúng giải ông về giam ở Hà Nội, Huế, bị tòa án Nam triều kết án khổ sai chung thân giam ở Lao Bảo, Ban Mê Thuột. Năm 1942 ông vượt ngục về Thanh Hóa rồi ra Thái Nguyên. Ở đây, ông được Trung ương Đảng Cộng sản Việt Nam giao nhiệm vụ đào tạo cán bộ quân sự cho xứ ủy Bắc Kì. Năm 1944 trên đường công tác, ông bị Pháp bắt tại Thái Nguyên đưa về giam lại nhà lao Hỏa Lò, Hà Nội. Cách mạng tháng tám thành công, ông được cử phụ trách Trường quân chính Hà Nội. Tại đây ông bị bệnh, mất ngày 23-11-1945, hưởng dương 43 tuổi."
 }

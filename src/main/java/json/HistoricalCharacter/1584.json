@@ -1,16 +1,20 @@
 {
   "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "không rõ năm sinh, năm mất và quê quán",
-  "occupation" : "Danh thần đời Minh Mạng",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
+  "dateOfDeath" : "965\n----------------------------------------------\nẤt Sửu 965",
+  "hometown" : "Hà Tây",
+  "occupation" : "Con thứ hai Ngô Quyền, khi Ngô Quyền lập nhà Ngô, sử gọi là Ngô Tiên Chúa, đến khi Xương Văn nối nghiệp túc Ngô Hậu chúa.",
+  "workTenure" : "950 – 965\n----------------------------------------------\nKhông rõ",
+  "fatherName" : {
+    "Ngô Quyền" : 1285
+  },
+  "motherName" : {
+    "Dương hậu" : null
+  },
   "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+    "Nhà Ngô" : 25
   },
   "id" : 1584,
-  "entityName" : "Cao Bá Nghi",
-  "aliases" : [ ],
-  "overview" : "Khoảng năm Nhâm ngọ 1822, chính ông đã soạn thào bài văn bia Thoại Sơn (Núi Sập) thề theo ý Thoại Ngọc Hầu Nguyễn Văn Thoại, nguyên văn chữ Hán, gồm 622 chữ, được truyền tụng đến bây giờ. (Văn bia hiện còn tại làng ông Thoại Ngọc Hầu ở Châu Đốc)."
+  "entityName" : "Ngô Xương Văn",
+  "aliases" : [ "Ngô Xương Văn (吳昌文)" ],
+  "overview" : "Ngô Xương Văn (chữ Hán: 吳昌文; ? – 965) là một vị vua nhà Ngô, trị vì từ 950 đến 965. Trong đó khoảng 951 – 954 cùng với anh trai là Ngô Xương Ngập. Sử gọi chung đó là thời Hậu Ngô Vương.\n----------------------------------------------\nNgô Quyền mất, Xương Văn bị cậu là Dương Tam Kha cướp quyền và bắt ông làm con nuôi. Được 6 năm, nhân hai thôn Thái Bình (thuộc tỉnh Sơn Tây) nổi loạn, ông vâng lệnh Tam Kha điều binh cùng hai tướng Dương Kiết Lợi và Đỗ Cảnh Thạch đi đánh dẹp. Đến Từ Liêm, ông hợp bàn mưu kế với hai tướng ấy, rồi trở về lật đổ Tam Kha, phục nghiệp vào năm Tân hợi 951. Lên ngôi, ông xưng là Nam Tấn vương, giáng Tam Kha làm Trương Dương Công. Bấy giờ, anh ông là Xương Ngập đã bỏ trốn ở làng Trà Hương từ trước, nhờ Phạm Lịnh Công nuôi giấu. Ông cho rước anh về cùng trị nước. Anh ông xưng là Thiên Sách vương. Đến năm Giáp dần 954, Xương Ngập mất, ông toàn quyền cai trị, nhưng trong nước thường có loạn. Ất sửu 965, khi đi dẹp loạn ở thôn Thái Bình, ông bị giặc bắn chết tại trận. Con Xương Ngập nối ngôi là Ngô Xương Xí, chỉ còn là một sứ quân trong thời loạn."
 }

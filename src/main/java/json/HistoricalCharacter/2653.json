@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Canh Ngọ 1930",
+  "hometown" : "quê tại phủ Lạng Thương, tỉnh Bắc Giang (nay thuộc tỉnh Bắc Ninh)",
+  "occupation" : "Liệt sĩ cận đại, tục gọi là Cô Giang, vị hôn thê của Nguyễn Thái Học",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
+  },
   "id" : 2653,
-  "entityName" : "Trương Văn Hiến",
-  "aliases" : [ ],
-  "overview" : "Trương Văn Hiến là thầy dạy học của ba thủ lĩnh của phong trào Tây Sơn là Nguyễn Nhạc, Nguyễn Huệ và Nguyễn Lữ trong lịch sử Việt Nam."
+  "entityName" : "Nguyễn Thị Giang",
+  "aliases" : [ "Cô Giang" ],
+  "overview" : "Năm 1929, cô gặp Nguyễn Thái Học rồi hai bên yêu nhau và trở thành người thân tín nhất của Nguyễn Thái Học. Cô từng tham gia tích cực vào việc tuyên truyền, liên lạc giữa các cơ sở đảng ở các tỉnh: Bắc Giang, Phú Thọ, Bắc Ninh, Vĩnh Yên... Sau khi cuộc khởi nghĩa của Việt Nam Quốc dân đảng thất bại, ngày 17-6-1930 Nguyễn Thái Học và các đồng chí của ông bị Pháp giết ở Yên Bái. Cô đã đến tận pháp trường để chứng kiến cái chết anh dũng của hôn phu và các đồng chí. Sau khi Nguyễn Thái Học lên máy chém, cô về nhà trọ viết hai bức thư. Một gởi song thân, một gởi hương hồn Nguyễn Thái Học và bài thơ lục bát. Bức thư thứ hai (gởi hương hồn Nguyễn Thái Học) viết: \"Anh đã là người yêu nước, không làm tròn được nghĩa vụ cứu nước. Anh giữ lấy linh hồn cao cả để về dưới suối vàng chiêu binh rèn súng đánh đuổi quân thù. Phải chịu đựng nhục nhã mới mong có ngày vẻ vang. Các bạn đồng chí còn sống lại sau anh phải phấn đấu thay anh để đánh đổ cường quyền mà cứu đồng bào đau khổ.\" Và bài lục bát tuyệt mệnh: Thân không giúp ích cho đời, Thù không trả được cho người tình chung. Dẫu rằng đương độ trẻ trung, Quyết vì dân chúng thề lòng hi sinh. Con đường tiến bộ mông mênh, Éo le hoàn cảnh buộc mình biết bao ? Bây giờ hết kiếp thơ đào, Gian nan bỏ mặc đồng bào từ đây. Dẫu rằng chút phận thơ ngây, Sổ đồng chí đã có ngày ghi tên. Chết đi dạ những buồn phiền, Nhưng mà hoàn cảnh truân chuyên buộc mình. Quốc kì phấp phới trên thành, Tủi thân không được chết vinh dưới cờ. Cực lòng lỡ bước sa cơ, Chết sầu, chết thảm, có thừa xót xa. Thế ru? Đời thế ru mà? Đời mà ai biết, người mà ai hay... Cùng ngày, cô quay về làng Đồng Vệ, tỉnh Vĩnh Yên (giáp làng Thổ Tang, quê Nguyễn Thái Học) dùng súng lục tự tử như lời thơ tuyệt mệnh."
 }

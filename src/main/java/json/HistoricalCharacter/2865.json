@@ -1,19 +1,16 @@
 {
-  "dateOfBirth" : "1287\n----------------------------------------------\nNhâm Ngọ 1282",
-  "dateOfDeath" : "1325\n----------------------------------------------\nẤt Sửu 1325",
-  "hometown" : "quê làng Tức Mặc phủ Thiên Trường, tỉnh Nam Định",
-  "occupation" : "Danh sĩ đời Trần Anh tông",
+  "dateOfBirth" : "Mậu Ngọ 1378",
+  "dateOfDeath" : "Giáp Tuất 1454",
+  "hometown" : "người làng Triều Đông, huyện Thượng Phúc (Hà Đông), là nhà thơ, làm quan thời Lê sơ, đỗ Thái học sinh khoa Canh Thìn (1400), năm Thánh Nguyên đời Hồ Quý Ly.\n----------------------------------------------\nquê làng Triều Đông, huyện Thượng Phúc (nay thuộc tỉnh Hà Tây)",
+  "occupation" : "Danh sĩ, tác giả đời Lê sơ, Nguyên tên là Tấn",
   "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Trần Quốc Tảng" : 751
-  },
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Trần" : 15,
-    "nhà Trần" : null
+    "Triều Lê Sơ" : 7
   },
   "id" : 2865,
-  "entityName" : "Trần Quang Triều",
-  "aliases" : [ "Võ Sơn Ông", "Trần Nguyên Đào", "Cúc Đường" ],
-  "overview" : "Trần Quang Triều (chữ Hán: 陳光朝, 1287 -1325) còn có tên là Trần Nguyên Đào , biệt hiệu là Cúc Đường Chủ nhân và Vô Sơn Ông; là nhà thơ và là quan nhà Trần trong lịch sử Việt Nam.\n----------------------------------------------\nNăm Tân sửu 1301, ông được phong tước Văn Huệ vương, làm đến Nhật nội kiểm hiệu Tư đồ. Tuy quan tước cao trọng nhưng ông không tha thiết danh lợi. Sau ông cáo quan về ở ấn tại am Bích Động gần chùa Quỳnh Lâm (nay thuộc huyện Đông Triều, tỉnh Quảng Ninh). Tại đây ông mở một thi xã mang tên Bích Động gồm các danh sĩ Nguyễn Trung Ngạn, Nguyễn Ức, Nguyễn Xưởng nổi tiếng đương thời. Năm Ất sửu 1325 ông mất hưởng dương 43 tuổi. Ông là tác giả thi tập Cúc Đường di thảo Cúc Đường di thảo do Nguyễn Ức sưu tập gồm thơ ông và một số thơ của bạn trong thi xã Bích Động. Thi phẩm trên nay đã thất lạc, chỉ còn 11 bài thơ của ông do Phan Phu Tiên sưu tầm, in trong Việt âm thi tập."
+  "entityName" : "Lý Tử Tấn",
+  "aliases" : [ "Chuyết Am" ],
+  "overview" : "Lý Tử Tấn, thường gọi bằng tên tự là Tử Tấn, người làng Triều Đông, huyện Thượng Phúc (Hà Đông), là nhà thơ, làm quan thời Lê sơ, đỗ Thái học sinh khoa Canh Thìn (1400), năm Thánh Nguyên đời Hồ Quý Ly. Lý Tử Tấn làm quan đến Học sĩ viện Hàn lâm các, trải 3 đời vua Lê Thái Tổ, Lê Thái Tông, Lê Nhân Tông.\n----------------------------------------------\nNăm Canh thìn 1400 ông đỗ thái học sinh (tiến sĩ) đời nhà Hồ. Đến khi cuộc khởi nghĩa Lm Sơn thành công, ông vào yết kiến Lê Thái tổ, được nạp dụng. Làm quan qua ba triều vua, trải các chức Thông phụng đại phu, Hành khiển bắc đạo, Thừa chỉ Viện Hàn lâm, vào hầu giảng ở tòa Kinh diên. Tài đức ông, sĩ phu đều trọng vọng. Năm Giáp tuất 1454 ông mất, thọ 76 tuổi (có sách ghi mất năm 1457) còn để lại tác phẩm Chuyết Am thi tập. Ông cũng có làm lời thông luận cho bộ Dư địa chí của Nguyễn Trãi, hiệu chính và phê điểm trong bộ Việt âm thi tập. Bộ Chuyết Am thi tập của ông nay không còn, nhưng trong Toàn Viêt thi lục của Lê Quí Đôn còn ghi 73 bài thơ của ông. Trong Quần hiền phú còn ghi 5 bài phú của ông, được ca tụng là bài Phú Xương Giang. Bộ Chuyết Trai văn tập do ông soạn. Về sách này Phan Huy Chú cho rằng thơ Lý Tử Tấn bình đạm, nhiều ý cổ và trích một số bài trong sách mình (PHC). Về thơ Lý Tử Tấn sách Việt âm thi tập có ghi ở mục lục là quyển 4 có 30 bài, Toàn Việt thi lục (quyển 7) chép 72 bài của Lý Tử Tấn, Hoàng Việt thi tuyển trích 8 bài."
 }

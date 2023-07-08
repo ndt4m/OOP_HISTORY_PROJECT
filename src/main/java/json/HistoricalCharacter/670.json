@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "1583",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Tân Tị 1881",
+  "dateOfDeath" : "Ất Dậu 1945",
+  "hometown" : "quê làng Bảo An, huyện Điện Bàn, tỉnh Quảng Nam (nay là xã Điện Quang, huyện Điện Bàn cùng tỉnh)",
+  "occupation" : "Nhà văn",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "nhà Lê" : null
+    "Pháp đô hộ" : 11
   },
   "id" : 670,
-  "entityName" : "Đặng Huấn",
-  "aliases" : [ ],
-  "overview" : "Đặng Huấn (?-1583) là đại thần có công giúp nhà Lê trung hưng thời chiến tranh Lê-Mạc trong lịch sử Việt Nam."
+  "entityName" : "Nguyễn Bá Trác",
+  "aliases" : [ "Tiêu Đẩu" ],
+  "overview" : "Năm Bính ngọ 1906, ông đỗ Cử nhân. Hưởng ứng phong trào Duy tân, Đông du, ông sang Nhật Bản du học. Sau khi chính phủ Nhật cấu kết với Pháp giải tán học sinh Việt Nam và trục xuất các nhà yêu nước của ta, ông sang Trung Quốc. Trong thời gian này Nguyễn Bá Trác ngầm phản bội trở nên tay chân Pháp. Khi về Hà Nội, Nguyễn làm ở phòng báo chí phủ Toàn quyền Đông Dương, chủ bút tờ Cộng Thị báo bằng chữ Hán nhằm cám dỗ trí thức Hán học thời ấy (1914-1916). Đến năm 1917 làm chủ bút phần chữ Hán cho tờ tạp chí Nam Phong do Phạm Quỳnh làm chủ bút. Sau đó vào Huế làm Tá lí bộ Học, ít lâu thăng Tuần phủ Quảng Ngãi, Tổng đốc Thanh Hóa, Bình Định. Cách mạng tháng Tam thành công, ông bị các lực lượng cách mạng xử bắn tại Quảng Ngãi năm 1945. Nguyễn Bá Trác là tác giả một số bài báo trên Nam Phong và đã xuất bản các sách: - Hoàng Việt Giáp tí niên biểu (1925) - Hán học văn học khảo cùng một số thơ, văn in trong tạp chí Nam Phong (1917-1932) - Hãn mạn du kí (1920) kèm bản dịch Hồ Trường - Cổ học viện thư tịch thủ sách (1921) - Bàn về Hán học (chữ Hán) Nam Phong, (1920) - Bàn về học thuật nước Tàu, Nam Phong (1918) - Mâý lời chung cáo với các bạn nhà Nho, Nam Phong, (1921) - Hương giang mộng, Nam Phong, (1920) - Ngã An Nam dân tộc Nam tiến chi lịch sử, Nam Phong, (1921) - Nguyễn Bá Học tiên sinh chi lược sử cập kì di ngôn, (1921) - Lĩnh Nam dật sử nghi án, Nam Phong, (1921) - Du thanh hòa kí, Nam Phong, (1921)…"
 }

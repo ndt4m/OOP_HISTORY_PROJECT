@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "19 tháng 8, 1952 (66 tuổi) Bắc Giang, Việt Nam Dân chủ Cộng hòa",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê quán: huyện Yên Dũng, tỉnh Bắc Giang) là một chính khách Việt Nam.",
+  "dateOfBirth" : "1875",
+  "dateOfDeath" : "1913",
+  "hometown" : "quê quán và sinh ra ở làng Vân, xã Tiểu Hoa Lâm, tổng Đặng Xá, huyện Đông Ngàn, phủ Từ Sơn, tỉnh Bắc Ninh, trấn Kinh Bắc, nay là thôn Yên Viên, xã Yên Viên thuộc huyện Gia Lâm, thành phố Hà Nội.",
   "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "nhà Nho" : null
+  },
   "id" : 726,
-  "entityName" : "Phạm Thị Hải Chuyền",
-  "aliases" : [ ],
-  "overview" : "Phạm Thị Hải Chuyền (sinh năm 1952, quê quán: huyện Yên Dũng, tỉnh Bắc Giang) là một chính khách Việt Nam. Bà nguyên là Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa X, XI, Đại biểu Quốc hội Việt Nam khóa X. Ngày 3 tháng 8 năm 2011 bà được Quốc hội phê chuẩn làm Bộ trưởng Bộ Lao động, Thương binh và Xã hội là người kế nhiệm cho bà Nguyễn Thị Kim Ngân. Bà nguyên Phó Chủ nhiệm Thường trực Ủy ban Kiểm tra Trung ương."
+  "entityName" : "Nguyễn Khắc Cần",
+  "aliases" : [ "Tiểu Lâm" ],
+  "overview" : "Nguyễn Khắc Cần (1875 - 1913) tên chữ là Tiểu Lâm, là một nhà Nho yêu nước, quê quán và sinh ra ở làng Vân, xã Tiểu Hoa Lâm, tổng Đặng Xá, huyện Đông Ngàn, phủ Từ Sơn, tỉnh Bắc Ninh, trấn Kinh Bắc, nay là thôn Yên Viên, xã Yên Viên thuộc huyện Gia Lâm, thành phố Hà Nội."
 }

@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Tân Tị 1881",
-  "dateOfDeath" : "Nhâm Ngọ 1942",
-  "hometown" : "quê làng Mĩ Xương (Cao Lãnh) nay thuộc tỉnh Đồng Tháp",
-  "occupation" : "Nhà yêu nước ông có ",
+  "dateOfBirth" : "Quí Sửu 1913",
+  "dateOfDeath" : "Kỉ Tị 1989",
+  "hometown" : "tại Hà Nội, nguyên quán huyện Ân Thi, tỉnh Hưng Yên",
+  "occupation" : "Nhà văn ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 1059,
-  "entityName" : "Đinh Hữu Thuật",
-  "aliases" : [ "Đinh Quang Tích" ],
-  "overview" : "Ông học nho uyên bác, giao thiệp rộng, tính cương trực, nhiệt thành yêu nước. Hưởng ứng phong trào Duy tân, Đông du, ông xuất dương sang Nhật, Trung Quốc, hoạt động cách mạng từ năm Nhâm tí 1912. Ít lâu ông bị Pháp bắt giải về Hà Nội mang án 20 năm. Lưu đày ở Guyane suốt 12, 13 năm gian khổ, ông vượt nguc, lẻn về nước cải trang làm người Trung Quốc, hoạt động nhiều nơi, tận tụy cứu nước, có lúc ẩn thân trên núi Cấm ở Châu Đốc. Năm Nhâm ngọ 1942, ông mất tại làng Tân Khánh (Sa Đéc) thọ 61 tuổi, mộ ở làng Mĩ Xương."
+  "entityName" : "Trần Huyền Trân",
+  "aliases" : [ "Trần Đình Kim" ],
+  "overview" : "Những năm trước cách mạng tháng Tám năm 1945 ông cộng tác với các báo: Tiểu thuyết thứ bảy, Truyền bá, Phổ thông bán nguyệt san ở Hà Nội. Sau toàn quốc kháng chiến, ông hoạt động trong Hội Văn hóa cứu quốc, tham gia Đoàn Sân khấu Việt Nam, làm việc ở Bộ Tuyên truyền dưới thời Bộ trưởng Trần Huy Liệu. Hòa bình lập lại (1954) ông cộng tác ở Ban Sân khấu - Vụ Nghệ Thuật, Hội Nhà Văn, Hội Sân khấu Việt Nam, Đoàn Văn công Trung ương... cho đến ngày về hưu... Ngày 22 tháng 4 năm 1989 ông mất tại Hà Nội, thọ 76 tuổi. Các tác phẩm: - Sau ánh sáng (tiểu thuyết, 1940) - Bóng người trên gác binh (tiểu thuyết, 1940) - Tấm lòng kĩ nữ (tiểu thuyết, 1941) - Lẽ sống (truyện 1942) - Người ngàn thu cũ (tiểu thuyết, 1942) - Phá xiềng - Ni cô Đàm Vân (chèo) - 19-8 - Quan Âm Thị Kính (chèo) - Tú Uyên - Giáng Kiều (chèo) - Vân dại (chèo) - Rau Tần (thơ) Bên cạnh, Trần Huyền Trân nhà văn, thơ ông dạt dào tình cảm và tràn đầy thi ảnh dù trong thơ tình lãng mạn hay thơ đấu tranh hừng hực lửa, như bài: Mười Năm Biết nhau từ thuở dại khờ, Giờ đây bụi cát đã mờ mắt trong. Nhánh hồng em chết bên song, Đã mười xuân rụng mười bông hoa cười. (…) Tương phùng là để biệt li, Biệt li, là một lòng đi qua lòng. Giờ thuyền em đã theo sông, Anh nhìn khói sóng ngỡ trông mây đèo. Mười năm mới hiểu tình yêu! Một nguồn hương nhẹ mấy chiều gió đưa? (1942)"
 }

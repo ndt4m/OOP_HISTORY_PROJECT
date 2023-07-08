@@ -2,16 +2,15 @@
   "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Danh tướng nhà Ngô",
-  "workTenure" : "Không rõ",
+  "occupation" : "Vua",
+  "workTenure" : "?–?",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Ngô" : 25,
-    "nhà Ngô" : null
+    "Hồng Bàng" : 17
   },
   "id" : 265,
-  "entityName" : "Dương Cát Lợi",
+  "entityName" : "Hùng Vương thứ 11",
   "aliases" : [ ],
-  "overview" : "Dương Cát Lợi (?-?) là tướng lĩnh nhà Ngô trong lịch sử Việt Nam.\n----------------------------------------------\nNăm Giáp thìn 944, Ngô vương Quyền mất, Dương Tam Kha chiếm ngôi báu, Dương Cát Lợi bất bình, chống đối âm thầm, chờ thời cơ. Năm Canh tuất 950, có dân ở hai thôn Thái Bình, thuộc tỉnh Sơn Tây dấy loạn. Dương Tam Kha sai Ngô Xương Văn cùng Dương Cát Lợi, Đỗ Cảnh Thạc đi đánh dẹp. Dương Cát Lợi đã sẵn có ý riêng, lãnh mạng đi ngay. Dọc đường ông dò xem Xương Văn hành động ra sao, rồi sẽ tùy cơ bày tỏ lòng mình. Đi đến Từ Liêm, Xương Văn xúc động bày tỏ tâm sự về nỗi bị truất phế, xin ông và Đỗ Cảnh Thạc liệu giúp. Ông và Đỗ Cảnh Thạc đồng ý ủng hộ Ngô Xương Văn, cất quân trở về bắt Dương Tam Kha, khôi phục nghiệp cũ. Cơ nghiệp nhà Ngô còn vững thêm được một thời gian chính là nhờ công ông."
+  "overview" : "Hùng Vương (chữ Hán: 雄王) hay vua Hùng (chữ Nôm: \uD852\uDD30雄) là cách gọi dành cho các vị vua nước Văn Lang của người Lạc Việt, tồn tại vào khoảng thế kỷ 7 tới thế kỷ 2 trước công nguyên."
 }

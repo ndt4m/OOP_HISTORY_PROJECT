@@ -1,14 +1,17 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "1770",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Mậu Thìn 1928",
+  "dateOfDeath" : "Nhâm Ngọ 2002",
+  "hometown" : "tại xã Vũ Hội, huyện Vũ Thư, tỉnh Thái Bình",
+  "occupation" : "Tướng lĩnh QĐNDVN ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
+  },
   "id" : 49,
-  "entityName" : "Trần Hầu",
-  "aliases" : [ "Trần Cơ", "Trần Đại Lực" ],
-  "overview" : "Trần Hầu hay Trần Cơ (陳機), tên thật là Trần Đại Lực (? - 1770); là cháu của đô đốc Mạc Thiên Tứ và là võ quan dưới thời chúa Nguyễn Phúc Thuần trong lịch sử Việt Nam."
+  "entityName" : "Vũ Xuân Nhã",
+  "aliases" : [ "Vũ Ngọc Nhạ" ],
+  "overview" : "Thuở nhỏ học ở Thái Bình, Hà Nội, sau cách mạng tháng 8 năm 1945 và toàn quốc kháng chiến tham gia kháng chiến chống Pháp ở Thái Bình. Tham gia các lực lượng vũ trang của Bùi Chu, Phát Diệm của giám mục Lê Hữu Từ chống lực kháng chiến chống Pháp. Năm 1951 ông từ vùng bị Pháp chiếm lên chiến khu Việt Bắc tiếp xúc với các vị phụ trách ngành tình báo Bộ Quốc phòng Việt Nam và các lãnh tụ khác. Năm 1954 ông nhận mệnh lệnh từ cơ quan tình báo chiến lược theo đoàn di cư của các linh mục, giám mục công giáo vào sống và hoạt động ở miền Nam (Sài Gòn). Tại Sài Gòn, Huế... Ông len lỏi vào các cơ quan công quyền cao cấp từ Ngô Đình Cẩn (ở Huế) đến các nhân vật công giáo vào hàng giám mục, và cả Ngô Đình Nhu, Ngô Đình Diệm để hoạt động tình báo. Có lúc ông trở thành cố vấn của tổng thống Thiệu một thời gian dài. Do hoạt động bí mật của mình, ông bị an ninh quân đội và tình báo Sài Gòn bắt giữ cùng với cố vấn Huỳnh Văn Trọng, nhà báo Hoàng Hồ... và đưa ra tòa án kết án khổ sai đày Côn Đảo, mãi đến năm 1973 mới được \"trao trả tù binh\" theo tinh thần của hiệp định đình chiến Paris. Đời hoạt động của ông được nhà văn Hữu Mai hư cấu nghệ thuật thành một nhân vật chính trong tiểu thuyết có tên Ông cố vấn. Sau ngày 30 tháng 4 năm 1975, ông được Đảng và Nhà nước Việt Nam phong quân hàm Thiếu tướng QĐNDVN và nhiều huân chương cao quí trong đó có Huân chương Độc lập hạng ba. Vào tuổi vãn niên nằm chữa bệnh tại Sài Gòn vào thời điểm gân đây (2002) ông hồi tưởng lại câu thơ lúc đang bềnh bồng trên chiếc tàu di cư hồi năm 1955, hồi đó ông viết: Ngắm nhìn mây nước biển Đông. Trời cao biển rộng, nặng lòng nước non. (Biển Đông tháng 2-1955) Và lời tâm sự lúc cuối đời: \"Không chào được bố mẹ. Đó cũng là ngày vĩnh biệt luôn. Các cụ khổ tâm vì con cái phản bội theo giặc, sau này trong cải cách ruộng đất cũng bị đấu tố. Cụ không cãi lại được, chứng cứ rành rành: Gần tết năm 1955, hình như ngày 11-11-1954 thì phải, tôi còn ở trong đám sĩ quan Pháp diễu binh, ngồi trên xe Jeep, người Hải Phòng, Thái Bình quê tôi đều nhìn tận mắt mà!\" Ông mất ngày 7-8-2002 tại nhà riêng ở Sài Gòn (TP.HCM), thọ 74 tuổi."
 }

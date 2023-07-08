@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "5 tháng 5, 1937 (80 tuổi) Quảng Ngãi, Liên bang Đông Dương",
+  "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
-  "hometown" : "xã Phổ Khánh, huyện Đức Phổ, tỉnh Quảng Ngãi) là một chính khách Việt Nam.",
-  "occupation" : "Không rõ",
+  "hometown" : "quê làng Hoa Trai, huyện Ngọc Sơn, phủ Tĩnh Gia, tỉnh Thanh Hóa",
+  "occupation" : "Thân phụ Đào Duy Từ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
   "id" : 735,
-  "entityName" : "Trần Đức Lương",
+  "entityName" : "Đào Tá Hán",
   "aliases" : [ ],
-  "overview" : "Trần Đức Lương (sinh ngày 5 tháng 5 năm 1937 tại xã Phổ Khánh, huyện Đức Phổ, tỉnh Quảng Ngãi) là một chính khách Việt Nam. Ông là Chủ tịch nước thứ năm của Việt Nam (nhiệm kỳ từ 24 tháng 9 năm 1997 cho đến 26 tháng 6 năm 2006), là Ủy viên Bộ Chính trị (khóa VIII, IX) và Ủy viên Thường vụ Bộ Chính trị (khóa VIII) Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam."
+  "overview" : "Thuở trai tráng ông đầu quân nhà Lê, chống nhau với quân nhà Mạc, ít lâu ông sơ suất phạm tội bị phạt 20 roi và đuổi ra khỏi quân ngũ, buồn tình, ông theo một gánh hát chèo để học hát. Thông minh, đẹp trai, chỉ trong hai năm ông trở thành kép nổi tiếng đương thời. Một hôm, hát đám hội làng Ngọc Lâm, huyện Ngọc Sơn, tỉnh Thanh Hóa, ông vào ở trọ nhà ông tiên chỉ là Võ Đạm. Con gái Võ Đạm là Võ Kim Chi 19 tuổi, quê làng Mĩ Du Sa cùng huyện, cảm tiếng hát của ông. Từ đó hai người trở thành vợ chồng. Được hơn một năm thì sinh ra Đào Duy Từ (có tài liệu viết mẹ Đào Duy Từ là bà Nguyễn Thị Mạch cảm tiếng hát của ông mà kết thành vợ chồng). Sau, ông làm quản giáp trong nghề ca hát, rồi làm chức linh quan coi đội nữ nhạc trong Đại nội, dưới triều Lê Anh tông."
 }

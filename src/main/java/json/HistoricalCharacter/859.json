@@ -2,13 +2,17 @@
   "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "occupation" : "Tước hiệu",
+  "workTenure" : "1782—1782",
+  "fatherName" : {
+    "Trịnh Sâm" : null
+  },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Đàng Ngoài - Chúa Trịnh" : 26
+  },
   "id" : 859,
-  "entityName" : "Trần Điền",
+  "entityName" : "Điện Đô Vương",
   "aliases" : [ ],
-  "overview" : "Trần Điền là tổ sư nghề kim hoàn của Việt Nam, thời vua Lý Nam Đế (thế kỷ 6)."
+  "overview" : "Điện Đô vương Trịnh Cán (chữ Hán: 奠都王鄭檊, 1775 – 17 tháng 12, 1782) là vị chúa Trịnh thứ 9 của vương tộc Trịnh cầm quyền ở miền Bắc Đại Việt thời nhà Lê trung hưng trong lịch sử Việt Nam."
 }

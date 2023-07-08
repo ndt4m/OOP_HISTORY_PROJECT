@@ -1,18 +1,20 @@
 {
-  "dateOfBirth" : "Ất Mão 1675",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê xã Liêu Xá, huyện Đường Hào, tỉnh Hải Dương (nay thuộc Hải Dương)",
-  "occupation" : "Danh sĩ đời Lê Dụ tông",
+  "dateOfBirth" : "1749\n----------------------------------------------\nKỉ Tị 1749",
+  "dateOfDeath" : "1800\n----------------------------------------------\nCanh Thân 1800",
+  "hometown" : "Quê làng Mộ Trạch, huyện Đường An, tỉnh Hải Dương, con trai tiến sĩ Võ Huy Đỉnh",
+  "occupation" : "Danh sĩ đời Lê Hiển tông",
   "workTenure" : "Không rõ",
   "fatherName" : {
-    "Hoàng giáp Lê Hữu Danh" : null
+    "tiến sĩ Võ Huy Đỉnh" : null
   },
   "motherName" : { },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34
+    "Trịnh - Nguyễn" : 34,
+    "Nhà Tây Sơn" : 21,
+    "nhà Lê" : null
   },
   "id" : 1733,
-  "entityName" : "Lê Hữu Mưu",
-  "aliases" : [ "Phác Trai" ],
-  "overview" : "Năm Canh dần 1710, ông đỗ tam giáp tiến sĩ, làm đến Bồi tụng, Hữu thị lang bộ Công rồi giảng sách ở tòa Kinh diên. Sau được tặng Tả thị lang, phong tước Phu Đình Bá. Ông có tiếng văn thơ, tài đức được sĩ phu kính trọng. Người con thứ 7 của ông là Lê Hữu Trác về sau được nhân dân xưng tụng là Tổ sư Đông y Việt Nam. Ông có soạn bản sách Văn Xá Lê tộc thế phả, ghi chép rõ về gia tộc ông. - Văn Xá Lê tộc thế phả (1 cuốn) do ông biên soạn từ tiên tổ họ Lê là Lê Phúc Tiến giữ chức Quốc tử giám vào đời Hồng Đức (1470-1497). Sách chép kĩ từ đời có ông Lê Hữu Danh đậu nhị giáp Tiến sĩ khoa Canh tuất (1670) làm quan đến Hiến sát sứ được phong tước Văn Uyên Bá trong đó có 3 con và cháu đậu tiến sĩ là Hữu Hỉ, Hữu Mưu, Hữu Kiều, con thứ bảy của Hữu Mưu là Lê Hữu Chẩn, Lê Hữu Chẩn húy là Trác hiệu là Hải Thượng Lãn ông Lê Hữu Trác (Chẩn) đậu nho sinh khoa Quí hợi triều Lê (1731). Sau bỏ học khoa cử chuyên học nghề thuốc và đã thành công trong sự nghiệp y học. ."
+  "entityName" : "Vũ Huy Tấn",
+  "aliases" : [ "Liễn", "Võ Huy Liễn", "Nhất Thủy", "Võ Huy Tấn" ],
+  "overview" : "Vũ Huy Tấn hay Võ Huy Tấn (chữ Hán: 武輝瑨; 1749 - 1800), còn có tên là Liễn, hiệu là Nhất Thủy. Ông là nhà thơ, là viên quan trải hai triều đại: nhà Lê trung hưng và nhà Tây Sơn trong lịch sử Việt Nam.\n----------------------------------------------\nNăm Mậu tí 1768, đỗ Giải nguyên cùng khoa với Phan Huy ích. Sau khi đỗ được bổ làm Thị nội ở Viện Hàn lâm. Khi vua Quang Trung ra Bắc, ông ra giúp nhà Tây Sơn, làm Hàn lâm đãi chế, rồi thăng đến Thượng thư bộ Công. Hai lần đi sứ Trung Quốc giúp vua Quang Trung trong công việc ngoại giao. Năm 1795 được đặc cách phong Thượng trụ quốc, Thị trung đãi chiếu Thượng thư. Năm 1800 ông mất, hưởng dương 51 tuổi. Khi đi sứ Trung Quốc cùng giả vương Phạm Công Trị, ông đã bảo vệ được danh dự quốc gia trong việc phản đối quan lại nhà Thanh xấc xược gọi các quan trong sứ bộ Việt Nam là \"di quan\" (quan mọi rợ). Tinh thần tự hào dân tộc của ông được thể hiện qua thơ văn ca ngợi chiến thắng quân Thanh dưới sự chỉ huy của anh hùng Quang Trung. Tác phẩm chính của ông là bộ Hoa Nguyên tùy bộ tập."
 }

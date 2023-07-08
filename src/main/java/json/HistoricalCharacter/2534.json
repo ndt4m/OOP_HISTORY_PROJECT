@@ -1,18 +1,14 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Vua",
-  "workTenure" : "722—723",
-  "fatherName" : {
-    "Mai Hắc Đế" : 2852
-  },
+  "dateOfBirth" : "1923",
+  "dateOfDeath" : "1998",
+  "hometown" : "xã Trung Mâu, tổng Thông Lãng huyện Hưng Huyên (nay là xã Hưng Tiến, huyện Hưng Nguyên), tỉnh Nghệ An.",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Họ Mai" : 3
-  },
+  "eraName" : { },
   "id" : 2534,
-  "entityName" : "Mai Thiếu Đế",
+  "entityName" : "Trần Đệ",
   "aliases" : [ ],
-  "overview" : "Mai Thiếu Đế (chữ Hán: 梅少帝; ? – 723?) là một vị vua truyền thuyết Việt Nam. Tương truyền, ông là người kế vị vua Mai Hắc Đế trong lịch sử Việt Nam."
+  "overview" : "Trần Đệ (1923-1998), là một lão thành cách mạng thuộc Đảng Cộng sản Việt Nam, ông sinh ra tại làng Long Đống, xã Trung Mâu, tổng Thông Lãng huyện Hưng Huyên (nay là xã Hưng Tiến, huyện Hưng Nguyên), tỉnh Nghệ An."
 }

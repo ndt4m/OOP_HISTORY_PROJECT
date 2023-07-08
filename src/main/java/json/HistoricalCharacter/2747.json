@@ -1,18 +1,17 @@
 {
-  "dateOfBirth" : "242",
-  "dateOfDeath" : "284 Lạc Dương, Hà Nam",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đông Ngô",
-  "workTenure" : "264 - 280",
-  "fatherName" : {
-    "Tôn Hòa" : null
-  },
+  "dateOfBirth" : "Canh Tí 1900",
+  "dateOfDeath" : "Nhâm Tuất 1982",
+  "hometown" : "tại làng Phổ An, huyện Tư Nghĩa, tỉnh Quảng Ngãi",
+  "occupation" : "Nhà báo, nhà thơ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Đông Ngô" : null
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 2747,
-  "entityName" : "Tôn Hạo",
-  "aliases" : [ "Niên hiệu Nguyên Hưng (元興) 264-265 Cam Lộ (甘露) 265-266 Bảo Định (寶鼎) 266-269 Kiến Hoành (建衡) 269-271 Phượng Hoàng (鳳凰) 272-274 Thiên Sách (天冊) 275-276 Thiên Tỷ (天璽) 276 Thiên Ký (天紀) 277-280", "Húy: Tôn Hạo Tên tự: Hạo Tông (皓宗)", "Mạt Hoàng Đế (末皇帝)" ],
-  "overview" : "Tôn Hạo (chữ Hán: 孫皓; bính âm: Sun Hao, 242-284), hay Ngô Mạt đế (吳末帝), là hoàng đế cuối cùng của nhà Đông Ngô thời Tam Quốc trong lịch sử Trung Quốc. Ông là con trai của thái tử Tôn Hòa, cháu đích tôn của Đại Đế Tôn Quyền. Sau khi người chú của ông là Cảnh Đế Tôn Hưu qua đời và thái tử Tôn Quân còn nhỏ tuổi, các đại thần nước Ngô quyết định đưa Tôn Hạo lên ngôi hoàng đế. Trong thời gian trị vì, ông hoang dâm vô đạo, xa xỉ cùng cực, giết hại trung lương, tin dùng hoạn quan, việc chính sự thì ít để tâm tới, vì thế quốc lực Giang Đông suy yếu. Nhân cơ hội đó, năm 280, Tấn Vũ Đế phát động chiến tranh, tiêu diệt được Đông Ngô, Tôn Hạo hàng Tấn rồi bị bắt giải về Lạc Dương, kết thúc thế chân vạc Tam Quốc. Ông qua đời vào năm 284 dưới thời Tấn Vũ Đế."
+  "entityName" : "Nguyễn Đức Nhuận",
+  "aliases" : [ "Bút Trà" ],
+  "overview" : "Thuở nhỏ học ở Quảng Ngãi, Bình Định, tốt nghiệp Trung học cùng em (Nguyễn Đức Huy) vào Sài Gòn làm báo trước năm 1930. Ở Sài Gòn, ông từng làm thợ đập đá, vì thiếu nộp thuế thân bị bắt giam tù, rồi bị tình nghi làm \"quốc sự\" (chính trị). Những năm 20 từng cộng tác với các báo: Đông Pháp thời báo (1928), Công luận (1925)... ở Sài Gòn. Từ năm 1929 chủ trương các nhật báo Sài Thành (1929-1931), Sài Gòn (1931-1945). Sau Cách mạng tháng Tám năm 1945 chủ trương các báo: Kiến thiết, Ban ngày, Điện báo rồi làm chủ báo Sài Gòn mới từ năm 1947-1963. Sài Gòn mới là một tờ báo có số lượng in cao nhất so với các nhật báo khác trước đây ở Sài Gòn. Các tác phẩm chính: - Tiếng bom Sa Diện (thơ, 1961) - Tâm sự ngàn thu (thơ, 1962) - Hương tình (thơ, 1962) Sau năm 1975 ông vẫn sống tại Sài Gòn và mất ngày 22-3-1982 (tức 29-3 Nhâm tuất) tại số 39 đường Phạm Ngũ Lão Q.I, Sài Gòn (TP.HCM), thọ 82 tuổi. (Xin đừng lầm với tiểu thuyết gia Phú Đức Nguyễn Đức Nhuận (1901-1970) và ông Nguyễn Đức Nhuận (1900-1968) chủ báo Phụ nữ tân văn trước năm 1945). Phần lớn thơ ông sáng tác đều là thơ Đường tuy rằng ông hấp thụ một nền giáo dục Tây học. Bài Khóc Nguyễn An Ninh của ông nói lên được tấc lòng ông đối với các nhà yêu nước, anh hùng dân tộc."
 }

@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "20 tháng 11 năm 1915 Hồ Nam, Trung Quốc",
-  "dateOfDeath" : "15 tháng 4, 1989 (73 tuổi) Bắc Kinh, Trung Quốc",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê ở huyện Phi Lộc, Châu Hoan tức tỉnh Nghệ An (nay là huyện Can Lộc, thuộc tỉnh Hà Tĩnh)",
+  "occupation" : "Nhà sử học đời Trần, không rõ năm sinh, năm mất",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Nhà Trần" : 15
+  },
   "id" : 1051,
-  "entityName" : "Hồ Diệu Bang",
+  "entityName" : "Sử Hy Nhan",
   "aliases" : [ ],
-  "overview" : "Hồ Diệu Bang (tiếng Trung Quốc: 胡耀邦 Bính âm: Hú Yàobāng, Wade-Giles: Hu Yao-pang; 20 tháng 11 năm 1915 – 15 tháng 4 năm 1989) là một nhà lãnh đạo của Cộng hòa Nhân dân Trung Hoa. Là một nhà cải cách nổi bật, cái chết của ông năm 1989 đã kéo theo một loạt các sự kiện cuối cùng dẫn tới các cuộc phản kháng trên Quảng trường Thiên An Môn năm 1989."
+  "overview" : "Ông đỗ Trạng nguyên đời Trần Duệ tông, làm đến Hành khiển tri kinh diên tức quan chức trông nom việc giảng sách kinh sử cho vua. Trong Quần hiền phú tập còn ghi lại một bài phú Trảm xà kiếm (Gươm chém rắn) của ông, từ nội dung đến hình thức đều đặc sắc."
 }

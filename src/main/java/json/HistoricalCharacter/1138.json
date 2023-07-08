@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "1869\n----------------------------------------------\nKỉ Tị 1869",
-  "dateOfDeath" : "1941\n----------------------------------------------\nTân Tị 1941",
-  "hometown" : "quán làng Thượng Trì (tục gọi là làng Đìa), tổng Thượng Mão, phủ Thuận Thành, tỉnh Bắc Ninh, đỗ tú tài, đương thời bổ làm Huấn đạo tỉnh Lạng Sơn nên thường gọi là Huấn Quyền",
-  "occupation" : "Chí sĩ cận đại",
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Ất Mùi 1955",
+  "hometown" : "quê ở huyện Đức Phổ, tỉnh Quảng Ngãi",
+  "occupation" : "Nhà cách mạng",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 1138,
-  "entityName" : "Nguyễn Quyền",
-  "aliases" : [ "Đông Đường" ],
-  "overview" : "Nguyễn Quyền (1869–1941) là một chí sĩ yêu nước Việt Nam thời cận đại. Ông là một trong những sáng lập viên của phong trào Đông Kinh nghĩa thục.\n----------------------------------------------\nNăm 1907, ông từ chức, cùng với Lương Văn Can lập trường Đông kinh nghĩa thục ở Hà Nội. Năm 1908 bị thực dân bắt giam ở Hỏa Lò (Hà Nội), bị kết án khổ sai chung thân và lưu đày Côn Đảo. Năm 1910 được trả tự do, nhưng bị an trí tại Bến Tre cùng với một số chí sĩ khác như Dương Bá Trạc ở Long Xuyên, Võ Hoành ở Sa Đéc... Năm 1920 ông đến Rạch Giá, Sa Đéc rồi về sống tại Bến Tre với gia đình. Lúc sinh tiền (khi ở Bến Tre) Huỳnh Thúc Kháng có tặng ông bài thơ: \"Sơn Nam, sơn Bắc lưỡng trùng sơn. Tản đảo vân phi thủy khứ hoàn. Kim mã tê thanh hồng nhựt ánh, Kê minh án kiếm quá trùng quan.\" Bản dịch: Núi Nam núi Bắc núi hai trùng. Tản đảo mây bay nước chảy vòng. Tuốt kiếm quá quan gà gáy giục, Thét vang ngựa sắt ánh dương hồng. Ông mất năm 1941 tại Bến Tre, hưởng thọ 72 tuổi."
+  "entityName" : "Võ Tùng",
+  "aliases" : [ "Lưu Khai Hồng" ],
+  "overview" : "Năm 1926 ông gia nhập Việt Nam Thanh niên Cách mạng đồng chí hội, năm 1930 vào đảng Cộng sản Đông Dương, qua hoạt động ở Trung Quốc tốt nghiệp trường võ bị Hoàng Phố. Sau về công tác trong phong trào Việt kiều yêu nước ở Xiêm (Thái Lan) rồi dự Đại hội Tổng bộ họp ở Hương Cảng. Năm 1932 ông bị bắt đưa về giam trong nước. Sau Cách mạng tháng Tám ông công tác ở trung ương Đảng, hoạt động ở Thái Lan. Ông mất năm 1955, vợ ông là Đặng Thị Quỳnh Anh cũng là liệt nữ cách mạng. Bài thơ CÂY NÊU ĐẠI THỌ của ông còn truyền tụng: Cây nêu đại thọ, Trải lắm phong sương. Người đấng hiền lương, Được bao kính mộ. Vẻ vang nước Tổ, Tạo phúc giống nòi. Biểu suất hậu lai, Tùy danh thiên cổ."
 }

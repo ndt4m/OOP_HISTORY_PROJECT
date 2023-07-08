@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "2 tháng 2 năm 1908\n----------------------------------------------\nMậu Thân 1908",
-  "dateOfDeath" : "31 tháng 7 năm 1932\n----------------------------------------------\nNhâm Thân 1932",
-  "hometown" : "quê xã Thụy Hà, huyện Thụy Anh, tỉnh Thái Bình",
-  "occupation" : "Liệt sĩ hiện đại",
+  "dateOfBirth" : "Bính Dần 1866",
+  "dateOfDeath" : "Kỉ Sửu 1949",
+  "hometown" : "quê làngThư Trai, huyện Thạch Thất, tỉnh Sơn Tây (nay thuộc tỉnh Hà Tây)",
+  "occupation" : "Nhà văn ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 801,
-  "entityName" : "Nguyễn Đức Cảnh",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Đức Cảnh (2 tháng 2 năm 1908 – 31 tháng 7 năm 1932) là một nhà hoạt động cách mạng Việt Nam. Ông là Bí thư đầu tiên của Thành ủy Hải Phòng và là Tổng biên tập đầu tiên của báo Lao động.\n----------------------------------------------\nThuở nhỏ ông học ở Nam Định, từng tham gia các hoạt động chống Pháp tại địa phương. Năm 1925, 1926 ông tham gia tổ chức truy điệu nhà yêu nước Phan Chu Trinh, đòi ân xá Phan Bội Châu, bi Pháp đuổi khỏi trường học. Từ đó ông lên Hà Nội sinh sống và hoạt động. Tháng 9-1927 ông được Việt Nam Quốc dân đảng cử đi Trung Quốc gặp Tổng bộ Việt Nam Thanh niên Cách mạng đồng chí hội để thống nhất hành động chống Pháp. Ở đây ông gặp Nguyễn Ái Quốc và đã chuyển hướng hoạt động bắt đầu từ đó. Năm 1928 ông được cử vào Kì bộ Bắc Kì của Việt Nam Thanh niên Cách mạng đồng chí hội. Năm 1929, ông là người đứng ra thành lập Tổng công hội Bắc Kì. Ngày 3-2-1930, ông tham gia thành lập Đảng Cộng sản Đông Dương với tư cách là đại biểu Đông Dương Cộng sản đảng. Cuối năm 1930 ông được Trung ương Đảng cử đi công tác ở Trung Kì, rồi được bầu vào ban Thường vụ Xứ ủy Trung Kì, phụ trách tuyên huấn. Cuối năm 1931 ông bị bắt ở Vinh. Ngày 31-7-1932, thực dân Pháp đã xử chém ông tại Hải Phòng, hưởng dương 24 tuổi."
+  "entityName" : "Nguyễn Đỗ Mục",
+  "aliases" : [ "Trọng Hữu" ],
+  "overview" : "Ông sinh trưởng trong một gia đình Nho học truyền thống, con Hoàng giáp Nguyễn Đình Dương. Xuất thân là ấm sinh (thân phụ từng làm án sát Hưng Yên, Bố chánh Quảng Bình, Biện lí bộ Lại) đậu tú tài khoa Kỉ dậu (1909) từng đi thi Hội nhưng không đỗ. Sau năm 1908, ông cộng tác với Nguyễn Văn Vĩnh biên tập và trợ bút các báo Đông Dương tạp chí, Trung Bắc tân văn chuyên viết về các vấn đề giáo dục và dịch một số tiểu thuyết cổ điển Trung Quốc. Ông là một trong vài người vào thời kì đầu khi chữ Quốc ngữ mới có tư thế trên diễn đàn văn học đã góp công giới thiệu được những tác phẩm văn học Trung Quốc rộng rãi đến công chúng. Về phương diện biên khảo, ngòi bút ông có nhiều đặc sắc; nhất là quyển Chinh phụ ngâm khúc diễn giải đã gây nên tiếng vang trong sinh hoạt văn học. Sau ngày Pháp tái chiếm Việt Nam, ông tham gia vào các tổ chức văn hóa cứu quốc ở chiến khu Việt Bắc. Theo một số tài liệu ông mất vào khoảng năm 1949 tại Thái Nguyên. Ông là thân phụ họa sĩ Nguyễn Đỗ Cung, một bực thầy của các thế hệ họa sĩ Việt Nam. Các tác phẩm chính của ông: - Gõ đầu trẻ, Đông Dương tạp chí 1913-1914. - Tái sanh duyên, Hà Nội 1923 (dịch) - Thuyền tình bể ái, Hà Nội 1926 - Hồng nhan đa truân, 1928 (dịch) - Bình Sơn Lãnh Yên, Hà Nội 1927 - Khổng Tử gia ngữ (biên khảo)"
 }

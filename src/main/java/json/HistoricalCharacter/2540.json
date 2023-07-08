@@ -1,17 +1,19 @@
 {
-  "dateOfBirth" : "Nhâm Tí 1912",
-  "dateOfDeath" : "Ất Hợi 1995",
-  "hometown" : "tại Hà Nội",
-  "occupation" : "Luật sư",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "dateOfBirth" : "Bính Tí 1336\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "Kỉ Dậu 1369\n----------------------------------------------\nKhông rõ",
+  "hometown" : "quê ở làng Tức Mặc\n----------------------------------------------\nKhông rõ",
+  "occupation" : "Vua nhà Trần\n----------------------------------------------\nVua",
+  "workTenure" : "1341—1369",
+  "fatherName" : {
+    "Trần Minh Tông" : 2061,
+    "Trần Minh tông" : null
+  },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Nhà Trần" : 15
   },
   "id" : 2540,
-  "entityName" : "Tạ Như Khuê",
-  "aliases" : [ ],
-  "overview" : "Thuở nhỏ học tại Hà Nội, tốt nghiệp cử nhân luật tại trường Đại học luật khoa Đông Dương rồi tập sự luật sư ở Hà Nội. Trước thế chiến ông hành nghề luật sư tại Hà Nội, từ các năm 1938-1940 hành nghề luật sư tại anh Bạc Liêu ở Nam Bộ. Cách mạng tháng 8 năm 1945 ông ra chiến khu tham gia kháng chiến chống Pháp suốt 9 năm (1946-1954) ở Tây Nam Bộ và chiến trường khu 9. Tại đây, ông phụ trách phòng Quân pháp Quân khu VI. Sau hiệp định Genève (1954) ông tập kết ra miền Bắc, phụ trách trường cán bộ tòa án tại Bộ Tư pháp. Những năm 60 làm chuyên viên trong Ban Pháp chế Trung ương ĐCSVN tại Hà Nội. Sau ngày thống nhất đất nước (1975) ông trở lại sống ở Sài Gòn làm Phó trưởng. đoàn luật sư Thành phố Hồ Chí Minh. Ông được Nhà nước Việt Nam tặng một số huân chương cao quí. Ông mất năm 1995 tại Thành phố Hồ Chí Minh, thọ 83 tuổi."
+  "entityName" : "Trần Dụ Tông",
+  "aliases" : [ "Trần Dụ Tông" ],
+  "overview" : "Trần Hạo có thể là một trong những nhân vật sau:\n----------------------------------------------\n- Thiệu Phong 1341-1357. - Đại Trị 1358-1369. Trong những năm ông trị nước, mất mùa xảy ra liên tiếp, chính trị đổ nát nhân dân nhiều nơi nổi lên chống lại triều đình. Nhà Trần bắt đầu suy sụp từ đó. Năm Kỉ dậu 1369 ông mất, hưởng dương 33 tuổi. Ông có soạn bộ Trần triều đại điển Bài Thư hoài của ông tỏ chí: \"Đường Việt khai cơ lương Thái tông. Bi xưng Trinh Quán, ngã Nguyên Phong. Kiến Thành tu tử, An Sinh tại. Miếu hiệu tuy đồng, đức bất đồng.\" Bản dịch: Đường, Việt hai vua hiệu Thái tông, Đường xưng Trinh Quán, Việt: Nguyên Phong. Kiến Thành bị giết, An Sinh sống. Miếu hiệu tuy đồng, đức chẳng đồng. Bộ Trần triều đại điển (10 quyển) do ông soạn, rồi sai Trương Hán Siêu Nguyễn Trung Ngạn hiệu chỉnh, biên tập. Tên Trần triều đại điển hay còn gọi là Hoàng triều đại điển có ghi trong sách Kiến văn tiểu lục của Lê Quí Đôn, sách này được biên soạn cùng thời điểm với sách Hình luật thư (cùng 2 tác giả trên). Nội dung sách là những điển mô, văn thơ, sắc dụ... của các vua nhà Trần.\n----------------------------------------------\nTrần Dụ Tông (chữ Hán: 陳裕宗) 22 tháng 11 năm 1336 – 25 tháng 5 năm 1369) là vị hoàng đế thứ 7 của triều đại nhà Trần nước Đại Việt, ở ngôi 28 năm từ năm 1341 đến năm 1369."
 }

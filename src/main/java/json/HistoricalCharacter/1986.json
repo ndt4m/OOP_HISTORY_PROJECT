@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Nhâm Dần 1472",
+  "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
-  "hometown" : "quê làng Hội Trào, huyện Hoằng Hóa, tỉnh Thanh Hóa",
-  "occupation" : "Danh sĩ đời Lê Hiến tông",
+  "hometown" : "quê ở Châu Hoan (Nghệ An ngày nay)",
+  "occupation" : "Thiền sư thời Bắc thuộc lần thứ III, không rõ họ tên, năm sinh năm mất",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Triều Lê Sơ" : 7
+    "Bắc thuộc lần lần 3" : 1
   },
   "id" : 1986,
-  "entityName" : "Lương Đắc Bằng",
-  "aliases" : [ ],
-  "overview" : "Năm Kỉ mùi 1499 ông đỗ Bảng nhãn, 27 tuổi. Khi ứng chế được thưởng bậc nhất và bổ làm Tả thị lang bộ Lễ, sung Thị độc Viện Hàn lâm, coi việc ở viện rồi đổi sang Tả thị lang bộ Lại. Ít lâu về cư tang. Sau nhà vua triệu ông cho phục chức và kiêm Học sĩ Đông các coi sóc tòa Kinh Diên, nhưng ông cố từ không ra làm quan nữa và nhân dịp dâng bài sách Trị Bình gồm 14 chước về cách trị nước. Vua Lê ban khen, vẫn quyết định triệu ông ra nhậm chức, ông đành phải vâng làm đến Thượng thư bộ Lại, tham dự triệu chính, tước Đôn Trung Bá. Ông mất lúc trên 50 tuổi, sĩ phu đều thương tiếc. Ông là thầy học của Nguyễn Bỉnh Khiêm và chính ông trao truyền cho Nguyễn Bỉnh Khiêm bộ Thái Ất thần kinh. Con ông là Lương Hữu Khánh và học trò là Nguyễn Bỉnh Khiêm về sau đều là bậc nhân tài của đất nước."
+  "entityName" : "Vân Kỳ",
+  "aliases" : [ "Vân Kỳ" ],
+  "overview" : "Ông xuất gia đầu Phật từ hồi còn nhỏ tuổi, khi vào ở chùa chuyên tu học, nghiên cứu chữ Phạn (Pali), từng sang Ấn Độ - có chân trong đoàn pháp sư sang Ấn Độ thời ấy - khoảng đời Đường Cao tông (648-681). Ông là bạn thân với Đàm Nhuận sang Ấn Độ, nhưng vừa đến Java thì Đàm lâm bệnh mất lúc mới 30 tuổi. Ông cùng đoàn tùy tùng sang Ấn học Phật điển một thời gian, rồi trở về quê nhà, lâm bệnh mất hưởng dương ngoài 30 tuổi."
 }

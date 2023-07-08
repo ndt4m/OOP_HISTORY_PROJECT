@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "8 tháng 11 năm 1927 Trà Vinh, Việt Nam",
-  "dateOfDeath" : "11 tháng 1, 2013 (86 tuổi) San José, California Hoa Kỳ",
-  "hometown" : "Không rõ",
-  "occupation" : "Thuộc",
-  "workTenure" : "1946-1965",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Đường An, tỉnh Hải Dương",
+  "occupation" : "Nhân sĩ đời Gia Long",
+  "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
+  },
   "id" : 202,
-  "entityName" : "Nguyễn Khánh",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Khánh (1927-2013) nguyên là một cựu tướng lĩnh gốc Nhảy dù của Quân lực Việt Nam Cộng hòa, cấp bậc Đại tướng. Ông xuất thân từ khóa đầu tiên ở trường Võ bị Liên quân Viễn Đông do Quân đội Thuộc địa Pháp mở ra tại Cao nguyên Trung phần Việt Nam. Ra trường, ông được phục vụ ở một đơn vị Vệ binh. Sau ông được chuyển sang Binh chủng Nhảy dù. Ông đã tuần tự đảm trách từ chức vụ chỉ huy cấp Trung đội, dần lên đến chỉ huy cấp Sư đoàn, rồi Quân đoàn. Ông cũng là một chính khách, từng giữ chức vụ Quốc trưởng và Thủ tướng của Việt Nam Cộng hòa và kiêm các chức Tổng tư lệnh và Tổng Tham mưu trưởng Quân lực Việt Nam Cộng hòa trong giai đoạn 1964-1965."
+  "entityName" : "Phạm Hội",
+  "aliases" : [ "Dưỡng Am" ],
+  "overview" : "Ông đỗ cử nhân, có tiếng thơ văn, có khí tiết được sĩ phu trọng vọng. Ông vốn là học trò danh sĩ Phạm Quý Thích. Làm giáo thụ phủ Ánh Sơn ít lâu, ông xin nghỉ, về quê sống cuộc đời ẩn dật. Ông mồ côi cha sớm, thờ mẹ rất hiếu, nhà thanh bạch, ông ngồi dạy học, gần xa yêu chuộng. Ông có câu đối hán ở bàn viết: \"Thị thành khỉ bất hoài nông nghiệp, Văn tự hà năng hệ sĩ phong\". Em trai ông hiệu Khiêm Trai cũng có tính hiền hiếu. Phạm Quỳnh - chủ bút tạp chí Nam Phong - là huyền tôn của ông Phạm Xuân Khôi có thơ vịnh về lòng hiếu của ông: Này ông Phạm Hội Hải Dương ta, Theo mẹ cùng lên học tỉnh Hà. Hai chị nuôi em nên quá lứa, Môt mình kính mẹ cũng như cha. Nước Hồ Tây sạch thường đi lấy, Tình nẹ già nay chẳng ngại xa Me khuất, hiển vinh về dưỡng chị Khen thay! hiếu hạnh vẹn hòa ba."
 }

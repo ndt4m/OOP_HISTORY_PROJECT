@@ -1,17 +1,16 @@
 {
-  "dateOfBirth" : "Đinh Tị 1857",
-  "dateOfDeath" : "Đinh Dậu 1897",
-  "hometown" : "quê làng An Chỉ, huyện Chương Nghĩa (Nghĩa Hành) tỉnh Quảng Ngãi",
-  "occupation" : "Văn thần cuối đời ",
+  "dateOfBirth" : "Nhâm Ngọ 1072",
+  "dateOfDeath" : "Bính Thìn 1136",
+  "hometown" : "quê làng Như Nguyệt, huyện Tế Giang (sau là huyện Văn Giang), tỉnh Bắc Ninh",
+  "occupation" : "Thiền sư đời Lý Nhân tông, không rõ tên thật",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nhà Nguyễn độc lập" : 30
+    "Nhà Lý" : 14
   },
   "id" : 631,
-  "entityName" : "Lê Trọng Khanh",
-  "aliases" : [ ],
-  "overview" : "Ông đỗ cử nhân năm 1868 tại trường thi Bình Định, làm đến án sát thời vua Tự Đức, Đồng Khánh, Hàm Nghi. Giặc Pháp xâm lược, triều chính tàn tệ ông cáo bệnh, từ quan, lui về ngụ ở Mĩ Khê (Thu Xà). Được ít lâu, Tiễu phủ sứ Nguyễn Thân vời ông làm Tham biện Sơn phòng để lo dẹp phong trào Văn thân do Phan Đình Phùng, Nguyễn Quang Bích lãnh đạo. Thừa biết tâm địa Nguyễn Thân, nhưng ngại sự sát hại của hắn, ông xin để nghỉ ít lâu rồi sẽ liệu. Nguyễn Thân một mực rúng ép. Không muốn khuất thân với kẻ hung bạo, và để giữ tròn khí tiết ông thắt cổ chết, hưởng dương 40 tuổi."
+  "entityName" : "Hoàng Viên Học",
+  "aliases" : [ "Viên Học" ],
+  "overview" : "Ông học rộng, mộ đạo Phật, xuất gia, thọ giới với sư Chân Không (Vương Hải Thiềm). Rồi trụ trì ở chùa Đại An, trong huyện Tế Giang, theo dòng thiền Nam Phương. Ông đạo hạnh cao, xa gần tín đồ theo học rất đông. Ông khuyến khích nhân dân làm điều thiện, mưu phúc lợi chung. Ông chăm nom việc đắp đường, bắc cầu và chính ông đứng ra sửa chùa Quốc Thanh ở làng Phù Cam và đúc chuông lớn. Ngày 14-6 Bính thìn (14-7-1136) ông mất, thọ 64 tuổi. Còn lưu truyền một bài kệ Văn chung (Nghe tiếng chuông): \"Lục thức thường hôn chung dạ khổ, Vô minh bị phú cửu mê dung. Trú dạ văn chung khai giác ngộ, Lãn thần tịnh sát đắc thần thông\". Bản dịch: Sáu căn ám ảnh khổ đêm dài, Tăm tối sinh ra biếng nhác hoài. Hôm sớm nghe chuông hồn tỉnh thức, Vần thông được gặp, hết thần lười."
 }

@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "? tháng ? năm 919 không rõ",
-  "dateOfDeath" : "? tháng ? năm 967 (48 tuổi) Thanh Trì",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Tướng Quân",
+  "occupation" : "Thủ lĩnh dân tộc miền núi",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "nhà Đinh" : null
+    "Nhà Trần" : 15
   },
   "id" : 2411,
-  "entityName" : "Nguyễn Bồ",
+  "entityName" : "Hà Đặc",
   "aliases" : [ ],
-  "overview" : "Nguyễn Bồ (919 - 967) là một vị tướng và khai quốc công thần của triều nhà Đinh. Ông có nhiều công lao giúp Đinh Tiên Hoàng đánh dẹp loạn 12 sứ quân thế kỷ 10 trong lịch sử Việt Nam."
+  "overview" : "Năm Kỉ mão 1279, giặc Nguyên sang xâm lược, vượt sông Thiên Mạc, tiến binh đến huyện Phù Ninh. Ông đem dân binh lên núi Trĩ cố thủ, quân Nguyên đóng đồn ở động Cự Đà ông làm kế nghi binh để cầm chân giặc rồi bện tre làm bù nhìn cho mặc áo quần giống như người thật, hằng đêm dàn đám bù nhìn ấy ra. Giặc Minh nghi không dám giao chiến. Chẳng bao lâu quân tiếp viện kéo đến, ông hiệp sức đánh phá, giặc tan vỡ. Ông đuổi theo đến vùng A Lạc, rồi bắc cầu nổi sang sông, đánh đuổi cho kì quân địch tan vỡ mới thôi. Em ông là Hà Chương cũng nổi danh anh hùng liệt sĩ kháng Nguyên."
 }

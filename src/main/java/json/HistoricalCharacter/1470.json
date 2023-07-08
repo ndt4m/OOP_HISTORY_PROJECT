@@ -1,18 +1,17 @@
 {
-  "dateOfBirth" : "Mậu Ngọ 1498",
-  "dateOfDeath" : "Ất Tị 1545",
-  "hometown" : "quê làng Định Công, huyện Thanh Trì",
-  "occupation" : "Danh thần nhà Mạc, con thứ hai Quảng Quốc Công Bùi Xương Trạch",
+  "dateOfBirth" : "1476\n----------------------------------------------\nBính Thân 1476",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê xã Vạn Phúc, huyện Thanh Đàm, tỉnh Hà Đông (nay thuộc tỉnh Hà Tây)",
+  "occupation" : "Thượng thư bộ Lại\n----------------------------------------------\nVăn thần đời Lê Hiến tông",
   "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Quảng Quốc Công Bùi Xương Trạch" : null
-  },
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nam - Bắc Triều" : 19
+    "Lê sơ, Mạc" : null,
+    "Triều Lê Sơ" : 7
   },
   "id" : 1470,
-  "entityName" : "Bùi Vịnh",
-  "aliases" : [ ],
-  "overview" : "Năm Mậu thìn 1532 đời Mạc Đăng Doanh, ông 34 tuổi ra thi đỗ Phó bảng, thi ứng chế cũng đỗ đầu. Làm quan đến Tả thị lang bộ Hộ, kiêm Tả thuyết thư ở Tả xuân phường, rồi bổ Đông các đại học sĩ, tước Mai Lĩnh hầu, sau thăng tước Mai Quận công. Năm Ất tị 1545, ông mất, thụy là Trung Hiến. Con ông là Bùi Bỉnh Uyên cũng là bậc nhân tài. Thơ phú để lại, có hai bài phú Đế đô hình thắng và Cung trung bảo huấn còn truyền. Bài Đế đô hình thắng do vua Mạc sai làm. Bài Cung trung bảo huấn là lời dạy hai người cháu gái - con của anh ông là Diễn Quận công Bùi Trụ vào hầu trong cung vua Mạc."
+  "entityName" : "Lê Sạn",
+  "aliases" : [ "Trung Huân bá", "Lê Tài Lê Nga", "Lê Tài" ],
+  "overview" : "Lê Sạn hay Lê Tài, Lê Nga (1476 - ?) là thượng thư bộ Lại thời Lê sơ, đậu bảng nhãn năm 1502. Khi Mạc Đăng Dung lên ngôi thì ông đi ở ẩn, về sau được đánh giá là có tiết nghĩa.\n----------------------------------------------\nNăm Nhâm tuất 1502, ông đỗ Bảng nhãn mới 26 tuổi, tính khảng khái, có tiết tháo được sĩ phu đương thời trọng vọng. Năm Bính tí 1516, Trần Cao chiếm kinh thành, xưng vua. Lúc bấy giờ Lê Chiêu tông từ Tây Đô điều động các tướng ra đánh, rồi lấy lại được kinh đô, dẹp yên loạn Trần Cao. Năm Đinh sửu 1517, ông được đề bạt làm Thượng thư bộ Hộ, rồi thăng Thượng thư bộ Hộ, rồi thăng Thượng thư bộ Lại, gia phong tước Trung Huân Bá. Năm Đinh hợi 1527, Mạc Đăng Dung tiếm quyền vua Lê, ông không phục lánh mình ở ẩn, đương thời nhân dân xưng tụng ông là bậc tiết nghĩa."
 }

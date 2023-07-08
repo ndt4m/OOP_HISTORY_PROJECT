@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "1828\n----------------------------------------------\nMậu Tí 1828",
-  "dateOfDeath" : "1910\n----------------------------------------------\nKhông rõ",
-  "hometown" : "quê xã Hành Thiện, phủ Xuân Trường, tỉnh Nam Định",
-  "occupation" : "Danh thần đời ",
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "1787\n----------------------------------------------\nĐinh Mùi 1787",
+  "hometown" : "xã Phúc Thọ, huyện Nghi Lộc, Nghệ An, Việt Nam.\n----------------------------------------------\nquê làng Cổ Đan, xã Đông Hải, huyện Chân Phúc, trấn Nghệ An (nay thuộc tỉnh Nghệ An), con nhà phú thương Nguyễn Mẫn",
+  "occupation" : "Danh tướng cuối đời Hậu Lê",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+    "Trịnh - Nguyễn" : 34,
+    "Nhà Tây Sơn" : 21
   },
   "id" : 2154,
-  "entityName" : "Đặng Xuân Bảng",
-  "aliases" : [ "Thiện Đình", "Hy Long", "Đức", "Hi Long" ],
-  "overview" : "Đặng Xuân Bảng (鄧春榜, 1828-1910) tự là Hy Long, hiệu là Thiện Đình, là quan nhà Nguyễn và đồng thời cũng là một nhà sử học Việt Nam.\n----------------------------------------------\nÔng đỗ tú kép (hai khoa Bính ngọ 1846 và Mậu thân 1848) rồi Canh tuất 1850 đỗ cử nhân. Bính thìn 1856 đỗ tiến sĩ lúc 28 tuổi. Ông ra làm quan, khi giữ chức Tuần phủ Hải Dương vì lầm lỗi nên bị cách, sau khởi phục làm Quang Lộc tự Thiếu Khanh, lãnh chức Đốc học tỉnh Nam Định. Ông học rộng, thích nghiên cứu thiên văn, y học, nhất là dược thảo. Đến đời Thành Thái tuổi già ông chuyên tâm soạn sách, còn đề lại các tác phẩm: - Nam phương danh vật bị khảo - Độc sử bị khảo - Thiệm đình Việt sử - Việt sử cương mục tiết yếu - Thiên đình thi - Thiên đình văn - Khâm định tập vận trích yếu - Huấn tử quốc ân ca - Cổ kim thiện ác kính - Thánh tổ hành thực diễn ca - Bắc sử thông giám tập lãm tiện độc sử - Sử học bị khảo - Nam sử tiện lãm - Như Tuyên thi tập - Cổ nhân ngôn hành lục - Huấn tục ca... Việt sử cương mục tiết yếu, một bộ sử Việt Nam tóm tắt các việc quan trọng từ thời Hùng Vương đến Lê mạt. Theo nghĩa tên sách, thì Việt sử cương mục tiết yếu chỉ là một bộ sách trích biên những sự kiện quan trọng trong sách Khâm định Việt sử thông giám cương mục của triều Tự Đức (1848-1883). Thực ra, tác giả chỉ dựa vào cái khung lớn của Cương mục, lối biên niên kỉ sự, theo trình tự thời gian mà viết gọn gàng sách của mình. Đối với một số sự việc quan trọng, về thời gian và không gian tác giả chú dẫn, phê phán kĩ và cụ thể, đúng phương pháp viết sử thời cận đại. Kết cấu sách như sau: - QI: 65 tờ, từ Hùng Vương đến năm Nhâm tí đời Lý Nhân tông (1072). - QIV: 77 tờ, từ Lê Nhân tông (1443) năm Quí hợi đến hết đời Lê Trang tông, năm Mậu thân (1548) (Mạc Phúc Nguyên, Cảnh Lịch năm đầu). - QV: 67 tờ, từ Lê Trung tông, Thuận Bình, năm Kỉ dậu (1549) đến Huyền Tông, Cảnh Trị, năm Tân hợi (1671). - QVI: 70 tờ, từ Lê Gia tông, Dương Đức năm Nhâm tí (1672) đến Hiển tông, Cảnh Hưng thứ 9, năm Mậu thìn (1748). Còn các quyền II, III, VII, VIII, bị thất lạc."
+  "entityName" : "Nguyễn Hữu Chỉnh",
+  "aliases" : [ "Quận Bằng" ],
+  "overview" : "Nguyễn Hữu Chỉnh (chữ Hán: 阮有整, ? - 1787), biệt hiệu Quận Bằng (鵬郡), là tướng thời Lê trung hưng và Tây Sơn trong thế kỷ 18. Ông là người huyện Chân Phúc, phủ Đức Quang, Trấn Nghệ An nay là xã Phúc Thọ, huyện Nghi Lộc, Nghệ An, Việt Nam.\n----------------------------------------------\nNăm 16 tuổi đỗ Hương cống, 18 tuổi thi đỗ Tam trường, ông có cơ trí và có tài biện bác, giỏi văn thơ. Trước theo Hoàng Ngũ Phúc đánh chúa Nguyễn ở Thuận Hóa. Khi Hoàng Ngũ Phúc mất, ông dựa vào Hoàng Đình Bảo, lúc kiêu binh nổi lên giết Hoàng Đình Bảo, ông chạy vào Nghệ An, rồi theo Tây Sơn đánh chúa Trịnh. Nhưng Tây Sơn không tin ông, chẳng bao lâu ông lại dựa vào vua Lê, đánh dẹp nhóm Trịnh Bồng, được phong làm Đại Tư Đồ, giữ việc quân quốc trọng yếu, tước Bằng Trung Công, rồi thăng Bằng Quận Công. Có thế lực, ông xui vua Lê đòi Tây Sơn trả đất Nghệ An, và xúi giục Nguyễn Văn Duệ chống lại Tây Sơn. Khoảng cuối năm Đinh mùi 1787, Nguyễn Huệ sai Vũ Văn Nhậm đánh bắt ông, rồi giết đi bằng cực hình bốn ngựa phân thây. Các tác phẩm của ông đều viết bằng cha Nôm, gồm có: - Ngôn âm thi tập - Văn tế chị (người chị có chồng là danh sĩ Phạm Nguyễn Du tức Phạm Khiêm Ích) - Phú Trương Lưu Hầu - Phú Quách Tử Nghi"
 }

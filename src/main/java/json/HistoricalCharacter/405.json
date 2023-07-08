@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê làng Hà Ninh, huyện Nghi Lộc, tỉnh Nghệ An",
-  "occupation" : "Danh sĩ đời Nguyễn, không rõ năm sinh, năm mất",
+  "dateOfBirth" : "Canh Thìn 1460",
+  "dateOfDeath" : "Mậu Tí 1528",
+  "hometown" : "quê làng Thượng Đáp, huyện Thanh Lâm, tỉnh Hải Dương",
+  "occupation" : "Văn thần đời Lê Thánh tông",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+    "nhà Lê" : null,
+    "Triều Lê Sơ" : 7
   },
   "id" : 405,
-  "entityName" : "Nguyễn Trinh Hoàng",
-  "aliases" : [ "Thổ Lang cư sĩ" ],
-  "overview" : "Năm Mậu thân 1848 ông đậu cử nhân, nhưng không ra làm quan, về quê ở làng Hà Ninh cày ruộng đọc sách, ông cùng nhân dân địa phương khai khẩn đất hoang, cải cách phong tục ở quê hương, từ đấy quê ông ngày càng phát triển thịnh đạt. Nhiều lần ông được triều đình bổ dụng làm quan nhưng ông một mực từ chối, chuyên lo nghiên cứu văn học và khoa học thực dụng. Các tác phẩm chính của ông: - Tao phúc từ - Sĩ nông canh độc truyện - Khuyến thiện Quốc ngữ ca - Quần thần khúc - Phụ tử khúc - Huynh đệ khúc - Phu phụ khúc đều là những cổ thư quí của thư tịch Việt Nam."
+  "entityName" : "Ngô Hoán",
+  "aliases" : [ ],
+  "overview" : "Ngô Hoán (chữ Hán: 吳煥, 1460-1522 , nhưng có sách chép ông mất năm 1528), là một vị quan của nhà Lê sơ, làm quan trải qua các triều từ Lê Thánh Tông tới Lê Chiêu Tông. Ông cũng là một thành viên của Tao đàn nhị thập bát tú.\n----------------------------------------------\nNăm Canh tuất 1490 ông đỗ bảng nhãn, 30 tuổi, làm Hiệu thư trong tòa Đông các và dự vào số 28 người trong Tao đàn do Thánh tông thành lập. Phục vụ trải 4 triều vua, ông làm đến Thượng thư bộ Lại. Năm Đinh hợi 1527, Mạc Đăng Dung cướp ngôi, ông theo Lê Chiêu tông chống lại binh bại phải chạy đến châu Lang Chánh, vua tôi định sang nước Ai Lao (Lào) để mưu việc khôi phục. Nhưng ông tuổi đã cao, sức yếu, thắt cổ tự tử ở mạn nguợc vào năm Mậu tí 1528, thọ 68 tưổi. Nhà Lê trung hưng, ông được truy tặng Suy trung công thần, gia phong làm Phúc thần."
 }

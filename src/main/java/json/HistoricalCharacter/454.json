@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "398",
-  "dateOfDeath" : "445",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Canh Thìn 1580",
+  "dateOfDeath" : "Quí Dậu 1633",
+  "hometown" : "quê làng Thịnh Liệt, huyện Thanh Trì, cư ngụ làng Định Công, tỉnh Hà Đông (nay thuộc Hà Nội)",
+  "occupation" : "Danh thần đời Lê Kính tông, cháu huyền tôn của Bùi Xương Trạch, tằng tôn của Bùi Cầu",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
   "id" : 454,
-  "entityName" : "Phạm Diệp",
-  "aliases" : [ "Hưng Chiết Giang", "Úy Tông" ],
-  "overview" : "Phạm Diệp (chữ Hán giản thể: 范晔; chữ Hán phồn thể: 范曄; bính âm: Fan Ye) (398 – 445) tự Úy Tông, là nhà chính trị, nhà sử học, nhà văn thời Lưu Tống Nam Triều (Trung Quốc), tác giả bộ chính sử Hậu Hán thư, tổ tiên xuất thân từ Thuận Dương (nay thuộc Tích Xuyên, Hà Nam), sinh tại Sơn Âm (nay thuộc Thiệu Hưng Chiết Giang)."
+  "entityName" : "Bùi Bỉnh Quân",
+  "aliases" : [ ],
+  "overview" : "Năm Hoằng Định 20 (1619), ông 39 tuổi ra thi, đỗ tam giáp đồng tiến sĩ. Làm đến Phủ doãn ở Phụng Thiên. Có chính tích tốt, được nhân dân cảm phục. Sau, ông nhận lệnh đi sứ Trung Quốc, mất ở giữa đường, ngày 20 tháng 3 năm Quí dậu 1633, thọ 53 tuổi, được truy tặng Hữu thị lang."
 }

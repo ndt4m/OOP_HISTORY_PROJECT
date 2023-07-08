@@ -1,16 +1,19 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "người làng Duy Tiên, huyện Lý Nhân, tỉnh Hà Nam",
-  "occupation" : "Danh thần đời Lê Thánh tông",
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Nhâm Tí 1972",
+  "hometown" : "quê làng Vĩ Dạ, Thành phố Huế, tỉnh Thừa Thiên, con trai cựu Thượng thư Nguyễn Phúc Ưng Úy",
+  "occupation" : "Nhà khoa học, giáo sư",
   "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "fatherName" : {
+    "cựu Thượng thư Nguyễn Phúc Ưng Úy" : null
+  },
   "motherName" : { },
   "eraName" : {
-    "Triều Lê Sơ" : 7
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 3032,
-  "entityName" : "Bùi Đạt",
-  "aliases" : [ ],
-  "overview" : "Ông tính cương trực, quyết đoán. Xuất thân hàn vi, ông cần cù chăm học đến thành danh. Khi hiển đạt, nhớ khoảng đời ấu thơ gian khổ, ông đem lòng thương xót những trẻ nghèo khó, thường cứu giúp gia đình nghèo, nâng đỡ kẻ sĩ cùng khổ. Xuất chính làm đến Tham chính, trong chốn hoạn trường ông cũng nêu cao đức độ thanh can. Được nhân dân cảm phục."
+  "entityName" : "Nguyễn Phúc Bửu Hội",
+  "aliases" : [ "Bửu Hội" ],
+  "overview" : "Những năm 60 ông cộng tác với chính quyền Ngô Đình Diệm, từng làm đại sứ lưu động Việt Nam cộng hòa (Sài Gòn) tại một số nước ở châu Phi. Trong năm 1963, ông công khai ủng hộ chính quyền Ngô Đình Diệm bằng cách ra trước diễn đàn Liên hiệp quốc bảo vệ cho họ Ngô - đàn áp các nhóm phản kháng; nhất là cuộc đàn áp Phật giáo nên bị nhân dân Huế, Sài Gòn lên án. Ông mất năm 1972 tại Pháp."
 }

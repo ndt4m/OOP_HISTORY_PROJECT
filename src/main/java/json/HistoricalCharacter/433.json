@@ -1,16 +1,20 @@
 {
-  "dateOfBirth" : "Kỉ Mão 1939",
-  "dateOfDeath" : "Tân Tị 2001",
-  "hometown" : "tại Lạc Giao, TP",
-  "occupation" : "Nhạc sĩ thời danh, hoạ sĩ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
+  "dateOfBirth" : "8 tháng 3, 974 Từ Sơn, Bắc Ninh\n----------------------------------------------\nGiáp Tuất 974\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "31 tháng 3, 1028 (54 tuổi) Long An điện, Thăng Long\n----------------------------------------------\nMậu Thân 1028\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Bắc Giang\n----------------------------------------------\nKhông rõ",
+  "occupation" : "Hoàng đế Đại Cồ Việt\n----------------------------------------------\nVua nhà Lý, người châu Cổ Pháp, lộ Bắc Giang, sinh ngày 12-2 năm Giáp tuất (8-3-974)\n----------------------------------------------\nVua",
+  "workTenure" : "21 tháng 11 năm 1009 – 31 tháng 3 năm 1028 (18 năm, 131 ngày)\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1009—1028",
+  "fatherName" : {
+    "Hiển Khánh vương" : null
+  },
+  "motherName" : {
+    "Minh Đức Thái hậu" : null
+  },
   "eraName" : {
-    "Nước Việt Nam mới" : 29
+    "Nhà Lý" : 14
   },
   "id" : 433,
-  "entityName" : "Trịnh Công Sơn",
-  "aliases" : [ ],
-  "overview" : "Thuở nhỏ học tiểu học, trung học tại Huế... đậu Tú tài rồi vào học trường Sư phạm Bổ túc Qui Nhơn (1962). Năm 1964 tốt nghiệp sư phạm, dạy học tại thị trấn Bảo Lộc (tỉnh Lâm Đồng) một thời gian. Từ khi học trung học ông bắt đầu đến với âm nhạc và có hàng loạt nhạc phẩm ra đời khi ông còn ngồi trên ghế nhà trường phổ thông. Năm 1966 bỏ hẳn nghề dạy học, dấn thân vào đường nghệ thuật (âm nhạc). Từ đó ông sáng tác đều và sáng tác mạnh với hàng trăm ca khúc lãng mạn, phân chiến, cũng như khắc khoải về thân phận con người đang hiện hữu giữa một thế giới đầy tai ương của chiến tranh tương tàn. Từ những năm 1967-1975, ông ngao du (để tìm chất liệu sáng tác) khắp mọi miền nửa nước Việt (Huế, Qui Nhơn, Đà Lạt, Sài Gòn, Cà Mau...). Nơi nào ông bước chân đều có dấu ấn nghệ thuật với hàng trăm ca khúc về mỗi miền đất nước từng thấm đẫm mồ hôi, nước mắt và cả máu đào của người thân và đồng bào ông. Tiếng hát ông từ đây tiếp bước với các ca từ của các nhạc khúc: Dân ta phải sống, Dựng lại người dựng lại nhà, Hãy đi cùng nhau, Ta đã thấy gì trong đêm nay, hoặc Sao mắt mẹ chưa vui, cho đến Nối vòng tay lớn... để chào đón một ngày đất nước thanh bình, non sông về một mối... Những năm vãn niên ông sống tại Sài Gòn (TPHCM) thỉnh thoảng xuất ngoại trình diễn các sáng tác mới với thính giả nước ngoài. Từ các năm 90 về sau sức khỏe ông ngày càng cạn kiệt nhưng cảm xúc nghệ thuật nơi ông vẫn sinh động qua các ca khúc: Đi mãi trên đường, Thiên sứ bâng khuâng, Đồng dao 2000, Muôn trùng biển khơi... Dòng nhạc phản chiến, yêu hòa bình yêu đồng loại... của ông hòa quyện với các nhạc phẩm lãng mạn, triết lý, tình yêu: Lại gần với nhau, Diễm xưa, Ướt mi, Tuổi đá buồn, Biển nhớ, Vết lăn trầm, Lời buồn thánh... đã tạo nên tiếng nhạc độc đáo có một không của lịch sử âm nhạc Việt Nam hiện đại. Điều đó được ông thể hiện rõ nét qua các ca từ cũng như nhạc tính của tác phẩm họ Trịnh. Đó là thành công lớn nhất của họa sĩ, nhạc sĩ lang mạn tài danh Trịnh Công Sơn. Tính đến ngày ông qua đời số nhạc phẩm của ông xấp xỉ con số ngàn bản. Đến ngày 28-2-2001 tiếng thở và âm thanh nhạc điệu Trịnh Côn Sơn đưa ông về thế giới bên kia với bao tiếc thương của những người yêu nhạc."
+  "entityName" : "Lý Công Uẩn",
+  "aliases" : [ "Thần Vũ Hoàng đế (神武皇帝)", "Lý Công Uẩn (李公蘊)", "Lý Công Uẩn", "Thuận Thiên (順天)", "Lý Thái Tổ", "Thái Tổ (太祖)" ],
+  "overview" : "Lý Thái Tổ (chữ Hán: 李太祖; 8 tháng 3 năm 974 – 31 tháng 3 năm 1028), tên thật là Lý Công Uẩn (李公蘊), là vị hoàng đế sáng lập nhà Lý trong lịch sử Việt Nam, trị vì từ năm 1009 đến khi qua đời vào năm 1028.\n----------------------------------------------\nThân mẫu ông họ Phạm, năm lên 3 tuổi ông làm con nuôi sư Lý Khánh Vân, đến tuổi trưởng thành ông thông minh, có tài văn võ. Làm quan nhà Tiền Lê đến chức Tả thân vệ điện tiền chỉ huy sứ. Nhà Tiền Lê suy vi vì Lê Ngọa Triều bạo ngược, triều thần là Đào Cam Mộc ngầm mưu với sư Nguyễn Vạn Hạnh thường khuyên ông hãy sẵn sàng lật đổ nhà Lê. Đến năm Kỉ dậu 1009, Lê Ngọa Triều mất, ông cùng Hữu điện tiền chỉ huy sứ là Nguyễn Đề đem 500 quân Tùy Long vào cung canh giữ. Nhân thời cơ, Đào Cam Mộc giục ông hành động. Cuộc \"đảo chính\" thành công chớp nhoáng. Ông lên ngôi vua, sáng nghiệp nhà Lý, dời đô ra thành Đại La (sau đổi là Thăng Long - Hà Nội). Ông sửa sang chính trị, trọng dụng Đào Cam Mộc, gả em gái là An Quốc cho, phong tước Nghĩa Tín hầu. Mặt khác, ông cũng trọng đãi tăng sĩ, chú trọng việc đúc tượng, xây chùa, thời kì này xem đạo Phật như là Quốc giáo. Ngày 3-3 Mậu thìn (31-3-1028) ông mất hưởng dương 54 tuổi, ở ngôi 19 năm, hiệu là Thuận Thiên. Ngoài một hoàng đế, ông còn là một tác giả, các tác phẩm còn lại: - Thiên đô chiếu (Chiếu dời đô) - Hoàng triều ngọc văn. (văn) - Tức sự (thơ)\n----------------------------------------------\nLý Thái Tổ (chữ Hán: 李太祖,(974-1028) là hoàng đế sáng lập ra nhà Lý (hay còn gọi là Hậu Lý để phân biệt với nhà Tiền Lý do Lý Nam Đế sáng lập) trong lịch sử Việt Nam, trị vì từ năm 1009 đến khi qua đời vào năm 1028"
 }

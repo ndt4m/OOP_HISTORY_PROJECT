@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Ất Tị 1655",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê làng Bảo Triệu, huyện Gia Bình, tỉnh Bắc Ninh",
-  "occupation" : "Nhà sử học đời Lê Hi tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "1593 Việt Nam",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Đại Việt",
+  "workTenure" : "1592 - 1593",
+  "fatherName" : {
+    "Mạc Mậu Hợp" : 3064
+  },
   "motherName" : { },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34
+    "Nhà Mạc" : 18
   },
   "id" : 720,
-  "entityName" : "Trần Phụ Dực",
-  "aliases" : [ ],
-  "overview" : "Năm Quí hợi 1683 đỗ Tiến sĩ. Ông nổi tiếng văn chương, giỏi việc chính trị. Buổi đầu làm quan được gọi về triều làm việc tại Viện Hàn lâm ở Quốc sử quản phụ trách phần sử học. Ông có 10 người con trai, người thứ tám là Trần Danh Ninh, thứ chín là Trần Danh Lâm đều đỗ tiến sĩ, nổi tiếng văn chương. Tác phẩm chính của ông là bộ Tục biên trung hưng thực lục (cùng hợp soạn với Lê Hi và Nguyễn Quí Đức)."
+  "entityName" : "Mạc Toàn",
+  "aliases" : [ "Cảnh Tông", "Mạc Toàn", "Vũ An: 1592 - 1593", "Thành Hoàng đế" ],
+  "overview" : "Vũ An vương Mạc Toàn (chữ Hán: 莫全; ? – 1593) là vua thứ 6 và là vua cuối cùng nhà Mạc thời kỳ Nam Bắc triều trong lịch sử Việt Nam."
 }

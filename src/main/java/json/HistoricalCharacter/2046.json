@@ -1,17 +1,16 @@
 {
-  "dateOfBirth" : "Kỉ Mão 1818",
-  "dateOfDeath" : "Ất Tị 1905",
-  "hometown" : "quê xã Quỳnh Đôi, huyện Quỳnh Lưu, tỉnh Nghệ An",
-  "occupation" : "Danh sĩ",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê xã Nhuệ Trại, huyện Thuần Kính (Hậu Lộc), tỉnh Thanh Hóa",
+  "occupation" : "Đạo sĩ lừng danh đời Hùng Vương",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nhà Nguyễn độc lập" : 30
+    "Dựng nước" : 31
   },
   "id" : 2046,
-  "entityName" : "Phạm Đình Toái",
-  "aliases" : [ "Song Quỳnh", "Thiếu Du" ],
-  "overview" : "Năm Nhâm dần 1842, ông đỗ cử nhân, sơ bổ Tri huyện, rồi trải qua các chức: Tri phủ Lâm Thao (1866), Bố chánh Sơn Tây, Án sát Sơn Tây. Ông có tiếng thanh cần, chính trực. Có lúc ông phạm lỗi bị ngưng chức, sau vẫn được phục hồi, làm đến Hồng lô tự khanh, rồi về hưu (Canh ngọ 1870) ngụ ở Hà Nội. Các tác phẩm của ông: - Quỳnh Lưu tiết phụ truyện - Hán Đường Tân thi ca diễn âm - Trung dung diễn ca - Dịch quái diễn ca Ông cũng có khảo đính lại bộ Đại Nam quốc sử diễn ca của Lê Ngô Cát, trong năm 1873, rồi cho khắc ván in ở Nghệ An. Đoạn nói về Hai bà Trưng như sau: Bà Trưng quê ở Châu Phong Giận người tham bạo thù chồng chẳng quên. Chị em nặng một lời nguyền, Phất cờ nương tử thay quyền tướng quân Ngàn tây nổi áng phong trần Ầm ầm binh mã xuống gần Long Biên. Hồng quần nhẹ bước chinh yên. Đuổi thằng Tô Định dẹn tan biên thành."
+  "entityName" : "La Viện",
+  "aliases" : [ ],
+  "overview" : "Khi Hùng Vương nam chinh, thuyền qua cửa biển bị trở gió, phải ở lại đấy hơn một tháng. Khi nhà vua trai giới, khiến ông ngồi thuyền đi trước. Ông phụng mạng lên đường, bể lại lặng sóng, nhưng khi về, ông mất giữa đường. Vua hạ chiếu phong ông làm \"Áp Lăng chân nhân\" rồi lập đền thờ ở phía Nam cửa biển Thần Phù, lưu một toán quân đã theo ông đánh giặc ở lại đấy phụng thờ. Nay là các thôn Nhân Phẩm, Phù Sa và Anh Tốt, thuộc huyện Yên Mô, tỉnh Ninh Bình."
 }

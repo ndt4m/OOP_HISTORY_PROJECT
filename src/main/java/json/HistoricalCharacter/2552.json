@@ -1,14 +1,21 @@
 {
-  "dateOfBirth" : "3 tháng 1 năm 1932 Quảng Trị",
-  "dateOfDeath" : "21 tháng 8 năm 1973 Vũng Tàu",
-  "hometown" : "Không rõ",
-  "occupation" : "Giáo viên",
+  "dateOfBirth" : "Đinh Dậu 1897",
+  "dateOfDeath" : "Giáp Tí 1984",
+  "hometown" : "quê làng Đại Phong, huyện Lệ Thủy, anh Quảng Bình, con trai thứ Phụ chánh đại thần Ngô Đình Khả và là em thứ của Ngô Đình Khôi (1895 - 1945) anh Ngô Đình Diệm (1901- 1963), Ngô Đình Nhu (1911-1963), Ngô Đình Luyện (1914-1989) Ngô Đình Cẩn (1917-1964)",
+  "occupation" : "Giám mục Thiên chúa giáo ",
   "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
+  "fatherName" : {
+    "thứ Phụ chánh đại thần Ngô Đình Khả" : null
+  },
+  "motherName" : {
+    "là em thứ của Ngô Đình Khôi" : null
+  },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
+  },
   "id" : 2552,
-  "entityName" : "Hoàng Nguyên",
-  "aliases" : [ ],
-  "overview" : "Hoàng Nguyên (1932 - 1973) là một nhạc sĩ tên tuổi, tác giả các ca khúc nổi danh như Ai lên xứ hoa đào, Cho người tình lỡ."
+  "entityName" : "Ngô Đình Thục",
+  "aliases" : [ "Phêrô Martinô" ],
+  "overview" : "Thuở nhỏ học tại Huế, từng là chủng sinh, sau du học Italia, Pháp... năm 1929 đỗ cử nhân văn chương Pháp, Tiến sĩ thần học ở Roma, từng là phụ tá cho Giám mục Drapier ở Roma. Sau khi về nước phục vụ tại tòa giám mục Huế, khoảng các năm 1939-1940 làm Giám mục tại Tòa Giám mục Vĩnh Long. Năm 1960 về Huế làm Tổng Giám mục Tòa Giám mục Huế cho đến tháng 8-1963 sang ngụ tại Giáo phận Roma (Italia) cho đến ngày 13-12-1984 chết ở nước ngoài (Hoa Kì). Đương thời ở miền Nam Việt Nam và cả nước ngoài, dư luận không tán đồng việc làm của ông đối với thế tục, nếu không muốn nói là đa số đều bất bình với ông."
 }

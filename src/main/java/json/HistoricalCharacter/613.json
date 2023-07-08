@@ -1,18 +1,17 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Võ tướng đời Lê Thái tổ",
+  "dateOfBirth" : "Bính Ngọ 1906",
+  "dateOfDeath" : "Bính Thìn 1976",
+  "hometown" : "sinh quán tại Sài Gòn (nay là TP",
+  "occupation" : "Bác sĩ, nhà văn hiện đại",
   "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Lê Lai" : 2865
-  },
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Triều Lê Sơ" : 7
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 613,
-  "entityName" : "Lê Lư",
+  "entityName" : "Ngô Quang Lý",
   "aliases" : [ ],
-  "overview" : "Một nhà cha con, anh em ông đều nhiệt thành đứng dưới cờ giải phóng của Bình Định vương Lê Lợi, tận tụy kháng Minh cứu nước. Khi thân phụ ông hi sinh vì tổ quốc, ông càng oanh liệt xông pha trận mạc, trước báo thù cha, sau đền nợ nước. Khoảng năm Ất tị 1425, khi mở cuộc tổng tấn công, vây thành Nghệ An, ông cùng các tướng chia nhau đánh các nơi, mất tại trận. Nước non yên ổn, ghi công ơn ông, Lê Thái tổ truy tặng ông là Thái úy (Mậu thân 1428). Đến đời Lê Thánh tông, lại truy tặng tước là Kiến Tiết Hầu (Giáp thìn 1484), sau gia tặng Kiến Quận Công. Hai em ông là Lê Lộ và Lê Lâm cũng là bậc tài danh của đất nước."
+  "overview" : "Ông có chân trong hội Khuyến học Nam Kì, từng tích cực hoạt động văn hóa. Những bài ông viết trên các sách báo ở Sài Gòn như Nam Kì tuần báo, tạp chí Phổ thông rất có giá trị. Ông cũng thường được mời nói chuyện trên đài Phát thanh Sài Gòn về y học, văn học. Có lòng yêu nước ông giữ vững được tiết tháo, không để bị lung lạc, mua chuộc, phần đông giới trí thức đều quí trọng ông. Năm Bính thìn 1976, ngày 21-9 dương lịch ông mất, thọ 70 tuổi, an táng tại nghĩa trang An Nhơn, ở quận Gò Vấp (Thành phố Hồ Chí Minh). Trên tờ Nam Kì tuần báo, số đặc biệt về Nguyễn Đình Chiểu, hai bài của ông viết về Nguyễn Đình Chiểu, dưới nhãn quan y học, thật xuất sắc được nhiều người tán thưởng."
 }

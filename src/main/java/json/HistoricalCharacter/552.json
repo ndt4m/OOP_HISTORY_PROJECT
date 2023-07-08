@@ -1,17 +1,20 @@
 {
-  "dateOfBirth" : "Canh Dần 1230",
-  "dateOfDeath" : "Tân Mão 1291",
+  "dateOfBirth" : "6 tháng 7, 1173",
+  "dateOfDeath" : "15 tháng 11, 1210 (37 tuổi)",
   "hometown" : "Không rõ",
-  "occupation" : "Pháp sư cư sĩ đời Trần",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
+  "occupation" : "Hoàng đế Đại Việt",
+  "workTenure" : "1175 - 1210",
+  "fatherName" : {
+    "Lý Anh Tông" : 2394
+  },
+  "motherName" : {
+    "Đỗ Thụy Châu" : null
+  },
   "eraName" : {
-    "Nhà Trần" : 15,
-    "nhà Trần" : null
+    "Nhà Lý" : 14
   },
   "id" : 552,
-  "entityName" : "Trần Tung",
-  "aliases" : [ "Trần Quốc Tung", "Tuệ Trung Thượng Sĩ" ],
-  "overview" : "Tuệ Trung Thượng sĩ (慧中上士; 1230 - 1291 ) tên thật là Trần Tung (陳嵩, hay Trần Quốc Tung), là một thành viên trong hoàng tộc nhà Trần với tước hiệu Hưng Ninh Vương và là một thiền sư Việt Nam. Ông là người hướng dẫn vua Trần Nhân Tông vào cửa Thiền và có nhiều ảnh hưởng đến tư tưởng của vị vua sáng lập Thiền phái Trúc Lâm Yên Tử.\n----------------------------------------------\nTâm hồn ông phóng khoáng, không màng công danh, chuyên nghiên cứu đạo Phật, say mê Thiền học. Ông thọ giáo với Thiền sư Tiêu Dao, nổi tiếng thâm thông đạo lí, được Trần Thánh tông và Nhân tông kính trọng. Khi quân Nguyên - Mông xâm lược ông có công kháng chiến cứu nước, được phong chức trọng quyền cao nhưng ông đều từ chối. Chỉ nhận tước vị Ninh vương rồi về ấp phong ở Tịnh Bang, ẩn dật nơi đấy tham cứu về thiền học. Năm Tân mão 1291 ông mất ở ấp Tịnh Bang, thọ 61 tuổi. Tác phẩm sáng giá của ông là bộ: Tuệ Trung Thượng sĩ ngữ lực. (Do sự nhẫm lẫn của các học gia đời trước nhiều sách ghi Tuệ Trung Thượng sĩ là Trần Quốc Tảng, thật ra ông là Trần Tung em Trần Quốc Tuấn, cùng cha khác mẹ)."
+  "entityName" : "Lý Long Cán",
+  "aliases" : [ "Niên hiệu Trinh Phù (1176 - 1185) Thiên Tư Gia Thuỵ (1186 - 1201) Thiên Gia Bảo Hựu (1202 - 1204) Trị Bình Long Ứng (1205 - 1210", "Lý Long Cán (hay Trát )", "Cao Tông" ],
+  "overview" : "Lý Cao Tông (chữ Hán: 李高宗, 1173–1210), là vị Hoàng đế thứ bảy của nhà Lý, cai trị từ năm 1175 đến năm 1210."
 }

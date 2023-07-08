@@ -1,17 +1,21 @@
 {
-  "dateOfBirth" : "Ất Mão 1915",
-  "dateOfDeath" : "Nhâm Tí 1972",
-  "hometown" : "quê xã Ngọc Đường, phủ Tĩnh Gia, tỉnh Thanh Hóa, con cụ cử Lê Nguyên Phong",
-  "occupation" : "Nhà văn ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
+  "dateOfBirth" : "11 tháng 6, 1675\n----------------------------------------------\nẤt Mão 1675",
+  "dateOfDeath" : "1 tháng 6, 1725 (49 tuổi) Đàng Trong, Đại Việt\n----------------------------------------------\nẤt Tị 1725",
+  "hometown" : "Không rõ",
+  "occupation" : "Chúa Nguyễn\n----------------------------------------------\nChúa thứ sáu thời các chúa Nguyễn, con cả của Anh tông Nguyễn Phúc Trăn, mẹ là Tống thị.",
+  "workTenure" : "1691 - 1725\n----------------------------------------------\nKhông rõ",
+  "fatherName" : {
+    "Nguyễn Phúc Thái" : 2903
+  },
+  "motherName" : {
+    "Tống Thị Lĩnh" : null
+  },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Trịnh - Nguyễn" : 34,
+    "Họ Nguyễn" : null
   },
   "id" : 1106,
-  "entityName" : "Lê Nguyên Tiệp",
-  "aliases" : [ "Tam Ích", "XXX", "Trúc Lâm" ],
-  "overview" : "Ông dạy học, viết báo, soạn nhiều tiểu luận, phê bình văn, triết học rất giá trị. Ngày 5-1-1972 ông tự tử tại tư thất số 563/74 đường Phan Đình Phùng Sài Gòn, hưởng dương 57 tuổi. Để tưởng niệm ông, ngày 15-5-1972 Tạp chí Văn (Sài Gòn) có ra số đặc biệt sưu tập 10 tiểu luận đặc sắc của ông. Tam Ích trong những năm đầu cuộc sống có tư tưởng tiến bộ, nhất là trong những năm 40 và những ngày đầu kháng chiến chống Pháp ông cho xuất bản một số tác phẩm phê bình, lí luận văn học có giá trị. Từng tham gia các phong trào chống Pháp lúc công khai, lúc bí mật tại Sài Gòn... bị Pháp bắt nhiều lần. Trong kháng chiến chống Mĩ ông sống tại Sài Gòn, tư tưởng ngày càng bế tắc. Cuối cùng đâm ra bi quan, đưa đến cái chết bi đát. Ông tự kết liễu đời mình bằng sợi dây thòng lọng và một số sách triết học hiện đại phương Tây. (ông thắt cổ chết bằng cách dùng sách làm bệ đế treo dây). Các tác phẩm chính: - Nghệ thuật và nhâu sinh (do Chân trời mới xuất bản năm 1951) - Văn nghệ và phê bình (Nam Việt, 1950) - Diologue (Pháp ngữ, 1965) - Văn chương và xã hội (N.V 1948) - Kêu thương (chứng ngôn, dịch 1967) - Trẻ Guernica (truyện dịch) - Sartre và Heidegge trên thảm xanh (1968) - Ývăn I (khảo luận, 1969) Di cảo để lại chưa in: - Triết học Đông Tây chung quanh bàn tròn - Lần lữa (kịch dài) - Ý văn II - Hồ sơ văn hóa - Phê bình tiểu luận: 10 văn sĩ, tiền chiến và hiện đại, và nhiều tiểu luận đăng trên các tạp chí ở Sài Gòn."
+  "entityName" : "Nguyễn Phúc Chu",
+  "aliases" : [ "Minh Vương", "Nguyễn Phúc Chu", "Anh Mô Hùng Lược thánh Văn Tuyên Đạt Khoan Từ Nhân Thứ Hiếu Minh Hoàng Đế Ngắn: Hiếu Minh hoàng đế", "Hiển Tông (顯宗)" ],
+  "overview" : "Nguyễn Phúc Chu (chữ Hán: 阮福淍, 1675 – 1725) là vị chúa Nguyễn thứ sáu của chính quyền Đàng Trong trong lịch sử Việt Nam (ở ngôi từ 1691 đến 1725), nối ngôi Nguyễn Phúc Thái. Dưới thời Nguyễn Phúc Chu, lãnh thổ Đại Việt được mở rộng đáng kể về phía Nam sau các cuộc chiến với Chiêm Thành và Chân Lạp.\n----------------------------------------------\nThuở nhỏ ở trong cung, ông chăm học, chữ tốt, tài kiêm văn võ được phong là Tả bính dinh Phó tướng, Tộ Trường Hầu. Năm Tân mùi 1691, chúa Anh tông mất, ông lên kế vi, triều thần tôn là Bình Chương quân quốc trọng sự Thái bảo Tộ quốc Công, hiệu là Thiên Túng Đạo Nhân, đương thời gọi là Minh vương. Sau khi hết tang cha, được tôn làm Thái phó, Quốc Công, tôn hiệu là Quốc chúa. Từ đấy trong các sắc dụ về nội trị, ngoại giao đều xưng là Quốc chúa. Thời ông cầm quyền, phía Bắc vẫn giữ vững biên thùy với chúa Trịnh, phía Nam ông đưa nhân dân đến các vùng đất mới phương Nam khai khẩn đất hoang sát biên giới Chân Lạp. Trong nước việc nội trị, võ bị, giáo dục được phát triển có qui mô. Các năm Nhâm ngọ, Quí mùi (1702- 1703) tàu biển nước ngoài đến cướp phá các hải đảo và các cửa khẩu đều bị dẹp tan. Năm Vĩnh Thịnh thứ tư, 1708, Mạc Cửu người Lôi Châu, tỉnh Quảng Đông, Trung Quốc, trước đó đến khai thác vùng đất Hà Tiên dâng thư lên triều đình xin đem đất này qui thuộc chúa Nguyễn. Ông nhận lời và trao cho Mạc Cửu chức Tổng binh trấn giữ đất Hà Tiên. Ông là người sùng đạo Nho, mộ đạo Phật, học rộng, hiểu nhiều và cũng là tác giả nhiều bài văn có giá trị. Chính ông đã đề tựa \"Bản sư\" sách Hải ngoại kỉ sự của Hòạ thượng Thích Đại Sán (1633-1704). Đời ông cầm quyền, Nam Bắc hòa bình được nhiều năm, nhân dân trong nước sống yên ổn hạnh phúc. Năm Bảo Thái thứ 6 (Ất tị 1725) ông mất, ở ngôi 34 năm, thọ 51 tuổi, con trai con gái tất cả 146 người. Sau khi mất được triều đình dâng thụy hiệu là Đô nguyên súy Tổng quốc chính Tô Minh vương, truy tôn là Hiến tông Hiếu minh Hoàng đế, đương thời gọi là Quốc Chúa. Thi hài an táng ở núi Kim Ngọc, huyện Hương Trà, tỉnh Thừa Thiên, phi (vợ chính) được truy tôn là Từ Huệ cung Thục kinh phi."
 }

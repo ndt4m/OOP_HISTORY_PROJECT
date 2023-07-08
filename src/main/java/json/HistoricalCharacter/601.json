@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "17 tháng 7, 1947 (73 tuổi) Xã Hải Long, huyện Hải Hậu, tỉnh Nam Định, Việt Nam Dân chủ Cộng hòa",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Thuộc",
-  "workTenure" : "1965-2011",
+  "dateOfBirth" : "Canh Ngọ 1930",
+  "dateOfDeath" : "Tân Mão 1951",
+  "hometown" : "nguyên quán ở miền Bắc",
+  "occupation" : "Liệt sĩ hiện đại ",
+  "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
+  },
   "id" : 601,
-  "entityName" : "Nguyễn Huy Hiệu",
+  "entityName" : "Đỗ Ngọc Thạch",
   "aliases" : [ ],
-  "overview" : "Nguyễn Huy Hiệu (sinh năm 1947) là một sĩ quan cấp cao trong Quân đội nhân dân Việt Nam, hàm Thượng tướng. Ông nguyên là Ủy viên Thường vụ Đảng ủy Quân sự Trung ương, Thứ trưởng Bộ Quốc phòng Việt Nam (1998-2011), nguyên Phó Tổng tham mưu trưởng (1995-1998)."
+  "overview" : "Từ năm 1946-1947 ông là học sinh trường Chasseloup Laubat Sài Gòn (nay là trường trung học Lê Quí Đôn). Tại đây ông tham gia hoạt động chống Pháp, xây dựng và phát triển cơ sở bí mật tại trường hoạt động dưới danh nghĩa Phong trào học sinh năm 1950. Đồng thời phụ trách Hội học sinh Việt Nam - Nam Bộ tại nội thành, từng là Bí thư Đảng Đoàn học sinh đầu tiên của khu Sài Gòn - Chợ Lớn thuộc Thành ủy Sài Gòn - Chợ Lón. Tháng 11 năm 1951, ông bị địch bắt trong khi đang trên đường công tác ở Sài Gòn. Tại nhà tù, ông bị tra tấn đến tử thương xác ông \"bị vứt xuống cầu Kinh - Thanh Đa\", Gia Định cùng năm. Ông hi sinh lúc mới 21 tuổi. Sau ngày thống nhất đất nước (30-4-1975) ông được Nhà nước Việt Nam truy tặng Liệt sĩ."
 }

@@ -1,14 +1,20 @@
 {
-  "dateOfBirth" : "20 tháng 7, 1954 (64 tuổi) Quế Sơn, Quảng Nam, Quốc gia Việt Nam",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Hà Nội",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
+  "dateOfBirth" : "259 TCN",
+  "dateOfDeath" : "210 TCN Trung Quốc",
+  "hometown" : "Không rõ",
+  "occupation" : "Vua nước Tần",
+  "workTenure" : "7 tháng 6 năm 247 TCN – 221 TCN",
+  "fatherName" : {
+    "Tần Trang Tương vương" : null
+  },
+  "motherName" : {
+    "Đế thái hậu Triệu Cơ" : null
+  },
+  "eraName" : {
+    "Nhà Tần" : null
+  },
   "id" : 2119,
-  "entityName" : "Nguyễn Xuân Phúc",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Xuân Phúc (sinh 20 tháng 7 năm 1954) là đương kim Thủ tướng Chính phủ nước Cộng hoà Xã hội Chủ nghĩa Việt Nam. Ông còn là đại biểu quốc hội Việt Nam khóa XIV nhiệm kì 2016-2021 thuộc đoàn đại biểu thành phố Hải Phòng. Ông từng là Đại biểu Quốc hội Việt Nam khóa XIII nhiệm kì 2011-2016, thuộc đoàn đại biểu tỉnh Quảng Nam. Trong Đảng Cộng sản Việt Nam, ông hiện giữ chức Ủy viên Bộ Chính trị Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa XII, Bí thư Ban Cán sự Đảng Chính phủ."
+  "entityName" : "Tần Thủy Hoàng",
+  "aliases" : [ "Doanh Chính (嬴政)", "Doanh Chính" ],
+  "overview" : "Tần Thủy Hoàng (tiếng Hán: 秦始皇)(tháng 1 hoặc tháng 12, 259 TCN – 10 tháng 9, 210 TCN) , tên thật là Doanh Chính (嬴政), còn có tên khác là Triệu Chính (趙政), là vị vua thứ 36 của nước Tần ở Trung Quốc từ năm 246 TCN đến 221 TCN trong thời kỳ Chiến Quốc và trở thành vị Hoàng đế sáng lập ra nhà Tần, đồng thời là hoàng đế đầu tiên của Trung Quốc thống nhất vào năm 221 TCN sau khi tiêu diệt các nước chư hầu khác. Ông cai trị cho đến khi qua đời vào năm 210 TCN ở tuổi 49."
 }

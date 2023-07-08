@@ -1,22 +1,16 @@
 {
-  "dateOfBirth" : "? Đại Hoàng, Hoa Lư\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "tháng 10, 979 Hoa Lư\n----------------------------------------------\nKhông rõ",
-  "hometown" : "Ninh Bình",
-  "occupation" : "Con trưởng Đinh Tiên Hoàng, tước Nam Việt vương",
+  "dateOfBirth" : "Kỉ Sửu 1049",
+  "dateOfDeath" : "Đinh Dậu 1117",
+  "hometown" : "quê ở đất Luy Lâu (một trung tâm cổ của Phật giáo Việt Nam), tỉnh Bắc Ninh, xứ Kinh Bắc (nay thuộc tỉnh Bắc Ninh)",
+  "occupation" : "Thiền sư đời Lý Nhân tông, không rõ tên thật",
   "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Đinh Tiên Hoàng" : 2346
-  },
-  "motherName" : {
-    "?" : null
-  },
+  "fatherName" : { },
+  "motherName" : { },
   "eraName" : {
-    "Nhà Ngô" : 25,
-    "nhà Đinh" : null,
-    "Nhà Đinh" : 35
+    "Nhà Lý" : 14
   },
   "id" : 618,
-  "entityName" : "Đinh Liễn",
-  "aliases" : [ "Đinh Khuông Liễn" ],
-  "overview" : "Đinh Liễn (chữ Hán: 丁璉; ? - tháng 10, 979) hay Đinh Khuông Liễn (丁匡璉), là một hoàng tử nhà Đinh, con trai của Đinh Bộ Lĩnh, vị Hoàng đế khai sáng ra triều đại nhà Đinh trong lịch sử Việt Nam.\n----------------------------------------------\nThuở trẻ ông theo cha phù tá sứ quân Trần Minh Công tứcTrần Lãm ở Bố Hải khẩu Chẳng bao lâu Trần Lãm mất, thân phụ ông thay nắm binh quyền rút về hùng cứ ở Hoa Lư. Năm Tân hợi 951, anh em Thiên Sách vương Ngô Xương Ngập, và Nam Tấn vương Xương Văn cử binh đánh Hoa Lư, thân phụ ông liệu thế còn yếu đưa ông làm con tin nhà Ngô để khỏi bị bức bách. Một thời gian ông được thả ra. Sau, nhà Ngô suy vi, cha con ông dẹp tan các sứ quân, dứt luôn nhà Ngô. Năm Mậu thìn 968, thân phụ ông lên ngôi, phong ông làm Nam Việt vương rồi ông vâng mạng cưới con gái sứ quân Ngô Nhật Khánh làm vợ. Năm Nhâm thân 972, ông đi triều cống nhà Tống bên Trung Quốc, Tống Thái tổ phong thân phụ ông làm Giao Chỉ Quận vương, ông làm Tĩnh Hải quan tiết độ sứ An Nam đô hộ. Năm Ất hợi 975, nhà Tống lại phong ông làm Giao Chỉ quận vương. Từ ấy, khi sai sứ sang Tống đều lấy ông làm chủ. Bấy giờ ngôi Thái tử đáng lẽ phải về ông nhưng vua Đinh lại cho con út là Hạng Lang làm Thái tử. Ông tức giận sai người giết chết Hạng Lang gây nên mối loạn trong nhà. Năm Kỉ mão 979, ông và vua Đinh đều bị tên hầu cận là Đỗ Thích ám hại."
+  "entityName" : "Vạn Trì Bát",
+  "aliases" : [ "Trì Bát" ],
+  "overview" : "Năm lên 20 tuổi (1069) ông xuất gia học Phật với pháp sư Sùng Phạm ở chùa Pháp Vân thuộc vào thế hệ thứ 17 dòng Thiền Nam phương. Về sau ông trú trì chùa Tổ Phong ở núi Thạch Thất, tỉnh Sơn Tây và mở đàn chúng tại đây cho đến ngày viên tịch. Ngày 18 tháng 2 năm Đinh dậu ông mất, thọ 68 tuổi. Trước khi mất có lưu lại bài kệ cho tăng chúng. \"Hữu tử tất hữu sinh, Hữu sinh tất hữu tử, Tử vi thế sở bi! Sinh vi thế sở hỉ! Bi hỉ lưỡng vô cùng Hỗ nhiên thành bỉ thử Ư chư sinh tử bất quan hoài Úm tô rô, tô rô, tất lị.\" Nghĩa: Có tử, phải có sinh, Có sinh, tử phải có, Sinh thì đời reo mừng! Tử thì đời sầu khổ! Mừng khổ đều vô cùng, Vẫn xoay hóa \"kia nọ\", Bao giờ sinh tử đều không màng Úm tô rô! Ta vào cõi thọ. Ông là tác giả một số thơ văn vè Thiền, nhưng nay đã thất lạc nhiều."
 }

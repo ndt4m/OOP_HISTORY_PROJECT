@@ -1,20 +1,21 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
+  "dateOfBirth" : "117 TCN\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "112 TCN Nam Việt\n----------------------------------------------\nKhông rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Vua",
-  "workTenure" : "965\n----------------------------------------------\n965—966",
+  "occupation" : "Hoàng đế Nam Việt\n----------------------------------------------\nVua",
+  "workTenure" : "113 TCN – 112 TCN\n----------------------------------------------\n113—112TCN",
   "fatherName" : {
-    "Thiên Sách Vương" : 335,
-    "Ngô Xương Ngập" : 612
+    "Triệu Anh Tề" : 771,
+    "Triệu Minh Vương" : 1844
   },
-  "motherName" : { },
+  "motherName" : {
+    "Cù hậu" : null
+  },
   "eraName" : {
-    "Nhà Ngô" : 25,
-    "Nhà Ngô và Dương Tam Kha" : 25
+    "Nhà Triệu" : 16
   },
   "id" : 672,
-  "entityName" : "Ngô Sứ Quân",
-  "aliases" : [ "Ngô Xương Xí (吳昌熾)" ],
-  "overview" : "Ngô Xương Xí (chữ Hán: 吳昌熾), còn gọi Ngô Sứ Quân (吳使君), là con trai của Thiên Sách Vương Ngô Xương Ngập, tức là cháu nội của Ngô Tiên chúa Ngô Quyền. Sử không ghi rõ năm sinh và năm mất của Ngô Xương Xí, nhưng căn cứ vào hành trạng của Ngô Xương Ngập thì ông sinh khoảng từ năm 944 đến trước năm 950.\n----------------------------------------------\nNgô Xương Xí (chữ Hán: 吳昌熾), còn gọi là Ngô sứ quân (吳使君), được chính sử ghi nhận là một trong những thủ lĩnh thời 12 sứ quân thế kỷ X. Nhiều tài liệu cho biết ông là con trai của Thiên Sách Vương Ngô Xương Ngập, tức là cháu nội của Ngô Tiên chúa Ngô Quyền. Sử không ghi rõ năm sinh và năm mất của Ngô Xương Xí, nhưng căn cứ vào hành trạng của Ngô Xương Ngập thì ông sinh khoảng từ năm 944 đến trước năm 950."
+  "entityName" : "Triệu Ai Vương",
+  "aliases" : [ "Triệu Hưng", "Ai Vương (哀王)", "Triệu Hưng (趙興)" ],
+  "overview" : "Triệu Ai Vương (chữ Hán: 趙哀王; 117 TCN-112 TCN) tên thật là Triệu Hưng (趙興), là vua thứ 4 nhà Triệu nước Nam Việt, trị vì từ năm 113 TCN - 112 TCN, tức chỉ 1 năm.\n----------------------------------------------\nTriệu Ai Vương (chữ Hán: 趙哀王; ? – 112 TCN) tên thật Triệu Hưng (趙興), là vua thứ tư nhà Triệu nước Nam Việt, trị vì từ năm 113 TCN – 112 TCN, tức chỉ một năm."
 }

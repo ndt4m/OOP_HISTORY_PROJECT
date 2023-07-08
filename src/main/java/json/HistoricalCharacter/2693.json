@@ -1,17 +1,22 @@
 {
-  "dateOfBirth" : "Đinh Tị 1917",
-  "dateOfDeath" : "Ất Sửu 1985",
-  "hometown" : "tại Hà Nội",
-  "occupation" : "Nhà văn ",
+  "dateOfBirth" : "? Đại Hoàng, Hoa Lư\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "tháng 10, 979 Hoa Lư\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Ninh Bình",
+  "occupation" : "Con trưởng Đinh Tiên Hoàng, tước Nam Việt vương",
   "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
+  "fatherName" : {
+    "Đinh Tiên Hoàng" : 2346
+  },
+  "motherName" : {
+    "?" : null
+  },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Nhà Ngô" : 25,
+    "nhà Đinh" : null,
+    "Nhà Đinh" : 35
   },
   "id" : 2693,
-  "entityName" : "Nguyễn Đình Thạc",
-  "aliases" : [ "Như Phong" ],
-  "overview" : "Ông hoạt động văn học tích cực. Trước Cách mạng tháng Tám, ông từng viết truyện, Lý luận văn học ở các báo Tiểu thuyết thứ bảy, Ích Hữu, Thời vụ mới... Năm 1937 ông tham gia hoạt động bí mật, rồi từ năm 1942 vận động thành lập Hội Văn hóa Cứu quốc (còn trong vòng bí mật) và được bầu vào ban Chấp hành hội. Về sau, lần lượt làm nhiệm vụ: Ủy viên Đảng đoàn Hội Văn nghệ Việt Nam, ủy viên ban Biên tập Báo Nhân dân, ủy viên Thường vụ Hội Nhà văn Việt Nam, Phó chủ bút báo Cứu quốc trung ương, Giám đốc Nhà xuất bản Văn học. Ông được khen thưởng: Huân chương kháng chiến hạng nhất, Huân chương chống Mỹ cứu nước hạng nhất. Ngày 1-2-1985 ông bệnh mất, thọ 68 tuổi. Các tác phẩm: Thơ văn Trần Mai Ninh và nhiều tiểu phẩm giá trị. Nguyễn Đình Thạc là nhà phê bình và Lý luận văn học với một ngòi bút sắc nét."
+  "entityName" : "Đinh Liễn",
+  "aliases" : [ "Đinh Khuông Liễn" ],
+  "overview" : "Đinh Liễn (chữ Hán: 丁璉; ? - tháng 10, 979) hay Đinh Khuông Liễn (丁匡璉), là một hoàng tử nhà Đinh, con trai của Đinh Bộ Lĩnh, vị Hoàng đế khai sáng ra triều đại nhà Đinh trong lịch sử Việt Nam.\n----------------------------------------------\nThuở trẻ ông theo cha phù tá sứ quân Trần Minh Công tứcTrần Lãm ở Bố Hải khẩu Chẳng bao lâu Trần Lãm mất, thân phụ ông thay nắm binh quyền rút về hùng cứ ở Hoa Lư. Năm Tân hợi 951, anh em Thiên Sách vương Ngô Xương Ngập, và Nam Tấn vương Xương Văn cử binh đánh Hoa Lư, thân phụ ông liệu thế còn yếu đưa ông làm con tin nhà Ngô để khỏi bị bức bách. Một thời gian ông được thả ra. Sau, nhà Ngô suy vi, cha con ông dẹp tan các sứ quân, dứt luôn nhà Ngô. Năm Mậu thìn 968, thân phụ ông lên ngôi, phong ông làm Nam Việt vương rồi ông vâng mạng cưới con gái sứ quân Ngô Nhật Khánh làm vợ. Năm Nhâm thân 972, ông đi triều cống nhà Tống bên Trung Quốc, Tống Thái tổ phong thân phụ ông làm Giao Chỉ Quận vương, ông làm Tĩnh Hải quan tiết độ sứ An Nam đô hộ. Năm Ất hợi 975, nhà Tống lại phong ông làm Giao Chỉ quận vương. Từ ấy, khi sai sứ sang Tống đều lấy ông làm chủ. Bấy giờ ngôi Thái tử đáng lẽ phải về ông nhưng vua Đinh lại cho con út là Hạng Lang làm Thái tử. Ông tức giận sai người giết chết Hạng Lang gây nên mối loạn trong nhà. Năm Kỉ mão 979, ông và vua Đinh đều bị tên hầu cận là Đỗ Thích ám hại."
 }

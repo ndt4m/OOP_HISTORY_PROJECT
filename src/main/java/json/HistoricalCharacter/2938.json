@@ -1,16 +1,21 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê làng Hiền Lộc, tổng Chiên Đàn trung, huyện Lệ Dương sau đổi là phủ Tam Kì, tỉnh Quảng Nam, sau cư ngụ làng A Vó, tổng Đức Hòa, huyện Tam Kì, tỉnh Quảng Nam (nay thuộc xã Tam Xuân, huyện Núi Thành, tỉnh Quảng Nam)",
-  "occupation" : "Danh tướng triều Tây Sơn, không rõ năm sinh năm mất",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
+  "dateOfBirth" : "10 tháng 8, 941\n----------------------------------------------\nTân Sửu 941",
+  "dateOfDeath" : "1005 (63–64 tuổi) Hoa Lư, Đại Cồ Việt\n----------------------------------------------\nẤt Tị 1005",
+  "hometown" : "quê làng Bảo Thái huyện Thanh Liêm (nay là làng Ninh Thái, tỉnh Nam Định)",
+  "occupation" : "Hoàng đế Đại Cồ Việt\n----------------------------------------------\nVua nhà Tiền Lê",
+  "workTenure" : "980 – 1005\n----------------------------------------------\nKhông rõ",
+  "fatherName" : {
+    "Lê Mịch" : null
+  },
+  "motherName" : {
+    "Đặng Thị" : null
+  },
   "eraName" : {
-    "Nhà Tây Sơn" : 21
+    "Nhà Tiền Lê" : 8,
+    "Nhà Đinh" : 35
   },
   "id" : 2938,
-  "entityName" : "Đống Công Tuờng",
-  "aliases" : [ ],
-  "overview" : "Thuở trẻ ông đầu quân dưới cờ nghĩa quân Tây Sơn, sau theo Bắc Bình vương Nguyễn Huệ bình định Thuận Hóa và cả đất Bắc Hà. Ông là một trong các tướng góp công lớn trong trận chiến thắng Đống Đa mùa xuân Kỉ dậu 1789, được giữ chức Cai cơ, Tả Đồng nghị, tước Miên Trường hầu. Lúc ở quê, ông tòng quân theo anh em nhà Tây Sơn, gia đình đơn chiếc chỉ còn mẹ già ở xã Hiền Lộc. Ông đem thân mẫu đến gởi người bạn tên Trần Toản (1731-1808) là ông nội của tiến sĩ Trần Văn Dư - người thủ hội phong trào Nghĩa hội năm 1885 ở Quảng Nam. Thân mẫu ông lúc còn sống được người bạn nuôi dưỡng chu đáo, đến lúc bà qua đời được chôn cất với đủ quan quách, nghi lễ trọng vọng. Lúc Nguyễn Huệ lên ngôi hoàng ôế, ông được vua Quang Trung ban sắc phong vào ngày 21 tháng 12 năm Quang Trung thứ 2. Sau khi được ân thưởng, về quê cũ xây lại mộ mẹ, rồi ông đem một cân vàng ra thành Tây mua hai áo quan lõi vàng để báo đền công ơn của người bạn từng nuôi dưỡng thân mẫu lúc ông theo nghĩa quân Tây Sơn. Mộ ông nay hãy còn ở thôn Thạch Kiều (gân làng A Vó) xã Tam Xuân, huyện Núi Thành tỉnh Quảng Nam ngày nay."
+  "entityName" : "Lê Hoàn",
+  "aliases" : [ "Lê Hoàn (黎桓)", "Hoàn", "Minh Càn Quảng Hiếu Hoàng Đế (明乾廣孝皇帝)", "Niên hiệu Thiên Phúc (天福: 980 - 988) Hưng Thống (興統: 989 - 993) Ứng Thiên (應天: 994 - 1005)" ],
+  "overview" : "Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi.\n----------------------------------------------\nÔng làm Thập đạo tướng quân nhà Đinh. Kỉ mão 979, Đinh Tiên Hoàng bị Đỗ Thích giết chết, con là Đinh Duệ mới 6 tuổi lên nối ngôi, quyền bính nằm trong tay ông. Đại thần nhà Đinh là Định Quốc Công Nguyễn Bặc, Phạm Hạp dấy binh phản đối ông, bị ông giết cả. Nhà Tống sai 8 tướng đem quân sang đánh. Ông sai Phạm Cự Lượng làm Đại tướng dẫn binh đi chống giữ. Lượng cùng nhiều tướng sĩ suy tôn ông lên ngôi nối nghiệp nhà Đinh. Dương Thái hậu cũng lấy áo rồng choàng cho ông. Bấy giờ vào tháng 7, năm Canh thìn 980. Ông lên ngôi, giáng Đinh Duệ làm Vệ vương như tước cũ. Đối ngoại, ông khiến Giang Cự Vọng thảo quốc thư, sai sứ đưa sang nhà Tống, dối là Đinh Duệ xin phong. Năm Nhâm ngọ 982, ông thân chinh Chiêm Thành, để phạt tội về việc vua Chiêm đã bắt giam hai sứ thần nước ta là Từ Mục và Ngô Tử Canh. Ông đem quân chiếm đóng kinh thành Chiêm Thành. Đây là cuộc nam phạt đầu tiên trong lịch sử dựng nước của nhân dân ta. Vua Chiêm từ ấy hàng năm phải triều cống và xưng thần. Ông ở ngôi 26 năm, đặt hiệu năm 3 lần: - Thiên Phúc: tháng 7 Canh thìn 980 Mậu tí 988 (9 năm). - Hưng Thống: Kỷ sửu 989 - Quí tị 993 (5 năm). - Ứng Thiên: Giáp ngọ 994 - Ất tị 1005 (12 năm)."
 }

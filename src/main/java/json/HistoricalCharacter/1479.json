@@ -1,20 +1,20 @@
 {
-  "dateOfBirth" : "còn nghi vấn huyện Tức Mặc, Nam Định.",
-  "dateOfDeath" : "20 tháng 8, 1300 Vạn Kiếp, Đại Việt (Chí Linh, Việt Nam)",
+  "dateOfBirth" : "26 tháng 7, 1507 Đông Kinh",
+  "dateOfDeath" : "15 tháng 6, 1527 (19 tuổi) Tây cung, Đông Kinh, Đại Việt",
   "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
+  "occupation" : "Hoàng đế Đại Việt",
+  "workTenure" : "22 tháng 7 năm 1522 – 15 tháng 6 năm 1527 (4 năm, 328 ngày)",
   "fatherName" : {
-    "Khâm Minh đại vương Trần Liễu" : null
+    "Lê Minh Tông" : null
   },
   "motherName" : {
-    "Thiện Đạo quốc mẫu (?)" : null
+    "Trịnh Thị Loan" : null
   },
   "eraName" : {
-    "Nhà Trần" : 15
+    "Nhà Lê sơ" : null
   },
   "id" : 1479,
-  "entityName" : "Trần Hưng Đạo",
-  "aliases" : [ "Nhân Vũ Hưng Đạo Đại Vương", "Trần Quốc Tuấn (陳國峻)", "Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王)" ],
-  "overview" : "Trần Hưng Đạo (chữ Hán: 陳興道; ? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần."
+  "entityName" : "Lê Hoàng Đệ Xuân",
+  "aliases" : [ "Lê Xuân (黎椿)", "Cung Hoàng đế (恭皇帝)", "Thống Nguyên (統元)" ],
+  "overview" : "Lê Cung Hoàng (chữ Hán: 黎恭皇; 26 tháng 7, 1507 – 15 tháng 6, 1527), là vị hoàng đế thứ 11 của nhà Hậu Lê, ở ngôi từ năm 1522 đến 1527, tổng cộng 5 năm. Ông là vị hoàng đế cuối cùng của nhà Lê sơ."
 }

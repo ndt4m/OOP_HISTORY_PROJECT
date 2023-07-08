@@ -1,17 +1,16 @@
 {
-  "dateOfBirth" : "Quí Hợi 1923",
-  "dateOfDeath" : "Đinh Mão 1987",
-  "hometown" : "tại làng Phú Mĩ, tỉnh Mĩ Tho (nay là Tiền Giang)",
-  "occupation" : "Ni sư ",
+  "dateOfBirth" : "Đinh Dậu 1897",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Chánh Hưng, tỉnh Chợ Lớn",
+  "occupation" : "Bác sĩ, tác giả. Bác sĩ điều trị bệnh viện Sài Gòn, quê làng Chánh Hưng, tỉnh Chợ Lớn",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Pháp đô hộ" : 11
   },
   "id" : 1162,
-  "entityName" : "Nguyễn Thị Trừ",
-  "aliases" : [ "Huỳnh Liên" ],
-  "overview" : "Xuất thân trong một gia đình nông dân, năm lên 10 tuổi bà đã lập nguyện tu hành theo đạo Phật. Đến 24 tuổi bà xuất gia thọ giáo với sư Minh Đăng, hệ phái khất sĩ. Rồi từ năm 1957 bà thành lập Tịnh xá Ngọc Phương ở Gia Định (thành phố Hồ Chí Minh), tích cực hoằng pháp, phục vụ công tác xã hội. Bà có lòng yêu nước, tích cực cùng giáo hội Phật giáo và đồng bào tranh đấu chống các thế lực phản động trong nước và nước ngoài. Khi nước nhà thống nhất, bà càng năng nỗ phục vụ đạo pháp dân tộc. Ngày 16-4-1987 bà mất, thọ 64 tuổi an táng trong khuôn viên Tịnh xá Ngọc Phương. Tang lễ bà được tổ chức trọng thể, biểu hiện lòng cảm phục quí trọng của mọi người, mọi giới."
+  "entityName" : "Nguyễn Văn Tung",
+  "aliases" : [ ],
+  "overview" : "Năm 1923 tốt nghiệp Học viện Y học Thuộc địa Paris, năm 1925 tốt nghiệp Bác sĩ y khoa. Từng là hội viên Hội Da bệnh học và Giang mai học Pháp quốc, hội viên sáng lập công đoàn quốc gia Da bệnh học, Hoa liễu học thuộc cộng đồng sử dụng tiếng Pháp. Năm 1926 giữ chức Viện trưởng Viện Y tế Dự phòng Sài Gòn cho đến năm 1944. Năm 1945 ông tham gia hoạt động xã hội, có mặt trong các tổ chức chống Pháp tại Sài Gòn. Ông từng khẳng định: \"Pháp phải nhìn nhận Việt Nam độc lập, Việt Nam sẽ là một nước hội viên của Liên hiệp Pháp\" (Le Trait d'union). Năm 1946 ông tham gia hội nghị Trù bị Pháp Việt tại Đà Lạt trong thành phần cố vấn, nhưng sau đó bị Pháp bắt trục xuất về Sài Gòn trước sự công phẫn của phái đoàn Việt Nam. Ông là tác giả nhiều công trình nghiên cứu y học và xã hội học. Các tác phẩm của ông hầu hết được viết bằng tiếng Pháp và có giá trị khoa học cao, riêng về y khoa có hơn 90 chuyên đề."
 }

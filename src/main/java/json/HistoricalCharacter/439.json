@@ -1,18 +1,16 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Mậu Thân 1788",
-  "hometown" : "huyện, quan huyện ra bài thơ đầu đề là Thái tông vi tử (con vua Đường Thái tông) đề thử tài",
-  "occupation" : "Danh sĩ đời Lê mạt, con trai Đồng Bình Công",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê huyện Cư Phong, quận Cửu Chân (Thanh Hóa)",
+  "occupation" : "Liệt sĩ trong thời Bắc thuộc",
   "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Đồng Bình Công" : null
-  },
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34
+    "Bắc thuộc lần 1" : 6
   },
   "id" : 439,
-  "entityName" : "Đồng Thì Thấu",
+  "entityName" : "Châu Đạt",
   "aliases" : [ ],
-  "overview" : "Ông Uyên bà Đậu phết tì tì, Đẻ được thằng Dân tốt hữu vi, Rộng rãi lòng nhân loài bác Hán, Lăm le chí cả có cô Tùy, Trong nhà con đỏ lon ton chạy, Ngoài cửa tên Man khép nép quì. Nỡ để cha ngồi nơi nắng cực, Đạo con nào có thảo ngay gì ? Quan huyện giận, bác đơn không cho ứng thí. Sau đó, ông tìm đến yết kiến một hoàng tử của vua Lê, trổ tài học, tình nguyện giúp mưu để đương đầu với chúa Trịnh đương hoành hành. Hoàng tử mừng lắm, ra đề bài phú \"Ngộ hội chân quân thần\" để xem tài ông, chưa dứt một hồi trống ông đã làm xong bài. Từ ấy, ông được trọng dụng. Nhưng chẳng bao lâu ông thảo tờ hịch đánh họ Trịnh, rồi cử binh đại chiến, bị thua và tử trận."
+  "overview" : "Canh tí 160, ông khởi nghĩa chống quân Hán. Đầu tiên ông chỉ huy dân quân tiêu diệt viên huyện lịnh tàn ác ở huyện Cư Phong, rồi tiến đánh khắp nơi trong quận Cửu Chân, giết chết thái thú là Nghê Thức. Đô úy giặc là Nguy Lãng chống không nổi bỏ chạy, ông tiến chiếm luôn vùng quần Nhật Nam. Hán hoàng đế sai Hạ Phương sang làm thứ sử. Hạ Phương dẫn quân sang, đàn áp hung bạo và mua chuộc đám tay sai. Thế yếu, lực lượng kháng chiến của Châu Đạt dần dần bị tiêu hao, tan rã. Dù thế, trong bản ghi tên những hào kiệt chống xâm lăng, Châu Đạt vẫn đáng được muôn đời tưởng niệm."
 }

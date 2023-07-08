@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Bính Thìn 1568",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê làng Hoàng Liệt, hạt Thanh Trì, tỉnh Hà Đông (nay thuộc Hà Nội)",
-  "occupation" : "Danh thần đời Lê Kính tông",
+  "dateOfBirth" : "1474",
+  "dateOfDeath" : "1518",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34
+    "nhà Lê" : null
   },
   "id" : 1679,
-  "entityName" : "Bùi Cầu",
+  "entityName" : "Đỗ Nhạc",
   "aliases" : [ ],
-  "overview" : "Ông nổi tiếng văn học, mãi đến năm Hoằng Định 20 (1619) khi đã 51 tuổi ông mới ứng thí, đỗ tam giáp đồng tiến sĩ. Làm quan đến Đề hình giám sát ngự sử, tính khảng khái cương trực, được dân chúng cảm phục, và sĩ phu mến yêu."
+  "overview" : "Đỗ Nhân (1474 - 1518) là đại thần nhà Lê sơ trong lịch sử Việt Nam."
 }

@@ -1,16 +1,17 @@
 {
   "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "hometown" : "quê làng Ngoại Lãng, huyện Thư Trì, tỉnh Nam Định",
+  "occupation" : "Văn thần đời Lê Uy Mục",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "nhà Lê" : null
+    "Nam - Bắc Triều" : 19,
+    "Triều Lê Sơ" : 7
   },
   "id" : 2434,
-  "entityName" : "Nguyễn Văn Giai",
+  "entityName" : "Đỗ Oánh",
   "aliases" : [ ],
-  "overview" : "Nguyễn Văn Giai (chữ Hán: 阮文階, 1553 - 1628 ) là một Tam nguyên Hoàng giáp, từng giữ chức Tể tướng, tước Thái bảo, Quận công, công thần \"khai quốc\" thời Lê trung hưng, nổi tiếng chính trực và biết giữ nghiêm pháp luật triều đình, được nhà Lê xét công đánh nhà Mạc, ông đồng thời cũng là một nhà thơ"
+  "overview" : "Năm Mậu thìn 1508, ông đỗ Tam giáp tiến sĩ. Ông nổi tiếng văn học, tính khảng khái cương trực, có tiết nghĩa, làm đến Thượng thư bộ Lễ. Đinh hợi 1527, Mạc Đăng Dung tiếm ngôi, ông về quê ở ẩn, không ra làm quan với nhà Mạc. Khí tiết được nhân dân đương thời mến phục. Trong cơn loạn lạc, ông vẫn vì dân mà cứu loạn, bỏ mình trong khói lửa chiến tranh. Ông được phong Phúc thần. Có đền thờ ở quê ông, tục gọi đền thờ Đỗ Thượng thư."
 }

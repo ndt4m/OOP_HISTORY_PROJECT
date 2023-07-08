@@ -1,14 +1,16 @@
 {
   "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "hometown" : "không rõ quê quán",
+  "occupation" : "Tổ sơn mài Việt Nam, đại thần đời Lê Nhân tông",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Triều Lê Sơ" : 7
+  },
   "id" : 3082,
-  "entityName" : "Trương Khiên",
-  "aliases" : [ "Tử Văn" ],
-  "overview" : "Trương Khiên (giản thể: 张骞; phồn thể: 張騫; bính âm: Zhang Qian; Wade–Giles: Chang Ch'ien, 164—114 TCN), tự Tử Văn, người Thành Cố, Hán Trung , nhà lữ hành, nhà ngoại giao, nhà thám hiểm kiệt xuất đời Tây Hán trong lịch sử Trung Quốc, có đóng góp to lớn trong việc mở ra con đường Tơ Lụa, kết nối giao thông nhà Hán với các nước Tây Vực."
+  "entityName" : "Trần Tướng Công",
+  "aliases" : [ ],
+  "overview" : "Ông làm quan đời Lê Nhân tông, được cử đi sứ Trung Hoa. Khi đi qua tỉnh Hồ Nam bên Trung Hoa, ông thấy những người thợ thủ công ở đây làm những bức sơn mài và các thứ đồ dùng bằng sơn mài rất đẹp. Ông lưu lại ít ngày xin học nghề, được những người thợ mến khách tận tình truyền nghề. Lúc về nước ông đem nghề sơn mài ra truyền dạy lại cho những người thợ Việt Nam, tạo nên một nghề mới ngày càng tinh xảo như hiện nay. Do đó ông được giới sơn mài tôn làm sư tổ."
 }

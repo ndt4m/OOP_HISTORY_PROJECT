@@ -1,16 +1,14 @@
 {
-  "dateOfBirth" : "1445",
+  "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Tả thị lang bộ Lại (khi sống) Thượng thư bộ Lễ (truy tặng)",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Lê sơ" : null
-  },
+  "eraName" : { },
   "id" : 283,
-  "entityName" : "Trần Năng",
-  "aliases" : [ ],
-  "overview" : "Trần Năng (sinh 1445) là tả thị lang bộ Lại thời Lê sơ đậu hoàng giáp năm 1493. Ông được truy tặng thượng thư bộ Lễ sau khi qua đời."
+  "entityName" : "Nguyễn Nghi",
+  "aliases" : [ "Nguyễn Văn Nghi" ],
+  "overview" : "Nguyễn Nghi hay Nguyễn Văn Nghi là một tên người Việt. Một số nhân vật cùng mang tên này như:"
 }

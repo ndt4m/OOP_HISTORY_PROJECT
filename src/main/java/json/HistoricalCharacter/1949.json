@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Canh Tí 1960",
+  "hometown" : "Tây Ninh",
+  "occupation" : "Liệt sĩ hiện đại, nhiệt thành yêu nước, có tinh thần cách mạng rất cao.",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "nhà Trần" : null
+    "Nước Việt Nam mới" : 29
   },
   "id" : 1949,
-  "entityName" : "Bùi Bá Kỳ",
+  "entityName" : "Hoàng Lệ Kha",
   "aliases" : [ ],
-  "overview" : "Bùi Bá Kỳ (chữ Hán: 裴伯耆, ? - ?) là một võ tướng thời nhà Trần và thời thuộc Minh trong lịch sử Việt Nam."
+  "overview" : "Ông là một cán bộ lãnh đạo có nhiều cống hiến, một chiến sĩ cộng sản kiên cường bất khuất ở tỉnh Tây Ninh. Mật vụ Mĩ - Diệm bắt ông và kết án tử hình, hành quyết trong năm 1960. Sau luật 10-59 Ngô Đình Diệm, tay sai lê máy chém đi tàn sát những người yêu nước, Hoàng Lê Kha là người đầu tiên bị chúng giết. Gương đấu tranh kiên cường và sự hi sinh của ông được Tổ quốc ghi ơn."
 }

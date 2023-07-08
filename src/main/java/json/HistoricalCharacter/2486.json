@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Danh thần đời Tiền Lê",
+  "dateOfBirth" : "1811\n----------------------------------------------\nNhâm Thân 1812",
+  "dateOfDeath" : "1863\n----------------------------------------------\nKhông rõ",
+  "hometown" : "quê xã Trung Cần, tổng Trung Cần, huyện Thanh Chương, tỉnh Nghệ An",
+  "occupation" : "Danh sĩ đời ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Tiền Lê" : 8
+    "Nhà Nguyễn độc lập" : 30
   },
   "id" : 2486,
-  "entityName" : "Giang Cự Vọng",
-  "aliases" : [ ],
-  "overview" : "Chính Giang Cự Vọng là người đã thảo bức Quốc thư theo lệnh của Lê Hoàn lấy danh nghĩa Vệ Tương Đinh Huệ dâng vua Tống xin nối ngôi nhà Đinh, nhưng vua Tống bác bỏ. Nhưng Lê Hoàn vẫn nghiễm nhiên trị nước, sẵn sàng đương đầu với nhà Tống. Khi làm quan ông hết lòng phù tá Lê Hoàn, nổi danh là một đại thần vì nước."
+  "entityName" : "Nguyễn Văn Giao",
+  "aliases" : [ "Quất Lâm", "Đức", "Đạm Như" ],
+  "overview" : "Nguyễn Văn Giao (chữ Hán: 阮文交; 1811-1863), hiệu Quất Lâm (橘林), tự là Đạm Như, là một danh sĩ Việt Nam thế kỷ 19.\n----------------------------------------------\nNăm Nhâm tí 1852 đỗ cử nhân. Quí sửu 1853 đỗ Thám hoa lúc 41 tuổi. Làm quan đến Tham biện Nội các và viện Hàn lâm, ông được vua yêu mến, sĩ phu trọng vọng. Các tác phẩm: - Sử luận tập - Tam khôi bị lục - Thập tam kinh thành cú - Quất lâm thi văn - Điệp tư vân - Sách học tân tuyển - Vạn sử vinh sứ..."
 }

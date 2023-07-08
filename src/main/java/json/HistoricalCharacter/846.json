@@ -1,14 +1,17 @@
 {
-  "dateOfBirth" : "585 Đỗ Lăng Kinh Triệu (nay là Trường An thành phố Tây An Thiểm Tây)",
-  "dateOfDeath" : "Ngày mùng 6 tháng 5 năm 630 (46 tuổi) Trường An (nay là thành phố Tây An Thiểm Tây)",
-  "hometown" : "huyện Đỗ Lăng quận Kinh Triệu (nay là Trường An khu Tây An thị tỉnh Thiểm Tây, Trung Quốc)",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Mậu Tí 1888",
+  "dateOfDeath" : "Nhâm Tí 1972",
+  "hometown" : "quê thôn Hòa Viên, xã Hành Phước, huyện Nghĩa Hành, tỉnh Quảng Ngãi",
+  "occupation" : "Chí sĩ hiện đại",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
+  },
   "id" : 846,
-  "entityName" : "Đỗ Như Hối",
-  "aliases" : [ "Khắc Minh" ],
-  "overview" : "Đỗ Như Hối (585 - 6 tháng 5 năm 630), tên chữ Khắc Minh, người huyện Đỗ Lăng quận Kinh Triệu (nay là Trường An khu Tây An thị tỉnh Thiểm Tây, Trung Quốc), là đại thần thời Đường sơ. Ông là một trong những mưu thần chủ yếu phò Lý Thế Dân cướp đoạt chính quyền, khai sáng Trinh Quán chi trị, được Lý Thế Dân trọng dụng. Cùng Phòng Huyền Linh được mọi người xưng tụng \"Phòng mưu đỗ đoạn\" ."
+  "entityName" : "Nguyễn Công Phương",
+  "aliases" : [ ],
+  "overview" : "Năm Ất tị 1905 ông đỗ Nhị trường, nhưng tầy chay kì thi này bỏ về. Ông hoạt động liên tục trong các phong trào yêu nước từ những năm đầu thế kỉ XX. Năm 1930 ông gia nhập Đảng Cộng sản Đông Dương, được cử làm Bí thư huyện ủy, rồi dự bị Bí thư tỉnh ủy Quảng Ngãi. Từ Cách mạng tháng Tám về sau, ông giữ nhiều chức vụ quan trọng của Đảng, Nhà nước và Mặt trận Tổ quốc ở cấp tỉnh, Khu và Trung ương. Ngày 21-8-1972 ông mất, thọ 84 tuổi. Ông có tập hồi kí Một đời và Cách mạng."
 }

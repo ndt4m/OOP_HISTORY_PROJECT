@@ -1,20 +1,17 @@
 {
-  "dateOfBirth" : "Quí Dậu 1873",
-  "dateOfDeath" : "Ất Dậu 1945",
-  "hometown" : "quê làng Đa Phước Hội, huyện Mỏ Cày, tỉnh Bến Tre, con ông Bùi Quang Đại và bà Phan Thị Tuân",
-  "occupation" : "Kĩ sư, nhân vật chính trị",
+  "dateOfBirth" : "Kỉ Mùi 1919",
+  "dateOfDeath" : "Canh Dần 1950",
+  "hometown" : "quê ở Thanh Hóa",
+  "occupation" : "Nhà thơ ",
   "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Bùi Quang Đại" : null
-  },
-  "motherName" : {
-    "Phan Thị Tuân" : null
-  },
+  "fatherName" : { },
+  "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 1279,
-  "entityName" : "Bùi Quang Chiêu",
-  "aliases" : [ ],
-  "overview" : "Ông từng học ở Sài Gòn, rồi sang Pháp, đỗ kĩ sư canh nông. Khi về nước, được bổ làm ở Sở Canh Nông và Tằm tơ ở Tân Châu, tỉnh Châu Đốc. Sau, đổi đi nhiều nơi khác như Huế, Phú Quốc... Ít lâu ông hoạt động chính trị, từng làm Hội đồng quản hạt, Hội đồng kinh tế Lý tài Đông Dương. Năm 1923, ông sáng lập đảng Lập hiến Đông Dương là đảng của giai cấp địa chủ, tư sản Việt Nam ở Nam Kì. Năm 1926, ông sang Pháp vận động sự hợp tác \"Pháp Việt đề huề\". Năm 1930, khi cao trào Xô viết Nghệ Tĩnh bùng lên, đảng Lập hiến đứng về phía chính quyền và trở thành tay chân của bọn cai trị ở thuộc địa, tán thành sự đàn áp các phong trào cách mạng! Anh ông là Bùi Quang Trứ thường khuyên ông ta: \"Công thành thân thoái, đừng tham luyến danh lợi\". Năm 1936, ông ta tuyên bố rút lui khỏi chính trường. Đến năm 1945, Nhật thao túng trên lãnh thổ Việt Nam, ông cùng gia đình về Mỏ Cày nhưng không bao lâu lại trở lên Sài Gòn làm tay sai cho thực dân Pháp. Bùi Quang Chiêu bị nhân dân xử tử hình tại Chợ Đệm (Bình Điền) (TP. Hồ Chí Minh) ngày 29-9-1945."
+  "entityName" : "Nguyễn Đức Giới",
+  "aliases" : [ "Thôi Hữu", "Tân Sắc", "Trần Văn Tấn" ],
+  "overview" : "Ông học tại trường Kĩ nghệ thực hành Huế. Từ năm 1939, ông bắt đầu sáng tác văn chương, có thơ đăng ở báo Bạn Đường (Thanh Hóa). Giác ngộ cách mạng ông bỏ học từ năm 1940 làm nghề thợ điện, tích cực hoạt động trong đoàn Thanh niên Dân chủ. Năm 1943 tham gia các tổ chức bí mật hoạt động ở Hà Nội, năm sau ông bi bắt, rồi vượt nguc, tham gia Hội Văn hóa Cứu quốc. Sau Cách mạng tháng Tám ông cộng tác các báo Sự Thật, Thủ Đô (của Liên khu I), Vệ Quốc quân (của Quân đội Nhân dân). Ngày 16-12-1950 ông hi sinh trên đường đi công tác trong vụ oanh tạc của máy bay Pháp, hưởng dương 31 tuổi. Thơ văn ông được hoan nghênh qua các bài: - Lên Cấm Sơn - Xe trâu - Lời cô lái đò - Đi tuần - Sau luỹ tre xanh Và các phóng sự: - Đi vào sau địch - Tù binh đường số 4..."
 }

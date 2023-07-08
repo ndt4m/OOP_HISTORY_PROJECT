@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê làng Nhật Tảo, tỉnh Tân An (nay là Long An)",
-  "occupation" : "Chí sĩ cận đại",
+  "dateOfBirth" : "Ất Mão 1915",
+  "dateOfDeath" : "Canh Thân 1980",
+  "hometown" : "quê tỉnh Bắc Ninh (nay vẫn thuộc tỉnh Bắc Ninh) cư ngụ tại Hà Nội",
+  "occupation" : "Nhà văn, Nhà lí luận văn học",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 2909,
-  "entityName" : "Bùi Chí Nhuận",
-  "aliases" : [ ],
-  "overview" : "Ông nhiệt tình yêu nước, tận tụy hoạt động cứu nước, rất giỏi việc kinh tài. Hưởng ứng phong trào Đông du, năm 1907, ông sang Nhật học tập. Năm 1908 khi chính phủ Nhật câu kết với Pháp gây việc trục xuất du học sinh người Việt, ông bèn sang Xiêm (Thái Lan). Lúc Cường Để ngụ tại ngôi chùa của hòa thượng Phan Tất Chánh ở Xiêm, ông được cử làm thủ quĩ, hiệp với Nguyễn Thân Hiến mở cuộc nghĩa quyên lấy tiền gây dựng cơ sở cứu nước. Năm 1913, ngày 9 thảng 4, ông bị bắt tại Xiêm, giải về nước cuối năm ấy, bị kết án khổ sai chung thân, và bị đày ra Côn Đảo. Sau được thả, ông về Tân An sống với nghề đông dược, đến già vẫn chẳng đổi lòng."
+  "entityName" : "Đinh Gia Trinh",
+  "aliases" : [ "Diệu Anh" ],
+  "overview" : "Xuất thân trong gia đình công chức thời Pháp thuộc, thuở nhỏ học tại Trường Bưởi, Đại học Luật Đông Dương. Tốt nghiệp cử nhân luật, năm 1940 thi đỗ Tri huyện thuộc ngành Tư pháp. Làm Tri huyện một thời gian ngắn, ông từ nhiệm, về Hà Nội dạy tư tại Trường Gia Long nơi qui tụ nhiều nhà văn, nhà hoạt động có khuynh hướng chống Pháp. Từng là thành viên Hội Tân Việt Nam, Đảng Dân chủ Việt Nam. Ông có chân trong Ban Biên tập báo Thanh Nghị, biên tập viên chuyên về văn học Tây phương, giữ các mục phê bình văn học, thơ, tiểu thuyết hiện đại Việt Nam của báo này. Sau năm 1946 đắc cử đại biểu Quốc hội Khóa I, Ủy viên Ban soạn thảo hiến pháp năm 1946. Toàn quốc kháng chiến ông tham gia kháng chiến tại Việt Bắc. Sau năm 1954 công tác tại Hà Nội, giữ các chức vụ: Phó Tổng thư ký Hội Luật gia Việt Nam, ủy viên Ban đấu tranh chống tội ác đế quôc Mỹ, Biên tập viên tạp chí Luật học... Ông mất năm 1980, thọ 65 tuổi."
 }

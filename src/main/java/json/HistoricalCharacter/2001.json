@@ -1,19 +1,16 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "1625 Thăng Long, Đại Việt\n----------------------------------------------\nẤt Sửu 1625",
-  "hometown" : "xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách, tỉnh Hải Dương, Việt Nam).\n----------------------------------------------\nKhông rõ",
-  "occupation" : "Hoàng đế Đại Việt (nhà Mạc thời hậu kì)\n----------------------------------------------\nVua đời thứ bảy nhà Mạc, con thứ của Khiêm vương Mạc Kính Điển, em vua Mạc Kính Chỉ.",
-  "workTenure" : "1592 – 1625\n----------------------------------------------\nKhông rõ",
-  "fatherName" : {
-    "Mạc Kính Điển" : 2385
-  },
+  "dateOfBirth" : "Đinh Mão 1807",
+  "dateOfDeath" : "Bính Thìn 1856",
+  "hometown" : "quê ở Tòng Sơn, Cái Tàu thượng, tổng An Thạnh thượng, tỉnh Sa Đéc (nay thuộc tỉnh Đồng Tháp)",
+  "occupation" : "Tu sĩ người được nhân dân vùng An Giang đương thời gọi là Đức Phật thầy Tây An",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Mạc" : 18,
-    "Nam - Bắc Triều" : 19
+    "Nhà Nguyễn độc lập" : 30
   },
   "id" : 2001,
-  "entityName" : "Mạc Kính Cung",
-  "aliases" : [ "Mạc Kính Cung (莫敬恭)", "Niên hiệu Càn Thống (1623-1625)" ],
-  "overview" : "Mạc Kính Cung (chữ Hán: 莫敬恭, ? - 1625) là vua nhà Mạc thời hậu kỳ, khi Bắc triều chấm dứt với cái chết của cha con Mạc Mậu Hợp và Mạc Toàn. Nguyên quán Mạc Kính Cung là người xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách, tỉnh Hải Dương, Việt Nam).\n----------------------------------------------\nLúc đầu ông được vua Mạc Mậu Hợp phong tước là Đôn Hậu vương, đến khi Mậu Hợp bị bắt giết, ông được Đào Quốc Công Mạc Ngọc Liễn đưa đi trốn lánh, rồi lập lên làm vua, hùng cứ vùng Kim Thành trong khoảng tháng 3 âm lịch Nhâm thìn 1592. Đang khi ấy anh ông là Mạc Kính Chỉ cũng tự lập làm vua ở vùng Nam Giản, Chí Linh, đồng thời có nhiều nhóm khác dấy lên bạo động, gây biến loạn liên miên. Mạc Kính Chỉ mất sớm (Quí tị 1593), ông càng được đông đảo tôn thất và tướng sĩ ủng hộ. Bấy giờ, lại có Trang vương Mạc Kính Chương, Uy vương Mạc Kính Dụng cũng dọc ngang một cõi Cao Bằng xưng vua, nhưng không lâu, Kính Chương bị bắt giết (Bính thân 1596), Kính Dụng cũng chung số phận bị tru diệt (Mậu tuất 1598). Thế là từ đấy Kính Cung thêm đông vây cánh theo ủng hộ, nhất là đưọc mẹ của Mậu Hợp chính thức tuyên bố đứng về phe Kính Cung, thanh thế càng lẫy lừng. Tuy nhiên, áp lực của nhà Lê vẫn mạnh hơn, nên nhiều lúc ông phải bỏ chạy lên Cao Bằng, Lạng Sơn và Long Châu (Trung Quốc), cố sức tìm cách chống lại nhà Lê. Đến năm Ất sửu 1625 ông bị bắt giải về Kinh, chém bêu đâu. Đời ông, sống bấp bênh trên chiếc ngai vàng nhà Mạc trải hơn 33 năm (1592-1625) lâu dài hơn các đời trước"
+  "entityName" : "Đoàn Minh Huyên",
+  "aliases" : [ ],
+  "overview" : "Năm Kỉ dậu 1819, vào mùa thu, bệnh thời khí nhiễu hại dân chúng Hậu Giang. Ông từ Tòng Sơn vào Tràm Dư, rồi đến vùng Kiến Thạnh (nay là làng Long Kiến, tỉnh An Giang) đem tài giúp đỡ dân chúng. Tín đồ ông đều được phát một tông phái ghi 4 chữ Bửu Sơn kì hương. Nhiều lúc ông bị nhà cầm quyền An Giang bắt giữ vì nghi ngờ ông hoạt động chính trị, nhưng xét không bằng cớ, phải trả tự do cho ông. Khoảng năm 1849-1856. Ông đến các phần đất phía tây Thất Sơn và Láng Linh, dựng chùa, lập trại ruộng và luôn luôn vân du khắp vùng Vĩnh Long - An Giang. Trại ruộng ở Thới Sơn, ông đặt danh hiệu là \"Bửu hương các\" có nhiều nguời đến tu học. Ông mất vào ngày 12-8 năm Bính thìn (1856) tại chùa Tây An (núi Sam, Châu Đốc). Mộ ông hiện còn tại chùa Tây An. Tuy là một tu sĩ, nhưng Đoàn Minh Huyên còn là một nhà yêu nước, nhà dinh điền lớn có công khai hoang miền đất Hậu Giang. Ông là tác giả nhiều thơ văn giảng giải về lí thuyết đạo Phật theo phái Bửu Sơn kì hương do ông đề xướng tại Châu Đốc. Các kinh kệ gồm: - Chuẩn đề chú - Thái dươngkinh - Khai kinh kệ - Thái âm kinh đã được in thành sách được phát hành rộng rãi ở Hậu Giang và Sài Gòn trước."
 }

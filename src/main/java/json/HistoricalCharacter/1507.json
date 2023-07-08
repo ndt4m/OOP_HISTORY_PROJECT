@@ -1,16 +1,19 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Quê xã Động Bàng, huyện An Định, 1ộ Thanh Hoa (nay thuộc huyện Triệu Yên, tỉnh Thanh Hóa)",
-  "occupation" : "Cha ruột Quang Thục hoàng thái hậu Ngô Thị Ngọc Dao",
+  "dateOfBirth" : "Mậu Ngọ 1918",
+  "dateOfDeath" : "Tân Dậu 1981",
+  "hometown" : "Thừa Thiên-Huế",
+  "occupation" : "Nhà văn ",
   "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "fatherName" : {
+    "thứ ông Hoàng Trọng Đàn" : null
+  },
   "motherName" : { },
   "eraName" : {
-    "Triều Lê Sơ" : 7
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 1507,
-  "entityName" : "Ngô Từ",
+  "entityName" : "Hoàng Trọng Miên",
   "aliases" : [ ],
-  "overview" : "Thân phụ ông là Ngô Kinh, xuất thân nghèo khổ, nên cha ông từng làm người giúp việc của Lê Khoáng (cha Lê Lợi) còn ông thì theo hầu Lê Lợi. Đến khi cuộc khởi nghĩa Lam Sơn phát động, Lê Lợi được tôn làm minh chủ tức Bình Định vương, cha con ông tận tụy theo phục vụ, phụ trách trang trại sản xuất lương thực quân nhu và tiếp nhận người đến tham gia khởi nghĩa. Đuổi xong giặc Minh, Lê Lợi lên ngôi tức Lê Thái tổ phong cho cha ông làm Thái phó, ông là Thái bảo. Về sau con gái ông là Ngô Thị Ngọc Dao được tuyển vào cung làm Tiệp dư, hầu hạ Lê Thái tông, sinh hoàng tử Tư Thành. Đến khi Tư Thành lên ngôi tức Lê Thánh tông, con gái ông là Hoàng thái hậu, có xây dựng tòa đền đặt tên là Thuần Mậu Đường để thờ phụng tổ tiên họ Ngô."
+  "overview" : "Thuở nhỏ học ở Huế, từ năm 1935- 1936 bắt đầu cầm bút với tác phẩm Thâm cung bí sử đăng trên các báo ở Huế. Sau đó vào Nam làm chủ bút báo Người Mới và cộng tác với các báo: Điện Tín, Trong Khuê phòng cùng với Chế Lan Viên, Hàn Mặc Tử... Năm 1945 về Huế cung Bửu Tiến, Lưu Trọng Lư, Bùi Tuân, Trần Thanh Địch... Lập đoàn kịch Trọng Miên. Tiếp đến toàn quốc kháng chiến, mặt trận Huế vỡ, ông tản cư ra Thanh Hóa làm trưởng đoàn xung phong sản xuất cùng với Cao Minh Chiếm, Nguyễn Đức Nùng. Năm 1950 gia nhập Ban văn nghệ Sư đoàn 320 cùng với Bửu Tiến, Giang Tân, Ph.D diễn vở kịch Dưới bóng thánh giá do ông sáng tác. Năm 1952 vào Nam viết văn, làm báo; sau năm 1954 dạy môn kịch nghệ tại trường Quốc gia âm nhạc và kịch nghệ Sài Gòn và cộng tác với các báo: Đời Mới, Quyết Tiến, Điện ảnh, Kịch ảnh, Đuốc Nhà Nam... Các tác phẩm: Tiểu thuyết: - Thâm cung bí sử (1936) - Chỉ vì yêu (kí Hoàng Thu Đông) - Đệ nhất phu nhân I, II (1988) - Nghệ thuật sống (sách học làm người, kí Hoàng Thu Đông). Biên khảo: - Việt Nam văn học toàn thư I (1959, Quốc Hoa, Sài Gòn) - Việt Nam văn học toàn thư II (1960, Văn Hữu, Sài Gòn). - Việt Nam văn học toàn thư III (1973, Tiếng Phương Đông, Sài Gòn). - Văn hóa Việt Nam - Dưới bóng thánh giá (kịch đã công diễn nhiều nơi)."
 }

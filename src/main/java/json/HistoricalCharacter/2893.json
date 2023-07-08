@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
+  "dateOfBirth" : "1378",
+  "dateOfDeath" : "1437",
   "hometown" : "Không rõ",
   "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "nhà Hán" : null
+    "nhà Lê" : null
   },
   "id" : 2893,
-  "entityName" : "Lý Quảng",
-  "aliases" : [ "Wade–Giles: Li Kuang" ],
-  "overview" : "Lý Quảng (chữ Hán: 李廣, phiên âm Wade–Giles: Li Kuang, bính âm: Li Guang, ? - 119 TCN), còn có biệt danh là Phi tướng quân (飛將軍), là một võ tướng dưới thời nhà Hán trong lịch sử Trung Quốc, người Lũng Tây, nổi tiếng là biệt tài cưỡi ngựa bắn cung. Theo ghi chép trong bộ Sử ký của Tư Mã Thiên thì Lý Quảng là con cháu của Lý Tín và là tổ tiên của các vị vua nhà Đường (theo Cựu và Tân Đường thư). Trong khoảng thời gian cầm quân của mình, Lý Quảng nhiều lần tham gia các chiến dịch chống lại bộ tộc Hung Nô ở miền bắc Trung Quốc. Năm 119 TCN, do sơ suất trong một lần ra trận giao tranh với Hung Nô nên ông hội quân trễ với các cánh quân khác và vô tình tạo điều kiện cho thiền vu Hung Nô trốn thoát, nên bị đưa ra xét xử. Do cho đó là một sự sỉ nhục, Lý Quảng đã tự sát."
+  "entityName" : "Nguyễn Nhữ Lãm",
+  "aliases" : [ "Lê Nhữ Lãm" ],
+  "overview" : "Nguyễn Nhữ Lãm hay Lê Nhữ Lãm(chữ Hán: 阮汝覧, 1378-1437) là công thần khai quốc nhà Lê sơ trong lịch sử Việt Nam."
 }

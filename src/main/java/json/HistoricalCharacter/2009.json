@@ -1,20 +1,16 @@
 {
-  "dateOfBirth" : "571 Tam Nguyên, Hàm Dương, Thiểm Tây",
-  "dateOfDeath" : "2 tháng 6, 649",
-  "hometown" : "huyện Tam Nguyên, Ung Châu (nay là huyện Tam Nguyên, tỉnh Thiểm Tây Trung Quốc)",
-  "occupation" : "Binh bộ Thượng thư, Trung thư lệnh",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Khánh Thọ, huyện Hà Đông - sau đổi là Tam Kì, tỉnh Quảng Nam (nay thuộc xã Tam Thái, huyện Phú Ninh, tỉnh Quảng Nam), không rõ năm sinh, năm mất",
+  "occupation" : "Danh sĩ, quê làng Khánh Thọ",
   "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Lý Thuyên" : null
-  },
-  "motherName" : {
-    "Hàn phu nhân" : null
-  },
+  "fatherName" : { },
+  "motherName" : { },
   "eraName" : {
-    "nhà Đường" : null
+    "Nhà Nguyễn độc lập" : 30
   },
   "id" : 2009,
-  "entityName" : "Lý Tĩnh",
-  "aliases" : [ "Cảnh Vũ (景武)", "Lý Vệ Công", "Dược Sư", "Dược Sư (药师)" ],
-  "overview" : "Lý Tĩnh (chữ Hán: 李靖; 571 - 649), biểu tự Dược Sư (药师) , người huyện Tam Nguyên, Ung Châu (nay là huyện Tam Nguyên, tỉnh Thiểm Tây Trung Quốc), là tướng lĩnh và khai quốc công thần nhà Đường, một trong 24 vị công thần được vẽ hình để thờ phụng trong Lăng Yên Các và về sau từng đảm nhận chức vụ Tướng quốc. Ông có công diệt Đông Đột Quyết, Thổ Cốc Hồn, sau được phong làm Vệ Quốc công nên còn gọi là Lý Vệ Công (李卫公). Lý Tĩnh và Lý Thế Tích được coi là hai vị tướng xuất sắc nhất thời Sơ Đường."
+  "entityName" : "Phan Văn Xưởng",
+  "aliases" : [ "Tam Kì" ],
+  "overview" : "Ông nhiệt thành yêu nước, khi giặc Pháp xâm lăng ông cùng với hoàng giáp Tam Đăng Phạm Văn Nghị từng sát cánh kêu gọi nhân dân nổi dậy chống quân cướp nước, chỉ huy đạo quân tiến đánh Pháp tại Đà Nẵng. Khi làm Án sát, có lúc bị cách chức và đưa đi Thái Nguyên. Trên đường đi ông ghé thăm Phạm Văn Nghị, cụ Hoằng giáp trao tặng ông bài thơ: \"Cổ nhân kim nhật nại thiên hà? Cực Bắc cùng Nam đại khảm kha. Đáo hải hữu thi hoài phận mệnh, Phùng thu cương tửu mạc bi ca. Tráng hoài bất vị phong sương biến, Khoan điểm nhưng tri vũ lộ đa. Qui lộ khả năng trùng kiến phỏng, Tặng quân lão phố độc hoàng hoa.\" Bản dịch: Ngày nay, việc bác biết kêu trời, Hết Bắc rồi Nam trắc trở hoài. Góc bể, câu thơ, âu số phận, Trời thu chén rượu há bi ai. Móc mưa, khoan hậu ơn đâu ít, Sóng gió, kiên cường, chí chớ phai. Trở lại, ví dù còn gặp gỡ, Quà riêng dành tặng cúc vàng thôi."
 }

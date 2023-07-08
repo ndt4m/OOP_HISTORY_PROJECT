@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Võ tướng đời Lê Hiển tông",
+  "dateOfBirth" : "Nhâm Dần 1902",
+  "dateOfDeath" : "Đinh Mão 1987",
+  "hometown" : "quê ở Mĩ Trà, Cao Lãnh (nay thuộc tỉnh Đồng Tháp)",
+  "occupation" : "Luật sư, nhà báo",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 373,
-  "entityName" : "Bùi Thế Dận",
-  "aliases" : [ ],
-  "overview" : "Năm 1766 Tây Sơn cất quân ra đánh Bắc Hà, các đạo quân do Nguyễn Hữu Chỉnh chỉ huy đánh đâu thắng đấy, kéo thẳng tới Sơn Nam. Lúc này ông đang trấn thủ ở đấy, điều động bộ binh xuống đóng ở xã Phù Sa, thuộc huyện Đông An, chống nhau với Nguyễn Hữu Chỉnh. Thua to, Sơn Nam thất thủ. Từ ấy tên tuổi ông mờ dần, thời oanh liệt không còn nữa. Ông cùng các tướng Bùi Thế Toại, Tạ Danh Thùy, Đinh Tích Nhưỡng, Trịnh Tự Quyền được vua Lê phong tước Liên Trung Hầu."
+  "entityName" : "Phan Văn Thiết",
+  "aliases" : [ "Thân Việt" ],
+  "overview" : "Ông thông thạo pháp luật, từng mở phòng dịch vụ giúp đỡ nhân dân về mặt pháp lí, hoạt động có tiếng ở Sài Gòn. Rồi làm chủ nhiệm kiêm chủ bút hai tờ tuần báo Tân Văn, Thế giới Tân văn rất có giá trị. Ông từng viết nhiều loạt bài chính luận, cộng tác ở các nhật báo tại Sài Gòn và có lúc bị chính quyền thực dân bắt giam vì tình nghi chính trị. Các tiểu phẩm của ông đăng trên các báo đều được hoan nghênh. Ông có xuất bản tập NAM THI HIỆP TUYỂN trong năm 1950 đóng góp vào kho tàng văn hóa dân tộc khá nhiều tư liệu quí. Ngày 20-10-1987 ông mất, thọ 85 tuổi. Bài thơ châm biếm đám quan lại tay sai, ông khéo dùng từ ngữ khiến mọi người đều khen ngợi, tán thưởng. Quan lớn \"quan lòn\" quan lớn ai? Lòn quen quan lớn khéo làm sai. Oai chi quan lớn quan lòn ấy, Quan lớn, lòn quen quan lớn chai. (Ông có giải thích thêm danh từ Quan lớn đọc trại theo giọng dân Khmer nghe như \"Quan lợn\" (quan heo) và \"Quan lòn\")."
 }

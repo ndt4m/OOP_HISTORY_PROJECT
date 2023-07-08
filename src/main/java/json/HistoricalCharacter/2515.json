@@ -1,16 +1,14 @@
 {
-  "dateOfBirth" : "1474",
-  "dateOfDeath" : "1518",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
   "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "nhà Lê" : null
-  },
+  "eraName" : { },
   "id" : 2515,
-  "entityName" : "Đỗ Nhạc",
+  "entityName" : "Nguyễn Hữu Cầu",
   "aliases" : [ ],
-  "overview" : "Đỗ Nhân (1474 - 1518) là đại thần nhà Lê sơ trong lịch sử Việt Nam."
+  "overview" : "Nguyễn Hữu Cầu có thể là:"
 }

@@ -2,15 +2,13 @@
   "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Thiêm đô ngự sử",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Lê sơ, Mạc" : null
-  },
+  "eraName" : { },
   "id" : 2143,
-  "entityName" : "Nguyễn Văn Kiệt",
+  "entityName" : "Lý Tín",
   "aliases" : [ ],
-  "overview" : "Nguyễn Văn Kiệt là thiêm đô ngự sử thời Lê sơ, đỗ đồng tiến sĩ vào năm 1502."
+  "overview" : "Lý Tín (Chữ Hán: 李信) là một tướng nước Tần cuối thời Chiến Quốc."
 }

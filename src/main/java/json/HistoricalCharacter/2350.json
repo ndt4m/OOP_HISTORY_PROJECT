@@ -1,14 +1,19 @@
 {
-  "dateOfBirth" : "15 tháng 1, 1910 Quảng Trị, Liên bang Đông Dương",
-  "dateOfDeath" : "21 tháng 8, 1993 (83 tuổi) Hà Nội, Việt Nam",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "occupation" : "Vua",
+  "workTenure" : "944 – 950\n----------------------------------------------\n944—950",
+  "fatherName" : {
+    "Dương Đình Nghệ" : 2021
+  },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Nhà Ngô" : 25,
+    "Nhà Ngô và Dương Tam Kha" : 25
+  },
   "id" : 2350,
-  "entityName" : "Trần Hữu Dực",
-  "aliases" : [ ],
-  "overview" : "Trần Hữu Dực (1910–1993) là một cựu chính khách Việt Nam. Ông từng là Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, Đại biểu Quốc hội, Phó Thủ tướng Chính phủ, Bộ trưởng Phủ Thủ tướng, Viện trưởng Viện Kiểm sát Nhân dân Tối cao nước Cộng hòa Xã hội Chủ nghĩa Việt Nam."
+  "entityName" : "Dương Bình Vương",
+  "aliases" : [ "Dương Tam Kha (楊三哥) Dương Chủ Tướng (楊主將) Dương Thiệu Hồng (楊紹洪)" ],
+  "overview" : "Dương Tam Kha (chữ Hán: 楊三哥), tức Dương Bình Vương (楊平王) là một vị vua Việt Nam, trị vì từ 944 đến 950, xen giữa nhà Ngô trong lịch sử Việt Nam.\n----------------------------------------------\nDương Tam Kha (chữ Hán: 楊三哥, ? - 980), tức Dương Bình Vương (楊平王), là một vị vua Việt Nam, trị vì từ 944 đến 950, xen giữa triều đại nhà Ngô trong lịch sử Việt Nam."
 }

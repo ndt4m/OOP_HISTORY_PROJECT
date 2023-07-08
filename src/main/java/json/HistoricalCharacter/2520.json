@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Đinh Mão 1867",
-  "dateOfDeath" : "Mậu Dần 1938",
-  "hometown" : "Không rõ",
-  "occupation" : "Ông cũng có tên là Hoàng Trọng Minh, nhưng thường mang tên người em là Hoàng Trọng Trì. Liệt sĩ cách mạng.",
+  "dateOfBirth" : "1823\n----------------------------------------------\nQuí Mùi 1823",
+  "dateOfDeath" : "1890\n----------------------------------------------\nCanh Dần 1890",
+  "hometown" : "quê làng Gia Lâm, huyện Đông Ngàn, tỉnh Bắc Ninh",
+  "occupation" : "Danh sĩ triều Nguyễn",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Pháp đô hộ" : 11,
+    "Nhà Nguyễn độc lập" : 30
   },
   "id" : 2520,
-  "entityName" : "Hoàng Bá Huân",
-  "aliases" : [ "Hoàng Trọng Minh", "Hoàng Trọng Trì" ],
-  "overview" : "Ông tham gia Đảng Tân Việt, sau gia nhập Đảng Cộng sản Đông Dương. Ông từng làm Bí thư chi bộ Lộc Đa, rồi Bí thư Tổng hội Nông hội Nghệ An. Ông là một trong những nguời lãnh đạo cuộc biểu tình ngày 1-5-1930 ở Vinh, BếnThủy. Lúc phong trào Xô Viết ở Nghệ Tĩnh lên cao, ông bị bắt cuối tháng 5-1930 và bị kết án tử hình, sau giảm xuống tù chung thân; bị giam ở nhiều nơi, sau đi đày ở Guyane. Năm 1937, ông được trả tự do, năm sau thì mất (1938) thọ 71 tuổi. Ông có những bài thơ hiệu triệu công nông và nhiều thơ văn cách mạng được truyền tụng. Hoàng Bá Huân là một chiến sĩ tiên phong của Đảng Cộng sản Việt Nam."
+  "entityName" : "Nguyễn Tư Giản",
+  "aliases" : [ "Tư Giản", "Thân Thúc", "Văn Lộc", "Vân Lộc", "Thạch Nông", "Nguyễn Văn Phú", "Tuân Thúc" ],
+  "overview" : "Nguyễn Tư Giản (阮思僩, 1823–1890), trước có tên: Văn Phú, Địch Giản, sau mới đổi lại là Tư Giản, tự: Tuân Thúc(洵叔), Hy Bật, hiệu: Vân Lộc(雲麓) và Thạch Nông(石農). Ông là một danh sĩ và là một vị quan từng trải qua những chức vụ trọng yếu suốt gần 40 năm, phục vụ 7 đời vua nhà Nguyễn ở Việt Nam.\n----------------------------------------------\nNăm Giáp thìn 1844, ông đỗ Hoàng giáp mới 21 tuổi, làm Hàn lâm tu soạn, rồi trải qua các chức Binh khoa cấp sự trung Quan Lộc tự khanh, sung Nội các sự vụ, Hữu thị lang bộ Lại sung Biện lí đô chánh sự vụ ở Bắc Kì. Khi Tạ Văn Phụng dấy quân vùng Bắc Ninh, Hải Dương, ông làm Tham tán quân vụ dưới quyền chỉ huy của Trương Quốc Dụng. Thua trận, ông bị cách chức phải đi Tiền quân hiệu lực, đến khi Tạ Văn Phụng bị đàn áp, ông được phục chức Hàn lâm tu soạn (1864), rồi thăng Hồng lô tự khanh và sung vào phái bộ đi sứ Trung Quốc. Trở về, ông cùng nhóm Nguyễn Trường Tộ, Nguyễn Đức Hậu, Bùi Viện dâng nhiều bản điều trần lên triều đình xin duy tân cải cách mọi mặt trong nước. Nhóm ông đương thời được xem trọng, coi như một \"tân đảng\". Tuy vậy, chủ trương trên vẫn không được triều đình nghe theo. Năm Ất hợi 1875 ông làm Thượng thư bộ Lại sung Cơ mật viện đại thần, nhưng sau đó bị cách, đổi ra làm Sơn phòng sứ ở Chương Mĩ. Đến năm 1880 mới trở về phục vụ ở Viện Hàn lâm. Năm sau ông từ quan lui về quê ở ẩn. Năm Canh dần 1890 ông mất, thọ 67 tuối. Thơ văn ông được truyền tụng rất nhiều, các tác phẩm chính của ông gồm: - Thần Tiên sách thi tập - Thạch Nông thi tập - Thạch Nông văn tập - Yên Thiền thi thảo - Yên Thiều thi văn tập - Thạch Nông tường thoại cổ lục - Trung ngoại quỳnh giao tập - Yên Thiều bút lục - Như Thanh nhật kí - Tiểu thuyết sơn phòng tập - Vân Điểm Du Lâm Nguyễn tộc hợp phả - Hà phòng tấu nghị"
 }

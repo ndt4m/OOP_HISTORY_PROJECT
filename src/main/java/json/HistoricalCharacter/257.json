@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Đinh Hợi 1647",
-  "dateOfDeath" : "Quí Mão 1723",
-  "hometown" : "Quê làng Phú Hào, huyện Lôi Dương, tỉnh Thanh Hóa",
-  "occupation" : "Danh tướng đời Lê Huyền tông, con Hào Quận Công Lê Thì Hiến, em Trinh Tường Hầu Lê Thì Kinh, và Thạc Quận Công Lê Thì Hải",
+  "dateOfBirth" : "Đinh Mão 1867",
+  "dateOfDeath" : "Quí Hợi 1923",
+  "hometown" : "Quê làng Lương Điền, tổng Bích Triều, huyện Thanh Chương, tỉnh Nghệ An, con cụ Đặng Thai Giai (hay Thai Cảnh), từng tham gia phong trào Cần vương, bị giặc Pháp bắt giam rồi an trí đến chết",
+  "occupation" : "Chí sĩ cận đại",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34
+    "Pháp đô hộ" : 11
   },
   "id" : 257,
-  "entityName" : "Lê Thì Liêu",
-  "aliases" : [ ],
-  "overview" : "Ông cùng với hai anh giúp vua Lê, chúa Trịnh trong việc đánh dẹp các cuộc phản loạn và chống nhau với chúa Nguyễn. Nhiều lần làm trấn thủ Sơn Tây, Nghệ An và thăng Đô đốc. Gần 20 năm làm quan được quân dân mến phục. Năm Quí mão 1723, ông mất thọ 76 tuối được truy tặng Thái tể và truy phong phúc thần."
+  "entityName" : "Đặng Nguyên Cẩn",
+  "aliases" : [ "Thai Sơn", "Tam Thai" ],
+  "overview" : "Trong Thi tù tùng thoại Huỳnh Thúc Kháng viết về ông: \"Cụ Đặng Nguyên Cẩn là một nhà học rộng, sĩ phu Nghệ Tĩnh xem như núi Thái Sơn, sao Bắc Đẩu là một người bạn già của cụ Sào Nam. Vóc nguời nhỏ bé, mặt mũi đen sạm, ngoài văn học ra không biết một thứ gì. Tướng cụ xấu, nếu như không quen biết mà mới gặp cụ lần đâu, tất cho là người không biết chữ nhất là một, mà ai có dè trong bụng như kho sách, khí áp nghìn quân; cái ngòi bút cổ kính không ai sánh, cùng cái tướng xấu quê đen sạm kia, hiệp thành cái lạ mà đời người ít có\". Đi đày suốt 13 năm, đến năm 1921 ông mới được trả tự do một lượt với Huỳnh Thúc Kháng, Ngô Đức Kế. Nhưng về nhà chỉ được vài năm thì ông mất (1923). Thơ văn của ông được Huỳnh Thúc Kháng ghi lại trong Thi tù tùng thoại. Em của ông là Đặng Thúc Hứa vẫn hoạt động tại Thái Lan đến khi chết."
 }

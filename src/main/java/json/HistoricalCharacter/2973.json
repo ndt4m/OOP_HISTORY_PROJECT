@@ -1,16 +1,19 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Kỉ Hợi 39",
-  "hometown" : "huyện Chu Diên, quận Giao Chỉ, tự là Huyền",
-  "occupation" : "Nghĩa sĩ đời Trưng vương, sách Trưng nữ vương lịch sử của Hoàng Thúc Hội chép là Đặng Thi Sách",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "dateOfBirth" : "19 tháng 8 năm 1917 Bordeaux, Pháp\n----------------------------------------------\nĐinh Tị 1917",
+  "dateOfDeath" : "1998 (81 tuổi) Arkansas, Hoa Kỳ\n----------------------------------------------\nKỉ Mão 1999",
+  "hometown" : "nguyên quán tỉnh Quảng Ngãi sinh tại Sài Gòn, quốc tịch Pháp, con trai Bác sĩ Louis Trần Văn Đôn, bác sĩ điều trị tại Bệnh viện La Lung (Chợ Rẫy, Chợ Lớn)",
+  "occupation" : "Thuộc\n----------------------------------------------\nTrung tướng quân đội Sài Gòn ",
+  "workTenure" : "1939-1965\n----------------------------------------------\nKhông rõ",
+  "fatherName" : {
+    "Bác sĩ Louis Trần Văn Đôn" : null
+  },
   "motherName" : { },
   "eraName" : {
-    "Trưng Nữ Vương" : 10
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 2973,
-  "entityName" : "Thi Sách",
-  "aliases" : [ "Đặng Thi Sách" ],
-  "overview" : "Năm 20 tuổi ông cưới Trưng Trắc. Hai nhà thuộc tầng lớp giàu có và nhiệt tình yêu nước, bất bình trước thân phận người dân mất nước. Ông vận động dân chúng nổi lên chống chế độ cai trị của quân nhà Hán. Dưới quyền ông có những người tài như Đô Dương, Lê Đình Lượng Phùng Thi Chính... Năm Giáp ngọ 34, vua nhà Hán sai Tô Định sang thay Tích Quang làm Thái thú quận Giao Chỉ, cai trị nhân dân ta rất hà khắc, ông phải dùng từ lệnh cảnh cáo (bản dịch): Phương Nam tuy nhỏ nhưng ức vạn sinh linh cũng là con đỏ của triều đình cả kẻ đi tuyên dương đức hóa, cốt phải lấy việc yên dân làm đầu. Ngươi nay làm việc chính trị, bắt tội người nói thẳng, bày mưu hay; thưởng kẻ luồn lọt bợ đỡ, cho hầu gái nhúng vào chính trị, cho nịnh thần được chuyên quyền. Lúc nào cũng bô bô nói chuyện thương dân thế mà lo bóc lột kẻ dưới càng ngày càng dữ. Rán mỡ dân để làm giàu, rút sức dân để thỏa lòng dục. Cậy minh mạnh thế như gươm Thái A bén, nào biết cơ mình nguy ngập như giọt sương sớm. Nếu không sửa đổi, làm theo rộng rãi thì sẽ nguy vong đến nơi đấy! Vì bản từ lệnh ấy, ông bị Tô Định bắt giết trong năm Kỉ hợi 39. Vợ ông (Trưng Trắc) vì nợ nước thù nhà, kêu gọi dân chúng nổi lên đánh quân Hán dựng nên nền độc lập tự chủ."
+  "entityName" : "Trần Văn Đôn",
+  "aliases" : [ ],
+  "overview" : "Trần Văn Đôn (1917- 1998), nguyên là một cựu tướng lĩnh của Quân đội Việt Nam Cộng hòa, cấp bậc Trung tướng. Ông xuất thân từ trường Sĩ quan Trừ bị ở Pháp, sau đó được thụ huấn tiếp ở trường Võ bị của Quân đội thuộc địa Pháp mở ra ở miền Bắc Việt Nam. Ông còn là một cựu chính khách của Việt Nam Cộng hòa. Là một trong những nhân vật chủ chốt trong cuộc Đảo chính ngày 1 tháng 11 năm 1963 lật đổ chính quyền Tổng thống Ngô Đình Diệm. Ông cũng là Phó Thủ tướng và Bộ trưởng Quốc phòng của nền Đệ Nhị Cộng hòa Việt Nam (1967-1975).\n----------------------------------------------\nTừ năm 1945 - 1946 làm phụ tá cho tướng Leclerc ở Đông Dương, các năm 1950, 1951 phục vụ trong quân đội Bảo Đại (Nguyễn Phúc Vĩnh Thụy). Đến năm 1954 phục vụ quân đội Sài Gòn giữ chức Tổng tham mưu trưởng. Năm 1963 được sự đồng tình của Mĩ ông là thành viên của \"Hội đồng quân nhân cách mạng\" đảo chính lật đổ chế độ Ngô Đình Diệm giữ chức Bộ trưởng Bộ quốc phòng, năm 1964 bị tướng Nguyễn Khánh \"chỉnh lí\" bắt giam cùng với Dương Văn Minh, Tôn Thất Đính Lê Văn Kim... Từ năm 1966 ông ra khỏi quân đội Sài Gòn, ứng cử vào Thượng viện Quốc hội, giữ chức chủ tịch Mặt trận cứu nguy dân tộc (1968), Ủy ban Quốc phòng Thượng nghị viện. Sau năm 1975 sống lưu vong ở Mĩ rồi chết bên ấy."
 }

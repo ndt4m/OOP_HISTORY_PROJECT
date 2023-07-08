@@ -1,17 +1,16 @@
 {
-  "dateOfBirth" : "1546\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "1600\n----------------------------------------------\nKhông rõ",
-  "hometown" : "quê huyện Gia Viễn, tỉnh Ninh Bình",
-  "occupation" : "Võ tướng nhà Mạc",
+  "dateOfBirth" : "Quí Mùi 1883",
+  "dateOfDeath" : "Mậu Dần 1938",
+  "hometown" : "quê tỉnh Long An, ngụ ở thị xã Phan Thiết, tỉnh Bình Thuận",
+  "occupation" : "Nhà duy tân cải cách, Nhân sĩ cận đại",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "nhà Mạc" : null,
-    "Nam - Bắc Triều" : 19
+    "Pháp đô hộ" : 11
   },
   "id" : 2840,
-  "entityName" : "Bùi Văn Khuê",
-  "aliases" : [ ],
-  "overview" : "Bùi Văn Khuê (chữ Hán: 裴文奎, 1546 - 1600) là tướng nhà Mạc và nhà Lê trung hưng trong lịch sử Việt Nam. Ông tham gia cuộc chiến tranh Lê-Mạc và phục vụ cho cả hai bên trong cuộc chiến này.\n----------------------------------------------\nÔng từng chống nhau với quân Trịnh ác liệt, có tài cầm binh, lập nhiều chiến công bị Phan Ngạn ganh ghét giết đi. Vợ ông là Nguyễn Thị Niên cũng bị Phan Ngạn giở thói bức bách, nhưng bà tiết liệt giết được Phan Ngạn trả thù cho ông. Vua Mạc phong tước cho ông là Sơn Quận công, rồi đổi Mĩ Quận công. Hai con trai ông là Bùi Thì Trung và Bùi Khắc Kiệm cũng là nhân vật có danh, được phong đến tước Công."
+  "entityName" : "Nguyễn Quí Anh",
+  "aliases" : [ "Ấm Bảy", "Nhụ Khanh" ],
+  "overview" : "Thời trẻ ông ra học ở Quảng Nam với Trần Quí Cáp, năm 1904 ông là người cùng vào Nam với Phan Châu Trinh, Huỳnh Thúc Kháng, Trần Quí Cáp cổ động phong trào Duy tân. Khi đến Phan Thiết, họ ở tại Ngọa du sào của Nguyễn Thông. Tại đây, ông cùng các nhân vật trên và 5 vị khác thành lập Công ti Liên Thành và trường Dục Thanh theo chủ trương của phong trào cách mạng này. Ông là người được đặc trách trông nom (giám học) trường Dục Thanh. Sau năm 1911, ông vào Sài Gòn điều hành công ti Liên Thành tại Chợ Lớn. Tên tuổi ông được gắn liền với trường Dục Thanh và công ti Liên Thành. Đây là hai cơ sở có tiếng vang trong sinh hoạt xã hội, chính trị Việt Nam trước thế chiến thứ hai. Năm 1938, ông mất tại Chợ Lớn, an táng tại Phú Nhuận, hưởng dương 55 tuổi. Đương thời (1937) Huỳnh Thúc Kháng có bài thơ Gởi Nhụ Khanh đã nói lên được phần nào tư cách, đức độ ông. Cỏ cây điêm nhiễm mạch Tô Tuyền, Dăng dính làng văn bơi chữ duyên, Lầu mới vẫn ghi bia Lỗ Điện, Tình xưa chạnh nhớ bạn Thai Xuyên. Gặp nhau Bàn luận đôi vần phú, Chung chắc Cam Ranh một chiếc thuyền, Ba chục năm thừa ôn chuyện cũ, Nhà thi phong cách rõ uyên nguyên."
 }

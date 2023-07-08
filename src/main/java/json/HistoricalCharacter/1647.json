@@ -1,16 +1,19 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê tỉnh Nghệ An (nay là Nghệ An)",
-  "occupation" : "Dật sĩ, người đời Minh Mạng, có tiếng hiền hiếu",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "dateOfBirth" : "Kỉ Hợi 1719\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "Kỉ Mão 1759\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Vua nhà hậu Lê\n----------------------------------------------\nVua",
+  "workTenure" : "1735—1740",
+  "fatherName" : {
+    "Lê Dụ Tông" : 2219
+  },
   "motherName" : { },
   "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+    "Trịnh - Nguyễn" : 34,
+    "Nam triều – Nhà Hậu Lê – giai đoạn Lê Trung hưng" : 28
   },
   "id" : 1647,
-  "entityName" : "Nguyễn Áng",
-  "aliases" : [ ],
-  "overview" : "Nhiều sách báo nhắc chuyện can đảm của ông, vì hiếu liều mình. Phạm Xuân Khôi tuyển chọn các gương hiếu ở nước ta viết về Nguyễn Áng: Một chiều mùa Đông, mẹ con ông gặt lúa dưới chân núi, xảy có cọp xông ra vồ người mẹ. Ông chụp lấy đòn xóc, đánh đuổi được cọp. Người mẹ đau yếu suốt năm, ông chăm nom hầu hạ tận tình, khiến mọi người thương cảm khen ngợi. Phạm Xuân Khôi có thơ vịnh: Vì thân nào có tiếc chi mình, Nguyễn Áng này không khác Tú Danh, Thấy mẹ bị hùm chồm đến bắt, Một mình cầm gậy đánh tan tành, Hổ khôn địch nổi liền buông chạy, Me bị thương đau lại chữa lành. Cho biết lòng nguới hơn thú mạnh, Dù trong nguy hiểm chẳng sờn kinh."
+  "entityName" : "Lê Duy Thìn",
+  "aliases" : [ "Lê Ý Tông" ],
+  "overview" : "Năm Ất mão 1735, tháng 5 Uy Nam vương Trịnh Giang đưa ông lên ngôi mới 16 tuổi. Đến tháng 5 năm Canh thân 1740, lại bị chúa Trịnh Doanh bắt phải nhường ngôi cho con vua Thần tông mà làm Thái thượng hoàng. Thoái vị xong, ông lui về ở điện Càn Thọ, Kỉ mão 1759 ông mất, hưởng dương 40 tuổi, táng tại Phủ Lê Lăng, làng Phù Nguyên, huyện Thụy Nguyên, tỉnh Thanh Hóa. Ở ngôi 6 năm, hiệu năm là Vĩnh Hựu: tháng 5 Ất mão 1735 - tháng 5 Canh thân 1740. Con vua Thần tông là Lê Duy Diêu nối ngôi tức Lê Hiển tông.\n----------------------------------------------\nLê Ý Tông (chữ Hán: 黎懿宗 29 tháng 3 năm 1719 – 10 tháng 8 năm 1759), tên húy là Lê Duy Thận (黎維祳), là vị Hoàng đế thứ 14 của nhà Lê Trung hưng và thứ 25 của nhà Hậu Lê, đồng thời vua Lê Ý Tông cũng là Thái thượng hoàng cuối cùng trong lịch sử Việt Nam."
 }

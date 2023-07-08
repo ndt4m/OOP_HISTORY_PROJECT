@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "17 tháng 2 năm 1955 Trung Quốc",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Nhà văn",
+  "dateOfBirth" : "Giáp Dần 1854",
+  "dateOfDeath" : "Kỉ Mùi 1919",
+  "hometown" : "quê làng Hữu Thanh Oai, huyện Thanh Oai, tỉnh Hà Đông (nay thuộc TP",
+  "occupation" : "Danh sĩ, tác giả",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
+  },
   "id" : 409,
-  "entityName" : "Mạc Ngôn",
-  "aliases" : [ ],
-  "overview" : "Mạc Ngôn (sinh ngày 17 tháng 2 năm 1955) là một nhà văn người Trung Quốc xuất thân từ nông dân. Ông đã từng được thế giới biết đến với tác phẩm Cao lương đỏ đã được đạo diễn nổi tiếng Trương Nghệ Mưu chuyển thể thành phim. Bộ phim đã được giải Cành cọ vàng tại Liên hoan phim Cannes năm 1994."
+  "entityName" : "Đoàn Triển",
+  "aliases" : [ "Mai Viên" ],
+  "overview" : "Xuất thân trong một gia đình nho học truyền thống (con trai cử nhân Đoàn Trọng Huyên, em ruột cử nhân Đoàn Bưu) đậu cử nhân khoa Bính tuất (1886) niên hiệu Đồng Khánh thứ nhất tại trường thị Hà Nam. Ông từng làm viên ngoại Nha kinh lược Bắc kì, sau chuyển về làm việc ở bộ Lễ. Tại đây ông cùng với Đỗ Văn Tâm, Bùi Hướng Thành, Dương Lâm soạn sách tân giáo khoa ở Ban Tu thư. Trước khi về hưu được thăng Hiệp biện Đại học sĩ. Con trai út ông là Đoàn Thêm (1916 - …) là một nhà luật học, nhà văn có thực tài. Các tác phẩm của ông: - An Nam phong tục sách - Mai Viên thi văn tập - Đoàn tuần phủ công độc - Âu học Hán tự tân thư"
 }

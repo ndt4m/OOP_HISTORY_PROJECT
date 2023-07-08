@@ -1,16 +1,14 @@
 {
-  "dateOfBirth" : "1393",
-  "dateOfDeath" : "1439",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
   "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "nhà Lê" : null
-  },
+  "eraName" : { },
   "id" : 47,
-  "entityName" : "Lê Nỗ",
+  "entityName" : "Lê Hùng",
   "aliases" : [ ],
-  "overview" : "Thượng tướng quân Doãn Nỗ (尹弩, 1393-1439), còn được chép là Lê Nỗ (黎弩) là một khai quốc công thần thời nhà Lê sơ. Ông là một trong 50 tướng văn, tướng võ, tham gia cuộc Khởi nghĩa Lam Sơn của Lê Lợi ngay từ lúc đầu tiên vào năm 1418."
+  "overview" : "Lê Hùng (sinh 1950) là đại biểu Quốc hội Việt Nam khóa 12, thuộc đoàn đại biểu Bạc Liêu."
 }

@@ -1,14 +1,16 @@
 {
   "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
+  "dateOfDeath" : "1424",
   "hometown" : "Không rõ",
   "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "nhà Hậu Lê" : null
+  },
   "id" : 1293,
-  "entityName" : "Triệu Nguyên",
-  "aliases" : [ ],
-  "overview" : "Triệu Nguyên có thể là:"
+  "entityName" : "Vũ Uy",
+  "aliases" : [ "Lê Uy" ],
+  "overview" : "Vũ Uy (?-1424) hay Lê Uy là một trong những khai quốc công thần nhà Hậu Lê trong lịch sử Việt Nam."
 }

@@ -1,20 +1,16 @@
 {
-  "dateOfBirth" : "Mậu Dần 1878",
-  "dateOfDeath" : "Nhâm Thân 1932",
-  "hometown" : "tại làng Bình Tây, tỉnh Chợ Lớn (nay thuộc Q",
-  "occupation" : "Giáo tông đạo Cao Đài, tín đồ đạo Cao Đài đầu tiên, tục danh là Phủ Chiêu ",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "người làng Lương Xá, huyện Chương Đức, tỉnh Hà Đông (nay thuộc tỉnh Hà Tây)",
+  "occupation" : "Danh thần đời Lê Thái tông, con Nghĩa quận công Đặng Huấn",
   "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Ngô Văn Xuân" : null
-  },
-  "motherName" : {
-    "Lâm Thị Quí" : null
-  },
+  "fatherName" : { },
+  "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Triều Lê Sơ" : 7
   },
   "id" : 1254,
-  "entityName" : "Ngô Văn Chiêu",
+  "entityName" : "Đặng Tiến Vinh",
   "aliases" : [ ],
-  "overview" : "Ông sinh trưởng trong một gia đình nghèo, cha mẹ ông phải đi làm công tại nhà máy xay lúa Bình Tây. Tuổi trẻ ông rất thông minh lại nhà nghèo nên được cấp học bổng vào học tại Trường Trung học Nguyễn Đình Chiểu ở Mĩ Tho. Năm 1899 tốt nghiệp bằng Thành chung được bổ làm việc tại Sở Tân đáo Sài Gòn, nhưng đến năm 1931 thì xin thôi việc \"nhà nước\" dốc lòng vào việc tu thiền theo pháp môn Cao Đài. Ông là người khai sáng ra phái tu Chiếu minh chuyên sâu về nội tu của đạo Cao Đài. Từ năm 1930, đạo Cao Đài có khuynh hướng về chính trị và nội bộ đạo phân hóa thành nhiều hệ phái. Ông mất năm 1932 thọ 54 tuổi. Ông là tác giả một số bài thơ về giáo lí đạo Cao Đài."
+  "overview" : "Ông có chiến công được phong làm Tả Tư không, tước Hà Quận công. Ông có 7 nguời con, nổi bật nhất là Đặng Thế Tài và Đặng Thế Khoa, chức vi kiêm cả tướng võ, tướng văn, một nhà danh tuớng, ít ai sánh bằng."
 }

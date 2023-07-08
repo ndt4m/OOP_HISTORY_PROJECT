@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Mậu Dần 1818",
-  "dateOfDeath" : "Đinh Mão 1867",
-  "hometown" : "quê làng Bình Đông, huyện Ba Tri, tỉnh Bến Tre",
-  "occupation" : "Có sách chép là Phan Tòng, hoặc Phan Công Tòng. Anh hùng kháng Pháp quê làng Bình Đông, huyện Ba Tri, tỉnh Bến Tre",
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Kỉ Sửu 1409",
+  "hometown" : "Thanh Hóa",
+  "occupation" : "Văn thần đời Hậu Trần, người tỉnh Thanh Hóa.",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+    "Hậu Trần" : null
   },
   "id" : 541,
-  "entityName" : "Phan Ngọc Tòng",
-  "aliases" : [ "Phan Công Tòng" ],
-  "overview" : "Ông nhiệt thành yêu nước, tham gia chống Pháp trong cuộc khởi nghĩa của Phan Tôn, Phan Liêm (hai con Phan Thanh Giản) tại Bến Tre, Phan Tôn Phan Liêm bỏ ra miền Trung (1868) ông vẫn ở lại tiếp tục xây dựng lực lượng, tích cực chiến đấu. Thanh tra sự vụ De Champeaux cùng với các viên chỉ huy trưởng binh đoàn đóng ở Bến Tre ra sức đàn áp. Cuối năm 1867 ông hi sinh trong trận đánh ở Giồng Gạch, hưởng dương 49 tuổi. Nguyễn Đình Chiểu làm 10 bài thơ điếu ông thống thiết, trong đó có bài: Anh hùng thà thác chẳng đầu Tây, Một giấc sa trường phận rủi may Viên đạn nghịch thần treo trước mắt, Lưỡi gươm địch khái nắm trong tay. Đầu tang ba tháng trời riêng đội, Lòng giận ngày thu đất nổi dày. Tiếc mới một lòng ra đặt trụm, Cài xên con rã nghĩ thương thay."
+  "entityName" : "Trần Hi Cát",
+  "aliases" : [ ],
+  "overview" : "Khi quân Minh sang cướp nước, dứt nhà Hồ, ông cùng các nghĩa sĩ lo liệu việc chống giặc cứu nước. Khi Trần Quĩ (có sách chép là Trần Ngỗi) con Trân Nghệ tông khởi nghĩa kháng chiến, ông theo giúp, được trọng dụng, phong đến chức Thái bảo. Năm Mậu tí 1408, khoảng tháng 11 âm lịch, tướng giặc Mộc Thạch đem binh vây đánh, bắt được ông và Giản Định đế Trần Quĩ cùng với hai tướng Nguyễn Nhữ Lệ, Nguyễn Yến tại bến Cát Lợi huyện Mĩ Lương (nay thuộc tỉnh Nam Định), đóng cũi giải về Yên Kinh (Trung Quốc). Chúng giết ông, Trần Quĩ Nguyễn Nhữ Lệ và Nguyễn Yến trong năm Kỉ sửu 1409. Người sau có thơ điếu: \"Thành Bắc luy lung lưỡng diếu mang, Quân thần tương ngộ mạc tương vương (vong) Bách niên nghĩa hiệp sơn hà cố, Thiên tải danh lưu nhật nguyệt trường. Khuy khấp dã viêm bi trú bạch, Thính ai sơn điểu phạ hôn hoàng. Hành nhân quải kiếm kim hà tại, Độc đối càn khôn trở đậu hương.\" Bản dịch: Thảm thảm Bắc thành xiết nỗi đau. Vua tôi gặp gỡ dám quên đâu. Trăm năm nghĩa hiệp còn lưu mã, Muôn thuở phương danh vẫn để lâu. Vượn khóc đầu non lòng những ngán, Chim than trên núi dạ thêm sầu. Mang gươm người cũ nay đâu tá? Trở đậu hương nồng trải mấy thu."
 }

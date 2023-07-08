@@ -1,20 +1,16 @@
 {
-  "dateOfBirth" : "1194 Thăng Long\n----------------------------------------------\nGiáp Dần 1194\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "3 tháng 9, 1226 (31–32 tuổi) Chùa Chân Giáo, Thăng Long, Đại Việt\n----------------------------------------------\nBính Tuất 1226\n----------------------------------------------\nKhông rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua nhà Lý, con Lý Cao tông và nguyên phi họ Đàm\n----------------------------------------------\nVua",
-  "workTenure" : "1210 – 1224\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1211—1224",
-  "fatherName" : {
-    "Lý Cao Tông" : 1425
-  },
-  "motherName" : {
-    "An Toàn hoàng hậu họ Đàm" : null
-  },
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Mộ Trạch, huyện Đường An (huyện Bình Giang) tỉnh Hải Dương cũ, nay thuộc tỉnh Hải Dương",
+  "occupation" : "Danh sĩ, tác giả đời nhà Hồ ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
   "eraName" : {
-    "Nhà Lý" : 14
+    "Nhà Hồ" : 9
   },
   "id" : 456,
-  "entityName" : "Lý Huệ Tông",
-  "aliases" : [ "Lý Hạo Sảm", "Kiến Gia (1210 – 10/1224)", "Lý Huệ Tông", "Tự Thiên Thống Ngự Khâm Nhân Hoành Hiếu Hoàng đế (自天捅御欽仁橫孝皇帝)", "Huệ Tông (惠宗)", "Lý Sảm" ],
-  "overview" : "Lý Huệ Tông (chữ Hán: 李惠宗, 1194 – 1226), là vị Hoàng đế thứ tám của nhà Lý, cai trị từ năm 1210 đến năm 1224. Ông tên thật là Lý Sảm (李旵) hay Lý Hạo Sảm, sinh tại kinh đô Thăng Long, Đại Việt.\n----------------------------------------------\nÔng lập con gái của Trần Lý làm nguyên phi, nên trọng dụng hai người anh vợ là Trần Thừa và Trần Tự Khánh, phong Tự Khánh làm Chương Thành Hầu. Do đấy vây cánh họ Trần càng lúc càng mạnh. Năm Giáp tuất 1214, trong nước biến loạn. Trần Tự Khánh đem quân đánh dẹp, đốt phá cung điện. Nhà vua rước mẹ và vợ chạy sang Lạng Châu, xuống chiếu kêu gọi tướng sĩ hãy đánh Tự Khánh đế cứu nguy. Tự Khánh dâng thư trần tình xin rước vua về cung như cũ. Trước, vua và Thái hậu không tin, nhưng sau vì áp lực của Tự Khánh, nhà vua đành phải trở về, rồi sách phong Trần thị làm Hoàng Hậu, thăng Tự Khánh làm Thái úy phụ chính. Do tình hình không ổn định, nhà vua thác loạn tinh thần, lắm cơn điên dại, múa gậy tự xưng, \"Thiên tướng giáng hạ\" rồi rượu say ngủ vùi. Việc triều chính đều do Tự Khánh quyết đoán cả. Năm Quí mùi 1223 Tự Khánh mất, nhà vua cho anh bà Hoàng hậu là Trần Thừa làm Phụ quốc Thái úy, nguời em họ là Trần Thủ Độ làm Điện tiền chỉ huy sứ. Rồi thấy uy thế họ Trần lừng lẫy, nhà vua nhường ngồi cho con gái út là Phật Kim (Chiêu Hoàng), gả con gái lớn là Thuận Thiên cho Trần Liễu (con trưởng của Trần Thừa), đoạn dứt khoát bỏ đến chùa Chân Giáo ở ẩn, lấy hiệu là Huệ Quang thiền sư, vào năm Giáp thân 1224. Nhưng đã yên đâu, Trần Thủ Độ vẫn hằng theo dõi nhà vua. Một hôm, đi ngang qua chùa, thấy nhà vua đang ngồi nhổ cỏ, Thủ Độ nói: \"Nhổ cỏ, thì phải nhổ cho tận gốc\". Nhà vua hiểu ý, tự vẫn chết tháng 10 năm Bính tuất 1226, hưởng dương 32 tuổi. Nhà vua ở ngôi 13 năm (từ Tân mùi 1211 - Giáp thân 1224), hiệu là Kiến Gia.\n----------------------------------------------\nLý Huệ Tông (chữ Hán: 李惠宗; tháng 7 năm 1194 – 3 tháng 9 năm 1226) là vị hoàng đế thứ tám của nhà Lý, cai trị từ năm 1210 đến năm 1224. Ông tên thật là Lý Sảm (李旵) hay Lý Hạo Sảm, sinh tại kinh đô Thăng Long, Đại Việt."
+  "entityName" : "Lê Cảnh Tuân",
+  "aliases" : [ "Tử Mưu" ],
+  "overview" : "Lê Cảnh Tuân (chữ Hán: 黎景詢; 1350-1416? ), tự là Tử Mưu (字謀), là một nho sĩ sống vào khoảng thời gian cuối đời Trần, trải qua đời Hồ và đầu thời Minh thuộc trong lịch sử Việt Nam.\n----------------------------------------------\nÔng đỗ Thái học sinh đời Hồ Quí Ly (1400-1402). Nhà Hồ mất, ông có làm Vạn ngôn thư khuyên Bùi Bá Kì (lúc ấy ra làm quan với nhà Minh) xin với nhà Minh, lập con cháu nhà Trần. Quân Minh biết việc này, bắt ông đưa về Yên Kinh. Vua Minh hỏi: \"Người khuyên Bá Kì âm mưu làm trái phép?\" ông nói: \"Người nước Nam, chỉ ở nước Nam, chớ không bao giờ cắn chủ, còn hỏi làm gì?\" Vua Minh tức giận, sai giam ông vào ngục sáu năm. Ông bị bệnh và chết trong ngục ở Yên Kinh. Các tác phẩm: - Vạn ngôn thư - 12 bài thơ in trong Toàn Việt thi lục. - 2 bài thơ làm trong khi bị giam ở Yên Kinh (T.Q)"
 }

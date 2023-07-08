@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "1629",
-  "dateOfDeath" : "1714",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
+  "occupation" : "Vua",
+  "workTenure" : "?–258 TCN hoặc 208 TCN",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "nhà Lê" : null
+    "Hồng Bàng" : 17
   },
   "id" : 1855,
-  "entityName" : "Vũ Công Đạo",
+  "entityName" : "Hùng Vương thứ 18",
   "aliases" : [ ],
-  "overview" : "Vũ Công Đạo (1629-1714) là đại thần nhà Lê trung hưng trong lịch sử Việt Nam."
+  "overview" : "Hùng Vương thứ XVIII (~334 - 258 TCN) còn gọi Hùng Duệ Vương, là một vị vua truyền thuyết của nước Văn Lang trong lịch sử Việt Nam và là vị Hùng Vương cuối cùng. Tương truyền Hùng Vương thứ XVIII có hai con rể là Chử Đồng Tử và Sơn Tinh."
 }

@@ -1,16 +1,14 @@
 {
-  "dateOfBirth" : "Kỉ Tị 1929",
-  "dateOfDeath" : "Ất Mão 1975",
-  "hometown" : "quê ở Gò Me, tỉnh Gò Công (nay thuộc tỉnh Tiền Giang)",
-  "occupation" : "Nhà thơ tham gia kháng chiến chống Pháp cứu nước",
+  "dateOfBirth" : "Nguyễn Chí Thành 15 tháng 10, 1065 xã Gia Thắng, Gia Viễn, Ninh Bình",
+  "dateOfDeath" : "1141 Đại Việt",
+  "hometown" : "Không rõ",
+  "occupation" : "Lý triều Quốc sư",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Nước Việt Nam mới" : 29
-  },
+  "eraName" : { },
   "id" : 717,
-  "entityName" : "Hoàng Tố Nguyên",
-  "aliases" : [ ],
-  "overview" : "Ông từng hoạt động tại Sài Gòn, hoàn thành những công tác mật, rồi lên Biên Hòa lãnh công tác thông tin, văn nghệ thuộc miền Đông Nam Bộ. Từ cuối năm 1954 tập kết ra Bắc, ông lần lượt công tác tại báo Văn nghệ, Độc lập, Ti Thông tin Văn hóa Hà Tây và Hội văn nghệ Thái Bình. Năm 1975, khoảng tháng 6, ông mất tại Thái Bình sau một cơn bạo bệnh đột ngột. Ông còn để lại đời 6 tập thơ đã xuất bản. - Đất nước - Gò Me (1957) - Quê chung (1962) - Gởi chiến trường chống Mĩ - Hậu phương không ngủ - Trên quê hương. Hoàng Tố Nguyên là một trong các nhà thơ sáng giá của Nam Bộ trong những ngày đầu kháng chiến chống Pháp."
+  "entityName" : "Lý Quốc Sư",
+  "aliases" : [ "Nguyễn Minh Không" ],
+  "overview" : "Lý Quốc Sư (chữ Hán: 李國師 15 tháng 10 năm 1065 – 1141) là tên gọi theo quốc tính họ Vua do nhà Lý ban cho và ghép với chức danh pháp lý cao nhất của một vị thiền sư từng là dược sư, pháp sư, đại sư rồi quốc sư tên hiệu Nguyễn Minh Không (chữ Hán: 阮明空). Ông là một vị cao tăng đứng đầu tổ chức Phật giáo của triều đại nhà Lý trong lịch sử, được xem là vị thiền sư sáng lập nên nhiều ngôi chùa nhất ở Việt Nam và được tôn vinh là ông tổ nghề đúc đồng."
 }

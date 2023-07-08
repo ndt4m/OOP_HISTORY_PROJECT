@@ -1,17 +1,14 @@
 {
-  "dateOfBirth" : "Nhâm Dần 1842",
-  "dateOfDeath" : "Bính Tuất 1886",
-  "hometown" : "quê ở làng Khái Đông, huyện Hòa Vang, tỉnh Quảng Nam",
-  "occupation" : "Liệt sĩ Cần vương chống Pháp, chiến sĩ Nghĩa hội thời Trần Văn Dư ở Quảng Nam, quê ở làng Khái Đông, huyện Hòa Vang, tỉnh Quảng Nam",
+  "dateOfBirth" : "7 tháng 8, 1971 (47 tuổi) phường Tân Hồng, thị xã Từ Sơn, tỉnh Bắc Ninh, Việt Nam Dân chủ Cộng hòa",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Kim Mã, quận Ba Đình, thành phố Hà Nội",
+  "occupation" : "chính trị gia",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nhà Nguyễn độc lập" : 30
-  },
+  "eraName" : { },
   "id" : 2113,
-  "entityName" : "Huỳnh Bá Chánh",
-  "aliases" : [ "Ngự Quảng Cái" ],
-  "overview" : "Tính ông khảng khái và bất khuất. Từ năm 1885, ông cùng cụ Trần Văn Dư, Hường Thanh Hà (tức cụ Hường Hiệu - Nguyễn Duy Hiệu) tích cực hoạt động chống Pháp trên địa bàn Trung Lộc (Quế Sơn). Ông thường tuyên bố: \"Ninh vi kê thủ, bất vi ngưu hậu\". (Thà làm đầu gà, không thèm làm đuôi trâu). Ông cùng nghĩa quân chống Pháp trong các năm 1885, 1886. Đến khi sa vào tay giặc, không chịu khuất phục, ông bị giặc hành hình nơi bến đò Chợ Củi (bây giờ thuộc huyện Duy Xuyên, gần cầu Câu Lâu, trên quốc lộ 1, sông Thu Bồn)."
+  "entityName" : "Nguyễn Trường Giang",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Trường Giang (sinh ngày 7 tháng 8 năm 1971) là một chính trị gia người Việt Nam. Ông hiện là đại biểu Quốc hội Việt Nam khóa XIV nhiệm kì 2016-2021, thuộc đoàn đại biểu quốc hội tỉnh Đắk Nông, Ủy viên thường trực Ủy ban Pháp luật của Quốc hội, Phó Chủ tịch Nhóm nghị sĩ hữu nghị Việt Nam - EP (Đại biểu chuyên trách Trung ương). Lần đầu ông được trung ương giới thiệu ứng cử và đã trúng cử đại biểu Quốc hội năm 2016 ở đơn vị bầu cử số 1, tỉnh Đắk Nông gồm có thị xã Gia Nghĩa và các huyện: Đắk Glong, Đắk R'Lấp, Tuy Đức, Đắk Song."
 }

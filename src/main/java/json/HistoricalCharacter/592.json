@@ -1,21 +1,16 @@
 {
-  "dateOfBirth" : "1136 Thăng Long\n----------------------------------------------\nBính Thìn 1136\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "14 tháng 8, 1175 (38–39 tuổi) Thăng Long, Đại Việt\n----------------------------------------------\nẤt Mùi 1175\n----------------------------------------------\nKhông rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua nhà Lý, con trưởng Lý Thần tông, nối ngôi nhà Lý\n----------------------------------------------\nVua",
-  "workTenure" : "1138 – 1175\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1138—1175",
-  "fatherName" : {
-    "Lý Thần Tông" : 3002,
-    "Lý Thần tông" : null
-  },
-  "motherName" : {
-    "Linh Chiếu Thái hậu" : null
-  },
+  "dateOfBirth" : "1891\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "1975\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Hà Tây",
+  "occupation" : "Thiền sư đời Lý Anh tông, không rõ năm sinh, năm mất",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
   "eraName" : {
     "Nhà Lý" : 14
   },
   "id" : 592,
-  "entityName" : "Lý Anh Tông",
-  "aliases" : [ "Niên hiệu Thiệu Minh (绍明; 1138 - 1139) Đại Định (大定; 1140 - 1162) Chính Long Bảo Ứng (政隆宝应; 1163 - 1173) Thiên Cảm Chí Bảo (天感至宝; 1174 - 1175)", "Lý Thiên Tộ (李天祚)", "Thể Thiên Thuận Đạo Duệ Văn Thần Võ Thuần Nhân Hiển Nghĩa Huy Mưu Thánh Trí Ngự Dân Dục Vật Quần Linh Phi Ứng Đại Minh Chí Hiếu Hoàng Đế (体天顺道睿文神武纯仁显义徽谋圣智御民育物群灵丕应大明至孝皇帝)", "Lý Anh Tông", "Anh Tông (英宗)" ],
-  "overview" : "Lý Anh Tông (chữ Hán: 李英宗, 1136 - 14 tháng 8, 1175), là vị Hoàng đế thứ sáu của nhà Lý trong lịch sử Việt Nam, trị vì từ năm 1138 tới năm 1175, tổng cộng 37 năm.\n----------------------------------------------\nBấy giờ nhà vua thêm vụng về bang giao với Chiêm Thành, đưa người Chiêm là Ung Minh Ta Điệp về Chiêm để làm vua, khiến vua Chiêm đương thời là Chế Bỉ La Bút chống đánh lại. giết tướng ta là Lý Mông. Nội chính ngoại biên rối loạn, dân tình khốn khổ. Đến khi Đỗ Anh Võ chết, Tô Hiến Thành thay làm Thái úy.\n----------------------------------------------\nLý Anh Tông (chữ Hán: 李英宗 tháng 4 năm 1136 - 14 tháng 8 năm 1175) là vị hoàng đế thứ sáu của nhà Lý trong lịch sử Việt Nam, trị vì từ năm 1138 tới năm 1175, tổng cộng 37 năm."
+  "entityName" : "Lê Thước",
+  "aliases" : [ "Tĩnh Lạc", "Trí Thiền" ],
+  "overview" : "Lê Thước (1891 - 1975) hiệu Tĩnh Lạc; là nhà giáo dục, nhà biên khảo Việt Nam ở đầu thế kỷ 20.\n----------------------------------------------\nThuở trẻ ông từng thi cử, làm Cung hậu thư gia, đến 27 tuổi, một hôm nghe sư Giới Không giảng đạo, ông phát tâm bỏ tục, tu ở chùa Từ Sơn. Hai triều Lý Anh tông, và Lý Cao tông đều có vời ông ra làm quan, ông đều từ chối. Thái úy Tô Hiến Thành và Thái bảo Ngô Hòa Nghĩa rất mến chuộng ông và xem ông như bậc thầy. Các tác phẩm chính: - Thị Thái úy Tô Hiến Thành - Thái bảo Ngô Hòa Nghĩa - Đạm Nhiên và một số bài kệ"
 }

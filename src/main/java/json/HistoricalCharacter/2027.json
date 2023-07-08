@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
+  "dateOfBirth" : "1445",
   "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Danh thần đời Trần Nhân tông",
+  "occupation" : "Tả thị lang bộ Lại (khi sống) Thượng thư bộ Lễ (truy tặng)",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Trần" : 15
+    "Lê sơ" : null
   },
   "id" : 2027,
-  "entityName" : "Bạch Xá",
+  "entityName" : "Trần Năng",
   "aliases" : [ ],
-  "overview" : "Năm Trung hưng thứ 3 (Đinh hợi 1287), ông đi sứ với Đại phu Nguyễn Văn Ngôn sang Trung Quốc, triều cống vua Nguyên. Gặp lúc bọn quân Mông Nguyên đang rộn rịp động binh đề kéo sang xâm lược nước ta, chúng bắt giam ông và Nguyễn Văn Ngạn cùng tất cả phái đoàn, mãi đến vài năm sau mới được trả tự do."
+  "overview" : "Trần Năng (sinh 1445) là tả thị lang bộ Lại thời Lê sơ đậu hoàng giáp năm 1493. Ông được truy tặng thượng thư bộ Lễ sau khi qua đời."
 }

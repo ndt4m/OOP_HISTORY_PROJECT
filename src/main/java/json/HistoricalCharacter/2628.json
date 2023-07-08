@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Nhâm Tuất 1622",
-  "dateOfDeath" : "Quí Hợi 1683",
-  "hometown" : "quê làng Phù Đổng, tỉnh Bắc Ninh, có sách chép là Đặng Công Chất",
-  "occupation" : "Danh thần đời Lê Hi tông",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "1445",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34
+    "nhà Lê" : null
   },
   "id" : 2628,
-  "entityName" : "Đặng Chất",
-  "aliases" : [ ],
-  "overview" : "Năm Tân sửu 1661, ông đỗ Nhất giáp tiến sĩ, đứng đầu khoa này, ứng chế cũng đỗ đầu. Ông bản tính ngay thẳng, nổi tiếng thông minh, hiếu học. Khi xuất chính rất mực thanh cần làm đến Tham tụng, Thượng thư bộ Binh, tước Tử, nhiều lần đi sứ nhà Minh. Nhà vua vẫn thường vời ông vào cung điện giảng sách. Sau được phong Gia Tĩnh đại phu, Bồi tụng, Thượng thư bộ Lại, tước Bá. Khi làm Đô đốc, Tổng tài ở Sử quán, ông hiệp với Hồ Sĩ Dương, Đào Công Chính, Thiềm Sĩ Lâm, Nguyễn Công Vọng đề tựa bộ sách Lam sơn thực lục, sửa lại và khắc bản in mới trong năm Bính thìn 1676. Ông cũng soạn bài văn bia ở đềnTrần Vô tức đền thờ Trần Thiên Chấn Võ đế quân ở phường Thụy Chương (Hà Nội)."
+  "entityName" : "Nguyễn Lý",
+  "aliases" : [ "Lê Lý" ],
+  "overview" : "Nguyễn Lý hay Lê Lý (? - 1445) là tướng quân Lam Sơn, công thần khai quốc nhà Lê sơ trong lịch sử Việt Nam.Ông tham dự Hội thề Lũng Nhai, tham gia khởi nghĩa từ buổi đầu, lập chiến công ở Lạc Thủy, Thi Lang, Trà Lân, Nghệ An, trận Chi Lăng Xương Giang. Sau chiến tranh ông được phong làm Hương thượng hầu, nhập nội tư mã, tham dự triều chính, Suy trung tán trị Hiệp mưu công thần làm quan trải 2 đời vua Lê Thái Tổ, Lê Thái Tông."
 }

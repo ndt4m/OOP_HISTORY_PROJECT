@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "1375",
-  "dateOfDeath" : "1449",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Quí Tị 1893",
+  "dateOfDeath" : "Tân Tị 1941",
+  "hometown" : "quê làng Bình Đức tỉnh Long Xuyên sau ngụ ở Gò Vấp, tỉnh Gia Định (nay thuộc thành phố Hồ Chí Minh)",
+  "occupation" : "Nhân sĩ yêu nước, tác giả",
   "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "fatherName" : {
+    "có tên là: Triệu Ẩu" : null
+  },
   "motherName" : { },
   "eraName" : {
-    "nhà Minh" : null
+    "Pháp đô hộ" : 11
   },
   "id" : 2935,
-  "entityName" : "Trương Phụ",
-  "aliases" : [ "Văn Bật" ],
-  "overview" : "Trương Phụ (tiếng Trung Quốc: 張輔, 1375 – 1449), tự Văn Bật (文弼), là một tướng lĩnh, đại thần của nhà Minh từ đời Minh Thành Tổ Chu Đệ đến đời Minh Anh Tông Chu Kì Trấn."
+  "entityName" : "Nguyễn Háo Vĩnh",
+  "aliases" : [ "Hốt Tất Liệt" ],
+  "overview" : "Thuở trẻ học ở trường Chasseloup Laubat, tốt nghiệp trung học, ông hưởng ứng phong trào Đông du, Duy tân, rồi sang Nhật. Năm 1908 bị trục xuất, ông lui về Hương Cảng, học ở trường Saint Jesyh. Tốt nghiệp, ông sang Anh với ý định tiếp xúc với Cường Để nhưng sau khi gặp Cường Để ông cảm thấy thất vọng bèn trở về nước (ông ở nước ngoài hơn 10 năm). Về nước, nhà cầm quyền chú ý theo dõi ông. Biết thế ông xoay ra doanh thương, mở hãng xà bông Con Rồng, làm dầu măng... thỉnh thoảng cũng viết lách trên các báo, rồi mở nhà in, xuất bản sách. Ông lập nhà in \"Xưa nay\" xuất bản nhiều sách giá trị, nhà in này khoảng năm 1945 do ông Hoàng Bình Chánh (tức Đỗ Ngọc Quang) đem vô chiến khu để in sách báo kháng chiến. Đời cầm bút của ông, từng bút chiến với Phạm Quỳnh, đặc biệt là đã kích quyển Hà Hương phong nguyệt của nhà văn Mộng Huê Lầu (tức Lê Hoằng Mưu) trên tờ tuần báo Nam Kì kinh tế. Em ruột ông là Nguyễn Háo Đàng cũng là một nhân vật chống Pháp nổi tiếng ở Sài Gòn. Nhà in Xưa Nay của Nguyễn Hảo Vĩnh là một nhà in có bề thế ở Sài Gòn trước năm 1945. Ông mất ngày 11-8-1941 tại Gia Định, an táng ở Thủ Thiêm. Các tác phẩm của ông: 1. Chuyện rút trong các bổn tuồng của W. Shakespeare a. Chú lái buôn thành Venice b. Thái tử Hamlet c. Roméo Juliet d. Vậy thì vậy 2. Cách vật trí tri I, II (1918 sách được giải thưởng của Hội Khuyến học Nam Kì năm 1922) 3. Chuyện vạn quốc 4. Anh hùng hào kiệt của thành Roma ngày xưa 5. Càn khôn Lý học sơ giai 6. Đại Nam Quốc sử diễn ca Cách vật trí tri là một cuốn khoa học thường thức phổ thông viết bằng chữ Quốc ngữ có lẽ sớm nhất trong loại sách giáo khoa trong nhà trường khi chữ Quốc ngữ dùng trong các trường Tiểu học."
 }

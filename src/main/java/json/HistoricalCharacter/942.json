@@ -1,18 +1,16 @@
 {
-  "dateOfBirth" : "1382\n----------------------------------------------\nNhâm Tuất 1382",
-  "dateOfDeath" : "1448\n----------------------------------------------\nMậu Thìn 1448",
-  "hometown" : "quê ở xã Đông Ninh, huyện Đông Sơn, tỉnh Thanh Hóa, Việt Nam.\n----------------------------------------------\nQuê ở thôn Mạc, huyện Đông Sơn, tỉnh Thanh Hóa (nay là xã Vạn Lộc, Đông Sơn, Thanh Hóa)",
-  "occupation" : "Danh tướng trong cuộc khởi nghĩa Lam Sơn và là trọng thần giữ phần đất phía Nam của triều Lê sơ, được cho theo họ vua",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Đại thần",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Thuộc Minh" : 33,
-    "nhà Lê" : null,
-    "Triều Lê Sơ" : 7
+    "Bắc thuộc lần 1" : 6
   },
   "id" : 942,
-  "entityName" : "Nguyễn Chích",
-  "aliases" : [ "Lê Chích" ],
-  "overview" : "Nguyễn Chích (1382–1448) hay Lê Chích (黎隻 ) là công thần khai quốc nhà Lê sơ, người tham gia khởi nghĩa Lam Sơn. Ông quê ở xã Đông Ninh, huyện Đông Sơn, tỉnh Thanh Hóa, Việt Nam.\n----------------------------------------------\nÔng thuở trẻ nghèo khổ, chăn trâu ở vùng núi Hoàng, núi Nghiêu. Khoảng cuối đời Trần, quân Minh xâm chiếm nước ta, ông chiêu tập nghĩa quân hơn 1000 người, đắp 1ũy trong vùng động Hoàng Nghiêu làm căn cứ kháng chiến. Sau ông theo giúp Lê Lợi, làm Nội Thiếu úy công trận rất nhiều, lại từng hiến nhiều kế sách rất hay, thu đạt thắng lợi. Cuối năm 1427, ông cùng Phạm Văn Xảo, Trịnh Khả đánh tan quân Mộc Thạch ở Lê Hoa (Hà Tuyên). Sau khi đuổi xong giặc Minh (1428), ông lại tham gia đánh dẹp cuộc nổi dậy của Đèo Cát Hãn, Cấm Quí. Trong đời Lê Thái tổ, ông được trọng dụng, sang đời Lê Thái tông, ông làm Tổng quản ở Hóa Châu đánh dẹp Chiêm Thành, thanh danh lừng lẫy. Rồi làm Đô đốc từng được tham dự việc triều đình. Năm Mậu thìn 1448, ông mất thọ 66 tuổi được truy tặng chức Tư Không Bình chương sự. Cho đến đời nhà Nguyễn, các triều vua vẫn tưởng niệm ông, liệt ông vào hàng khai quốc công thần nhà Hậu Lê."
+  "entityName" : "Lữ Gia",
+  "aliases" : [ ],
+  "overview" : "Bấy giờ sứ nhà Hán là An Quốc Thiếu Quý vốn là tình nhân cũ của hoàng thái hậu Cù Thị, âm mưu với nhau định đem nước Nam Việt nhập vào lãnh thổ Trung Quốc. Ông hết lời can ngăn không được, bèn truyền hịch khắp nơi tố cáo việc làm hại dân hại nước ấy, rồi đem quân vào cung giết luôn Thiếu Quý, Cù hậu và Ai vương, tôn con trường của Triệu Minh vương là Kiến Đức lên làm vua. Năm sau, nhà Hán sai Phục Ba tướng quân Lộ Bác Đức và Dương Bộc sang đánh. Ông Lữ Gia cầm quân chống cự, lúc đầu giết được tướng Hán là Hàn Thiên Thu. Nhưng sau vì thất thế, ông bị bắt và bị giết. Nước ta bị người Hán cai trị từ đó."
 }

@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "1644",
-  "dateOfDeath" : "1692",
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Tân Mùi 1391",
   "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "occupation" : "Con Trần Nghệ tông, được phong chức Thái úy, tước Trang Định vương.",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "nhà Lê" : null
+    "Nhà Trần" : 15
   },
   "id" : 885,
-  "entityName" : "Nguyễn Viết Thứ",
+  "entityName" : "Trần Ngạc",
   "aliases" : [ ],
-  "overview" : "Nguyễn Viết Thứ (1644-1692) là đại thần nhà Lê trung hưng trong lịch sử Việt Nam."
+  "overview" : "Năm Tân mùi 1391 ông sợ Hồ Quí Ly làm hại nên lẩn trốn về Nam Định. Hồ Quí Ly gièm pha với Nghệ tông, sai Nguyễn Nhân Liệt đem quân đi truy nã. Quí Ly lại ngầm khiến Nhân Liệt phải trừ diệt ông đi, ông bị hành hạ tản nhẫn đến chết. Bình sinh ông hay làm thơ Nôm, sáng tác văn học khá nhiều, nhưng nay thất lạc hầu hết, chỉ còn một bài thơ chữ Hán chép trong Toàn Việt thi lục, đề là TẶNG TƯ ĐỒ TRẦN NGUYÊN ĐÁN. \"Ngã thị đương niên khí vật Công phi đại hạ kì tài Hội thủ nhất ban lão bệnh, Điền viên tảo biện qui lai.\" Bản dịch: Tôi nay vào hạng vất đi rồi, Ông chẳng thế gian bậc kì tài. Cùng bọn già nua suy yếu cả, Điền viên sớm liệu thoái về thôi."
 }

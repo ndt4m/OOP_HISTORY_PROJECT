@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Thủ lĩnh dân tộc miền núi",
+  "dateOfBirth" : "Giáp Ngọ 1894",
+  "dateOfDeath" : "Mậu Ngọ 1978",
+  "hometown" : "quê tỉnh Long Xuyên (nay là An Giang)",
+  "occupation" : "Tu sĩ Công giáo",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Trần" : 15
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 364,
-  "entityName" : "Hà Đặc",
-  "aliases" : [ ],
-  "overview" : "Năm Kỉ mão 1279, giặc Nguyên sang xâm lược, vượt sông Thiên Mạc, tiến binh đến huyện Phù Ninh. Ông đem dân binh lên núi Trĩ cố thủ, quân Nguyên đóng đồn ở động Cự Đà ông làm kế nghi binh để cầm chân giặc rồi bện tre làm bù nhìn cho mặc áo quần giống như người thật, hằng đêm dàn đám bù nhìn ấy ra. Giặc Minh nghi không dám giao chiến. Chẳng bao lâu quân tiếp viện kéo đến, ông hiệp sức đánh phá, giặc tan vỡ. Ông đuổi theo đến vùng A Lạc, rồi bắc cầu nổi sang sông, đánh đuổi cho kì quân địch tan vỡ mới thôi. Em ông là Hà Chương cũng nổi danh anh hùng liệt sĩ kháng Nguyên."
+  "entityName" : "Hồ Huệ Bá",
+  "aliases" : [ "Josep Marie" ],
+  "overview" : "Ông nguyên là đại diện phong trào công giáo \"Kính chúa yêu nước\" miền Nam Việt Nam, nguyên ủy viên ủy ban Trung ương Mặt trận Dân tộc giải phóng miền Nam Việt Nam, ủy viên ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, đại biểu quốc hội khóa IV nước Cộng hòa xã hội chủ nghĩa Việt Nam. Ông được nhà nước tặng các huân chương: - Huân chương kháng chiến hạng nhất. - Huân chương Quyết Thắng hạng nhất. - Huân chương chống Mĩ cứu nước hạng nhất. Ngày 11-4-1978 ông bị bệnh mất, hưởng thọ 84 tuổi. Phần mộ tại xã Long Điền, huyện Chợ Mới, tỉnh An Giang. Tu sĩ Hồ Huệ Bá là tấm gương sáng cho đồng bào theo đạo Thiên chúa, cũng như đối với người trí thức yêu nước trong công cuộc chống xâm lược."
 }

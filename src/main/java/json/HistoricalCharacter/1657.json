@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Canh Ngọ 1930",
+  "hometown" : "quê xã Quỳnh Đôi, huyện Quỳnh Lưu, tỉnh Nghệ An",
+  "occupation" : "Liệt sĩ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
+  },
   "id" : 1657,
-  "entityName" : "Trần Sâm",
+  "entityName" : "Hoàng Văn Hợp",
   "aliases" : [ ],
-  "overview" : "Trần Sâm có thể chỉ:"
+  "overview" : "Ông tham gia Thanh niên Cách mạng đồng chí hội từ năm 1926. Trong phong trào Xô Viết Nghệ Tĩnh, ông chỉ huy cuộc biểu tình, bị bắt. Sau 3 ngày tra tấn dã man, chúng đem bắn ông giữa sân huyện lị. Về trước khoảng năm 1928, có một lần tên quan lại ngỏ ý khuyên ông ra làm việc, ông có bài thơ dí dỏm gián tiếp từ khước ngạo mạn tỏ chí và khinh miệt hạng làm tay sai, bán nước: Nghèo! Nghèo! Nghèo! Tớ quyết cùng mày đánh một keo, Tớ được mày thua mày phải chịu, Tớ thua mày đuợc tớ không theo. Nghe nói Hoa Kì giàu bạc triệu, Mày sang bên ấy kiếm mà tiêu."
 }

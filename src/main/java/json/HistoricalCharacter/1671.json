@@ -1,17 +1,16 @@
 {
-  "dateOfBirth" : "Ất Tị 1905",
-  "dateOfDeath" : "Canh Dần 1950",
-  "hometown" : "quê xã Đạo Thành, huyện Châu Thành, tỉnh Mĩ Tho (nay thuộc thành phố Mĩ Tho, tỉnh Tiền Giang)",
-  "occupation" : "Luật sư",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Thừa Thiên-Huế",
+  "occupation" : "Công chúa",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Nhà Nguyễn độc lập" : 30
   },
   "id" : 1671,
-  "entityName" : "Nguyễn Thành Vĩnh",
+  "entityName" : "Diên Phúc",
   "aliases" : [ ],
-  "overview" : "Sau ngày Nam Bộ kháng chiến, rồi thành lập ủy ban kháng chiến hành chánh Nam Bộ, ông được cử giữ chức Ủy viên Tài chánh, Kinh tế. Ông hi sinh trong bưng biền Đồng Tháp."
+  "overview" : "Chùa Viên Giác ở ấp Bình An, thuộc tỉnh Thừa Thiên, do Hòa Thượng Liễu Quán lập ra, khi xưa gọi là chùa Cát Tường, sau mới đổi là Viên Giác."
 }

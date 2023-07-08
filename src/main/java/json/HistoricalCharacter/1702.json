@@ -1,18 +1,14 @@
 {
-  "dateOfBirth" : "Bính Ngọ 1906",
-  "dateOfDeath" : "Nhâm Thân 1932",
-  "hometown" : "Không rõ",
-  "occupation" : "Liệt sĩ cận đại, con chí sĩ Đỗ Chân Thiết. Thân phụ ông đã cùng các bậc tiền bối hoạt động cứu nước, ông và người chị gái là Đỗ Thị Tâm cũng noi gương cha hiến thân cho tổ quốc, gia nhập Việt Nam Quốc dân đảng.",
+  "dateOfBirth" : "1410",
+  "dateOfDeath" : "1485",
+  "hometown" : "quê ở xã Quảng Bị (tên tục là làng Bợ), nay là xã Thạch Đồng, huyện Thanh Thủy, tỉnh Phú Thọ .",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Đỗ Chân Thiết" : 81
-  },
+  "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
-  },
+  "eraName" : { },
   "id" : 1702,
-  "entityName" : "Đỗ Bàng",
+  "entityName" : "Trần Văn Huy",
   "aliases" : [ ],
-  "overview" : "Khoảng năm 1913, thân phụ ông bị bắt ở Lạng Sơn và bị giết tại đấy. Mang nặng nợ nước, thù nhà ông càng hăng say chống quân cướp nước và bè lũ tay sai. Sau, anh em ông đều bị bắt và chết trong ngục."
+  "overview" : "Trần Văn Huy (1410-1485), tên thường gọi là Quan Thượng Bợ, còn được thờ với tên Đặng Hiên là nhà khoa bảng người Việt Nam, quê ở xã Quảng Bị (tên tục là làng Bợ), nay là xã Thạch Đồng, huyện Thanh Thủy, tỉnh Phú Thọ ."
 }

@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê ở Ái Châu (Thanh Hóa)",
-  "occupation" : "Thiền sư đời Bắc thuộc, quê ở Ái Châu (Thanh Hóa)",
+  "dateOfBirth" : "Kỉ Hợi 1899",
+  "dateOfDeath" : "Bính Thìn 1976",
+  "hometown" : "quê ở Trà Cổ, Hải Ninh, nay thuộc TP",
+  "occupation" : "Nhà văn, nhà soạn kịch",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Bắc thuộc lần lần 3" : 1
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 2772,
-  "entityName" : "Đại Thặng Đăng",
-  "aliases" : [ "Đại Thặng Đăng" ],
-  "overview" : "Ông tư chất thông minh, thuở trẻ theo cha mẹ ra nước ngoài buôn bán, đi thăm các di tích Phật giáo, tại Ấn độ, ông phát nguyện tu hành nơi xứ Phật. Ít lâu, có sứ bộ nhà Đường sang Ấn, ông được mời sang Trung Quốc để cùng nghiên cứu thêm đạo Phật ông từng theo học với thầy Tam Tạng Trần Huyền Trang tại chùa Từ Ân. Ở Trung Quốc ngót 8 năm, ông lại trở về Nam Ấn, xuống Đông Ấn tu tập đến 12 năm nữa, ngụ ở xứ Đam Ma Lập Để. Sau ông mất tại chùa Bát Niết bàn thọ 60 tuổi. Còn đề lại công trình chú giải bộ Diên sinh luận và nhiều kênh khác."
+  "entityName" : "Vi Huyền Đắc",
+  "aliases" : [ "Giới Chi" ],
+  "overview" : "Ông tốt nghiệp Trung học tại Hải Phòng, vào học ở Trường Mĩ thuật Hà Nội. Sau khi tốt nghiệp, ông vào Nam sinh hoạt một thời gian, rồi trở ra Bắc, sáng tác văn học và mở nhà in, nhà xuất bản Thái dương văn khố. Trong kháng chiến chống Pháp, ông tản cư về dạy học ở Yên Mô (tỉnh Ninh Bình). Đến 1954 ông vào Nam, dịch và sáng tác khá nhiều. Từng là Phó chủ tịch Hội Văn bút ở Sài Gòn. Năm Bính thìn 1976 ngày 16-8 Dương lịch ông mất tại Hà Nội, thọ 77 tuổi. Các sáng tác kịch có giá trị: - Uyên ương (1927) - Hoàng Mộng Điệp (1928) - Cô đầu bếp (1930) - Cô đốc Minh (1930) - Hai tối tân hôn (1929) - Nghệ sĩ hồn (1932) - Kinh Kha (1937) - Ông Kí Cóp (1937) - Giê Su, đấng cứu thế (1942) - Lệ Chi viên (1943) - Kim Tiền (1938). - Thành Cát Tư Hãn (1955) Kịch bản phóng tác văn nước ngoài: - Cá nước chim trời (nguyên tác của Đinh Tây Lan). - Láng giềng (nguyên tác của Hoàng Tự Thôn). - Khổng Tử can đạo chích (nguyên tác của Từ Vu). Truyện dịch từ Trung Văn: - Cô gái điên (nguyên tác củaTừ Vu) - Người bạn lòng (nguyên tác của Tuấn Nhân) - Gái thời loạn (nguyên tác của Vũ Văn Hoa) - Ánh đèn (nguyên tác của Từ Vu) - Trên hòn hải đảo (nguyên tác của Quách Tự Phần) - Bóng chim tăm cá (nguyên tác của Chu Xuân Đăng) - Anh hùng tay bánh (nguyên tác của Lý Phí Mông) - Ba đóa hoa (nguyên tác của Quỳnh Dao) - Tấn bi kịch trong đình viên (nguyên tác của Lâm Ngữ Đường) - Khúc ca mùa thu (nguyên tác của Lâm Ngữ Đường) - Một gia đình (của Từ Vu, 1957) - Mạc Tin (bản dịch vở Martine của J.J.Bernard), Đời Nay, 1936. - Người đi (nguyên tác là Marins của M. Pagnol), Tủ sách Thanh Niên, 1963. Biên khảo: - Máy hơi nổ (1956) - Việt tự (một lối Tiếng Việt bỏ được năm dấu), 1929. - Bạch hạc đình (viết năm 1944) - Khóc lên tiếng cười (viết năm 1945) - Vở kịch hay nhất (viết năm 1955) - Nhà có phúc (viết năm 1956)"
 }

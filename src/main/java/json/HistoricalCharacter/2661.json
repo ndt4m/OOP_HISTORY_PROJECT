@@ -1,16 +1,16 @@
 {
   "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
+  "dateOfDeath" : "1414",
+  "hometown" : "quê quán của ông.",
   "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "nhà Lý" : null
+    "nhà Hậu Trần" : null
   },
   "id" : 2661,
-  "entityName" : "Nguyễn Quang Lợi",
+  "entityName" : "Nguyễn Súy",
   "aliases" : [ ],
-  "overview" : "Nguyễn Quang Lợi (?-?) là một đại thần nhà Lý trong lịch sử Việt Nam."
+  "overview" : "Nguyễn Suý (阮帥, ?-1414) là tướng nhà Hậu Trần trong lịch sử Việt Nam. Sử sách không chép rõ về quê quán của ông."
 }

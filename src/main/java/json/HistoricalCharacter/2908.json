@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Quê làng Tảo An, nên tục gọi ông là Tả Ao tiên sinh",
-  "occupation" : "Nhà địa lí nổi danh đời Lê Hi tông",
+  "dateOfBirth" : "Mậu Thìn 1928",
+  "dateOfDeath" : "Canh Tuất 1970",
+  "hometown" : "quê ở tỉnh Thái Bình, sớm giác ngộ cách mạng, tham gia hoạt động từ lúc 12 tuổi",
+  "occupation" : "Liệt sĩ cách mạng",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 2908,
-  "entityName" : "Hoàng Chiêm",
-  "aliases" : [ ],
-  "overview" : "Ông có soạn các sách: - Tả Ao địa lí luận, có 28 địa đồ. - Thiên Nam, địa giám bảo thư. - Tả Ao bí truyền ngọc thư. - Tả Ao tiên sinh địa lí. Bộ Tả Ao địa lí luận (1 quyển), Tả Ao tiên sinh tên là Hoàng Chiêm, sách do ông soạn. Trong sách này có 28 bức họa đồ (tức là 28 kiểu đất). Theo GS Trần Văn Giáp trong sách Tìm hiểu kho sách Hán Nôm thì Chữ Tả Ao trong các bản chép sách Lịch triều hiến chương loại chí của Phan Huy Chú, phần nhiều viết là Tả Ao, tên một làng ở huyện Nghi Xuân, tỉnh Hà Tĩnh. Phan Huy Chú chép: Tả Ao địa lí luận, nhất quyển Tả Ao tiên sinh Hoàng Chiêm soạn, trung hữu nhị thập bát đồ (Sách Tả Ao địa lí luận 1 quyển củaTả Ao tiên sinh là Hoàng Chiêm soạn, trong có 28 bản đồ). Theo sách Tang thương ngẫu lục (q.2, tờ 25) Tả Ao là tên làng của Hoàng Chỉ cho nên người ta gọi tiên sinh bằng tên làng. Thư viện Khoa học xã hội Hà Nội lưu tàng một số sách địa lí đề là của Tả Ao. Phần nhiều là sách giả tạo, làm mê hoặc nguời đời. Vì chính Tả Ao là một nhân vật truyền kì, đến nay vẫn không biết rõ tông tích đích xác. (Theo Trần Văn Giáp)"
+  "entityName" : "Nguyễn Thái Sơn",
+  "aliases" : [ "Bảy Bình" ],
+  "overview" : "Năm 1948, ông được điều động vào Nam hoạt động, suốt 9 năm kháng chiến chống Pháp. Sau hiệp định Genève ông ở lại miền Nam hoạt động. Năm 1959, được bầu vào Ban thường vụ Đặc khu ủy Sài Gòn - Chợ Lớn. Ngày 3-1-1970, bị địch bắn hạ trên đường đi công tác."
 }

@@ -1,16 +1,16 @@
 {
   "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "1460",
+  "dateOfDeath" : "1081",
   "hometown" : "Không rõ",
   "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "nhà Lê" : null
+    "nhà Lý" : null
   },
   "id" : 1301,
-  "entityName" : "Lê Thụ",
+  "entityName" : "Lý Đạo Thành",
   "aliases" : [ ],
-  "overview" : "Lê Thụ (?-1460), là một tướng lĩnh, khai quốc công thần nhà Lê sở trong lịch sử Việt Nam. Lê Thụ phục vụ dưới bốn triều vua Lê Thái Tổ, Lê Thái Tông, Lê Nhân Tông, Lê Nghi Dân, làm quan đến chức Thái úy."
+  "overview" : "Thái sư Lý Đạo Thành (chữ Hán: 李道成; ? - 1081), là quan Tể tướng, đại thần phụ chính dưới hai triều vua nhà Lý là Lý Thánh Tông và Lý Nhân Tông."
 }

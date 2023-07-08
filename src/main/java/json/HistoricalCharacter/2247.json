@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê huyện Cẩm Thủy, tỉnh Thanh Hóa",
-  "occupation" : "Võ tướng đời Lê Trang tông",
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Tân Mão 1591",
+  "hometown" : "Nghệ An",
+  "occupation" : "Văn thần Lê Thế tông, dòng dõi Hồng Quận Công Hoàng Nghĩa Kiêu.",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34
+    "Nam - Bắc Triều" : 19
   },
   "id" : 2247,
-  "entityName" : "Hà Nhân Chính",
+  "entityName" : "Hoàng Nghĩa Thân",
   "aliases" : [ ],
-  "overview" : "Gặp buổi nhiễu nhương ông tận tâm tận lực giúp nước,có công rất nhiều trong thời Trung Hưng nhà hậu Lê, được phong tặng tước Thụy Quận Công. Con ông là Hà Thọ Lộc là đại thần triều Lê Anh tông."
+  "overview" : "Ông dũng cảm, lập nhiều công trong việc bình định nội loạn, nên được phong tước Chiêu Quận Công. Đến năm Tân mão 1591, ông bị quân nhà Mạc giết. Được truy tặng là Thiếu bảo. Con ông là Hoàng Nghĩa Phì là người có danh vọng đương thời."
 }

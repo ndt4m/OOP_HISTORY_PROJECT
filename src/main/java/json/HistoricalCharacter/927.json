@@ -1,22 +1,17 @@
 {
-  "dateOfBirth" : "1567\n----------------------------------------------\nĐinh Mão 1567\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "1599 Đại Việt\n----------------------------------------------\nKỉ Hợi 1599\n----------------------------------------------\nKhông rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua thứ tư nhà Hậu Lê thời Trung hưng\n----------------------------------------------\nVua",
-  "workTenure" : "1573 - 1599\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1433–1442",
-  "fatherName" : {
-    "Lê Anh tông" : null,
-    "Lê Anh Tông" : 2949,
-    "Lê Thái Tổ" : 1167
-  },
+  "dateOfBirth" : "Giáp Thìn 1904",
+  "dateOfDeath" : "Giáp Tuất 1994",
+  "hometown" : "quê huyện Diễn Châu, tỉnh Nghệ An",
+  "occupation" : "Chiến sĩ cách mạng",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Hậu Lê – giai đoạn Lê sơ" : 20,
-    "Nhà Lê trung hưng" : null,
-    "Nam - Bắc Triều" : 19
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 927,
-  "entityName" : "Lê Thái Tông",
-  "aliases" : [ "Tích Thuần Cương Chính Dũng Quả Nghị Hoàng đế (積純剛正勇果毅皇帝)", "Lê Thái Tông", "Lê Duy Đàm (黎維潭)", "Thế Tông (世宗)", "Gia Thái (嘉泰: 1573 - 1577) Quang Hưng (光興: 1578 - 1599)", "Lê Duy Đàm" ],
-  "overview" : "Lê Thế Tông (chữ Hán: 黎世宗; 1567 - 1599), tên húy là Lê Duy Đàm (黎維潭), là vị hoàng đế thứ tư của nhà Lê trung hưng trong lịch sử Việt Nam, ở ngôi từ năm 1573 đến năm 1599.\n----------------------------------------------\nÔng được đưa lên ngôi hồi 6 tuổi, vào tháng giêng năm Quí dậu 1573; nhưng quyền bính thật sự ở trong tay Trịnh Tùng. Kỉ hợi 1599, ngày 24-8 ông băng, mới 32 tuổi. Táng tại Hoa Nhạc lăng ở Đông Sơn tỉnh Thanh Hóa. Con thứ của ông là Duy Tân lên nối, tức Kính tông. Ông ở ngôi 27 năm, đổi hiệu năm 2 lân. - Gia Thái 5 năm. - Quang Hưng 22 năm.\n----------------------------------------------\nLê Thái Tông (chữ Hán: 黎太宗 22 tháng 12 năm 1423 – 7 tháng 9 năm 1442), tên húy Lê Nguyên Long (黎元龍), là vị hoàng đế thứ hai của hoàng triều Lê nước Đại Việt. Thái Tông trị vì từ ngày 20 tháng 10 năm 1433 cho tới khi mất năm 1442, tổng cộng 9 năm."
+  "entityName" : "Nguyễn Kim Cương",
+  "aliases" : [ ],
+  "overview" : "Ông tham gia tổ chức Việt Nam Thanh niên Cách mạng đồng chí hội từ năm 1926, được gởi sang Trung Quốc dự lớp huấn luyện do lãnh tụ Nguyễn Ái Quốc chủ trì. Năm 1927 ông về nước hoạt động ở Nam Bộ được bầu vào xứ ủy An Nam cộng sản đảng. Năm 1930, ông bị bắt ở Sài Gòn đày ra Côn Đảo, sau năm 1945 về đất liền giữ chức Phó ban Tuyên huấn xứ ủy Nam Bộ. Năm 1954 làm Bí thư đảng bộ ban liên lạc Quân sự đình chiến ở Sài Gòn, năm 1960 làm Thứ trưởng Bộ phủ Thủ tướng. Từ năm 1970 làm phó chủ nhiệm ủy ban liên lạc văn hóa nước ngoài của Trung ương đảng. Ông mất năm 1994 tại Hà Nội, thọ 90 tuổi."
 }

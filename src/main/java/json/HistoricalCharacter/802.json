@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "sinh năm 1923",
+  "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "occupation" : "Người đời Tiền Lê",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Nhà Tiền Lê" : 8
+  },
   "id" : 802,
-  "entityName" : "Bùi Diễm",
+  "entityName" : "Hoàng Thành Nhã",
   "aliases" : [ ],
-  "overview" : "Bùi Diễm (sinh năm 1923) là đại sứ Việt Nam Cộng hòa ở Hoa Kỳ từ 1967 đến 1972. Ông từng là học sinh của Đại tướng Võ Nguyên Giáp thời tướng Giáp còn là giáo viên lịch sử tại Trường Tư thục Thăng Long, Hà Nội."
+  "overview" : "Chán công danh, ông lánh mình ở ẩn, nghiên cứu đạo Phật, sùng tính Phật giáo. Nổi tiếng là vị cư sĩ tài năng, nên triều đình vẫn có nhiều lúc vời ông ra giúp việc. Không từ chối được ông vẫn phải gắng gượng giúp ích phần nào về văn hóa, đạo lí. Năm Đinh mùi 1007, ông phụng mạng Lê Ngọa triều (Long Đĩnh) cùng với cư sĩ Minh Xưởng đi sứ nhà Tống. Chuyến đi sứ này, ông có đem về hai bộ Cửu kinh và Địa tạng kinh. Nhà Tiền Lê suy sụp, ông mai danh ẩn tích, không tha thiết việc đời nữa."
 }

@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
+  "dateOfBirth" : "Giáp Ngọ 1414",
   "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "hometown" : "quê xã Tiên Triều, huyện Vĩnh Ninh (sau đổi là Vĩnh Lộc), tỉnh Thanh Hóa",
+  "occupation" : "Danh sĩ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Triều Lê Sơ" : 7
+  },
   "id" : 1030,
-  "entityName" : "Trương Lỗ",
-  "aliases" : [ "Công Kỳ" ],
-  "overview" : "Trương Lỗ (chữ Hán: 張魯; ?-216; bính âm: Zhang Lu), có tên tự là Công Kỳ (公祺), là quân phiệt thời Tam Quốc trong lịch sử Trung Quốc. Ông trấn giữ phía đông Ích châu (Đông Xuyên) trong hơn 20 năm và cuối cùng thất bại về tay Tào Tháo. Trương Lỗ là quân phiệt bị tiêu diệt cuối cùng trong số các quân phiệt thất bại trong chiến tranh quần hùng trước khi thời Tam Quốc chính thức hình thành. Sau khi ông mất quyền làm chủ Hán Trung, lãnh thổ Trung Quốc chỉ còn 3 thế lực: Tào Tháo, Lưu Bị và Tôn Quyền ít lâu sau chính thức lập ra 3 triều đại."
+  "entityName" : "Hoàng Sằn Phu",
+  "aliases" : [ "Hoàng Tâm Phu" ],
+  "overview" : "Năm Nhâm tuất 1442, ông đỗ tiến sĩ làm đến Hoàng môn thị lang, từng dự việc chép sử. Ông có soạn bộ Quần hiền phú tập 6q. Sưu tập các bài phú khoảng cuối đời Trần, đầu đời Lê. Có bài tựa của Nguyễn ThiênTúng đề năm Đinh sửu 1457, Kính Văn Huy phê bình, Nguyễn Duy Tác duyệt lại."
 }

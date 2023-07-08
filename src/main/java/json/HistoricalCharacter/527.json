@@ -1,18 +1,14 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "1410",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đại Việt",
-  "workTenure" : "1407 – 1409",
-  "fatherName" : {
-    "Trần Nghệ Tông" : 2791
-  },
+  "dateOfBirth" : "19 tháng 9, 1916 (101 tuổi)",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "xã Việt Nam, nguyên Phó Chủ nhiệm Ủy ban Khoa học Xã hội (nay là Viện Khoa học Xã hội Việt Nam).",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Nhà Hậu Trần" : 23
-  },
+  "eraName" : { },
   "id" : 527,
-  "entityName" : "Trần Ngỗi",
-  "aliases" : [ "Trần Ngỗi (陳頠)", "Hưng Khánh" ],
-  "overview" : "Giản Định Đế (chữ Hán: 簡定帝, ? - năm 1410), là vị vua đầu tiên của nhà Hậu Trần trong lịch sử Việt Nam. Ông tên thật là Trần Ngỗi (陳頠), sinh tại kinh đô Thăng Long, (nay là Hà Nội, Việt Nam). Có tài liệu phiên âm tên ông là Quỹ. Ông ở ngôi hoàng đế từ năm 1407 đến năm 1409, sau đó làm thái thượng hoàng cho tới năm 1410."
+  "entityName" : "Vũ Khiêu",
+  "aliases" : [ "Đặng Vũ Khiêu" ],
+  "overview" : "Vũ Khiêu, tên thật là Đặng Vũ Khiêu (19/09/1916), là một học giả nghiên cứu về văn hóa Việt Nam, Viện trưởng đầu tiên của Viện Xã hội học Việt Nam, nguyên Phó Giám đốc Thông tấn xã Việt Nam, nguyên Phó Chủ nhiệm Ủy ban Khoa học Xã hội (nay là Viện Khoa học Xã hội Việt Nam)."
 }

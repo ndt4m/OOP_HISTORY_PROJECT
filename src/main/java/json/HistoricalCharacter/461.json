@@ -1,18 +1,16 @@
 {
-  "dateOfBirth" : "1377",
-  "dateOfDeath" : "tháng 4, 1399",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đại Việt",
-  "workTenure" : "27 tháng 12, 1388 - 15 tháng 3, 1398 (9 năm, 78 ngày)",
-  "fatherName" : {
-    "Trần Nghệ Tông" : 2791
-  },
+  "dateOfBirth" : "Đinh Sửu 1517",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Thổ Hoàng, huyện Thiên Thi, tỉnh Hưng Yên",
+  "occupation" : "Danh thần đời Mạc",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Trần" : 15
+    "Nam - Bắc Triều" : 19
   },
   "id" : 461,
-  "entityName" : "Trần Ngung",
-  "aliases" : [ "Trần Ngung (陳顒)", "Thuận Tông (順宗)", "Quang Thái (光泰)" ],
-  "overview" : "Trần Thuận Tông (chữ Hán: 陳順宗, 1377 – tháng 4, 1399), là vị hoàng đế thứ 11 của triều đại nhà Trần trong lịch sử Việt Nam. Ông trị vì từ năm 1388 đến khi bị ép nhường ngôi năm 1398."
+  "entityName" : "Bùi Tuân",
+  "aliases" : [ ],
+  "overview" : "Năm Cảnh lịch 6 (Quí sửu 1553), đời Mạc Phúc Nguyên, ông 36 tuổi, đỗ tiến sĩ. Làm quan đến Tham chính, tính khảng khái cương trực. Các nguời cháu ông là Chân Nam, Công Trí, Công Bảo, Trọng Chính về sau đều thành đạt vẻ vang."
 }

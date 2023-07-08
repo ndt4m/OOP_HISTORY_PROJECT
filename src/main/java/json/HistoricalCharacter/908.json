@@ -1,18 +1,17 @@
 {
-  "dateOfBirth" : "Tuy Viễn (Tây Sơn, Bình Định)",
-  "dateOfDeath" : "10/7/1802 (tức 16 tháng 6 năm Nhâm Tuất) thành cổ Xương Giang",
-  "hometown" : "Không rõ",
-  "occupation" : "Chính cung Hoàng hậu nhà Tây Sơn",
-  "workTenure" : "1791 - 1792",
-  "fatherName" : {
-    "Bùi Đức Lương" : null
-  },
+  "dateOfBirth" : "16 tháng 1 năm 1912 Từ Liêm, Hà Nội\n----------------------------------------------\nNhâm Tí 1912",
+  "dateOfDeath" : "2 tháng 10, 1988 (76 tuổi) Hà Nội\n----------------------------------------------\nMậu Thìn 1988",
+  "hometown" : "tại xã Xuân Phương, huyện Từ Liêm, Thành phố Hà Nội",
+  "occupation" : "Bác sĩ\n----------------------------------------------\nBác sĩ, nhà hoạt động xã hội, chính trị",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "nhà Tây Sơn" : null
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 908,
-  "entityName" : "Bùi Thị Nhạn",
-  "aliases" : [ "Bùi Thị Nhạn", "Đệ nhị Quang Trung hoàng hậu", "Quang Trung Bùi hoàng hậu", "Thái Tổ Vũ hoàng hậu" ],
-  "overview" : "Bùi Thị Nhạn (chữ Hán: 裴氏雁, ?- 1802) là một trong Tây Sơn ngũ phụng thư. Sau này, khi trở thành vợ chính thức của vua Quang Trung (Nguyễn Huệ), bà được tấn phong làm Chính cung Hoàng hậu, và sau đó là Hoàng thái hậu khi con bà (?) là Nguyễn Quang Toản lên nối ngôi vua nhà Tây Sơn trong lịch sử Việt Nam."
+  "entityName" : "Trần Duy Hưng",
+  "aliases" : [ "Trần Duy Hưng" ],
+  "overview" : "Trần Duy Hưng (16 tháng 1 năm 1912 - 2 tháng 10 năm 1988) là một bác sĩ, Chủ tịch Ủy ban Hành chính đầu tiên của Hà Nội (30 tháng 8 năm 1945 đến tháng 12 năm 1946; 1954 đến 1977 - khi ông viết đơn xin nghỉ), Thứ trưởng Bộ Nội vụ, Thứ trưởng Bộ Y tế Chính phủ Việt Nam Dân chủ Cộng hòa.\n----------------------------------------------\nThuở nhỏ ông học ở Hà Nội, sau du học Pháp, tốt nghiệp, về nước hành nghề Bác sĩ tại nội thành Hà Nội. Từng tham gia hoạt động xã hội trong các tổ chức cứu tế ở Hà Nội. Sau cách mạng tháng 8 năm 1945, ông được chính quyền mới của nước VNDCCH mời giữ chức chủ tịch ủy ban hành chánh đầu tiên của Hà Nội. Năm 1946 ông đắc cử Đại biểu Quốc hội khóa I thành viên của ủy ban dự thảo hiến pháp VNDCCH năm 1946. Trong kháng chiến chống Pháp, ông cùng chính phủ rút lên chiến khu Việt Bắc, ông đảm nhiệm nhiều chức vụ trong thời kháng chiến như Thứ trưởng bộ Nội vụ, Bộ y tế, ủy viên Nội vụ trong Hội đồng Quốc phòng... Sau hiệp định Genève, ông về tiếp quản Hà Nội vẫn giữ chức Chủ tịch ủy ban hành chánh và Ủy ban nhân dân TP. Hà Nội liên tục từ năm 1957-1977. Ông mất năm 1988, thọ 76 tuổi."
 }

@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Ất Mão 1675",
-  "dateOfDeath" : "Quí Sửu 1733",
-  "hometown" : "quê làng MinhTảo,huyện Từ Liêm, tỉnh Hà Đông (nay là Hà Nội)",
-  "occupation" : "Danh thần đời Lê Hi tông",
+  "dateOfBirth" : "1371 Hương Xuân Hi, huyện Kim Hoa, châu Tam Đái, lộ Đông Đô\n----------------------------------------------\n…",
+  "dateOfDeath" : "1407 Hải khẩu Ki Lê, huyện Hà Hoa, châu Nhật Nam, lộ Nghệ An\n----------------------------------------------\nĐinh Hợi 1407",
+  "hometown" : "Không rõ",
+  "occupation" : "Danh thần nhà Hồ, ông làm đến Hành khiển hữu tham tri chính sự.",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34
+    "nhà Hồ" : null,
+    "Nhà Hồ" : 9
   },
   "id" : 1508,
-  "entityName" : "Nguyễn Công Cơ",
+  "entityName" : "Ngô Miễn",
   "aliases" : [ ],
-  "overview" : "Năm Đinh sửu 1697 ông đỗ tiến sĩ lúc 22 tuổi, ông là người trẻ tuổi nhất và tài giỏi nhất khoa này. Ông được bổ Hiệu thảo Viện Hàn lâm, rồi thăng Tả thị lang bộ Công (Giáp thân 1704). Năm Ất mùi 1715 ông làm chánh sứ sang Trung Quốc, khi đi sứ về thăng Thượng thư bộ binh. Đến Canh tí 1720, xét thưởng quan lại có thành tích trong 10 năm, ông đứng đầu danh sách được khen thưởng, phong tước Cảo Quận Công hợp cùng Lê Anh Tuấn, Nguyễn Công Hãng vào làm Tham tụng. Sau ông xin đổi sang hàng quan võ, làm đến Thiếu bảo (Đinh mùi 1727). Đến Quí sửu 1733 ông mất, hưởng dương 58 tuối. Tuy làm nên quí hiển, nhưng ông không lập cơ nghiệp riêng gì, nên nổi tiếng thanh bần, được triều đình tặng Thiếu phó."
+  "overview" : "Ngô Miễn (chữ Hán: 吳勉, 1371 - 1407) hoặc Ngô tướng công (chữ Hán: 吳相公) là một danh thần nhà Hồ. Hành trạng của ông được xác thực bởi hai cuốn Nam Ông mộng lục và Đại Việt sử ký toàn thư.\n----------------------------------------------\nNăm Đinh hợi 1407, quân Minh xâm lược, nhà Hồ điêu đứng, nhân dân thảm khổ, ông đau đớn gieo mình xuống sông tử tiết. Vợ là Nguyễn thị cũng tự tử theo chồng. Trong Đại Việt sử kí toàn thư, có ghi truyện Ngô Miễn này, Ngô Sĩ Liên thêm lời bình: \"Vợ Ngô Miễn là Nguyễn thị không những chỉ chết vì tiết nghĩa, lời nói cũng đủ làm bài học cho đời\". Sử ghi lời nói của Nguyễn thị như sau: \"Chồng ta thờ vua, một đời ăn lộc, từ chỗ Trung quan được lên tham dự Chính phủ, nay vì nghĩa mà chết, thế là chết đáng chỗ, còn oán hận gì. Nghĩa vợ chồng, ơn vua tôi, ta không nỡ phụ bạc. Đành chết theo nhau vậy\". Trong Nam Ông mộng lục, Hồ Nguyên Trừng cũng ca tụng tiết nghĩa của vợ chồng Ngô Miễn: \"Than ôi! Chết vì tiết nghĩa là lí đương nhiên của kẻ sĩ đại phu, thế mà có người còn lấy làm khó. Xưa nay, ít nghe có vị quan nào được như vậy. Ngô Miễn là đấng trượng phu chăng! Đến như Nguyễn thị, một người đàn bà mà lâm nguy vẫn nhận ra tiết lớn, biết chồng chết đáng chỗ không ân hận gì, lại còn coi trọng điều nghĩa, xem nhẹ cái sống, nhìn chết như về, có thể gọi là bậc hiền phụ vậy. Trong số đàn bà ngu dại trên đời, những kẻ vì bực tức mà nhảy xuống nước chết nhiều lắm. Đến như vì nghĩa mà bỏ mình thì rất không dễ được!t Hạng người như Nguyễn thị thật đáng ca ngợi thay!\""
 }

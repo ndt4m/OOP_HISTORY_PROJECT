@@ -1,19 +1,16 @@
 {
-  "dateOfBirth" : "1916 Gia Lâm, Bắc Ninh\n----------------------------------------------\nĐinh Tị 1917",
-  "dateOfDeath" : "1963\n----------------------------------------------\nTân Hợi 1971",
-  "hometown" : "quê tỉnh Hà Đông, (nay thuộc TP",
-  "occupation" : "Thủ lãnh, sáng lập viên đảng Dân chủ Việt Nam",
+  "dateOfBirth" : "Nhâm Thìn 1472",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Quê làng Mạn Nhuế, huyện Thanh Lâm, tỉnh Hải Dương",
+  "occupation" : "Danh thần đời Lê Thánh tông. Có sách chép là Võ Dịch",
   "workTenure" : "Không rõ",
-  "fatherName" : {
-    "cụ Dương Đức Hiệp công chức Sở Lao động thời Pháp thuộc ở Hà Nội" : null
-  },
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Triều Lê Sơ" : 7
   },
   "id" : 2586,
-  "entityName" : "Dương Đức Hiền",
-  "aliases" : [ ],
-  "overview" : "Dương Đức Hiền (1916 - 1963 ), là một nhà hoạt động chính trị Việt Nam. Ông là người sáng lập và là Tổng bí thư đầu tiên của Đảng Dân chủ Việt Nam.\n----------------------------------------------\nThuở nhỏ ông là học sinh truờng Bưởi, cựu sinh viên Luật khoa Đông Dương, nhưng năm 40 tốt nghiệp cử nhân luật. Khi còn là sinh viên luật, ông phụ trách Tổng hội sinh viên, thủ lãnh nhóm sinh viên yêu nước Đại học Hà Nội. Những năm 1939 - 1945 là cộng tác viên của báo Thanh Nghị. Năm 1945 rút vào hoạt động bí mật, ủng hộ phong trào Việt Minh, rồi cùng nhóm thành lập đảng Dân chủ Việt Nam. Thời kì còn hoạt động bí mật cho đến cuộc kháng chiến chống Pháp ông đại diện đảng Dân chủ trong Chính phủ lâm thời. Trong Quốc dân đại hội họp ở Tân Trào, ông là Ủy viên Ủy ban Dân tộc giải phóng (7-8-1945), rồi giữ chức Bộ trưởng Bộ Thanh niên trong chính phủ lâm thời (2-9-1945), Đại biểu Quốc hội khóa 1 (1946) đơn vị tỉnh Bắc Ninh, ủy viên chính thức Ban Thường trực Quốc hội và ông cũng là đồng tác giả soạn thảo hiến pháp năm 1946. Trong kháng chiến chống Pháp ông làm việc ở chiến khu Việt Bắc. Hòa bình lập lại ông công tác ở Hà Nội. Ông mất năm 1971 tại Hà Nội, thọ 64 tuổi."
+  "entityName" : "Võ Dương",
+  "aliases" : [ "Võ Dịch" ],
+  "overview" : "Năm Quí sửu 1494 ông đỗ Trạng nguyên. Từ thi Hương đến thi Đình ông đều đỗ đầu làm quan đến Thượng thư bộ Công, từng đi sứ Trung Quốc nhiều lần. Ông có dự vào số 28 người trong Tao đàn do Lê Thánh tông làm chủ soái. Thơ ông phụng họa thơ Thánh tông nhiều bài rất hay. Như bài họa ĐỘNG LỤC VÂN: \"Hồ thiên thâm xứ ỷ tàn ngoan, Tế tế càn khôn tử vọng khoan. Lạn mạn dã hoa khai trúc kính, Bồi hồi nham nguyệt chiếu tùng quan. Phanh trà táo lãnh thương đài hợp. Tẩy nhĩ tuyền thanh bạch thạch hàn. Tới ải sơn tặng trần mộng thiểu Gian biên tẩu diệp tịch thương nhàn.\" Bản dịch: Thẳm sâu chót vót giữa bầu trời, Bốn mặt càn khôn ngó thảnh thơi. Lối trúc hoa đầy khai rực rỡ Cửa tùng trăng núi đối bồi hồi. Trà pha bến nguội lùm rêu biếc Tai rửa dòng trong lạnh đá vôi Sự núi đáng yêu trần mộng ít Bến sông quét lá buổi chiều ngơi."
 }

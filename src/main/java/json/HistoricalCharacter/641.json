@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Kỉ Mão 1399",
-  "hometown" : "quê quán",
-  "occupation" : "Danh sĩ đời Trần Duệ tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Trần" : 15
+  "dateOfBirth" : "589",
+  "dateOfDeath" : "626 (36 – 37 tuổi)",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng thái tử Đại Đường",
+  "workTenure" : "618 - 626",
+  "fatherName" : {
+    "Đường Cao Tổ" : null
   },
+  "motherName" : {
+    "Thái Mục hoàng hậu" : null
+  },
+  "eraName" : { },
   "id" : 641,
-  "entityName" : "Lê Hiến Phủ",
-  "aliases" : [ ],
-  "overview" : "Ông đỗ Bảng nhãn, tính khảng khái, trung trực. Khoảng năm Kỉ mão 1399, ông cùng với Trần Nguyên Hãn, Trần Khát Chân, mưu cuộc lật đổ nhà Hồ lập lại nhà Trần. Việc không thành, ông bị giết, trước khi chết ông có thơ tuyệt mạng: \"Thốn đao trừ tán thiên đại bạch, Nhất tâm báo quốc quỉ thần tri.\" Dịch Tấc dao trừ tàn trời đất rõ, Một lòng báo quốc quỉ thần hay."
+  "entityName" : "Lý Kiến Thành",
+  "aliases" : [ "Thụy hiệu Ẩn Thái tử (隱太子)", "Tỳ Sa Môn" ],
+  "overview" : "Lý Kiến Thành (chữ Hán: 李建成, 589 – 2 tháng 7, năm 626), biểu tự Tỳ Sa Môn (毗沙門), là một Thái tử nhà Đường. Ông là con trưởng của hoàng đế khai quốc Đường Cao Tổ Lý Uyên, được phong làm Thái tử sau khi triều đại thành lập vào năm 618."
 }

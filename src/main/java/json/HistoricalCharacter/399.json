@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Đinh Sửu 1937",
-  "dateOfDeath" : "Quí Sửu 1973",
-  "hometown" : "tại làng Thế Lại thượng, huyện Hương Thủy, tỉnh Thừa Thiên (nay là tỉnh Thừa Thiên - Huế)",
-  "occupation" : "Liệt sĩ hiện đại",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "dateOfBirth" : "503",
+  "dateOfDeath" : "559",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế nhà Nam Trần",
+  "workTenure" : "557 – 559",
+  "fatherName" : {
+    "Trần Văn Tán" : null
+  },
   "motherName" : { },
   "eraName" : {
-    "Nước Việt Nam mới" : 29
+    "Nam Trần" : null
   },
   "id" : 399,
-  "entityName" : "Ngô Kha",
-  "aliases" : [ ],
-  "overview" : "Thời trai trẻ ông học trường Quốc học Huế, đậu tú tài II ông thi đậu vào trường Đại học sư phạm Huế (khóa cấp tốc 1957-1959). Tốt nghiệp ông dạy tại trường Quốc học, Hàm Nghi. Trong thời gian dạy học ông học thêm đỗ cử nhân luật khoa (1962). Đầu năm 1966, ông bị động viên vào trường sĩ quan trừ bị Thủ Đức của quân đội Sài Gòn. Ra trường Thủ Đức, dù đang ở trong quân ngũ ông tham gia các tổ chức cách mạng bí mật từng tổ chức các cuộc biểu tình phản chiến của một bộ phận quân đội Sài Gòn ở miềnTrung (Đà Nẵng) ông bị bắt đưa đi giam ở đảo Phú Quốc (thuộc tỉnh Kiên Giang) một thời gian mới được trả tự do. Sau đó về dạy tại trường cũ (Quốc học). Đến năm 1971 lúc đang dạy tại trường Quốc học - Huế ông bị bắt một lần nữa và bị địch thủ tiêu trong tù vào đầu năm. Sau ngày thống nhất đất nước, vào năm 1983, ông được nhà nước và chính phủ CHXHCNVN truy tặng liệt sĩ. Các tác phẩm: - Hoa Cô độc (thơ, 1962) - Ngụ ngôn của người đãng trí (trường ca, 1969) - Trường ca hòa bình (1969) - Thơ Ngô Kha (1991)"
+  "entityName" : "Trần Bá Tiên",
+  "aliases" : [ "Vũ hoàng đế", "Vĩnh Định: 10/557-559", "Trần Bá Tiên (陳霸先)", "Cao Tổ (高祖)" ],
+  "overview" : "Trần Vũ Đế (chữ Hán: 陳武帝), tên thật là Trần Bá Tiên (陳霸先; 503 - 559) là vị vua đầu tiên, người sáng lập ra nhà Trần thời Nam-Bắc triều trong lịch sử Trung Quốc."
 }

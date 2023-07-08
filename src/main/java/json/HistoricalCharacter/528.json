@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Bính Dần 1866",
-  "dateOfDeath" : "Nhâm Ngọ 1942",
-  "hometown" : "tại làngThọ Lộc, TP",
-  "occupation" : "Nhà giáo dục cuối triều Nguyễn",
+  "dateOfBirth" : "Quí Sửu 1913",
+  "dateOfDeath" : "Kỉ Hợi 1959",
+  "hometown" : "tại Kim Can, huyện Thanh Hà, tỉnh Hải Dương",
+  "occupation" : "Nhà văn hiện đại",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 528,
-  "entityName" : "Nguyễn Minh Hòe",
-  "aliases" : [ ],
-  "overview" : "Xuất thân trong một gia đình võ quan, thân phụ là một Quản đốc chiến thuyền cuối đời vua Tự Đức. Lúc thiếu thời ông được gia đình cho vào học trường Chasseloup Laubat ở Sài Gòn. Tốt nghiệp trung học, về làm việc ở Huế, có lúc theo Nguyễn Thân làm thông ngôn khi Pháp và Thân đem quân ra Hà Tĩnh đàn áp nghĩa quân Phan Đình Phùng. Từ năm 1894 chuyển về làm thông ngôn tại tòa khâm sứ Huế một thời gian dạy Pháp văn tại Trường Quốc học Huế. Tại đây ông cộng tác với tạp chí Những người bạn cố đô Huế (Association des amis du vieux Hue); trên tạp chí giá trị này, ông có nhiều chuyên đề thâm cứu về văn hóa, nghệ thuật Việt Nam. Ông là một trong những hội viên thường trực của Những người bạn cố đô Huế (Association des amis du vieux Hue), hội này được thành lập ngày 16-11-1913 do đề nghị của linh mục học giả Léopold Cadière. Từ năm 1901-1911 ông làm Giám đốc kiêm giáo sư Trường Sư phạm Pháp Việt, kế tiếp làm hiệu trưởng Trường Hậu bố Huế (1911-1917). Đến năm 1923 giữ chức Thượng thư bộ Lễ sung Cơ mật viện Đại thần Thái tử Thiếu bảo, rồi về hưu năm 1935. Hội và tạp chí Những người bạn cố đô Huế mà ông là một trong các hội viên thường trực đã có những đóng góp lớn vào công việc nghiên cứu và bảo tồn với mục đích là \"sưu tầm, bảo tồn và truyền đạt những dấu tích xưa về chính trị, tôn giáo, nghệ thuật và văn học châu Âu cũng như bản xứ, liên quan đến Huế và phụ cận\". Ông (NĐH) là một trong các cây bút chính của tạp chí giá trị này. Ông mất năm 1942 tại Huế, thọ 76 tuổi."
+  "entityName" : "Phạm Văn Thứ",
+  "aliases" : [ "Mạnh Phú Tư" ],
+  "overview" : "Trước Cách mạng tháng Tám ông là nhà viết tiểu thuyết xã hội được độc giả hoan nghênh. Toàn quốc kháng chiến ông tham gia kháng chiến chống Pháp, góp công tích cực trong cuộc trường chinh chống ngoại xâm. Năm Kỉ hợi 1959 (ngày 24-2 Dương lịch) ông mất tại Hà Nội, hưởng dương 46 tuối. Các tác phẩm của ông: - Làm lẽ (1940) - Nhạt tình (1939) - Sống nhờ (1942) - Rãnh cày nổi dậy (1946) - Anh hồi sinh (1946) - Một thiếu niên (1944) - Một cảnh sống - Người chịến sĩ cụt tay (1952) - Người vợ già - Nhẹ bước (1946)"
 }

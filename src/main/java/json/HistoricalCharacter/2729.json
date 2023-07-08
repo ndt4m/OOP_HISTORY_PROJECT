@@ -1,17 +1,16 @@
 {
-  "dateOfBirth" : "1808\n----------------------------------------------\nMậu Thìn 1808",
-  "dateOfDeath" : "1898\n----------------------------------------------\nMậu Tuất 1898",
-  "hometown" : "quê huyện Phong Phú, tỉnh Quảng Bình",
-  "occupation" : "Danh thần đời ",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê xã Hành Thiện, tỉnh Nam Định",
+  "occupation" : "Chí sĩ cận đại, ông từng sát cánh với Phan Bội Châu hoạt động cứu nước",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nhà Nguyễn độc lập" : 30
+    "Pháp đô hộ" : 11
   },
   "id" : 2729,
-  "entityName" : "Võ Trọng Bình",
-  "aliases" : [ "Sư Án", "Đức", "Vũ Trọng Bình" ],
-  "overview" : "Võ Trọng Bình hay Vũ Trọng Bình (武仲平, 1808-1898) , tự Sư Án, là một đại thần thời nhà Nguyễn trong lịch sử Việt Nam. Ông làm quan trải chín đời vua, nổi tiếng là người có tính cương trực, thanh liêm và biết quý trọng dân .\n----------------------------------------------\nNăm Bính thân 1836 ông đỗ Cử nhân, làm Phủ doãn Thừa Thiên. Ông có tiếng thơ văn, giỏi việc chính trị, khi làm quan thăng dần đến Tổng đốc Ninh Thái (Ninh Bình, Thái Bình). Năm Giáp tuất 1874 được cử làm Tổng đốc Sơn Hưng Tuyên. Khi tuổi cao, ông xin về hưu, nhưng không được, lại đổi làm Tổng đốc Định An. Về sau, ông làm Thượng thư bộ Hộ, từng làm Chủ khảo các kì thi Hương, thi Hội rồi hưu trí. Năm Mậu tuất 1898 ông mất tại quê nhà thọ 90 tuổi, được truy tặng là Hiệp biện đại học sĩ."
+  "entityName" : "Đặng Tử Mẫn",
+  "aliases" : [ ],
+  "overview" : "Ông cùng với Đặng Bỉnh Thành và Phạm Chấn Yêm là ba ủy viên đặc trách kinh tế trong hội Duy tân. Khi bị chính phủ Nhật trục xuất, ông sang Trung Quốc, từng đảm nhận việc chế tạo bom, lựu đạn. Có lần bị thuốc nổ, ông thoát chết, nhưng đứt mất ba ngón tay. Ông vẫn hăng say hoạt động cứu nước. Sau đó ông bị bọn đế quốc bắt giam tại Hương Cảng gần 6 tháng. Ra tù, ông sang Thái Lan tiếp tục vận động cách mạng. Năm Mậu thân 1908, ông gia nhập hội Đông Á đồng minh. Năm Nhâm tí 1912 hội Việt Nam quang phục ra đời. Ông và Mai Lão Bạng làm ủy viên kinh tế trong ban chấp hành."
 }

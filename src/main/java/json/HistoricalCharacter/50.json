@@ -1,16 +1,21 @@
 {
-  "dateOfBirth" : "Canh Dần 1170",
+  "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
-  "hometown" : "quê làng An Đề huyện Thư Trì, tỉnh Nam Định",
-  "occupation" : "Danh sĩ đời Lý Cao tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
+  "hometown" : "Không rõ",
+  "occupation" : "Hùng Vương\n----------------------------------------------\nNhân vật dã sử, theo cổ sử Việt Nam, cách nay hơn 4 nghìn năm, theo truyền thuyết vua Đế Minh là cháu ba đời của Viêm Đế họ Thần Nông đi tuần du phương Nam, lấy con gái Vũ Tiên, sinh ra Kinh Dương Vương được vua cha cho làm vua phương Nam gọi là nước Xích Quỷ lập ra họ Hồng Bàng\n----------------------------------------------\nVua",
+  "workTenure" : "? - Thế kỷ VII TCN\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n2525 TCN–2253 TCN",
+  "fatherName" : {
+    "Kinh Dương Vương" : 180
+  },
+  "motherName" : {
+    "Long Mẫu Thần Long" : null
+  },
   "eraName" : {
-    "Nhà Lý" : 14
+    "Hồng Bàng" : 17,
+    "Dựng nước" : 31
   },
   "id" : 50,
-  "entityName" : "Đặng Nghiêm",
-  "aliases" : [ ],
-  "overview" : "Năm Ất tị 1185, ông đỗ khoa thi chọn hiền sĩ, mới 15 tuổi được vào hầu giảng sách cho vua nghe. Ông làm quan đến Thị lang bộ Công, tăm tiếng ông vang lừng vượt hẳn các sĩ phu đương thời. Ông là người khoa hoạn hiển đạt đầu tiên trong tỉnh Nam Định."
+  "entityName" : "Lạc Long Quân",
+  "aliases" : [ "Sùng Lãm", "Hùng Hiền Vương", "Lạc Long Quân" ],
+  "overview" : "Lạc Long Quân (khoảng thế kỷ 8-7 TCN) (chữ Hán: 貉龍君 ) tên húy là Sùng Lãm (崇纜), là nhân vật truyền thuyết Việt Nam.\n----------------------------------------------\nLạc Long Quân lấy bà Âu Cơ sinh ra trăm con, bèn chia đôi, 50 con theo mẹ lên miền núi, 50 con theo cha xuống miền biển. Con trưởng nối ngôi gọi là Hùng Vương, đặt tên nước là Văn Lang. Các vua kế tiếp vẫn gọi là Hùng Vương. Sau nước Văn Lang bị vua Thục chiếm. Họ Hồng Bàng ở ngôi được 2.622 năm.\n----------------------------------------------\nLạc Long Quân (chữ Hán: 貉龍君, 2825 TCN - 2524 TCN), tên húy là Sùng Lãm (崇纜), là một vị vua truyền thuyết của lịch sử Việt Nam. Theo Đại Việt Sử ký Toàn thư thì cha ông là Kinh Dương Vương Lộc Tục và mẹ ông là là Thần Long - con gái của Động Đình Quân. Lạc Long Quân được xem là vị vua của nhà nước sơ khai Xích Quỷ trước nhà nước Văn Lang. Lạc Long Quân và Âu Cơ được xem là thủy tổ sinh ra dân tộc Việt Nam theo truyền thuyết \"bọc trăm trứng\". Lạc Long Quân có thể là danh hiệu truyền lại trong dã sử của một tù trưởng đã có công trong việc đi đến thống nhất các bộ tộc người Lạc Việt. Con trai ông là tù trưởng bộ lạc Văn Lang đã thống nhất thành công 15 bộ lạc, thành lập nhà nước Văn Lang, xưng hiệu Hùng Vương thứ nhất."
 }

@@ -1,16 +1,14 @@
 {
-  "dateOfBirth" : "Nhâm Tuất 1922",
-  "dateOfDeath" : "Kỉ Dậu 1969",
-  "hometown" : "quê xã Vĩnh Lộc, huyện Bình Chánh, tỉnh Gia Định, bí danh Năm Tấn",
-  "occupation" : "Liệt sĩ hiện đại, quê xã Vĩnh Lộc, huyện Bình Chánh, tỉnh Gia Định",
-  "workTenure" : "Không rõ",
+  "dateOfBirth" : "507",
+  "dateOfDeath" : "556",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng Đế Bắc Chu",
+  "workTenure" : "Thụy phong",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Nước Việt Nam mới" : 29
-  },
+  "eraName" : { },
   "id" : 2392,
-  "entityName" : "Huỳnh Văn Bánh",
-  "aliases" : [ "Năm Tấn" ],
-  "overview" : "Sau hiệp định Genève ông ở lại miền Nam hoạt động. Trong kháng chiến chống Mĩ ông được cử vào ban thường vụ Khu ủy Sài Gòn - Gia Định, phụ trách an ninh phân khu. Ông hi sinh ngày 8-6-1969 tại ấp Bến Súc, xã Thanh Tuyền, huyện Bến Cát, tỉnh Bình Dương sau một đợt bom rải thảm của B52."
+  "entityName" : "Vũ Văn Thái",
+  "aliases" : [ "Thụy hiệu Văn Hoàng Đế (文皇帝) Miếu hiệu Thái Tổ (太祖)", "Hắc Thát", "Hiếu Mẫn Đế" ],
+  "overview" : "Vũ Văn Thái (chữ Hán: 宇文泰; 507-556), họ kép Vũ Văn (宇文), tự Hắc Thát (黑獺) là Thượng trụ nhà Tây Ngụy thời Nam Bắc triều trong lịch sử Trung Quốc. Ông là người đặt cơ sở cho sự ra đời của nhà Bắc Chu. Đương thời, ông là người đối trọng với Cao Hoan (Thượng trụ nhà Đông Ngụy - người có vai trò như Vũ Văn Thái tại Đông Ngụy) sau khi Bắc Ngụy phân liệt. Sau khi ông mất, năm 557, cháu là Vũ Văn Hộ ép Tây Ngụy Cung đế nhượng ngôi cho con Vũ Văn Thái là Vũ Văn Giác, tức Hiếu Mẫn Đế, lập ra nhà Bắc Chu. Ông được truy tôn miếu hiệu là Thái tổ, thụy hiệu là Văn Hoàng đế"
 }

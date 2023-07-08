@@ -1,21 +1,23 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "1802\n----------------------------------------------\nNhâm Tuất 1802",
-  "hometown" : "Bình Định",
-  "occupation" : "Con trưởng vua Quang Trung",
+  "dateOfBirth" : "19 tháng 8, 1466 Đông Kinh\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "6 tháng 11, 1502 (36 tuổi) Đông Kinh\n----------------------------------------------\nNhâm Tuất 1503",
+  "hometown" : "Không rõ",
+  "occupation" : "Tác giả",
   "workTenure" : "Không rõ",
   "fatherName" : {
-    "vua Quang Trung" : null
+    "Lê Thánh tông" : null,
+    "Lê Thánh Tông" : 134
   },
   "motherName" : {
-    "một người hầu" : null
+    "Nhu Huy hoàng hậu" : null,
+    "là thân sinh Lê Tương Dực" : null
   },
   "eraName" : {
-    "Nhà Tây Sơn" : 21,
-    "nhà Tây Sơn" : null
+    "Triều Lê Sơ" : 7,
+    "Nhà Hậu Lê" : 20
   },
   "id" : 2442,
-  "entityName" : "Nguyễn Quang Thùy",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Quang Thùy (chữ Hán: 阮光垂; ? - 1802), là con vua Quang Trung và là Tiết chế thủy bộ chư quân miền Bắc của nhà Tây Sơn trong lịch sử Việt Nam.\n----------------------------------------------\nNhững năm vua Quang Trung ra Bắc phò Lê diệt Trịnh ông được theo dự các trận đánh lớn. Sau khi Nguyễn Huệ rút về Phú Xuân, Nguyễn Quang Thùy ở lại \"cai trị xứ Bắc Kì\". Vua Quang Trung lên ngôi hoàng đế, ông được phong chức Khanh công, lãnh Bắc thành tiết chế thủy bộ chư quân. Năm 1790, vâng lệnh vua cha theo sứ bộ do \"giả vương\" Phạm Công Tri dẫn đầu sang Trung Quốc nhận phong. Sau khi vua Quang Trung qua đời, ông vẫn giữ chức cũ ở Bắc thành, kiên quyết bảo vệ ngai vàng cho em dù ở triều đình các cận thần thanh toán nhau. Năm 1801 Nguyễn Ánh kéo quân ra Thăng Long, vua Cảnh Thịnh chống giữ không nổi, ông cùng với các anh em và cận thần chạy lên vùng ngược, nửa đường bị quân Nguyễn Ánh bắt được, ông tự tử cùng với em là Nguyễn Quang Thiện."
+  "entityName" : "Lê Tân",
+  "aliases" : [ "Đức Tông (德宗)", "Lê Tân (黎鑌)", "Phối Thiên Dụ Thánh Ôn Lương Quang Minh Văn Triết Khoan Hoằng Chương Tín Tuy Hưu Mục Hiếu Kiến hoàng đế (配天裕聖溫良光明文哲寬弘彰信綏休睦孝建皇帝)", "Kiến Vương Tân", "Lê Đức Tông" ],
+  "overview" : "Lê Tân (chữ Hán: 黎鑌; 19 tháng 8, 1466 – 6 tháng 11, 1502 ), còn gọi là Lê Đức Tông (黎德宗) hay Kiến Trinh Tĩnh vương (建貞靚王) , là một tông thất nhà Lê sơ trong lịch sử Việt Nam.\n----------------------------------------------\nBình sinh ông hiếu học, có soạn tập Lạc Uyển thư nhàn hay Lạc Uyển dư nhàn. Năm Nhâm tuất 1502, tháng chạp đời Lê Hiến tông, ông mất. Đến năm Kỉ tị 1509, ngày 29 tháng chạp được truy phong Đức Tông Kiến Hoàng đế. Bộ Lạc Uyển thư nhàn (1 quyển) do Kiến vương Lê Tân biên soạn vào đời vua Lê Thánh tông. Phan Huy Chú ghi tên sách này là Lạc Uyển dư nhàn và bình luận, đánh giá là: \"Kiến vương là nguời trầm tĩnh sâu xa, ham học, giỏi văn. những bài họa thơ ngự chế của vua Lê Thánh tông có nhiều câu hay... Cách điệu trong trẻo mà khỏe khoắn, được nhiều người đương thời khen ngợi\"."
 }

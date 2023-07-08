@@ -1,17 +1,18 @@
 {
-  "dateOfBirth" : "Canh Tuất 1910",
-  "dateOfDeath" : "Kỉ Tị 1989",
-  "hometown" : "tại Hà Nội, quê làng Tử Nê, huyện Tiên Du, tỉnh Bắc Ninh, sống và làm việc tại Hà Nội",
-  "occupation" : "Kịch tác gia",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Xử sĩ cuối đời Trần, sách Nhân vật chí vựng biên chép là Bùi Mộng Ba",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Nhà Trần" : 15,
+    "Hậu Trần" : null,
+    "Nhà Hồ" : 9
   },
   "id" : 305,
-  "entityName" : "Đoàn Phú Tứ",
-  "aliases" : [ ],
-  "overview" : "Thuở nhỏ học ở Hà Nội, tốt nghiệp tú tài Pháp, gia nhập làng văn từ những năm 1925-1926, cộng tác với các báo: Đông Tây, Phong Hóa, Ngày Nay, Hà Nội báo, Tinh Hoa, Thanh Nghị... đồng thời dạy tại các trường tư ở Hà Nội. Từ năm 1936 về sau chuyên viết kịch, rất ít làm thơ, nhưng đặc biệt thơ ông lúc mới ra đời tức khắc gây nên một ấn tượng nơi độc giả và trở thành một thi phái độc đáo của văn chương Việt Nam; đó là trường phái Xuân Thu Nhã tập mà ông là trưởng nhóm. Nhóm gồm các cây bút chủ lực: Thê Húc, Nguyễn Xuân Khoát, Nguyễn Đỗ Cung, Nguyễn Lương Ngọc, Phạm Văn Hạnh, Nguyễn Xuân Sanh... đã gây nên một dấu ấn lớn trong văn học Việt Nam. Năm 1937 ông làm chủ nhiệm Kịch đoàn Tinh Hoa, báo Văn học Tinh hoa và tác giả bài thơ nổi tiếng Màu thời gian trong lịch sử văn học nước nhà. Năm 1941 cộng tác với báo Thanh Nghị chuyên về lí luận thơ và nhạc hiện đại, theo khuynh hướng ấn tượng. Năm 1946 đắc cử Đại biểu Quốc hội đơn vị tỉnh Nam Định. Sau ngày 19-12- 1946 tham gia kháng chiến chống Pháp, công tác trong đoàn sân khấu Việt Nam chuyên viết và diễn kịch. Các tác phẩm chính, trong đó có các cuốn đáng chú ý: Trước năm 1945 - Ngã ba, Mơ hoa - Sau đêm khiêu vũ - Hai vợ chồng - Người đàn ông - Ghen Sau năm 1954 ông chuyên về dịch thuật các giai tác văn chương Pháp, Anh: - Đỏ và đen - Hài kịch Molière - Figaro cưới vợ - Người thợ cạo thành Xê-vin... Bài thơ Màu thời gian đã trở thành một giai tác và cũng gây nên một ấn tượng lớn đối với văn chương Việt Nam, trong đó có những câu bất hủ sẽ sống mãi với những người yêu thơ: … Màu thời gian không xanh. Màu thời gian tím ngát. Hương thời gian không nồng Hương thời gian thanh thanh. … Duyên trăm năm đứt đoạn Tình một thuở còn hương. Hương thời gian thanh thanh Màu thời gian ngát ngát. Ông mất năm 1989 tại Hà Nội, thọ 79 tuổi."
+  "entityName" : "Bùi Mộng Hoa",
+  "aliases" : [ "Bùi Mộng Ba" ],
+  "overview" : "Khi chúa Chiêm Thành Chế Bổng Nga đem quân xâm lược nước ta, quan trấn Quảng Oai Lê Bật ôn ra chống cự bị chết trận, Trần Nghệ tông quyết định chạy ra Đông Ngạn để tránh giặc, Bùi Mộng Hoa bèn để cả triều phục lội xuống nước níu thuyền ngự lại, xin nhà vua đừng bỏ đi, hãy cứ bình tĩnh ở lại liệu cách cứu nước, nhưng vua không nghe. Mùa hạ đại hạn, Thượng hoàng Trần Nghệ tông xuống chiếu cầu có người nói thẳng việc triều chính thuở ấy. Ông dâng thư có câu: \"Thần nghe các trẻ con hát rằng: Thâm tai Lê sư, tất nhiên thái sư Lê Quí Ly có dị chí\". Thượng hoàng đem lời ấy bảo cho Quí Ly biết. Ông đành ẩn thân. Tuy nhiên, khi Quí Ly chuyên chính, vẫn có ý muốn dùng ông, hằng cho người vời đến, nhưng ông giả cách nghễnh ngãng mà từ chối. Khi quân Minh xâm lược nước ta, ông thường dự bàn mưu lược, khuyến khích các nghĩa sĩ nhà Hậu Trần hi sinh cứu nước. Đến khi việc lớn không thành, ông lánh mình vào chốn núi sâu. Đức độ ông cao khiết, do đó ông cùng với Chu Vân An, Đặng Tảo, Trương Đỗ, Trần Đinh Thâm được nhân dân xưng tặng vào hàng cao sĩ."
 }

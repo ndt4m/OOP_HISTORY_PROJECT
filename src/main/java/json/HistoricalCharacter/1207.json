@@ -1,17 +1,19 @@
 {
-  "dateOfBirth" : "Ất Hợi 1875",
-  "dateOfDeath" : "Bính Tuất 1946",
-  "hometown" : "quê làng Thiềng Đức tỉnh Vĩnh Long",
-  "occupation" : "Nhạc sĩ cổ nhạc ",
+  "dateOfBirth" : "Mậu Tí 1828",
+  "dateOfDeath" : "Đinh Hợi 1887",
+  "hometown" : "quê làng Cách Bi, tục gọi là làng Gạch, huyện Quế Dương, tỉnh Bắc Ninh (nay là huyện Quế Võ)",
+  "occupation" : "Chí sĩ yêu nước cận đại",
   "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "fatherName" : {
+    "Tri huyện Nguyễn Hành" : null
+  },
   "motherName" : { },
   "eraName" : {
     "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Nhà Nguyễn độc lập" : 30
   },
   "id" : 1207,
-  "entityName" : "Trần Quang Quờn",
-  "aliases" : [ ],
-  "overview" : "Ông thông chữ Hán, từng làm Kinh lịch ở tòa án Vĩnh Long, nên còn gọi là Kinh lịch Quờn (tức Quyền). Ông là một danh tài về cầm, kì, thi họa, có nhiều tác phẩm, đã được người trong giới cầm ca ca ngợi là mực thước tài hoá trong truyền thống âm nhạc dân tộc. Ông sở trưởng đặt bài ca và soạn tập Nhạc hiện đại (Moderne musique) cố ý chấn chỉnh lại nền cổ nhạc cho phù hợp với thời đại. Nhiều bản nhạc của ông còn truyền tụng đến nay, trong đó có bài Thiên Tường (viết về Bá Lý Hề nổi tiếng) và cũng là người góp công việc vào việc hình thành bộ môn nghệ thuật cải lương hồi đầu thế kỉ. Ông mất năm Bính tuất, 1946, thọ 71 tuổi."
+  "entityName" : "Nguyễn Cao",
+  "aliases" : [ "Trác Phong", "Cách Pha" ],
+  "overview" : "Nguyễn Cao được họ hàng tận tình giúp đỡ, nuôi cho ăn học. Năm Đinh mão 1867 ông đỗ cử nhân, sơ bổ Tri huyện Yên Dũng. Rồi thăng Tri phủ Lạng Giang; sau làm Bố chính Thái Nguyên. Giặc Pháp xâm lăng, từ 1883-1886 ông cùng các nhân sĩ tổ chức kháng chiến, rồi sung chức Tán tương quân vụ (1886). Chống giặc ít lâu ông lui về ẩn náu trong Vùng phủ Ung Hòa, Hà Nội, vẫn tích cực hoạt động. Năm Đinh hợi 1887 sa vào tay giặc, ông đâm bụng, moi ruột tử tiết, hưởng dương 59 tuổi. Nguyễn Quang Bích có bài thơ khóc điếu ông khi hay tin ông hi sinh: \"Lâm nguy kiến tiết tự thung dung, Tu đối thâu sinh ngữ cánh hùng. Mạ khẩu vị năng đương nhất tử, Dịch trường thí vấn thục phi trung. Giải nguyên thanh giá văn chương ngoại, Bất hủ tinh linh vũ trụ trung. Bao điều thượng tu tha nhật sự, Tranh vanh nghĩa liệt thất cuồng nhung.\" Bản dịch: Nguy nan xử trí vẫn thung dung, Chê kẻ tham sinh giọng nói hùng. Mắng giặc người xưa tròn phận chết, Moi lòng ông cũng tỏ gan trung, Biết bao thanh giá ngoài khoa bảng. Còn mãi tinh thần khoảng núi sông. Quân giặc đứng trông đều hoảng sợ, Mai này nước sẽ biểu dương ông."
 }

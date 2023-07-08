@@ -1,14 +1,17 @@
 {
-  "dateOfBirth" : "1935 Hà Nội",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Đinh Mùi 1907",
+  "dateOfDeath" : "Đinh Mão 1987",
+  "hometown" : "tại làng Vĩnh Kim, huyện Sầm Giang, tỉnh Mĩ Tho (nay thuộc tỉnh Tiền Giang)",
+  "occupation" : "Nhà thơ trào phúng",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
+  },
   "id" : 3068,
-  "entityName" : "Nguyễn Trung",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển ."
+  "entityName" : "Lê Văn Chánh",
+  "aliases" : [ "Tú Thịt", "Tế Nhị", "Lê Zyn" ],
+  "overview" : "Thuở nhỏ học ở Mĩ Tho, Sài Gòn (cựu học sinh rường Chasseloup Laubat) tốt nghiệp Trung học ông làm công chức ở Nam Kì mãi đến những năm 60 rồi về hưu sống ở Phú Nhuận đến ngày qua đời. Tại Sài Gòn ông gia nhập các tổ chức văn học, văn nghệ... Từng cộng tác với các báo Kiến Thiết (1946), Việt bút (1946-1947), Dân Thanh (1948), Tự do, Ánh sáng, Tiếng nói dân tộc, Thần chung, Đuốc nhà Nam... Vào cuối đời ông có bài thơ Cảm tác, họa đáp bài thơ cùng tên của Trần Văn Hương (1901-1982) bạn học của ông. Định mệnh tin chơi thử một phần, \"Dòng sông\" ai tắm được hai lần. Nếu xem tất cả là hư ảnh! Thì có gì đâu hỏi hiện thân. Ngoài chuyện mơ hồ... thù với bạn, Trong vòng lẩn quẩn nước và dân Lật qua trang cuối mùa thu ấy Thật tế giờ đây… đã lột trần (17-2-1976) Các tác phẩm: - Bạn gia đình (1927, Sài Gòn) - Chí trượng phu (tiểu thuyết, 1928) - Nhếch mép (thơ trào lộng, 1964) - Một vòng quanh phố (thơ) - Phút trầm tư (thơ) - Ngược dấu thời gian (thơ) Và rất nhiều bài văn tế có giá trị lịch sử."
 }

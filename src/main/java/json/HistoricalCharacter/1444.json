@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "sinh năm 1955",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Canh Tuất 1190",
+  "hometown" : "quê ở Ô Diên",
+  "occupation" : "Thiền sư đời Lý Cao tông, không rõ tên thật",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Nhà Lý" : 14
+  },
   "id" : 1444,
-  "entityName" : "Nguyễn Văn Ninh",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Văn Ninh (sinh năm 1955) tại Thái Bình là một Trung tướng Công an Nhân dân Việt Nam. Ông từng làm Giảng viên Đại học Cảnh sát Nhân dân Việt Nam (nay là Học viện Cảnh sát Nhân dân Việt Nam), có học vị Tiến sĩ tâm lý tội phạm, bảo vệ tại Liên Xô. Trước khi làm Phó Tổng cục trưởng Tổng cục VIII (Tổng cục Cảnh sát thi hành án và hỗ trợ tư pháp), ông làm Phó cục trưởng Cục V26, Thư ký Thứ trưởng Phạm Tâm Long. Ông được phong hàm Thiếu tướng tháng 3 năm 2009, Trung tướng tháng 9 năm 2012."
+  "entityName" : "Nguyễn Trí Bảo",
+  "aliases" : [ "Trí Bảo" ],
+  "overview" : "Ông là cậu của Thái úy Tô Hiến Thành đi tu từ thuở trẻ, về sau ông trụ trì ở chùa Thanh Tước, núi Du Hí, đứng vào thế hệ thứ 10 dòng thiền Quan Bích. Năm Canh tuất 1190, ngày 14-4 âm lịch ông viên tịch. Trước khi mất ông có bài kệ: Bản dịch: Tiền tài tri túc chớ tham, Đừng lo tranh đoạt, gắng làm từ bi. Không cho, ngọn cỏ lấy chi? Tâm lòng như ngọc mơ gì của ai."
 }

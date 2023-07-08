@@ -1,17 +1,16 @@
 {
-  "dateOfBirth" : "Ất Tị 1904",
-  "dateOfDeath" : "Đinh Hợi 1947",
-  "hometown" : "quê xã Đề Thám, huyện Hòa An, tỉnh Cao Bằng",
-  "occupation" : "Tướng lĩnh QĐNDVN, dân tộc Tày",
+  "dateOfBirth" : "Ất Sửu 1925",
+  "dateOfDeath" : "Kỉ Tị 1989",
+  "hometown" : "Quê TP",
+  "occupation" : "Nhà văn ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
     "Nước Việt Nam mới" : 29
   },
   "id" : 1087,
-  "entityName" : "Vũ Đức",
-  "aliases" : [ "Hoàng Đình Giong" ],
-  "overview" : "Ông tham gia cách mạng từ năm 1925 trong tổ chức Việt Nam thanh niên cách mạng đồng chí hội. Năm 1929 được kết nạp vào Đảng cộng sản Đông Dương cùng với Hoàng Văn Thụ, Hoàng Văn Nọn... Xây dựng phong trào cách mạng ở Hải Phòng, Hồng Quản. Từng là ủy viên Ban chấp hành trung ương Đảng cộng sản Đông Dương từ năm 1935. Năm 1945 ông trực tiếp lãnh đạo giành chính quyền và làm chủ tình hình tỉnh Cao Bằng, sau đó về Hà Nội nhận nhiệm vụ phụ trách Bộ đội Nam tiến tăng cường lực lượng đánh Pháp ở Nam Bộ. Đầu tháng 12 năm 1945 ông được đề cử là khu trưởng khu 9 (Tây Nam Bộ). Tại đây ông chỉ đạo xây dựng lực lượng vũ trang khu 9 và căn cứ địa kháng Pháp ở rừng U Minh. Đầu năm 1947 ra làm khu trưởng khu 6 chỉ huy các lực lượng kháng chiến ở chiến trường cực Nam Trung Bộ. Ngày 17-3-1947 trong lúc ông đang chỉ huy quân đội đánh địch thì hi sinh tại chiến trường lúc mới 43 tuổi. Ông được Đảng và Quân đội tặng nhiều huân chương cao quí."
+  "entityName" : "Đoàn Giỏi",
+  "aliases" : [ "Nguyễn Phú Lễ", "Huyền Tư", "Nguyễn Hoài" ],
+  "overview" : "Thuở nhỏ học tại Mĩ Tho, Sài Gòn; viết văn, làm thơ từ trước Cách mạng tháng Tám năm 1945. Trong kháng chiến chống Pháp có lúc ông phụ trách công tác tuyên huấn, rồi phục vụ trong ngành an ninh. Năm 1954 tập kết ra Bắc, từng là ủy viên Ban Chấp hành Hội Nhà văn Việt Nam. Sau năm 1975 về công tác tại TP. Hồ Chí Minh, ông mất năm 1989. Các tác phẩm: - Những dòng chữ máu Nam Kì 1940 (1948) - Người Nam thà chết chứ không hàng (1948) - Đường về gia hương (1949) - Cá bống mú (1956) - Trần Văn Ơn, (1955) - Đất rừng phương Nam (1957) - Những chuyên lạ về cá (1981) - Tê giác giữa ngàn xanh (1982)..."
 }

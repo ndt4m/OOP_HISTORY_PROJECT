@@ -1,16 +1,19 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Giáp Thân 1224",
-  "hometown" : "quê ở kinh đô Thăng Long (nay là Hà Nội)",
-  "occupation" : "Thiền sư đời Lý Huệ tông",
+  "dateOfBirth" : "Ất Mão 1915",
+  "dateOfDeath" : "Quí Hợi 1983",
+  "hometown" : "tại làng Phước Sơn, huyện Quế Sơn, tỉnh Quảng Nam, con Tiến sĩ Phan Quang, em ruột Giáo sư Phan Khoang, anh họ Đại tá Bộ trưởng Võ Đông Giang (Phan Bá)",
+  "occupation" : "Nhà văn ",
   "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "fatherName" : {
+    "Phan Quang" : 1427
+  },
   "motherName" : { },
   "eraName" : {
-    "Nhà Lý" : 14
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 1027,
-  "entityName" : "Lê Thuần",
-  "aliases" : [ "Hiện Quang" ],
-  "overview" : "Ông mồ côi cha từ ngày còn bé, được sư Thường Chiếu đem về nuôi dạy hơn 10 năm. Sau khi Thường Chiếu qua đời, ông theo tu học với sư Trí Thông. Tương truyền khi ở chùa, một hôm vì nhận một món lễ vật của công chúa Hoa Dương, bị xuyên tạc, đạo hữu chê cười, ông bèn vào núi Uyên Trừng ở Nghệ An theo học với sư Pháp Giới. Khi tu học ở Uyên Trừng, Lý Huệ tông nhiều lần cho vời ông về triều, ông đều từ chối. Có nguời biết vậy hỏi: - Thầy ở trên núi làm gì? Ông đáp bằng một bài kệ: \"Ná dĩ Hứa Do đức, Hà tri thế kỉ xuân. Vô vi cư khoáng dã, Tiêu dao tự tại nhân.\" Nghĩa: Họ Hứa đường quen nết Bao xuân mặc cõi đời. Mênh mông quãng đồng rộng. Tùy ý tự rong chơi. Năm Tân tị 1221 ông mất tại núi Uyên Trừng. Trước khi mất ông còn lưu lại bài kệ cho đệ tử: \"Huyễn pháp giai thị huyễn, Huyễn tu giai thị huyễn, Nhị huyễn giai bất tức, Tức thị trừ như huyễn.\" Nghĩa: Pháp chính là huyền pháp Tu, đều là huyễn tu. Biết hai cái đều huyễn, Mọi huyễn thảy tiêu trừ. Ông là tác giả một số bài kệ."
+  "entityName" : "Phan Du",
+  "aliases" : [ "Lan Chi", "Hữu Phương", "Phong Kiều" ],
+  "overview" : "Năm 1942 có truyện ngắn đăng trên các báo ở Hà Nội (Thời vụ, Tiểu thuyết thứ bảy...). Sau năm 1954 truyện ngắn Uất hận lên men in trên tạp chí Bách khoa ở Sài Gòn năm 1957, rồi sau in thành sách. Những năm 60 ông làm việc ở Bộ Văn hóa Sài Gòn, Đài phát thanh Huế, ngoài thì giờ làm công chức ông cộng tác với các báo tại Sài Gòn. Về công tác nghiên cứu, sáng tác ông viết khá đều và rất nghiêm túc trong tác phẩm của mình dù trong sáng tác hoặc biên khảo. Từng được giải thưởng về truyện ngắn Thơ văn Á Châu của Trung tâm văn bút Philippin với tập truyện ngắn: Hai chậu lan Tố Tâm. Sau năm 1975 ông về sống ở Đà Nẵng và đến ngày 11-3-1983 ông mất tại đây thọ 68 tuổi. Các tác phẩm chính: - Cô gái xóm nghèo (truyện, 1959) - Hai chậu lan Tố tâm (truyện, 1965) - Uất hận lên men (truyện, 1964) - Truyện con người (biên khảo, 1968) - Dinh Thầy (truyện, 1969) - Mộng kinh sư (biên khảo, 1971) - Những quả cà chua (1971) - Của báu nhà họ Vương (1970) - Quảng Nam trong lịch sử (1973, biên khảo) - Hang động mới (truyện, 1970) Truyện con người NXB Cảo Thơm, xuất bản năm 1958. Sách là một công trình về nhân chủng học, nghiên cứu về sự hình thành loài người, con người từ thời tiền sử đến hiện đại. Tác giả đã phác họa được lịch trình tiến hóa của loài người từ một quá khứ sinh vật theo quan điểm tiến hóa luận của ngành cổ sinh vật học và khảo cổ tiền sử gần đây. '"
 }

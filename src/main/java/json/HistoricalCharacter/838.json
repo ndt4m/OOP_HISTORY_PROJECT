@@ -1,21 +1,17 @@
 {
-  "dateOfBirth" : "12 tháng 2 năm 1869 Huế, Đại Nam\n----------------------------------------------\nKỉ Tị 1869\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "31 tháng 7, 1884 (15 tuổi) Huế, Đại Nam\n----------------------------------------------\nGiáp Thân 1884\n----------------------------------------------\nKhông rõ",
-  "hometown" : "Thừa Thiên-Huế\n----------------------------------------------\nKhông rõ",
-  "occupation" : "Hoàng đế Đại Nam\n----------------------------------------------\nHoàng tử, con ruột Kiên Thái vương\n----------------------------------------------\nHoàng đế",
-  "workTenure" : "2 tháng 12 năm 1883 - 31 tháng 7 năm 1884 (0 năm, 242 ngày)\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1883–1884",
-  "fatherName" : {
-    "Nguyễn Phúc Hồng Cai" : null
-  },
-  "motherName" : {
-    "Bùi Thị Thanh" : null
-  },
+  "dateOfBirth" : "Mậu Thân 1908",
+  "dateOfDeath" : "Quí Dậu 1993",
+  "hometown" : "quê làng Trường An, huyện Trường Tín, tỉnh Hà Đông (nay thuộc TP",
+  "occupation" : "Họa sư hiện đại, bậc thầy ngành sơn mài Việt Nam, quê làng Trường An, huyện Trường Tín, tỉnh Hà Đông (nay thuộc TP",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
   "eraName" : {
     "Pháp đô hộ" : 11,
-    "Nhà Nguyễn" : null
+    "Nước Việt Nam mới" : 29
   },
   "id" : 838,
-  "entityName" : "Nguyễn Phúc Ưng Đăng",
-  "aliases" : [ "Nguyễn Phúc Ưng Đăng", "Nguyễn Phúc Ưng Đăng (阮福膺登)", "Nghị Hoàng đế (毅皇帝)", "Kiến Phúc (建福)", "Giản Tông (簡宗)", "Kiến Phúc", "Nguyễn Giản Tông" ],
-  "overview" : "Kiến Phúc (chữ Hán: 建福, 12 tháng 2 năm 1869 – 31 tháng 7 năm 1884), tên thật Nguyễn Phúc Ưng Đăng (阮福膺登), là vị Hoàng đế thứ bảy của triều đại nhà Nguyễn, lên ngôi ngày 2 tháng 12 năm 1883, tại vị được 8 tháng thì qua đời, ông được truy tôn miếu hiệu là Nguyễn Giản Tông (阮簡宗).\n----------------------------------------------\nÔng ở ngôi mới hơn 6 tháng, đến ngày 10-6 âm lịch năm Giáp thân (31-7-1884) bị bệnh mất, hưởng dương 15 tuổi, miếu hiệu là Giản tông Nghị Hoàng đế. Tương truyền: ông chết là do Nguyễn Văn Tường đầu độc. Nguyên bà Học phi Nguyễn thị (vợ vua Tự Đức) là mẹ nuôi của ông, tư tình với Nguyễn Văn Tường. Nhân một hôm ông bệnh, Tường vào thăm có trò chuyện riêng với bà, ông nghe thấy, Tường thấy có thể nguy hiểm liền xuống Thái y viện bốc một thang thuốc dâng ông uống, ngày hôm sau thì ông mất (có giả thuyết cho rằng Tưởng muốn giết ông để tránh hậu quả vì Kiến Phúc vẫn có một số cận thần chống Nguyễn Văn Tường). Sau đó Tường, Thuyết lập em ông là Nguyễn Phúc Ưng Lịch lên làm vua, tức vua Hàm Nghi.\n----------------------------------------------\nNguyễn Giản Tông (chữ Hán:阮簡宗; 12 tháng 2 năm 1869 – 31 tháng 7 năm 1884), tên thật là Nguyễn Phúc Ưng Đăng (阮福膺登), là vị hoàng đế thứ bảy của triều đại nhà Nguyễn trong lịch sử Việt Nam. Ông lên ngôi ngày 2 tháng 12 năm 1883, tại vị được 8 tháng thì qua đời, được truy tôn miếu hiệu là Nguyễn Giản Tông (簡宗), thuỵ hiệu Nghị Hoàng Đế (毅皇帝), ông dùng niên hiệu là Kiến Phúc (建福) nên còn được gọi là Kiến Phúc Đế (建福帝). Dưới thời vua Kiến Phúc, vào ngày 6 tháng 6 năm 1884, triều đình Huế đã kí với thực dân Pháp bản Hòa ước Giáp Thân (Hòa ước Patenôtre), có chỉnh lý một số điều so với bản Hòa ước Quý Mùi nhưng về cơ bản vẫn công nhận sự \"bảo hộ\" của Pháp đối với đất nước Việt Nam."
+  "entityName" : "Nguyễn Gia Trí",
+  "aliases" : [ ],
+  "overview" : "Xuất thân trong một gia đình Nho học, thủ công nghiệp, học Trung học tại Trường Bưởi, rồi vào học Trường Cao đẳng Mĩ thuật Đông Dương (khóa 5: 1929) nhưng mới học xong năm thứ 3, ông bỏ học về mở xưởng vẽ riêng và tự học thêm; vì cho rằng nhà trường không dạy gì hay hơn. Dù được thầy dạy là họa sĩ Inguimberty khuyên ông học nốt 2 năm cuối và sau khi tốt nghiệp giáo sư ấy sẽ đề bạt với Nha Học chánh Đông Dương để ông (NGT) làm giáo sư cho Trường. Nguyễn Gia Trí nhất quyết làm theo ý mình, nhưng ông vẫn luôn tỏ lòng kính trọng giáo sư Inguimberty mà ông gọi là \"cụ\". Năm 1934 do bạn bè và thầy học khuyên nhủ ông trở lại trường, học tiếp khóa 7, năm 1939-1940 tốt nghiệp. Từ khi báo Phong Hóa, Ngày Nay xuất bản ông là một trong các họa sĩ giúp trình bày, vẽ các phụ bản cho các báo này. Chính ông là người đã tạo ra các nhân vật Lý Toét, Xã Xệ... với bút hiệu RIGT trên 2 báo vừa nói và đã gây nên một ấn tượng sâu sắc nơi độc giả, khán giả. Sau ngày Pháp tái chiếm Hà Nội, ông lưu vong sang Trung Hoa, Hồng Kông; trong thời gian sống ở nước ngoài ông sinh sống bằng nghề của mình là vẽ tranh độ nhật. Năm 1950 trở về nước bị Pháp bắt đưa đi an trí tại Thủ Dầu Một (nay thuộc tỉnh Bình Dương) đến năm 1953 mới được trả tự do. Từ đó ông định cư tại Sài Gòn cho đến ngày qua đời (1993). Từ năm 1954-1975 ông sáng tác rất nhiều tranh, triển lãm tại các phòng tranh, trong và ngoài nước được giới hội họa tán thưởng, khâm phục về nghệ thuật tạo hình của ông. Những tác phẩm được người xem thán phục: - Chải tóc - Khi tỉnh rượu lúc tàn canh - Cảnh thiên thai - Vuờn xuân Trung Nam Bắc Tác phẩm ông được chính quyền Pháp, Việt Nam sưu tầm trang trí tại Phủ Chủ tịch (Hà Nội) và Bảo tàng Mĩ thuật TP. Hồ Chí Minh. Tranh ông trước sau vẫn luôn độc đáo và sắc nét. \"Nó không đẹp hơn, cũng chẳng xấu đi. Cái tài năng thiên bẩm đó, như một dòng suối không bao giờ cạn. Mỗi tác phẩm của ông là một đời sống, là sự tuyệt vời của nghệ thuật. Nay, ông không còn nữa nhưng tác phẩm Nguyễn Gia Trí vẫn sống mãi với thời gian bất tận\". Ông mất ngày 20 tháng 6 năm 1993 tại Phú Nhuận (Sài Gòn), thọ 85 tuối."
 }

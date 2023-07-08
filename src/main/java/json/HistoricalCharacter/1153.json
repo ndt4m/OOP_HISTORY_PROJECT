@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Bính Thìn 1736",
-  "dateOfDeath" : "Ất Tị 1785",
-  "hometown" : "Không rõ",
-  "occupation" : "Văn thần đời Lê Hiển tông, vốn tên là Bình Chính",
+  "dateOfBirth" : "Đinh Tị 1737",
+  "dateOfDeath" : "Nhâm Tuất 1802",
+  "hometown" : "quê làng Võ Nghị, huyện Thanh Lan, phủ Thiên Hưng, tỉnh Thái Bình",
+  "occupation" : "Có sách chép là Uông Sĩ Dư",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34
+    "Trịnh - Nguyễn" : 34,
+    "Nhà Tây Sơn" : 21
   },
   "id" : 1153,
-  "entityName" : "Bùi Trọng Chính",
-  "aliases" : [ "Trọng Chính" ],
-  "overview" : "Năm Canh Hưng 35 (Ất tị 1775), ông đỗ tiến sĩ, làm đến Hiệu lí ở Viện Hàn lâm. Bây giờ, ông mang tên là Hoàng Bình Chính, sau mới lấy lại họ Bùi và chữ lót là Trọng. Khoảng năm Quí mão 1783, ông đi sứ nhà Thanh, lưu lại nước ngoài 3 năm. Đến năm Ất tị 1785, ông trở về nước thì bệnh mất, được truy tặng Đông các Đại học sĩ."
+  "entityName" : "Uông Sĩ Điển",
+  "aliases" : [ "Uông Sĩ Lăng", "Uông Sĩ Dư" ],
+  "overview" : "Năm Bính tuất 1766 ông đỗ tiến sĩ được bổ làm Ngự sử, rồi ra làm Đốc thị Thuận Hóa và Quảng Nam (1781). Sau về triều làm Bồi tụng tước Thao Đường Hầu. Có thời gian ông giảng sách ở cung vua Lê, chúa Trịnh. Ông cùng với Nguyễn Hoàn, Võ Miên, Phan Trọng Phiên hợp soạn bộ Đại Việt lịch triều đăng khoa lục trong năm 1779 và là tác giả sách Nam hành tiểu kí."
 }

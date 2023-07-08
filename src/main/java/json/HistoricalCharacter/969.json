@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "người làng Đại Điện, huyện Bình Hà",
-  "occupation" : "Danh thần đời Lê Thánh tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "dateOfBirth" : "?",
+  "dateOfDeath" : "1000, Hoa Lư, Ninh Bình",
+  "hometown" : "Không rõ",
+  "occupation" : "Thái tử nhà Tiền Lê",
+  "workTenure" : "? - 1000",
+  "fatherName" : {
+    "Lê Đại Hành" : 2974
+  },
   "motherName" : { },
   "eraName" : {
-    "Triều Lê Sơ" : 7
+    "Nhà Tiền Lê" : 8
   },
   "id" : 969,
-  "entityName" : "Bùi Đoan Giáo",
-  "aliases" : [ ],
-  "overview" : "Năm Hồng Đức 18 (Đinh vị 1437), ông đỗ nhị giáp tiến sĩ, làm đến Thống chính sứ. Tài đức được nhân dân trọng vọng. Xuất thân hàn vi, thờ mẹ rất hiếu thảo, cần cù giúp đỡ mẹ và kiên tâm trì chí cầu học cầu tiến, đạt được nguyện vọng. Khi vinh hiển, ông hằng nâng đỡ kẻ nghèo, xa gần đều khen ngợi."
+  "entityName" : "Lê Long Thâu",
+  "aliases" : [ "Kình Thiên Vương", "Lê Long Thâu" ],
+  "overview" : "Lê Long Thâu (chữ Hán: 黎龍鍮, ? - 1000) là một hoàng tử của nhà Tiền Lê trong lịch sử Việt Nam."
 }

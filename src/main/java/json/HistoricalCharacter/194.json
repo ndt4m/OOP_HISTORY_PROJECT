@@ -1,14 +1,17 @@
 {
-  "dateOfBirth" : "12 tháng 6, 1953 (66 tuổi) Cà Mau, Liên bang Đông Dương",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Thành phố Hồ Chí Minh",
-  "occupation" : "chính trị gia",
+  "dateOfBirth" : "1072\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "1128\n----------------------------------------------\nKhông rõ",
+  "hometown" : "người làng Quan Triều tỉnh Thái Nguyên (nay là phường Quan Triều, thành phố Thái Nguyên).\n----------------------------------------------\nQuê ở Thái Nguyên, không rõ năm sinh, năm mất",
+  "occupation" : "Võ tướng đời Lý Anh tông",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Nhà Lý" : 14,
+    "nhà Lý" : null
+  },
   "id" : 194,
-  "entityName" : "Nguyễn Thiện Nhân",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Thiện Nhân (sinh 1953) là một Chính Khách người Việt Nam. Ông có học vị giáo sư Kinh tế, tiến sĩ chuyên ngành Điều khiển tự động hóa. Ông hiện là, Ủy viên Bộ Chính trị, Bí thư Thành ủy Thành phố Hồ Chí Minh, Trưởng đoàn Đại biểu quốc hội thành phố Hồ Chí Minh, đại biểu Quốc hội Việt nam khóa XIV nhiệm kì 2016-2021 thuộc đoàn Đại biểu tỉnh Trà Vinh."
+  "entityName" : "Dương Tự Minh",
+  "aliases" : [ "Cao Sơn Quý Minh" ],
+  "overview" : "Dương Tự Minh còn gọi là Đức Thánh Đuổm hay Cao Sơn Quý Minh, dân tộc Tày, người làng Quan Triều tỉnh Thái Nguyên (nay là phường Quan Triều, thành phố Thái Nguyên). Ông làm thủ lĩnh phủ Phú Lương xưa, gồm các châu: Thượng Nguyên, Vĩnh Thông, Quảng Nguyên, Cảm Hóa, Vạn Nhai, Tư Nông, Tuyên Hóa (thuộc Bắc Kạn, Thái Nguyên, Cao Bằng, Tuyên Quang và một phần Vĩnh Phúc, Phú Thọ, Lạng Sơn ngày nay) trong suốt ba đời vua nhà Lý: Lý Nhân Tông (1072-1128), Lý Thần Tông (1128-1138), Lý Anh Tông (1138-1175) .\n----------------------------------------------\nGặp khi tướng giặc nhà Tống là Đàm Hữu Lượng trốn sang biên giới nước ta, sách động dân quân kết đảng đi đánh cướp châu Quảng Nguyên, ông phụng mạng đem binh hợp với quân sĩ nhà Tống vây bắt được bọn ấy, giao trả cho nhà Tống. Quan Tri châu châu Ung là Triệu Nguyện nhận lãnh và hành quyết cả bọn Hữu Lượng gồm hơn 20 người. Từ ấy dân chúng được an cư lạc nghiệp. Sau thấy Đỗ Anh Võ tư thông với Lê Thái hậu, lộng quyền, ông bèn liên kết với nhóm Võ Đới ngằm mưu trừ khử Anh Võ. Thất bại, ông bi phe đảng Đỗ Anh Võ bắt giam rồi đày đi nơi xa. Khi ông mất, được dân Thái Nguyên lập đền thờ."
 }

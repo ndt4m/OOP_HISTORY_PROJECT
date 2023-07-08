@@ -1,14 +1,18 @@
 {
   "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "1777",
+  "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "occupation" : "Tước hiệu",
+  "workTenure" : "1682—1709",
+  "fatherName" : {
+    "Trịnh Tạc" : 647
+  },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Đàng Ngoài - Chúa Trịnh" : 26
+  },
   "id" : 1412,
-  "entityName" : "Lý Tài",
+  "entityName" : "Định Nam Vương",
   "aliases" : [ ],
-  "overview" : "Lý Tài (李才, ?-1777) là tướng Việt Nam thời kỳ nội chiến Tây Sơn - chúa Nguyễn cuối thế kỷ 18 trong lịch sử Việt Nam. Ông vốn là một thương gia và là hải tặc người Hoa, trở thành chỉ huy trong lực lượng quân Tây Sơn; sau đó theo giúp chúa Nguyễn và cuối cùng bị chết trong cuộc tranh chấp quyền lực với các tướng lĩnh của chúa Nguyễn."
+  "overview" : "Trịnh Căn (chữ Hán: 鄭根, 18 tháng 7 năm 1633 - 17 tháng 6 năm 1709), thụy hiệu Chiêu Tổ Khang Vương (昭祖康王), là vị chúa Trịnh thứ 4 dưới thời Lê Trung hưng, trong lịch sử Việt Nam."
 }

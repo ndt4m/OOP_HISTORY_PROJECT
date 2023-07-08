@@ -1,16 +1,20 @@
 {
-  "dateOfBirth" : "Kỉ Dậu 1909",
-  "dateOfDeath" : "Kỉ Mùi 1979",
-  "hometown" : "tại Thái Bình",
-  "occupation" : "Nhà văn hiện đại",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
+  "dateOfBirth" : "1336 Thanh Hóa, Việt Nam\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "1407 Bắc Kinh, Trung Quốc\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Đại Ngu\n----------------------------------------------\nVua",
+  "workTenure" : "22 tháng 3 năm 1400 - tháng 12 năm 1401\n----------------------------------------------\n1400—1400",
+  "fatherName" : {
+    "Lê Quốc Mạo" : null
+  },
+  "motherName" : {
+    "Phạm phu nhân" : null
+  },
   "eraName" : {
-    "Nước Việt Nam mới" : 29
+    "Nhà Hồ" : 9
   },
   "id" : 2723,
-  "entityName" : "Đỗ Đúc Thu",
-  "aliases" : [ ],
-  "overview" : "Ông xuất thân làm công chức Sở khí tượng Hà Nội. Tác phẩm đầu tay của ông tựa là \"Ba \", được giải thưởng khuyến khích của Tự Lực văn đoàn. Về sau ông gia nhập Văn đoàn Tự Lực, viết nhiều truyên ngắn đăng trên báo Ngày Nay. Ông mất ngày 5-3-1979 tại Tân Định, thành phố Hồ Chí Minh, thọ 70 tuổi. Ông còn để lại các tác phẩm: - Vỡ lòng (tiểu thuyết), NXB Đời Nay, Hà Nội. - Bốc đồng (tiểu thuyết), NXB Nguyễn Du, Hà Nội 1942. - Nhà bên kia (tập truyện ngắn), NXB Công Lực, Hà Nội, 1943. - Đứa con (tiểu thuyết), NXB Đời Nay, Hà Nội 1943, truyện dài này trước có đăng ở tạp chí Thanh Nghị tại Hà Nội năm 1941, 1942."
+  "entityName" : "Hồ Quý Ly",
+  "aliases" : [ "Hồ Nhất Nguyên", "Lê Quý Ly Hồ Quý Ly Hồ Nhất Nguyên", "Hồ Chương Hoàng", "Thánh Nguyên" ],
+  "overview" : "Hồ Quý Ly (chữ Hán: 胡季犛; 1336 – ?), cũng gọi Hồ Chương Hoàng (胡章皇), lấy húy kị Hồ Nhất Nguyên (胡一元), là vị hoàng đế đầu tiên của nhà nước Đại Ngu trong lịch sử Việt Nam. Ông ở ngôi vị Hoàng đế từ năm 1400 đến năm 1401, sau đó giữ ngôi Thái thượng hoàng từ năm 1401 đến năm 1407.\n----------------------------------------------\nHồ Quý Ly (chữ Hán: 胡季犛; 1336 – 1407), lấy tên húy Hồ Nhất Nguyên (胡一元), là vị hoàng đế đầu tiên của nhà nước Đại Ngu trong lịch sử Việt Nam. Ông ở ngôi vị Hoàng đế từ năm 1400 đến năm 1401 tự xưng là Quốc Tổ Chương Hoàng (國祖章皇), sau đó giữ ngôi Thái thượng hoàng từ năm 1401 đến năm 1407."
 }

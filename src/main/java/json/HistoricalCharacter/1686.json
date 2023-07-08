@@ -1,14 +1,17 @@
 {
-  "dateOfBirth" : "sinh ngày 3 tháng 10 năm 1940",
+  "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "occupation" : "Văn thần đời Hồ và hậu Trần",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Hậu Trần" : null,
+    "Nhà Hồ" : 9
+  },
   "id" : 1686,
-  "entityName" : "Bùi Minh Quốc",
+  "entityName" : "Hồ Ngạn Thần",
   "aliases" : [ ],
-  "overview" : "Bùi Minh Quốc (sinh ngày 3 tháng 10 năm 1940) là một nhà thơ, nhà báo, hội viên Hội Nhà văn Việt Nam, từng là Phó Chủ tịch Hội Văn nghệ, Tổng Biên tập Tạp chí Ðất Quảng tại Quảng Nam - Ðà Nẵng, người sáng lập và là Chủ tịch đầu tiên của Hội Văn nghệ tỉnh Lâm Ðồng. Là một trong bốn thành viên đầu tiên của Nhóm Thân hữu Đà Lạt."
+  "overview" : "Năm Ất dậu 1405 (năm Khai Đại 3, đời Hồ Hán Thương) ông đỗ Thái học sinh, làm quan đời nhà Hồ. Đến khi quân Minh sang xâm lược, ông theo vua Trần Trùng Quang kháng chiến. Canh dần 1410, ông cùng Bùi Nột Ngôn vâng mệnh vua Trần đi sứ nhà Minh. Trước kia, đã có Lê Ngân sang Minh cầu phong, bị vua Minh giết. Vì thế, chuyến đi sứ này. Ông có vẻ mất tinh thần. Đến Yên Kinh, nghe vua Minh cật vấn tình hình, ông ta nhất nhất tỏ bày, không khéo giữ ý tứ. Vua Minh bèn phong ông làm Tri phủ, vua Trùng Quang thì làm Bố chánh sứ. Ông ta lấy làm thỏa mãn, nhận chịu tước phong, bái tạ vua Minh. Trở về nước, ông bị Bùi Nột Ngôn tâu rõ tình tiết lộ bí mật quốc phòng, và hặc tội ông làm nhục quốc thể. Vua Trần khép ông vào tội tử hình, truyền đem chém."
 }

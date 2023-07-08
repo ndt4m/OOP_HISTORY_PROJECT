@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Ất Sửu 1865",
-  "dateOfDeath" : "Quí Tị 1893",
-  "hometown" : "Quê làng Lê Động, huyện Hương Sơn",
-  "occupation" : "Danh tướng của Phan Đình Phùng, đóng góp rất nhiều công lao kháng Pháp",
+  "dateOfBirth" : "Tân Tị 1881",
+  "dateOfDeath" : "Đinh Tị 1967",
+  "hometown" : "quê làng Vĩnh Trinh, huyện Duy Xuyên, tỉnh Quảng Nam",
+  "occupation" : "Hiền phụ, vợ nhà yêu nước Phan Thành Tài, con gái ông Quảng Nghi",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 2367,
-  "entityName" : "Cao Thắng",
+  "entityName" : "Bùi Thị Hậu",
   "aliases" : [ ],
-  "overview" : "Thuở trẻ ông được anh của Phan Đình Phùng là Phan Đình Thuật nuôi dạy. Đến khi Phan Đình Phùng khởi nghĩa, ông cùng với em là Cao Như, bạn là Nguyễn Kiểu tham gia, phục vụ đắc lực, trong cuộc kháng chiến chống Pháp ở Nghệ Tĩnh. Ban đầu làm Quản cơ, ông điều động nghĩa quân đánh đồn giặc rất dũng cảm. Chính ông đã mở xưởng đúc vũ khí theo kiểu Âu Tây, nơi chiến khu Vụ Quang. Khoảng năm 1892, ông dùng mưu bắt sống được tuần phủ tay sai Pháp Đinh Nho Quang làm chấn động dư luận Nghệ Tĩnh. Năm sau (1893) khoảng tháng 10, ông chỉ huy quân cảm tử tấn công mấy tiền đồn ở Nghệ An, đến đồn Nỏ thì bị trúng đạn tử thương, lúc này ông mới 29 tuổi. Nghĩa quân đem xác ông về chôn cất tại Ngàn Trươi (núi Vụ Quang), tại làng Khê Thượng, huyện Hương Khê, có đền thờ ông."
+  "overview" : "Bà đã hết lòng hết sức cùng chồng đóng góp vào công cuộc cứu nước. Nhất là khi chuẩn bị cuộc \"Duy Tân khởi nghĩa\", bà đảm nhận việc lo lắng quân nhu cho nghĩa quân, dệt vai rằn may đồng phục cho nghĩa quân. Đến khi chồng bà hi sinh vì nước, bà mới 35 tuổi. Bà thủ tiết nuôi 7 người con đều ăn học thành tài, đóng góp công sức cho Tổ quốc. Năm Đinh tị 1967, ngày 5 Dương lịch bà mất, thọ 86 tuổi. Mộ bà tại đất thánh ở Đa Kao Sài Gòn (TP. Hồ Chí Minh)."
 }

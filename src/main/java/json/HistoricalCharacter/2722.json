@@ -1,17 +1,20 @@
 {
-  "dateOfBirth" : "Đinh Hợi 1887",
-  "dateOfDeath" : "Ất Tị 1965",
-  "hometown" : "quê làng Hương Ngãi, huyện Thạch Thất, tỉnh Sơn Tây",
-  "occupation" : "Nhà văn ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
+  "dateOfBirth" : "974\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "1001 (26–27 tuổi)\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Đại Cồ Việt\n----------------------------------------------\nVua",
+  "workTenure" : "979 – 980\n----------------------------------------------\n979—980",
+  "fatherName" : {
+    "Đinh Tiên Hoàng" : 2346
+  },
+  "motherName" : {
+    "Dương Vân Nga" : 677
+  },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Nhà Đinh" : 35
   },
   "id" : 2722,
-  "entityName" : "Nguyễn Tử Siêu",
-  "aliases" : [ "Trọng Khoát", "Hoa Cương", "Liên Tâm Lão Nhân" ],
-  "overview" : "Ông có tiếng văn thơ, từng dạy học và nghiên cứu đông y, thường chuyên tâm soạn sách. Có lúc ông có chân trong ban chấp hành Hội Đông y Việt Nam. Năm Ất tị 1965 ông mất tại Hà Nội. Các tác phẩm chính của ông: - Đỉnh núi cành mai - Bể tình nổi sóng - Sống chết vì tiền - Cái nạn văn chương - Bạn đời xưa Và một số tiểu thuyết lịch sử: - Vua Bố Cái - Đinh Tiên Hoàng - Lê Đại Hành - Việt Thanh chiến sử - Hai bà đánh giặc - Vua bà Triệu Ẩu"
+  "entityName" : "Đinh Phế Đế",
+  "aliases" : [ "Đinh Đế Toàn", "Phế Đế (廢帝)", "Đinh Toàn (丁璿) Đinh Tuệ (丁穗)" ],
+  "overview" : "Đinh Phế Đế (chữ Hán: 丁廢帝; 974 – 1001) còn gọi là Đinh Đế Toàn, là vị hoàng đế thứ hai và cũng là vị hoàng đế cuối cùng của triều đại nhà Đinh, trong lịch sử Việt Nam. Khi ngôi Vua về với nhà Tiền Lê, ông trở thành Vệ Vương trong kinh thành Hoa Lư suốt 20 năm rồi hy sinh khi đi dẹp loạn ở tuổi 27.\n----------------------------------------------\nĐinh Phế Đế (chữ Hán: 丁廢帝 974 – 1001) hay Đinh Thiếu Đế (chữ Hán: 丁少帝), còn gọi là Đinh Đế Toàn, là vị hoàng đế thứ hai và cũng là vị hoàng đế cuối cùng của triều đại nhà Đinh trong lịch sử Việt Nam. Vua trị vì được 8 tháng thì thái hậu Dương Vân Nga nhường ngôi cho Lê Hoàn lập ra nhà nhà Tiền Lê. Từ đó Đinh Toàn trở thành Vệ vương trong kinh thành Hoa Lư suốt 20 năm rồi hy sinh khi đi dẹp loạn ở tuổi 27."
 }

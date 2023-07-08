@@ -1,20 +1,17 @@
 {
-  "dateOfBirth" : "?\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "25 tháng 1, 1540 Nhà Mạc, Đại Việt\n----------------------------------------------\nCanh Tí 1540",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua thứ hai nhà Mạc, con trưởng Mạc Đăng Dung",
-  "workTenure" : "1530 – 25 tháng 1 năm 1540\n----------------------------------------------\nKhông rõ",
-  "fatherName" : {
-    "Mạc Đăng Dung" : 1925,
-    "Mạc Thái Tổ" : 2930
-  },
+  "dateOfBirth" : "Mậu Ngọ 1858",
+  "dateOfDeath" : "Ất Mùi 1895",
+  "hometown" : "Thanh Hóa",
+  "occupation" : "Chiến sĩ phong trào Cần vương kháng Pháp trong đời vua Hàm Nghi, người dân tộc Thái ở châu Thường Xuân, tỉnh Thanh Hóa, con quản cơ Cầm Bá Tiêu.",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Mạc" : 18,
-    "Nam - Bắc Triều" : 19
+    "Pháp đô hộ" : 11,
+    "Nhà Nguyễn độc lập" : 30
   },
   "id" : 1680,
-  "entityName" : "Mạc Đăng Doanh",
-  "aliases" : [ "Mạc Đăng Doanh (莫登瀛)", "Khâm Triết Văn hoàng đế (欽哲文皇帝)", "Thái Tông (太宗)", "Đại Chính (大正)" ],
-  "overview" : "Mạc Thái Tông (chữ Hán: 莫太宗; ? – 25 tháng 1, 1540), là vị Hoàng đế thứ hai của nhà Mạc trong lịch sử Việt Nam. Ông ở ngôi từ năm 1530 đến 1540, tổng cộng 10 năm trị vì.\n----------------------------------------------\nCha con vẫn phải khó nhọc đương đầu tìmg đợt tấn công của nhà Lê Trung hưng, để giữ vững ngai vàng. Lại nữa, trong năm Giáp ngọ 1534, vua Minh sai Hàm Ninh Hầu Cửu Loan và Thượng thư bộ Binh là Mao Bá ôn đưa quân đến biên giới tuyên bố đánh họ Mạc. Cha con ông khiếp sợ phải cúi mình nhân nhượng với vua quan nhà Minh, nhất là nhờ tài ngoại giao của Trạng nguyên Giáp Hải mới được yên. Trong đời ông ở ngôi, các khoa thi có được khá nhiều người tài giỏi, nhưTrạng nguyên Nguyễn Bỉnh Khiêm Giáp Hải. Ông cũng có sai Đông quân Tả đô đốc Khiêm Quận Công Mạc Đình Khoa sửa sang lại nhà Quốc tử giám ở Kinh đô. Năm Canh tí 1540, ngày 25-1 âm lịch ông mất. Con là Mạc Phúc Hải nối ngôi, đặt thụy hiệu cho ông là Thái tông khâm triết Văn hoàng đế. Ông ở ngôi 11 năm, hiệu Đại Chính."
+  "entityName" : "Cầm Bá Thước",
+  "aliases" : [ ],
+  "overview" : "Ông nguyên là tù trưởng dân tộc thiểu số ở thượng du Thanh Hóa. Đáp tiếng gọi kháng chiến dưới cờ khởi nghĩa của Phan Đình Phùng. Ông cầm đầu các đội quân thuộc tỉnh Thanh Hóa. Sau đó, ông cũng tham gia cuộc khởi nghĩa của Tống Duy Tân, từng được cử làm Bang biện hai châu Thường Xuân và Lang Chánh. Chính ông đã chủ trương kinh tài bằng cách đem ngọc quế để Nghĩa đảng ban lấy tiền mua quân lương khí giới. Ông tích cực hoạt động và hi sinh năm 1895, khoảng cuối tháng 5. Tôn Thất Thuyết có bài thơ gửi ông: \"Vạn lí cao thu Mục mã binh, Thuận lưu bất hạ tiểu chu khinh. Thanh sơn lục thủy tương nghinh xứ. Đại hải trường giang vọng viễn tình. Bách tính cần vương nhân tự chấn, Nhất ngu báo quốc khánh do hành. Thử du nhược đắc thiên tâm trợ, Qui khứ Nam xa triệt hảo trình.\" Bản dịch: Mục mã thu cao vạn dặm đồng, Thuyền con chở nhả khói xuôi dòng. Non xanh nước biếc nơi hò hẹn, Bể rộng sông dài nỗi ước mong Trăm họ vì vua còn cố gắng Một mình báo nước vẫn long đong, Phen ấy ví được lòng trời giúp Trở gót và Nam lối hẳn thông, Ngày nay tại đền thờ ông ở Cửa Đặt, thị trấn Thường Xuân còn có đôi câu đối: \"Bất tử đại danh thủy vũ trụ; Như sinh chính khí tác sơn hà\". Nghĩa: Chẳng chết danh to nêu vũ trụ Như còn chính khí dấy non sông."
 }

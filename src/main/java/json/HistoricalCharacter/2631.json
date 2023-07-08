@@ -1,17 +1,16 @@
 {
-  "dateOfBirth" : "Đinh Hợi 1887",
-  "dateOfDeath" : "Mậu Ngọ 1978",
-  "hometown" : "quê ở tỉnh Hà Tĩnh",
-  "occupation" : "Tức Lê Văn Đại, thân sinh liệt sĩ Lý Tự Trọng",
+  "dateOfBirth" : "10 tháng 5, 1938 (80 tuổi) Huế",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+  "fatherName" : {
+    "Đặng Văn Ngữ" : 1520
   },
+  "motherName" : { },
+  "eraName" : { },
   "id" : 2631,
-  "entityName" : "Lê Hữu Đạt",
-  "aliases" : [ "Lê Văn Đại" ],
-  "overview" : "Ông tham gia Đảng Cộng sản Đông Dương từ năm 1931. Nhiệt thành yêu nước, nhất là sau khi con ông đã hi sinh, ông càng tích cực hoạt động cách mạng, đóng góp nhiều trong cuộc trường chinh cứu nước, giành độc lập tự do cho dân nước. Sau mùa xuân năm 1975 ông nghỉ hưu. Ngày 12-3-1978, ông mất tại bệnh viện Hữu nghị Việt Xô ở Hà Nội, thọ 91 tuổi."
+  "entityName" : "Đặng Nhật Minh",
+  "aliases" : [ ],
+  "overview" : "Đặng Nhật Minh (sinh năm 1938) là đạo diễn nổi tiếng của nền điện ảnh Việt Nam với những bộ phim như Cô gái trên sông, Thương nhớ đồng quê, Mùa ổi... Đặc biệt với phim Bao giờ cho đến tháng Mười được nhiều hãng thông tấn đánh giá là một trong những phim hay nhất châu Á mọi thời đại. Hầu hết các bộ phim do ông làm đạo diễn đã đoạt nhiều giải thưởng tại các liên hoan phim trong và ngoài nước. Ông từng giữ chức vụ tổng thư ký Hội Điện ảnh Việt Nam và được phong tặng danh hiệu Nghệ sĩ nhân dân. Năm 2007, ông được Nhà nước Việt Nam phong tặng Giải thưởng Hồ Chí Minh chuyên ngành điện ảnh."
 }

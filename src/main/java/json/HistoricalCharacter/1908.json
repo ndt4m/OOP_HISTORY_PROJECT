@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Canh Tuất 1910",
-  "dateOfDeath" : "Nhâm Ngọ 1942",
-  "hometown" : "tại Cẩm Giàng, tỉnh Hải Dương, nguyên quán làng Cấm Phô, tỉnh Quảng Nam (nay thuộc Thị xã Hội An, tỉnh Quảng Nam)",
-  "occupation" : "Nhà văn, Nhà báo tiên phong",
+  "dateOfBirth" : "Đinh Hợi 1887",
+  "dateOfDeath" : "Ất Tị 1965",
+  "hometown" : "quê làng Hương Ngãi, huyện Thạch Thất, tỉnh Sơn Tây",
+  "occupation" : "Nhà văn ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 1908,
-  "entityName" : "Nguyễn Tường Lân",
-  "aliases" : [ "Thạch Lam" ],
-  "overview" : "Ông mồ côi cha từ năm lên 7, học xong bậc Trung học, ông bắt đầu làm báo. Hồi thi đậu bằng Thành chung mới 17 tuổi (1927), Tú Mỡ (Hồ Trọng Hiếu sau này có chân trong Tự lực văn đoàn) có bài thơ tứ tuyệt mừng ông: Gởi lời mừng bác Nguyễn Tường Vinh, Đáng bậc thần đồng bọn học sinh Năm trước vừa an kì tốt nghiệp. Ngày nay đã chiếm bảng chung thành. Ông đã nổi tiếng là một người học giỏi. Năm 1930, ông cùng hai anh ra báo Phong Hóa, Ngày Nay và kể từ đó ông là một trong các nhân vật cột trụ của Tự lực văn đoàn do anh em ông sáng lập. Thạch Lam là một nhà văn năng nỗ và sáng giá ngay từ hồi mới bước chân vào làng báo, làng văn Việt Nam. Ngày 27-6-1942 ông mất vì bệnh lao trong lúc sức viết đang độ phát triển và chín muồi. Các tác phẩm của ông: - Gió đầu mùa (1937) - Nắng trong vườn (1938) - Ngày mới (1939) - Hà Nội 36 phố phường (1942) - Theo giòng (1941, tập bình luận văn học) Năm 1932, ông cùng hai anh ruột (Nhất Linh, Hoàng Đạo) chủ trương tuần báo Phong Hóa, rồi thành lập Tự lực Văn đoàn và cùng với nhóm khởi xướng đoàn Ánh sáng cải tạo nếp sống tối tăm, \"bùn lầy nước đọng\" của tầng lớp dân nghèo. Ông là một trong những cây bút chính của nhóm Tự lực và các báo Phong hóa, Ngày nay, Tiếng cười ở Hà Nội trước chiến tranh thế giới lần thứ hai. Bút pháp Thạch Lam nhẹ nhàng, tươi tắn mà vẫn nói lên được những điều sâu thẳm nhất trong đáy tâm hồn của từng đối tượng. Phần lớn - nếu không nói là hầu hết - các nhà phê bình văn học, phân tích văn chương đều cho Thạch Lam là một trong các cây bút sáng giá và sắc nét nhất trong số các nhà viết truyện ngắn nước ta trước năm 1945. Tác giả Nhà văn hiện đại (Vũ Ngọc Phan) khi đọc Thạch Lam đã đánh giá nhà văn viết truyện ngắn này rất chính xác và độc đáo ông Vũ viết: \"Ông (TL) có một ngòi bút lặng lẽ, điềm tĩnh vô cùng, ngòi bút chuyên tả tỉ mỉ những cái rất nhỏ và rất đẹp, những cảm tình, cảm giác con con nẩy nở và biểu lộ ở đủ các hạng người, mà ông đã tả một cách tinh vi. Phải là người giàu tình cảm lắm mới viết được câu này \"Một cơn gió hay một cái mầm cỏ non đối với chàng đều có ý nghĩa riêng\". Ý nghĩ đây là ý nghĩ gây nên bởi cảm giác đối với ngoại vật và cảm tình của người ta đối với một hoàn cảnh thích hợp (...) Cái lối văn nhẹ nhàng, kín đáo và xinh tươi trên này thật là lối văn đặc biệt của Thạch Lam, lối văn rất hợp với những truyện tâm tình (...) ông đã trút cả những tính tình của mình sang các nhân vật do ông sáng tạo. Dưới ngòi bút ông, những cô con gái thuộc hạng trung lưu được tả bằng những nét mĩ miều và những cảnh êm dịu thường trở nên những cảnh rất nên thơ\"."
+  "entityName" : "Nguyễn Tử Siêu",
+  "aliases" : [ "Trọng Khoát", "Hoa Cương", "Liên Tâm Lão Nhân" ],
+  "overview" : "Ông có tiếng văn thơ, từng dạy học và nghiên cứu đông y, thường chuyên tâm soạn sách. Có lúc ông có chân trong ban chấp hành Hội Đông y Việt Nam. Năm Ất tị 1965 ông mất tại Hà Nội. Các tác phẩm chính của ông: - Đỉnh núi cành mai - Bể tình nổi sóng - Sống chết vì tiền - Cái nạn văn chương - Bạn đời xưa Và một số tiểu thuyết lịch sử: - Vua Bố Cái - Đinh Tiên Hoàng - Lê Đại Hành - Việt Thanh chiến sử - Hai bà đánh giặc - Vua bà Triệu Ẩu"
 }

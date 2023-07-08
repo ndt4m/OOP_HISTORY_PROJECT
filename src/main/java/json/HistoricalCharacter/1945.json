@@ -1,18 +1,16 @@
 {
   "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
-  "hometown" : "quê xã Đông Ngạn, phủ Từ Sơn, tỉnh Bắc Ninh",
-  "occupation" : "Xử sĩ đời T",
+  "hometown" : "xã Đại Điền, huyện Bình Hà (có sách chép là Thanh Hà), phủ Nam Sách, tỉnh Hải Dương",
+  "occupation" : "Sử gia đời Lê Thánh tông",
   "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Châu Doãn Lệ đời Lê Hiến tông" : null
-  },
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+    "Triều Lê Sơ" : 7
   },
   "id" : 1945,
-  "entityName" : "Châu Doãn Trí",
-  "aliases" : [ "Viễn Phu", "Tạ Hiên" ],
-  "overview" : "Ông có tài đức có tiết tháo không vọng cầu danh lợi, lại rất giỏi y học. Canh tí 1840, Nguyễn Đăng Giai tiến cử ông về hàng ẩn sĩ; Nhà vua khiến cấp lộ phí cho ông vào kinh, đề bổ sung quan chức. Ông viện lấy bệnh già xin từ tạ. Vua Thiệu Trị khen ông có phong thái xử sĩ, không muốn ép uổng, bèn ban cho rượu hồng hoa dương tử."
+  "entityName" : "Lê Nghĩa",
+  "aliases" : [ ],
+  "overview" : "Năm Quí vị 1463, đỗ tam giáp đồng tiến sĩ. Làm quan đến Thừa chỉ Viện Hàn lâm kiêm sử quán. Có tiếng cương nghị, chính trực. Năm Đinh hợi 1467, khoảng tháng 7, Lê Thánh tông muốn xem quốc sử, sai Trung quan đến Viện Hàn lâm, bảo ông: - Xưa phong Huyền Linh làm sử quan, Đường Thái tông muốn xem sách \"Thực lục\", Huyền Linh không cho xem. Nay ông cùng Huyền Linh, ai hơn! Ông đáp: - Về việc Huyền vũ môn, Huyền Linh không chép thẳng, đợi mạng của Thái tông mới chép, như thế e chưa hơn được. Trung quan nói: - Hoàng thượng muốn xem quyển nhật lịch chép từ năm Quang Thuận I (1460) đến bây giờ. Ông từ chối: - Đấng nhân quân mà xem quốc sử, thì cũng như Đường Thái tông, Huyền Linh làm cho đời sau chê cười. Trung quan cố nài: - Vua sở dĩ xem nhật lịch, là nếu về trước có lỗi thì biết mà sửa đổi. Ông nghiêm nghị: - Phiền ngài lưu về tâu trình: Thánh thượng cứ cố gắng làm điều phải là được. Hà tất phải xem sử. Lê Thánh tông phải khiến Trung quan trần tình với ông đôi ba lần và nguyện sẽ đổi lỗi nếu có lỗi, ông mới dâng nhật lịch kèm với lời tâu: \"Thánh thượng thật hay đổi lỗi, mới là phúc cho xã tắc\". Bài tựa Đại Việt thông sử của Lê Quí Đôn viết: \"Trong đời Hồng Đức sự lựa dùng sử quan thật là quan trọng, như hạng ông Lê Nghĩa chép sử thì cứ giữ chính nghĩa mà biên chép thẳng thắn, có khí tiết cổ nhân, nay những sách nhật lịch của ông này không thấy còn để lại\"."
 }

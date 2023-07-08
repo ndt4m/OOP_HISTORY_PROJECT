@@ -1,16 +1,20 @@
 {
-  "dateOfBirth" : "Nhâm Thân 852",
-  "dateOfDeath" : "Bính Thân 936",
+  "dateOfBirth" : "25 tháng 6, 1495",
+  "dateOfDeath" : "7 tháng 4, 1516 (20 tuổi) hồ Chu Tước, phường Bích Câu, Đông Kinh",
   "hometown" : "Không rõ",
-  "occupation" : "Dật sĩ thời nước ta lệ thuộc Trung Quốc. Ông tinh thông khoa học huyền bí phong thủy, lí số nổi tiếng một thời. Tương truyền ông đã từng lưu lại nhiều bài sấm rất ứng nghiệm như bài \"Đỗ Thích lí Đinh Đinh, Lê gia xuất thánh minh... \" chắng hạn. Về mặt phong thủy, chính ông đã chữa kiểu đất ở Cổ Pháp trước bị Cao Biền làm cho đứt mạch.",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
+  "occupation" : "Hoàng đế Đại Việt",
+  "workTenure" : "1509 - 1516",
+  "fatherName" : {
+    "Lê Tân" : 223
+  },
+  "motherName" : {
+    "Trịnh Thị Tuyên" : null
+  },
   "eraName" : {
-    "Bắc thuộc lần lần 3" : 1
+    "Nhà Lê sơ" : null
   },
   "id" : 1482,
-  "entityName" : "Đinh La Quí",
-  "aliases" : [ ],
-  "overview" : "Ông hiểu thiên văn, địa lí, nên đương thời được giới sĩ phu rất trọng vọng. Ông thọ 84 tuổi."
+  "entityName" : "Lê Oanh",
+  "aliases" : [ "Hồng Thuận (洪順)", "Lê Oanh (黎瀠) Lê Trừu (黎晭)", "Linh Ẩn vương (靈隱王) Tương Dực Hoàng đế (襄翼皇帝)" ],
+  "overview" : "Lê Tương Dực (chữ Hán: 黎襄翼; 25 tháng 6, 1495 - 7 tháng 4, 1516), đôi khi gọi là Linh Ẩn vương (靈隱王), là vị hoàng đế thứ chín của nhà Lê Sơ trong lịch sử Việt Nam. Ông trị vì từ năm 1509 đến năm 1516, tổng cộng 7 năm."
 }

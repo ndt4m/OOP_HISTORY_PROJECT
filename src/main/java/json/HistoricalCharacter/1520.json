@@ -1,17 +1,21 @@
 {
-  "dateOfBirth" : "Bính Ngọ 1906",
-  "dateOfDeath" : "Bính Ngọ 1966",
-  "hometown" : "quê ở Phú Kiết, huyện Chợ Gạo, tỉnh Mĩ Tho (nay thuộc tỉnh Tiền Giang)",
-  "occupation" : "Nhà soạn tuồng Cải lương",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
+  "dateOfBirth" : "5 tháng 5, 1488 Đông Kinh\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "1 tháng 12, 1509 (21 tuổi) cửa Lệ Cảnh, Đông Kinh\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua",
+  "workTenure" : "1504 - 1509\n----------------------------------------------\n1504–1509",
+  "fatherName" : {
+    "Lê Hiến Tông" : 585
+  },
+  "motherName" : {
+    "Chiêu Nhân Duệ hoàng hậu" : null
+  },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Nhà Hậu Lê – giai đoạn Lê sơ" : 20,
+    "Nhà Lê sơ" : null
   },
   "id" : 1520,
-  "entityName" : "Trần Hữu Trang",
-  "aliases" : [ "Tư Trang" ],
-  "overview" : "Ông nhiệt thành yêu nước, tham gia cách mạng, tích cực đóng góp tâm huyết trong cuộc trường chinh đuổi giặc xâm lược góp công nhiều với Hội Văn nghệ Giải phóng miền Nam Việt Nam. Năm Bính ngọ 1966, ngày 1-10 Dương lịch ông hi sinh tại khu căn cứ Trung ương Mặt trận Giải phóng miền Nam thọ 60 tuổi. Các kịch bản cải lương nổi tiếng của ông đã được trình diễn nhiều lần từ năm 1930 đến nay: - Lan và Điệp - Mộng hoa vương - Tô Ánh Nguyệt - Đời cô Lựu - Hồn chinh phụ - Tình hạnh phúc - Hậu chiến trường"
+  "entityName" : "Lê Uy Mục",
+  "aliases" : [ "Lê Tuấn (黎濬) Lê Huyên (黎諠) Lê Nghị (黎誼)", "Đoan Khánh (端慶)", "Mẫn Lệ công (愍厲公) Uy Mục hoàng đế (威穆皇帝)" ],
+  "overview" : "Lê Uy Mục (chữ Hán: 黎威穆; 5 tháng 5, 1488 – 1 tháng 12, 1509), đôi khi còn gọi là Mẫn Lệ công (愍厲公), là vị hoàng đế thứ tám của nhà Lê sơ trong lịch sử Việt Nam. Ông được xem là một vị Hoàng đế tàn bạo và hoang dâm, nổi tiếng là một bạo chúa, người đời gọi là Quỷ vương (鬼王).\n----------------------------------------------\nLê Uy Mục (chữ Hán: 黎威穆; 5 tháng 5 năm 1488 – 1 tháng 12 năm 1509), đôi khi còn gọi là Mẫn Lệ công (愍厲公), là vị hoàng đế thứ tám của nhà Lê sơ trong lịch sử Việt Nam. Trong thời gian trị vì của mình, ông chỉ dùng một niên hiệu là Đoan Khánh, ông được xem là một vị hoàng đế tàn bạo và hoang dâm, nổi tiếng là một bạo chúa, người đời gọi là Quỷ vương (鬼王)."
 }

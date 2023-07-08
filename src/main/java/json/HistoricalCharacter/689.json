@@ -1,20 +1,23 @@
 {
-  "dateOfBirth" : "Canh Thìn 1940",
-  "dateOfDeath" : "Quí Mão 1963",
-  "hometown" : "quê làng Long Tĩnh, xã Liên Hương, quận Tuy Phong, tỉnh Bình Thuận",
-  "occupation" : "Tu sĩ Phật giáo",
-  "workTenure" : "Không rõ",
+  "dateOfBirth" : "22 tháng 9 năm 1829 Huế, Việt Nam\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "19 tháng 7, 1883 (53 tuổi) Huế, Đại Nam\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Hà Nội",
+  "occupation" : "Hoàng đế Đại Nam\n----------------------------------------------\nDòng dõi Thượng thư bộ Binh đời Lê Hiển tông là Cao Bá Hiên, thân phụ Cao Bá Quát",
+  "workTenure" : "5 tháng 10 năm 1847 – 19 tháng 7 năm 1883 (35 năm, 287 ngày)\n----------------------------------------------\nKhông rõ",
   "fatherName" : {
-    "Hoàng Thân" : null
+    "Thiệu Trị" : 164
   },
   "motherName" : {
-    "Trương Thị Sang" : null
+    "Nghi Thiên Chương hoàng hậu" : null
   },
   "eraName" : {
-    "Nước Việt Nam mới" : 29
+    "Trịnh - Nguyễn" : 34,
+    "Nhà Tây Sơn" : 21,
+    "Nhà Nguyễn" : null,
+    "Nhà Nguyễn độc lập" : 30
   },
   "id" : 689,
-  "entityName" : "Hoàng Văn Lễ",
-  "aliases" : [ "Nguyên Hương" ],
-  "overview" : "Năm lên 6 tuổi, ông xuất gia học đạo với thượng tọa Quảng Chí ở chùa Linh Bửu. Về sau, ông theo học tại chùa Linh Quang (Huế), Phật Quang (Phan Thiết). Năm 18 tuổi ông thọ giới với thượng tọa Viên Trí ở chùa Bửu Tính thuộc quận Hòa Đa, tỉnh Bình Thuận. Năm 1963 ông phản đối chính quyền Ngô Đình Diệm đàn áp nhân dân và Phật giáo, ông tuyệt thực từ ngày 2-8-1963, đến ngày 4-8 ông tự thiêu trước quảng trường thị xã Phan Thiết. Ông hi sinh vào lúc 12 giờ trưa ngày 4-8-1963. Sau này giáo hội Phật giáo Việt Nam lấy tên ông đật tên cho một ngôi chùa tại đường Nguyễn Đình Chiểu thuộc Quận 3 thành phố Hồ Chí Minh."
+  "entityName" : "Nguyễn Dực Tông",
+  "aliases" : [ "Nguyễn Phúc Thì", "Anh Hoàng đế (英皇帝)", "Tự Đức (嗣德)", "Dực Tông (翼宗)", "Đức", "Nguyễn Phúc Hồng Nhậm (阮福洪任)" ],
+  "overview" : "Tự Đức (chữ Hán: 嗣德; 22 tháng 9 năm 1829 – 19 tháng 7 năm 1883), tên thật là Nguyễn Phúc Thì (阮福時) hoặc Nguyễn Phúc Hồng Nhậm (阮福洪任), là vị Hoàng đế thứ tư của triều Nguyễn. Ông là vị vua có thời gian trị vì lâu dài nhất của nhà Nguyễn, trị vì từ năm 1847 đến 1883, ông được truy tôn miếu hiệu là Nguyễn Dực Tông (阮翼宗).\n----------------------------------------------\nGặp hồi loạn lạc cuối Lê, ông không ra thi cử, ở ẩn quê nhà. Đến đời Gia Long, ông làm Giáo thụ ở huyện Gia Định (sau đổi là Gia Bình, tỉnh Bắc Ninh; nay thuộc Bắc Ninh), được đương thời khen ngợi là người có đạo đức, giỏi văn chương. Khi thấy vợ sinh đôi hai con là Bá Đạt và Bá Quát có tài văn xuất chúng, ông có lời khuyên sáng suốt: Văn của Bá Đạt hơn về khuôn phép nhưng kém về tài tứ; văn của Bá Quát hơn về tài tứ nhưng kém về khuôn phép. Đem cái tài tứ của Bá Quát hợp cái khuôn phép của Bá Đạt, sẽ có thể trở nên bậc có văn tài hoàn toàn. Ông mất, mọi người đều thương mến, nhắc nhở."
 }

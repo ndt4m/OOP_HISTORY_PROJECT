@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Tân Dậu 1921",
+  "dateOfDeath" : "Kỉ Mùi 1979",
+  "hometown" : "quê huyện Hương Thủy, tỉnh Thừa Thiên",
+  "occupation" : "Giáo sư",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Nước Việt Nam mới" : 29
+  },
   "id" : 2934,
-  "entityName" : "Lý Tín",
-  "aliases" : [ ],
-  "overview" : "Lý Tín (Chữ Hán: 李信) là một tướng nước Tần cuối thời Chiến Quốc."
+  "entityName" : "Đoàn Văn An",
+  "aliases" : [ "Thiên Ân" ],
+  "overview" : "Thuở nhỏ học tại Huế rồi xuất gia tu tại chùa Bảo Quốc, Linh Quang (Huế) sau du học Nhật chuyên về thiền Nhật Bản (Zen), năm 1961 đỗ bằng MA, đến năm 1965 đỗ Ph.D (Tlến sĩ) tại Đại học Waseda, Tokyo. Sau khi về nước, ông giảng dạy tại Đại học Văn khoa Huế và Sài Gòn về triết học, sử học Đông phương. Năm 1967 ông được mời giảng dạy tại Hoa Kì rồi định cư luôn ở Mĩ, ông mất năm 1979 tại Califomia (Mĩ). Các tác phẩm chính - Triết học Zen (1963). - Một vài quan điểm trong vấn đề trao đổi, văn hóa Việt Nam - Nhật Bản (1963) - Phật giáo Việt Nam xưa và nay (1965) - Lịch sử tư tưởng Nhật Bản (1965) - Giáo dục Nhật Bản hiện đại (1966) - Giá trị triết học, tôn giáo trong truyện Kiều (1966) Và một số chuyên luận đăng trên các tạp chí ở Sài Gòn, Hoa Kì."
 }

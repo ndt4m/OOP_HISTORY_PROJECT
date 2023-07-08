@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Đinh Sửu 1817",
-  "dateOfDeath" : "Nhâm Thân 1872",
-  "hometown" : "quê làngThanh Lương, huyện Quảng Điền, tỉnh Thừa Thiên, con đại thần Đặng Văn Hòa",
-  "occupation" : "Danh sĩ đời ThiệuTrị ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Chúa",
+  "workTenure" : "1776—1777",
+  "fatherName" : {
+    "Nguyễn Phúc Hiệu" : null
+  },
   "motherName" : { },
   "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+    "Đàng Trong - Chúa Nguyễn" : 5
   },
   "id" : 2311,
-  "entityName" : "Đặng Huy Tá",
+  "entityName" : "Tân Chính Vương",
   "aliases" : [ ],
-  "overview" : "Khi mất, được truy phục Viên ngoại lang. Ông có soạn hai tập thơ: Trữ nguyệt đường thi, Hương Sơn tích động thi..."
+  "overview" : "Nguyễn Phúc Dương (chữ Hán: 阮福暘; ?- 1777), hiệu Tân Chính vương, là nhà cai trị thứ 10 của chính quyền chúa Nguyễn ở Đàng Trong vào thời kỳ Lê trung hưng trong lịch sử Việt Nam."
 }

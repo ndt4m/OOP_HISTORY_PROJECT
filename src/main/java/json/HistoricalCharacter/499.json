@@ -1,17 +1,16 @@
 {
-  "dateOfBirth" : "Bính Thín 1916",
-  "dateOfDeath" : "Bính Dần 1989",
-  "hometown" : "tại phố Tân Ninh, phủ Lạng Thương tỉnh Bắc Giang",
-  "occupation" : "Nhà thơ ",
+  "dateOfBirth" : "Tân Hợi 1791",
+  "dateOfDeath" : "Canh Dần 1830",
+  "hometown" : "quê huyện Thanh Oai, tỉnh Hà Đông (nay thuộc tỉnh Hà Tây)",
+  "occupation" : "Danh sĩ đầu đời nhà Nguyễn",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Nhà Nguyễn độc lập" : 30
   },
   "id" : 499,
-  "entityName" : "Bàng Bá Lân",
-  "aliases" : [ ],
-  "overview" : "Thuở nhỏ học tại trường Vôi ở phủ Lạng Thương, sau về Hà Nội học trường Bưởi (Trường Trung học Bảo hộ), học xong Trung học ông về quê làm chủ đồn điền của gia đình. Từ năm 1939, ông viết và đăng thơ trên các báo xuất bản ở Hà Nội. Sau năm 1954 ông di cư vào Sài Gòn. Tại đây ông làm nghề dạy học tại các trường trung học tư thục và sáng tác văn chương, có thời gian làm chủ nhiệm kiêm chủ bút nguyệt san Bông lúa (Sài Gòn, 1956). Thơ Bàng Bá Lân là tiếng nói mộc mạc của làng quê Việt Nam, khởi đi từ những con đường làng quanh co, cái cổng tre núp mình bên những hàng tre rười rượi bóng mát trong những trưa hè vắng lặng. Hình ảnh những tiếng sáo diều trong những chiều lộng gió từ lâu vẫn còn một ấn tượng sâu đậm trong lòng những người xa xứ. Tiếng thơ Bàng Bá Lân khiến lòng người bồi hồi và lưu luyến về những hình ảnh nên thơ của đồng nội với hương cau, hương bưởi ngọt ngào nơi chôn nhau cắt rún. Thơ ông vì vậy sẽ sống mãi với hồn quê dân tộc. Các tác phẩm của ông, gồm có: - Tiếng thông reo (1941) (thơ) - Thơ Bàng Bá Lân (1957) (thơ) - Tiếng võng đưa (1957) (thơ) - Việt văn bình giảng (1962) (phân tích văn chương) - Văn thi sĩ hiện đại (1963 - hồi kí phê bình) - Vào thu (thơ - 1969) - Người vợ câm (1969 - truyện) - Vực xoáy (1969 - tập truyện)"
+  "entityName" : "Ngô Thì Hiệu",
+  "aliases" : [ "Hoa Lâm Tản Nhân" ],
+  "overview" : "Ông có tiếng văn chương, tuy chỉ là giám sinh Quốc tử giám nhưng ông có nhiều thơ văn và các công trình biên soạn lớn được truyền tụng. Năm Canh dần 1830, ông mất, hưởng dương 39 tuổi, thụy là Trang Nghị. Các tác phẩm còn truyền: - Lạng hành kí sự - Quan ngư kí. - Đại Man sự tích - Nam Du thi tập - Khôn Trinh lục - Dạ Trạch phú kí"
 }

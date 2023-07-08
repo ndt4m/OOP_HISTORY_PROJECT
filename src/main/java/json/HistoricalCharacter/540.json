@@ -1,18 +1,16 @@
 {
-  "dateOfBirth" : "Đinh Dậu 1897",
-  "dateOfDeath" : "Tân Mùi 1931",
-  "hometown" : "quê làng Hải Côn, huyện Nghi Lộc, tỉnh Nghệ An",
-  "occupation" : "Liệt sĩ cách mạng",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Công chúa, con gái Lý Thánh tông",
   "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Đặng Thái Thân" : 790
-  },
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Nhà Lý" : 14
   },
   "id" : 540,
-  "entityName" : "Đặng Thái Thuyên",
-  "aliases" : [ "Canh Tân" ],
-  "overview" : "Thân sinh ông tuẫn tiết năm 1910, ông được bà con và nhóm đồng chí của Phan Bội Châu nuôi ăn học, lúc ấy mới 13 tuổi. Khoảng năm 1919-1920 ông toan xuất dương làm cách mạng, nhưng mãi đến năm 1926, sau khi vào Việt Nam thanh niên Cách mạng đồng chí hội ông mới được chọn đưa sang Quảng Châu (Trung Quốc) tham dự lớp huấn luyện chính trị do Nguyễn Ái Quốc hướng dẫn. Sau lúc bế mạc lớp học ở Quảng Châu, ông được cử về hoạt động ở Thái Lan. Trong một chuyến về nước công tác, ông bị địch bắt giam ở nhà lao Kon Tum. Giữ vững tinh thần bất khuất, ông bị giết năm Tân mùi 1931, hưởng dương 34 tuổi."
+  "entityName" : "Động Thiên",
+  "aliases" : [ ],
+  "overview" : "Một hôm, Lý Thánh tông ngự ở điện Thiên Thánh xét án, bà vẫn có mặt, Thánh tông trỏ bà mà bảo các quan: \"Lòng trẫm yêu dân như yêu con trẫm vậy. Kẻ ngu tối làm bậy phản bội, kể cũng đáng thương hại. Từ rày về sau, tội gì cũng giảm nhẹ bớt đi.\" Do ảnh hưởng của vua cha, bà cũng nổi tiếng nhân hậu. Các bậc cao tăng thời ấy cũng đều khen ngợi lòng nhân đức của bà."
 }

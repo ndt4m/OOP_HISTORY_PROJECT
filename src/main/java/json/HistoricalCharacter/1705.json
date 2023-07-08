@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Quí Sửu 1913",
-  "dateOfDeath" : "Mậu Ngọ 1978",
-  "hometown" : "tại làng Mọc Quan Nhân, huyện Từ Liêm, tỉnh Hà Đông (nay là xã Nhân Chính, huyện Từ Liêm, TP",
-  "occupation" : "Nhà văn",
+  "dateOfBirth" : "1383\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "1471\n----------------------------------------------\nKhông rõ",
+  "hometown" : "huyện Vũ Ninh, phủ Từ Sơn . Một tài liệu của Viện Hán-Nôm lại cho hay, ông là người xã Phù Lương, huyện Võ Giàng, phủ Từ Sơn, xứ Kinh Bắc (nay thuộc huyện Quế Võ, tỉnh Bắc Ninh)\n----------------------------------------------\nquê xã Phù Lương, huyện Võ Ninh (Võ Giàng), phủ Từ Sơn, tỉnh Bắc Ninh",
+  "occupation" : "Danh thần đời Lê Nhân tông, không rõ năm sinh, năm mất",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nước Việt Nam mới" : 29
+    "nhà Lê" : null,
+    "Triều Lê Sơ" : 7
   },
   "id" : 1705,
-  "entityName" : "Lê Tài Phúng",
-  "aliases" : [ "Lê Tùng", "Trường Thiên", "Lê Tràng Kiều", "Phan Hữu" ],
-  "overview" : "Thuở nhỏ học ở Hà Nội, những năm 40 của thế kỉ XX, ông chủ trương báo Tân thiếu niên ở Hà Nội. Sau đó ông vào sống và làm báo tại Sài Gòn, từng cộng tác với các báo ở đây cho đến cuối đời. Sau cách mạng tháng 8 năm 1945. Ông gia nhập phong trào báo chí thống nhất cùng với Nam Đình, Trần Tấn Quốc, Nam Quốc Cang, Tam Ích, Thiếu Sơn, Vũ Tùng... chống nhóm li khai của chính phủ Nam Kì tự trị của thủ tướng Nguyễn Văn Thinh (1888-1946). Thời điểm này ông cộng tác với các nhà văn kháng chiến tại nội thành kí nhiều bút danh nhằm che đậy mục tiêu sinh hoạt của nhóm. Sau năm 1954 ông vẫn hành nghề báo chí, cộng tác với các báo Đuốc Nhà Nam, Dân chủ mới, Thần chung... Các tác phẩm chính: - Kho chuyện (1932, Nam Định) - Hang gió (1934, Nam Định) - Vị Giang Văn khố tuyển tập (1932, 1934) - Minh Trị thiên hoàng (1936, Hà Nội) - Tôi đã gặp người đàn bà ấy (1936 H.N) - Cuộc Nam tiến của dân tộc Việt Nam (1940, Sài Gòn) - Quốc văn toàn thư (1962, Sài Gòn) - Việt Nam một nền kinh tế tương lai (1947, Sài Gòn) - Kế hoạch 5 năm của Liên Xô (1947, Sài Gòn, hai cuốn này kí Phan Hữu) Và một số bản thảo: - Ca dao Việt Nam - Những thi văn tiền chiến - Nền văn hóa Cách mạng (1945-1954) - Phong trào tranh đấu của báo chí Bắc Việt (thời Pháp thuộc)."
+  "entityName" : "Nguyễn Nghiêu Tư",
+  "aliases" : [ "Quân Trù", "Tùng Khê" ],
+  "overview" : "Nguyễn Nghiêu Tư (tiếng Trung: 阮堯咨, 1383 - 1471), bản danh Nguyễn Văn Trư (阮文豬) , tự Quân Trù (君廚), hiệu Tùng Khê (松溪), người huyện Vũ Ninh, phủ Từ Sơn . Một tài liệu của Viện Hán-Nôm lại cho hay, ông là người xã Phù Lương, huyện Võ Giàng, phủ Từ Sơn, xứ Kinh Bắc (nay thuộc huyện Quế Võ, tỉnh Bắc Ninh) . Ông là một trạng nguyên thời nhà Lê sơ , làm quan đến chức Thượng thư .\n----------------------------------------------\nÔng là học trò Cúc Pha Võ Mộng Nguyên. Năm Mậu thìn 1448, đỗ Trạng nguyên. (Theo quyển Đại Việt đỉnh nguyên phật lục và Nam thiên cổ truyện) Khoa này, Lê Nhân tông nằm mộng thấy \"lợn đỗ trạng\". Kịp lúc treo bảng ông đỗ đầu, vua hỏi mới biết ông sinh tháng Hợi, năm Hợi, cha đặt tên tục là Trư (lợn). Do đấy đời bấy giờ có câu truyền tụng Long đầu trư Nguyễn Nghiêu Tư. Ông làm Hàn lâm trực học sĩ, rồi ra làm An phủ sứ ở Tân Hưng thượng lộ (nay là Tiên Hưng). Khi Lê Nghi Dân cướp ngôi (Kỉ mão 1459) triều đình phái ông làm Chánh sứ sang nhà Minh. Sau ông làm đến Thượng thư coi cả 6 bộ, tước Hào hùng hầu."
 }

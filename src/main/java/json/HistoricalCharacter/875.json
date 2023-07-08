@@ -1,17 +1,17 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "979\n----------------------------------------------\nTân Tị 981",
-  "hometown" : "người làng Trà Hương, Nam Sách, Hải Dương.\n----------------------------------------------\nquê ở Nam Sách, tỉnh Hải Dương",
-  "occupation" : "Võ tướng nhà Đinh",
+  "dateOfBirth" : "Giáp Thìn 1904",
+  "dateOfDeath" : "Kỉ Sửu 1949",
+  "hometown" : "quê làng Phú Khê, huyện Ý Yên, tỉnh Nam Định",
+  "occupation" : "Nhà văn",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "nhà Trần" : null,
-    "Nhà Đinh" : 35
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 875,
-  "entityName" : "Phạm Hạp",
-  "aliases" : [ ],
-  "overview" : "Phạm Hạp (范盍, ?-979) là một võ tướng đồng thời cũng là một trong những vị quan trung thần của vua Đinh Tiên Hoàng. Ông là người làng Trà Hương, Nam Sách, Hải Dương. Theo sách Tông phả kỷ yếu tân biên của Phạm Côn Sơn dẫn gia phả họ Phạm, ông là tổ 8 đời của tướng Phạm Ngũ Lão thời nhà Trần . Ông được sử sách Trung Hoa liệt vào danh sách \"Giao Châu thất hùng\", tức 7 anh hùng người Giao Châu gồm: Đinh Bộ Lĩnh, Đinh Liễn, Lê Hoàn, Đinh Điền, Nguyễn Bặc, Phạm Hạp và Phạm Cự Lượng.\n----------------------------------------------\nÔng nội là Thiên, làm Đồng giáp tướng quân đời Ngô Vương Quyền, cha là Mạn, làm Tham chính Đô đốc đời Hậu Ngô. Ông làm Vệ úy đời Đinh Tiên Hoàng. Kỉ mão 979 Đinh Tiên Hoàng bị Đỗ Thích ám sát chết. Đình thần tôn Đinh Tuệ mới 6 tuổi lên ngôi. Thập đại tướng quân Lê Hoàn nhiếp chính, tư thông với Dương hậu (Thái hậu Dương Vân Nga). Căm giận Lê Hoàn, ông đồng mưu với Đinh Điền, Nguyễn Bặc đem quân đánh Lê Hoàn, bị Lê Hoàn đánh bắt được cả 3 người, đem chém trong năm Tân tị 981. Về sau, em ông là Phạm Cự Lượng lại là người chủ xướng việc tôn phù Lê Hoàn lên ngôi, dựng nhà Tiền Lê."
+  "entityName" : "Hoàng Phạm Trân",
+  "aliases" : [ "Mạc Bảo Thần", "Nhượng Tống" ],
+  "overview" : "Ông tuy không đỗ đạt nhưng lực học rất uyên bác. Thân phụ ông đỗ tú tài Hán học, gia đình thanh bạch. Ông vốn họ Mạc, dòng dõi Mạc Đĩnh Chi, sau đổi ra họ Hoàng (vì vụ Mạc Đăng Dung, dòng họ phải đổi ra họ Hoàng hay Phạm). Ông được Phạm Bùi Cẩm ở Hà Nam nuôi dạy, nên mang họ đổi là Hoàng Phạm. Năm 1924, ông viết bài cho tờ Thực nghiệp dân báo của Mai Du Lân, tên Nhượng Tống được chú ý từ đấy. Năm 1926, ông cùng Phạm Tuấn Tài, Phạm Quế Lâm thành lập Nam Đồng thư xã chuyên xuất bản những sách bồi dưỡng lòng yêu nước của nhân dân. Năm sau, 1927, ông có chân trong Đảng Việt Nam quốc dân. Đến năm 1929, ông bị bắt, đày ra Côn Đảo với án 10 năm cấm cố. Cuối năm 1936 ông được thả tự do, nhưng còn chịu án 5 năm biệt xứ. Thời gian này ông sống với nghề Đông y và chuyên chú vào việc dịch sách. Từ năm 1940 về sau, có lúc ông lại hoạt động chính trị. Khoảng năm 1948, ông lại được Nghiêm Xuân Thiện mời làm cố vấn một thời gian rồi từ chức, nhưng đời ông phục vụ văn hóa là chính. Ngày nay ai cũng xem ông là một nhà văn hóa. Ông còn để lại đời những tác phẩm có giá trị: a) Phiên dịch: Sử kí Tư Mã Thiên, Li Tao, Thơ Đỗ Phủ, Mái Tây, Nam Hoa Kinh, Lam Sơn thực lục, Đại Việt sử kí toàn thư, Liêu trai chí dị... b) Sáng tác: Lan và Hữu (tiểu thuyết), Nguyễn Thái Học (truyện kí), Hoàng Diệu (vở chèo), Phất cờ nương tử."
 }

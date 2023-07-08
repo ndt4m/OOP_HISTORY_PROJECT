@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "1604",
-  "dateOfDeath" : "1678",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Quê làng Kì Sơn, huyện Chí Linh, tỉnh Hải Dương",
+  "occupation" : "Nghĩa sĩ đời Trưng vương, hai anh em, em là Đào Đạt, anh là Đào Đạo - đều giỏi võ nghệ có lòng yêu nước, có tinh thần cao thượng cứu khó, phò nguy, tận tâm thương yêu dân nước",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "nhà Lê" : null
+    "Trưng Nữ Vương" : 10
   },
   "id" : 1446,
-  "entityName" : "Vũ Duy Chí",
+  "entityName" : "Đào Đạo - Đào Đạt",
   "aliases" : [ ],
-  "overview" : "Vũ Duy Chí (1604-1678) là quan nhà Lê trung hưng trong lịch sử Việt Nam."
+  "overview" : "Trước cuộc khởi nghĩa Trưng Vương, hai anh em ông vẫn từng tập họp nghĩa quân đánh phá quân xâm lược, và sau đó ủng hộ cuộc khởi nghĩa của toàn dân do hai bà Trưng lãnh đạo. Sau khi hai anh em ông mất, dân chúng cũng có lập đền thờ làng Kì Sơn còn phụng tự tại đình."
 }

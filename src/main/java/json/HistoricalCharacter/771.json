@@ -1,20 +1,16 @@
 {
-  "dateOfBirth" : "553",
-  "dateOfDeath" : "604",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế nhà Nam Trần",
-  "workTenure" : "582 - 589",
-  "fatherName" : {
-    "Trần Tuyên Đế" : 893
-  },
-  "motherName" : {
-    "Liễu Kính Ngôn" : null
-  },
+  "dateOfBirth" : "Tân Dậu 1921",
+  "dateOfDeath" : "Canh Thìn 1940",
+  "hometown" : "quê làng Ngọc Thọ, huyện Tam Kì, tỉnh Quảng Nam (nay là xã Tam Ngọc, thị xã Tam Kì, tỉnh Quảng Nam)",
+  "occupation" : "Liệt sĩ cách mạng",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
   "eraName" : {
-    "Họ Trần" : null
+    "Pháp đô hộ" : 11
   },
   "id" : 771,
-  "entityName" : "Trần Thúc Bảo",
-  "aliases" : [ "Hoàng Nô", "Tên đầy đủ Trần Thúc Bảo Niên hiệu Chí Đức (至德) 583-586 Trinh Minh (禎明) 587-1/589 Thụy hiệu Trường Thành Dương công (長城煬公) Miếu hiệu Không", "Nguyên Tú" ],
-  "overview" : "Trần Thúc Bảo (giản thể: 陈叔宝; phồn thể: 陳叔寶; bính âm: Chén Shúbǎo, 553–604, trị vì 582–589), thường được biết đến trong sử sách là Trần Hậu Chúa (陳後主), thụy hiệu Trường Thành Dương công (長城煬公), tên tự Nguyên Tú (元秀), tiểu tự Hoàng Nô (黃奴), là vị hoàng đế cuối cùng của triều đại Trần thời Nam-Bắc triều trong lịch sử Trung Quốc. Tại thời điểm ông đăng cơ, Trần đã phải chịu áp lực quân sự từ triều Tùy trên nhiều phương diện. Theo các sử gia truyền thống, Trần Thúc Bảo là một quân chủ bất tài, ham mê văn chương và tửu sắc hơn là việc chính sự. Năm 589, quân Tùy công chiếm kinh thành Kiến Khang và bắt giữ Trần Thúc Bảo, kết thúc triều Trần và thời kỳ Ngụy-Tấn-Nam-Bắc triều phân liệt, thống nhất Trung Hoa. Sau đó, Trần Thúc Bảo bị đưa đến kinh thành Trường An của Tùy, được đối đãi tử tế cho đến khi qua đời vào năm 604."
+  "entityName" : "Nguyễn Ngọc Bích",
+  "aliases" : [ ],
+  "overview" : "Xuất thân trong một gia đình nông nghiệp có truyền thống Nho học, thuở nhỏ học ở Tam Kì, Hội An. Trong những năm còn ngồi trên ghế nhà trường, ông tham gia trong các tổ chức thanh niên phản đế, thanh niên dân chủ ở Hội An, Đà Nẵng, Tam Kì. Năm 1942 cơ sở bị vỡ, ông bị địch bắt giam ở nhà lao Hội An, sau đày lên Ban Mê Thuột. Tại nhà tù Ban Mê Thuột ông bị địch tra tấn, hành hạ đến bị trọng bệnh, mất trong nhà tù lúc tuổi đời còn rất trẻ (19 tuổi). ' Làng Ngọc Thọ quê ông sau năm 1945 được đổi thành làng Ngọc Bích nơi ông sinh ra và trưởng thành. Các anh em trai ông sau năm 1945 đều tham gia kháng chiến chống Pháp, Mĩ. Năm 1990, gia đình đưa hài cốt ông về an táng tại nghĩa trang phường Trường Xuân, thị xã Tam Kì, tỉnh Quảng Nam."
 }

@@ -1,14 +1,16 @@
 {
   "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfDeath" : "Mậu Thìn 1928",
+  "hometown" : "huyện Nghi Lộc, tỉnh Nghệ An, bạn đồng chí với Phan Bội Châu, chú ruột liệt sĩ Đặng Thái Thân",
+  "occupation" : "Chí sĩ cận đại",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
+  },
   "id" : 2137,
-  "entityName" : "Ngô Hưng",
+  "entityName" : "Đặng Tử Kính",
   "aliases" : [ ],
-  "overview" : "Ngô Hưng (chữ Hán phồn thể: 吳興區, chữ Hán giản thể: 吴兴区, âm Hán Việt: Ngô Hưng khu) là một quận thuộc địa cấp thị Hồ Châu, tỉnh Chiết Giang, Cộng hòa Nhân dân Trung Hoa. Quận này có diện tích 872 kilômét vuông, dân số 560.000 người. Mã số bưu chính của Ngô Hưng là 313000. Chính quyền nhân dân quận Ngô Hưng đóng ở số 493, đường Hồ Đông. Về mặt hành chính, quận Ngô Hưng được chia thành 9 nhai đạo, 6 trấn, 2 hương."
+  "overview" : "Năm Ất tị 1905, ông sang Nhật, Trung Hoa, đến năm Kỉ dậu 1909 trở về Xiêm (Thái Lan) phụ trách kinh tài cho tổ chức cách mạng ở trong và ngoài nước. Năm Mậu thìn 1928, ông mất ở tỉnh Phi Chịt (Thái Lan). Văn thơ yêu nước của ông còn truyền tụng nhiều trong và ngoài nước."
 }

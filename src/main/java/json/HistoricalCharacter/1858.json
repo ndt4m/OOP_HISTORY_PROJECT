@@ -1,17 +1,14 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Bính Tuất 1946",
-  "hometown" : "quê tỉnh Mĩ Tho, (nay là tỉnh Tiền Giang)",
-  "occupation" : "Nhà hoạt động cách mạng",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
-  },
+  "eraName" : { },
   "id" : 1858,
-  "entityName" : "Phan Văn Khỏe",
-  "aliases" : [ ],
-  "overview" : "Sau cuộc khởi nghĩa Nam Kì thất bại Bí thư Xứ ủy Phan Đăng Lưu bị bắt và bị bắn, ông được cử lên thay. Năm 1941 bị địch bắt và đày ra Côn Đảo. Sau cách mạng tháng 8 ông trở về đất liền, tiếp tục hoạt động kháng chiến chống Pháp ở địa bàn Mỹ Tho và hi sinh tại đây năm 1946."
+  "entityName" : "Huỳnh Minh",
+  "aliases" : [ "Huỳnh Khắc Vịnh" ],
+  "overview" : "Huỳnh Minh (?-?) tên thật là Huỳnh Khắc Vịnh, sinh tại Bến Tre . Ông là một nhà biên khảo chuyên viết sách về thể loại lịch sử và văn hóa của vùng đất Nam Bộ ."
 }

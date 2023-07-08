@@ -1,18 +1,16 @@
 {
-  "dateOfBirth" : "Đinh Hợi 1887",
-  "dateOfDeath" : "Bính Thìn 1916",
-  "hometown" : "quê xã Yên Hội, phủ Đức Thọ, tỉnh Hà Tĩnh (nay là xã Tùng Ảnh, huyện Đức Thọ, tỉnh Hà Tĩnh) con trai Phạm Văn Bật",
-  "occupation" : "Liệt sĩ cận đại, em chí sĩ Phạm Văn Ngôn",
+  "dateOfBirth" : "Canh Dần 1770",
+  "dateOfDeath" : "Ất Hợi 1815",
+  "hometown" : "quê làng Du Lâm, huyện Đông Ngạn, phủ Từ Sơn, tỉnh Bắc Ninh",
+  "occupation" : "Danh sĩ đời Gia Long",
   "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Phạm Văn Bật" : null
-  },
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Nhà Nguyễn độc lập" : 30
   },
   "id" : 2475,
-  "entityName" : "Phạm Dương Nhân",
-  "aliases" : [ ],
-  "overview" : "Hai anh em đều nhiệt thành yêu nước. Khi người anh bị đày Côn Đảo, ông hưởng ứng phong trào Đông du sang Nhật, được các đồng chí đưa vào học ở Đồng văn thư viện tại Đông Kinh. Sau, ông sang Xiêm (Thái Lan) hoạt động ít lâu rồi trở về Trung Quốc trong năm Nhâm tí 1912. Nhận lệnh đi ám sát một tên phản động trọng yếu, ông cùng Đặng Tử Võ túc Đặng Thái Chang đi thi hành nhiệm vụ, nhưng việc không thành, ông trở về Trung Quốc, phẫn uất thành bệnh. Năm Giáp dần 1914, ông cùng Đặng Hồng Phấn tức Đặng Hữu Quỳ vào học ở trường Bảo Định. Ông năng nỗ học hành, luôn luôn chiếm ưu hạng, nhưng bệnh lại phát nặng, thường khạc ra máu. Năm Bính thìn 1916, ngày 15-9 ông mất tại Trung Quốc hưởng dương 29 tuổi. Đặng Đoàn Bằng (tức Phan Bội Châu) có bài thơ điếu rất thống thiết: \"Nguyện phiền Nam hải tẩy tanh phong, Nhất khứ ninh tri bão hám chung. Cánh hưởng cửu nguyên tàng vũ khố, Không liên vạn địch phụ anh hùng. Bán sinh lân quốc tâm nan bạch, Thủy tử ưu tiên huyết thượng hồng. Cực mục (thiếu 1 chữ) kinh dư vạn lí, Hồn lai hồn phản thụ vân trung.\" Bản dịch: Bể Nam mong rửa gió tanh hôi, Một bước ngờ đâu giận trọn đời. Đem đến cửu nguyên chôn Võ khố, Những thương muôn địch phụ anh tài, Liều mình vì nước lòng khôn tỏ, Tới chết lo trời máu vẫn tươi. Liếc mắt (...) kính muôn dặm cách, Hồn đi hồn lại núi mây xuôi."
+  "entityName" : "Nguyễn Án",
+  "aliases" : [ "Kính Phủ", "Ngu Hồ" ],
+  "overview" : "Xuất thân trong một gia đình khoa bảng truyền thống, ông cố là Tiến sĩ Nguyễn Kham, ông nội là Tiến sĩ Nguyễn Ý, thân phụ là Nguyễn Chí Hoàn. Ngoài ra bà con thúc bá đều xuất thân đại khoa từ đời hậu Lê. Năm Ất sửu 1805, ông được Gia Long mời ra làm Tri huyện huyện Phù Dung tỉnh Hưng Yên, nhưng chẳng bao lâu ông từ quan về ở ẩn tại quê nhà. Năm Đinh mão 1807 ông đỗ Cử nhân. tại trường thi Kinh Bắc (Bắc Ninh, sau nhập chung với Trường Thăng Long) khoa thi Hương đầu tiên của triều Nguyễn, rồi lại ra làm Tri huyện Tiên Minh, tỉnh Kiến An. Năm Ất họi 1815 ông mất. Các tác phẩm của ông, gồm: - Phong Lâm minh lãi thi tập - Tang thương ngẫu lục (hợp soạn với Phạm Đình Hổ) Tang thương ngẫu lục (Tình cờ chép việc dâu bể) được khắc in năm 1806 chia ra làm 2 quyển: quyển thượng 40 bài, quyển hạ 50 bài. Mỗi bài đều có tên tựa của tác giả hoặc Tùng Niên (Phạm Đình Hổ) hoặc Kính Phủ (Nguyễn Án). Các bài trong sách có thề chia ra làm 5 mục sau: - Danh nhân: Chu An, Nguyễn Trãi, Đặng Trần Côn... - Thắng cảnh: núi Dục Thúy, núi Phật Tích... - Di tích: Bia núi Thanh Nam, Tháp Báo thiên... - Việc cuối đời Lê: thi Hội cuối đời Lê, lễ triều hạ đời Lê Cảnh Hưng. -.Chuyện lạ: Chuyện Hoàng Sầm, Nguyễn Bá Dương, Nguyễn Văn Giai..."
 }

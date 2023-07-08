@@ -1,17 +1,14 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Ất Mão 1435",
-  "hometown" : "quê làng Nguyên Xá, huyện Lương Giang (nay thuộc huyện Thọ Xuân, tỉnh Thanh Hóa)",
-  "occupation" : "Danh tướng đời Lê Thái tổ",
+  "dateOfBirth" : "1910 Hải Phòng, Liên bang Đông Dương",
+  "dateOfDeath" : "17 tháng 3 năm 1945 Yên Bái, Đế quốc Việt Nam",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Thuộc Minh" : 33,
-    "Triều Lê Sơ" : 7
-  },
+  "eraName" : { },
   "id" : 1748,
-  "entityName" : "Phạm Vấn",
+  "entityName" : "Đinh Nhu",
   "aliases" : [ ],
-  "overview" : "Kháng chiến thành công (1428) ông được phong Đại tướng quân, tước Thượng Tứ Tự, rồi ít lâu thăng Tể phụ. Nhập nội Kiểm hiệu. Bình chương quân quốc trọng sự. Năm 1429, tấn phong ông tước Huyện Thượng Hầu, khắc tên ông đứng hàng đầu trên bia công thần. Năm 1431, ông được thăng Kiểm hiệu Đô đốc, Quận hầu. Lê Thái tổ mất (1433) ông và Lê Sát phụ chính Lê Thái tông, hai năm sau (Ất mão 1435) ông mất, được tặng Thái phó, thụy Tuyên Võ."
+  "overview" : "Đinh Nhu (1910 - 1945) là một nhạc sĩ người Việt Nam, tác giả bài Cùng nhau đi Hồng binh, nhạc phẩm được coi là bài hát đầu tiên của tân nhạc cách mạng Việt Nam ."
 }

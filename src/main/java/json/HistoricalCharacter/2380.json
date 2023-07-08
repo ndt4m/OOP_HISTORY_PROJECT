@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Quê xã Đông Ngạc, huyện Từ Liêm, tỉnh Hà Đông (nay thuộc TP",
-  "occupation" : "Danh sĩ đời Lê Thái tổ, không rõ năm sinh, năm mất",
+  "dateOfBirth" : "Tân Dậu 1921",
+  "dateOfDeath" : "Tân Dậu 1981",
+  "hometown" : "tại Đà Nẵng, tỉnh Quảng Nam (nay thuộc TP",
+  "occupation" : "Kịch tác gia",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Triều Lê Sơ" : 7
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 2380,
-  "entityName" : "Phan Phu Tiên",
-  "aliases" : [ "Mặc Hiên", "Phan Phù Tiên", "Tín Thần" ],
-  "overview" : "Phan Phu Tiên hay Phan Phù Tiên (chữ Hán: 潘孚先, 1370 - 1482 ), tự: Tín Thần, hiệu: Mặc Hiên; là nhà biên khảo, nhà sử học, và là thầy thuốc Việt Nam ở đầu thời Nhà Lê sơ. Thành tựu đáng kể của ông, đó là đã biên soạn ra bộ Việt âm thi tập và bộ Đại Việt sử ký tục biên.\n----------------------------------------------\nNăm Bính tí 1396, đời Trần Thuận tông, ông đỗ Thái học sinh. Đến năm Kỉ dậu 1429, đời Lê Thái tổ, năm Thuận Thiên thứ 2, ông lại đỗ khoa Minh kinh. Làm quan đến Trị quốc sử viện, rồi ra làm An Phủ sứ ở Thiên Trường và giữ chức Quốc tử giám bác sĩ. Ông còn để lại các tác phẩm giá trị: - Việt âm thi tập - Đại Việt sử kí lục biên (soạn năm 1445, gồm 10 quyển chép tiếp bộ Đại Việt sử kí của Lê Văn Hưu) từ đời Trần Thái tông (1225) đến lúc giặc Minh rút về Trung Quốc (1427). Trong bộ Việt âm thi tuyển có bài thơ Nôm của ông VỊNH VĂN MIẾU: Thần minh dòng trước nẻo Thương Thang, Thư ngọc làu làu sớm ứng tường. Đức cả hồn toàn so thái cực, Đạo mầu tinh túng sánh tam quan. Giáo là đàn hạnh còn vang tạc, Phép để kinh luân hãy sáng gương. Nền mở thăng bình nhuần tám cõi Thử hình thức thức đối thiên trường. Nay ở làng Đông Ngạc (làng Ve ngoại thành Hà Nội) có nhà thờ Phan Phu Tiên với bức hoành phi 3 chữ Khai Tất tiên ghi nhớ ông là người đỗ Đại khoa đầu tiên làm vinh dự cho làng xã. Con cháu ông về sau đỗ đạt và có danh vọng cũng nhiều, như Phan Lê Phiên tức Phan Trọng Phiên. Việt âm thi tập (6 quyển) do ông biên tập, Lý Tử Tấn phê duyệt. Theo tác giả sách Tìm hiểu kho sách Hán Nôm NXB KHXH thì: Việt âm thi tập là bộ thi tuyển đầu tiên ở nước ta. Phan Phu Tiên biên tập xong sách vào năm Quý sửu niên hiệu Thuận Thiên (1433) đời vua Lê Thái tổ; nhưng tiếp đó ông đi nhậm chức trấn thủ ở cõi ngoài nên không thực hiện được việc khắc ván in sách. Sau đó, một người khác là Thị ngự sử Chu Xa biên tập bổ sung và lo liệu việc khắc in, xong vào năm Kỉ mão niên hiệu Diên Ninh thứ 6 (1459) đời vua Lê Nhân tông. Bản in ấy ngày nay không còn, nhưng chúng ta hiện còn giữ được bản sách in lại năm Kỉ dậu niên hiệu Bảo Thái thứ 10 (1729) đời vua Lê Dụ tông. Đó là bán sách kí hiệu A. 1925 của TVKHXH. Tuy không phải là bản in đầu tiên của sách này nhưng bản sách đó cũng thuộc vào loại những bản in cổ nhất trong kho sách Hán Nôm hiện còn ngày nay. Toàn bộ sách gồm 6q, hiện nay chỉ còn 3 q. (I, II, III). Đầu sách in to 4 chữ \"Việt âm thi tập\" sách in ván gỗ."
+  "entityName" : "Lưu Quang Thuận",
+  "aliases" : [ ],
+  "overview" : "Ông sinh trưởng trong một gia đình trí thức, tuổi trẻ học ở Đà Nẵng, Huế, từ năm 1937 ông vào Nam, sống ở Gia Đình, vừa mưu sinh vừa sáng tác văn chương, có bài đăng trên các báo tại Sài Gòn. Năm 1943, ông trở ra Hà Nội tiếp tục viết báo, làm thơ, soạn kịch... Từ năm 1946, ông tham gia kháng chiến chống Pháp, ông là một trong những người có sáng kiến thành lập tạp chí Sân khấu và nhà xuất bản Hoa Lư tại Hà Nội. Trong những năm kháng chiến ông từng làm Giám đốc Việt Nam ấn thư cục, rồi làm việc tại đài phát thanh Việt Nam ở chiến khu Việt Bắc, Hà Nội. Ngày 21-2-1981 ông mất, thọ 60 tuổi. Ông là tác giả nhiều vở kịch thơ được khán giả, độc giả tán thưởng, như: - Yên Li - Lữ Gia - Lê Lai đổi áo - Phượng Trì thôn - Kiều Công Tiễn - Người Hoa Lư - Tấm Cám - Mối tình Điện Biên... Và các tập thơ: - Tóc thơm (1942) - Việt Nam yêu dấu (1943) - Lời thân ái (1957) - Mừng đất nước (1960) - Cảm ơn thời gian... Con trai ông: Lưu Quang Vũ cũng là một kịch tác gia sung sức và sắc nét."
 }

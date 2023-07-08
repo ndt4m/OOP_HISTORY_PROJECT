@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "1944 Sơn Tây",
-  "dateOfDeath" : "27 tháng 3 năm 2011 California, Hoa Kỳ",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
-  "occupation" : "nhà báo, nhạc sĩ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "nhà Mạc" : null
+  },
   "id" : 2867,
-  "entityName" : "Nguyễn Đức Quang",
+  "entityName" : "Nguyễn Dư",
   "aliases" : [ ],
-  "overview" : "Nguyễn Đức Quang (1944 - 27 tháng 3 năm 2011) là một nhà báo, nhạc sĩ người Việt ."
+  "overview" : "Nguyễn Dư (chữ Hán: 阮餘, ?-?), thường được gọi là Nguyễn Dữ (阮與), là một danh sĩ thời Lê sơ, thời nhà Mạc và là tác giả sách Truyền kỳ mạn lục, một tác phẩm truyền kỳ nổi tiếng tại Việt Nam."
 }

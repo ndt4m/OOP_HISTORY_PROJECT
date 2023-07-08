@@ -1,18 +1,16 @@
 {
-  "dateOfBirth" : "ngày 7 tháng 1 năm 889",
-  "dateOfDeath" : "ngày 30 tháng 3 năm 943 Trung Quốc",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế nhà Nam Đường",
-  "workTenure" : "937– 943",
-  "fatherName" : {
-    "Nam Đường Nghĩa Tổ" : null
-  },
+  "occupation" : "Danh sĩ đời Trần Nghệ tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nam Đường" : null
+    "Nhà Trần" : 15
   },
   "id" : 2805,
-  "entityName" : "Lý Biện",
-  "aliases" : [ "Tên thật Lý Biện 李昪 Niên hiệu Thăng Nguyên 昇元 937-943 Thụy hiệu Quang Văn Túc Vũ Hiếu Cao Hoàng Đế 光文肅武孝高皇帝 Tôn hiệu: Tiên Chủ 先主 Miếu hiệu Liệt Tổ 烈祖", "Lý Thăng", "Nam Đường Tiền Chủ", "Nam Đường Cao Đế" ],
-  "overview" : "Nam Đường Liệt Tổ (南唐烈祖) (d. 943), cũng gọi là Nam Đường Tiền Chủ (南唐前主) hay Nam Đường Cao Đế (南唐高帝), húy danh là Lý Biện (李昪), hay Lý Thăng, nguyên danh là Từ Tri Cáo (徐知誥), là người thành lập ra nước Nam Đường, một trong những nước thành công nhất trong Thập quốc của thời Ngũ đại Thập quốc (907-960)."
+  "entityName" : "Đỗ Tử Vi",
+  "aliases" : [ "Tôn Trai" ],
+  "overview" : "Ông làm đến Trung thư lệnh, tính cương trực, khí khái, hết lòng chăm lo việc nước. Thơ văn ông còn truyền tụng nhiều, ý tứ sâu sắc như bài Quá Việt tỉnh cương (Qua gò Việt tỉnh), cảm khái truyện Việt Vương Triệu Quang Phục và Lý Phật Tử xưa. \"Việt tỉnh thê lương thảo mộc thu, Trích lưu sự khứ sử nhân sầu. Bằng thùy mịch đắc tam niên ngãi, Y ngã càn khôn nhất chuế vưu.\" Bản dịch: Việt tỉnh buồn thu cỏ một vùng, Đâu còn việc vắng khách đau lòng. Ba năm cây ngãi ai tìm được, Thử chữa người thừa của hóa công."
 }

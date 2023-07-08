@@ -1,16 +1,20 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Bính Tí 1516",
-  "hometown" : "huyện Văn Lang, tỉnh Bắc Ninh",
-  "occupation" : "Vợ của Lê Tương Dực, con gái Đại phu Nguyễn Quản Lĩnh",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
+  "dateOfBirth" : "117 TCN",
+  "dateOfDeath" : "112 TCN Nam Việt",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Nam Việt",
+  "workTenure" : "113 TCN – 112 TCN",
+  "fatherName" : {
+    "Triệu Minh Vương" : 1844
+  },
+  "motherName" : {
+    "Cù hậu" : null
+  },
   "eraName" : {
-    "Triều Lê Sơ" : 7
+    "Nhà Triệu" : 16
   },
   "id" : 2572,
-  "entityName" : "Khâm Đức",
-  "aliases" : [ ],
-  "overview" : "Bà hiền hậu, đảm đang, được Tương Dực đế lập làm Hoàng hậu sinh được 3 gái. Năm Bính tí 1516, Tương Dực bị Trịnh Duy Sản giết. Bà nghe biến cố xảy ra, bàng hoàng tự nghĩ không tham sống nữa, bèn đến điện Tân Thanh, tự thiêu mà chết. Sau, được truy dâng tôn thụy là \"Khâm Đức Trinh liệt đôn tiết hoàng hậu\"."
+  "entityName" : "Triệu Hưng",
+  "aliases" : [ "Ai Vương (哀王)", "Triệu Hưng (趙興)" ],
+  "overview" : "Triệu Ai Vương (chữ Hán: 趙哀王; 117 TCN-112 TCN) tên thật là Triệu Hưng (趙興), là vua thứ 4 nhà Triệu nước Nam Việt, trị vì từ năm 113 TCN - 112 TCN, tức chỉ 1 năm."
 }

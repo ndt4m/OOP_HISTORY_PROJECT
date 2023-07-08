@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Canh Thân 1920",
-  "dateOfDeath" : "Đinh Mùi 1967",
-  "hometown" : "tại làng Trung Phụng, ngoại thành Hà Nội, nguyên quán làng Phượng Dực, tỉnh Hà Đông",
-  "occupation" : "Nhà thơ bút ",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Hàm Giang, huyện Cẩm Giàng, tỉnh Hải Dương",
+  "occupation" : "Danh tướng, dòng dõi tướng Đinh Văn Tả",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nước Việt Nam mới" : 29
+    "Trịnh - Nguyễn" : 34
   },
   "id" : 901,
-  "entityName" : "Đinh Hùng",
-  "aliases" : [ "Hoài ĐiệpThứ Lang", "Thần Đăng" ],
-  "overview" : "Thời tuổi trẻ ông học tại Hà Nội, từng cộng tác với các báo Ngày nay, Tiểu thuyết thứ năm... (Hà Nội) và sáng tác thơ ca đăng trên các báo và tạp chí. Sau toàn quốc kháng chiến ông tản cư một thời gian rồi về thành, sau hiệp định Genève ông di cư vào Sài Gòn. Từ đây ông bắt đầu viết truyện, phụ trách chương trình thơ ca (Tao đàn) trên Đài phát thanh Sài Gòn một thời gian dài. Ngày 24-8-1967 ông mất vì bệnh ung thư tại Sài Gòn. Các tác phẩm: - Mê hồn ca (1954) - Đường vào tình sử (1961) - Ngày đó có em (1967) - Đốt lò hương cũ (1971) Và một số truyện dã sử. Thơ Đinh Hùng dạt dào tình cảm, giàu âm thanh, diễn tả được tâm trạng tuổi trẻ một cách thiết tha về cuộc sống nhân sinh mang nhiều hệ lụy. Các đoản văn và tiều thuyết của ông có giọng réo rắt du dương như những tiếng đàn khoan nhặt, bổng trầm của một bản hợp tấu."
+  "entityName" : "Đinh Tích Nhưỡng",
+  "aliases" : [ ],
+  "overview" : "Đinh Tích Nhưỡng (chữ Hán: 丁錫壤) là một võ tướng triều Lê trung hưng trong lịch sử Việt Nam.\n----------------------------------------------\nÔng là tướng giỏi cuối đời Hậu Lê, giỏi về thủy chiến. Được vua Lê và chúa Trịnh ưu đãi, ông phục vụ tận tâm, được phong tước Liễn Trung Hầu, rồi thăng Liễn Quận công. Khi Nguyễn Huệ tiến quân ra Bắc lần thứ nhất, ông đem thủy quân ra phía cửa Luộc. Nhưng trước sức tấn công của nghĩa quân Tây Sơn phải bỏ thuyền mà chạy. Về sau ông trở mặt làm phản vua Lê Chiêu Thống, góp phần làm cho cơ nghiệp nhà Lê đổ nát."
 }

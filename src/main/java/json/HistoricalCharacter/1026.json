@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "1927",
-  "dateOfDeath" : "1983",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Đinh Mão 1927",
+  "dateOfDeath" : "Ất Mão 1975",
+  "hometown" : "quê ở Diễn Thịnh, huyện Diễn Châu, tỉnh Nghệ An",
+  "occupation" : "Nhà nghiên cứu văn học",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Nước Việt Nam mới" : 29
+  },
   "id" : 1026,
-  "entityName" : "Vũ Đại",
+  "entityName" : "Cao Huy Đỉnh",
   "aliases" : [ ],
-  "overview" : "Vũ Đại (1927-1983), nguyên Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa V, Đại biểu Quốc hội khóa VII, Bộ trưởng, Phó Chủ nhiệm Ủy ban Kế hoạch Nhà nước."
+  "overview" : "Ông sinh ngày 31-12-1927, mất ngày 3-4-1975 tại Hà Nội, hưởng dương 48 tuổi. Còn để lại cho đời: - R. Tagore (dịch và giới thiệu, 1961) - Sakunt (dịch, 1963) - Tìm hiểu thần thoại Ấn Độ (nghiên cứu 1964) - Người anh hùng làng Gióng (nghiên cứu 1969) - Tìm hiểu tiến trình văn học dân gian Việt Nam (nghiên cứu, 1974)"
 }

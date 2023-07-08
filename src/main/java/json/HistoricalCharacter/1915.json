@@ -1,14 +1,17 @@
 {
-  "dateOfBirth" : "Đặng Siêu 8 tháng 2, 1979 (38 tuổi) Nam Xương, Giang Tây, Trung Quốc",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Diễn viên, Đạo diễn, Nhà sản xuất",
+  "dateOfBirth" : "1808\n----------------------------------------------\nMậu Thìn 1808",
+  "dateOfDeath" : "1898\n----------------------------------------------\nMậu Tuất 1898",
+  "hometown" : "quê huyện Phong Phú, tỉnh Quảng Bình",
+  "occupation" : "Danh thần đời ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nhà Nguyễn độc lập" : 30
+  },
   "id" : 1915,
-  "entityName" : "Đặng Siêu",
-  "aliases" : [ ],
-  "overview" : "Đặng Siêu (sinh ngày 8 tháng 02 năm 1979) là nam diễn viên, đạo diễn, nhà sản xuất người Trung Quốc, tốt nghiệp khoa diễn xuất Học viện Hý kịch Trung ương khóa 1998. Sau khi tốt nghiệp công tác tại Nhà hát kịch quốc gia Trung Quốc. Năm 2011, được bổ nhiệm làm phó chủ tịch Ủy ban công tác diễn viên, hiệp hội nghệ thuật gia truyền hình Trung Quốc. Năm 2013, thành lập công ty truyền thông hình ảnh Chanh Tử, tham gia lĩnh vực đạo diễn và sản xuất phim. Năm 2016, tổng doanh thu phòng vé các bộ phim Đặng Siêu tham gia đạt 10 tỉ NDT, trở thành diễn viên đại lục đầu tiên và duy nhất đến thời điểm hiện tại đạt đến con số này."
+  "entityName" : "Võ Trọng Bình",
+  "aliases" : [ "Sư Án", "Đức", "Vũ Trọng Bình" ],
+  "overview" : "Võ Trọng Bình hay Vũ Trọng Bình (武仲平, 1808-1898) , tự Sư Án, là một đại thần thời nhà Nguyễn trong lịch sử Việt Nam. Ông làm quan trải chín đời vua, nổi tiếng là người có tính cương trực, thanh liêm và biết quý trọng dân .\n----------------------------------------------\nNăm Bính thân 1836 ông đỗ Cử nhân, làm Phủ doãn Thừa Thiên. Ông có tiếng thơ văn, giỏi việc chính trị, khi làm quan thăng dần đến Tổng đốc Ninh Thái (Ninh Bình, Thái Bình). Năm Giáp tuất 1874 được cử làm Tổng đốc Sơn Hưng Tuyên. Khi tuổi cao, ông xin về hưu, nhưng không được, lại đổi làm Tổng đốc Định An. Về sau, ông làm Thượng thư bộ Hộ, từng làm Chủ khảo các kì thi Hương, thi Hội rồi hưu trí. Năm Mậu tuất 1898 ông mất tại quê nhà thọ 90 tuổi, được truy tặng là Hiệp biện đại học sĩ."
 }

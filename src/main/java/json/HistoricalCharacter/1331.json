@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Canh Ngọ 1690",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê làng Cấn xá, huyện Gia Bình tỉnh Bắc Ninh",
-  "occupation" : "Danh nhân đời Lê Trung hưng",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "1789",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34
+    "nhà Thanh" : null
   },
   "id" : 1331,
-  "entityName" : "Bạch Phấn Ưng",
+  "entityName" : "Trương Triều Long",
   "aliases" : [ ],
-  "overview" : "Ông sinh trong đời Lê Hi tông, nổi tiếng thông minh hiếu học, nhưng gia cảnh nghèo khó ông chật vật trên đường công danh mà giữ chí tiến thủ. Năm Bảo Thái 5 đời Lê Dụ tông (Giáp thìn 1724), ông 34 tuổi ra thi, đỗ tam giáp đồng tiến sĩ xuất thân, làm đến Thừa chính sứ tỉnh Sơn Tây (nay là Hà Sơn Bình). Được nhân dân đương thời trọng vọng tài đức"
+  "overview" : "Trương Triều Long (張朝龍, ?-1789) là một tướng của nhà Thanh, chết trận tại Việt Nam."
 }

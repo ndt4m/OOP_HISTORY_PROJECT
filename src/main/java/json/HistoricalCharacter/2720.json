@@ -1,19 +1,20 @@
 {
-  "dateOfBirth" : "?\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "25 tháng 1, 1540 Nhà Mạc, Đại Việt\n----------------------------------------------\nKhông rõ",
+  "dateOfBirth" : "1396",
+  "dateOfDeath" : "?",
   "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua",
-  "workTenure" : "1530 – 25 tháng 1 năm 1540\n----------------------------------------------\n1530–1540",
+  "occupation" : "Hoàng đế Đại Việt",
+  "workTenure" : "1398 - 1400",
   "fatherName" : {
-    "Mạc Thái Tổ" : 2930
+    "Trần Thuận Tông" : 279
   },
-  "motherName" : { },
+  "motherName" : {
+    "Khâm Thánh hoàng hậu" : null
+  },
   "eraName" : {
-    "Nhà Mạc" : 18,
-    "Bắc triều – Nhà Mạc  và thời kỳ Cao Bằng" : null
+    "Nhà Trần" : 15
   },
   "id" : 2720,
-  "entityName" : "Mạc Thái Tông",
-  "aliases" : [ "Mạc Đăng Doanh (莫登瀛)", "Khâm Triết Văn hoàng đế (欽哲文皇帝)", "Thái Tông (太宗)", "Đại Chính (大正)" ],
-  "overview" : "Mạc Thái Tông (chữ Hán: 莫太宗; ? – 25 tháng 1, 1540), là vị Hoàng đế thứ hai của nhà Mạc trong lịch sử Việt Nam. Ông ở ngôi từ năm 1530 đến 1540, tổng cộng 10 năm trị vì.\n----------------------------------------------\nMạc Thái Tông (chữ Hán: 莫太宗 1500 – 25 tháng 1 năm 1540 / 3 tháng 3 năm 1540) là vị Hoàng đế thứ hai của nhà Mạc trong lịch sử Việt Nam. Ông ở ngôi từ năm 1530 đến 1540, trị vì tổng cộng 10 năm."
+  "entityName" : "Trần An",
+  "aliases" : [ "Kiến Tân (建新)", "Trần An (陳 )" ],
+  "overview" : "Trần Thiếu Đế (chữ Hán: 陳少帝; 1396 - ?), là vị Hoàng đế thứ 12 và là vị Hoàng đế cuối cùng của Triều đại nhà Trần trong lịch sử Việt Nam."
 }

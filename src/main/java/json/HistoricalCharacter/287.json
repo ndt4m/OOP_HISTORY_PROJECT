@@ -1,17 +1,14 @@
 {
-  "dateOfBirth" : "Nhâm Tí 1912",
-  "dateOfDeath" : "Kỉ Tị 1989",
-  "hometown" : "quê huyện Hóc Môn, tỉnh Gia Định, nay là huyện Hóc Môn, TP",
-  "occupation" : "Nhà hoạt động cách mạng",
+  "dateOfBirth" : "1810",
+  "dateOfDeath" : "1861",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
-  },
+  "eraName" : { },
   "id" : 287,
-  "entityName" : "Trịnh Thị Miếng",
+  "entityName" : "Tôn Thất Trĩ",
   "aliases" : [ ],
-  "overview" : "Bà tham gia cách mạng từ hồi còn trẻ, được kết nạp vào đảng CSĐD từ năm 1931. Năm 1932 bà làm liên lạc cho xứ ủy Nam Kì và Trung ương đảng CSĐD. Đến năm 1939 bà là huyện ủy viên Gò Vấp năm 1946 là tỉnh ủy viên tỉnh ủy Gia Định. Năm 1946 bà đắc cử Đại biểu Quốc hội khóa I đơn vị tỉnh Gia Định. Bà tham gia suốt cuộc kháng chiến chống Pháp ở mặt trận miền Đông Nam Bộ. Bà mất trong năm 1989 tại quê nhà."
+  "overview" : "Tôn Thất Trĩ (1810 -1861), là võ quan triều Nguyễn trong lịch sử Việt Nam. Tháng 2 năm 1861, ông đã tử trận trong trận Đại đồn Chí Hòa."
 }

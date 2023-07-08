@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "sinh năm 1938",
+  "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
   "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "nhà Lê" : null
+  },
   "id" : 450,
-  "entityName" : "Nguyễn Văn Phiệt",
+  "entityName" : "Nguyễn Cư Đạo",
   "aliases" : [ ],
-  "overview" : "Nguyễn Văn Phiệt (sinh năm 1938) là một sĩ quan cấp cao trong Quân đội Nhân dân Việt Nam, hàm Trung tướng, nguyên Phó Tư lệnh Chính trị kiêm Bí thư Đảng ủy Quân chủng Phòng không-Không quân, Phó Tư lệnh Chính trị kiêm Bí thư Đảng ủy Quân chủng Phòng không."
+  "overview" : "Nguyễn Cư Đạo là danh thần nhà Lê sơ trong lịch sử Việt Nam. Ông phục vụ dưới 4 triều vua Lê Thái Tông, Lê Nhân Tông, Lê Nghi Dân và Lê Thánh Tông."
 }

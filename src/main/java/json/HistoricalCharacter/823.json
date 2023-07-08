@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "924",
-  "dateOfDeath" : "963",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "occupation" : "Vua",
+  "workTenure" : "602—603",
+  "fatherName" : {
+    "Hậu Lý Nam Đế" : 1755
+  },
   "motherName" : { },
   "eraName" : {
-    "nhà Đường" : null
+    "Nhà Tiền Lý và Triệu Việt Vương" : 36
   },
   "id" : 823,
-  "entityName" : "Kinh Nam",
+  "entityName" : "Lý Sư Lợi",
   "aliases" : [ ],
-  "overview" : "Kinh Nam (荆南) (924–963) hay còn gọi là Nam Bình (南平), Bắc Sở (北楚), là một trong mười nước tại miền Trung Nam Trung Quốc, được thành lập sau năm 907, khi nhà Đường sụp đổ, đánh dấu sự khởi đầu của thời kỳ Ngũ đại Thập quốc tại Trung Quốc (907-960)."
+  "overview" : "Lý Sư Lợi là vị vua cuối cùng của nhà Tiền Lý, nước Vạn Xuân. Ông là con trai của Hậu Lý Nam Đế Lý Phật Tử. Sau khi Lý Phật Tử bị bắt giải sang Trung Quốc, ông kế vị được vài năm thì bị tướng nhà Tùy đem quân sang đánh bại."
 }

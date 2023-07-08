@@ -1,21 +1,21 @@
 {
-  "dateOfBirth" : "10 tháng 8, 941\n----------------------------------------------\nTân Sửu 941",
-  "dateOfDeath" : "1005 (63–64 tuổi) Hoa Lư, Đại Cồ Việt\n----------------------------------------------\nẤt Tị 1005",
-  "hometown" : "quê làng Bảo Thái huyện Thanh Liêm (nay là làng Ninh Thái, tỉnh Nam Định)",
-  "occupation" : "Hoàng đế Đại Cồ Việt\n----------------------------------------------\nVua nhà Tiền Lê",
-  "workTenure" : "980 – 1005\n----------------------------------------------\nKhông rõ",
+  "dateOfBirth" : "Việt Nam\n----------------------------------------------\nKhông rõ\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "Nhà Minh\n----------------------------------------------\nKhông rõ\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nThế tử con trai thứ hai của Mạc Đăng Dung, em Mạc Đăng Doanh, được phong tước Hoằng vương\n----------------------------------------------\nVua",
+  "workTenure" : "1546 – 1547\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1546–1547",
   "fatherName" : {
-    "Lê Mịch" : null
+    "Mạc Thái Tổ" : 2930,
+    "thứ hai của Mạc Đăng Dung" : null
   },
-  "motherName" : {
-    "Đặng Thị" : null
-  },
+  "motherName" : { },
   "eraName" : {
-    "Nhà Tiền Lê" : 8,
-    "Nhà Đinh" : 35
+    "Nhà Mạc" : 18,
+    "Nam - Bắc Triều" : 19,
+    "Bắc triều – Nhà Mạc  và thời kỳ Cao Bằng" : null
   },
   "id" : 839,
-  "entityName" : "Lê Hoàn",
-  "aliases" : [ "Lê Hoàn (黎桓)", "Hoàn", "Minh Càn Quảng Hiếu Hoàng Đế (明乾廣孝皇帝)", "Niên hiệu Thiên Phúc (天福: 980 - 988) Hưng Thống (興統: 989 - 993) Ứng Thiên (應天: 994 - 1005)" ],
-  "overview" : "Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi.\n----------------------------------------------\nÔng làm Thập đạo tướng quân nhà Đinh. Kỉ mão 979, Đinh Tiên Hoàng bị Đỗ Thích giết chết, con là Đinh Duệ mới 6 tuổi lên nối ngôi, quyền bính nằm trong tay ông. Đại thần nhà Đinh là Định Quốc Công Nguyễn Bặc, Phạm Hạp dấy binh phản đối ông, bị ông giết cả. Nhà Tống sai 8 tướng đem quân sang đánh. Ông sai Phạm Cự Lượng làm Đại tướng dẫn binh đi chống giữ. Lượng cùng nhiều tướng sĩ suy tôn ông lên ngôi nối nghiệp nhà Đinh. Dương Thái hậu cũng lấy áo rồng choàng cho ông. Bấy giờ vào tháng 7, năm Canh thìn 980. Ông lên ngôi, giáng Đinh Duệ làm Vệ vương như tước cũ. Đối ngoại, ông khiến Giang Cự Vọng thảo quốc thư, sai sứ đưa sang nhà Tống, dối là Đinh Duệ xin phong. Năm Nhâm ngọ 982, ông thân chinh Chiêm Thành, để phạt tội về việc vua Chiêm đã bắt giam hai sứ thần nước ta là Từ Mục và Ngô Tử Canh. Ông đem quân chiếm đóng kinh thành Chiêm Thành. Đây là cuộc nam phạt đầu tiên trong lịch sử dựng nước của nhân dân ta. Vua Chiêm từ ấy hàng năm phải triều cống và xưng thần. Ông ở ngôi 26 năm, đặt hiệu năm 3 lần: - Thiên Phúc: tháng 7 Canh thìn 980 Mậu tí 988 (9 năm). - Hưng Thống: Kỷ sửu 989 - Quí tị 993 (5 năm). - Ứng Thiên: Giáp ngọ 994 - Ất tị 1005 (12 năm)."
+  "entityName" : "Mạc Chính Trung",
+  "aliases" : [ "Mạc Chính Trung", "không có", "Hoằng Vương" ],
+  "overview" : "Mạc Chính Trung (chữ Hán: 莫正中; ?-?) là hoàng tử nhà Mạc trong lịch sử Việt Nam. Ông tham gia tranh chấp ngôi báu nhà Mạc giữa thời Nam-Bắc triều và cuối cùng thất bại.\n----------------------------------------------\nNăm Canh dần 1530, anh ông là Đăng Doanh lên ngôi vua, ông nhận lệnh giữ binh quyền ở Tây Đô, tổ chức quân đội phòng giữ các nơi hiểm yếu ở kinh đô. Năm Canh tí 1540 Đăng Doanh mất, con là Mạc Phúc Hải nối ngôi, ông vẫn hết lòng giúp cháu chống nhau với nhà Lê và chúa Nguyễn. Đến năm Quí mão 1543, Lê Trang tông thân chinh đánh lấy Tây Đô, Phúc Hải nao núng, ông thất trận lúc đầu nhưng về sau vẫn giữ được bờ cõi cho cháu là Mạc Phúc Hải. Năm Bính ngọ 1546 Phúc Hải mất, con là Phúc Nguyên hãy còn nhỏ, Tú Dương Hầu Phạm Tử Nghi đưa ý kiến ủng hộ ông: \"Hiện trong nước đang lúc nhiều nạn, nên lập vua lớn tuổi, Hoằng vương Chính Trung đã nhiều phen cầm quân và thường thắng trận. Vậy xin dựng lên nối ngôi\". Nhưng các tôn vương họ Mạc và các đại thần đều không theo lời Tử Nghi, một mực tôn Phúc Nguyên lên ngôi, có chú vua là Khiêm vương Mạc Kính Điển phụ chính. Phạm Tử Nghi bất mãn, cùng các bộ tướng dấy quân khởi loạn, đem Chính Trung về chiếm xứ Hoa Dương (sau đổi là Trác Dương), thuộc huyện Hưng Nhân, phủ Tiên Hưng, tỉnh Hưng Yên (vùng này nay thuộc tỉnh Thái Bình). Chính Trung tự lập làm vua, lập triều đình. Về sau, ông bị Mạc Kính Điển hiệp binh với Lê Bá Hi. Nguyễn Khải Khang đánh phá dữ dội phải rút chạy về vùng An Quảng. Rốt lại, không giữ nổi cơ đồ, ông chạy sang nhà Minh cầu viện. Vua Minh chẳng những không giúp đỡ gì, lại còn đưa ông an trí ở Thanh Viễn, chỉ trợ cấp lương thực hàng tháng mà thôi. Từ ấy cuộc đời ông tàn tạ suy vong.\n----------------------------------------------\nMạc Chính Trung (chữ Hán: 莫正中; ?-?) là hoàng tử nhà Mạc trong lịch sử Việt Nam. Ông tham gia tranh chấp ngôi báu nhà Mạc giữa thời Nam-Bắc triều và cuối cùng thất bại."
 }

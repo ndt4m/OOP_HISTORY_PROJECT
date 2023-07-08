@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Canh Tuất 1730",
-  "dateOfDeath" : "Kỉ Dậu 1789",
-  "hometown" : "Quê làng Mộ Trạch, huyện Đường An (nay thuộc tỉnh Hải Dương)",
-  "occupation" : "Danh sĩ đời Lê Hiển tông",
+  "dateOfBirth" : "Nhâm Thân 852",
+  "dateOfDeath" : "Bính Thân 936",
+  "hometown" : "Không rõ",
+  "occupation" : "Dật sĩ thời nước ta lệ thuộc Trung Quốc. Ông tinh thông khoa học huyền bí phong thủy, lí số nổi tiếng một thời. Tương truyền ông đã từng lưu lại nhiều bài sấm rất ứng nghiệm như bài \"Đỗ Thích lí Đinh Đinh, Lê gia xuất thánh minh... \" chắng hạn. Về mặt phong thủy, chính ông đã chữa kiểu đất ở Cổ Pháp trước bị Cao Biền làm cho đứt mạch.",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34
+    "Bắc thuộc lần lần 3" : 1
   },
   "id" : 537,
-  "entityName" : "Vũ Huy Đỉnh",
-  "aliases" : [ "Vũ Trọng Cung", "Di Hiên", "Ôn Kì" ],
-  "overview" : "Năm Giáp tuất 1754, ông đỗ tiến sĩ, nổi tiếng văn chương, giỏi việc chính trị, từng được cử đi sứ Trung Quốc trong năm 1772. Làm quan đến Thị lang bộ Binh, kiêm Tế tửu Quốc tử giám, tước Hồng Trạch Bá. Năm 1789, ông mất, hưởng dương 59 tuổi. Con ông là Võ Huy Tấn, học trò là Ninh Tốn đều là danh sĩ nổi tiếng trong triều Tây Sơn, từng giúp vua Quang Trung trong việc ngoại giao và bình định xứ sở. Ông là một danh sĩ nổi tiếng đương thời có nhiều tác phẩm văn sử, địa học giá trị: - Hoa trình tạp thi. - Thanh Hóa hậu tập - Thanh Hóa tiên tập - Kỉ thắng tập - Nam trung tập - Tuyên Quang tập - Sơn Tây tập - Tùng vịnh tập - Quang Thương tiền tập - Bách đài tập - Tình tuyết tập Và một số thơ văn khác."
+  "entityName" : "Đinh La Quí",
+  "aliases" : [ ],
+  "overview" : "Ông hiểu thiên văn, địa lí, nên đương thời được giới sĩ phu rất trọng vọng. Ông thọ 84 tuổi."
 }

@@ -1,16 +1,21 @@
 {
-  "dateOfBirth" : "8 tháng 10, 1942 (75 tuổi) Bến Cát, Thủ Dầu Một, Nam Kỳ, Liên bang Đông Dương\n----------------------------------------------\nMậu Dần 1578",
-  "dateOfDeath" : "Quí Sửu 1673",
-  "hometown" : "quê làng Dược Sơn, huyện Chí Linh, tỉnh Hải Dương (nay thuộc Hải Dương)",
-  "occupation" : "Danh sĩ đời Lê Thần tông",
+  "dateOfBirth" : "Mậu Ngọ 1918",
+  "dateOfDeath" : "Canh Ngọ 1990",
+  "hometown" : "tại làng Cam Lộ, tổng Cam Vũ huyện Cam Lộ, tỉnh Quảng Trị (nay thuộc thị xã Đông Hà, tỉnh Quảng Trị) cư ngụ ở Pháp nhiều năm, mất ngày 27-2-1990 tại Paris",
+  "occupation" : "Học giả, chuyên viết văn bằng tiếng Pháp, Hội viên Viện Hàn lâm khoa học hải ngoại Pháp quốc",
   "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
+  "fatherName" : {
+    "trai thứ ông Trần Minh Cầu" : null
+  },
+  "motherName" : {
+    "Nguyễn Thị Trà là anh em với các ông: Trần Minh Lại Trần Minh Tiểu" : null
+  },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 2780,
-  "entityName" : "Nguyễn Minh Triết",
-  "aliases" : [ "Thọ Xâm", "Hậu Quyến", "Thọ Quyến" ],
-  "overview" : "Nguyễn Minh Triết (sinh năm 1942) là một chính khách Việt Nam. Ông là Chủ tịch nước thứ sáu của Việt Nam (nhiệm kỳ từ 27 tháng 6 năm 2006 cho đến 25 tháng 7 năm 2011). Người kế nhiệm ông là Trương Tấn Sang.\n----------------------------------------------\nNăm Tân mùi 1631, đỗ Thám hoa, 53 tuổi vua đổi tên cho ông là Thọ Xâm, rồi lại đổi là Hậu Quyến, hoặc Thọ Quyến. Làm quan đến Thượng thư bộ Công, rồi đổi sang bộ Binh, bộ Hộ, hàm Thiếu bảo, tước Cầm Quận Công. Năm Quí sửu 1673 ông mất, thọ 95 tuổi được truy tặng Thượng thư bộ Hộ, thụy Văn Điển."
+  "entityName" : "Trần Minh Tiết",
+  "aliases" : [ ],
+  "overview" : "Thuở nhỏ học ở Quảng Trị, Huế (cựu học sinh trường Pellerin). Những năm 50 (1954) của thế kỉ XX ông sang làm việc và định cư tại Pháp cho đến khi qua đời (1990). Từ khi định cư và viết văn tại Paris ông được các nhà văn Pháp tiến cử và trở thành Hội viên Viện Hàn lâm Khoa học Hải ngoại của Pháp từ những năm 60. Ông là cây bút chính của tờ Cahier de l'Asie Sud Est do Bác sĩ Hoàng Văn Đức sáng lập. Tờ báo có uy tín lớn đối với các nhà trí thức Việt Nam, Pháp ở Sài Gòn và Paris. Ông là tác giả hàng chục tác phẩm viết bằng tiếng Pháp về hòa bình thế giới; nhất là hòa bình ở châu Á. Có tác phẩm đã in đến lần thứ mười lăm thuộc loại sách bán chạy nhất tại Pháp trong những năm 60-80 ở Pháp, Âu châu, Á châu. Chính nhờ các tác phẩm của ông mà các dân tộc trong cộng đồng Pháp ngữ có điều kiện hiểu thấu đảo về châu Á, nhất là Việt Nam. Các tác phẩm của ông: - Thế giới Đại chiến lần thứ II (1950, dịch, Sài Gòn) - Tìm hiểu người Nhật để biết rõ những nhược điểm của ta (1964) - Kiến tạo hòa bình và công lí cho Việt Nam (NXB Minh Đức, Sài Gòn) - Tiếng nói của Phong trào Liên bang Đông Nam Á (NXB Nhân xã, Paris). - Chủ nghĩa Nhân bản xã hội - Tuyên ngôn về Quyền và Nhiệm vụ của con người và xã hội (Nhân xã, Paris). - Thường thức chính thuyết Quốc gia và liên bang của phong trào Liên bang Đông Nam Á (Nhân xã, Paris). Và nhiều các tác phẩm Pháp ngữ khác."
 }

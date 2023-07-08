@@ -1,16 +1,19 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "1427",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Tân Sửu 1841",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Người làng Vĩnh Trụ, huyện Lý Nhân, tỉnh Hà Nam (nay vẫn thuộc tỉnh Hà Nam) con tiến sĩ Võ Văn Lý",
+  "occupation" : "Người làng Vĩnh Trụ, huyện Lý Nhân, tỉnh Hà Nam (nay vẫn thuộc tỉnh Hà Nam) con tiến sĩ Võ Văn Lý.",
   "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "fatherName" : {
+    "Võ Văn Lý" : null
+  },
   "motherName" : { },
   "eraName" : {
-    "nhà Minh" : null
+    "Pháp đô hộ" : 11,
+    "Nhà Nguyễn độc lập" : 30
   },
   "id" : 3096,
-  "entityName" : "Lý Nhậm",
+  "entityName" : "Võ Văn Báo",
   "aliases" : [ ],
-  "overview" : "Lý Nhiệm (chữ Hán: 李任, ? – 1427), hay Lý Nhậm, Lý Nhâm, người huyện Vĩnh Khang , tướng lĩnh nhà Minh, tự sát khi nghĩa quân Lam Sơn đánh hạ thành Xương Giang tại Việt Nam."
+  "overview" : "Năm Đinh mão 1867 ông đỗ cử nhân, Mậu thìn 1868 đỗ Phó bảng. Làm quan đến Tổng đốc Nam Định. Thân sinh ông làm quan Tế tửu (Giáo sư đại học) vốn là thầy học của Tam nguyên Yên Đỗ Nguyễn Khuyến và ông Nghè Giao Cù Võ Hữu Lợi... Khi làm việc cho Pháp, Báo phản bạn, bắt bạn là Võ Hữu Lợi, đem nộp cho Pháp giết nên sau đó ông ta bị nghĩa quân (trong số này phần đông là học trò ông Nghè Giao Cù), bắt được đem thiêu sống trả thù cho các chiến sĩ. Bấy giờ dân gian truyền tụng một đôi câu đối: \"Báo chi cách, khuyển dương chi cách; Lý chi đình, thi lễ chi đình.\" Nghĩa: Da con \"báo\" là da chó dê Sân ông \"lí\" là sân thi lễ Cái chết của Võ Văn Báo là một bài học thích đáng cho những kẻ lừa thầy, phản bạn, hại dân. Tác phẩm: - Ất sửu như Tây nhật kí - Như Tây nhật trình quốc âm - Hà đê bộ thi tập"
 }

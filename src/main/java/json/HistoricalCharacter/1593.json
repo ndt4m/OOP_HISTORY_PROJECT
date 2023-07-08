@@ -1,22 +1,16 @@
 {
-  "dateOfBirth" : "25 tháng 6, 1495\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "7 tháng 4, 1516 (20 tuổi) hồ Chu Tước, phường Bích Câu, Đông Kinh\n----------------------------------------------\nKhông rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua",
-  "workTenure" : "1509 - 1516\n----------------------------------------------\n1509–1516",
-  "fatherName" : {
-    "Lê Tân" : 223,
-    "Lê Đức Tông" : 223
-  },
-  "motherName" : {
-    "Trịnh Thị Tuyên" : null
-  },
+  "dateOfBirth" : "? Làng Bái Đôi, huyện Lôi Dương,Thanh Hoá, Việt Nam",
+  "dateOfDeath" : "1427",
+  "hometown" : "người làng Bái Đôi, huyện Lôi Dương,Thanh Hoá, Việt Nam.",
+  "occupation" : "Thuộc",
+  "workTenure" : "1418-1427",
+  "fatherName" : { },
+  "motherName" : { },
   "eraName" : {
-    "Nhà Hậu Lê – giai đoạn Lê sơ" : 20,
-    "Nhà Lê sơ" : null
+    "nhà Lê" : null
   },
   "id" : 1593,
-  "entityName" : "Lê Tương Dực",
-  "aliases" : [ "Hồng Thuận (洪順)", "Lê Oanh (黎瀠) Lê Trừu (黎晭)", "Linh Ẩn vương (靈隱王) Tương Dực Hoàng đế (襄翼皇帝)" ],
-  "overview" : "Lê Tương Dực (chữ Hán: 黎襄翼; 25 tháng 6, 1495 - 7 tháng 4, 1516), đôi khi gọi là Linh Ẩn vương (靈隱王), là vị hoàng đế thứ chín của nhà Lê Sơ trong lịch sử Việt Nam. Ông trị vì từ năm 1509 đến năm 1516, tổng cộng 7 năm.\n----------------------------------------------\nLê Tương Dực (chữ Hán: 黎襄翼 16 tháng 7 năm 1495 – 8 tháng 5 năm 1516) tên thật là Lê Oanh (黎瀠), là vị hoàng đế thứ chín của Hoàng triều Lê sơ nước Đại Việt. Ông cai trị từ năm 1509 đến năm 1516 với niên hiệu Hồng Thuận (洪順), ở ngôi tổng cộng 7 năm."
+  "entityName" : "Lê Triện",
+  "aliases" : [ ],
+  "overview" : "Lý Triện (?-1427) là công thần khai quốc nhà Lê sơ trong lịch sử Việt Nam, người làng Bái Đôi, huyện Lôi Dương,Thanh Hoá, Việt Nam. Với chiến tích ở trận Tốt Động, Chúc Động, sử gia Ngô Sỹ Liên cho rằng ông cùng với Đinh Lễ đứng đầu trong các tướng giỏi của nghĩa quân Lam Sơn."
 }

@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Giáp Ngọ 1894",
-  "dateOfDeath" : "Ất Tị 1965",
-  "hometown" : "quê làng Phú Mĩ, huyện Quốc Oai, tỉnh Sơn Tây (nay thuộc Hà Tây)",
-  "occupation" : "Nhà báo, nhà hoạt động xã hội",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "1488 Thăng Long",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "nhà Hậu Lê" : null
   },
   "id" : 2835,
-  "entityName" : "Doãn Kế Thiên",
-  "aliases" : [ ],
-  "overview" : "Xuất thân trong một gia đình Nho học truyền thống, thuở nhỏ theo Hán học, sau tự học chữ Quốc ngữ, chữ Pháp. Từng cộng tác với các báo Trung Bắc chủ nhật, Tiểu thuyết thứ bảy, Mới, Thực nghiệp, Khai hóa (Hà Nội) và Công Luận (Sài Gòn). Năm 1939 ông là sáng lập viên báo Thanh Nghị (1939-1945) với Ban Biên tập có nhiều khả năng, gồm: Vũ Đình Hòe, Vũ Văn Hiền, Phan Anh, Hoàng Thúc Trâm... (đều là các nhà Tây học) và cộng tác với báo này đến năm 1945. Năm 1946-1954 ông tham gia Mặt trận Liên Việt, đến năm 1955 được cử giữ chức Chủ tịch Mặt trận Tổ quốc TP. Hà Nội cho đến ngày qua đời. Các tác phẩm đã xuất bản: - Danh nhân Việt Nam (1943) - Lược khảo thơ Trung Quốc - Hà Nội cũ (1943) - Cổ tích và thắng cảnh Hà Nội (1959)."
+  "entityName" : "Nguyễn Thị Cận",
+  "aliases" : [ "Nguyễn Thị Cẩn (阮氏瑾)", "Chiêu Nhân Hoằng Ý hoàng thái hậu 昭仁弘懿皇太后", "Thị thiếp" ],
+  "overview" : "Nguyễn Thị Cận (chữ Hán: 阮氏瑾; ? - 1488 ) là một phi tần của Lê Hiến Tông Lê Tranh, mẹ đẻ của Lê Uy Mục Lê Tuấn. Đương thời gọi bà là Chiêu Nhân thái hậu (昭仁太后), sử gia Lê Quý Đôn chép trong Đại Việt thông sử gọi bà là Hiến Tông Nguyễn hoàng hậu (憲宗阮皇后)."
 }

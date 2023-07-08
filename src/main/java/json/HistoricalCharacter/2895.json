@@ -1,18 +1,17 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Giáp Thìn 1424",
-  "hometown" : "Không rõ",
-  "occupation" : "Võ tướng đời Lê Thái tổ. Con thứ hai của Trung Túc vương Lê Lai. Ông nhiệt thành phò tá Bình Định vương Lê Lợi, tận tụy kháng Minh cứu nước. Trong chiến dịch ở sách Ba Lẫm, ải Kình Lộng, ông phát phục binh phá quân của tướng Minh là Trần Trí, đại thắng, được thăng Tả trung quân tổng đốc chư quân sự.",
+  "dateOfBirth" : "28 tháng 3 năm 1912 Văn Giang, Bắc Ninh, Bắc Kỳ, Liên bang Đông Dương\n----------------------------------------------\nTân Hợi 1911",
+  "dateOfDeath" : "25 tháng 4, 1995 (83 tuổi) Hà Nội, Việt Nam\n----------------------------------------------\nẤt Hợi 1995",
+  "hometown" : "quê xã Xuân Cầu, huyện Văn Lâm, tỉnh Hưng Yên (nay vẫn là tỉnh Hưng Yên), tên thường dùng là Lê Văn Lương (em ruột nhà văn Nguyễn Công Hoan) sinh năm 1911",
+  "occupation" : "Nhà hoạt động cách mạng, quê xã Xuân Cầu, huyện Văn Lâm, tỉnh Hưng Yên (nay vẫn là tỉnh Hưng Yên), tên thường dùng là Lê Văn Lương ",
   "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Trung Túc vương Lê Lai" : null
-  },
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Thuộc Minh" : 33
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 2895,
-  "entityName" : "Lê Lộ",
-  "aliases" : [ ],
-  "overview" : "Năm Giáp thìn 1424, ông theo Bình Định vương đánh châu Trà Lân, dự trận Bồ Liệp, phá quân Phương Chính và Sư Hữu, được thăng Thái bảo. Nhưng đến tháng 10 năm ấy, ông bị trúng tên lạc mà chết ngay trận địa. Năm Mậu thân 1428, Bình Định vương lên ngôi vua tức Lê Thái tổ, truy tặng ông là Thái úy. Đời Lê Thánh tông, tặng ông tước Chiêu Quận Công. Anh ông là Lê Lư, em là Lê Lâm cũng đều là bậc hào kiệt. Ba con trai của ông là Tích, Trung, Dũng cũng đều có công giữ nước nên đều được phong thần."
+  "entityName" : "Nguyễn Công Miều",
+  "aliases" : [ "Lê Văn Lương" ],
+  "overview" : "Lê Văn Lương (1912-1995) là một chính trị gia Việt Nam. Ông từng giữ các chức vụ quan trọng trong Đảng Cộng sản Việt Nam như Ủy viên Bộ Chính trị, Bí thư Trung ương Đảng, Trưởng Ban Tổ chức Trung ương, Bí thư Thành ủy Hà Nội. Ông cũng là một trong các thành viên ban lãnh đạo thực hiện Cải cách ruộng đất tại miền Bắc Việt Nam. Ông được Nhà nước Cộng hòa Xã hội Chủ nghĩa Việt Nam tặng Huân chương Sao Vàng.\n----------------------------------------------\nÔng học Tú tài trường Trung học Bưởi Hà Nội. Giác ngộ cách mạng rất sớm cùng với Ngô Gia Tự, Nguyễn Văn Cừ tham gia bãi khóa để tang Phan Châu Trinh, gia nhập Thanh niên Cách mạng Đồng chí Hội rồi vào Đảng Cộng sản. Năm 1931 được cử vào Sài Gòn hoạt động để gây dựng cơ sở. Năm 1933 ông bị kết án tử hình cùng với 7 đồng chí khác. Do nhân dân Pháp đấu tranh mạnh đòi bỏ án tử hình và trả tự do cho tù chính trị ở Đông Dương, ông được giảm xuống chung thân và đày ra Côn Đảo cho tới tháng 9-1945. Sau năm 1954 ông giữ chức Thứ trưởng Bộ Nội vụ. Trước đó ông từng làm Trưởng ban Tổ chức Trung ương Đảng Cộng sản Việt Nam. Các Đại hội Đảng 3, 4, 5 ông đều được bầu Ban chấp hành Trung ương đảng, có lúc làm ủy viên Bộ chính trị giữ chức bí thư Thành ủy Hà Nội. Ông mất trong tháng 3 năm 1975 tại Hà Nội, thọ 84 tuổi."
 }

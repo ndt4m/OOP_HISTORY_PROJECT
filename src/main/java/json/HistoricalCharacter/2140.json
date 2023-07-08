@@ -1,17 +1,21 @@
 {
-  "dateOfBirth" : "1292 Thăng Long\n----------------------------------------------\nNhâm Thìn 1292",
-  "dateOfDeath" : "1370\n----------------------------------------------\nCanh Tuất 1370",
-  "hometown" : "quê xã Quang Liệt, huyện Thanh Đàm (sau đổi là xã Thanh Liệt, huyện Thanh Trì), tỉnh Hà Đông (nay thuộc TP",
-  "occupation" : "nhà giáo, thầy thuốc, quan\n----------------------------------------------\nCao sĩ đời Trần",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
+  "dateOfBirth" : "Tháng 9, 1218 Thăng Long\n----------------------------------------------\nKhông rõ\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "Tháng 3, 1278 Cổ Pháp\n----------------------------------------------\nKhông rõ\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Nữ hoàng Đại Việt\n----------------------------------------------\nCông chúa, vua triều Lý không rõ năm sinh, năm mất\n----------------------------------------------\nVua",
+  "workTenure" : "1224 - 1225\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1224—1225",
+  "fatherName" : {
+    "Lý Huệ Tông" : 2282
+  },
+  "motherName" : {
+    "Linh Từ Quốc mẫu" : null
+  },
   "eraName" : {
     "Nhà Trần" : 15,
-    "nhà Trần" : null
+    "Nhà Lý" : 14
   },
   "id" : 2140,
-  "entityName" : "Chu Văn An",
-  "aliases" : [ "Linh Triệt", "Chu Văn An", "Chu An", "Tiều Ẩn" ],
-  "overview" : "Chu Văn An (chữ Hán: 朱文安; 1292–1370), tên thật là Chu An, hiệu là Tiều Ẩn (樵隱), tên chữ là Linh Triệt (靈澤), là một nhà giáo, thầy thuốc, đại quan nhà Trần trong lịch sử Việt Nam, được phong tước Văn Trinh Công nên đời sau quen gọi là Chu Văn An.\n----------------------------------------------\nĐời Trần Minh tông, ông làm Quốc tử giám Tư nghiệp và dạy các con vua. Vào lúc này ông soạn sách Tư thư thuyết ước. Học thuyết của ông là \"Cùng lí, chính tâm, trừ tà, cự bế\", chú trọng về phương diện thực hành của Khổng giáo. Nhiều học trò ông cũng là danh sĩ đương thời như Lê Quát, Phạm Sư Mạnh. Đời Dụ tông, ông danh sớ xin chém 7 tên quyền gian, vua không nghe. Ông từ chức về ở núi Kiệt Đặc, huyện Chí Linh, tỉnh Hải Dương, dạy học trò, làm nhà ở giữa hai ngọn Kì Lân và Phượng Hoàng. Ít năm sau, Trần Dụ tông có chỉ triệu, nhưng ông từ chối nên vua giận. Bảo Từ hoàng thái hậu nói: \"Người ấy là bậc cao hiền, thiên tử không có quyền bắt người ta làm tôi được, giao thế nào được chính sự cho người ta\". Tuy từ quan, song chỉ khi nào nhà nước có việc triệu hội ông mới chịu đến. Năm Canh tuất 1370, ông mất, Trần Nghệ tông ban tên thụy là Văn Trinh, hiệu Khang Tiết, thờ nơi Văn miếu. Con cháu ông về sau cũng có người nổi tiếng (Châu Doãn Văn). Ngoài bộ sách Tứ thư thuyết ước ông còn tập thơ chữ Hán Tiều Ân thi tập và tập thơ bằng quốc âm Quốc ngữ thi tập (tập này sau bị quân Minh lấy đem về Trung Quốc). Phê bình Tiều Ân thi tập Phan Huy Chú cho là: \"Thi cực thanh sảng u dật, nhàn nhã tự tại, do khả tưởng kiến ẩn cư nhi cao thú dã: lời thơ rất sáng suốt, nhàn nhã tự tại, còn có thể tưởng tượng được cái thú cao ở ấn\"."
+  "entityName" : "Lý Chiêu Hoàng",
+  "aliases" : [ "Chiêu Thánh công chúa Chiêu Hoàng Hoàng hậu Chiêu Thánh công chúa", "Lý Phật Kim", "Lý Thiên Hinh (李天馨)", "Thiên Chương Hữu Đạo (天彰有道)" ],
+  "overview" : "Lý Chiêu Hoàng (chữ Hán: 李昭皇; Tháng 9, 1218 - Tháng 3, 1278), còn gọi là Lý Phế hậu (李廢后) hay Chiêu Thánh hoàng hậu (昭聖皇后), vị Hoàng đế thứ 9 và cuối cùng của triều đại nhà Lý từ năm 1224 đến năm 1225. Trong lịch sử Việt Nam, bà là vị Nữ hoàng đầu tiên và duy nhất , đặc biệt hơn là được chính Phụ hoàng Lý Huệ Tông ra chỉ truyền ngôi, dù bên trong là sự sắp đặt đầy cưỡng ép của Điện tiền chỉ huy sứ Trần Thủ Độ, hiện đang nắm quyền lực trong triều.\n----------------------------------------------\nVua Lý Huệ Tông không có con trai, lập công chúa làm hoàng thái tử rồi truyền ngôi cho. Đó là vị vua thứ 9 và cuối cùng của nhà Lý, ở ngôi được hai năm (1224-1225) rồi truyền ngôi cho chồng là Trần Cảnh, tức vua Trần Thái Tông. Bà được phong làm Chiêu Thánh hoàng hậu. Vì bà lâu không có con, Trần Thủ Độ ép vua phải bỏ bà, phế làm công chúa. Cuối năm 1257 quân Nguyên sang đánh nước ta, vua phải thân chinh đi dẹp giặc, có Lê Phụ Trần luôn ở bên mình bảo vệ. Khi dẹp xong giặc, vua gả công chúa cho Lê Phụ Trần để thưởng công.\n----------------------------------------------\nLý Chiêu Hoàng (chữ Hán: 李昭皇; 1218 - 1278) hay Chiêu Thánh Hoàng hậu (昭聖皇后) là nữ hoàng của đế quốc Đại Việt, cũng là Hoàng đế cuối cùng của triều đại nhà Lý, trị vì từ năm 1224 đến năm 1225. Bà là Nữ hoàng duy nhất trong lịch sử Việt Nam, nhưng không phải là vị vua nữ giới đầu tiên, vị nữ quân chủ đầu tiên là Nữ vương Trưng Trắc. Bà được chính vua cha Lý Huệ Tông ra chỉ truyền ngôi, dù bên trong có khả năng do sự sắp đặt của Điện tiền Chỉ huy sứ Trần Thủ Độ, người đang nắm quyền lực trong triều đồng thời cũng là chú họ bên ngoại của bà."
 }

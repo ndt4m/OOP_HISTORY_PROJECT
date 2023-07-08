@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "1572",
-  "hometown" : "xã Dị Nậu, huyện Thạch Thất, Hà Nội, Việt Nam.",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Canh Dần 1170",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng An Đề huyện Thư Trì, tỉnh Nam Định",
+  "occupation" : "Danh sĩ đời Lý Cao tông",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "nhà Mạc" : null
+    "Nhà Lý" : 14
   },
   "id" : 2562,
-  "entityName" : "Nguyễn Kính",
+  "entityName" : "Đặng Nghiêm",
   "aliases" : [ ],
-  "overview" : "Nguyễn Kính (chữ Hán: 阮敬; ? - 1572) là công thần khai quốc nhà Mạc trong lịch sử Việt Nam, người xã Dị Nậu, huyện Thạch Thất, Hà Nội, Việt Nam."
+  "overview" : "Năm Ất tị 1185, ông đỗ khoa thi chọn hiền sĩ, mới 15 tuổi được vào hầu giảng sách cho vua nghe. Ông làm quan đến Thị lang bộ Công, tăm tiếng ông vang lừng vượt hẳn các sĩ phu đương thời. Ông là người khoa hoạn hiển đạt đầu tiên trong tỉnh Nam Định."
 }

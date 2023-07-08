@@ -1,16 +1,18 @@
 {
   "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
-  "hometown" : "Bắc Ninh",
-  "occupation" : "Cao tăng triều Minh Mạng, không rõ họ tên, năm sinh và năm mất",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "hometown" : "Không rõ",
+  "occupation" : "Vua",
+  "workTenure" : "1459–1460",
+  "fatherName" : {
+    "Lê Thái Tông" : 1666
+  },
   "motherName" : { },
   "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+    "Nhà Hậu Lê – giai đoạn Lê sơ" : 20
   },
   "id" : 2663,
-  "entityName" : "An Thiền",
+  "entityName" : "Lạng Sơn Vương",
   "aliases" : [ ],
-  "overview" : "Ông tu hành tinh tiến, tinh thông giáo lí nhà Phật, đương thời được nhiều người trọng vọng và được liệt vào hàng đại sư Khoảng năm Minh Mạng 6 (Ất dậu 1825), ông soạn bộ sách Đạo giáo nguyên lưu, 3 quyển được ấn hành. Đạo giáo nguyên lưu (3 quyển) được ấn hành trong đời vua Thiệu Trị (1840- 1847) ở Bắc Ninh. Người đề tựa là Nguyễn Đại Phương, viết năm 1845. Quyển I nói về đạo Phật, gồm những mục: 1. Phụng chiếu cầu pháp: Nói về việc du học của thiền sư Tính Truyền Trạm Công. 2. Bản quốc Thiền môn kinh bản: Các bản kinh khắc in ở Việt Nam. 3. Đại Nam thiền học sơ khởi: Khởi thủy thiền học ở Việt Nam. 4. Đại Nam Phật tháp: Các tháp ở Việt Nam. 5. Vô Ngôn Thông truyền pháp: Thiền pháo vô Ngôn Thông. 6. Danh chấn triều đình: Các cao tăng nổi tiếng ở triều đình. 7. Lê triều danh đức: Các cao tăng đời tiền Lê. 8. Lý triều danh đúc: Các cao tăng đời Lý. 9. Trần triều danh đức: Các cao tăng đời Trần. 10. Tì Ni Đa Lưu Chi truyền pháp: Thiền phái Tì Ni Đa Lưu Chi. 11. Tuyết đậu truyền pháp: Thiền pháp Thảo Đường. 12. Những việc thần bí liên quan đến các thiền sư Việt Nam qua các triều đại. 13. Danh từ Phật học và các thần thoại Phật giáo ở Trung Hoa và Việt Nam. Riêng quyển thứ hai và thứ ba viết về Khổng giáo và Lão giáo."
+  "overview" : "Lê Nghi Dân (chữ Hán: 黎宜民 tháng 10 năm 1439 – 6 tháng 6 năm 1460), thường được gọi là Lệ Đức hầu (厲德侯), Lạng Sơn vương (諒山王), là vị hoàng đế thứ tư của triều đại Lê sơ trong lịch sử Việt Nam. Ông tiếm vị trong một thời gian ngắn, từ tháng 10 năm 1459 đến khi bị phế truất vào tháng 6 năm 1460, với niên hiệu là Thiên Hưng (天興). Đôi khi, ông cũng được gọi là Thiên Hưng Đế (天興帝)."
 }

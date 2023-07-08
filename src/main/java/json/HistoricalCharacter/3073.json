@@ -1,14 +1,20 @@
 {
-  "dateOfBirth" : "12 tháng 1, 1930 (87 tuổi) Bình Giang, Hải Dương, Bắc Kỳ, Liên bang Đông Dương",
-  "dateOfDeath" : "Không rõ",
+  "dateOfBirth" : "1654",
+  "dateOfDeath" : "1671 (16–17 tuổi) Đông Kinh, Đại Việt",
   "hometown" : "Không rõ",
-  "occupation" : "Nhạc sĩ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
+  "occupation" : "Hoàng đế Đại Việt",
+  "workTenure" : "1662 - 1671",
+  "fatherName" : {
+    "Lê Thần Tông" : 1930
+  },
+  "motherName" : {
+    "Phạm Thị Ngọc Hậu" : null
+  },
+  "eraName" : {
+    "Nhà Lê trung hưng" : null
+  },
   "id" : 3073,
-  "entityName" : "Phạm Tuyên",
-  "aliases" : [ ],
-  "overview" : "Phạm Tuyên (sinh năm 1930) là một nhạc sĩ Việt Nam nổi tiếng, cựu Chủ tịch Hội Âm nhạc Hà Nội, tác giả của bài hát \"Như có Bác trong ngày đại thắng\", một bài hát cộng đồng được nhiều người hát tại Việt Nam."
+  "entityName" : "Lê Duy Vũ",
+  "aliases" : [ "Lê Duy Vũ (黎維禑)", "Huyền Tông (玄宗)", "Cảnh Trị (景治: 1663 - 1671)", "Mục Hoàng đế" ],
+  "overview" : "Lê Huyền Tông (chữ Hán: 黎玄宗, 1654 – 1671), tên thật là Lê Duy Vũ (黎維禑), tên khác là Lê Duy Hi (黎維禧), là vị hoàng đế thứ tám của nhà Lê trung hưng, trong lịch sử Việt Nam. Mẹ đẻ là hoàng hậu Phạm Thị Ngọc Hậu."
 }

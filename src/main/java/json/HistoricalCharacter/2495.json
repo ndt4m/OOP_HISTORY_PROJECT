@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Trung Quốc",
-  "dateOfDeath" : "475 TCN Trung Quốc",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Nhâm Tí 1852",
+  "dateOfDeath" : "Đinh Tị 1917",
+  "hometown" : "quê làng Xuân Đài, huyện Diên Phước, phủ Điện Bàn, tỉnh Quảng Nam (nay là xã Điện Quang, huyện Điện Bàn cùng tỉnh)",
+  "occupation" : "Danh thần, nhà giáo dục triều Thành Thái Duy Tân, lúc thi Hương năm 1879 lẩy tên là Phạm Trọng Tấn",
   "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Triệu Cảnh thúc" : null
-  },
+  "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nhà Nguyễn độc lập" : 30
+  },
   "id" : 2495,
-  "entityName" : "Triệu Giản Tử",
-  "aliases" : [ "Triệu Giản tử", "Triệu Ưởng" ],
-  "overview" : "Triệu Ưởng (chữ Hán: 趙鞅; ?-475 TCN ), tức Triệu Giản tử (趙簡子) là vị tông chủ thứ 8 của họ Triệu, một trong Lục khanh của nước Tấn và là tổ tiên của quân chủ nước Triệu thời Chiến Quốc sau đó. Sinh thời, Triệu Ưởng đã ban hành nhiều chính sách cải cách để làm cho họ Triệu hưng thịnh. Những cải cách của ông được đánh giá là sánh ngang với những biến pháp vĩ đại thời Chiến Quốc sau này, như biến pháp của Ngụy Văn hầu, Thương Ưởng hay Triệu Vũ Linh vương."
+  "entityName" : "Phạm Tuấn",
+  "aliases" : [ "Hỉ Thần", "Văn Luân", "Phạm Trọng Tuấn" ],
+  "overview" : "Thuở nhỏ học ở trường phủ Điện Bàn, trường Đốc Quảng Nam, năm 1878 đỗ Tú tài, năm 1879 đỗ cử nhân khoa Kỉ mão. Năm 1885 lãnh chức Bang tá phủ Điện Bàn rồi làm Huấn đạo huyện Quế Sơn, tri huyện Hà Đông (Tam Kì). Năm 1896 làm Giáo thọ trường phủ Thăng Bình, năm 1898 thi đình đỗ Tiến sĩ được sắc phong \"đệ tam giáp đồng tiến sĩ xuất thân\". Cùng trúng khoa này tỉnh Quảng Nam có 5 vị tân khoa được vua Thành Thái tặng một tấm biển có khắc 4 chữ \"Ngũ phụng tề phi\" (Năm con phụng cùng bay). Năm vị tân khoa đó là 3 tiến sĩ: Phạm Liệu, Phan Quang, Phạm Tuấn; và 2 Phó bảng Dương Hiển Tiến, Ngô Chuân. Lúc vinh qui về bản quán, đương kim Tổng đốc Quảng Nam lúc đó là Đào Tấn tặng ông và Tiến sĩ Phan Quang bài thơ: \"Chiết quế nhân tùng nguyệt điện lai, Đình bôi dục vấn thiếu niên tài. Khan hoa mã quá song kiều lộ, Thùy thị nam chi đệ nhất mai. Dịch thơ: Bẻ quế cung trăng ấy mới tài, Nâng li thử hỏi khách là ai? Xem hoa cỡi ngựa qua \"cầu kép\" Là cánh hoa nam đệ nhất mai. Sau khi đỗ Tiến sĩ, năm 1899 được bổ Thừa biện bộ Lễ, rồi Toản tu sở Ngọc điệp Thị giảng học sĩ... Năm 1903, ông được đề cử trông coi công việc Án sát sứ ngoại tỉnh Quảng Nam, sau có tang thân mẫu về quê cư tang. Năm 1908 làm Đốc học Hà Tĩnh rồi được cái hàm Quan lộc Tự Thiếu khanh tại triều. Năm 1913 ông về trí sĩ được phong hàm Hồng lô Tự khanh và qua đời năm 1917 tại quê nhà. Phạm Tuấn trước sau chung thủy phục vụ trong ngành giáo dục, từ Huấn đạo Giáo thọ, Đốc học tại bản quán và Hà Tĩnh là các đất học nổi tiếng trong nước. Từng làm giám khảo nhiều kì thi Hương tại Trung Kì trong thời gian ông đảm trách trong ngành học quan. Tuy là một nhà mô phạm, nhưng văn chương ông vẫn là tấc lòng ông đối với văn hóa, luôn thắm đượm tình tự dân tộc, như câu đối Đi chùa Bà mụ ở phố cổ Hội An. \"Thi công phò xích tử. Hộ mệnh bảo quần sanh.\" Nghĩa: Ra công giúp con đỏ; Chở che mạng sống người. Nhưng gặp phải cảnh bất bình ông sẽ tắc minh về cảnh trái ngang, tàn độc đối với đời, như câu đối chữ Hán ông viết thay triều đình (Huế) phúng viếng độc thủ Nguyễn Thân (1840-1914). \"Sinh như ông, tử như ông, sinh tử như ông bất; Công cái thế, danh cái thế, công danh cái thế vô.\" Nghĩa: Sống như ông, chết như ông, sống chết như ông không [ai] có; Công nhất đời, danh nhất đời, công danh nhất đời rõ không. Sau đó, con trai Nguyễn Thân là kĩ sư Nguyễn Hi du học Pháp về nước nghe thiên hạ đàm tiếu câu đối trên, Hi làm đơn kiện Phạm Tuấn là đã nhục mạ cha mình. Tại tòa, ông (PT) trả lời: \"Hãy xem câu đối ấy ai là người viếng, rõ ràng là triều đình phúng điếu, chớ tôi có can dự chi ? Chữ thêu còn rành rành ra đó!\" Gia đình Nguyễn Thân đành ngậm bồ hòn làm ngọt. Sự kiện và giai thoại trên phần nào nói lên được tấc lòng ông đối với nghĩa sĩ, nghĩa dân cùng bọn tay sai ngoại nhân trước nạn nước và thù trong, giặc ngoài."
 }

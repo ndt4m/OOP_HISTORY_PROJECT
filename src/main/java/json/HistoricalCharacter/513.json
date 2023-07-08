@@ -1,16 +1,20 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê làng Nguyễn Xà, huyện ông Đông Thành, tỉnh Nghệ An",
-  "occupation" : "Danh sĩ đời Trần Thánh tông",
+  "dateOfBirth" : "Kỉ Sửu 1589",
+  "dateOfDeath" : "Bính Tuất 1646",
+  "hometown" : "Thừa Thiên-Huế",
+  "occupation" : "Con thứ mười chúa Tiên Nguyễn Hoàng và Minh Đức vương thái phi, em chúa Sãi Nguyễn Phúc Nguyên và là chú chúa Thượng Nguyễn Phúc Lan.",
   "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
+  "fatherName" : {
+    "chúa Tiên Nguyễn Hoàng" : null
+  },
+  "motherName" : {
+    "Minh Đức vương thái phi" : null
+  },
   "eraName" : {
-    "Nhà Trần" : 15
+    "Trịnh - Nguyễn" : 34
   },
   "id" : 513,
-  "entityName" : "Bạch Liêu",
+  "entityName" : "Nguyễn Phúc Khê",
   "aliases" : [ ],
-  "overview" : "Ông thông minh, cần mẫn, sống cảnh nghèo khó lo làm ăn, ngày đi chăn trâu cho người ta, đêm đốt hương đọc sách. Ông lại có trí nhớ dai chằng ai bằng. Tương truyền ông có cặp mắt sáng lóng lánh, nhãn quang thần lực có thể xem suốt qua năm ba trang giấy, và mỗi khi ông quắc mắt ngó ai thì người ấy dường như bị thôi miên. Năm Bính dần 1266, ông đỗ trạng nguyên. Tài cao học rộng, nhưng ông không thích tranh đua với đời. Lúc Thượng tướng Trần Quang Khải làm Quản đốc tỉnh Nghệ An, có vời ông đến, định tiến cử nhà vua trọng dụng, nhưng ông chối từ, chỉ làm môn khách của Trần Quang Khải chứ không chịu ra làm quan. Ngoài tài văn học, ông còn nổi tiếng là người hiếu đễ, xuất xử đều trọng đại tiết. Suốt đời ở ẩn, ông được đương thời trọng vọng như bậc đại ấn sĩ, xử sĩ. Sau ông mất được phong làm phúc thần."
+  "overview" : "Ông giỏi võ nghệ, được cử làm Chưởng Cơ, rồi thăng làm Tổng trấn, tước Tường Quận Công, trong năm Bính dần 1626. Từ đây ông được chúa Nguyễn Phúc Nguyên giao cho trông nom việc triều chính. Năm Ất hợi 1635, ông có công bình định xứ sở, được tặng Thượng trụ quốc, Tổng trấn, Quận Công. Mẹ ông là Minh Đức vương thái phi lớn tuổi lại theo đạo Gia Tô, cố lập nhà thờ trong khuôn viên dinh thự của ông. Về sau, để tránh sự nghi ngờ tư thông ngoại quốc ông dẹp bỏ nhà thờ ấy. Năm Bính tuất 1646 ông mất hưởng dương 57 tuổi, có đền thờ ở làng Nam Phổ và được thờ tại Thái miếu. Đời Minh Mạng, truy phong ông tước Nghĩa Hưng Quận vương."
 }

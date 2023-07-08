@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "1708\n----------------------------------------------\nBính Tuất 1706",
-  "dateOfDeath" : "1780\n----------------------------------------------\nCanh Tí 1780",
-  "hometown" : "Không rõ",
-  "occupation" : "Danh sĩ, danh tướng ",
+  "dateOfBirth" : "Canh Thìn 1940",
+  "dateOfDeath" : "Mậu Thân 1968",
+  "hometown" : "quê ở Vàm Nước Trong, xã Tân Bình Thành, huyện Mỏ Cày, tỉnh Bến Tre",
+  "occupation" : "Nhà văn",
   "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "fatherName" : {
+    "cụ Ca Văn Thỉnh" : null
+  },
   "motherName" : { },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34
+    "Nước Việt Nam mới" : 29
   },
   "id" : 1156,
-  "entityName" : "Mạc Thiên Tích (Tứ)",
-  "aliases" : [ "Sĩ Lân", "Tích", "Mạc Thiên Tích" ],
-  "overview" : "Mạc Thiên Tứ (鄚天賜), tự là Sĩ Lân (士麟), còn gọi là Mạc Thiên Tích (鄚天錫) , là danh thần đời chúa Nguyễn. Ông sinh năm Mậu Tuất (1708) và mất năm Canh Tý (1780) (1708-1780). Ông là con Tổng binh Mạc Cửu - người được chúa Nguyễn phong là Tông Đức hầu.\n----------------------------------------------\nÔng là người có hai dòng máu Việt - Hoa (mẹ là bà Bùi Thị Lẫm) tài kiêm văn võ. Khi thân phụ qua đời ông nối nghiệp văn, võ mở mang đất Hà Tiên, được chúa Nguyễn phong Tổng binh Đại đô đốc. Chính ông đã giúp chúa Nguyễn thu phục và khai khẩn miền Tây Nam Kì, nhất là do công lao của ông mà đất Hà Tiên trở thành đất văn hiến, phồn vinh. Tại đây ông thành lập nhóm Chiêu Anh Các gây nền văn hóa rực rỡ vang tiếng tao nhã một thời. Danh sĩ Nguyễn Cư Trinh thuở ấy làm Khẩn súy Tham mưu ở Gia Định, thường đến Hà Tiên liên hệ và xướng họa với các nhà thơ trong Chiêu Anh Các. Nhóm văn học Hà Tiên này đóng góp cho văn học Việt Nam rất nhiều tiểu phẩm, tác phẩm văn chương có giá trị. Năm Đinh dậu 1777, Định vương và Tân Chính vương Nguyễn Phúc Vương bị quân Tây Sơn giết, ông chạy sang Xiêm (Thái Lan). Ở đây có kẻ gièm pha, vu khống cho rằng ông có mưu đồ làm phản, gây biến cho Xiêm, khiến vua Xiêm nghi ngờ, ghép tội ông làm gián điệp. Phẫn chí, ông tự tử bằng cách nuốt vàng để nghẹt thở, chết năm 1780. Hai con ông là Mạc Tử Thượng, Mạc Tử Hoàng và tùy tưởng Tôn Thất Xuân với hơn 50 kẻ tùy tùng lớp tự tử lớp bị giết chết cả trong năm trên. Mạc Thiên Tứ là một danh tướng, một quan cai trị, một nhà đinh điền và cũng là một danh sĩ có tiếng đã làm rạng rỡ đất Phương Thành (Hà Tiên) và cả khu vực Tây Nam Kì ở nửa thế kỉ XVIII. Các tác phẩm văn học của ông: - Hà Tiên thập vịnh, - Minh Bột di ngư thi thảo, - Hà Tiên vịnh vật thi tuyển, - Châu thị trinh liệt tân ngôn, - Thi truyện trạng lưu tiết phụ, - Thi khảo cách ngôn vị tập..."
+  "entityName" : "Ca Lê Hiến",
+  "aliases" : [ "Lê Anh Xuân", "Ca Lê Xuân" ],
+  "overview" : "Năm 1952, ông thoát li gia đình đi tham gia công tác tại nhà in Trịnh Đình Trọng của Sở Giáo dục Nam Bộ, với tư cách là một công nhân xếp chữ. Đến năm 1954, ông tập kết ra miền Bắc, học ở trưởng học sinh miền Nam, trường Nguyễn Trãi, Hà Nội và Đại học Tổng hợp về khoa Sử, rồi làm cán bộ phụ giảng. Ít lâu, được cử đi học ở nước ngoài, nhưng ông xin được về quê hương chiến đấu. Cuối năm 1964, về Nam trong đoàn cán bộ giáo dục, công tác ở Tiểu ban Giáo dục thuộc Ban Tuyên huấn trung ương cục, rồi chuyền về công tác ở ngành Văn, Văn nghệ Giải phóng. Trên đường kháng chiến quyết liệt, trong cuộc tổng tiến công tết Mậu thân 1968, ông hi sinh vào ngày 25-05-1968 ở vùng phụ cận Sài Gòn, ấp Phước Quảng, xã Phước Lợi, huyện Cần Đước, tỉnh Long An. Ca Lê Hiến còn để lại cho đời 3 tập thơ: - Tiếng gà gáy - Hoa dừa - Trường ca Nguyễn Văn Trỗi và bài thơ nổi tiếng Dáng đứng Việt Nam ."
 }

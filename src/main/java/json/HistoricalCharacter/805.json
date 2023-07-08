@@ -1,17 +1,14 @@
 {
-  "dateOfBirth" : "Kỉ Sửu 1889",
-  "dateOfDeath" : "Mậu Tuất 1958",
-  "hometown" : "quê huyện Mĩ Trà, Cao Lãnh (nay thuộc tỉnh Đồng Tháp)",
-  "occupation" : "Nhân sĩ yêu nước",
+  "dateOfBirth" : "1524",
+  "dateOfDeath" : "1611",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
-  },
+  "eraName" : { },
   "id" : 805,
-  "entityName" : "Lưu Quang Bật",
+  "entityName" : "Trần Văn Bảo",
   "aliases" : [ ],
-  "overview" : "Hưởng ứng phong trào Đông du, Duy tân ông liền sang Hương Cảng, rồi qua Nhật trong năm Kỉ dậu 1909 họp mặt cùng các nhà cách mạng. Năm sau, ông bị Nhật trục xuất về Sài Gòn rồi bị nhà cầm quyền bắt giam. Ít lâu sau, ông bị đưa về giam ở Mĩ Tho. Đến khi được thả vẫn bị theo dõi, hăm dọa. Nhưng ông vẫn giữ tròn khí. Năm Mậu tuất, 1958 ông mất, thọ 59 tuổi."
+  "overview" : "Trần Văn Bảo (chữ Hán: 陳文寶, 1524 - 1611) là một danh sĩ Việt Nam. Ông từng đỗ Trạng nguyên khoa Canh Tuất, niên hiệu Cảnh Lịch thứ 3 (1550), đời Mạc Tuyên Tông, làm quan đến chức Thượng thư, từng đi sứ phương Bắc, được phong tước Nghĩa quận công."
 }

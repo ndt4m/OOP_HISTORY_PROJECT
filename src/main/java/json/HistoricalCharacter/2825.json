@@ -1,16 +1,14 @@
 {
-  "dateOfBirth" : "Quí Hợi 1803",
-  "dateOfDeath" : "Canh Dần 1890",
-  "hometown" : "An Giang",
-  "occupation" : "Tu sĩ, tục gọi ông Đình Tây, học trò giỏi nhất của môn phái Phật Thầy Tây An Đoàn Minh Huyên.",
+  "dateOfBirth" : "1918",
+  "dateOfDeath" : "1996",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
-  },
+  "eraName" : { },
   "id" : 2825,
-  "entityName" : "Bùi Văn Tây",
+  "entityName" : "Hoàng Văn Đức",
   "aliases" : [ ],
-  "overview" : "Ông nổi tiếng võ thuật cao, sức mạnh không ai sánh kịp, lại có lòng yêu nước, có nhiều đóng góp trong việc vận động quần chúng chống quân xâm lược Pháp vào cuối đời Tự Đức. Năm Canh dần 1890 ngày 23 tháng 2 ông mất, thọ 87 tuổi. Khi ông mất, đồng đạo và đồng bào đều thương khóc. Mộ ông nay hãy còn tại Núi Sâm (thi xà Châu Đốc), thuộc tỉnh An Giang ngày nay."
+  "overview" : "Kỹ sư Hoàng Văn Đức (1918 - 1996) là đại biểu Quốc hội Việt Nam khóa đầu tiên, thuộc đoàn đại biểu Hà Nội. Sau khi trúng cử ông được bầu làm ủy viên Ban Thường vụ Quốc hội."
 }

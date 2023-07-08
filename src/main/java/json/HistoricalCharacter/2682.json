@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Mậu Tuất 1778",
+  "dateOfDeath" : "Nhâm Tí 1852",
+  "hometown" : "người làng Lệ Thủy, tỉnh Quảng Bình",
+  "occupation" : "Đại thần, sử gia triều Nguyễn",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
+  },
   "id" : 2682,
-  "entityName" : "Trần Văn Thức",
+  "entityName" : "Võ Xuân Cẩn",
   "aliases" : [ ],
-  "overview" : "Trần Văn Thức (sinh 1952) là đại biểu Quốc hội Việt Nam khóa 12, thuộc đoàn đại biểu Bà Rịa - Vũng Tàu."
+  "overview" : "Ông làm quan trải qua các triều Gia Long, Minh Mạng, Thiệu Trị, Tự Đức, từng giữ chức Tổng đốc Bình Phú, Thượng thư bộ Hình, Hàn lâm viện học sĩ, Đông các đại học sĩ, quản lí các việc bộ Lại, kiêm lãnh Quốc tử giám, Tổng tài Quốc sử quán. Năm Đinh mùi 1847 ông dâng sớ nghị luận xin khôi phục cho Lê Văn Duyệt, Nguyễn Văn Thành, Lê Chất, lời lẽ khảng khải đôn hậu: \"... Bọn Nguyễn Văn Thành, Lê Văn Duyệt, Lê Chất đều có lòng theo mây đợi gió xông pha chỗ mũi tên hòn đạn, thân làm đại tướng, tước đến Quận Công, sau hoặc vì con dại, hoặc vì cậy công mà làm thành tội (...) Dù bọn Nguyễn Văn Thành có tội thì tội đã trị rồi, mà công thì không hỏi đến, chẳng hóa ra đem cái công lao bách chiến mà để đến nỗi cái tàn hồn phải bơ vơ như ma trơi ngoài đồng, khác nào quỉ Mạc Ngan không ai thờ cúng không?\" Vua Tự Đức chấp nhận, cho khôi phục lại địa vị Nguyễn Văn Thành, Lê Văn Duyệt, Lê Chất như lời sớ tấu của ông. Trước khi qua đời ông được gia hàm Thái bảo, và truy tặng danh dự \"tứ triều nguyên lão\" và được liệt thờ vào miếu hiền lương từ năm 1858. Ông là nhạc phụ vua Tự Đức và cũng là thân phụ Thượng thư Võ Trinh. Các tác phẩm: Đại Nam thực lục. Đại Nam thực lục (560 quyển). Đây là bộ sử biên niên chính thức của triều Nguyễn do ông và Trương Đăng Quế cùng làm Tổng tài trông nom biên soạn. Bộ Thực lục này chia ra Tiền biên và Chánh biên."
 }

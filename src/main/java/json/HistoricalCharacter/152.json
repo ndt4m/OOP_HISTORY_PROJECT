@@ -1,17 +1,14 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Quí Sửu 1793",
-  "hometown" : "Hà Tĩnh",
-  "occupation" : "Con Khuê Phong Hầu Phan Huy Cẩn, em thứ năm Thụy Nham Hầu Phan Huy Ích.",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34,
-    "Nhà Tây Sơn" : 21
-  },
+  "eraName" : { },
   "id" : 152,
-  "entityName" : "Phan Huy Trấn",
+  "entityName" : "Nguyễn Thị Bích",
   "aliases" : [ ],
-  "overview" : "Ông không tán thành việc hợp tác với triều Tây Sơn. Năm Tân hợi 1791, ông dấy quân chống lại nhà Tây Sơn. Khi đi sứ nhà Thanh (Canh tuất 1790) về, Phan Huy Ích nghe chuyện ông nổi loạn, bèn dâng biểu tạ tội. Vua Quang Trung phê vào tở biểu: \"Tính người ta thiện, ác khác nhau, cha còn chả được vừa lòng với con, huống chi anh đối với em, việc không dính líu đến thì có hiềm nghi gì\". Cuộc khởi binh thất bại, ông trốn thoát vào rừng. Đến mùa hè năm Quí sửu 1793, ông bị quân trấn thủ Nghệ An lùng bắt được đem hành hình. Thương tiếc ông, Phan Huy Ích có bài ĐỀ GIA QUÁN, LÂM NGŨ ĐỆ MỘ HỮU CẢM (bản dịch): Tham nhà lối trúc đã tan hoang, Thơ \"Tích linh\" ngâm bội cảm thương Nghìn thuở danh gia ghi phúc trạch, Một gươm dũng sĩ tỏ can tràng. Bởi lời giáo hối lâu xa cách, Nên khí hiên ngang vụng giữ giàng. Chín suối biết em còn nuốt hận. Chưa nên oanh liệt cuộc phi thường."
+  "overview" : "Nguyễn Thị Bích có thể là"
 }

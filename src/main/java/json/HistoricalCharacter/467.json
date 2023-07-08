@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "20 tháng 10 năm 1914",
-  "dateOfDeath" : "20 tháng 11 năm 1931",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
+  "occupation" : "Tiết độ sứ",
+  "workTenure" : "905—907",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Họ Khúc  hoặc" : null
+  },
   "id" : 467,
-  "entityName" : "Lý Tự Trọng",
-  "aliases" : [ "Lê Hữu Trọng", "Huy", "Trọng" ],
-  "overview" : "Lý Tự Trọng (20 tháng 10 năm 1914 – 20 tháng 11 năm 1931) tên thật là Lê Hữu Trọng, còn được gọi là Huy; là một trong những nhà cách mạng trẻ tuổi của Việt Nam."
+  "entityName" : "Khúc Tiên Chủ",
+  "aliases" : [ ],
+  "overview" : "Khúc Thừa Dụ (chữ Hán: 曲承裕; 830 – 907) được suy tôn là Khúc Tiên Chủ (曲先主), là tiết độ sứ người bản địa đầu tiên của Tĩnh Hải quân, đồng thời là người đặt cơ sở cho nền độc lập của dân tộc Việt sau hơn 1.000 năm thuộc Trung Quốc."
 }

@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "12 tháng 8 năm 1931 Gia Định, Việt Nam",
-  "dateOfDeath" : "30 tháng 11, 2002 (71 tuổi) California, Hoa Kỳ",
-  "hometown" : "Không rõ",
-  "occupation" : "Thuộc",
-  "workTenure" : "1951-1975",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Giáp Dần 1854",
+  "hometown" : "huyện thuộc miền núi tỉnh Sơn Tây (Hà Sơn Bình) vào tháng 10 Giáp dần 1854",
+  "occupation" : "Hào mục ở tỉnh Bắc Ninh, hưởng ứng tiếng gọi của Cao Bá Quát họp nhau dấy binh chống triều đình Huế thối nát",
+  "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
+  },
   "id" : 538,
-  "entityName" : "Phạm Ngọc Sang",
+  "entityName" : "Bạch Công Trân",
   "aliases" : [ ],
-  "overview" : "Phạm Ngọc Sang (1931-2002), nguyên là một tướng lĩnh Không Quân của Quân lực Việt Nam Cộng hòa cấp bậc Chuẩn tướng. Ông xuất thân từ một trường chuyên đào tạo sĩ quan trừ bị cho ngành Bộ binh do Quân đội Quốc gia thành lập dưới sự hỗ trợ của Quân đội Pháp. Tuy nhiên, sau đó trúng tuyển chuyến sang Không quân. Ông đã phục vụ ở Quân chủng này cho đến ngày cuối cùng trong cuộc đời binh nghiệp của mình."
+  "overview" : "Ông cùng đồng chí suy tôn Lê Duy Cự làm minh chủ, và nhận nhiệm vụ trong bộ tham mưu. Cờ nghĩa may bằng vóc vàng, đề chữ to: Bình Dương, Bồ Bản vô Nghiêu Thuấn, Mục dã, Minh điền hữu Võ Thang Trước đấy, khoảng tháng 5 có nạn châu chấu phá hại vùng Sơn Tây, Bắc Ninh. Do đó, mấy tháng sau cuộc binh biến phát động, đương thời mang danh là \"giặc châu chấu\" Tổng đốc Sơn Hưng Tuyên là Nguyễn Bá Nghi và phó lãnh binh Sơn Tây Lê Thuận Đại cầm quân đánh dẹp. Sau một trận kịch chiến tại Yên Sơn, cánh quân do Bạch Công Trân điều khiển bị thua. Ông và toàn bộ tham mưu đều bị bắt, rồi bị hành quyết, trong số đó có Cao Bá Quát"
 }

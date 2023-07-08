@@ -1,17 +1,14 @@
 {
-  "dateOfBirth" : "Kỉ Mùi 1919",
-  "dateOfDeath" : "Nhâm Tuất 1982",
-  "hometown" : "xã Minh Hương, quê ở huyện Điện Bàn, tỉnh Quảng Nam",
-  "occupation" : "Gốc người xã Minh Hương, quê ở huyện Điện Bàn, tỉnh Quảng Nam",
+  "dateOfBirth" : "1857",
+  "dateOfDeath" : "1914",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
-  },
+  "eraName" : { },
   "id" : 1332,
-  "entityName" : "Lưu Quí Kỳ",
-  "aliases" : [ ],
-  "overview" : "Từ năm 1937, tham gia cách mạng. Ông công tác trải qua các ban, ngành: Trợ lí Trưởng ban Tuyên huấn Trung ương, Ủy viên Ban Trung ương Mặt trận tổ quốc Việt Nam, Tổng thư kí Hội Nhà báo Việt Nam, Vụ trưởng Vụ báo chí Ban tuyên huấn Trung ương Đảng CSVN. Ông viết báo, viết sách nhiều, tích cực hoạt động trên nhiều lĩnh vực. Được Đảng, Nhà nước tặng thưởng nhiều huân chương Kháng chiến, huy hiệu Thành đồng tổ quốc, Huy chương danh dự tổ chức Quốc tế các nhà báo. Sau một cơn bệnh đột ngột khi đang công tác ở nước ngoài, ông từ trần ngày 1-8-1982 (thọ 63 tuổi) trong một chuyến bay trên đường sang Thái Lan. Những lúc làm Tổng thư kí tòa soạn (cho các báo Đảng, và viết dưới các bút hiệu: Thanh Vệ, Phác Căn, Lưu Quang Khải... Ông tích cực hoạt động, khiến đồng nghiệp đều cảm phục. Thoát li gia đình để phục vụ cách mạng từ tháng 8-1937, đến lúc cuối đời, ông đã hoàn thành xuất sắc nhiệm vụ trên mặt trận văn hóa, báo chí. Những tác phẩm của ông được hoan nghênh: - Nuớc về biển cả - Công chúng mới - Bài thơ Nam Bộ (1950) - Miền Nam yêu quí (1955) - Tác phong văn nghệ nhân dân (1951) - Thực tiễn văn nghệ kháng chiến Nam Bộ (1958) - Phút im lặng (1961)"
+  "entityName" : "Nguyễn Như Khuê",
+  "aliases" : [ "Phác Đình", "Chương Chu" ],
+  "overview" : "Nguyễn Thần Hiến (1857-1914), tự: Phác Đình , hiệu: Chương Chu; là người đã sáng lập ra \"Quỹ Khuyến Du học hội\" nhằm vận động và hỗ trợ cho học sinh sang Nhật Bản học, là một trong những nhà cách mạng tiên phong trong phong trào Đông Du ở miền Nam và là một nhà chí sĩ cận đại Việt Nam."
 }

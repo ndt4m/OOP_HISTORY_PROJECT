@@ -1,20 +1,14 @@
 {
-  "dateOfBirth" : "1654",
-  "dateOfDeath" : "1671 (16–17 tuổi) Đông Kinh, Đại Việt",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đại Việt",
-  "workTenure" : "1662 - 1671",
-  "fatherName" : {
-    "Lê Thần Tông" : 1930
-  },
-  "motherName" : {
-    "Phạm Thị Ngọc Hậu" : null
-  },
-  "eraName" : {
-    "Nhà Lê trung hưng" : null
-  },
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "xã Việt Nam, đa số phân bố từ Bắc Trung Bộ ra phía Bắc.",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
   "id" : 960,
-  "entityName" : "Lê Duy Vũ",
-  "aliases" : [ "Lê Duy Vũ (黎維禑)", "Huyền Tông (玄宗)", "Cảnh Trị (景治: 1663 - 1671)", "Mục Hoàng đế" ],
-  "overview" : "Lê Huyền Tông (chữ Hán: 黎玄宗, 1654 – 1671), tên thật là Lê Duy Vũ (黎維禑), tên khác là Lê Duy Hi (黎維禧), là vị hoàng đế thứ tám của nhà Lê trung hưng, trong lịch sử Việt Nam. Mẹ đẻ là hoàng hậu Phạm Thị Ngọc Hậu."
+  "entityName" : "Trần Xá",
+  "aliases" : [ ],
+  "overview" : "Trần Xá (chữ Hán là 陳舍), là tên của nhiều làng xã Việt Nam, đa số phân bố từ Bắc Trung Bộ ra phía Bắc."
 }

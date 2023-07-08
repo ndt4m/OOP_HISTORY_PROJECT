@@ -1,19 +1,16 @@
 {
-  "dateOfBirth" : "…\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "Mậu Tuất 938\n----------------------------------------------\nKhông rõ",
-  "hometown" : "huyện Bạch Hạc, tỉnh Sơn Tây\n----------------------------------------------\nKhông rõ",
-  "occupation" : "Danh tướng của Dương Diên Nghệ, vốn là hào trưởng Châu Phong, \n----------------------------------------------\nTiết độ sứ",
-  "workTenure" : "937—938",
-  "fatherName" : {
-    "Dương Đình Nghệ" : 2021
-  },
+  "dateOfBirth" : "Đinh Mão 1807",
+  "dateOfDeath" : "Bính Dần 1866",
+  "hometown" : "quê xã Văn Lư",
+  "occupation" : "Văn thần đời Minh Mạng",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Họ Kiều" : 22,
-    "Xây nền tự chủ" : 12
+    "Nhà Nguyễn độc lập" : 30
   },
   "id" : 507,
-  "entityName" : "Kiều Công Tiễn",
-  "aliases" : [ ],
-  "overview" : "Năm Mậu tuất 938, khoảng tháng 3, ông cho người sang đút lót cho nhà Nam Hán để xin viện binh. Do đấy, vua Nam Hán sai con là Vạn vương Hoằng Thao sang xâm chiếm. Nhưng quân Nam Hán vừa động binh, thì tháng 10 năm ấy, ông ta bị Ngô Quyền đem binh từ châu Ái, ra hạ thành Đại La, giết chết và quân Nam Hán cũng bị Ngô Quyền dẹp tan và dựng nền độc lập tự chủ.\n----------------------------------------------\nKiều Công Tiễn (chữ Hán: 矯公羨 hoặc 皎公羨; 870 - 938) là người Phong Châu (Phú Thọ, Việt Nam), là Tĩnh Hải quân Tiết độ sứ (một chức quan đời nhà Đường) cuối cùng cai trị lãnh thổ Việt Nam trong thời kỳ Tự chủ từ năm 937 đến năm 938. Hậu duệ của ông sau này trở thành 2 trong số 12 sứ quân ở khu vực Phong Châu là Kiều Công Hãn và Kiều Thuận."
+  "entityName" : "Đỗ Quang",
+  "aliases" : [ "Đỗ Tông Quang" ],
+  "overview" : "Năm Nhâm thìn 1832, ông đỗ Tam giáp đồng tiến sĩ lúc 25 tuổi, ông nổi tiếng thơ văn, làm Tuần phủ tỉnh Định Tường trong Nam vào đời Tự Đức. Gặp cơn biến loạn giặc Pháp sang xâm lược, đánh phá miền Nam, ông dời về Tân Hòa, cùng Trương Định tiếp tục chống giặc. Cuộc điếu tế các nghĩa sĩ Cần Giuộc, chính ông đã chủ trương nung nấu ý chí căm thù quân cướp nước, đôn đốc nhân dân cứu nước. Năm 1862, triều đình Huế kí hàng ước với giặc ông bị triệu về kinh, bổ làm Tuần phủ tỉnh Nam Định, ông dâng sớ kiên quyết từ chối, bỏ về nghỉ tại quê nhà. Năm sau, triều đình lại triệu ông vào Huế làm Tham tri, ông càng từ chối. Năm 1864, miền Hải Dương, Quảng Yên bị nạn hải phỉ quấy nhiễu, dân tình khổ cực, ông đành phái ra làm Tham tán Hải An để góp phần ổn định lại tình hình trong tỉnh. Công việc hoàn thành ông lại cáo quan về ở ẩn. Năm Bính dần 1866, ông mất, thọ 59 tuổi."
 }

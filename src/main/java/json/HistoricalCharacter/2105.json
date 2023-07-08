@@ -1,18 +1,14 @@
 {
-  "dateOfBirth" : "1799\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "1872\n----------------------------------------------\nKhông rõ",
-  "hometown" : "quê làng Thịnh Trường huyện Chân Phúc, tỉnh Nghệ An",
-  "occupation" : "Văn thần đời Gia Long, không rõ năm sinh, năm mất",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Nguyễn Văn Chúc" : null
-  },
+  "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
-  },
+  "eraName" : { },
   "id" : 2105,
-  "entityName" : "Nguyễn Năng Tĩnh",
-  "aliases" : [ "Tốn Ban", "Án Sát Siêu", "Phương Đình", "Siêu", "Mai Hoa Đường" ],
-  "overview" : "Nguyễn Văn Siêu (chữ Hán: 阮文超, 1799 - 1872), ban đầu tên là Định, sau đổi là Siêu,Còn gọi là Án Sát Siêu, tự: Tốn Ban, hiệu: Phương Đình ; là nhà thơ, nhà nghiên cứu văn hóa Việt Nam ở thế kỷ 19 . Ông thường được gọi là Nguyễn Siêu - trùng tên với một sứ tướng thời loạn 12 sứ quân.\n----------------------------------------------\nNăm Canh ngọ 1810 ông đỗ cử nhân, đồng khoa với Nguyễn Công Trứ, làm Ngự sử một thời gian rồi cáo về. Ông cùng Ngô Thế Vinh đề tựa sách Ức Trai di tập do Dương Bá Cung biên soạn và có phê bình tập thơ của Nguyễn Trãi trong sách ấy. Đây là bộ sách đầu tiên công bố một số lớn thơ văn của Nguyễn Trãi. Bộ Ức Trai di tập có 3 bài tựa, một của Dương Bá Cung, một của Ngô Thế Vinh và một của ông đề năm Quí tị (1833) năm Minh Mạng thứ 14."
+  "entityName" : "Vũ Xương",
+  "aliases" : [ ],
+  "overview" : "30°33′17″B 114°18′46″Đ﻿ / ﻿30,55472°B 114,31278°Đ"
 }

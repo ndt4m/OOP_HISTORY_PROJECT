@@ -1,17 +1,17 @@
 {
-  "dateOfBirth" : "Quí Sửu 1913",
-  "dateOfDeath" : "Đinh Mão 1987",
-  "hometown" : "Quê xã Nam Vân, TP",
-  "occupation" : "Tướng lãnh ",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "687\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Ông là đồng chí của Lý ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Bắc thuộc lần lần 3" : 1,
+    "nhà Đường" : null
   },
   "id" : 561,
-  "entityName" : "Phan Đình Dinh",
-  "aliases" : [ "Đinh Đức Thiện" ],
-  "overview" : "Ông tham gia cách mạng từ năm 1930, năm 1950 vào quân ngũ; từng bị Pháp bắt giam hai lần (1930, 1940). Sau khi ra tù tiếp tục hoạt động, giữ các chức vụ Bí thư tỉnh ủy Vĩnh Yên... đến Thứ trưởng Bộ Quốc phòng, Thứ trưởng Bộ công nghiệp, ủy viên Quân ủy trung ương. Bộ trưởng Bộ cơ khí luyện kim, Bộ trưởng Dầu khí, Phó tư lệnh chiến dịch Hồ Chí Minh, rồi Bộ trưởng Bộ Giao thông Vận tải. Ông được Đảng và Nhà nước tặng nhiều huân chương cao quí, trong đó có Huân chương Hồ Chí Minh và quân công hạng nhất."
+  "entityName" : "Lý Tự Tiên",
+  "aliases" : [ "Tiên" ],
+  "overview" : "Lý Tự Tiên (李嗣先, ?-687) là thủ lĩnh cuộc khởi nghĩa tại An Nam chống lại sự đô hộ của nhà Đường năm 687.\n----------------------------------------------\nNăm Đinh hợi 687, không phục nhà Đường đô hộ, ông theo Lý Tự Tiên phất cờ khởi nghĩa. Đô hộ Lưu Diên Hựu và tướng Quang Sở Khánh đàn áp, giết Lý Tự Tiên. Ông càng sôi máu căm thù, cùng đồng chí là Tư Thận nối chí Tự Tiên kêu gọi toàn thể nhân dân vùng lên khởi nghĩa. Ông tiếp tục lãnh đạo cuộc khởi nghĩa, nghĩa quân tiến vây phủ thành Tống Bình (Hà Nội), bắt giết được Lưu Diên Hựu. Đám quân đô hộ trong thành lo sợ, đắp lũy cầm cự chờ quân cứu viện. Chẳng bao lâu, Tư Mã Quế Châu là Tào Huyền Tĩnh kéo quân sang đàn áp dữ dội. Thế yếu, ông và các đồng chí đều hi sinh."
 }

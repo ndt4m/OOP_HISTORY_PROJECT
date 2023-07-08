@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Ất Mùi 1775",
   "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "occupation" : "Danh tướng, nhà doanh điền thời chúa Thượng.",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
   "id" : 131,
-  "entityName" : "Lý Mông",
+  "entityName" : "Nguyễn Cửu Đàm",
   "aliases" : [ ],
-  "overview" : "Lý Mông (chữ Hán:李蒙, bính âm: Li Meng) là một viên tướng dưới trướng của Đổng Trác trong thời kỳ Tam Quốc của Lịch sử Trung Quốc. Sau khi Đổng Trác bị Lã Bố giết chết trong một âm mưu của Vương Doãn, Lý Mông cùng với bạn là Vương Phương đầu quân cho Vương Doãn trong một thời gian ngắn. Sau khi bốn tướng của Tây Lương là Lý Thôi, Quách Dĩ, Trương Tế và Phàn Trù dẫn quân bao vây Trường An. Lý Mông và Vương Phương đã làm nội ứng để mở cửa thành cho quân Tây Lương tràn vào."
+  "overview" : "Xuất thân là võ tướng con trai của Chánh thống cai cơ Nguyễn Cửu Vân, làm quan tướng đến chức Hữu quân phó tiết chế cai cơ thời Thượng vương. Năm 1770-1772 quân Xiêm xâm lấn đất Hà Tiên, triều đình cử ông làm khâm sai thống suất đốc chiến, cùng tham tướng Trần Phúc Thành lãnh quân Thủy bộ cùng 30 chiếc thuyền từ sông Tiền Giang, Hậu Giang tiến đánh quân Xiêm (Thái Lan ngày nay), phá tan được giặc, quân Xiêm phải xin hòa và bình định được đất Chân Lạp yên ổn. Từ đó (1772) công việc bình định đất Hà Tiên, Chân Lạp xong, ông đem quân về Gia Định. Trong thời gian này ông cho xây lũy Bán Bích (Tân Hòa) bao quanh đồn trại phía tây lị sở phủ Tân Bình đề phòng sự bất trắc có thể xảy ra. Đến mùa xuân năm Ất mùi (1775) ông chết trận, sau này được vua Gia Long liệt thờ vào miếu Trung tiết công thần tại Huế."
 }

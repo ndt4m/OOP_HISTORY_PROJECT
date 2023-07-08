@@ -1,21 +1,17 @@
 {
-  "dateOfBirth" : "1136 Thăng Long\n----------------------------------------------\nBính Thìn 1136\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "14 tháng 8, 1175 (38–39 tuổi) Thăng Long, Đại Việt\n----------------------------------------------\nẤt Mùi 1175\n----------------------------------------------\nKhông rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua nhà Lý, con trưởng Lý Thần tông, nối ngôi nhà Lý\n----------------------------------------------\nVua",
-  "workTenure" : "1138 – 1175\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1138—1175",
-  "fatherName" : {
-    "Lý Thần Tông" : 3002,
-    "Lý Thần tông" : null
-  },
-  "motherName" : {
-    "Linh Chiếu Thái hậu" : null
-  },
+  "dateOfBirth" : "Quí Sửu 1913",
+  "dateOfDeath" : "Mậu Thìn 1988",
+  "hometown" : "tại làng Vân Canh, huyện Hoài Đức, tỉnh Hà Đông (nay thuộc tỉnh Hà Tây)",
+  "occupation" : "Giáo sư sử học",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
   "eraName" : {
-    "Nhà Lý" : 14
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 896,
-  "entityName" : "Lý Anh Tông",
-  "aliases" : [ "Niên hiệu Thiệu Minh (绍明; 1138 - 1139) Đại Định (大定; 1140 - 1162) Chính Long Bảo Ứng (政隆宝应; 1163 - 1173) Thiên Cảm Chí Bảo (天感至宝; 1174 - 1175)", "Lý Thiên Tộ (李天祚)", "Thể Thiên Thuận Đạo Duệ Văn Thần Võ Thuần Nhân Hiển Nghĩa Huy Mưu Thánh Trí Ngự Dân Dục Vật Quần Linh Phi Ứng Đại Minh Chí Hiếu Hoàng Đế (体天顺道睿文神武纯仁显义徽谋圣智御民育物群灵丕应大明至孝皇帝)", "Lý Anh Tông", "Anh Tông (英宗)" ],
-  "overview" : "Lý Anh Tông (chữ Hán: 李英宗, 1136 - 14 tháng 8, 1175), là vị Hoàng đế thứ sáu của nhà Lý trong lịch sử Việt Nam, trị vì từ năm 1138 tới năm 1175, tổng cộng 37 năm.\n----------------------------------------------\nBấy giờ nhà vua thêm vụng về bang giao với Chiêm Thành, đưa người Chiêm là Ung Minh Ta Điệp về Chiêm để làm vua, khiến vua Chiêm đương thời là Chế Bỉ La Bút chống đánh lại. giết tướng ta là Lý Mông. Nội chính ngoại biên rối loạn, dân tình khốn khổ. Đến khi Đỗ Anh Võ chết, Tô Hiến Thành thay làm Thái úy.\n----------------------------------------------\nLý Anh Tông (chữ Hán: 李英宗 tháng 4 năm 1136 - 14 tháng 8 năm 1175) là vị hoàng đế thứ sáu của nhà Lý trong lịch sử Việt Nam, trị vì từ năm 1138 tới năm 1175, tổng cộng 37 năm."
+  "entityName" : "Trần Đức Sắc",
+  "aliases" : [ "Văn Tân" ],
+  "overview" : "Xuất thân trong một gia đình Nho học truyền thống, tham gia hoạt động cách mạng từ hồi còn trẻ tuổi. Từ năm 1930 bị Pháp bắt kết án tù treo và bị quản thúc tại quê nhà, nhưng ông vẫn tham gia hoạt động bí mật chống Pháp. Năm 1932 bị bắt và kết án tù giam tại nhà lao Hỏa Lỏ (Hà Nội). Năm 1937 ông được trả tự do, nhưng vừa ra khỏi nhà tù ông tiếp tục tham gia viết báo công khai của ĐCSĐD. Trong chiến tranh thế giới lần II, ông bị bắt lại và đày lên Sơn La, đến năm 1944 ông vượt ngục tham gia các đội quân du kích chống Nhật. Sau cách mạng tháng 8 ông về Hà Nội phụ trách báo Cứu quốc. Trong kháng chiến chống Pháp, ông dạy học ở khu học xá Việt Nam tại Nam Ninh (Tr.Q) một thời gian. Sau hiệp định Genève ông về làm việc ở Viện Sử học cho đến ngày nghỉ hưu. Các tác phẩm chính: - Cách mạng Tây Sơn - Lịch sử Việt Nam sơ giản - Nguyễn Huệ con người và sự nghiệp - Từ điển Trung-Việt - Từ điển tiếng Việt Ông mất năm 1988 tại Hà Nội."
 }

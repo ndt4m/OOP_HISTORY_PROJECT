@@ -1,17 +1,14 @@
 {
-  "dateOfBirth" : "Ất Mão 1915",
-  "dateOfDeath" : "Canh Ngọ 1990",
-  "hometown" : "quê xã Đức Long, huyện Hòa An, tỉnh Cao Bằng",
-  "occupation" : "Tướng lãnh ",
+  "dateOfBirth" : "24 tháng 7 năm 1930 Hà Nội, Liên bang Đông Dương",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê ta ơi\", \"Tôi là người thợ lò\",.",
+  "occupation" : "Nhạc sĩ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
-  },
+  "eraName" : { },
   "id" : 1921,
-  "entityName" : "Nguyên Cao Cơ",
-  "aliases" : [ "Bằng Giang" ],
-  "overview" : "Ông tham gia cách mạng từ năm 1932 từng bị Pháp bắt giam từ nhiều lần. Từ năm 1941 là Thường vụ ủy viên liên tỉnh Cao Bắc Lạng, khu trưởng Quân sự khu I, khu X… Năm 1957-1975 Tư lệnh Quân khu Tây Bắc, Tư lệnh Quân khu Việt Bắc kiêm chủ tịch ủy ban hành chánh khu Tự trị Việt Bắc. Năm 1976-1978 giữ chức phó Tổng thanh tra Quân đội, Đại biều Quốc hội khóa III-VI. Ông được Đảng và Nhà nước Việt Nam tặng nhiều huân chương cao quí, trong đó có Huân chương Hồ Chí Minh. Ông mất năm 1990, thọ 75 tuổi."
+  "entityName" : "Hoàng Vân",
+  "aliases" : [ "Lê Văn Ngọ" ],
+  "overview" : "Hoàng Vân (tên khai sinh: Lê Văn Ngọ, sinh 24 tháng 7 năm 1930) là một nhạc sĩ nhạc đỏ Việt Nam, người được coi là có nhiều nhất sáng tác về các ngành và các bài hát của ông đều trở thành bài truyền thống. Ông nổi tiếng với hàng loạt ca khúc như \"Bài ca xây dựng\", \"Hò kéo pháo\", \"Người chiến sĩ ấy\", \"Quảng Bình quê ta ơi\", \"Tôi là người thợ lò\",... Ông còn có bút danh là Y - Na (tức \"Yêu Ngọc Anh\" - Ngọc Anh là người bạn đời của ông)."
 }

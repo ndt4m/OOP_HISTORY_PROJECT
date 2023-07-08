@@ -1,16 +1,14 @@
 {
-  "dateOfBirth" : "Kỉ Tị 1929",
-  "dateOfDeath" : "Mậu Thân 1968",
-  "hometown" : "quê tại Sài Gòn",
-  "occupation" : "Anh hùng lực lượng vũ trang Việt Nam, chiến sĩ đặc công nội thành Sài Gòn",
+  "dateOfBirth" : "1915",
+  "dateOfDeath" : "2009",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Nước Việt Nam mới" : 29
-  },
+  "eraName" : { },
   "id" : 1282,
-  "entityName" : "Bùi Văn Ba",
+  "entityName" : "Trần Thế Môn",
   "aliases" : [ ],
-  "overview" : "Ông nhập ngũ từ sau cách mạng tháng 8-1945, chiến đấu trong 2 cuộc kháng chiến chống Pháp, Mĩ. Từng tham gia nhiều trận đánh lớn ở miền Đông Nam Bộ, sân bay Tân Sơn Nhất, kho đạn Phú Thọ (Tân Bình)... Ông được nhà nước truy tặng danh hiệu anh hùng lực lượng võ trang."
+  "overview" : "Trần Thế Môn (1915-2009) là một Thiếu tướng Quân đội Nhân dân Việt Nam. Chức vụ cao nhất của ông là Chánh án Tòa án Quân sự Trung ương, kiêm Phó Chánh án Tòa án Nhân dân Tối cao Việt Nam."
 }

@@ -1,19 +1,16 @@
 {
-  "dateOfBirth" : "…\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "Mậu Dần 1518\n----------------------------------------------\nKhông rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Dòng dõi nhà Lê, khoảng năm Mậu dần 1518, ông được số quần thần tôn vương. Vì lúc bấy giờ, nhóm Trần Cảo, Trân Thăng dấy lên đảo chính, khiến Lê Tương Dực đế bị nhóm Trịnh Duy Sản giết chết, nước loạn to.\n----------------------------------------------\nVua",
-  "workTenure" : "1518–1519",
-  "fatherName" : {
-    "Lê Lộc" : null
-  },
+  "dateOfBirth" : "Nhâm Ngọ 1462",
+  "dateOfDeath" : "Kỉ Sửu 1529",
+  "hometown" : "quê phường Đông Ngạc, huyện Từ Liêm, tỉnh Hà Đông (nay là Hà Nội), về sau dời sang xã Dương Hối, huyện Yên Lăng, tỉnh Vĩnh Yên (nay thuộc tỉnh Vĩnh Phú)",
+  "occupation" : "Danh sĩ đời vua Lê Uy Mục",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Hậu Lê – giai đoạn Lê sơ" : 20,
     "Triều Lê Sơ" : 7
   },
   "id" : 928,
-  "entityName" : "Lê Bảng",
+  "entityName" : "Lê Đức Mao",
   "aliases" : [ ],
-  "overview" : "Ông được tôn vương, cũng có đặt hiệu năm là Đại Đức, nhưng chẳng bao lâu thì bị phế. Cũng trong năm Mậu dẫn 1518 ấy, Lê Dụ được đưa lên và rồi bị Mạc Đăng Dung giết.\n----------------------------------------------\nLê Bảng(黎榜) là một vị vua nhà Lê sơ trong lịch sử Việt Nam. Do được lập lên ngôi và phế truất trong thời gian loạn lạc ngắn ngủi, ông ít được nhắc tới trong danh sách các vị vua chính thống của Việt Nam."
+  "overview" : "Năm Giáp tí 1504 ông đỗ hương cống, năm sau đỗ tiến sĩ. Ông nổi tiếng văn chương, thơ văn ông nặng phần trào lộng, châm biếm. Với ngôn ngữ sắc bén khiến bọn cầm quyền đương thời oán ghét. Còn truyền tụng Bài hát chúc làng, 128 vế gồm 9 đoạn, để ả đào hát vào ngày xuân tế thần cầu phúc (quyển Thi văn Việt Nam của Hoàng Xuân Hãn trích 3 đoạn có chú thích và biện minh đại ý, tr. 91-97). Năm Kỉ sửu 1529, ông mất, thọ 67 tuổi."
 }

@@ -2,15 +2,17 @@
   "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "occupation" : "Thủ lĩnh",
+  "workTenure" : "791—791",
+  "fatherName" : {
+    "Phùng Hưng" : 2349
+  },
   "motherName" : { },
   "eraName" : {
-    "nhà Lý" : null
+    "Họ Phùng" : 4
   },
   "id" : 1233,
-  "entityName" : "Lý Nhân Nghĩa",
+  "entityName" : "Phùng An",
   "aliases" : [ ],
-  "overview" : "Lý Nhân Nghĩa (chữ Hán: 李仁義; ?-?) là một đại thần nhà Lý trong lịch sử Việt Nam. Ông có công phò tá Thái tử Lý Phật Mã (Lý Thái Tông) lên ngôi, trấn áp loạn ba vương."
+  "overview" : "Phùng An là vua Việt Nam trong thời thuộc Đường đầu thế kỷ thứ 9."
 }

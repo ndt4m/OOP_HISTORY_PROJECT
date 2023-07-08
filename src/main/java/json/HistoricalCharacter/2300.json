@@ -2,17 +2,15 @@
   "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Vua",
-  "workTenure" : "1778—1788",
-  "fatherName" : {
-    "Hồ Phi Phúc" : null
-  },
+  "occupation" : "Danh sĩ đời Trần Duệ tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Tây Sơn" : 21
+    "Nhà Trần" : 15
   },
   "id" : 2300,
-  "entityName" : "Thái Đức",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Nhạc (chữ Hán: 阮岳; 1743 – 1793) hay còn gọi là Nguyễn Văn Nhạc, là vị hoàng đế sáng lập ra Nhà Tây Sơn, ở ngôi hoàng đế từ năm 1778 đến năm 1788, lấy niên hiệu là Thái Đức (泰德) thường gọi là Thái Đức Đế (泰德帝). Từ năm 1789 – 1793, ông từ bỏ đế hiệu để nhường ngôi hoàng đế cho em trai là hoàng đế Quang Trung, còn ông tự hạ tước hiệu của mình xuống thành Tây Sơn vương."
+  "entityName" : "Phạm Nhân Khanh",
+  "aliases" : [ "Cổ Sơn" ],
+  "overview" : "Ông xuất thân tiến sĩ, nổi tiếng văn chương. Làm quan đến Giám tu quốc sử, kiêm An phủ sứ lộ Lạng Sơn, từng được cử đi sứ Trung Quốc mấy lần. Tính ông tiết tháo, ngay thẳng, sống mộc mạc bình dị nên được sĩ phu quí trọng. Thơ ông chỉ còn truyền một số bài sưu tập trong bộ Toàn Việt thi lục gồm có: - Hộ bái sơn lăng hồi kinh (Hầu vua bái yết sơn lăng trở về kinh) - Phụng Bắc sứ cung ngộ và Hi lăng đại tưởng nhật hữu cảm (cảm xúc nhân gặp ngày giỗ vua Duệ tông trong lúc phụng mệnh đi sứ phương Bắc). - Du xuân (chơi xuân) - Phật tích liên trì (Ao sen chùa Phật Tích) - Nhạn tự (Chữ nhạn) - Tân trúc (Tre non) - Thu dạ (Đêm thu) - Thất tịch (Đêm mùng 7 tháng 7) - Thư tuế (Cảm nghĩ nhân thức đón giao thừa)."
 }

@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Quí Mão 1903",
-  "dateOfDeath" : "Tân Tị 1941",
-  "hometown" : "quê xã Liêm Chính, huyện Thanh Liêm, tỉnh Hà Nam",
-  "occupation" : "Liệt sĩ cách mạng hiện đại",
+  "dateOfBirth" : "Ất Mão 1915",
+  "dateOfDeath" : "Canh Tí 1960",
+  "hometown" : "tại làng Bảo An huyện Điện Bàn, tỉnh Quảng Nam",
+  "occupation" : "Nhà văn, Nhà báo, con nhà văn Phan Khôi",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 1563,
-  "entityName" : "Lương Khánh Thiện",
+  "entityName" : "Phan Thao",
   "aliases" : [ ],
-  "overview" : "Năm 1925 ông cùng Hoàng Quốc Việt vận động đòi ân xá Phan Bội Châu, bị đuổi học, ông về Nam Định tuyên truyền công nhân tham gia cách mạng. Bị mật thám theo dõi đuổi khỏi nhà máy, ông về Hải Phòng gây dựng cơ sở. Năm 1929 ông được kết nạp vào Đảng Cộng sản Đông Dương. Ngày 1-5-1930 sau cuộc biểu tình, ông bị bắt kết án khổ sai chung thân, đày ra Côn Đảo. Đến năm 1936 ông được trả tự do, từ đấy ông vẫn một lòng phục vụ cách mạng. Tháng 11-1940 ông lại bi bắt. Lần này chúng kết án ông, tử hình, bị hành quyết ngày 1-9-1941 tại thị xã Kiến An nay thuộc TP. Hải Phòng, hưởng dương 38 tuổi."
+  "overview" : "Ông nhiệt thành yêu nước, tham gia cách mạng từ lúc còn trẻ tuổi, tích cực đóng góp trong hai cuộc kháng chiến cứu nước. Ông viết báo, nghiên cứu văn hóa dân tộc. Năm 1946 ông đắc cử Đại biểu Quốc hội đơn vị Quảng Nam. Ông là người đầu tiên dịch tác phẩm \"Người mẹ\" của Maxime Gorki ra tiếng Việt được hầu hết bạn đọc tán thưởng. Năm Canh tí 1960, ngày 5-8 Dương lịch ông mất tại Hà Nội, hưởng dương 45 tuổi."
 }

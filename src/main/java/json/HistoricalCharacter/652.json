@@ -1,17 +1,17 @@
 {
-  "dateOfBirth" : "1451\n----------------------------------------------\nTân Mùi 1451",
-  "dateOfDeath" : "1529\n----------------------------------------------\nKỉ Sửu 1529",
-  "hometown" : "thành viên của gia tộc họ Bùi làng Thịnh Liệt nổi tiếng ở Hà Nội.\n----------------------------------------------\nquê làng Định Công, huyện Thanh Đàm (sau đổi là Thanh Trì), phủ Thường Tín, tỉnh Hà Đông (nay thuộc Hà Nội)",
-  "occupation" : "Danh thần đời Lê Thánh tông, quê làng Định Công, huyện Thanh Đàm ",
+  "dateOfBirth" : "Đinh Mùi 1907",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "tại Huế, không rõ năm mất",
+  "occupation" : "Tác giả",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "nhà Lê" : null,
-    "Triều Lê Sơ" : 7
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 652,
-  "entityName" : "Bùi Xương Trạch",
-  "aliases" : [ "Thanh Trì" ],
-  "overview" : "Bùi Xương Trạch (chữ Hán: 裴昌澤; 1451 - 1529) là quan nhà Lê sơ trong lịch sử Việt Nam. Ông là một thành viên của gia tộc họ Bùi làng Thịnh Liệt nổi tiếng ở Hà Nội.\n----------------------------------------------\nNhà nghèo, ông vừa cày ruộng vừa trì chí học tập, nổi tiếng văn chương. Mậu tuất 1478, đỗ tiến sĩ năm 27 tuổi, ngày xướng danh ông đang cày ruộng ở ngoài đồng, người làng đến ca ngợi tài học của ông. Lúc đầu, được bổ công tác ở Viện hàn lâm, khi Lê Thánh tông thân chinh Chiêm Thành, ông theo trong quân, phục vụ việc quân sự. Năm Kỉ dậu 1489, ông đi sứ nhà Minh. Đời Hiển tông, ông được thăng chức Hiệu thư Đông các. Ít lâu, cải bổ Thiên Đô ngự sử, rồi dần thăng đến Thượng thư bộ Binh, gồm giữ cả việc 6 Bộ và kiêm chức vụ ở Viện Đô sát. Cũng có lúc làm Tế tửu Quốc tử giám (như Viện trưởng Viện Đại học ngày nay), tước Quảng Văn Hầu. Năm Canh thìn 1520, ông lên lão 70 tuổi, xin về hưu trí. Đến Kỉ mùi 1529 ông mất, thọ 78 tuổi. Triều đình truy tặng Thái phó, tước Quảng Quốc Công, thụy Văn Lượng. Hai con ông là Bùi Trụ và Bùi Vịnh, cháu nội là Bùi Bỉnh Uyên (con Bùi Vịnh) và người cháu xa đời là Bùi Huy Bích đều là bậc danh sĩ. Trong Lịch triều hiến chương loại chí Phan Huy Chú phẩm bình: \"Ông gặp thời ra làm quan, tự đảm nhận trách nhiệm kinh bang tế thế, mà khiêm giới, thanh liêm, kiệm ước, không mưu tính tài sản riêng tư một mảy may nào. Bổng lộc được bao nhiêu đều chia hết cho họ hàng làng mạc. Lòng tốt và danh vọng lớn lao của ông được người đời tôn phục\"."
+  "entityName" : "Nguyễn Phúc Bửu Dưỡng",
+  "aliases" : [ "Bửu Dưỡng", "Thiên Phong" ],
+  "overview" : "Trước năm 1975 ông là giáo sư tại Chủng viện Sài Gòn, Đại học Văn khoa Sài Gòn. Các tác phẩm: - Ngài là ai? (Sài Gòn, 1968) - Triết học quan (Sài Gòn, 1969) - Vấn đề đau khổ (Sài Gòn, 1970) - Tứ thư giải luận - Lịch sử thế giới - Vấn đề giáo dục - Vấn đề tổ chức"
 }

@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "1720",
-  "dateOfDeath" : "1796",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Kỉ Mão 1879",
+  "dateOfDeath" : "Tân Tị 1941",
+  "hometown" : "quê làng Cái Cối, tỉnh Bến Tre (nay thuộc thị xã Bến Tre, tỉnh Bến Tre)",
+  "occupation" : "Nhà văn",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "nhà Thanh" : null
+    "Pháp đô hộ" : 11
   },
   "id" : 1009,
-  "entityName" : "Tôn Sĩ Nghị",
-  "aliases" : [ "Trí Dã" ],
-  "overview" : "Tôn Sĩ Nghị (1720-1796), tên tiếng Trung: 孫士毅, tự Trí Dã (智冶), một tên tự khác là Bổ Sơn (补山), người tỉnh Chiết Giang, là một đại thần của nhà Thanh, Trung Quốc."
+  "entityName" : "Lê Hoàng Mưu",
+  "aliases" : [ "Mộng Huê Lầu" ],
+  "overview" : "Ông xuất thân trong một gia đình làm nông khá giả. thuở nhỏ học ở Bến Tre, Sài Gòn, rồi làm báo, viết văn và sinh hoạt ở Sài Gòn cho đến cuối đời. Ông nổi tiếng trên làng báo, làng văn Sài Gòn từ những năm 1910-1915. Năm 1921, ông là chủ bút tờ Lục tỉnh tân văn, rồi sáng lập, chủ nhiệm kiêm chủ bút báo Long Giang, tờ này đến năm 1943 thì đình bản. Ông là một nhà báo kì cựu, một nhà văn tiên phong miền Nam, đương thời còn nổi tiếng hơn cả Trương Duy Toản, Nguyễn Chánh Sắt.. Tiểu thuyết của ông hồi đó \"viết ra thiệt nhiều và đều bán chạy như tôm tươi giữa chợ buổi sớm... Ông đã có cái vinh dự tối cao của kẻ đàn anh ăn bước trước mà lại có tài hoa lỗi lạc\" như Lãng Tử viết trên báo Phụ nữ Tân văn. Các tác phẩm chính của ông hầu hết đều thuộc thể loại Trinh thám hấp dẫn và li kì: - Hà Hương phong nguyệt (1915) - Ba gái cầu chồng (1915) - Tô Huệ Nhi ngoại sử (1920) - Oán hồng quần (Phùng Kim Huê ngoại sử - 1920) - Oan kia theo mãi (1922) - Đầu tóc mượn (1926) - Hoạn Thư bắt Thúy Kiều (1928) - Đêm rốt của người tội tử hình - Truyện người bán ngọc (1931)... Và một số bài in trên các báo ở Sài Gòn. Ông mất năm 1941 tại Sài Gòn, thọ 62 tuổi."
 }

@@ -1,20 +1,14 @@
 {
-  "dateOfBirth" : "21 tháng 7, 541",
-  "dateOfDeath" : "13 tháng 8, 604 (63 tuổi) Nhân Thọ cung, Trường An, Trung Quốc",
+  "dateOfBirth" : "1944 Minh Hoà, Hưng Hà, Thái Bình",
+  "dateOfDeath" : "14 tháng 3 năm 1988 Đá Gạc Ma (thuộc cụm đảo Sinh Tồn - quần đảo Trường Sa)",
   "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đại Tùy",
-  "workTenure" : "581 – 604",
-  "fatherName" : {
-    "Dương Trung" : null
-  },
-  "motherName" : {
-    "Lữ Cổ Đào" : null
-  },
-  "eraName" : {
-    "Nhà Tùy" : null
-  },
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
   "id" : 1115,
-  "entityName" : "Dương Kiên",
-  "aliases" : [ "Văn Hoàng đế (文皇帝)", "Dương Kiên (楊堅)", "Niên hiệu Khai Hoàng (开皇; 581 - 600) Nhân Thọ (仁寿; 601 - 604)", "Cao Tổ (高祖)" ],
-  "overview" : "Tùy Văn Đế (chữ Hán: 隋文帝; 21 tháng 7, 541 - 13 tháng 8, 604), tên thật là Dương Kiên (楊堅), là vị Hoàng đế sáng lập triều đại nhà Tùy trong lịch sử Trung Quốc. Ông ở ngôi từ năm 581 đến năm 604, tổng cộng 23 năm."
+  "entityName" : "Trần Đức Thông",
+  "aliases" : [ ],
+  "overview" : "Trần Đức Thông (1944 – 14 tháng 3 năm 1988) là một anh hùng lực lượng vũ trang nhân dân quân đội Việt Nam. Ông tử trận tại đá Gạc Ma trong Hải chiến Trường Sa 1988. Khi hi sinh ông là trung tá, phó lữ đoàn trưởng lữ đoàn 146, Vùng 4 Hải quân, chỉ huy cao nhất của Việt Nam tại trận địa trong Hải chiến Trường Sa 1988."
 }

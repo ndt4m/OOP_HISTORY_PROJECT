@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Người làng Ninh Xá, phủ Nam Sách, tỉnh Hải Dương",
-  "occupation" : "Người làng Ninh Xá, phủ Nam Sách, tỉnh Hải Dương.",
+  "dateOfBirth" : "Kỉ Dậu 1909",
+  "dateOfDeath" : "Bính Thìn 1976",
+  "hometown" : "quê làng Hội Xá, tỉnh Hà Đông (nay thuộc Hà Nội), con rể Phạm Quỳnh (vợ ông là bà Phạm Thị Ngoạn)",
+  "occupation" : "Nhà văn ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 1109,
-  "entityName" : "Nguyễn Tuyển",
+  "entityName" : "Nguyễn Tiến Lãng",
   "aliases" : [ ],
-  "overview" : "Chúa Trịnh Giang chuyên quyền, ông cùng em là Nguyễn Cừ, cháu là Nguyễn Diên và Võ Trác Oánh khởi nghĩa ở Ninh Xá chống họ Trịnh. Ông tự xưng là Minh chúa, Võ Trác Oánh xưng Minh công. Năm Kỉ mùi 1739, chúa Trịnh sai Nguyễn Trọng Uông cùng các thuộc tướng đem quân đi đánh ông ở Bình Ngô. Ông phá vỡ được quân Trịnh, giết Nguyễn Trọng Uông. Đến tháng 5 năm ấy ông bị quân Trịnh đánh bại, lui về đóng ở núi Pháo Sơn, huyện Chí Linh lập căn cứ chống quân Trịnh lâu dài. Năm Canh thân 1740 ông tiến đánh huyện Đường An, quân Trịnh thua to, đến tháng 10 nghe tin Trịnh Doanh đàn áp cuộc khởi nghĩa Ngân Già ở Sơn Nam ông phải rút về Cao Bằng. Sau ông chết trong chiến khu. Em ông là Nguyễn Cừ sau bị Phạm Đình Trọng giết hại. Từ đó cuộc khởi nghĩa của ông bị chúa Trịnh dập tắt."
+  "overview" : "Thuở nhỏ học ở Hà Nội, sau du học Pháp đỗ Tiến sĩ văn chương Pháp tại Đại học Paris. Sau khi về nước làm việc tại Tòa Thống sứ Bắc Kì, Phủ Toàn quyền Đông Dương ở Hà Nội. Sau đó vào Huế làm bí thư cho hoàng hậu Nam Phương trong những năm 1936-1940. Sau năm 1950 ông sống, làm việc ở Pháp, và mất năm 1976 tại Paris. Các tác phẩm: - Tiếng ngày xanh - Tây phương tình sử - Indochine la douce - Eurydice - Dans les Forêts et dans les Rizières - Amours d'Annam - La France que j'ai vue..."
 }

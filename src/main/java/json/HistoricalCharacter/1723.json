@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "2 tháng 12, 885 Thái Nguyên",
-  "dateOfDeath" : "15 tháng 5, 926",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế nhà Hậu Đường",
-  "workTenure" : "13 tháng 5 năm 923 - 15 tháng 5 năm 926 3 năm, 2 ngày",
+  "dateOfBirth" : "Canh Tuất 1910",
+  "dateOfDeath" : "Nhâm Ngọ 1942",
+  "hometown" : "quê làng Tân Thời Nhứt, huyện Hóc Môn (nay là quận 12 TP",
+  "occupation" : "Liệt sĩ hiện đại",
+  "workTenure" : "Không rõ",
   "fatherName" : { },
-  "motherName" : {
-    "Tào thái hậu" : null
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "eraName" : { },
   "id" : 1723,
-  "entityName" : "Lý Tồn Úc",
-  "aliases" : [ "Lý Tồn Úc", "Đồng Quang (同光) 13/5/ 923 - 11/6/ 926", "Trang Tông (莊宗)", "Quang Thánh Thần Mẫn Hiếu Hoàng Đế (光聖神閔孝皇帝)" ],
-  "overview" : "Hậu Đường Trang Tông (giản thể: 后唐庄宗; phồn thể: 後唐莊宗), tên húy là Lý Tồn Úc (tiếng Trung: 李存勖 hay 李存勗; bính âm: Lǐ Cúnxù), tiểu danh Á Tử (亞子), là một nhân vật chính trị và quân sự trong thời kỳ Ngũ Đại Thập Quốc trong lịch sử Trung Quốc. Ông kế vị cha làm vương nước Tấn (908-923) và sau trở thành hoàng đế của triều Hậu Đường (923–926) do ông sáng lập."
+  "entityName" : "Bùi Văn Ngữ",
+  "aliases" : [ ],
+  "overview" : "Thuở nhỏ đi học tại quê nhà, năm 1927 - 1928 tham gia Hội kín Nguyễn An Ninh, năm 1930 gia nhập đảng CSĐD. Năm 1931 là tỉnh ủy viên Gia Định, rồi làm Bí thư tỉnh ủy Gia Định, xứ ủy viên xứ ủy Nam Kì. Năm 1940, ông bị Pháp bắt cùng với các đồng chí của mình là Nguyễn Văn Nghi, Nguyên Văn Cừ, Phạm Văn Đồng... Trong tù ông bị tra tấn rất da man, nhưng ông vẫn khẳng khái không khai báo, nên một số cơ sở đăng ở Hóc Môn vãn giữ được bí mật cách mạng. Năm 1941 ông bị lưu đày Côn Đảo cùng với các ông Lê Hồng Phong, Lê Duẩn, Bùi Văn Thủ, Dương Bạch Mai, Nguyễn Văn Tạo... Tại đảo ông bị hành hạ dã man và hi sinh vào năm 1942 cùng với anh ruột là Bùi Văn Thủ, lúc mới 32 tuổi."
 }

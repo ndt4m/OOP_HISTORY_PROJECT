@@ -1,17 +1,18 @@
 {
-  "dateOfBirth" : "Canh Thân 1920",
-  "dateOfDeath" : "Tân Tị 2002",
-  "hometown" : "tại làng Châu Ê, ngoại thành Huế (nay thuộc tỉnh Thừa Thiên - Huế), nguyên quán tỉnh Hà Tĩnh",
-  "occupation" : "Điêu khắc gia, nha sĩ",
+  "dateOfBirth" : "656 TCN Trung Quốc",
+  "dateOfDeath" : "601 TCN Trung Quốc",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+  "fatherName" : {
+    "Triệu Thôi" : null
   },
+  "motherName" : {
+    "Địch nữ" : null
+  },
+  "eraName" : { },
   "id" : 76,
-  "entityName" : "Phùng Thị Cúc",
-  "aliases" : [ "Điềm Phùng Thị" ],
-  "overview" : "Năm 1926 theo thân phụ lên sống ở cao nguyên, năm 1934 về học tại Huế đến năm 1941 thi vào học nha khoa tại Đại học y khoa Hà Nội. Sau Cách mạng tháng 8 năm 1945 bà phục vụ ngành y tế tại các vùng kháng chiến thuộc tỉnh Thừa Thiên. Năm 1948 về Huế rồi qua Pháp chữa bệnh, tiếp tục học nha khoa tại Paris năm 1954 tốt nghiệp tiến sĩ nha khoa với đề tài về tục ăn trầu của người Việt. Năm 1958-1959 bà bước sang lĩnh vực nghệ thuật tạo hình (điêu khắc) và đã có tác phẩm nghệ thuật sáng giá được Từ điển Larousse đề cập đến tên bà. Năm 1991 bà được phong Viện sĩ viện Hàn lâm khoa học, Văn học và nghệ thuật châu Âu. Bức tượng nổi danh của bà có tên Mẹ con đã được chính phủ Pháp mua trân tàng tại Bảo tàng viện Paris. Năm 1993, 150 tượng của bà được đưa về Huế trưng bày tại Nhà trưng bày nghệ thuật Điềm Phùng Thị ở số 1 đường Phan Bội Châu, Huế. Sau đó bà quyết định tặng toàn bộ tài sản nghệ thuật cho nhân dân Thành phố Huế. Theo các nhà chuyên môn thì Ngôn ngũ điêu khắc Điềm Phùng Thị rất độc đáo đã được cả Châu Âu tôn vinh như là một phát hiện nghệ thuật của thế kỉ XX. Tại Pháp có tất cả 36 tượng đài của bà được dựng ở các công viên quảng trường trên toàn nước Pháp. Bà mất ngày 29-01-2002 tại Huế, an táng tại đồi thông Châu Ê với lăng mộ ông bà do bà thiết kế hồi còn sanh tiền."
+  "entityName" : "Triệu Thuẫn",
+  "aliases" : [ "Tuyên tử (宣子)", "Triệu Thuẫn" ],
+  "overview" : "Triệu Thuẫn (chữ Hán: 趙盾; 656 TCN-601 TCN ), tức Triệu Tuyên tử (赵宣子) là vị tông chủ thứ tư của họ Triệu, một trong Lục khanh của nước Tấn dưới thời Xuân Thu và là tổ tiên của nước Triệu sau này."
 }

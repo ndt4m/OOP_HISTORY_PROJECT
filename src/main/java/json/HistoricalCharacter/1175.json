@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "257 TCN huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (nay là huyện Chính Định (正定), tỉnh Hà Bắc), Trung Quốc\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "137 TCN (120 tuổi) Phiên Ngung (nay là thành phố Quảng Châu, tỉnh Quảng Đông, Trung Quốc)\n----------------------------------------------\nKhông rõ",
-  "hometown" : "quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà Bắc), miền Bắc Trung Quốc.\n----------------------------------------------\nKhông rõ",
-  "occupation" : "Hoàng đế Nam Việt\n----------------------------------------------\nVua",
-  "workTenure" : "70 năm\n----------------------------------------------\n204—137TCN",
+  "dateOfBirth" : "Bính Thìn 1856",
+  "dateOfDeath" : "Mậu Thân 1908",
+  "hometown" : "người làng Minh Hương, huyện Điện Bàn, tỉnh Quảng Nam (nay thuộc thị xã Hội An, tỉnh Quảng Nam)",
+  "occupation" : "Nhà yêu nước",
+  "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Triệu" : 16
+    "Pháp đô hộ" : 11,
+    "Nhà Nguyễn độc lập" : 30
   },
   "id" : 1175,
-  "entityName" : "Triệu Vũ Vương",
-  "aliases" : [ "Triệu Đà (趙佗)", "Bá Uy", "Vũ Hoàng đế (武皇帝)" ],
-  "overview" : "Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà Bắc), miền Bắc Trung Quốc.\n----------------------------------------------\nTriệu Vũ Đế (chữ Hán: 趙武帝, 257 TCN hoặc 235 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), là vị vua đầu tiên của nước Nam Việt, án ngữ tại Quảng Đông và miền bắc Việt Nam. Ông vốn là người Trung Quốc, quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山) (ngày nay là huyện Chính Định (正定), tỉnh Hà Bắc), miền Bắc Trung Quốc."
+  "entityName" : "Châu Thuợng Văn",
+  "aliases" : [ "Thơ Đồng" ],
+  "overview" : "Ông nhiệt thành yêu nước, cùng các đồng chí tâm giao hăng say tích cực hoạt động cứu nước. Năm Mậu thân 1908, nhân vụ kháng sưu chống thuế ông bị bắt giam. Ngay từ ngày vào ngục, ông tuyệt thực, chỉ uống nước trà cầm hơi. Trên 20 ngày, nhà cầm quyền vẫn thản nhiên, lại đưa ông đi đày Lao Bảo. Nhưng đến Huế thì ông mất trong lao Phủ Thừa. Khi ông vào ngục, gặp các đồng chí, lúc ấy sức khỏe ông đã suy giảm lắm rồi, gượng bảo cùng Hoàng Thúc Kháng: \"Tôi tuyệt thực chết đi vẫn là làm việc dễ; còn phần khó xin các anh em cố gắng thành toàn công cuộc cứu nước\". Hoàng Thúc Kháng bình phẩm về ông: \"Bị giam trong ngục mà nhịn ăn, từ thánh Cam địa (Gandhi) Ấn Độ về sau, nhiều nơi bắt chước đã thành việc cơm bữa không lạ gì. Nhưng Châu quân lại trước Cam địa và nhất định tuyệt thực đến chết, cao hơn thánh hùng Cam địa một bậc nhỉ\"."
 }

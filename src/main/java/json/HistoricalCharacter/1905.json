@@ -1,20 +1,17 @@
 {
-  "dateOfBirth" : "Tân Mùi 1751",
-  "dateOfDeath" : "Quí Hợi 1803",
-  "hometown" : "quê làng Hàm Giang, huyện Cẩm Giàng, tỉnh Hải Dương, con trưởng quan Tư không Đinh Công Phục và quận phu nhân Nguyễn Thị",
-  "occupation" : "Võ tuớng đời Lê Hiển tông",
+  "dateOfBirth" : "Quí Mão 1903",
+  "dateOfDeath" : "Bính Thìn 2002",
+  "hometown" : "tại làng Đông Thành (quê mẹ), quê làng Xuân Đông, huyện Quế Sơn, tỉnh Quảng Nam (nay là xã Quế Xuân, huyện Quế Sơn, tỉnh Quảng Nam)",
+  "occupation" : "Giáo sư, nhà giáo nhân dân",
   "workTenure" : "Không rõ",
-  "fatherName" : {
-    "quan Tư không Đinh Công Phục" : null
-  },
-  "motherName" : {
-    "quận phu nhân Nguyễn Thị" : null
-  },
+  "fatherName" : { },
+  "motherName" : { },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 1905,
-  "entityName" : "Đinh Nhạ Hành",
+  "entityName" : "Trần Đình Đàn",
   "aliases" : [ ],
-  "overview" : "Ông thông minh, hiếu học. Thời loạn lạc đành xếp bút nghiên theo việc quân sự làm đến án trấn đất Hưng Hóa. Năm Bính ngọ 1786, tháng 5, Nguyễn Hữu Chỉnh dẫn quân Tây Sơn ra Bắc Hà, biến loạn bộc khởi nhiều nơi, riêng tại Hưng Hóa, Đinh Nhạ Hành chống giữ oanh liệt. Nguyễn Huệ nghe danh ông, lấy sắc mạng vua Lê triệu ông, ông từ chối không đến. Kịp khi Nguyễn Huệ trở về Qui Nhơn, ông về Thăng Long yết vua Lê, được thăng Hiệp trấn Hải Dương. Ông không ưa Nguyễn Hữu Chỉnh, Chỉnh thì kiềng ông, lờ đi. Năm Đinh vị 1787, tháng 10, ông chống nhau với Võ Văn Nhậm tại Võ Xuyên (thuộc huyện Ý Yên). Ông được trao chức Sơn Nam đạo Bình khấu đại tướng quân, tước Hàm Quận Công, đăng đàn bái tướng tại bờ Thuận Giang. Tây Sơn đại thắng, Chiêu Thống sai Trần Danh Án sang cầu viện nhà Thanh. Ông vẫn ra sức chống cự. Em ông là Đinh Thận Võ khuyên nên lui về quê, ông dứt khoát liều chết. Chiêu Thống ẩn náu ở Lạng Giang, sai sứ giả phong ông làm Đông đạo thống lãnh thủy bộ chư dinh Bình khấu đại tướng quân và ủy cho ông tiện đường sang Khâm Châu đón quân Thanh. Năm Mậu thân 1788, tháng 9 ông sang Liêm Châu, Tổng đốc Lưỡng Quảng là Tôn Sĩ Nghị bảo ông về trước. Quân Thanh sang, Tôn Sĩ Nghị phong ông làm Đại tướng, ông nghi ngờ quân Thanh, khuyên Chiêu Thống phải dè dặt. Chiêu Thống không quan tâm đến lời ông, ông dâng sớ xin cáo quan về làng. Chiêu Thống phải an ủi lưu ông ở lại. Nhưng từ đấy ông không tin Tôn Sĩ Nghị và quân Thanh, mọi việc đều lo liệu lấy. Có lần phẫn chí thái quá, ông gieo mình xuống sông tự vẫn, các thuộc hạ vớt lên, ông không ngớt buồn phiền. Năm Kỉ dậu 1789, Lê Chiêu Thống chạy theo đám tàn quân Thanh sang Trung Quốc, ông cũng theo phò, ngậm đắng nuốt cay trước thái độ bạc đãi của triều đình Mãn Thanh. Năm Quí hợi 1803, mùa xuân, nghe tin Gia Long thống nhất đất nước, ông cùng Lê Quýnh dâng biểu xin về nước ca. Vua Thanh không cho, bảo là chờ có sứ ta sang cầu phong sẽ liệu sau. Đến tháng 7 ông bệnh nặng rồi mất, hưởng dương 52 tuổi, lưu lạc ở Trung Quốc 14 năm. Sau, con ông rước linh cữu ông theo hài cốt Lê Chiêu Thống về chôn cất tại quê nhà. Đến đời Tự Đức, mộ phần ông được trùng tu lại."
+  "overview" : "Năm 1917-1921 đậu Tiểu học rồi Thành Chung, năm tiếp theo một mình ông ra Hà Nội thi đậu học bổng vào trường Albert Sarraut. Ba năm sau ông thi đỗ Tú tài toàn phắn rồi đậu vào học ban văn chương trường Cao đẳng sư phạm Đông Dương (Hà Nội). Năm 1926 ông tốt nghiệp Cao đẳng sư phạm được bổ về dạy lớp bổ túc dành cho những học sinh chuẩn bị thi vào trường Quốc học - Huế. Tại Huế ông tháp tùng chí sĩ Phan Bội Châu ra các trường ở Quảng Trị cổ động phong trào yêu nước. Trong khi đó tại trường Đông Ba các lớp học do ông phụ trách bãi khóa ông kí đơn ủng hộ học sinh nên bị chuyển đến làm việc tại trường Đồng Khánh (Huế) một thời gian ngắn rồi đổi ra trường Quốc học - Vinh. Dạy tại Quốc học Vinh một thời gian ông bị buộc nghỉ dạy quản chế tại quê nhà năm năm, vì tham gia và ủng hộ các cao trào phản đối thực dân Pháp và Nam triều. Năm 1934 được trả tự do, ông tìm cách liên lạc với các bạn bè, đồng nghiệp cùng cảnh ngộ. Tại Huế ông cùng các giáo sư Tôn Quang Phiệt, Hoài Thanh, Đào Duy Anh, Trần Hữu Duẩn cùng thành lập trường tư thục Thuận Hóa ở Huế và dạy tại trường này đến cách mạng tháng Tám năm 1945. Sau năm 1945, ông được Bộ trưởng Quốc gia Giáo dục ở Hà Nội mời làm việc ở Bộ. Sau ngày khảng chiến toàn quốc về Quảng Nam làm ủy viên Giáo dục trong ủy ban kháng chiến hành chánh tỉnh Quảng Nam. Năm 1946 ông ra Nghệ An giữ chức Giám đốc các lớp đào tạo giáo viên Trung học Trung Bộ, rồi Giám đốc Sở Bình Dân học vụ Trung Bộ. Sau hiệp định Genève, ông tập kết ra Bắc làm việc ở Bộ Giáo dục cho đến ngày hưu trí (1964). Sau ngày thống nhất đất nước ông về sống ở Đà Nẵng cho đến ngày qua đời. Năm 1994, ông được chính phủ Việt Nam phong tặng danh hiệu Nhà giáo nhân dân, ông là thầy dạy của các học trò nổi danh trên sinh hoạt văn chương văn hóa Việt Nam: Bác sĩ Nguyễn Khắc Viện (1914-1997), kiến trúc sư tài danh Ngô Viết Thụ (1926-2000), nhà giáo, nhà văn Nguyễn Minh Vỹ và nhà thơ, dịch giả tài hoa Bùi Giáng (1926-1998)... Giáo sư Trần Đình Đàn suốt đời là một thầy giáo trong ý nghĩa đích thực của nghề nghiệp với sự nghiệp thụ nhân của ông."
 }

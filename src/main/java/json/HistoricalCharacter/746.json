@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "1488 Thăng Long",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Ất Tị 1905",
+  "dateOfDeath" : "Canh Dần 1950",
+  "hometown" : "quê xã Đạo Thành, huyện Châu Thành, tỉnh Mĩ Tho (nay thuộc thành phố Mĩ Tho, tỉnh Tiền Giang)",
+  "occupation" : "Luật sư",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "nhà Hậu Lê" : null
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 746,
-  "entityName" : "Nguyễn Thị Cận",
-  "aliases" : [ "Nguyễn Thị Cẩn (阮氏瑾)", "Chiêu Nhân Hoằng Ý hoàng thái hậu 昭仁弘懿皇太后", "Thị thiếp" ],
-  "overview" : "Nguyễn Thị Cận (chữ Hán: 阮氏瑾; ? - 1488 ) là một phi tần của Lê Hiến Tông Lê Tranh, mẹ đẻ của Lê Uy Mục Lê Tuấn. Đương thời gọi bà là Chiêu Nhân thái hậu (昭仁太后), sử gia Lê Quý Đôn chép trong Đại Việt thông sử gọi bà là Hiến Tông Nguyễn hoàng hậu (憲宗阮皇后)."
+  "entityName" : "Nguyễn Thành Vĩnh",
+  "aliases" : [ ],
+  "overview" : "Sau ngày Nam Bộ kháng chiến, rồi thành lập ủy ban kháng chiến hành chánh Nam Bộ, ông được cử giữ chức Ủy viên Tài chánh, Kinh tế. Ông hi sinh trong bưng biền Đồng Tháp."
 }

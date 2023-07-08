@@ -1,16 +1,14 @@
 {
-  "dateOfBirth" : "Giáp Thìn 1724",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê ở Tiên Do, tỉnh Bắc Ninh, sau dời sang ngụ ở làng Bách Tính, huyện Nam Trực, tỉnh Nam Định",
-  "occupation" : "Văn thần đời Lê Hiển tông",
-  "workTenure" : "Không rõ",
+  "dateOfBirth" : "22 tháng 9 năm 1606 huyện Mễ Chi, tỉnh Thiểm Tây, Trung Quốc.",
+  "dateOfDeath" : "1645",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế nhà Đại Thuận",
+  "workTenure" : "1644 – 1645",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
-  },
+  "eraName" : { },
   "id" : 2101,
-  "entityName" : "Ngô Trần Thực",
-  "aliases" : [ ],
-  "overview" : "Ông thuở trẻ thông minh, hiếu học, nhưng nhà nghèo, trong làng có vị tiến sĩ có hai người con gái ý muốn gả cho ông, giúp đỡ ông lập thân. Bèn mời ông đến ân cần thăm hỏi, rồi vị tiến sĩ bảo ông đối thử vế ra: \"Hữu nhị khổng tước\" (có hai chim công, ám chỉ hai con gái ông). Ông nghiêm túc đối đáp: \"Thành ngũ thái long\" (thành con rồng năm sắc). Nghe khẩu khí ấy, vị tiến sĩ tin tưởng tương lai ông ắt thành đạt, bèn gả con cho và hết lòng dạy bảo. Năm Canh thìn 1760, ông đỗ tiến sĩ, 36 tuổi, nổi tiếng thơ văn, tài đức được sĩ phu trọng vọng, làm đến Đông các đại học sĩ."
+  "entityName" : "Lý Tự Thành",
+  "aliases" : [ "Niên hiệu Vĩnh Xương (永昌) Thụy hiệu Lập Chí Hoàng đế (立志皇帝) Tiên Đế Miếu hiệu Cao Tổ (高祖)", "Thành", "Đại Thuận Hoàng đế (大顺皇帝)" ],
+  "overview" : "Lý Tự Thành (李自成) (1606-1645) nguyên danh là Hồng Cơ (鴻基), là nhân vật thời \"Minh mạt Thanh sơ\" trong lịch sử Trung Quốc, ông đã lãnh đạo cuộc khởi nghĩa lật đổ nhà Minh vào năm 1644, chiếm được kinh thành, lên ngôi hoàng đế, tự xưng là Đại Thuận hoàng đế lập ra nhà Đại Thuận."
 }

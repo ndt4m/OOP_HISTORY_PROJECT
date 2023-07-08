@@ -1,18 +1,16 @@
 {
   "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Chúa",
-  "workTenure" : "1738—1765",
-  "fatherName" : {
-    "Chúa Ninh" : null
-  },
+  "dateOfDeath" : "Bính Thìn 1196",
+  "hometown" : "người đất Phú Cầm",
+  "occupation" : "Thiền sư đời Lý Anh tông, không rõ tên thật",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Đàng Trong - Chúa Nguyễn" : 5
+    "Nhà Lý" : 14
   },
   "id" : 500,
-  "entityName" : "Vũ Vương",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Phúc Khoát (chữ Hán: 阮福濶), hay Nguyễn Thế Tông, húy là Hiểu (chữ Hán: 曉), còn gọi là Chúa Võ, hiệu Vũ vương hay Võ vương (1714–1765) là vị chúa Nguyễn thứ 8 của chính quyền Đàng Trong trong lịch sử Việt Nam, ở ngôi từ năm 1738 đến năm 1765."
+  "entityName" : "Tô Minh Trí",
+  "aliases" : [ "Minh Trí" ],
+  "overview" : "Ông trụ trì chùa Phúc Thánh, về sau ông được truyền tâm ấn, đứng vào thế hệ thứ 10 dòng Thiền Quan Bích. Năm Bính thìn 1196, ông mất. Tương truyền: ông sáng tác nhiều thơ văn nhưng đã thất lạc, chỉ còn truyền tụng 2 bài kệ, sau đây là một bài: \"Giáo ngoại khả biệt truyền, Hi Di tổ Phật uyên. Nhược nhân dục biên dịch, Dương diệm mịch cầu yên.\" Nghĩa: Truyện riêng ngoài giáo lí Vi diệu ấy nguồn Thiền. Nếu ai muốn phân biệt, Tìm khói trong ảo huyền"
 }

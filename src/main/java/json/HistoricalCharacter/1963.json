@@ -1,17 +1,16 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Kỉ Hợi 1959",
-  "hometown" : "nguyên quán, sinh năm nào, chỉ biết mất năm 1959",
-  "occupation" : "Tác giả, ngụ ở Hà Nội",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê ở Ái Châu (Thanh Hóa)",
+  "occupation" : "Thiền sư đời Bắc thuộc, quê ở Ái Châu (Thanh Hóa)",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Bắc thuộc lần lần 3" : 1
   },
   "id" : 1963,
-  "entityName" : "Đỗ Thận",
-  "aliases" : [ ],
-  "overview" : "Ông học chữ Hán từ nhỏ, sau học trường Thông ngôn và bắt đầu làm thông ngôn ở Tòa đốc lí Hà Nội. Sau ra làm việc cho nhà in Schneider ở Hà Nội, trường Đông Kinh nghĩa thục. Một thời gian sau ông vào làm ở Nha Học chánh, ban tu thư của Phủ Thống sứ và được hàm tri phủ, sau thăng bố chính ĐỗThận, từng ứng cử Hội đồng thành phố Hà Nội, tham gia vào nhiều hội thân Pháp và làm chủ bút báo Khai hóa, trợ bút báo Nam phong... trong khi làm việc tu thư, ông dịch một số tác phẩm ra chữ Pháp như cuốn Việt Nam nhân thần Giám của Hoàng Cao Khải và soạn sách dạy tiếng Pháp. Tác phẩm: - Cải lương hương chính, in trên Nam phong (1925) - Quan hôn tang tế. Nam phong (1925) - Une version annamite du Conte de Cendrillon. Tập san Viễn Đông bác cổ, số 7 (1927). - Méthode pratique pour l'étude du français à l'usage des annamites, Hà Nội, (1926). - Méthode pratique pour l'étude du Quốc ngữ à l'usage des écoles annamites, Hà Nội (1927) Và một số sách giáo khoa khác."
+  "entityName" : "Đại Thặng Đăng",
+  "aliases" : [ "Đại Thặng Đăng" ],
+  "overview" : "Ông tư chất thông minh, thuở trẻ theo cha mẹ ra nước ngoài buôn bán, đi thăm các di tích Phật giáo, tại Ấn độ, ông phát nguyện tu hành nơi xứ Phật. Ít lâu, có sứ bộ nhà Đường sang Ấn, ông được mời sang Trung Quốc để cùng nghiên cứu thêm đạo Phật ông từng theo học với thầy Tam Tạng Trần Huyền Trang tại chùa Từ Ân. Ở Trung Quốc ngót 8 năm, ông lại trở về Nam Ấn, xuống Đông Ấn tu tập đến 12 năm nữa, ngụ ở xứ Đam Ma Lập Để. Sau ông mất tại chùa Bát Niết bàn thọ 60 tuổi. Còn đề lại công trình chú giải bộ Diên sinh luận và nhiều kênh khác."
 }

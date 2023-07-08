@@ -1,14 +1,16 @@
 {
   "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "xã Yên Việt, huyện Siêu Loại, Kinh Bắc (nay là thôn Cửu Yên thuộc xã Ngũ Thái, huyện Thuận Thành tỉnh Bắc Ninh), đỗ đầu đệ nhất giáp tiến sĩ cập đệ (Trạng nguyên) khoa tháng tư, Nhâm Thìn, Hồng Đức năm thứ 3 (1472), đời Lê Thánh Tông cùng Nguyễn Toàn An, Vương Khắc Thuật đỗ đệ nhất giáp tiến sĩ cập đệ;",
-  "occupation" : "Không rõ",
+  "dateOfDeath" : "Đinh Sửu 1817",
+  "hometown" : "quê làng Chương Nghĩa, tỉnh Quảng Ngãi không rõ năm sinh",
+  "occupation" : "Võ tướng, tác giả đời Gia Long, quê làng Chương Nghĩa",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
+  },
   "id" : 609,
-  "entityName" : "Vũ Kiệt",
+  "entityName" : "Trần Công Hiến",
   "aliases" : [ ],
-  "overview" : "Vũ Kiệt (chữ Hán: 武傑,1452 - ?), người xã Yên Việt, huyện Siêu Loại, Kinh Bắc (nay là thôn Cửu Yên thuộc xã Ngũ Thái, huyện Thuận Thành tỉnh Bắc Ninh), đỗ đầu đệ nhất giáp tiến sĩ cập đệ (Trạng nguyên) khoa tháng tư, Nhâm Thìn, Hồng Đức năm thứ 3 (1472), đời Lê Thánh Tông cùng Nguyễn Toàn An, Vương Khắc Thuật đỗ đệ nhất giáp tiến sĩ cập đệ; bọn Vũ Đức Khang 7 người đỗ đệ nhị giáp tiến sĩ xuất thân; bọn Chử Phong 16 người đỗ đệ tam giáp đồng tiến sĩ xuất thân. Do ngôi làng quê ông có tên Nôm là làng Vít nên dân gian quen gọi Vũ Kiệt là Trạng Vít (Trạng làng Vít) ."
+  "overview" : "Thuở nhỏ ông theo nho học, khoảng năm 1793 ông tòng quân và vào Thị Nại (Qui Nhơn) yết kiến Nguyễn Ánh rồi được tin dùng phong chức Tổng nhung cai cơ, Trung quân chính thống hậu đồn, Khâm sai chưởng cơ. Sau khi Nguyễn Ánh lên ngôi vua ông được bổ giữ chức trấn thủ Hải Dương. Tại đây ông giao du thân mật với Nguyễn Thế Trung, Trần Huy Phác lập Hải học đường tại Hải Dương. Vào cuối đời, ông được phong tước Ân Quang Hầu. Ông là tác giả các sách: - Danh thi hợp tuyển - Đại Việt thủy lục trình kí - Lịch đại sử toản yếu - Cố Lê tứ trường văn tuyển Danh thi hợp tuyển có bài Tựa của ông như sau (trích): Bản dịch: \"... Nước ta vốn gọi là nước có văn hiến, thơ của nước ta có tiếng hay lại thường được người Trung Quốc coi trọng. Hiềm vì những thơ để ngâm vịnh của người xưa có đem in cho mọi người xem, cũng chỉ được một hai phần. Đến như thơ văn gương mẫu của các đại gia văn chương của các thi gia, cùng là các bài ứng chế hợp cách và các tập thơ biên soạn có tiếng có quan hệ đến nghề thi cử, thật ra rất nhiều. Thế mà những thơ văn được đem ra truyền lẫn cho nhau thì thật ít lắm. Tôi vốn dòng dõi nhà nho, lúc trẻ đi theo việc binh, ít được nghe thấy, nhưng vốn tính tôi ham học, thường nhiều lúc nói đến thơ. Mỗi khi rảnh việc công, hỏi khắp các quan phủ, huyện trong hạt, và các vị hương cống mới hay cũ là người bản trấn, ai còn giữ được di cảo thơ văn thì đừng giữ riêng mà nên đưa công bố chung cho mọi người cùng xem. Ai nấy đều có ý mến tôi, đưa cho xem. Tuy đã lượm lặt được khá nhiều rồi, nhưng mà như lời người xưa đã nói \"Nhiều rồi chăng\" chưa nhiều đâu. Tôi lại đem hỏi quan Đốc học là Trung Chính bá và quan trợ giáo Thời Đức Nam, nhờ hai vị ấy hiệu đính sắp xếp lại, đưa cho thợ khắc in.\" Theo tác giả Tìm hiểu kho sách Hán Nôm (Trần Văn Giáp) thì: Mục lục sách kể rõ 12 quyển gổm 1.669 bài luật thi."
 }

@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Kỉ Mão 1819",
-  "dateOfDeath" : "Kỉ Mão 1879",
-  "hometown" : "quê làng Động Trung (nay là Võ Trung), huyện Kiến Xương, tỉnh Thái Bình",
-  "occupation" : "Danh sĩ, Chí sĩ",
+  "dateOfBirth" : "Canh Dần 1170",
+  "dateOfDeath" : "Quí Tị 1233",
+  "hometown" : "Bắc Ninh",
+  "occupation" : "Thiền sư đời Lý Huệ tông",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+    "Nhà Lý" : 14
   },
   "id" : 1086,
-  "entityName" : "Nguyễn Mậu Kiến",
-  "aliases" : [ "Kinh Đài" ],
-  "overview" : "Ông đỗ khoa hoành từ (ngang với hoàng giáp tức nhị giáp tiến sĩ) làm đến Án sát. Ông có lòng yêu nước, từng mộ quân chống giặc Pháp trong năm Quí dậu 1873, ông tích cực chiến đấu, nhưng thế yếu đành lui về quê rồi bệnh mất trong năm Kỉ mão 1879, thọ 60 tuổi. Về trước, ông từng dạy học, viết sách, phát triển nghề nông, giúp đỡ người nghèo đói, đương thời được sĩ phu trọng vọng. Hai con ông là Nguyễn Hữu Bản và Nguyễn Hữu Cương cũng đều tận tụy hi sinh vì nước. Khi ông mất các văn thân Thái Bình có câu đối điếu ông: \"Bất tùy tử nhi vong, thư bản bách niên phù thế giáo; Khả vị sinh giả hận, sơn phòng nhất sự khuất thời anh\". Bản dịch: Không theo cái chết mà chết, ván in sách trăm năm còn nâng đỡ nền giáo hóa ở đời; Có thể nói người sống còn ân hận, một việc sơn phòng làm nhụt chí khí anh hùng của người đương thời. Tác phẩm của ông gồm: - Kinh Đài tạp vịnh - Dịch lí tân biên - Chiêm thiên tham khảo - Minh sử luận đoán khảo biện"
+  "entityName" : "Ngô Trạm",
+  "aliases" : [ "Tịnh Lực" ],
+  "overview" : "Ông hiểu Phật học sâu rộng, biện thuyết rất khéo, đời xưng tặng là Khẩu trung hùng hoàng. Ông trụ trì trong ngôi chùa nhỏ thuộc tỉnh Bắc Ninh, thu phục hàng ngàn đệ tử. Từ đây chùa trở nên nơi hội tụ nhiều tăng chúng có tiếng. Năm Quí tl 1233, ông mất, thọ 63 tuổi. Khi sắp mất, ông khuyên bảo đệ tử \"Lòng không có nhát sợ gì, hiểu suốt mọi nghĩa, xa chốn u mê, an trụ không lay động. Quán hết thảy mọi sự là chỗ vô thường vô ngã, vô tác, vô vi. Như thế mới là người học đạo\". Rồi ông đọc bài kệ: Tiên tuy ngôn cát hậu ngôn hung, Thư vị tổ tiên húy bất tùng. Vị ngộ kiến long vi Phật tử, Hốt tao thử xuất tịch vô cùng"
 }

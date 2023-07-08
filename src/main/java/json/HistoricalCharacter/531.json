@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Quí Dậu 1033",
-  "hometown" : "Quê huyện Đông Ngạn, tỉnh Bắc Ninh",
-  "occupation" : "Thiền sư đời Lý Thái tông, không rõ tên thật",
+  "dateOfBirth" : "Canh Thân 1740",
+  "dateOfDeath" : "Canh Thân 1800",
+  "hometown" : "quê huyện Kì Hoa (nay là huyện Cẩm Xuyên, Kì Anh) tỉnh Nghệ An",
+  "occupation" : "Văn thần nhà Tây Sơn, dòng dõi Lê Công Triều",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Lý" : 14
+    "Nhà Tây Sơn" : 21
   },
   "id" : 531,
-  "entityName" : "Nghiên Bảo Tính",
-  "aliases" : [ "Bảo Tính" ],
-  "overview" : "Ông có học thức cao, nhưng chán đường công danh, cùng với hai bạn là Phạm Minh Tâm và Mai Trực (tức thiền sư Viên Chiếu) học đạo với sư La Định Hương. Về sau, ông và Phạm Minh Tâm chia nhau đi thuyết giáo ở các địa phương, lập nên những tùng lâm lớn, có uy tín trong dân gian, thu hút đệ tử thọ giáo rất nhiều. Triều đình nghe tiếng, nhà vua có lời ngợi khen và sẵn lòng hỗ trợ việc hoằng pháp, các sĩ phu cũng tỏ lòng trọng vọng. Năm Quí dậu 1033 ông mất, triều đình ban chiếu rước tro xác hỏa thiêu của ông về chùa Trường Thánh và truyền xây tháp ở chùa Quán Đình trên núi Không Lộ."
+  "entityName" : "Lê Công Miễn",
+  "aliases" : [ ],
+  "overview" : "Ông sinh ngày 19-5-1740, cha là Lê Công An, mẹ họ Đỗ. Thuở trẻ ông cùng anh vào Phú Xuân học, ngụ nơi nhà viên Thái giám Liêu Thẩm Hầu Nguyễn Quang Vĩnh là một nhà có rất nhiều sách. Nhờ vậy ông học rất giỏi, nhưng ba lần đi thi đều không đỗ. Khi quân chúa Trịnh chiếm Thuận Hóa (1775), có cho người mời ông ra làm quan nhưng ông từ chối rồi lánh về quê. Đến khi nghĩa quân Tây Sơn phát triển mạnh, Nguyễn Nhạc cho mời ông một cách ân cần, ông nhận lời. Từ đó ông làm Hàn lâm thị độc rồi thăng Thị lang bộ Lễ. Năm 1795, ông vào Phú Xuân giúp vua Cảnh Thịnh, giữ chức Đô ngự sử Đô sát viện. Ít lâu, thăng hàm Thượng thư bộ Hình. Ngày 24-12 năm 1800 ông mất, thọ 60 tuổi."
 }

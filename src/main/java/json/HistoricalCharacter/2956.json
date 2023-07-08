@@ -1,14 +1,21 @@
 {
-  "dateOfBirth" : "Khoảng đầu thế kỷ 15 Chương Đức, Sơn Nam, Đại Việt",
-  "dateOfDeath" : "không rõ Đại Việt",
+  "dateOfBirth" : "1588\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "1619 (30–31 tuổi) Đông Kinh, Đại Việt\n----------------------------------------------\nKhông rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Sử gia",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
+  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua",
+  "workTenure" : "1599 – 1619\n----------------------------------------------\n1599–1619",
+  "fatherName" : {
+    "Lê Thế Tông" : 314
+  },
+  "motherName" : {
+    "Ý Đức hoàng thái hậu" : null
+  },
+  "eraName" : {
+    "Nhà Lê trung hưng" : null,
+    "Nam triều – Nhà Hậu Lê – giai đoạn Lê Trung hưng" : 28
+  },
   "id" : 2956,
-  "entityName" : "Ngô Sỹ Liên",
-  "aliases" : [ ],
-  "overview" : "Ngô Sĩ Liên (chữ Hán: 吳士連) (khoảng đầu thế kỷ 15 - ?) là một nhà sử học thời Lê sơ, sống vào thế kỷ 15. Ông là người đã tham gia khởi nghĩa Lam Sơn và có công lớn trong việc biên soạn bộ Đại Việt sử ký toàn thư - bộ quốc sử chính thống cũ nhất của Việt Nam mà còn được lưu truyền tới ngày nay."
+  "entityName" : "Lê Kính Tông",
+  "aliases" : [ "Thận Đức (慎德: 1600 - 1601) Hoằng Định (弘定: 1601 - 1619)", "Kính Tông (敬宗)", "Lê Duy Tân (黎維新)", "Hiển Nhân Dụ Khánh Tuy Phúc Huệ Hoàng đế (显仁裕庆绥福惠皇帝) Giản Huy Hoàng đế (簡輝皇帝)" ],
+  "overview" : "Lê Kính Tông (chữ Hán: 黎敬宗, 1588 – 1619), có tên là Lê Duy Tân (黎維新), là vị hoàng đế thứ năm của nhà Lê trung hưng trong lịch sử Việt Nam, người huyện Thọ Xuân, Thanh Hóa, Việt Nam. Ông làm vua từ năm 1599 đến năm 1618.\n----------------------------------------------\nLê Kính Tông (chữ Hán: 黎敬宗 1588 – 23 tháng 6 năm 1619) có tên là Lê Duy Tân (黎維新), là vị Hoàng đế thứ 5 của nhà Lê Trung hưng và thứ 16 của nhà Hậu Lê trong lịch sử Việt Nam, người huyện Thọ Xuân, Thanh Hóa. Ông làm vua từ năm 1599 đến năm 1619."
 }

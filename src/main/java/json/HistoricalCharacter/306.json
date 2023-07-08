@@ -1,16 +1,14 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Bính Ngọ 1786",
-  "hometown" : "quê quán",
-  "occupation" : "Danh tướng nhà Tây Sơn",
+  "dateOfBirth" : "1468",
+  "dateOfDeath" : "1545",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Nhà Tây Sơn" : 21
-  },
+  "eraName" : { },
   "id" : 306,
-  "entityName" : "Ngụy Nguyên",
+  "entityName" : "Nguyễn Uông",
   "aliases" : [ ],
-  "overview" : "Khi Tây Sơn dứt họ Trịnh, phù Lê, ông vâng mạng chủ tướng Nguyễn Huệ đem binh vào Nam trấn giữ, chống nhau với Nguyễn Ánh. Bấy giờ tướng của Nguyễn Ánh là Võ Tánh hùng cứ miền Gò Công (nay thuộc Tiền Giang) với một lực lượng hùng hậu trên tám nghìn quân sĩ, gọi là đạo Kiến Hòa, ông dốc toàn lực tiến công dữ dội vào căn cứ của Võ Tánh. Nhiều trận giao tranh ác liệt trên địa bàn Gò Công - Mĩ Tho nhưng gặp phải sức chống cự mạnh mẽ của quân Võ."
+  "overview" : "Nguyễn Uông là con trai cả của danh tướng Nguyễn Kim (1468-1545) và là anh trai của chúa Nguyễn Hoàng."
 }

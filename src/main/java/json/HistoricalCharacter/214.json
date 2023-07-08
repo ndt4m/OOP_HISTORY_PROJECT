@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "người làng Uông Hạ, huyện Thanh Lâm, châu Thượng Hồng (nay là thôn Uông Hạ, xã Minh Tân, huyện Nam Sách, tỉnh Hải Dương).",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Canh Ngọ 1810",
+  "dateOfDeath" : "Nhâm Dần 1902",
+  "hometown" : "Quê ở giồng Tân Quy, huyện Tân Hòa, tỉnh Gia Định (sau thuộc Gò Công, nay thuộc tỉnh Tiền Giang)",
+  "occupation" : "Tức Thái hậu Từ Dũ, mẹ vua Tự Đức, con gái Quốc công Phạm Đăng Hưng",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
+  },
   "id" : 214,
-  "entityName" : "Trần Quốc Lặc",
-  "aliases" : [ "Mạnh Đạo Đại Vương" ],
-  "overview" : "Trần Quốc Lặc (chữ Hán: 陳國扐, ? - ?) là Trạng nguyên của Việt Nam, ông là người làng Uông Hạ, huyện Thanh Lâm, châu Thượng Hồng (nay là thôn Uông Hạ, xã Minh Tân, huyện Nam Sách, tỉnh Hải Dương). Tháng 2 năm 1256, ông đỗ Kinh trạng nguyên khoa Bính Thìn niên hiệu Nguyên Phong thứ 6, đời Trần Thái Tông, cùng khoa với Trại trạng nguyên Trương Xán, bảng nhãn Chu Hinh, thám hoa lang Trần Uyên . Làm quan đến Thượng thư. Sau khi mất, vua phong làm Phúc thần, hiệu là Mạnh Đạo Đại Vương ."
+  "entityName" : "Phạm Thị Hằng",
+  "aliases" : [ "Từ Dũ Thái Hậu" ],
+  "overview" : "Năm 14 tuổi bà tiến cung và trở nên vợ của Thái tử Dung tức Nguyễn Phúc Miên Tông (con vua Minh Mạng). Sau, Miên Tông lên ngôi, bà trở thành quí phi, sinh thái tử Thì tức Nguyễn Phúc Hồng Nhậm. Chổng mất, con bà nối nghiệp (tức vua Tự Đức), bà được tấn phong tôn hiệu là Từ Dũ Bát Huệ Thái hoàng Thái hậu. Đến đời Thành Thái, bà được long trọng dâng tôn hiệu là \"Từ Dũ Bát Huệ Khương Thọ Thái thái hoàng thái hậu\", trong dịp mừng bà thọ 80 tuổi. Đến ngày 12-5-1902 (mùng 5 tháng 4 Nhâm dần) bà mất, thọ 92 tuổi. Tôn thụy bà là Nghi thiên Tán thánh Từ Dũ Bát huệ Trai túc Huệ đạt Thọ đức Nhân công Chương hoàng hậu, gọi tắt là Từ Dũ Nghi Thiên Chương Hoàng hậu."
 }

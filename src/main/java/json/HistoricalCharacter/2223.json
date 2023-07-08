@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "719 Tứ Xuyên, Trung Quốc",
-  "dateOfDeath" : "15 tháng 8, 756 (38 tuổi) Mã Ngôi Dịch, Hàm Dương",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Quê làng Lương Xá, huyện Chương Đức, tỉnh Hà Đông (nay thuộc tỉnh Hà Tây)",
+  "occupation" : "Đại thần đời Lê Trung Hưng, dòng dõi Đặng Huấn, con Đặng Đình Tướng",
   "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Dương Huyền Diễm" : null
-  },
+  "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
   "id" : 2223,
-  "entityName" : "Dương Ngọc Hoàn",
-  "aliases" : [ "[Thọ vương phi; 壽王妃] [Thái Chân đạo sĩ; 太真道士] [Quý phi; 貴妃]", "Dương Thái Chân", "Tên đầy đủ Không ghi lại Tên tự Ngọc Hoàn (玉環), hoặc Ngọc Nô (玉奴) Tên hiệu Thái Chân (太真)" ],
-  "overview" : "Dương Quý phi (chữ Hán: 楊貴妃, 719 – 756), còn gọi là Dương Ngọc Hoàn (楊玉環) hay Dương Thái Chân (楊太真), là một phi tần rất được sủng ái của Đường Huyền Tông Lý Long Cơ. Trong văn hóa Trung Hoa, bà được xếp vào một trong Tứ đại mỹ nhân của lịch sử Trung Quốc, có sắc đẹp được ví là Tu hoa (羞花), khiến hoa thu mình lại vì hổ thẹn."
+  "entityName" : "Đặng Đình Gián",
+  "aliases" : [ ],
+  "overview" : "Nhà họ Đặng này trải mấy đời đều là quan lớn trong triều. Các anh em ông là Đình Hiền, Đình Quỳnh cũng đều hiển đạt. Ông làm Đốc phủ Sơn Nam, SơnTây, Kinh Bắc. Tước Đổng quận công."
 }

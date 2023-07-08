@@ -1,18 +1,16 @@
 {
-  "dateOfBirth" : "Quí Mùi 983\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "Ất Tị 1005\n----------------------------------------------\nKhông rõ",
-  "hometown" : "Nam Định\n----------------------------------------------\nKhông rõ",
-  "occupation" : "Vua nhà Tiền Lê, có tên húy khác nữa là Huyên\n----------------------------------------------\nVua",
-  "workTenure" : "1005—1005",
-  "fatherName" : {
-    "Lê Đại Hành" : 2974
-  },
+  "dateOfBirth" : "Canh Tị 1840",
+  "dateOfDeath" : "Bính Tuất 1886",
+  "hometown" : "nguyên quán làng Lương Ngọc, huyện Bình Giang, tỉnh Hải Dương (nay thuộc Hải Dương), ngụ xã Kim Cổ, huyện Thọ Xương, Hà Nội",
+  "occupation" : "Danh sĩ đời ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Tiền Lê" : 8
+    "Nhà Nguyễn độc lập" : 30
   },
   "id" : 1695,
-  "entityName" : "Lê Trung Tông",
-  "aliases" : [ "Lê Trung Tông" ],
-  "overview" : "Lê Trung Tông có thể là:\n----------------------------------------------\nÔng là con thứ ba Đại Hành hoàng đế Lê Hoàn. Khi trước ông đã được vua cha định cho nối ngôi (ngôi Thái tử đáng lý thuộc về Lê Ngân Tích), nhưng sau khi vua cha mất đi, các anh em ông đánh nhau tranh ngôi. Cầm đầu là Đông Thành vương Lê Ngân Tích, Trung Quốc vương Lê Long Cảnh, Khai Minh vương Lê Long Đĩnh. Đánh nhau trong 7 tháng, đến tháng 10 năm Ất tị 1005, ông mới được tôn vương, song chỉ được 3 ngày thì bị giết, mới 22 tuổi. Long Đĩnh nối ngôi tức Lê Ngọa Triều, còn Đông Thành vương Lê Ngân Tích thì bỏ trốn.\n----------------------------------------------\nTiền Lê Trung Tông (chữ Hán: 前黎中宗 983 – 1005) là vị hoàng đế thứ hai của nhà Tiền Lê. Khi vua cha Lê Đại Hành mất, Thái tử Lê Long Việt vâng theo di chiếu nối ngôi nhưng bị anh em tranh chấp ngôi báu trong 8 tháng mới dẹp yên. Khi chính thức lên ngôi được 3 ngày thì bị em là Lê Long Đĩnh sai người đầu độc cướp ngôi vua."
+  "entityName" : "Vũ Nhự",
+  "aliases" : [ "Đông Phần" ],
+  "overview" : "Năm Tân dậu 1861, ông đỗ cử nhân, Mận thìn 1868 đỗ Hoàng giáp, làm quan đến Đốc học Hà Nội, hàm Quang lộc tự khanh, sung Nội các. Có lúc ông lãnh chức Tuần phủ Hà Nội. Sau đó trở về kinh được thăng Tham tri Toản tu Quốc tử giám. Ông nổi tiếng thông minh, lúc trúng tuyển thi Đình, vua có tặng bài thơ: \"Chiết quế thiềm cung duyệt kỉ thu, Lục bào do trứ cựu phong lưu. Thác nghi bái tạ quỳnh lâm yến, Định thị kim triêu hiệu sắc đầu.\" Bản dịch: Bẻ quế cung thiềm trải mấy thâu (thu) Bào xanh còn rõ nếp phong lưu. Ngờ khi lạy tạ Quỳnh lâm yến. Sắc chỉ ngày nay lại đứng đầu. Năm 1866 ông mất, hưởng dương 46 tuổi. Các tác phẩm của ông có: - Quốc sử lãm yếu - Lâm Lang di thảo tập - Phương Đình tùy bút lục - Bảo huấn tập yếu - Yêm bác khoa văn"
 }

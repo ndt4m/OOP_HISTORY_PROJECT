@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Ất Mùi 1775",
-  "hometown" : "Không rõ",
-  "occupation" : "Danh tướng, nhà doanh điền thời chúa Thượng.",
+  "dateOfBirth" : "Canh Tuất 1910",
+  "dateOfDeath" : "Nhâm Tí 1972",
+  "hometown" : "quê làng Hành Thiện xã xuân Hồng, huyện Xuân Truờng, tỉnh Nam Định",
+  "occupation" : "Bác sĩ y khoa",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 1116,
-  "entityName" : "Nguyễn Cửu Đàm",
+  "entityName" : "Đặng Vũ Hỷ",
   "aliases" : [ ],
-  "overview" : "Xuất thân là võ tướng con trai của Chánh thống cai cơ Nguyễn Cửu Vân, làm quan tướng đến chức Hữu quân phó tiết chế cai cơ thời Thượng vương. Năm 1770-1772 quân Xiêm xâm lấn đất Hà Tiên, triều đình cử ông làm khâm sai thống suất đốc chiến, cùng tham tướng Trần Phúc Thành lãnh quân Thủy bộ cùng 30 chiếc thuyền từ sông Tiền Giang, Hậu Giang tiến đánh quân Xiêm (Thái Lan ngày nay), phá tan được giặc, quân Xiêm phải xin hòa và bình định được đất Chân Lạp yên ổn. Từ đó (1772) công việc bình định đất Hà Tiên, Chân Lạp xong, ông đem quân về Gia Định. Trong thời gian này ông cho xây lũy Bán Bích (Tân Hòa) bao quanh đồn trại phía tây lị sở phủ Tân Bình đề phòng sự bất trắc có thể xảy ra. Đến mùa xuân năm Ất mùi (1775) ông chết trận, sau này được vua Gia Long liệt thờ vào miếu Trung tiết công thần tại Huế."
+  "overview" : "Thuở nhỏ ông học tiểu học ở Nam Định, đến tuổi trưởng thành lên Hà Nội học Trung và Đại học y khoa Hà Nội. Năm 1935 sang Pháp học tiếp chương trình y, tốt nghiệp Bác sĩ tại Đại học y khoa Pháp năm 1937. Sau cách mạng tháng 8 và toàn quốc kháng chiến 19-12-1946, ông tham gia kháng chiến chống Pháp trong ngành quân y giảng dạy tại ở trường y học Liên khu III và khu IV ở Thanh Hóa, rồi trường Đại học y Việt Bắc ở Chiêm Hóa. Từ năm 1955 ông giảng dạy tại Đại học y dược Hà Nội, chủ nhiệm bộ môn Da liễu của trường kiêm chủ nhiệm khoa Da Liễu bệnh viện Bạch Mai ở Hà Nội. Trên bước đường phục vụ kháng chiến và dân tộc, ông được Nhà nước Việt Nam tặng nhiều huân chương, huy chương, giải thưởng; trong đó có Giải thưởng Hồ Chí Minh về y học. Ông mất năm 1972 tại Hà Nội, thọ 62 tuổi."
 }

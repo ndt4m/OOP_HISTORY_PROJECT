@@ -1,17 +1,14 @@
 {
   "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
-  "hometown" : "Hải Dương",
-  "occupation" : "Thân vương nhà Mạc",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Nam - Bắc Triều" : 19,
-    "Triều Lê Sơ" : 7
-  },
+  "eraName" : { },
   "id" : 2579,
-  "entityName" : "Mạc Quyết",
-  "aliases" : [ ],
-  "overview" : "Ông cùng với anh là Đăng Dung và Đốc đều là bề tôi nhà Lê, đời Lê Chiêu tông. Đốc được phong tước Trào Quận Công; ông đưọc phong Đông Sơn Hầu, rồi thăng Đông Quận Công; còn Đăng Dung tước Vũ Xuyên Bá, thăng dần đến An Hưng vƯƠNG, bèn sinh lòng cướp quyền mưu đồ dựng nghiệp lớn. Ông cũng tán thành ý đồ của anh, ba anh em ông ngầm kết vây cánh mong lật đổ nhà Lê. Năm Đinh hợi 1527 Đăng Dung cướp quyền vua thành công, có ông làm hậu thuẫn đắc lực và em rể Đăng Dung là Võ Hộ (sau đổi tên là Mạc Bang Hộ) ủng hộ tận tâm. Nhà Mạc thành lập, Đăng Dung phong ông làm Tín vương, Đốc làm Từ vương, Võ Hộ tức Mạc Bang Hộ làm Đô đốc Tĩnh Quốc Công. Ông cùng anh dọc ngang một cõi biên thùy, chống nhau quyết liệt với nhà Lê để giữ cơ đồ, khi ông mất, được truy tặng Uy Tín vương."
+  "entityName" : "Trịnh Châu",
+  "aliases" : [ "Trung Châu" ],
+  "overview" : "Trịnh Châu (giản thể: 郑州; phồn thể: 鄭州; bính âm: Zhèngzhōu), trước đây gọi là Dự Châu hay Trung Châu, là một địa cấp thị và là tỉnh lỵ tỉnh Hà Nam, Trung Quốc. Địa cấp thị này tọa lạc ngay phía bắc của miền trung tỉnh Hà Nam và phía nam sông Hoàng Hà. Thành phố này giáp giới với Lạc Dương về phía tây, Tiêu Tác về phía tây bắc, Tân Hương về phía đông bắc, Khai Phong về phía đông, Hứa Xương về phía đông nam và Bình Đỉnh Sơn về phía tây nam."
 }

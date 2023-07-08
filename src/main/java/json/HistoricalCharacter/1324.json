@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Giáp Ngo 1834",
-  "hometown" : "Không rõ",
-  "occupation" : "Nguời đời Minh Mạng, nổi tiếng võ dũng, cận vệ của Tả quân Lê Văn Duyệt. Ông xuất thân theo làm cận vệ Tả quân Lê Văn Duyệt, rất được tin cẩn. Chịu ân tri ngộ ấy nên sau khi Lê Văn Duyệt mất, bọn gian toa rập nhau làm án Lê Văn Duyệt, ông bèn cùng Lê Văn Khôi và các đồng chí dấy binh khởi nghĩa, Quí tị 1833. Hơn một năm chống cự với binh triều, ông tử trận, cuộc chiến cũng dần dần tan rã.",
+  "dateOfBirth" : "Quí Mùi 1883",
+  "dateOfDeath" : "Đinh Dậu 1957",
+  "hometown" : "quê làng Hải Yến, huyện Tiên Lữ, tỉnh Hưng Yên",
+  "occupation" : "Nhà văn ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 1324,
-  "entityName" : "Đàm Vĩnh Ưng",
-  "aliases" : [ ],
-  "overview" : ""
+  "entityName" : "Đoàn Như Khuê",
+  "aliases" : [ "Quí Huyền", "Hải Nam" ],
+  "overview" : "Thuở nhỏ theo Hán học, từng lều chõng nhiều phen nhưng vẫn \"lạc đệ\". Sau ông bỏ học chữ Hán, tự học Quốc ngữ, cộng tác với các báo Quốc ngữ ở Hà Nội: Nam Phong, Đông Dương tạp chí... Sau năm 1945 ông tham gia Hội Văn hóa Cứu quốc Liên khu III, khi hòa bình tái lập (1954) ông về định cư ở Hà Nội vẫn sống với nghề cầm bút, chuyên về dịch thuật và văn triết cổ Trung Quốc. Thơ Đoàn Như Khuê u trầm, tĩnh lặng diễn tả được tâm thức u hoài của một kiếp nhân sinh vốn mang nhiều hệ lụy. Bể thẳm mênh mông sóng lút trời! Khách trần chèo một lá thuyền chơi Thuyền ai ngược gió ai xuôi gió, Coi lại cùng trong bể thảm thôi. Các tác phẩm chính của ông: - Một tấm lòng (thơ, Hà Nội 1917) - Cảo thơm (thơ toàn tập, Hà Nội 1924) - Luận ngữ cách ngôn (sách Luận ngữ trích dịch ra văn vần dùng làm sách giáo khoa, Hà Nội 1927) - Minh đạo gia huấn (dịch ra văn vần dùng làm sách giáo khoa) - Gương đại gia đình (kí tên Nam Thăng Dã)"
 }

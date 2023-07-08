@@ -1,16 +1,14 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Bính Ngọ 1786",
-  "hometown" : "Quê làng Trảo Nha, huyện Thạch Hà, tỉnh Hà Tĩnh",
-  "occupation" : "Danh tướng đời Lê Hiển tông, Dòng dõi danh tướng Ngô Cảnh Hựu đời Lê Trang tông",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
-  },
+  "eraName" : { },
   "id" : 1946,
-  "entityName" : "Ngô Cảnh Hoàn",
+  "entityName" : "Hoàng Hà",
   "aliases" : [ ],
-  "overview" : "Ông làm đến Tổng binh chỉ huy sứ, Quản đội Tiền Trạch nên đời sau vẫn thường gọi là ông Tiền Trạch. Năm Bính ngọ 1786 Tây Sơn cử binh đánh, ông và hai người con trai cầm quân chống cự quyết liệt trên sông Thúy Ái. Thua to, ông cùng hai con đều tử trận. Vợ ông là Phan Thị Thuấn hay tin, sau đó cũng gieo mình xuống sông Thúy Ái tử tiết."
+  "overview" : "Hoàng Hà (tiếng Hán: 黃河; pinyin: Huáng Hé; Wade-Giles: Hwang-ho, nghĩa là \"sông màu vàng\"), là con sông dài thứ 3 châu Á xếp sau sông Trường Giang (Dương Tử) và sông Yenisei, với chiều dài 5.464 km sông Hoàng Hà xếp thứ 6 thế giới về chiều dài."
 }

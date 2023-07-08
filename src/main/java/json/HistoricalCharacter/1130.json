@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Tân Hợi 1851",
-  "dateOfDeath" : "Quí Sửu 1913",
-  "hometown" : "quê ở Thất Khê tỉnh Lạng Sơn",
-  "occupation" : "Liệt sĩ cận đại",
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Mậu Thân 1428",
+  "hometown" : "quê xã Ma Lộng, huyện Chí Linh, tỉnh Hải Dương",
+  "occupation" : "Tay sai giặc Minh đời hậu Trần",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Hậu Trần" : null
   },
   "id" : 1130,
-  "entityName" : "Hoàng Văn Xa",
-  "aliases" : [ "Khắc Trung" ],
-  "overview" : "Ông người trung nghĩa, cương trực. Mặc dầu làm Chánh quản cơ trại lính khố xanh ở đồn Thất Khê, nhưng lòng ông vẫn hướng về đất nước, không cam tâm làm tay sai cho giặc. Do đó, ông bắt liên lạc được với các chí sĩ yêu nước, ông sẵn sàng làm nội tuyến, ngầm giúp đỡ đắc lực cho các đồng chí bên ngoài. Ít lâu, việc bị phát giác, ông bị bắt giải về tỉnh thành Lạng Sơn. Bị tra tấn dã man, ông vẫn không tiết lộ âm mưu phản kháng gì cả. Trong tù, ông lén viết một bức thư gởi cho đồng chí bên ngoài, từ biệt và nguyện lấy cái chết đền nợ nước. Rồi ông tuyệt thực chết trong ngục Thái Bình trong năm Quí sửu 1913, thọ 62 tuổi."
+  "entityName" : "Trần Phong",
+  "aliases" : [ ],
+  "overview" : "Trần Phong có thể là một trong những nhân vật sau:\n----------------------------------------------\nKhi quân Minh sang xâm lược nước ta, ông ta đem bộ thuộc hàng giặc được phong chức chỉ huy Đồng Tri, Hữu Vệ. Ông từng báo cáo, chỉ điểm giết hại nhiều nhà yêu nước, phá vỡ các phong trào khởi nghĩa gây nhiều nợ máu với nhân dân. Năm 1412 ông giữ chức Đô chỉ huy cùng với Lương Nhữ Hốt là hai tên tàn hại nhiều đồng bào ta. Đến lúc cuộc khởi nghĩa Lam Sơn đến hồi quyết định, bọn Vương Thông xin hòa và rút quân về, ông và Lương Nhữ Hốt xin qui thuận Lê Lợi. Nhưng sau đó ông và Lương Nhữ Hốt lại kết bè đảng âm mưu làm gián điệp cho giặc Minh. Việc bại lộ, do tướng trấn thủ Thái Nguyên là Hoàng Nguyên Ý khám phá được một số mật thư của ông gởi cho tướng Minh ở biên giới xúi giục tướng Minh sang gây hấn, bọn ông sẽ làm nội ứng. Tội ác của ông bị phơi bày, vào khoảng cuối năm Mậu thân 1428, ông và đồng bọn bị đền tội."
 }

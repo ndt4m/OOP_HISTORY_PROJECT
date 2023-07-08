@@ -1,16 +1,14 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Kỉ Dậu 1909",
-  "hometown" : "quê ở Xuân Dục, huyện Đường Hào tỉnh Hưng Yên (nay là làng Xuân Đào, xã Xuân Dục, huyện Mĩ Hào, tỉnh Hưng Yên)",
-  "occupation" : "Chí sĩ yêu nước",
-  "workTenure" : "Không rõ",
+  "dateOfBirth" : "835",
+  "dateOfDeath" : "13 tháng 7, 884",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Đại Tề",
+  "workTenure" : "16/1/881 - 13/7/884",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
-  },
+  "eraName" : { },
   "id" : 1870,
-  "entityName" : "Nguyễn Bá Tuyển",
-  "aliases" : [ "Thận Sinh" ],
-  "overview" : "Khi thân phụ ông rời chiến khu Bãi Sậy ra nước ngoài, ông nối chí cha vẫn hoạt động chống giặc Pháp. Pháp theo dõi, bắt được ông rồi đày ra Côn Đảo. Ngót mười năm tù đày ông mới được thả ra, ông vẫn kiên cường nuôi chí phục thù báo quốc. Năm Mậu thân 1908, ông cùng các chiến hữu tụ họp với Hoàng Hoa Thám. kháng chiến chống Pháp ở Bắc Giang. Năm Mậu dậu 1909, mùa hạ, trong trận đánh ở núi Trư Khẩu, vì có người thổ dân phản bội báo tin và chỉ đường cho Pháp nên chúng bất thần đổ quân đánh úp, ông bị địch bắt và bị giết ngay sau đó vì cương quyết không qui hàng. Phan Bội Châu có bài thơ điếu ông: \"Bằng quân gia phạm chú cương trường Bảo kiếm tung hoành kỉ tuyết sương. Trung hiếu song kiên huyền nhật nguyệt Hiểm di nhất mộng nhậm tang thương Trấp niên phong vũ gia hà tại Bách chiến quan hà quốc vị vương (vong) Bi kịch cư nhiên xưng tráng kịch, Chân nhi tâm sự ủy cao đường. Bản dịch: Khuôn nhà đem đúc lấy cương trường, Gươm bá tung hoành mấy tuyết sương, Trung, hiếu hai vai treo nhật nguyệt, Loạn bình một mộng kệ tang thương. Bao năm mưa gió nhà đâu tá? Trăm trận gian lao nước vẫn thường. Bi kịch lại thành ra tráng kịch, Lòng con thế ấy thỏa cao đường."
+  "entityName" : "Hoàng Sào",
+  "aliases" : [ "Thừa Thiên Ứng Vận Khải Thánh Duệ Văn hoàng đế (承天応運啓聖睿文宣武皇帝)", "Niên hiệu Vương Bá (王霸) 878-880 Kim Thống (金統) 881-884" ],
+  "overview" : "Hoàng Sào (giản thể: 黄巢; phồn thể: 黃巢; bính âm: Huáng Cháo, 835 - 884) là người phát động Khởi Nghĩa Hoàng Sào, đồng thời cũng là thủ lĩnh của cuộc khởi nghĩa, diễn ra trong khoảng thời gian từ 874 đến 884, trong thời gian của cuộc khởi nghĩa Hoàng Sào xưng Hoàng Đế, thành lập chính quyền Đại Tề, khởi nghĩa Hoàng Sào tuy thất bại nhưng khiến nhà Đường suy yếu nghiêm trọng rồi sụp đổ trong khoảng 23 năm sau (năm 907)."
 }

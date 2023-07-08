@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê ở quận Cửu Chân, trấn Thanh Hóa",
-  "occupation" : "Văn thần đời Lý Nhân tông",
+  "dateOfBirth" : "Canh Dần 1830",
+  "dateOfDeath" : "Đinh Sửu 1877",
+  "hometown" : "Thừa Thiên-Huế",
+  "occupation" : "Danh sĩ, con thứ 51 của vua Minh Mạng",
   "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "fatherName" : {
+    "vua Minh Mạng" : null
+  },
   "motherName" : { },
   "eraName" : {
-    "Nhà Lý" : 14
+    "Nhà Nguyễn độc lập" : 30
   },
   "id" : 760,
-  "entityName" : "Châu Văn Thuờng",
-  "aliases" : [ ],
-  "overview" : "Làm chức Thự mẫn thư lang, quản công ngự phủ, đồng trung thư kiệm biên tu. Ông có soạn bài Kí bia chùa Báo Ân núi An Hoạch (An Hoạch sơn Báo Ân tự bi kí) ghi công nghiệp Lý Thường Kiệt."
+  "entityName" : "Nguyễn Phúc Miên Thanh",
+  "aliases" : [ "Giản Trọng", "Quân Đình" ],
+  "overview" : "Tương truyền năm 1865 ông chữa khỏi bệnh cho vua Tự Đức, nhiều lần theo vua Thiệu Trị, Tự Đức trong các cuộc kinh lí trong nước và xướng họa thơ văn với các danh sĩ khác cùng vua Tự Đức. Con ông là Nguyễn Phúc Hường Vịnh cũng là một thi sĩ và danh y nổi tiếng. Các tác phẩm của ông: - Thuận An thi - Quân Đình thi thảo - Đào Trung thi tập Năm Đinh sửu ông mất, hưởng dương 47 tuổi."
 }

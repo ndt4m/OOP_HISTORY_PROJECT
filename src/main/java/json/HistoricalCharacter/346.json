@@ -1,17 +1,14 @@
 {
-  "dateOfBirth" : "Kỉ Tị 1929",
-  "dateOfDeath" : "Mậu Thân 1968",
-  "hometown" : "quê xã Nại Văn, huyện Bình Lục, tỉnh Hà Nam, nhập ngũ năm 1947 vào Nam hoạt động tại nội thành Sài Gòn",
-  "occupation" : "Liệt sĩ, anh hùng lực lượng vũ trang Việt Nam",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
-  },
+  "eraName" : { },
   "id" : 346,
-  "entityName" : "Trần Phú Cương",
+  "entityName" : "Lý Mông",
   "aliases" : [ ],
-  "overview" : "Lúc đầu làm ở công binh xưởng, sau chuyển qua công an tỉnh Gia Định. Năm 1954 ở lại hoạt động bí mật ở nội thành Sài Gòn, năm 1962 tham gia đội biệt động 159, làm công tác vận chuyển vũ khí đưa rước cán bộ ra vào thành phố gây cơ sở trong giới thợ mộc, thợ hồ ở vùng Chợ Đũi, đường Hồng Thập Tự chợ Bến Thành. Đào hầm trong nhà chứa vũ khí. Trong công tác vận chuyển vũ khí đã có nhiều sáng kiến qua mắt địch bình tĩnh và mau lẹ xử trí nhiều trường hợp khó khăn, nguy hiểm tưởng chừng không thể vượt qua. Trong chiến dịch Mậu thân 1968, ông hi sinh trong khi chỉ huy đánh chiếm đài phát thanh, được truy tặng danh hiệu anh hùng các lực lượng vũ trang năm 1978."
+  "overview" : "Lý Mông (chữ Hán:李蒙, bính âm: Li Meng) là một viên tướng dưới trướng của Đổng Trác trong thời kỳ Tam Quốc của Lịch sử Trung Quốc. Sau khi Đổng Trác bị Lã Bố giết chết trong một âm mưu của Vương Doãn, Lý Mông cùng với bạn là Vương Phương đầu quân cho Vương Doãn trong một thời gian ngắn. Sau khi bốn tướng của Tây Lương là Lý Thôi, Quách Dĩ, Trương Tế và Phàn Trù dẫn quân bao vây Trường An. Lý Mông và Vương Phương đã làm nội ứng để mở cửa thành cho quân Tây Lương tràn vào."
 }

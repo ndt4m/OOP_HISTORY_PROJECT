@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Quí Sửu 1613",
-  "dateOfDeath" : "Bính Tí 1696",
-  "hometown" : "quê làng Đông Phu, xã Vũ Tráng, huyện Sóc Giang, trấn Kinh Bắc (sau đổi là Bắc Ninh) nay thuộc thôn Đại Tráng, xã Đại Phúc, thị xã Bắc Ninh",
-  "occupation" : "Tu sĩ đời Lê Thần tông, quê làng Đông Phu, xã Vũ Tráng, huyện Sóc Giang, trấn Kinh Bắc ",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Thái Bình",
+  "occupation" : "Chí sĩ cần vương kháng Pháp thời cận đại ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34
+    "Pháp đô hộ" : 11,
+    "Nhà Nguyễn độc lập" : 30
   },
   "id" : 1756,
-  "entityName" : "Nguyễn Phúc Xuyên",
-  "aliases" : [ "Bắc Ninh" ],
-  "overview" : "Ông học nhiều biết rộng nhưng chán công danh, sùng đạo Phật. Nhà giàu, ông dốc lòng làm việc từ thiện, cứu giúp kẻ nghèo khổ, chăm lo phúc lợi cho nhân dân. Chính ông đã đứng ra lo việc sửa sang lại chùa Chúc Thánh trên núi Phổ Lại. Nhân dân đương thời xem ông là hậu thân của thiền sư Nguyễn Minh Không đời Lý. Năm Bính tí 1696 ông mất, thọ 83 tuổi."
+  "entityName" : "Bùi Như Quảng",
+  "aliases" : [ "Đốc Đen" ],
+  "overview" : "Ông chỉ huy nghĩa quân chống đánh giặc Pháp và bọn tay sai nhiều trận quyết liệt vang dậy tăm tiếng. Chính ông đã giết được tên Critier khi tập kích đồn Phụ Dục, tỉnh Thái Bình."
 }

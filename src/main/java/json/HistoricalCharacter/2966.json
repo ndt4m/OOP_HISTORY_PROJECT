@@ -1,17 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "979\n----------------------------------------------\nKhông rõ",
-  "hometown" : "người làng Đại Đê, huyện Thiên Bản, nay thuộc huyện Vụ Bản, tỉnh Nam Định.\n----------------------------------------------\nquê ở Thiên Bân",
-  "occupation" : "Nội giám nhà Đinh",
+  "dateOfBirth" : "Quí Dậu 1573",
+  "dateOfDeath" : "Đinh Sửu 1637",
+  "hometown" : "quê làng Mộng Phụ, huyện Phú Lộc, tỉnh Sơn Tây (nay thuộc tỉnh Hà Tây)",
+  "occupation" : "Văn thần đời Lê Thần tông",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "nhà Đinh" : null,
-    "Nhà Đinh" : 35
+    "Trịnh - Nguyễn" : 34
   },
   "id" : 2966,
-  "entityName" : "Đỗ Thích",
+  "entityName" : "Giang Văn Minh",
   "aliases" : [ ],
-  "overview" : "Đỗ Thích (chữ Hán: 杜釋; ?-979) là một vị quan nhà Đinh, là người làng Đại Đê, huyện Thiên Bản, nay thuộc huyện Vụ Bản, tỉnh Nam Định. Đỗ Thích từng làm quan ở Đồng Quan (Ninh Bình ngày nay), rồi giữ chức Chi Hậu Nội Nhân dưới thời vua Đinh Tiên Hoàng.\n----------------------------------------------\nĐỗ Thích xuất thân làm thư lại ở Đồng Quan, sau được vào cung hầu vua Đinh. Một đêm Đỗ nằm mộng thấy có ngôi sao sa vào miệng, cho là có điềm tốt, bèn có ý thoán đoạt cơ nghiệp nhà Đinh. Năm Kỉ mão 979, đang đêm Đỗ lẻn vào cung giết chết Đinh Tiên Hoàng và người con trưởng là Nam Việt vương Đinh Liễn. Việc vỡ lỡ, Đỗ chui nằm rạp trên mái cung. Cung nữ trông thấy, mách bảo Định quốc công Nguyễn Bặc, nên Đỗ bị Nguyễn bắt gịết."
+  "overview" : "Năm Mậu thìn 1628, ông làm đến Tự khanh, tước hầu. Năm 1637 được cử làm phó sứ sang nhà Thanh dâng lễ cống. Theo sách Đại Việt lịch triều đăng khoa lục khi đến nơi, đại thần nhà Thanh ra câu đối: \"Đồng trụ chí kim đài dĩ lục\" (Cột đồng đến nay rêu đã xanh). Ông đối lại: \"Đằng giang tự cổ huyết do hồng\" (Sông Bạch Đằng từ xưa máu còn đỏ). Người Thanh giận, giết ông rồi tẩm xác vào thủy ngân mới cho đưa về nước. Khi chết ông mới 64 tuổi được triều đình Việt Nam truy tặng Tả thị lang bộ Binh, tước Vinh Quận công."
 }

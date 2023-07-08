@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Mậu Ngọ 1858",
-  "hometown" : "quê huyện Phong Lộc, tỉnh Quảng Bình",
-  "occupation" : "Danh thần đời Gia Long, thân phụ Hoàng Kế Viêm",
+  "dateOfBirth" : "1439",
+  "dateOfDeath" : "1472",
+  "hometown" : "người làng An Giới, huyện Thanh Lâm (nay thuộc xã An Sơn huyện Nam Sách, tỉnh Hải Dương).",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+    "nhà Minh" : null
   },
   "id" : 1907,
-  "entityName" : "Hoàng Kim Xán",
+  "entityName" : "Nguyễn Đức Trinh",
   "aliases" : [ ],
-  "overview" : "Ông xuất thân làm Tri huyện Lệ Thủy, rồi thăng lần đến Thượng thư bộ Hình; sung Kinh lược Đại sứ Nam Định. Khi làm Tổng đốc Định An thì mất tại chức, được tặng Hiệp biện đại học sĩ. Đến đời Tự Đức, khoảng năm Mậu ngọ 1858 được liệt thờ ở đền Hiền lương. Con trưởng ông là Thản, được ấn thụ viên ngoại lang, con thứ hai là Hoàng Kế Viêm cháu là Vĩ làm đến Hiệp biện đại học sĩ."
+  "overview" : "Nguyễn Đức Trinh (1439 - 1472) người làng An Giới, huyện Thanh Lâm (nay thuộc xã An Sơn huyện Nam Sách, tỉnh Hải Dương). Đỗ Bảng Nhãn năm Quý Mùi (1463) đời Lê Thánh Tông. Ông giữ chức Phó Đô Ngự Sử và được cử đi sứ (năm 1471) sang nhà Minh (Trung Quốc). Sau khi mất, ông được truy tặng chức Thượng Thư"
 }

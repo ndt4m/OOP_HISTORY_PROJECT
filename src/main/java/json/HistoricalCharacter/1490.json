@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Tân Sửu 1841",
-  "dateOfDeath" : "1883\n----------------------------------------------\nQuí Mùi 1883",
-  "hometown" : "quê làng Niêm Phò huyện Phú Vang, tỉnh Thừa Thiên được xưng tụng là bật tiết nghĩa, đậu phó bảng vào 1869",
-  "occupation" : "Liệt sĩ cuối đời ",
+  "dateOfBirth" : "Mậu Ngọ 1918",
+  "dateOfDeath" : "Tân Mùi 1991",
+  "hometown" : "quê làng Lạc Thiện, huyện Đức Thọ, tỉnh Hà Tĩnh (nay vẫn thuộc tỉnh Hà Tĩnh)",
+  "occupation" : "Giáo sư, nhà toán học",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 1490,
-  "entityName" : "Trần Thúc Nhẫn",
-  "aliases" : [ "Hy Nhân", "Thúc Bình" ],
-  "overview" : "Trần Thúc Nhẫn (? -1883), trước có tên là Thúc Chính, sau được vua Tự Đức ban tên là Thúc Nhẫn), tự Hy Nhân; là quan triều Nguyễn trong lịch sử Việt Nam.\n----------------------------------------------\nKhi giặc Pháp đem thủy quân đánh cửa Thuận An để thị uy hiếp nước ta, ông nhận lệnh triều đình làm trưởng phái đoàn cùng với Phạm Như Xương và các tùy viên đi thương thuyết. Vừa đến Trấn Hải đài, phái đoàn không sao tiếp xúc được với sĩ quan chỉ huy giặc Pháp. Chúng dùng hỏa lực áp đảo quân ta, rồi đổ bộ tiến công. Ngày 20-8-1883 chúng chiếm đóng thành Trấn Hải (Đà Nẵng). Nghe tin thất thủ, ngay hôm ấy ông gieo mình xuống biển tử tiết cùng với Lâm Hoành và các nghĩa sĩ khác."
+  "entityName" : "Lê Văn Thiêm",
+  "aliases" : [ ],
+  "overview" : "Xuất thân trong một gia đình Nho học truyền thống (con trai cử nhân Lê Văn Uyển, em ruột tiến sĩ Lê Văn Kỉ tại đất Nghệ Tĩnh. Thuở nhỏ ông theo nguời anh là Y sĩ - Tiến sĩ Lê Văn Kỉ, học tại trường Quốc học Qui Nhơn. Những năm học tại Trường này ông nổi tiếng thông minh, được các giáo sư Toán học người Pháp rất tán thưởng vì năng khiếu toán của ông. Năm 1936 đỗ Thành chung, năm 1938 đỗ Tú tài II với hạng ưu. Vì học giỏi nên được chính quyền lúc đó cấp học bổng du học tại Pháp. Đến Pháp nhằm lúc bùng nổ thế chiến II, nên đến năm 1941 ông mới chính thức vào học tại Đại học. Chỉ một thời gian ngắn (2 năm) ông đỗ cử nhân toán (thay vì 4 năm như người khác). Tại Pháp ông cùng Hoàng Xuân Nhĩ, Trần Du, Nguyễn Khắc Viện qua Đức với ý định giúp các bạn học thành lập một nhóm chống Pháp. Nhân đó ông ghi danh học Tiến sĩ Toán học tại Đại học Berlin trong năm 1944. Nhưng sau đó (1945) Đức bị thảm bại trước phe Đồng minh, ông phải trở về Pháp. Đến năm 1948 ông đỗ Tiến sĩ Toán tại Đại học Paris, được mời giảng dạy tại Đại học Zurich (Thụy Sĩ). Năm 1949 ông về nước tham gia kháng chiến chống Pháp (theo ngã Bangkok - Campuchia) tại miền Tây Nam bộ. Năm 1950 ông vượt Trường Sơn ra Việt Bắc dạy tại trường Dự bị Đại học. Sau hiệp định Genève, ông về giảng dạy Toán học tại Trường Đại học Tổng hợp Hà Nội. Ông là người có công đào tạo được nhiều thế hệ học trò nối tiếp bước đường ông đi qua. Ông mất năm 1991 tại Hà Nội, thọ 73 tuổi."
 }

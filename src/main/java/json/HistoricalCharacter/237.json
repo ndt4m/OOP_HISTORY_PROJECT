@@ -1,21 +1,16 @@
 {
-  "dateOfBirth" : "Bính Ngọ 1906",
-  "dateOfDeath" : "Giáp Thìn 1964",
-  "hometown" : "sinh tại làng Đồng Nhân, Hà Nội, con ông Lê Văn Kỳ và bà Nguyễn Thị Sâm, gốc người Hà Đông, lên lập nghiệp ở Bắc Giang",
-  "occupation" : "Nhà văn bút ",
+  "dateOfBirth" : "1456?\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "1522?\n----------------------------------------------\nKhông rõ",
+  "hometown" : "huyện Thiên Lộc (Can Lộc), tỉnh Hà Tĩnh, sau dời ra xã Mạo Bổ, huyện Sơn Vi, tỉnh Sơn Tây",
+  "occupation" : "Danh thần đời Lê Thánh tông",
   "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Lê Văn Kỳ" : null
-  },
-  "motherName" : {
-    "Nguyễn Thị Sâm" : null
-  },
+  "fatherName" : { },
+  "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Triều Lê Sơ" : 7
   },
   "id" : 237,
-  "entityName" : "Lê Văn Trương",
-  "aliases" : [ "Cô Lý" ],
-  "overview" : "Ông học đến năm thứ hai trường Trung học Bảo hộ (Truờng Bưởi) thì bị đuổi vì cùng một vài bạn cầm đầu cuộc phản kháng chống lại Hiệu trưởng Pháp đã mắng học sinh: \"Sale Annamite\". Năm 1926, ông đậu chuyên viên sở Bưu điện, bổ đi làm tại Phnom-Penh rồi đi Monkolboray, được vài năm ông bỏ nghề công chức (1930) đi khai khẩn đồn điền ở Lovéa, Battambang. Bị phá sản, ông đi làm thầu khoán, đi săn, đôi khi buôn lậu sang Thái Lan, Trung Quốc, rồi trở về nước viết văn, làm báo từ năm 1932. Ông cộng tác với báo Trung Bắc tân văn nhà xuất bản Tân Dân và các cơ quan ngôn luận của nhà xuất bản này. Trong kháng chiến chống Pháp, ông có tham gia một thời gian và vào bộ đội, nhưng đến năm 1953 ông hồi cư về Hà Nội. Cộng tác với báo Mới ở Sài Gòn. Sau đó ông vào Nam làm thầu khoán, viết báo, tái bản sách. Từ 1959 làm việc cho Đài phát thanh Sài Gòn, nhưng chẳng bao lâu thì bị nghi kị, sa thải. Ngày 25-2-1964 ông mất tại Sài Gòn, hưởng dương 58 tuổi. Ông chuyên viết tiểu thuyết các tác phẩm của ông đã xuất bản có hơn 100 cuốn được hoan nghênh đối với độc giả thích \"thuyết sức mạnh\" để tạo nên một mẫu \"người hùng\"."
+  "entityName" : "Đặng Minh Khiêm",
+  "aliases" : [ "Trinh Dự", "Trình Dự", "Thoát Hiên" ],
+  "overview" : "Đặng Minh Khiêm (鄧鳴謙, 1456?-1522?) , tự Trinh Dự, hiệu Thoát Hiên; là danh thần và là danh sĩ Việt Nam thời Lê sơ.\n----------------------------------------------\nNăm Tân dậu 1501, ông làm thị thư Viện Hàn lâm, đi sứ nhà Minh. Năm Kỉ tị 1509, ông lại đi sứ lần nữa, khi đi về đổi làm Tả thị lang bộ Lại, rồi thăng Thượng thư bộ Lễ, kiêm Phó tổng tài Sử quán coi việc ở Chiêu văn quán, Tú lâm cuộc. Khoảng năm 1516-1522, đời Lê Chiêu tông, ông nhận việc sửa bộ Đại Việt sử kí. Gặp lúc trong nước có nhiều biến cố, giữa triều đình ông luôn giữ khí tiết cứng cỏi không ai lay chuyển được. Ông giữ mình thẳng thắn, không ỷ phụ ai. Sau ông biết thời thế không thể làm gì được, nên mượn sử sách ngâm vịnh tiêu khiển. Ông mất ở Hóa Châu thọ trên 70 tuổi. Ông còn để lại mấy tác phẩm giá trị: Việt giám vị thi sử thi tập đề tựa năm Canh thìn 1520, Thi lục 123 bài, Thi tuyển. Trong Lịch triều hiến chương loại chí, Phan Huy Chú nhận định về Đặng Minh Khiêm: \"Văn chương của ông thanh nhã, dồi dào, đời vẫn truyền tụng. Có văn học, tiết tháo, ông là bậc danh nho đời Lê. Sử khen là không hổ tiếng khoa danh. Bàn đến ông, người ta cho Đặng Tất, Đặng Dung có hậư\"."
 }

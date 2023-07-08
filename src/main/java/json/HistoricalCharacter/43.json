@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "701",
-  "dateOfDeath" : "762",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "sinh quán, nổi tiếng văn thơ một thời",
+  "occupation" : "Danh thần đời Lê Thánh tông",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Triều Lê Sơ" : 7
+  },
   "id" : 43,
-  "entityName" : "Lý Bạch",
-  "aliases" : [ "Thái Bạch" ],
-  "overview" : "Lý Bạch (chữ Hán: 李白; 701 - 762), biểu tự Thái Bạch (太白), hiệu Thanh Liên cư sĩ (青莲居士), là một trong những nhà thơ theo chủ nghĩa lãng mạn nổi tiếng nhất thời Thịnh Đường nói riêng và Trung Hoa nói chung."
+  "entityName" : "Diêu Viễn",
+  "aliases" : [ ],
+  "overview" : "Ông đỗ tiến sĩ. Xuất chính có tiếng thanh liêm mẫn cán, hết lòng lo nước thương dân, sửa sang chính trị, mở mang văn hóa, nên được sĩ phu và nhân dân đương thời trọng vọng. Hâm mộ sự nghiệp và tâm chí của Nguyễn Trăi, ông có dịch những áng văn thơ của Nguyễn Trãi ra quốc âm, đặc sắc nhất là bản dịch Côn Sơn ca còn được truyền tụng, do ông và Viên Dao hơp dịch."
 }

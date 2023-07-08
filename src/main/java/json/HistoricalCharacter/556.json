@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "sinh năm 1601",
+  "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
-  "hometown" : "xã Hải Ninh, huyện Tĩnh Gia, tỉnh Thanh Hóa).",
+  "hometown" : "Không rõ",
   "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "nhà Lý" : null
+  },
   "id" : 556,
-  "entityName" : "Lê Văn Hiểu",
-  "aliases" : [ "Lê Tiến Hàn" ],
-  "overview" : "Lê Văn Hiểu (tức Lê Tiến Hàn, hay Hàn Tiến [1], Trịnh Đào, Quan Phủ Tướng Hàn) có đền thờ tại làng Năng Cải (nay là làng Cồn Vàng, thôn Hồng Phong và thôn Hạnh Phúc, xã Hải Ninh, huyện Tĩnh Gia, tỉnh Thanh Hóa). Ông sinh năm 1601 (đời vua Lê Kính Tông năm thứ 2). Sinh thời ông được phủ Chúa Trịnh đưa về nuôi dưỡng (vì thuộc dòng giống vua Lê), lớn lên ông được Chúa Trịnh Tùng gả con gái là Quận chúa Phù Dung. Do văn võ song toàn ông được phong Tiến lộc hầu, rồi được phong Tiến quận công.[2]"
+  "entityName" : "Lý Công Bình",
+  "aliases" : [ ],
+  "overview" : "Lý Công Bình (chữ Hán: 李公平, ? - ?) là một tướng lĩnh, đại thần nhà Lý trong lịch sử Việt Nam. Ông có công đánh bại hai cuộc tấn công của quân đội Chân Lạp (Đế quốc Khmer hay vương triều Angkor) vào năm 1128 và 1137, thời vua Lý Thần Tông."
 }

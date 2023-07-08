@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Bính Thìn 1916",
-  "hometown" : "sinh quán ở Quảng Ngãi, không rõ năm sinh, đảng viên Việt Nam Quang phục hội, thuộc cấp lãnh đạo trung ương trong cuộc khởi nghĩa Duy Tân 1916 ở Huế",
-  "occupation" : "Liệt sĩ cận đại, sinh quán ở Quảng Ngãi",
+  "dateOfBirth" : "1324\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "1381\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Võ tướng đời Trần Duệ tông",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Nhà Trần" : 15,
+    "nhà Trần" : null
   },
   "id" : 1001,
-  "entityName" : "Lê Ngung",
+  "entityName" : "Đỗ Tử Bình",
   "aliases" : [ ],
-  "overview" : "Năm Ất mão 1915, khoảng tháng 9, sau đại hội lần I tại Huế, ông đảm nhận việc thảo kế hoạch khởi nghĩa. Chính ông đã thảo hịch và kêu gọi quần chúng vùng lên. Được vua Duy Tân tán trợ trong công cuộc trọng đại này. Đến phiên Đại hội II, ông được cử vào ủy ban phát động cuộc khởi nghĩa ở tỉnh Quảng Ngãi. Ông càng dốc tâm lực hoàn thành sứ mạng. Nhưng chằng bao lâu, vì chương trình khởi nghĩa bị tiết lộ vua Duy Tân rút ra khỏi hoàng thành rồi bị bắt. Ông bị địch bắt kết án tử hình. Khi ở trong nhà lao ông cùng cử nhân Nguyễn Thụy (hay Sụy) uống thuốc độc tự tử. Sau thi hài ông vẫn bị chúng đem ra cắt bêu ở xã Cam Lộ, tỉnh Quảng Ngãi. Ông là tác giả Hịch khởi nghĩa và Chương trình hành động của cuộc khởi nghĩa Duy Tân năm 1916 tại Huế và một số bài thơ tỏ chí trong suốt hành trình sống của ông."
+  "overview" : "Đỗ Tử Bình (1324-1381) là tướng nhà Trần trong lịch sử Việt Nam. Sự nghiệp của ông gắn liền với cuộc chiến giữa Đại Việt và Chiêm Thành cuối thế kỷ 14.\n----------------------------------------------\nÔng giữ nhiệm vụ trấn giữ ở Hóa Châu, để ngăn ngừa Chiêm Thành khuấy rối. Người Chiêm đem vàng dâng vua Tầẫn, Đỗ dấu vàng ấy làm của riêng, lại tâu với vua rằng người Chiêm vô lễ, cần đánh họ, Trần Duệ tông nghe theo, thân chinh đánh Chiêm Thành. Đại thần Đỗ Lê can ngăn không được, treo mũ áo từ quan. Kết quả Duệ tông bị quân Chiêm phục kích tử trận. Đỗ Tử Bình thống lãnh toán hậu quân không ứng cứu, chạy thoát lấy thân. Hồ Quí Li đốc vận lương, được tin, trốn về nước. Triều đình bắt tội, Đỗ bị giáng xuống làm lính. Năm Mậu ngọ 1378, quân Chiêm tràn vào đánh phá, Đỗ đem quân chống cự. Quan quân tự tan vỡ, quân giặc thừa thế tiến đến kinh đô khiến Lê Giác tử tiết, nhưng nhờ có Trần Khắc Chân đánh đuổi được quân giặc. Sau đó quân Chiêm lại xâm phạm Diễn Châu, ông thống lĩnh lục quân, hiệp với Hồ Quí Li thống lĩnh thủy quân, ra sức đánh dẹp. Chiêm vương Chế Bồng Nga thua trận trốn chạy. Ngay khi trở về triều, ông dâng sớ cáo bệnh, xin giải binh quyền rồi chẳng mấy ngày thì mất."
 }

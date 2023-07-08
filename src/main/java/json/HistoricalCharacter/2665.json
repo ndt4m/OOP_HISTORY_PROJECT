@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "349",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "1 tháng 7 năm 1915 Hà Nội, Liên bang Đông Dương\n----------------------------------------------\nẤt Hợi 1815",
+  "dateOfDeath" : "27 tháng 4, 1998 (82 tuổi) TP. Hồ Chí Minh, Việt Nam\n----------------------------------------------\nTân Dậu 1861",
+  "hometown" : "quê làng Mĩ Ngãi, Cao Lãnh (nay thuộc tỉnh Đồng Tháp)",
+  "occupation" : "Liệt sĩ cận đại",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
+  },
   "id" : 2665,
-  "entityName" : "Phạm Văn",
-  "aliases" : [ "Hán-Việt" ],
-  "overview" : "Phạm Văn (范文, ?-349) là tên (phiên âm Hán-Việt) của vị vua mở đầu triều đại thứ hai của Chăm Pa sau triều đại thứ nhất do Khu Liên thành lập"
+  "entityName" : "Nguyễn Văn Linh",
+  "aliases" : [ "N" ],
+  "overview" : "Nguyễn Văn Linh (1 tháng 7 năm 1915 – 27 tháng 4 năm 1998) là Tổng Bí thư Đảng Cộng sản Việt Nam từ 1986 đến 1991. Thời kỳ là Tổng Bí thư, ông nổi tiếng với bút danh N.V.L. (sau này ông cho biết đó là \"Nói Và Làm\") với một loạt những bài báo trong chuyên mục Những việc cần làm ngay trên báo Nhân dân bàn về những việc cần phải chấn chỉnh trong xã hội. Ông được xem là người mở đường và có công lớn trong công cuộc đổi mới nền kinh tế Việt Nam.\n----------------------------------------------\nBị nội phản ông sa vào tay giặc, chúng dụ hàng, ông bất khuất bị giết trong năm Tân dậu, hưởng dương 46 tuổi. Tương truyền ông có mấy câu cảm khái: Rất tiếc thù chung chưa trả đặng, Sụt sùt chín suối dễ nào nguôi. Mộ ông nay còn tại Mĩ Ngãi, tên ông được dùng đề đặt tên chợ gọi là Chợ Thống Linh, Ngã tư Thống Linh. Người sau có thơ truy niệm ông: Lịch sử đáng nêu cụ Thông Linh. Trung cang vì nước đã quên mình. Giận người sống mất suy ra nhục, Thương kẻ thác còn nghĩ lại vinh. Bao tiếng ngọt ngon lòng chẳng núng, Lắm lần hăm dọa chí không kinh. Ngâm thơ li hận cười người phản, Quốc vận từ đây phú hậu sinh."
 }

@@ -1,14 +1,17 @@
 {
-  "dateOfBirth" : "18 tháng 6, 1965 (52 tuổi) xã Thăng Long, huyện Kinh Môn, tỉnh Hải Dương, Việt Nam Dân chủ Cộng hòa",
-  "dateOfDeath" : "ngày 18",
-  "hometown" : "Hà Nội",
-  "occupation" : "chính trị gia",
+  "dateOfBirth" : "Kỉ Mùi 1919",
+  "dateOfDeath" : "Nhâm Tuất 1982",
+  "hometown" : "xã Minh Hương, quê ở huyện Điện Bàn, tỉnh Quảng Nam",
+  "occupation" : "Gốc người xã Minh Hương, quê ở huyện Điện Bàn, tỉnh Quảng Nam",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
+  },
   "id" : 371,
-  "entityName" : "Bùi Văn Cường",
+  "entityName" : "Lưu Quí Kỳ",
   "aliases" : [ ],
-  "overview" : "Bùi Văn Cường (ngày 18 tháng 6 năm 1965) là một chính trị gia người Việt Nam. Ông hiện là Chủ tịch Tổng Liên đoàn Lao động Việt Nam, đại biểu Quốc hội Việt Nam khóa XIV nhiệm kì 2016-2021, thuộc đoàn đại biểu quốc hội tỉnh Gia Lai. Ông từng là đại biểu Quốc hội Việt Nam khóa XIII tỉnh Gia Lai."
+  "overview" : "Từ năm 1937, tham gia cách mạng. Ông công tác trải qua các ban, ngành: Trợ lí Trưởng ban Tuyên huấn Trung ương, Ủy viên Ban Trung ương Mặt trận tổ quốc Việt Nam, Tổng thư kí Hội Nhà báo Việt Nam, Vụ trưởng Vụ báo chí Ban tuyên huấn Trung ương Đảng CSVN. Ông viết báo, viết sách nhiều, tích cực hoạt động trên nhiều lĩnh vực. Được Đảng, Nhà nước tặng thưởng nhiều huân chương Kháng chiến, huy hiệu Thành đồng tổ quốc, Huy chương danh dự tổ chức Quốc tế các nhà báo. Sau một cơn bệnh đột ngột khi đang công tác ở nước ngoài, ông từ trần ngày 1-8-1982 (thọ 63 tuổi) trong một chuyến bay trên đường sang Thái Lan. Những lúc làm Tổng thư kí tòa soạn (cho các báo Đảng, và viết dưới các bút hiệu: Thanh Vệ, Phác Căn, Lưu Quang Khải... Ông tích cực hoạt động, khiến đồng nghiệp đều cảm phục. Thoát li gia đình để phục vụ cách mạng từ tháng 8-1937, đến lúc cuối đời, ông đã hoàn thành xuất sắc nhiệm vụ trên mặt trận văn hóa, báo chí. Những tác phẩm của ông được hoan nghênh: - Nuớc về biển cả - Công chúng mới - Bài thơ Nam Bộ (1950) - Miền Nam yêu quí (1955) - Tác phong văn nghệ nhân dân (1951) - Thực tiễn văn nghệ kháng chiến Nam Bộ (1958) - Phút im lặng (1961)"
 }

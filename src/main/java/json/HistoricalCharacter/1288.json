@@ -1,14 +1,17 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "1946",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Quí Sửu 1913",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "tại TP",
+  "occupation" : "Nhà nghiên cứu",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
+  },
   "id" : 1288,
-  "entityName" : "Nguyễn Huân",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Văn Huân (?-1946) là một nhà cách mạng và liệt sĩ Việt Nam."
+  "entityName" : "Phạm Đình Tân",
+  "aliases" : [ "Từ Huệ", "Lĩnh Việt" ],
+  "overview" : "Thuở nhỏ học ở trường Thành Chung Nam Định, gia nhập làng báo ở Nam Định, Hà Nội. Từng chủ trương tuần báo Thanh niên công giáo ở Nam Định, tuần báo Phụng sự ở Hà Nội, văn đàn Tinh Việt. Sau năm 1954 di cư vào Nam, sáng lập và điều khiển tuần báo Văn Đàn và nguyệt san Lá thư xanh. Với cương vị văn đoàn trưởng Tinh Việt ngay từ năm 1945, ông thành lập và tổ chức một số giải thưởng văn học, sử học mang tên hai nhà văn lớn: Việt Nam và quốc tế. Đó là các giải: Trương Vĩnh Ký và Le Comte du Nouy. Ông có chân trong Hội văn bút Việt Nam (Sài Gòn) và Phong trào trí thức công giáo Việt Nam Pax Romana. Các tác phẩm của ông: - Thơ Phạm Đình Tân - Tiến hóa tư tưởng của một nhà khoa học Le Comte nouy (dịch) - Thời bút - Những tác phẩm biến đổi thế giới (dịch) - Fréderie Ozanam với hội thánh Vĩnh Sơn (biên khảo) - Thomas Jefferson (dịch) - Ái tình một trò đùa (dịch) - Lịch sử Mễ Tây Cơ (dịch) - Nhật kí cô An (dịch) - Chúa cứu thế với thanh niên (dịch) - Lời vàng - Người mới trong thế giới mới (dịch) - Thân phận lao động (dịch) - Vấn đề đa thê (dịch) - Chúa cứu thế với gia đình (dịch) - Chúa cứu thế với thời nay (dịch) - Tòa thánh La Mã (dịch) - Đức mẹ giữa chúng ta (dịch) - Kiến thiết tinh thần (dịch) - Chìa khóa mở của thành công (biên khảo) - Duy Đức, học sinh trinh thám (biên khảo) - Thành ngữ Việt Pháp đối chiếu dẫn giải (biên khảo) - Tục ngữ và ca dao, phân loại, dẫn giải (biên khảo) - Văn hóa và văn minh (dịch) - Cộng đồng nhân loại (dịch) - Phẩm giá con người (dịch) - Tương lai tinh thần (dịch) - Duyên văn, duyên thơ (dịch)"
 }

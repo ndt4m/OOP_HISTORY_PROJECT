@@ -1,18 +1,16 @@
 {
-  "dateOfBirth" : "Canh Dần 1830",
-  "dateOfDeath" : "Đinh Sửu 1877",
-  "hometown" : "Thừa Thiên-Huế",
-  "occupation" : "Danh sĩ, con thứ 51 của vua Minh Mạng",
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Nhâm Ngọ 1942",
+  "hometown" : "quê ở Nghệ An",
+  "occupation" : "Tu sĩ Công giáo yêu nước",
   "workTenure" : "Không rõ",
-  "fatherName" : {
-    "vua Minh Mạng" : null
-  },
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+    "Pháp đô hộ" : 11
   },
   "id" : 1684,
-  "entityName" : "Nguyễn Phúc Miên Thanh",
-  "aliases" : [ "Giản Trọng", "Quân Đình" ],
-  "overview" : "Tương truyền năm 1865 ông chữa khỏi bệnh cho vua Tự Đức, nhiều lần theo vua Thiệu Trị, Tự Đức trong các cuộc kinh lí trong nước và xướng họa thơ văn với các danh sĩ khác cùng vua Tự Đức. Con ông là Nguyễn Phúc Hường Vịnh cũng là một thi sĩ và danh y nổi tiếng. Các tác phẩm của ông: - Thuận An thi - Quân Đình thi thảo - Đào Trung thi tập Năm Đinh sửu ông mất, hưởng dương 47 tuổi."
+  "entityName" : "Mai Lão Bạng",
+  "aliases" : [ "Già Châu" ],
+  "overview" : "Ông nhiệt thành yêu nước, hưởng ứng phong trào Đông du, Duy tân, sang Trung Quốc, Nhật, liên lạc với Phan Bội Châu, tích cực hoạt động cứu nước. Ông sáng tác nhiều văn thơ tuyên truyền, có tập Lão Bạng phổ khuyến thư có giá trị. Khoảng năm 1914, ngày 18-1 ông bị bọn quân phiệt Trung Quốc là Long Tế Quang - Tổng đốc Lưỡng Quảng - bắt giam một lượt với Phan Bội Châu rồi đày ra Côn Lôn. Phan Bội Châu có bài thơ tặng ông: \"Phiêu bồng ngã bối các tha hương Tân khổ thiên quân phận ngoại thường. Tính mệnh kỉ hồi tân tử địa, Tu mi tam độ nhập linh đường. Kinh phân sự nghiệp thiên đào chú, Bất thế phong vân đế chủ trương. Giả sử tiền đồ tận di thán, Anh hùng hào kiệt dã dung thường.\" Bản dịch: Quê người, tôi, bác phận bèo mây, Phận bác riêng bao nỗi đắng cay. Chết chóc mây phen đe tính mạng, Lao lung ba lượt buộc râu mày. Trờì trao nghiệp lớn nên rèn đúc, Chúa hẹn thời hay mới sắp bày. Ví phỏng đường đời không sóng gió, Anh hùng chi khác khách trần ai. Sau, ông được trả tự do, về sống ở Bến Ngự (Huế) với Phan Bội Châu rồi về Nghệ An mất tại quê nhà."
 }

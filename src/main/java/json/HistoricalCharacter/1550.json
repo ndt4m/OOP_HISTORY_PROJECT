@@ -1,14 +1,17 @@
 {
-  "dateOfBirth" : "22 tháng 4, 1967 (51 tuổi) xã Hưng Xuân, huyện Hưng Nguyên, tỉnh Nghệ An, Việt Nam Dân chủ Cộng hòa",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Số 1, ngõ 562/27 đường Thụy Khuê, phường Bưởi, quận Tây Hồ, thành phố Hà Nội",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Làng Xuân Lôi, huyện Yên Phong\n----------------------------------------------\n…",
+  "dateOfDeath" : "Đinh Hợi 1527",
+  "hometown" : "quê làng Xuân Lôi, huyện Yên Phong, tỉnh Bắc Ninh (nay vẫn là Bắc Ninh)",
+  "occupation" : "Đô ngự sử\n----------------------------------------------\nVăn thần đời Lê Thánh tông",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Lê sơ, Mạc" : null,
+    "Triều Lê Sơ" : 7
+  },
   "id" : 1550,
-  "entityName" : "Nguyễn Thị Mai Hoa",
+  "entityName" : "Lê Tuấn Mậu",
   "aliases" : [ ],
-  "overview" : "Nguyễn Thị Mai Hoa (sinh ngày 22 tháng 4 năm 1967) là một nữ chính trị gia người Việt Nam. Bà hiện là Ủy viên Thường trực Ủy ban Văn hóa giáo dục, thanh niên, thiếu niên và nhi đồng của Quốc hội, Phó Chủ tịch Nhóm nghị sĩ hữu nghị Việt Nam - México, đại biểu Quốc hội Việt Nam khóa 14 nhiệm kì 2016-2021, thuộc đoàn đại biểu Quốc hội tỉnh Đồng Tháp. Bà được trung ương giới thiệu ứng cử và đã trúng cử đại biểu Quốc hội năm 2016 ở đơn vị bầu cử số 2, tỉnh Đồng Tháp gồm có thành phố Cao Lãnh và các huyện: Thanh Bình, Cao Lãnh, Tháp Mười. Bà từng là đại biểu Quốc hội Việt Nam khóa 11 (2002-2007), thuộc đoàn đại biểu Nghệ An."
+  "overview" : "Lê Tuấn Mậu (chữ Hán: 黎俊楙) là đô ngự sử thời Lê sơ, đỗ tiến sĩ vào năm 1490, sau bị Mạc Đăng Dung giết. Đến thời Lê trung hưng thì được truy phong phúc thần. Theo một vài nguồn thì ông còn là một thượng thư.\n----------------------------------------------\nNăm Canh tuất 1490 ông đỗ nhị giáp tiến sĩ, có đi sứ nhà Minh (Trung Quốc) với cương vị Phó sứ trong năm Mậu ngọ 1498. Làm đến Thượng thư bộ Hộ, kiêm Đô ngự sử. Năm Đinh hợi 1527, Mạc Đăng Dung đảo chính, vời ông vào triều. Ông đến, lấy đá giấu trong tay áo ném Mạc, nhưng không trúng, bị Đăng Dung giết ngay. Thời Lê Trung hưng, được khen tặng tiết nghĩa, tôn ông làm Phúc thần thượng đẳng, lập đền thờ ở làng ông."
 }

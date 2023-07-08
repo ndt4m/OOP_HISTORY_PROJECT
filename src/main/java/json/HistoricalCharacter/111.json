@@ -1,17 +1,14 @@
 {
-  "dateOfBirth" : "Mậu Thân 1908",
-  "dateOfDeath" : "Kỉ Dậu 1969",
-  "hometown" : "quê làng Ngọc Giáp, huyện Quảng Xương, tỉnh Thanh Hóa",
-  "occupation" : "Nhà văn hiện đại",
-  "workTenure" : "Không rõ",
+  "dateOfBirth" : "15 tháng 12 năm 1925 Châu Thành, Long An Việt Nam",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Thuộc",
+  "workTenure" : "1946-1975",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
-  },
+  "eraName" : { },
   "id" : 111,
-  "entityName" : "Đái Đức Tuấn",
-  "aliases" : [ "Tchya" ],
-  "overview" : "Ông xuất thân làm Tham tá ở Nha học chính Đông Dương từ năm 1930, đến năm 1940 thì xin nghỉ việc. Sau đó, ông cư ngụ ở Côn Minh (Trung Quốc). Từ năm 1945 đến 1949 trở về nước, làm báo. Năm 1950, ông dạy ở trường Quốc học (Huế), có một thời ông bị bắt gia nhập quân đội Sài Gòn cấp bậc Đại úy rồi giải ngũ năm 1956. Ông mất ngày 8-8-1969 tại Sài Gòn, thọ 61 tuổi. Còn để lại các tác phẩm: - Đầy vơi (tập thơ, 1940) - Thần hổ (tiểu thuyết) - Kho vàng Sầm Sơn - Đồng tiền Vạn Lịch - Ai hát giữa rừng khuya - Linh hồn hay xác thịt - Đường lên núi - Uyển ngoạn (1956) - Tình Sơn nữ (1956)..."
+  "entityName" : "Trần Thiện Khiêm",
+  "aliases" : [ ],
+  "overview" : "Trần Thiện Khiêm (1925), nguyên là một tướng lĩnh Bộ binh của Quân lực Việt Nam Cộng hòa, cấp bậc Đại tướng. Ông xuất thân từ khóa đầu tiên ở trường Võ bị Liên quân Viễn Đông do Quân đội Thuộc địa Pháp mở ra tại Cao nguyên Trung phần Việt Nam. Mặc dù chuyên môn quân sự của ông là Bộ binh, nhưng khi còn là sĩ quan trung cấp, ông ít phải chỉ huy đơn vị tác chiến mà được cử giữ những chức vụ liên quan đến lãnh vực Tham mưu. Sau lên đến sĩ quan cao cấp, ông được cử chỉ huy đơn vị cấp Sư đoàn một thời gian ngắn. Ông từng là tướng lĩnh giữ vai trò quan trọng trong các cuộc Đảo chính Quân sự tại Việt Nam Cộng hòa trong những năm 1963-1964. Sau đó ông được đảm trách những chức vụ cao trong Quân lực như: Tư lệnh Quân đoàn, Tham mưu trưởng rồi Tổng Tham mưu trưởng Bộ Tổng Tham mưu. Là một trong số ít sĩ quan được thăng cấp tướng ở thời kỳ Đệ nhất Cộng hòa (Thiếu tướng năm 1962) và là một trong 5 sĩ quan được phong cấp Đại tướng trong Quân lực Việt Nam Cộng hòa. Ông cũng là một chính khách và là người giữ chức vụ đứng đầu Bộ Quốc phòng và Thủ tướng Việt Nam Cộng hòa trong thời gian lâu nhất."
 }

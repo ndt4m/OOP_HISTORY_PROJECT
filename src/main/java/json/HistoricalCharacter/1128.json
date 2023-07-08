@@ -1,17 +1,21 @@
 {
-  "dateOfBirth" : "1468\n----------------------------------------------\nGiáp Ngọ 1467",
-  "dateOfDeath" : "1545 (76–77 tuổi)\n----------------------------------------------\nẤt Tị 1545",
-  "hometown" : "quê làng Gia Miêu, huyện Tống Sơn, tỉnh Thanh Hóa",
-  "occupation" : "Khai quốc công thần đời Hậu Lê",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
+  "dateOfBirth" : "29 tháng 7, 1000 chùa Duyên Ninh, Ninh Bình\n----------------------------------------------\nCanh Tí 1000\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "3 tháng 11, 1054 (54 tuổi) Trường Xuân điện, Thăng Long\n----------------------------------------------\nGiáp Ngọ 1054\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Đại Cồ Việt\n----------------------------------------------\nVua nhà Lý, tác giả Phật học, còn có tên nữa là Đức Chính, con trưởng Lý Thái tổ sinh ngày 26-6 âm lịch, Canh tí (29-7-1000)\n----------------------------------------------\nVua",
+  "workTenure" : "1 tháng 4 năm 1028 – 3 tháng 11 năm 1054 (26 năm, 216 ngày)\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1028—1054",
+  "fatherName" : {
+    "Lý Thái tổ sinh ngày 26-6 âm lịch" : null,
+    "Lý Thái Tổ" : 3054
+  },
+  "motherName" : {
+    "Linh Hiển hoàng hậu" : null
+  },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34,
-    "Họ Nguyễn" : null
+    "Nhà Lý" : 14
   },
   "id" : 1128,
-  "entityName" : "Nguyễn Kim",
-  "aliases" : [ "Triệu Tổ (肇祖)", "Di Mưu Thùy Dụ Khâm Cung Huệ Triết Hiển Hựu Hoành Hưu Tế Thế Khải Vận Nhân Thánh Tĩnh Hoàng Đế (貽謀垂裕欽恭惠哲顯祐宏休濟世啟運仁聖靖皇帝)", "Nguyễn Hoằng Kim", "Nguyễn Kim (阮淦)" ],
-  "overview" : "Nguyễn Kim (chữ Hán: 阮淦, 1468-1545), là người chỉ huy quân đội nhà Lê trung hưng, đã tích cực đối kháng nhà Mạc sau khi nhà Lê sơ sụp đổ. Ông đã đem con em chạy sang Ai Lao, chiêu tập binh mã, tôn lập vua Lê Trang Tông, đặt nền móng gây dựng lại nhà Lê khởi đầu thế Nam-Bắc triều (1533 - 1592). Ông được truy tôn miếu hiệu là Triệu Tổ của các chúa Nguyễn và ngoại tổ phụ của các chúa Trịnh.\n----------------------------------------------\nNăm Đinh hợi 1527, Mạc Đăng Dung tiếm ngôi nhà Lê, lập nên nhà Mạc. Bất phục tùng, ông cùng gia đình, thân tộc lánh sang Lào. Tại Sầm Châu (Lào), ông thu dụng nghĩa sĩ, hào kiệt được mấy ngàn người. Năm Canh dần 1530, ông tiến quân về Thanh Hóa tiêu diệt quân của Mạc Đăng Doanh. Tướng nhà Mạc là Lê Bá Li bị ông giết chết. Năm Quí tị 1533, ông đưa con cháu vua Lê là Lê Ninh lên ngôi lấy niên hiệu là Nguyên Hòa tức là vua Lê Trang tông. Ông được triều đình tôn là Thượng Phụ, Thái sư, Hưng Quốc Công trông coi mọi việc trong triều. Bấy giờ có Trịnh Kiểm người làng Sóc Sơn huyện Vĩnh Phước (sau đổi là Vĩnh Lộc), tỉnh Thanh Hóa theo giúp trong quân. Thấy Kiểm có tài ông gả con gái là Nguyễn Thi Ngọc Bảo cho Kiểm. Năm Nguyên Hòa thứ 10, 1542, ông tiến quân ra Tây Đô, rồi thẳng ra Bắc tiêu diệt họ Mạc. Năm 1545, ông dẫn quân đánh Sơn Nam. Quân nhà Mạc thua to, bèn sai Dương Chấp Nhất trá hàng. Ông lầm nên cho Nhất theo ở trong quân. Sau khi tiêu diệt địch trở về tới dinh ông được Chấp Nhất dâng một quả dưa chín để giải khát, trong quả dưa có thuốc độc, ông dùng xong ngộ độc chết trong năm ấy (1545). Sau khi mất, ông được vua Lê truy tặng Chiêu huân Tính Công, an táng ở núi Thiên Tôn, huyện Tống Sơn, tỉnh Thanh Hóa. Các con trai ông là Nguyễn Uông được phong tước là Lăng Xuyên Hầu, Nguyễn Hoàng là Hạ Khê Hầu (sau này là chúa Tiên có công mở mang bờ cõi vào phương Nam), rể là Trịnh Kiểm làm Đô tướng gia phong Lượng Quốc Công. Sau này Trịnh Kiểm chuyên quyền thảm sát Nguyễn Uông, rồi lập nên dòng chúa Trịnh, lấn áp vua Lê."
+  "entityName" : "Lý Thái Tông",
+  "aliases" : [ "Thiên Thành (天成: 1028 - 1033) Thông Thụy (通瑞: 1034 - 1038) Càn Phù Hữu Đạo (乾符有道: 1039 - 1041) Minh Đạo (明道: 1042 - 1043) Thiên Cảm Thánh Vũ (天感聖武: 1044 - 1048) Sùng Hưng Đại Bảo (崇興大寶: 1049 - 1054)", "Khai Thiên Thống Vận Tôn Đạo Quý Đức Thánh Văn Quảng Vũ Sùng Nhân Thượng Thiện Chính Lý Dân An Thần Phù Long Hiện Thể Nguyên Ngự Cực Ức Tuế Công Cao Ứng Chân Bảo Lịch Thông Huyền Chí Áo Hưng Long Đại Địch Thông Minh Từ Hiếu Hoàng đế\" (开天统运尊道贵德圣文广武崇仁尚善政理民安神符龙见体元御极亿岁功高应真宝历通玄至奥兴龙大定聪明慈孝皇帝)", "Thái Tông (太宗)", "Lý Thái Tông", "Đức Chính", "Lý Phật Mã (李佛瑪) Lý Đức Chính (李德政)" ],
+  "overview" : "Lý Thái Tông (chữ Hán: 李太宗; 29 tháng 7, 1000 – 3 tháng 11, 1054), là vị hoàng đế thứ hai của triều đại nhà Lý trong lịch sử Việt Nam, cai trị trong 26 năm (1028 - 1054). Ông được đánh giá là một vị hoàng đế tài giỏi, thời đại của ông được xem là khởi đầu sự thịnh vượng của nhà Lý.\n----------------------------------------------\nThuở bé, ông được vua cha phong là Khai Thiên Tương, rồi lập làm Thái tử, năm Mậu thìn 1028, vua cha mất, Dực Thánh vương và Võ Đức vương đem quân bao phủ Long thành và mở cửa Quảng Phúc để tranh ngôi với ông. Nhờ có các tướng cận vệ tài giỏi là Lý Nhân Nghĩa, Lê Phụng Hiểu ra sức dẹp được, cuộc nổi loạn mới yên. Ông thông minh, rất khéo cai trị, chăm lo đời sống nhân dân, mở mang văn hóa. Triều đại ông được an thịnh, ông sùng thượng Phật giáo, ưu đãi tăng đạo. Ngày 1-10 âm lịch Giáp ngọ (3-10-1054) ông mất, hưởng dương 54 tuổi, ở ngôi 26 năm, đổi hiệu năm 6 lần: 1. Thiên Thành: Mậu thìn 1028 - Giáp tuất 1034. 2. Thông Thụy 1034-1039. 3. Càn Phù Hữu Đạo: 1039-1042. 4. Minh Đạo 1042-1044. 5. Thiên Cảm Thánh Võ: 1044-1049. 6. Sùng Hưng Đại Bảo: 1049-1054. Năm 1042, ông ra lệnh cho một nhóm triều thần soạn bộ Hình thư làm nền tảng pháp luật. Ông có bài thơ Truy tán sư Tì Ni Đa Lưu Chi (Vinitaruci) người khai sáng dòng thiền Nam phương. \"Sáng tự lai Nam quốc, Văn quân cứu tập Thiền. Ưng khai chư Phật tiến, Viễn hợp nhất tâm nguyên. Hạo hạo lăng già nguyệt, Phân phân Bát nhã liên, Hà thời lâm diệu kiến. Tương dữ thoại trùng huyền\". Bản dịch: Cõi Nam đầu bước tới, Nghe đã đượm màu Thiền Tin Phật mong thêm rộng. Nguồn lòng khéo hợp duyên Non già ngời bóng nguyệt Cõi nhã nức nùi sen Hợp mặt chừng bao tá ? Cùng nhau giáng lẽ huyền. Tác phẩm của ông: - Hình thư (triều Lý hợp soạn). - Một số bài thơ. - Bình Nùng chiến (tiến đánh Nùng). - Đáp quân thần thỉnh tiến vi hiệu (Đáp lời quần thần xin dâng tôn hiệu)...\n----------------------------------------------\nLý Thái Tông (chữ Hán: 李太宗 29 tháng 7 năm 1000 – 3 tháng 11 năm 1054) là vị hoàng đế thứ hai của triều đại nhà Lý trong lịch sử Việt Nam, cai trị trong 26 năm (1028–1054). Ông được đánh giá là một vị hoàng đế tài giỏi, thời đại của ông, con ông là Lý Thánh Tông, cháu ông là Lý Nhân Tông được xem là thời thịnh vượng của nhà Lý, sử gọi thời kỳ này là Bách niên Thịnh thế (百年盛世)."
 }

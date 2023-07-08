@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "12 tháng 10, 1956 (61 tuổi) thôn Lưu Quang, xã Quang Thiện, Kim Sơn, Ninh Bình, Việt Nam Dân chủ Cộng hòa",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quận Thanh Xuân, thành phố Hà Nội",
-  "occupation" : "Đại tướng",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Nhâm Dần 1782",
+  "hometown" : "quê huyện Lệ Thủy, tỉnh Quảng Bình",
+  "occupation" : "Danh thần nhà Nguyễn Phúc",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
   "id" : 2025,
-  "entityName" : "Trần Đại Quang",
+  "entityName" : "Bạch Doãn Triều",
   "aliases" : [ ],
-  "overview" : "Trần Đại Quang (sinh ngày 12 tháng 10 năm 1956 tại xã Quang Thiện, huyện Kim Sơn, tỉnh Ninh Bình) là đương kim Chủ tịch nước của nước Cộng hòa xã hội chủ nghĩa Việt Nam. Ông còn là đại biểu quốc hội Việt Nam khóa XIV nhiệm kì 2016-2021, thuộc đoàn đại biểu quốc hội thành phố Hồ Chí Minh, trúng cử ở đơn vị bầu cử số 1 thành phố Hồ Chí Minh gồm quận 1, quận 3 và quận 4. Ông xuất thân là tướng lĩnh công an với quân hàm Đại tướng, từng là Bộ trưởng Bộ Công an Việt Nam nhiệm kỳ 2011-2016. Trong Đảng Cộng sản Việt Nam, ông hiện là Ủy viên Bộ Chính trị Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa XII, Trưởng Ban Chỉ đạo cải cách Tư pháp Trung ương Đảng Cộng sản Việt Nam, từng là Bí thư Đảng ủy Công an Trung ương và Trưởng Ban Chỉ đạo Tây Nguyên từ 2011 đến 2016 . Ông là Giáo sư khoa học an ninh, Tiến sĩ Luật học."
+  "overview" : "Mậu tí 1768, ông đỗ giải nguyên, được bổ Tri huyện Đồng Xuân trong thời Định vương Nguyễn Phúc Thuần. Đến khi Tây Sơn dấy lên, ông chạy vào Gia Định, theo giúp Nguyễn Phúc ánh, chống lại Tây Sơn. Khoảng năm Nhâm dần 1782, Tây Sơn tiến công mạnh, Nguyễn Phúc Ánh chạy sang Xiêm (Thái Lan), ông bịnh mất tại Gia Định."
 }

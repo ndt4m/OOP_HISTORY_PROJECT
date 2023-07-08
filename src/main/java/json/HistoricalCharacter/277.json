@@ -1,22 +1,16 @@
 {
-  "dateOfBirth" : "Đinh Mùi 1607\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "Nhâm Dần 1662\n----------------------------------------------\nKhông rõ",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Vua nhà Hậu Lê\n----------------------------------------------\nVua",
-  "workTenure" : "1619–1643",
-  "fatherName" : {
-    "Lê Kính Tông" : 2612,
-    "Kính tông" : null
-  },
-  "motherName" : {
-    "Đoan Từ Thái hậu" : null
-  },
+  "occupation" : "Tiết độ sứ",
+  "workTenure" : "931—937",
+  "fatherName" : { },
+  "motherName" : { },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34,
-    "Nam triều – Nhà Hậu Lê – giai đoạn Lê Trung hưng" : 28
+    "Họ Dương" : 32
   },
   "id" : 277,
-  "entityName" : "Lê Thần Tông",
-  "aliases" : [ "Lê Thần Tông" ],
-  "overview" : "Lê Duy Kỳ có thể là:\n----------------------------------------------\nNăm Kỉ mùi 1619, tháng 6 ông lên ngôi, mới 12 tuổi. Đến năm Quí mùi 1643, tháng 10, ông nhường ngôi cho con trường là Duy Hựu tức Chân tông, làm Thái thượng hoàng. Trong 25 năm ở ngôi, ông đổi hiệu năm 3 lần: - Vĩnh Tộ 10 năm: Kỉ mùi 1619 - Mậu thìn 1628. - Đức Long 6 năm: Kỉ tị 1629 - Giáp tuất 1634. - Dương Hòa 9 năm: Ất hợi 1635 - Quí mùi 1643. Nhưng con ông là Chân tông làm vua chỉ 7 năm thì mất. Ông lại được Trịnh Tráng tôn lên ngôi lần nữa vào tháng 10 năm Kỉ sửu 1649. Đến năm Nhâm dần 1662, tháng 11 ông mất thọ 55 tuổi, táng tại Quần Ngọc lăng (Thanh Hóa). Ở ngôi lần II được 14 năm, đổi hiệu 4 lần: - Khánh Đức 4 năm: Kỉ sửu 1649 - Nhâm thìn 1652. - Thịnh Đức, 5 năm: Quí tị 1653 - Đinh dậu 1657. - Vĩnh Thọ, 4 năm: Mậu tuất 1658 - Tân sửu 1661. - Vạn Khánh 1 năm: Nhâm dần 1662. Tính ra 2 lần ở ngôi vua tất cả 39 năm. Con thứ hai của ông lên nối ngôi, tức Huyền tông (Lê Duy Võ). Lê Thần tông tên là Duy Kì, mà Lê Mẫn đế tức vua Chiêu Thống cũng tên là Duy Kì, nhưng về mặt chữ Hán, hai chữ Kỳ viết khác nhau. Xin đừng lầm lẫn. Vả lại, Lê Chiêu Thống còn có tên khác là Duy Khiêm hoặc Tư Khiêm (Lê Duy Khiêm).\n----------------------------------------------\nLê Thần Tông (chữ Hán: 黎神宗 1607 – 2 tháng 11 năm 1662) tên húy là Lê Duy Kỳ (黎維祺), là vị hoàng đế thứ sáu của nhà Lê Trung hưng và thứ 17 của nhà Hậu Lê trong lịch sử Việt Nam. Ông cũng là vị Vua Việt Nam duy nhất hai lần lên ngôi, có đến 4 người con đều làm vua và là vị vua Việt Nam đầu tiên lấy vợ phương Tây cũng như là vua có nhiều vợ là người các dân tộc khác."
+  "entityName" : "Dương Chính Công",
+  "aliases" : [ ],
+  "overview" : "Dương Đình Nghệ (chữ Hán: 楊廷藝), có sách như Việt Nam sử lược của Trần Trọng Kim chép là Dương Diên Nghệ (楊筵藝, 22 tháng 11 năm 874 – 937), người Ái châu, làm tướng cho Khúc Hạo. Đời Hậu Lương, vì Khúc Hạo chiếm cứ đất Giao Châu, nên Nam Hán Cao Tổ Lưu Nghiễm ở đất Quảng Châu, có cớ sai Lý Khắc Chính và Lý Tri Thuận đánh chiếm Giao Châu. Kết quả của cuộc chiến này là con trai Khúc Hạo là Khúc Thừa Mỹ bị bắt, và vua Nam Hán phong Lý Tiến thay làm Thứ sử Giao Châu. Thấy vậy, tướng Dương Đình Nghệ dấy binh lên, đánh bại được Lý Khắc Chính, và vây hãm Lý Tiến. Và khi Lý Tiến được tướng Nam Hán là Trần Bảo đem quân tới cứu, Dương Đình Nghệ một lần nữa đánh bại và chém chết được Trần Bảo. Cuối cùng là Dương Đình Nghệ đã vẻ vang giữ được thành, và oai phong tự xưng là Tiết độ sứ của Giao Châu. Sáu năm sau, Dương Đình Nghệ, tuy thắng được ngoại xâm nhưng lại chết vì nội phản, bị tướng của mình là Kiều Công Tiễn làm phản, giết chết rồi lên thay."
 }

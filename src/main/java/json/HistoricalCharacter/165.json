@@ -1,16 +1,23 @@
 {
-  "dateOfBirth" : "Bính Tí 1756",
-  "dateOfDeath" : "Đinh Mùi 1787",
-  "hometown" : "quê làng Tri Chỉ, huyện Phú Xuyên",
-  "occupation" : "Văn thần cuối đời Hậu Lê",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
+  "dateOfBirth" : "1630\n----------------------------------------------\nCanh Ngọ 1630\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "1649 (18–19 tuổi) Đông Kinh, Đại Việt\n----------------------------------------------\nKỉ Sửu 1649\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua nhà Hậu Lê\n----------------------------------------------\nVua",
+  "workTenure" : "1643 – 1649\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1643–1649",
+  "fatherName" : {
+    "Lê Thần Tông" : 1930,
+    "Thần tông" : null
+  },
+  "motherName" : {
+    "Nguyễn Thị Ngọc Bạch" : null
+  },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34
+    "Trịnh - Nguyễn" : 34,
+    "Nhà Lê trung hưng" : null,
+    "Nam triều – Nhà Hậu Lê – giai đoạn Lê Trung hưng" : 28
   },
   "id" : 165,
-  "entityName" : "Ngô Nho",
-  "aliases" : [ ],
-  "overview" : "Năm Ất tị 1785, ông đỗ tiến sĩ, 29 tuổi (các sách khác chép là đỗ năm Giáp thìn 1784, chúng tôi theo Đăng khoa lục). Làm quan đến Hộ khoa Cấp sự trung. Thuở trẻ ông nổi tiếng hiếu học, khi thi đỗ, cảm ơn tri ngộ của Trần Công Xán, ông tôn Trần làm thầy. Tính ông khảng khái cương trực, không xu nịnh đám quyền thần đương thời. Nghĩa quân Tây Sơn dấy lên, phù Lê diệt Trịnh. Trần Công Xán tiếp cử ông làm phó sứ, cùng đi với Trần và Lê Duy Án vào Phú Xuân thương nghị về đất Nghệ An đã bị chiếm. Tây Sơn bắt giam ông và Trần cùng tất cả sứ bộ ở ngục Phú Xuân. Ít lâu sau, Tây Sơn cho thuyền đưa ông, Trần Công Xán và các nhân viên sứ bộ trở về. Nhưng đến cửa bể Nghệ An, thuyền chìm, ông và cả sứ bộ đều chết đuối trong năm Đinh mùi 1787, hưởng dương 31 tuổi."
+  "entityName" : "Lê Chân Tông",
+  "aliases" : [ "Chân Tông (真宗)", "Lê Duy Hựu", "Thuận Hoàng đế", "Lê Chân Tông", "Phúc Thái (福泰: 1643 - 1649)" ],
+  "overview" : "Lê Chân Tông (chữ Hán: 黎真宗, 1630 – 1649) tên húy là Lê Duy Hựu (黎維祐, 黎維禔), là vị hoàng đế thứ 7 của nhà Lê trung hưng trong lịch sử Việt Nam, ở ngôi từ năm 1643 đến năm 1649, tổng cộng 6 năm.\n----------------------------------------------\nNăm Quí mùi 1643, tháng 10 ông lên ngôi mới 13 tuổi, Thanh Đô vươngTrịnh Tráng phụ chính. Trong đời ông, vua Minh là Quế vương đóng ở Quảng Tây có sai sứ sang phong cho ông làm An Nam quốc vương. Năm Kỉ sửu 1649, tháng 8 ông mất, mới 19 tuổi, táng tại Hoa Phố lăng. Ở ngôi 7 năm, hiệu năm là Phúc Thái: Tháng 10 Quí mùi 1643 - tháng 8 Kỉ sửu 1649.\n----------------------------------------------\nLê Chân Tông (chữ Hán: 黎真宗 1630 – 2 tháng 10 năm 1649) tên húy là Lê Duy Hựu (黎維祐, 黎維禔), là vị Hoàng đế thứ 7 của nhà Lê Trung hưng và thứ 18 của triều Hậu Lê trong lịch sử Việt Nam, ở ngôi từ năm 1643 đến năm 1649, tổng cộng 6 năm."
 }

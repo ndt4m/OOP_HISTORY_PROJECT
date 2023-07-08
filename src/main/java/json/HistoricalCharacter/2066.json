@@ -1,17 +1,19 @@
 {
-  "dateOfBirth" : "Canh Tuất 1850",
-  "dateOfDeath" : "Bính Dần 1926",
-  "hometown" : "quê làng Hiền Lương (tục gọi làng Rèn), huyện Quảng Điền, tỉnh Thừa Thiên, nhạc phụ Phụng Hóa Công (vua Khải Định)",
-  "occupation" : "Phụ chánh đại thần triều Thành Thái Duy Tân",
+  "dateOfBirth" : "1287\n----------------------------------------------\nNhâm Ngọ 1282",
+  "dateOfDeath" : "1325\n----------------------------------------------\nẤt Sửu 1325",
+  "hometown" : "quê làng Tức Mặc phủ Thiên Trường, tỉnh Nam Định",
+  "occupation" : "Danh sĩ đời Trần Anh tông",
   "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "fatherName" : {
+    "Trần Quốc Tảng" : 751
+  },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nhà Nguyễn độc lập" : 30
+    "Nhà Trần" : 15,
+    "nhà Trần" : null
   },
   "id" : 2066,
-  "entityName" : "Trương Như Cương",
-  "aliases" : [ ],
-  "overview" : "Năm 1873 đỗ Cử nhân, sơ bổ Thừa biện tàng thư, tiếp theo được thăng Tư vụ, Viên ngoại, rồi Tri phủ, Án sát tỉnh Hưng Yên, Bố chánh Quảng Bình, rồi về triều giữ chức Thị lang Bộ Binh. Năm 1885, kinh thành thất thủ, tiếp sau Nguyễn Phúc Ưng Ki lên ngôi (tức Vua Đồng Khánh) ông được bổ làm Phủ doãn Thừa Thiên; Tuần vũ, Tổng đốc Thanh Hóa. Sau đó về triều giữ chức Thượng thư Bộ Công sung Cơ mật viện đại thần, Võ hiển Đại học sĩ rồi giữ chức Phụ chánh đại thần tước Hiền Lương bá, đến đời vua Duy tân được tấn phong Hiền Lương hầu. Ông là người giữ chức Phụ chánh đại thần qua các triều Đồng Khánh, Thành Thái, Duy Tân. Tương truyền khi vua Đồng Khánh mới lên ngôi, vua đến đền Ngọc Trản (điện Hòn Chén - là ngôi đền thờ Tiên Thiên thánh mẫu rất linh ứng lúc bấy giờ ở Huế) xin xăm, Thánh mẫu bút phê \"Trương Như Cương\" nên ông được bổ làm Phủ doãn Thừa Thiên bất chấp lệ triều đình không bổ người bản quân làm quan đứng đầu tỉnh Thừa Thiên. Kế tiếp giữ chức Tổng đốc Thanh Hóa cũng là một ngoại lệ vì triều Nguyễn không bao giờ bổ người \"bách tính\" giữ chức vụ này ở bản quán của Nguyễn triều (chúa và vua Nguyễn gốc tỉnh Thanh Hóa). Dư luận đương thời cho rằng ông là người có mối quan hệ chặt chẽ với người Pháp nên mới được giữ những chức vụ quan trọng trong hoạn lộ của mình. Năm Bính dân 1926, ông mất thọ 76 tuổi được tấn phong Văn minh điện đại học sĩ ."
+  "entityName" : "Trần Quang Triều",
+  "aliases" : [ "Võ Sơn Ông", "Trần Nguyên Đào", "Cúc Đường" ],
+  "overview" : "Trần Quang Triều (chữ Hán: 陳光朝, 1287 -1325) còn có tên là Trần Nguyên Đào , biệt hiệu là Cúc Đường Chủ nhân và Vô Sơn Ông; là nhà thơ và là quan nhà Trần trong lịch sử Việt Nam.\n----------------------------------------------\nNăm Tân sửu 1301, ông được phong tước Văn Huệ vương, làm đến Nhật nội kiểm hiệu Tư đồ. Tuy quan tước cao trọng nhưng ông không tha thiết danh lợi. Sau ông cáo quan về ở ấn tại am Bích Động gần chùa Quỳnh Lâm (nay thuộc huyện Đông Triều, tỉnh Quảng Ninh). Tại đây ông mở một thi xã mang tên Bích Động gồm các danh sĩ Nguyễn Trung Ngạn, Nguyễn Ức, Nguyễn Xưởng nổi tiếng đương thời. Năm Ất sửu 1325 ông mất hưởng dương 43 tuổi. Ông là tác giả thi tập Cúc Đường di thảo Cúc Đường di thảo do Nguyễn Ức sưu tập gồm thơ ông và một số thơ của bạn trong thi xã Bích Động. Thi phẩm trên nay đã thất lạc, chỉ còn 11 bài thơ của ông do Phan Phu Tiên sưu tầm, in trong Việt âm thi tập."
 }

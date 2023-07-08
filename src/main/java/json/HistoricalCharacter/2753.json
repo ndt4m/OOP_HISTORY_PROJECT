@@ -1,16 +1,20 @@
 {
-  "dateOfBirth" : "",
-  "dateOfDeath" : "Mậu Thìn 548",
-  "hometown" : "quê huyện Long Hưng, tỉnh Thái Bình",
-  "occupation" : "Đại thần sau là vua, người gầy dựng nhà Tiền Lý, xưng Nam đế",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Vua",
+  "workTenure" : "965\n----------------------------------------------\n965—966",
+  "fatherName" : {
+    "Thiên Sách Vương" : 335,
+    "Ngô Xương Ngập" : 612
+  },
   "motherName" : { },
   "eraName" : {
-    "Nhà Tiền Lý, Triệu" : null
+    "Nhà Ngô" : 25,
+    "Nhà Ngô và Dương Tam Kha" : 25
   },
   "id" : 2753,
-  "entityName" : "Lý Bôn",
-  "aliases" : [ "Lý Bí", "Lý Phần" ],
-  "overview" : "Lý Bí có thể là:\n----------------------------------------------\nÔng từng làm quan với nhà Lương khi nước ta bị chúng đô hộ. Nhà giàu có, tài gồm văn võ, ít lâu ông cáo quan lui về quê nuôi chí đánh đuổi giặc. Nhân Thứ sử Giao Châu là Tiêu Tư tàn ác, ông dấy quân đánh đuổi Tiêu Tư chạy về Quảng Châu, thu phục Thăng Long. Rồi tiến đánh Lâm Ấp, chiêu an dân chúng, tự xưng Nam đế, đặt hiệu nước là Vạn Xuân, hiệu năm là Thiên Đức trong năm Giáp tí 544, có Tinh Thiều, Triệu Túc giúp việc chính trị, Lý Đại Quyền, Lý Phổ Đình, Triệu Quang Phục coi việc binh bị. Nhà Lương lại sai tướng Dương Phiêu và Trần Bá Tiên đem quân xâm lược. Ông chống cự nhiều trận bị thua, rút quân về đóng ở hồ Điển Triệt (huyện Lập Thạch). Quân Lương tiến công, ông thất thế chạy vào động Khuất Liêu (thuộc tỉnh Hưng Hoá), rồi bệnh mất trong năm Mậu thìn 548. Tướng của ông là Triệu Quang Phục tiếp tục kháng chiến."
+  "entityName" : "Ngô Sứ Quân",
+  "aliases" : [ "Ngô Xương Xí (吳昌熾)" ],
+  "overview" : "Ngô Xương Xí (chữ Hán: 吳昌熾), còn gọi Ngô Sứ Quân (吳使君), là con trai của Thiên Sách Vương Ngô Xương Ngập, tức là cháu nội của Ngô Tiên chúa Ngô Quyền. Sử không ghi rõ năm sinh và năm mất của Ngô Xương Xí, nhưng căn cứ vào hành trạng của Ngô Xương Ngập thì ông sinh khoảng từ năm 944 đến trước năm 950.\n----------------------------------------------\nNgô Xương Xí (chữ Hán: 吳昌熾), còn gọi là Ngô sứ quân (吳使君), được chính sử ghi nhận là một trong những thủ lĩnh thời 12 sứ quân thế kỷ X. Nhiều tài liệu cho biết ông là con trai của Thiên Sách Vương Ngô Xương Ngập, tức là cháu nội của Ngô Tiên chúa Ngô Quyền. Sử không ghi rõ năm sinh và năm mất của Ngô Xương Xí, nhưng căn cứ vào hành trạng của Ngô Xương Ngập thì ông sinh khoảng từ năm 944 đến trước năm 950."
 }

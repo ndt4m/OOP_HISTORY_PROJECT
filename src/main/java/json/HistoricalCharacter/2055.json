@@ -1,20 +1,16 @@
 {
-  "dateOfBirth" : "1763",
-  "dateOfDeath" : "1786 (22–23 tuổi) Đàng Ngoài, Đại Việt",
-  "hometown" : "Không rõ",
-  "occupation" : "Trịnh Vương",
-  "workTenure" : "1782 – 1786",
-  "fatherName" : {
-    "Trịnh Sâm" : null
-  },
-  "motherName" : {
-    "Dương Thị Ngọc Hoan" : null
-  },
+  "dateOfBirth" : "Canh Tí 1420",
+  "dateOfDeath" : "Tân Dậu 1501",
+  "hometown" : "quê xã Hồng Liễu, huyện Trường Tân, (sau đổi là xã Thanh Liễu, huyện Gia Lộc) tỉnh Hải Dương",
+  "occupation" : "Danh sĩ đời Lê Thái tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
   "eraName" : {
-    "Chúa Trịnh" : 26
+    "Triều Lê Sơ" : 7
   },
   "id" : 2055,
-  "entityName" : "Trịnh Khải",
-  "aliases" : [ "Đoan Nam Vương (端南王)", "Trịnh Tông (鄭棕)" ],
-  "overview" : "Đoan Nam Vương Trịnh Tông (chữ Hán: 鄭棕; 1763 - 1786), còn có tên khác là Trịnh Khải (鄭楷) là vị chúa Trịnh thứ 10 thời Lê Trung Hưng trong lịch sử Việt Nam, cầm quyền từ năm 1782 tới năm 1786, ở giai đoạn tan rã của tập đoàn phong kiến họ Trịnh."
+  "entityName" : "Lương Nhữ Hộc",
+  "aliases" : [ "Tường Phủ" ],
+  "overview" : "Năm Nhâm tuất 1442, ông đỗ Thám hoa, 22 tuổi, làm đến Đô ngự sử, từng đi sứ nhà Minh 2 lần vào năm 1443 và 1459. Theo sách Hải Dương phong vật chí, hai lần đi sứ Trung Quốc, ông chú ý đến việc in sách, quan sát kĩ và học được nghề khắc ván in. Về nước, ông là người đầu tiên truyền dạy dân trong vùng Liễu Tràng, Gia Lộc, mở mang nghề in sách. Do đấy ông được thờ làm tiên sư trong ngành. Năm Tân dậu 1501, ông mất thọ 81 tuổi, còn để lại đời bộ: - Hồng Châu quốc ngỡ thi tập - Cổ kim chế từ tập - Tiêu Tương bát cảnh thi - Ông có duyệt lại bộ sách: Cổ kim thi gia tinh tuyển hay Tính tuyển chư gia thi tập do Dương Đức Nhan sưu tập; gồm 5 quyển 472 bài thơ của 13 nhà thơ cuối đời Trần, Hồ và Lê, có chú thích. Cổ Kim chế từ tập do ông biên soạn (theo Phan Huy Chú) ; sách hiện nay đã thất lạc. Ngoài ra ông có một số thơ in trong Toàn Việt thi lục và Hoàng Việt thi tuyển do Bùi Huy Bích tuyển chọn."
 }

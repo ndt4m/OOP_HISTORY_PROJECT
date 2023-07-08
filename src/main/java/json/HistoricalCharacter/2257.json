@@ -1,16 +1,14 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Nhâm Thân 1932",
-  "hometown" : "quê làng Đồng Hiệp, phủ Ninh Giang, tỉnh Hải Dương (nay là Hải Hưng)",
-  "occupation" : "Liệt sĩ hiện đại",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
-  },
+  "eraName" : { },
   "id" : 2257,
-  "entityName" : "Hồ Văn Mịch",
+  "entityName" : "Trần Chân",
   "aliases" : [ ],
-  "overview" : "Ông xuất thân nhà giáo, nhiệt thành yêu nước, ông gia nhập Việt Nam Quốc dân đảng, tích cực hoạt động. Ít lâu, ông vướng bệnh lao nhổi nhưng vẫn tận tụy lo việc cứu nước, Nguyễn Thái Học rất trọng vọng ông. Kỉ tị 1929, ông bi bắt đày ra Côn Đảo với án 10 năm cấm cố. Đến Nhâm thân, ngày 8-4 dương lịch, ông mất trong tù, ngoài đảo."
+  "overview" : "Trần Chân có thể là một trong những nhân vật sau:"
 }

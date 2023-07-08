@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Vua",
-  "workTenure" : "?–?",
+  "dateOfBirth" : "1396",
+  "dateOfDeath" : "1465",
+  "hometown" : "xã Nghi Hợp, huyện Nghi Lộc, Nghệ An, gốc người làng Cương Gián, huyện Nghi Xuân, Hà Tĩnh, Việt Nam.",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Hồng Bàng" : 17
+    "nhà Hậu Lê" : null
   },
   "id" : 1608,
-  "entityName" : "Hùng Vương thứ tám",
+  "entityName" : "Nguyễn Xí",
   "aliases" : [ ],
-  "overview" : "Hùng Vương (chữ Hán: 雄王) hay vua Hùng (chữ Nôm: \uD852\uDD30雄) là cách gọi dành cho các vị vua nước Văn Lang của người Lạc Việt, tồn tại vào khoảng thế kỷ 7 tới thế kỷ 2 trước công nguyên."
+  "overview" : "Nguyễn Xí (chữ Hán: 阮熾; 1396-1465) là một vị tướng, nhà chính trị, công thần khai quốc nhà Hậu Lê và là đại thần trải qua 4 đời vua thời Hậu Lê trong lịch sử Việt Nam, sinh ra ở xã Nghi Hợp, huyện Nghi Lộc, Nghệ An, gốc người làng Cương Gián, huyện Nghi Xuân, Hà Tĩnh, Việt Nam."
 }

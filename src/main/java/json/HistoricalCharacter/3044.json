@@ -1,18 +1,17 @@
 {
-  "dateOfBirth" : "Kỉ Sửu 1829",
-  "dateOfDeath" : "Giáp Tí 1864",
-  "hometown" : "quê làng An Định, huyện Bình Dương, tỉnh Gia Định (nay thuộc Thành phố Hồ Chí Minh)",
-  "occupation" : "Liệt sĩ kháng Pháp",
-  "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Hồ Lợi" : null
-  },
+  "dateOfBirth" : "Lam Sơn, huyện Thọ Xuân, Thanh Hóa\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "1421\n----------------------------------------------\nKhông rõ",
+  "hometown" : "quê ở Lam Sơn, tỉnh Thanh Hóa, không rõ năm sinh, năm mất ông là cháu Lê Lợi (gọi Lê Lợi bằng chú) tham gia khởi nghĩa chống quân Minh ngay từ những ngày đầu, dũng lược hơn người, đánh đâu được đấy, khéo nuôi sĩ tốt, lúc ra trận bao giờ cũng đi trước Gặp lúc Ai Lao đem ba vạn quân sang giả danh giúp để đánh úp quân ta",
+  "occupation" : "Thuộc\n----------------------------------------------\nDanh tướng, của Bình Định vương Lê Lợi quê ở Lam Sơn, tỉnh Thanh Hóa",
+  "workTenure" : "1418-1421\n----------------------------------------------\nKhông rõ",
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+    "nhà Hậu Lê" : null,
+    "Triều Lê Sơ" : 7
   },
   "id" : 3044,
-  "entityName" : "Hồ Huân Nghiệp",
-  "aliases" : [ "Thiệu Tiên" ],
-  "overview" : "Khi cha mất, ông làm nhà bên mộ, dạy học. Ngoài 30 tuổi, vẫn xem thường công danh, từ chối mọi sự cám dỗ về danh lợi ở yên dạy học, nuôi mẹ già. Năm Nhâm tuất 1862, liên quân Pháp - Ý đánh chiếm ba tỉnh miền Đông Nam Bộ, ông đứng lên theo Trương Định kháng chiến, coi sóc phủ Tân Bình, lo liệu về mặt quân tiếp vụ cho nghĩa quân. Năm Giáp tí 1864, 12-3 âm lịch (7-4-1864) ông sa vào tay giặc và bị giết, hưởng dương 35 tuổi. Ông còn lưu truyền một bài thơ tuyệt mạng: \"Kiến nghĩa ninh cam bất dũng vi, Toàn bằng trung hiếu tác nam nhi. Thử thân sinh tử hà tu luận, Duy luyến cao đường bạch huyết thùy\" Bản dịch: Thấy nghĩa không làm dũng để chi, Hiếu trung là phận của nam nhi Tử sinh sá kể thân này đã, Riêng nhớ nhà huyên nỗi tuyết ti."
+  "entityName" : "Lê Thạch",
+  "aliases" : [ ],
+  "overview" : "Lê Thạch (chữ Hán: 黎石, ? - 1421), là công thần khai quốc nhà Hậu Lê . Ông là con của anh trai cả của Lê Lợi, tham gia khởi nghĩa Lam Sơn từ buổi ban đầu, được Lê Lợi phong làm Tướng quốc. Lê Thạch vì ham lập công giết địch, mà tử trận trong trận chiến với quân Ai Lao vào năm 1421.\n----------------------------------------------\n"
 }

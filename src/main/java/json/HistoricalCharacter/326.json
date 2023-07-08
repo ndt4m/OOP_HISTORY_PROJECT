@@ -1,14 +1,21 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
+  "dateOfBirth" : "Quí Mùi 1763\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "Bính Ngọ 1786\n----------------------------------------------\nKhông rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
+  "occupation" : "Chúa thứ mười đời hậu Lê\n----------------------------------------------\nTước hiệu",
+  "workTenure" : "1782—1786",
+  "fatherName" : {
+    "Trịnh Sâm" : null
+  },
+  "motherName" : {
+    "Thái phi Dương Thị Ngọc Hoan" : null
+  },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34,
+    "Đàng Ngoài - Chúa Trịnh" : 26
+  },
   "id" : 326,
-  "entityName" : "Trần Trung",
-  "aliases" : [ ],
-  "overview" : "Trần Trung có thể là"
+  "entityName" : "Đoan Nam Vương",
+  "aliases" : [ "Đoan Nam Vương" ],
+  "overview" : "Thuở nhỏ ông được nuôi dạy rất kĩ, năm lên 7 tuổi, được hai tiến sĩ Nguyễn Khản và Trần Thản trông nom dạy dỗ. Nhưng tính ông lại ham cung tên võ nghệ, không thích việc học hành khiến Trịnh Sâm không bằng lòng. Theo lệ, năm lên 12 tuổi, ông phải ra ở riêng tại Tòa Đông cung. Bấy giờ trong phủ chúa có hai phe: phe Đặng Thị Huệ (ái phi của Sâm) và phe ông tranh nhau rất gay gắt, do đó ông bị truất ngôi Thế tử và Trịnh Cán tuy là một đứa bé bệnh hoạn lại được thay ông. Bị truất, ông cùng phe đảng giành lại ngôi. Việc bất thành, ông bị hạ ngục. Năm 1782, Trịnh Sâm mất, Trịnh Cán kế vị làm chúa. Công việc phủ chúa bấy giờ vô cùng thối nát, lính Tam phủ nổi lên phế Trịnh Cán, ông được lập lên làm chúa năm 1783. Từ khi lên ngôi, ông không thi thố được điều gì, mà chỉ làm bù nhìn cho đám kiêu binh. Năm 1786 nghĩa quân Tây Sơn ra Bắc lần thứ hai, ông bỏ Thăng Long, cùng một số cận thần chạy về miền thượng du. Khi đến làng Phượng Nhỡn, tỉnh Bắc Ninh, ông bị quân Tây Sơn bắt làm tù binh. Trên đường giải về Thăng Long, ông mổ bụng tự tử vào ngày 27-6 năm Bính ngọ 1786, hưởng dương 23 tuổi.\n----------------------------------------------\nĐoan Nam Vương Trịnh Tông (chữ Hán: 鄭棕; 10 tháng 10 năm 1763 - 23 tháng 7 năm 1786), còn có tên khác là Trịnh Khải (鄭楷) là vị chúa Trịnh thứ 10 thời Lê Trung Hưng trong lịch sử Việt Nam, cầm quyền từ năm 1782 tới năm 1786, ở giai đoạn tan rã của tập đoàn phong kiến họ Trịnh."
 }

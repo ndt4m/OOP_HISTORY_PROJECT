@@ -1,16 +1,16 @@
 {
   "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Danh sĩ đời Trần Nghệ tông",
+  "hometown" : "quê tỉnh Nghệ An (nay là Nghệ An)",
+  "occupation" : "Dật sĩ, người đời Minh Mạng, có tiếng hiền hiếu",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Trần" : 15
+    "Nhà Nguyễn độc lập" : 30
   },
   "id" : 719,
-  "entityName" : "Đỗ Tử Vi",
-  "aliases" : [ "Tôn Trai" ],
-  "overview" : "Ông làm đến Trung thư lệnh, tính cương trực, khí khái, hết lòng chăm lo việc nước. Thơ văn ông còn truyền tụng nhiều, ý tứ sâu sắc như bài Quá Việt tỉnh cương (Qua gò Việt tỉnh), cảm khái truyện Việt Vương Triệu Quang Phục và Lý Phật Tử xưa. \"Việt tỉnh thê lương thảo mộc thu, Trích lưu sự khứ sử nhân sầu. Bằng thùy mịch đắc tam niên ngãi, Y ngã càn khôn nhất chuế vưu.\" Bản dịch: Việt tỉnh buồn thu cỏ một vùng, Đâu còn việc vắng khách đau lòng. Ba năm cây ngãi ai tìm được, Thử chữa người thừa của hóa công."
+  "entityName" : "Nguyễn Áng",
+  "aliases" : [ ],
+  "overview" : "Nhiều sách báo nhắc chuyện can đảm của ông, vì hiếu liều mình. Phạm Xuân Khôi tuyển chọn các gương hiếu ở nước ta viết về Nguyễn Áng: Một chiều mùa Đông, mẹ con ông gặt lúa dưới chân núi, xảy có cọp xông ra vồ người mẹ. Ông chụp lấy đòn xóc, đánh đuổi được cọp. Người mẹ đau yếu suốt năm, ông chăm nom hầu hạ tận tình, khiến mọi người thương cảm khen ngợi. Phạm Xuân Khôi có thơ vịnh: Vì thân nào có tiếc chi mình, Nguyễn Áng này không khác Tú Danh, Thấy mẹ bị hùm chồm đến bắt, Một mình cầm gậy đánh tan tành, Hổ khôn địch nổi liền buông chạy, Me bị thương đau lại chữa lành. Cho biết lòng nguới hơn thú mạnh, Dù trong nguy hiểm chẳng sờn kinh."
 }

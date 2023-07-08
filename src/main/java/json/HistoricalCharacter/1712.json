@@ -1,16 +1,14 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
+  "dateOfBirth" : "6 tháng 10 năm 1932 Phú Vang, Thừa Thiên Việt Nam",
+  "dateOfDeath" : "19 tháng 10, 2005 (73 tuổi) Los Angeles, Hoa Kỳ",
   "hometown" : "Không rõ",
-  "occupation" : "Liệt sĩ kháng Pháp cận đại, học trò của Thái Vĩnh Chinh",
-  "workTenure" : "Không rõ",
+  "occupation" : "Thuộc",
+  "workTenure" : "1950-1975",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
-  },
+  "eraName" : { },
   "id" : 1712,
-  "entityName" : "Lê Khoan Hoằng",
-  "aliases" : [ "Chánh Thiệu" ],
-  "overview" : "Ông nhiệt tình yêu nước. Giặc Pháp cướp nước, ông cùng thầy học Thái Vĩnh Chinh và Nguyễn Năng Định lãnh đạo nghĩa quân kháng chiến ở vùng Nghệ Tĩnh. Khi đó ông được vua Hàm Nghi phong hàm Lãnh binh kiêm Chánh kiêm huyện trị Hương Sơn thuộc Hà Tĩnh. Ông dũng cảm chiến đấu, hi sinh ở chiến trường, được các sĩ phu quí trọng và toàn dân thương tiếc."
+  "entityName" : "Nguyễn Văn Toàn",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Văn Toàn (1932-2005) nguyên là một tướng lĩnh gốc Kỵ binh của Quân lực Việt Nam Cộng hòa, mang cấp bậc Trung tướng. Ông xuất thân từ những khóa đầu tiên tại trường Võ bị Quốc gia. Ra trường, được chọn phục vụ Binh chủng Kỵ binh, nên sau này ông được xem là một vị tướng xuất thân từ Thiết giáp. Có một thời gian, ông chuyển sang Bộ binh, chỉ huy một Sư đoàn đóng ở vùng có nhiều rừng cây Quế, ông đã lợi dụng chức vụ, độc quyền thu gom và đầu cơ loại đặc sản này để tư lợi cho bản thân và gia đình. Do đó nên ông được gắn cho cái tên đầy mỉa mai là \"Quế tướng công\""
 }

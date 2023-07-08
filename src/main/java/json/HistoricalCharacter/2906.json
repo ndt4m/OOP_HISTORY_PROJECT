@@ -1,18 +1,17 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Vua",
-  "workTenure" : "1407—1409",
-  "fatherName" : {
-    "Trần Nghệ Tông" : 2791
-  },
+  "dateOfBirth" : "Giáp Tuất 1514",
+  "dateOfDeath" : "Kỉ Mùi 1559",
+  "hometown" : "quê làng Thổ Sơn, huyện Vĩnh Lộc, tỉnh Thanh Hóa",
+  "occupation" : "Danh tướng đời Lê Trang tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Hậu Trần" : 23
+    "nhà Lê" : null,
+    "Triều Lê Sơ" : 7
   },
   "id" : 2906,
-  "entityName" : "Giản Định Đế",
+  "entityName" : "Phạm Đốc",
   "aliases" : [ ],
-  "overview" : "Giản Định Đế (chữ Hán: 簡定帝; 1375 – 1410) là vị hoàng đế khai lập nhà Hậu Trần trong lịch sử Việt Nam. Ông tên thật là Trần Ngỗi (陳頠), sinh tại kinh đô Thăng Long, (nay là Hà Nội). Có tài liệu phiên âm tên ông là Quỹ. Ông ở ngôi từ năm 1407 đến năm 1409, sau đó làm Thái thượng hoàng cho tới khi mất năm 1410."
+  "overview" : "Phạm Đốc (20 tháng 5 âm lịch 1513 - 4 tháng 8 âm lịch 1558) là đại thần có công giúp nhà Lê trung hưng thời chiến tranh Lê-Mạc trong lịch sử Việt Nam.\n----------------------------------------------\nÔng gồm tài văn võ, dày công lao trận mạc. Khi điều động binh sĩ, ông giàu mưu lược, hiệu lệnh rất nghiêm, quân dân đều tuân phục. Triều đình trọng dụng ông, phong tước Dương Nghĩa Hầu. Nhà Mạc dấy lên đối lập với nhà Lê, ông từng khiến các tướng Mạc như Phạm Đức Trung phải qui thuận nhà Lê. Kỉ mão 1555 ông cùng Hoàng Đình Ái nhiều lần chống nhau với Mạc Kính Điền và dẹp yên, được thăng hàm Thượng thư bộ Binh, tước Quảng Quận Công. Năm Mậu ngọ 1558 ông được thăng thái phó, tước Đức Quận Công. Năm sau Kỉ mùi 1559 ông mất, hưởng dương 45 tuổi truy tặng là Thái úy, tước Đức Quốc Công, thụy Trung Nghị. Sách THIÊN NAM BẢO LỤC DIỄN CA đề cao: \"Phạm Đốc hành quân, Nghiêm minh ước thúc. Binh tướng tín uy, Dân di hoài phục.\" Nghĩa: Phạm Đốc vốn ung dung cẩn túc, Cầm quân nghiêm ước thúc như y. Mộ hiệu lịnh ra tín uy, Quan quân sợ phép dân di phục tùng. Quật Đình Ưng Ân vịnh: Quận công Phạm Đốc anh hào, Sử kinh đã trải lược thao gồm tài. Ra cầm quân chẳng sai hiệu lệnh. Không giết càn, thương tính mạng người. Tiếng lành như thế ít ai? Nhà nhà kính phục nơi nơi yêu vì.'"
 }

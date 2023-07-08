@@ -1,14 +1,21 @@
 {
-  "dateOfBirth" : "1716",
-  "dateOfDeath" : "1783",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
+  "dateOfBirth" : "23 tháng 11, 1483 (niên hiệu Hồng Đức thời Lê sơ) làng Cổ Trai, huyện Nghi Dương, phủ Kinh Môn, trấn Hải Dương, Đại Việt (nay thuộc thôn Cổ Trai, xã Ngũ Đoan, huyện Kiến Thuỵ, thành phố Hải Phòng)\n----------------------------------------------\nQuí Mão 1483",
+  "dateOfDeath" : "22 tháng 8, 1541 (57 tuổi) (niên hiệu Quảng Hòa thời Mạc) Dương Kinh, Đại Việt (nay thuộc xã Ngũ Đoan, huyện Kiến Thuỵ, thành phố Hải Phòng)\n----------------------------------------------\nTân Sửu 1541",
+  "hometown" : "Hải Dương",
+  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nDanh thần nhà Lê, vua đầu nhà Mạc, sau cướp quyền vua dựng ra nhà Mạc.",
+  "workTenure" : "1527 - 1529\n----------------------------------------------\nKhông rõ",
+  "fatherName" : {
+    "Mạc Hịch" : null
+  },
+  "motherName" : {
+    "Đặng Thị Hiếu" : null
+  },
+  "eraName" : {
+    "Nhà Mạc" : 18,
+    "Nam - Bắc Triều" : 19
+  },
   "id" : 1330,
-  "entityName" : "Nguyễn Đình Đống",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Đình Đống (1716 - 1783): một danh tướng cuối thời Lê Trung Hưng"
+  "entityName" : "Mạc Đăng Dung",
+  "aliases" : [ "Minh Đức (端慶)", "Nhân Minh Cao hoàng đế (仁明高皇帝)", "Mạc Đăng Dung (莫登庸)", "Thái Tổ (太祖)" ],
+  "overview" : "Mạc Thái Tổ (chữ Hán: 莫太祖; 23 tháng 11, 1483 - 22 tháng 8, 1541), tên thật là Mạc Đăng Dung (莫登庸), là nhà chính trị, hoàng đế sáng lập ra triều đại nhà Mạc trong lịch sử Việt Nam. Ông đóng vai trò quan trọng trong các sự kiện đánh dẹp các thế lực cát cứ, chống đối triều đình, loại bỏ ảnh hưởng của những người ủng hộ nhà Lê, thành lập nhà Mạc và cứng rắn chống lại với những thế lực phò vua Lê ở Thanh Hóa.\n----------------------------------------------\nÔng là con của Mạc Hịch và Đặng Thị Hiếu, quê làng Cổ Trai, huyện Nghi Dương, ngụ ở làng Cao Dôi, huyện Bình Hà, tỉnh Hải Dương. Ông vốn dòng dõi Trạng nguyên Mạc Đĩnh Chi đời Trần. Thuở trẻ ông theo học với người thầy họ Lê, được thầy thương mến gả con cho. Nhà nghèo, nhưng ông có sức khỏe, có chí lớn, thường đi đánh vật thi lấy giải về sống qua ngày và làm nghề đánh cá mưu sinh. Năm Bính tí 1516, đời Lê Chiêu tông, ông thi võ đỗ đệ nhất Đô lực sĩ, làm quan thăng dần đến Chỉ huy sứ, coi sóc các đạo quân, và được làm Phò mã, tước Vũ Xuyên Bá, kết duyên cùng công chúa Lê Thị Ngọc Minh. Chẳng bao lâu ông lại được tấn phong làm Thái sư, tước Nhân Quốc Công, rồi gia phong đến tước An Hưng vương. Từ đây ông càng thao túng triều chính, dẫn đến sự lật đổ vua Lê, dựng nên nhà Mạc vào năm Đinh hợi 1527. Tuy vậy, ông vẫn sợ nhà Minh hạch sách, bèn cắt đất hai châu Vĩnh An, An Quảng gồm 6 động: Tế Phù, Kim Lặc, Cổ Sâm, Liêu Cát, An Lương và La Phu dâng cho nhà Minh, thuộc vào Châu Khâm. Ông chỉ ở ngôi vua 3 năm, truyền ngôi cho con lớn là Mạc Đăng Doanh mà làm Thái thượng hoàng, ra ở điện Tường Quang, sau về Cổ Trai để trấn nơi trọng yếu. Năm Canh tí 1540 Mạc Đăng Doanh mất, ông trở về Đông Kinh lập cháu nội là Phúc Hải lên nối ngôi. Bấy giờ ông cũng đã suy yếu rồi. Năm Tân sửu 1541, ngày 22-8 âm lịch ông mất, hưởng dương 58 tuổi, chôn ở Long Sơn, mộ hiệu là An Lăng; thụy là Nhân minh Cao hoàng đế, miếu hiệu Thái tổ. Có Thượng thư Ngô Miên Thiệu và Thị thư Giáp Hải soạn văn bia. Ông có 10 con trai, 4 gái và từng phong tước cho con như sau: Con trưởng: Mạc Đăng Doanh phong Dục Mỹ Hân (lập làm thái tử nối ngôi). Con thứ: Chính Trung - Hoằng vương Phục Sơn - Định vương Nhân Phủ - Khang vƯƠNG Quang Khải - Quảng vương Con gái: Ngọc Thọ - Thụy Ninh công chúa Ngọc Châu - Thái An công chúa"
 }

@@ -1,14 +1,20 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
+  "dateOfBirth" : "10 tháng 10, 867 Ứng châu , Đại Đường",
+  "dateOfDeath" : "15 tháng 12, 933 (66 tuổi) Lạc Dương, Hậu Đường",
   "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
+  "occupation" : "Hoàng đế thứ hai của Hậu Đường",
+  "workTenure" : "3 tháng 6, 926 – 15 tháng 12 933",
+  "fatherName" : {
+    "Lý Nghê (thân phụ) Lý Khắc Dụng (nghĩa phụ)" : null
+  },
+  "motherName" : {
+    "Lưu thị (thân mẫu)" : null
+  },
+  "eraName" : {
+    "nhà Hậu Đường" : null
+  },
   "id" : 303,
-  "entityName" : "Nguyễn Thị Vân",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Thị Vân có thể là:"
+  "entityName" : "Lý Tự Nguyên",
+  "aliases" : [ "Sa Đà: Mạt Cát Liệt (邈佶烈) Họ Hán: Lý (李) tên Hán: Tự Nguyên (嗣源), sau đổi là Đản (亶) ngày 5 tháng 2 năm 927", "Minh Tông", "Minh Tông (明宗)", "Ngắn: Hòa Vũ hoàng đế (和武皇帝) Đầy đủ: Thánh Đức Hòa Vũ Khâm Hiếu hoàng đế (聖德和武欽孝皇帝)", "Nguyên", "Lý Đản" ],
+  "overview" : "Lý Tự Nguyên (李嗣源, sau đổi thành Lý Đản (李亶) ) (10 tháng 10 867 – 15 tháng 12 933 ), còn được gọi theo miếu hiệu là Minh Tông (明宗), là hoàng đế thứ hai của nhà Hậu Đường - một hoàng tộc tồn tại ngắn ngủi dưới thời Ngũ Đại Thập Quốc trong lịch sử Trung Quốc, cai trị từ 926 đến khi chết. Ông vốn là người tộc Sa Đà, bản danh Mạt Cát Liệt (邈佶烈)."
 }

@@ -1,17 +1,16 @@
 {
-  "dateOfBirth" : "Giáp Ngọ 1894",
-  "dateOfDeath" : "Mậu Ngọ 1978",
-  "hometown" : "quê tỉnh Long Xuyên (nay là An Giang)",
-  "occupation" : "Tu sĩ Công giáo",
+  "dateOfBirth" : "Nhâm Tuất 1922",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "tại Cao Lãnh, tỉnh Kiến Phong (nay thuộc tỉnh Đồng Tháp) Từ năm 1945 ông từng làm giáo viên Việt ngữ ở Campuchia",
+  "occupation" : "Nhà nghiên cứu văn hóa Việt Khmer",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
     "Nước Việt Nam mới" : 29
   },
   "id" : 1326,
-  "entityName" : "Hồ Huệ Bá",
-  "aliases" : [ "Josep Marie" ],
-  "overview" : "Ông nguyên là đại diện phong trào công giáo \"Kính chúa yêu nước\" miền Nam Việt Nam, nguyên ủy viên ủy ban Trung ương Mặt trận Dân tộc giải phóng miền Nam Việt Nam, ủy viên ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, đại biểu quốc hội khóa IV nước Cộng hòa xã hội chủ nghĩa Việt Nam. Ông được nhà nước tặng các huân chương: - Huân chương kháng chiến hạng nhất. - Huân chương Quyết Thắng hạng nhất. - Huân chương chống Mĩ cứu nước hạng nhất. Ngày 11-4-1978 ông bị bệnh mất, hưởng thọ 84 tuổi. Phần mộ tại xã Long Điền, huyện Chợ Mới, tỉnh An Giang. Tu sĩ Hồ Huệ Bá là tấm gương sáng cho đồng bào theo đạo Thiên chúa, cũng như đối với người trí thức yêu nước trong công cuộc chống xâm lược."
+  "entityName" : "Lê Quang Hương",
+  "aliases" : [ "Lê Hương" ],
+  "overview" : "Sau hiệp định Genève ông là thông tín viên Việt Tấn Xã (Sài Gòn) tại Nam Vang, năm 1958 về làm việc tại Bộ Thông tin rồi tại Phủ Quốc vụ khanh Đặc trách văn hóa Sài Gòn (1972-1975). Các tác phẩm chính: - Tự học chữ Miên (1963) - Truyện cổ quôc tế (1969) - Truyện vui quốc tẽ (1969) - Nguời Việt gốc Miên (1969) - Truyện cổ Cao Miên I, II (1969) - Angkor (1970) - Bùa ngải Cao Miên (1970) - Chợ trời biên giới Việt Nam - Cao Miên (1969) - Sử Cao Miên (1970) - Việt Kiều ở Kampuchia (1971) - Sử liệu Phù Nam (1970) - Người hùng (1970) - Truyện cổ Ấn Độ (1970) - Truyện cổ tích Việt Nam (1970) - Quả đâm thôi sơn (1952) Và một số truyện ngắn in trên các báo từ năm 1945-1975: Trung Bắc chủ nhật, Tiểu thuyết thứ bảy ở Hà Nội cùng một số bản thảo: Cổ tục Cao Miên, Truyện nghẹt thở, Truyện cổ Cao Miên III - IV, Lịch sử Cao Lãnh và Đồng Tháp Mười."
 }

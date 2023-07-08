@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "22 tháng 9 năm 1606 huyện Mễ Chi, tỉnh Thiểm Tây, Trung Quốc.",
-  "dateOfDeath" : "1645",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế nhà Đại Thuận",
-  "workTenure" : "1644 – 1645",
+  "dateOfBirth" : "2 tháng 2 năm 1908\n----------------------------------------------\nMậu Thân 1908",
+  "dateOfDeath" : "31 tháng 7 năm 1932\n----------------------------------------------\nNhâm Thân 1932",
+  "hometown" : "quê xã Thụy Hà, huyện Thụy Anh, tỉnh Thái Bình",
+  "occupation" : "Liệt sĩ hiện đại",
+  "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
+  },
   "id" : 2897,
-  "entityName" : "Lý Tự Thành",
-  "aliases" : [ "Niên hiệu Vĩnh Xương (永昌) Thụy hiệu Lập Chí Hoàng đế (立志皇帝) Tiên Đế Miếu hiệu Cao Tổ (高祖)", "Thành", "Đại Thuận Hoàng đế (大顺皇帝)" ],
-  "overview" : "Lý Tự Thành (李自成) (1606-1645) nguyên danh là Hồng Cơ (鴻基), là nhân vật thời \"Minh mạt Thanh sơ\" trong lịch sử Trung Quốc, ông đã lãnh đạo cuộc khởi nghĩa lật đổ nhà Minh vào năm 1644, chiếm được kinh thành, lên ngôi hoàng đế, tự xưng là Đại Thuận hoàng đế lập ra nhà Đại Thuận."
+  "entityName" : "Nguyễn Đức Cảnh",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Đức Cảnh (2 tháng 2 năm 1908 – 31 tháng 7 năm 1932) là một nhà hoạt động cách mạng Việt Nam. Ông là Bí thư đầu tiên của Thành ủy Hải Phòng và là Tổng biên tập đầu tiên của báo Lao động.\n----------------------------------------------\nThuở nhỏ ông học ở Nam Định, từng tham gia các hoạt động chống Pháp tại địa phương. Năm 1925, 1926 ông tham gia tổ chức truy điệu nhà yêu nước Phan Chu Trinh, đòi ân xá Phan Bội Châu, bi Pháp đuổi khỏi trường học. Từ đó ông lên Hà Nội sinh sống và hoạt động. Tháng 9-1927 ông được Việt Nam Quốc dân đảng cử đi Trung Quốc gặp Tổng bộ Việt Nam Thanh niên Cách mạng đồng chí hội để thống nhất hành động chống Pháp. Ở đây ông gặp Nguyễn Ái Quốc và đã chuyển hướng hoạt động bắt đầu từ đó. Năm 1928 ông được cử vào Kì bộ Bắc Kì của Việt Nam Thanh niên Cách mạng đồng chí hội. Năm 1929, ông là người đứng ra thành lập Tổng công hội Bắc Kì. Ngày 3-2-1930, ông tham gia thành lập Đảng Cộng sản Đông Dương với tư cách là đại biểu Đông Dương Cộng sản đảng. Cuối năm 1930 ông được Trung ương Đảng cử đi công tác ở Trung Kì, rồi được bầu vào ban Thường vụ Xứ ủy Trung Kì, phụ trách tuyên huấn. Cuối năm 1931 ông bị bắt ở Vinh. Ngày 31-7-1932, thực dân Pháp đã xử chém ông tại Hải Phòng, hưởng dương 24 tuổi."
 }

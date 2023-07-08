@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "1161",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Bính Tuất 1886",
+  "dateOfDeath" : "Bính Thìn 1916",
+  "hometown" : "Quê làng Đông Chử, huyện Nghi Lộc, tỉnh Nghệ An còn có tên là Trần Hữu Lực, cựu sinh viên trường Chấn Võ Tokyo phục vụ trong quân đội cách mạng của Tôn Văn ở Trung Quốc",
+  "occupation" : "Chí sĩ cận đại, con trai nhà yêu nước Nguyễn Thức Tự, em ruột bác sĩ Trần Trọng Khắc",
   "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "fatherName" : {
+    "nhà yêu nước Nguyễn Thức Tự" : null
+  },
   "motherName" : { },
   "eraName" : {
-    "nhà Lý" : null
+    "Pháp đô hộ" : 11
   },
   "id" : 1569,
-  "entityName" : "Hoàng Nghĩa Hiền",
-  "aliases" : [ ],
-  "overview" : "Hoàng Nghĩa Hiền (?-1161) là một đại thần nhà Lý trong lịch sử Việt Nam."
+  "entityName" : "Nguyễn Thức Đường",
+  "aliases" : [ "Trần Hữu Lực" ],
+  "overview" : "Năm 1915, ông cùng Trần Trung Lập, Võ Đình Mẫn với danh nghĩa quân đội Quang phục hội từ biên giới Trung Quốc đột nhập về tấn công đồn Tà Lùng của Pháp tại Lạng Sơn. Cuộc đột kích thất bại, ông trốn sang Thái Lan, đến ngày 26-6-1915 ông bị Pháp bắt ở bên ấy, chúng đem ông về xử chém tại Bạch Mai (gần Hà Nội) một lần với Nguyễn Đức Công ngày 24-1-1916. Đương thời nhân dân địa phương Nghi Lộc, Nghệ An có bài ca: Ai về Nghi Lộc, Nghệ An, Hỏi thăn con cháu cụ San thế nào? (cụ San: Nguyễn Thức Tự) Hỏi Canh: hoạt động bên Tàu, Hỏi Đường? Tây đã chặt đầu năm nao ? … Cha con sau trước bốn người, Hiến thân cho nước, cho nòi Việt Nam. Em ruột ông là chí sĩ Nguyễn Thức Bao cũng ra nước ngoài hoạt động chống Pháp, bị thực dân bắt đày Côn Đảo, ở Côn Lôn, ông hai lần tìm cách vượt nguc, nhưng đều bị bắt lại. Đến lần vượt ngục thứ ba ông mất tích giữa biển."
 }

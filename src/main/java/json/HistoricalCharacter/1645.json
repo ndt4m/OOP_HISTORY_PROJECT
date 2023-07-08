@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "Nguyễn Chí Thành 15 tháng 10, 1065 xã Gia Thắng, Gia Viễn, Ninh Bình",
-  "dateOfDeath" : "1141 Đại Việt",
-  "hometown" : "Không rõ",
-  "occupation" : "Lý triều Quốc sư",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Xuân Lũng, phủ Lâm Thao, trấn Sơn Tây (Phú Thọ - nay là Vĩnh Phú)",
+  "occupation" : "Danh sĩ đời Lê Tương Dực",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Triều Lê Sơ" : 7
+  },
   "id" : 1645,
-  "entityName" : "Lý Quốc Sư",
-  "aliases" : [ "Nguyễn Minh Không" ],
-  "overview" : "Lý Quốc Sư (chữ Hán: 李國師 15 tháng 10 năm 1065 – 1141) là tên gọi theo quốc tính họ Vua do nhà Lý ban cho và ghép với chức danh pháp lý cao nhất của một vị thiền sư từng là dược sư, pháp sư, đại sư rồi quốc sư tên hiệu Nguyễn Minh Không (chữ Hán: 阮明空). Ông là một vị cao tăng đứng đầu tổ chức Phật giáo của triều đại nhà Lý trong lịch sử, được xem là vị thiền sư sáng lập nên nhiều ngôi chùa nhất ở Việt Nam và được tôn vinh là ông tổ nghề đúc đồng."
+  "entityName" : "Nguyễn Hãng",
+  "aliases" : [ "Nại Hiên" ],
+  "overview" : "Ông đỗ hương tiến, khi Mạc Đăng Dung chuyên quyền, ông bỏ quan, ở ẩn nơi Đại Đồng, thuộc huyện Yên Bình, tỉnh Tuyên Quang. Nhà Mạc nhiều phen vời ông ra làm quan nhưng ông từ chối. Nhà Lê Trung hưng, phong tặng ông là Thảo mao dật sĩ (Nguời học trò ẩn dật nơi nhà tranh). Khi ông mất, quê ông làng Xuân Lang có đền thờ ông gọi là Dật Sĩ từ. Những bài phú của ông còn truyền tụng: - Tịnh cư ninh thê - Đại Đồng phong cảnh - Tam nguy động"
 }

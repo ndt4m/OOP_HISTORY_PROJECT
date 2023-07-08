@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "1713",
-  "dateOfDeath" : "1776",
-  "hometown" : "quê ở xã Phụng Công, huyện Yên Dũng (hiện nay là thôn Tân Phượng, xã Tân Mỹ, huyên Yên Dũng, Bắc Giang, Việt Nam).",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Ất Dậu 1825",
+  "dateOfDeath" : "Kỉ Tị 1869",
+  "hometown" : "quê xã Đặng Xá, huyện Mĩ Lộc (nay thuộc xã Mĩ Hưng, huyện Bình Lục, tỉnh Hà Nam)",
+  "occupation" : "Còn có ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
+  },
   "id" : 436,
-  "entityName" : "Quận Việp",
-  "aliases" : [ ],
-  "overview" : "Hoàng Ngũ Phúc (chữ Hán: 黃五福, 1713–1776) là danh tướng thời Lê trung hưng trong lịch sử Việt Nam. Ông quê ở xã Phụng Công, huyện Yên Dũng (hiện nay là thôn Tân Phượng, xã Tân Mỹ, huyên Yên Dũng, Bắc Giang, Việt Nam). Hoàng Ngũ Phúc có công lớn trong việc đánh dẹp các cuộc khởi nghĩa nông dân Đàng Ngoài và là tổng chỉ huy cuộc nam tiến đánh Đàng Trong, mở mang đất đai Bắc Hà tới Quảng Nam."
+  "entityName" : "Đặng Ngọc Cầu",
+  "aliases" : [ "Đặng Ngọc Phác" ],
+  "overview" : "Năm Đinh mùi 1847, ông đỗ cử nhân, năm sau Mậu thân 1848 ông đỗ phó bảng lúc 23 tuổi. Ông từng làm Bố chính tỉnh Tuyên Quang. Khi thầy học là Hoàng giáp Tam đăng Phạm Văn Nghị chiêu binh khởi nghĩa chống giặc Pháp, ông đứng vào hàng ngũ của thầy. Cuối năm Kỉ mùi 1859 ra quân; thầy học chỉ huy và coi đạo quân giữa; bạn ông là Phan Văn Xưởng lãnh tiền đạo, ông lãnh hậu đạo. Non 10 năm kháng chiến, ông mất trong năm Kỉ ti 1869 hưởng dương 44 tuổi"
 }

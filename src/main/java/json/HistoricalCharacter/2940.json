@@ -1,16 +1,19 @@
 {
-  "dateOfBirth" : "Giáp Dần 1614",
-  "dateOfDeath" : "Canh Ngọ 1690",
-  "hometown" : "quê ở Đông Lao, huyện Hoài Đức, Hà Đông (nay thuộc tỉnh Hà Tây)",
-  "occupation" : "Võ tướng đời Lê Trung Hưng",
+  "dateOfBirth" : "Nhâm Ngọ 1882",
+  "dateOfDeath" : "Tân Mão 1951",
+  "hometown" : "tại Huế",
+  "occupation" : "Nhà thơ, nhà hoạt động chống Pháp",
   "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "fatherName" : {
+    "Hàm Hóa Hương Công" : null
+  },
   "motherName" : { },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 2940,
-  "entityName" : "Nguyễn Công Triều",
-  "aliases" : [ ],
-  "overview" : "Ông xuất thân trong gia đình nông dân nghèo ở làng Kè Sau thuộc thôn Đông Lao, xã Đông La. Thuở bé có lúc ông tu ở chùa Bi trong làng một thời gian, rồi ra Thăng Long. Thời biến loạn, ông tòng quân. Từ một nguời lính huấn luyện đàn voi chiến, ông trở thành viên tướng chỉ huy tượng binh. Ông có công bình định ở vùng biên giới, dẹp nhóm loạn Mạc Kính Khoan, Võ Công Trấn (giặc Bầu) ở Tuyên Quang, Hưng Hóa. Lúc ngoài 60 tuổi, ông xuất ngũ, rồi chăm lo đời sống cho nhân dân vùng quê ông. Cùng với dân làng ra sức đào kênh, làm đình, xây dựng lại chùa Bi và hai chùa Hưng Phước, Thọ Vực, mở chợ, đào giếng, đắp đường, ông tích cực tận tụy phục vụ nhân dân địa phương. Năm Canh ngọ 1690, ngày 29-5 ông mất tại trấn Sơn Tây, thọ 76 tuổi. Nay tại Đông Lao còn lăng mộ, đền thờ ông, nơi chùa Bi cũng còn di tích."
+  "entityName" : "Nguyễn Phúc Cường Để",
+  "aliases" : [ "Cường Để" ],
+  "overview" : "Tháng Giêng năm 1906, ông được các đồng chí của Phan Bội Châu đưa sang Nhật vào học trường Chấn Võ lục quân (cùng với Nguyễn Thức Canh, Lương Ngọc Quyến...) rồi trường Đại học Waseda. ở đây ông lấy tên Trung Quốc là Lý Cánh Thành. Năm 1908, nhân trong nước phong trào Duy tân phát triển mạnh, mà đỉnh cao là các cuộc biểu tình chống thuế và vụ đầu độc ở Hà Nội, thực dân khủng bố trắng, chúng cấu kết với Nhật, xúi Nhật trục xuất tất cả du học sinh Việt Nam tại Nhật Bản, trong đó có ông và Phan Bội Châu. Tháng 11 năm 1908, ông sang Xiêm (Thái Lan), rồi về Hương Cảng, Nhật Bản, Trung Quốc. Khoảng năm 1912 ông về Nam Kì liên lạc với các nhóm chống Pháp, sau đó sang châu Âu. Cuối cùng về định cư và lập gia đình tại Tokyo. Ông mất vào ngày 5-4-1951 tại Tokyo, hưởng thọ 69 tuổi. Năm 1957, hài cốt ông được về cải táng ở Huế. Trong thời gian lưu vong ở nước ngoài, ông có sáng tác một số thơ văn nay còn truyền tụng như - Khuyến cáo quốc dân văn (1905) - Phổ cáo lục tỉnh văn (1907) Khuyến cáo quốc dân văn: là tác phẩm ông viết ở Nhật Bản gởi về nước kêu gọi đồng bào hưởng ứng phong trào Đông du. Sau đây là trích vài đoạn: Nước mất tám mươi năm rồi đó Quốc dân ta có nhớ hay không? Kìa xem các nước Á đông, Miên, Phi đều đã thoát vòng Mĩ, Anh. Chỉ còn có một mình ta đó, Vẫn để cho Pháp nó đè đầu. (…) Hỡi hai lăm triệu đồng bào Chuyện ta, ta phải tính sao bây giờ! Chàng lẽ cứ ngồi chờ đến chết, Giương mắt trông của hết, dân cùng. Bảo nhau phải hết một lòng, Phen này ta quyết chẳng dong quân thù. Ông cha trước bình Ngô, sát Thát, Nòi giống mình hèn nhát chi đâu? Sao ta lại chịu cúi đầu Làm tôi tớ Pháp như trâu như bò (...) Đã hay thành sự tại trời Gắng công cũng phải tại người mới nên. Vậy nay có lời khuyên thành thực Xin quốc dân hợp sức đồng lòng. Người xuất của, kẻ xuất công, Người ngoài vận động, người trong thực hành. Sẽ có kẻ giúp mình thêm nữa Việc phen này nếu sợ không xong. Cốt sao ta phải hết lòng, Thành công sẽ chỉ trong vòng năm nay."
 }

@@ -1,17 +1,18 @@
 {
-  "dateOfBirth" : "Mậu Thìn 1892",
-  "dateOfDeath" : "Giáp Tí 1984",
-  "hometown" : "quê thôn Tiên Đạt, xã Trung Tiết, huyện Thạch Hà, tỉnh Hà Tĩnh biệt hiệu Hồng Nam",
-  "occupation" : "Nhà danh họa, quê thôn Tiên Đạt, xã Trung Tiết, huyện Thạch Hà",
+  "dateOfBirth" : "Mậu Ngọ 1918",
+  "dateOfDeath" : "Bính Tuất 1946",
+  "hometown" : "tại làng Tân Thạnh, huyện Chợ Mới, tỉnh An Giang",
+  "occupation" : "Thi sĩ ",
   "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "fatherName" : {
+    "Nguyễn Côn" : 1239
+  },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Pháp đô hộ" : 11
   },
   "id" : 1094,
-  "entityName" : "Nguyễn Phan Chánh",
-  "aliases" : [ "Hồng Nam" ],
-  "overview" : "Ông nổi tiếng với tranh lụa, và là bậc thầy trong ngành. Tranh của ông đã được hoan nghênh nhiệt liệt trong các triển lãm trong nước và nước ngoài. Ông nhiệt thành yêu nước, tích cực phục vụ nhân dân và tổ quốc. Từng giữ các chức vụ: Nguyên đại biểu Quốc hội khóa 3, Ủy viên Ban chấp hành Hội nghệ sĩ tạo hình Việt Nam khóa I, Ủy viên Ban chấp hành hội liên hiệp Văn học Nghệ thuật Việt Nam, Giảng viên Trường Đại học kiến trúc Hà Nội. Ông đã được tặng thưởng: Huân chương Lao động hạng Ba, Huân chương Lao động hạng nhất, Huân chương Độc lập hạng Nhất. Ngày 22-11-1984 ông mất tại Bệnh viện Hữu Nghị Việt Xô, thọ 92 tuổi."
+  "entityName" : "Nguyễn Xuân Thiếp",
+  "aliases" : [ "Việt Châu" ],
+  "overview" : "Thuở nhỏ ông học ở Long Xuyên, đậu Tiểu học rổi nghỉ ở nhà học chữ Hán và Đông y. Những năm 1944-1945 vì giao tình thơ văn mà thân với Huỳnh Phú Sổ (đạo Hòa Hảo). Năm 1946, ông làm trung gian hòa giải các cuộc tranh chấp nội bộ giữa Việt Minh và Hòa Hảo nên bị liên lụy và chết ở Cần Thơ cùng một lần với tướng Hòa Hảo Trần Văn Soái. Ông có thơ đăng trên báo Mai của Đào Trinh Nhất ở Sài Gòn, Gió Mùa, Dân báo... trong phần phụ trương văn chương của báo Lục tỉnh tân văn. Tại Đốc Vàng thượng (quê nhà) ông lập Văn đàn Đốc Vàng thượng. Ông là một thi sĩ xuất thân trong một gia đình nhà Nho yêu nước, làm thơ từ hồi còn rất trẻ (10-15 tuổi). Lúc mới 16 tuổi đã có thơ xuất bản và đến năm 26 tuổi (1944) đã có 4 tập thơ đến với độc giả trong toàn quốc. Trong 4 tập thơ vừa nói có tập Hải Đường hoa rụng và Lông ngỗng gieo tình (Truyện Mị Châu - Trọng Thủy) được đa số độc giả yêu thơ tán thưởng. Lông ngỗng gieo tình là một cuốn tiểu thuyết dã sử bằng thơ viết về sự tích Trọng Thủy - Mị Châu trong truyền thống lịch sử và văn chương truyền khẩu Việt. Thơ Việt Châu bóng bảy, trôi chảy như giòng sông bất tận xuôi về biển cả như phần đông các nhà thơ lãng mạn thời tiền chiến. Đánh giá về thi tài Việt Châu, Vũ Ngọc Phan cho rằng: \"Lời kể chuyện bằng thơ là một lối rất khó, xưa nay cũng chỉ mới có tập Kim Vân Kiều là quán tuyệt cổ kim, vậy mà ông Việt Châu đã viết tập Lông ngỗng gieo tình được như thế, nhất là lại dùng lối song thất lục bát là lối nay hình như các thi sĩ không dùng đến...\" (Vũ Ngọc Phan - Hà Nội 14-11-1942). Các tác phẩm của ông đã xuất bản: - Xuân xanh (1934) - Tình thơ (1942) - Lông ngỗng gieo tình (1942) - Hải Đường hoa rụng (1944) - Tráng sĩ ca (1945)"
 }

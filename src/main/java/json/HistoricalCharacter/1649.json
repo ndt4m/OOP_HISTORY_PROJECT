@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "1437\n----------------------------------------------\nĐinh Tị 1437",
-  "dateOfDeath" : "1530\n----------------------------------------------\nCanh Dần 1530",
-  "hometown" : "quê làng Mộ Trạch, huyện Đường An, tỉnh Hải Dương (nay thuộc huyện Bình Giang, tỉnh Hải Dương)",
-  "occupation" : "Danh sĩ, nhà toán học đời Lê Thánh tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "208 TCN / 179 TCN\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Vua Âu Lạc\n----------------------------------------------\nNgười mở nghiệp nhà Thục trong năm Giáp thìn 275 trước Công nguyên",
+  "workTenure" : "257 TCN - 208 TCN / 208 TCN - 179 TCN\n----------------------------------------------\nKhông rõ",
+  "fatherName" : {
+    "Thục Chế (theo truyền thuyết)" : null
+  },
   "motherName" : { },
   "eraName" : {
-    "Triều Lê Sơ" : 7
+    "Nhà Thục" : 27
   },
   "id" : 1649,
-  "entityName" : "Vũ Hữu",
-  "aliases" : [ ],
-  "overview" : "Vũ Hữu (chữ Hán: 武有, 1437 –1530) là một nhà toán học người Việt, và cũng là một danh thần dưới triều đại Lê Thánh Tông, Lê Hiến Tông. Ông còn được coi là nhà toán học đầu tiên của Việt Nam.\n----------------------------------------------\nNăm Quí mùi 1463, đỗ Hoàng giáp, ông làm quan rất thanh liêm, cuộc sống gia đình cần kiệm, ông có câu thơ tự bạch: \"Nhẫm nhiễm chu niên quan lịch tiền, Tể ngưu tằng hữu phạp ngưu canh.\" Nghĩa: Thấm thoắt năm tròn quan trải khắp. Trâu mổ thì có thiếu trâu cày. Ông làm đến Thượng thư bộ Hộ, tước Dương Tùng Hầu (có sách chép Tùng Dương Hầu), ngoài 70 tuổi ông về hưu, làm nhà đặt tên là Phượng Trì am. Về sau ông được tặng phong Thái bảo. Lúc gần 90 tuổi ông vẫn còn được triều đình tín nhiệm cử ông làm nguyên lão đại thần, ông cùng với Phan Đình Tá mang cờ tiết đến Cổ Trai tấn phong tước Vương cho Mạc Đăng Dung (Đinh hợi 1527). Năm Canh dần 1530 ông mất, thọ 93 tuổi. Ngoài tài văn học, chính trị, ông còn là nhà toán học, có biên soạn tác phẩm Lập thành toán pháp chỉ dân cách chia tính ruộng đất, xây dựng nhà cửa, thành lũy... Cháu ông là Lê Quang Bí (cũng gọi là Bôn) có thơ đề vịnh ông: \"Hào kiệt do sơ tiến sĩ khoa, Viết cần, viết thận, viết vô sa. Chư tào điệt thí công năng trứ, Đồng liệt hàm suy đức nghiệp gia. Đường tướng thù văn khâm Tống Cảnh, Tấn triều bác vật tiện Trương Hoa. Môn đình thanh tử tương huy ảnh, Dư khánh tông tri tích thiện gia.\" Bản dịch: Hào kiệt nguyên trong tiến sĩ khoa, Chữ cần chữ thận chằng sai qua, Ti tào thử khắp tài năng rõ. Liên hữu suy tôn đức nghiệp gia. Đường tướng thủ văn so Tống Cảnh, Tấn triều bác vật sánh Trường Hoa. Môn đình rực rỡ màu xanh tía, Tích thiện cho hay bởi những nhà. Đại thành toán pháp (2 quyển) nội dung sách dạy phép đo ruộng đất, tính toán việc làm nhà cửa, xây đắp thành lũy. Sách do ông biên soạn, sau được Lương Thế Vinh (1441 -...) đính chính và san định lại. Có thể đây là bộ sách toán học ra đời khá sớm của lịch sử toán học nước ta trong thời trung đại."
+  "entityName" : "An Dương Vương",
+  "aliases" : [ "An Dương Vương", "Thục Phán" ],
+  "overview" : "An Dương Vương (chữ Hán: 安陽王), tên thật là Thục Phán (蜀泮), là một vị vua đã lập nên đất nước Âu Lạc và cũng là vị vua duy nhất cai trị nhà nước này. Âu Lạc là nhà nước thứ hai trong lịch sử Việt Nam sau nhà nước Văn Lang đầu tiên của các vua Hùng.\n----------------------------------------------\nNăm Bính ngọ 255 trước công nguyên, ông truyền cho dân chúng xây Loa Thành (Thành Ốc) nay hãy còn dấu tích ở làng Cổ Loa, huyện Đông Anh, tỉnh Phúc Yên (nay thuộc TP. Hà Nội). Bấy giờ vua có một vị tướng tài là Cao Lộ giúp sức, lại được thần Kim Qui phù trợ cho chiếc móng chân để chế ra thứ nỏ thần, mỗi lần bắn ra 10 mũi tên, khiến Triệu Đà ở phương bắc đến đánh mấy lần đều bị thua. Năm Tân mão 210 trước công nguyên ông kết thông gia với Triệu Đà, gả con gái là Mỵ Châu cho Trọng Thủy, bề ngoài là kết tình thông gia hòa hiếu, bề trong là tìm hiểu vì sao lực lượng quân sự của Âu Lạc lại mạnh như thế. Sau khi đã hiểu rõ lí do, Trọng Thủy lừa gạt Mị Châu, ăn cắp chiếc nỏ thần đem về nước, rồi cùng vua cha là Triệu Đà đem quân đánh Âu Lạc. Năm Quí tị 208 tr.CN Triệu Đà cướp nước Âu Lạc. Trên đường chạy trốn giặc, sau lưng ngựa có Mỵ Châu, ông biết được kẻ phản bội là cha con Triệu Đà - Trọng Thủy ông uất hận vung gươm chém Mỵ Châu rồi tự vẫn nơi cửa biến Đại Nha (đất Nghệ An xưa). Ngày nay đền thờ ông hãy còn ở núi Mộ Dạ, xã Hương Ái, huyện Đông Thành, tỉnh Nghệ An (nay vẫn thuộc tỉnh Nghệ An). Chí sĩ Dương Bá Trạc có thơ đề vịnh cố sự này. Thành Loa trăm thước chẳng là bền! Móng rùa ba thước chẳng là thiêng. Nước nhà đấy, mất tại người cả, Thành trì không hiểm, thần không quyền. Gió mưa gầy dựng công khó nhọc, Nam gồm Văn Lang, bắc Ba Thục. Dư đồ muôn dặm mơ màng tới, Một tấm sơn hà, một tấm vóc. Sẵn sàng cơ nghiệp không biết giữ! Chiến đã không xong hòa cũng ngộ Biên phòng chểnh mảng, thù lấn quân. Quanh quẩn một lầm, hai tại lỡ! Thân già đâu nới kẻ thù gieo. Chồng nào thương vợ, con lìa cha, Giặc ngồi sau lưng nói chi nữa! Nước ôi! Nhà ôi! Biển Đại Nha."
 }

@@ -1,19 +1,16 @@
 {
-  "dateOfBirth" : "1252\n----------------------------------------------\nNhâm Tí 1252",
-  "dateOfDeath" : "1313\n----------------------------------------------\nQuí Sửu 1313",
-  "hometown" : "Không rõ",
-  "occupation" : "Tôn thất, thi gia đời nhà Trần tước Hưng Ninh vương, con thứ tư của Hưng Đạo vương Trần Quốc Tuấn.",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Hà Tĩnh",
+  "occupation" : "Chiến sỹ Cần Vương. Em ruột liệt sĩ Cao Thắng.",
   "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Hưng Đạo vương Trần Quốc Tuấn" : null
-  },
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Trần" : 15,
-    "nhà Trần" : null
+    "Pháp đô hộ" : 11
   },
   "id" : 2064,
-  "entityName" : "Trần Quốc Tảng",
+  "entityName" : "Cao Nữu",
   "aliases" : [ ],
-  "overview" : "Hưng Nhượng vương Trần Quốc Tảng (chữ Hán: 興讓王陳國顙, 1252 - 1313) một vị tướng quân nhà Trần, ông được biết đến là con trai thứ ba của Hưng Đạo đại vương Trần Quốc Tuấn và Thiên Thành công chúa.\n----------------------------------------------\nÔng có ra làm quan ít lâu rồi chán công danh, lui về ở ẩn nơi phong ấp là Tịnh Bang (thuộc xã Yên Quảng, huyện Vĩnh Lại, tỉnh Hải Dương). Ông say mê nghiên cứu thiền học, có tiếng trong giới tu sĩ. Do đấy, trong văn học và tôn giáo ghi lầm ông với Tuệ Trung Thượng Sĩ Trần Tung. Đúng ra, ông là cháu gọi Trần Tung bằng chú. Để phân biệt, tước phong của ông là Hưng Ninh vương, còn tước phong của Trần Tung và Ninh vương. Sở dĩ có sự nhận lẫm, vì hai người đều có phong ấp ở Tịnh Bang, tước hơi giống nhau, và tuổi thọ cũng như nhau. Năm Quí tị 1313 ông mất, thọ 61 tuổi. Tác phẩm của ông: Phóng cuồng ca (Có thuyết cho rằng Phóng cuồng ca là của Trần Tung)"
+  "overview" : "Hai anh em ông tận tụy dưới cờ khởi nghĩa do Phan Đình Phùng lãnh đạo kháng Pháp. Ông đã tận tâm giúp việc tổ chức các bộ đội xung kích. Và sau khi anh ông hi sinh, ông càng hết lòng kháng chiến đến thế cùng lực kiệt. Không thành công thì thành nhân, ông cương quyết không đầu phục ngoại bang, tuyệt tích nơi rừng núi."
 }

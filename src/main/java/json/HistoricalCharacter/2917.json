@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "người làng Hữu Thanh, tỉnh Thái Bình",
-  "occupation" : "Danh thần đời Lê Hiển tông",
+  "dateOfBirth" : "Đinh Mùi 1907",
+  "dateOfDeath" : "Đinh Mão 1987",
+  "hometown" : "tại Huế, nguyên quán làng Đạo Đầu phủ Triệu Phong, tỉnh Quảng Trị, sống và làm việc tại Huế cho đến cuối đời",
+  "occupation" : "Nhà thơ, nhà giáo",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 2917,
-  "entityName" : "Khiếu Hữu Thanh",
-  "aliases" : [ ],
-  "overview" : "Ông trẻ tuổi thông minh, nhưng nhà nghèo. Cảm thông hoàn cảnh ông, một cô gái trong làng đem lòng yêu nguời học trò có tài chí, hết lòng khích lệ và giúp đỡ ông. Về sau ông thành đạt, nhà vua muốn gả công chúa cho, ông từ chối rồi xin cưới người đã nâng đỡ lúc ông hàn vi. Ông làm quan đến bậc đại thần, ông vẫn khiêm cung, sống đạm bạc, hay giúp đỡ người nghèo khó. Đến khi ông cáo lão về quê được dân làng cảm mến lập sinh từ nay hãy còn di tích, tục gọi đền Quan Trạng Khiếu tại quê ông. Tương truyền lúc còn nhỏ ông làm thằng mõ trong làng, do đó các chức làng đặt họ cho ông là KHIẾU và lấy tên làng mà gọi là Khiếu Hữu Thanh, từ đó thành tên thật luôn. Khi làm mõ ông có làm bài thơ khẩu khí xuất sắc: Thế gian điếc lác đã lâu ngày, Trời mới sinh ra cái mõ này. Phép nước vang lừng ra cửa miệng, Lệnh làng thét lẹt nắm trong tay. Việc quan thúc bách ba dùi đốp, Lộc thánh ban ra mấy hộc đầy. Lốc cốc tre già măng lại mọc, Đầu đình cao vót đụng tầng mây."
+  "entityName" : "Phan Văn Dật",
+  "aliases" : [ "Tiêu Lang", "Thường Nga Phố" ],
+  "overview" : "Thuở nhỏ học tại Huế, thi đậu bằng Thành Chung, rồi nhập ngạch công chức Sở trước bạ Huế. Từng đi tu nghiệp ở trường trước bạ Lyon. Năm 1961, ông về hưu, được mời giảng dạy tại trường Quốc Học, Đồng Khánh, làm giảng viên trường Cao đẳng Mĩ thuật, Viện Hán học tại Huế. Ông làm thơ từ những năm 30, từng cộng tác với các báo: Thực nghiệp dân báo, Nam Phong (Hà Nội), Thần kinh tạp chí, Tràng An Rạng Đông (Huế). Các tác phẩm chính: - Diễm Hương trang (tiểu thuyết, 1935) - Bâng khuâng (thơ, 1936) Và một số thơ, truyện ngắn, tiểu luận văn học trên các báo ở Huế, Sài Gòn."
 }

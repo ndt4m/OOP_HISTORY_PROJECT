@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "22 tháng 2, 1969 (48 tuổi) Vĩnh Long, Việt Nam Cộng hòa",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Diễn viên Ca sĩ",
+  "dateOfBirth" : "Tân Dậu 1921",
+  "dateOfDeath" : "Bính Tí 1999",
+  "hometown" : "tại xã Thái Bình, huyện Châu Thành, tỉnh Tây Ninh",
+  "occupation" : "Tướng lãnh QĐNDVN",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Nước Việt Nam mới" : 29
+  },
   "id" : 1185,
-  "entityName" : "Lý Hùng",
-  "aliases" : [ ],
-  "overview" : "Lý Hùng (sinh năm 1969) là một diễn viên điện ảnh kiêm ca sĩ của Việt Nam. Anh từng nổi danh trong giới diễn viên điện ảnh Việt Nam thập niên 1990, và tham gia đóng trong một số phim hợp tác với điện ảnh Hồng Kông."
+  "entityName" : "Nguyễn Minh Châu",
+  "aliases" : [ "Năm Ngà" ],
+  "overview" : "Ông tham gia cách mạng từ sau năm 1945, nhập ngũ vào quân đội và lên hàm Thượng tướng. Từng kinh qua và giữ nhiều chức vụ chỉ huy trọng yếu trong quân ngũ trong suốt hai cuộc kháng chiến chống Pháp (1946-1954) và chống Mĩ (1955-1975). Ông được Đảng và Nhà nước Việt Nam tặng nhiều huy chương, huân chương trong đó có Huân chương Hồ Chí Minh. Ông mất trong năm 1999, thọ 78 tuổi."
 }

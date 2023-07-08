@@ -1,17 +1,16 @@
 {
-  "dateOfBirth" : "Kỉ Mùi 1919",
-  "dateOfDeath" : "Tân Tị 2001",
-  "hometown" : "quê ở xã Mĩ Bình, huyện Củ Chi, tỉnh Gia Định cũ (nay thuộc Thành phố Hồ Chí Minh)",
-  "occupation" : "Thiếu tướng QĐND Việt Nam",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê huyện Gia Hưng, tỉnh Thanh Hóa",
+  "occupation" : "Có sách chép sai là Hoàng Thiếu Hoa",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Trưng Nữ Vương" : 10
   },
   "id" : 869,
-  "entityName" : "Tô Ký",
+  "entityName" : "Hoàng Thiều Hoa",
   "aliases" : [ ],
-  "overview" : "Ông là một chiến sĩ cách mạng kiên cường ở Hóc Môn, từng tham gia khởi nghĩa Nam Kì năm 1940. Sau cách mạng tháng 8, ông chỉ huy các mặt trận Tây Bắc Sài Gòn, Gia Định. Suốt 9 năm kháng chiến (1945-1954), ông cùng đơn vị bám trụ trên đất Gia Định nói chung và Hóc Môn nói riêng. Sau hiệp định Genève, ông cùng đơn vị tập kết ra Bắc làm chính ủy sư đoàn 338, chánh án Tòa án quân sự trung ương... Những năm 60 ông về Nam chỉ huy các lực lượng quân Giải phóng ở chiến trường Đông Nam Bộ và Sài Gòn - Gia Định. Sau năm 1975 có lúc ông là chỉ huy trưởng Bộ Tư lệnh Thành phố Hồ Chí Minh. Năm 1978 chuyển ngành sang Tổng cục Dầu khí, từng được tặng thưởng Huân chương độc lập hạng nhất. Ông mất trong năm 2001 tại TP.HCM thọ 82 tuổi."
+  "overview" : "Khi Hai Bà Trưng khởi nghĩa, bà nhiệt thành đóng góp công lao, tận tụy phụng sự dân tộc. Chính bà và bà Lê Chân nhận nhiệm vụ huấn luyện đoàn Nương tử quân và thường tổ chức môn thể thao \"Đánh phết ' còn lưu truyền đến nay. Kháng chiến thành công, Trưng vương phong bà là Đông cung tướng quân. Khi được phong tặng bà khiêm tốn: \"Tôi là người con gái cô đơn có cần chức tước làm chi. Quí hồ làm hết phận sự mình đối với đất nước là đủ vui rồi\". Tại làng Hiếu Quan, huyện Tam Nông, còn có đền thờ bà, hàng năm ngày 12-13 tháng giêng là ngày hội giỗ long trọng tưởng nhớ bà."
 }

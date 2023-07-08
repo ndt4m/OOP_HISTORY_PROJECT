@@ -1,17 +1,14 @@
 {
-  "dateOfBirth" : "Mậu Ngọ 1918",
-  "dateOfDeath" : "Đinh Tị 1977",
-  "hometown" : "sinh quán tỉnh Bạc Liêu (nay vẫn là Bạc Liêu), ông là nhà văn của đồng ruộng miền Nam, nổi tiếng qua các tác phẩm viết về nông thôn",
-  "occupation" : "Nhà văn hiện đại Việt Nam",
-  "workTenure" : "Không rõ",
+  "dateOfBirth" : "1947 Châu Thành, Bến Tre 9 tháng 10, 1947 (70 tuổi)",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Thuộc",
+  "workTenure" : "1969-2004",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
-  },
+  "eraName" : { },
   "id" : 806,
-  "entityName" : "Lâm Thế Nhơn",
-  "aliases" : [ "Phi Vân" ],
-  "overview" : "Ngày 1 1-1-1977 ông mất tại Thành phố Hồ Chí Minh, hưởng dương 59 tuổi. Còn để lại các tác phẩm: - Đồng quê (1943) - Dân quê (1968) - Tình quê (1970) Trong hai cuộc kháng chiến chống Pháp, Mĩ, ông sống tại Sài Gòn với nghề cầm bút với lương tri của một người trí thức"
+  "entityName" : "Nguyễn Thành Trung",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Thành Trung (sinh ngày 9 tháng 10 năm 1947) là một cựu Đại tá Không quân Nhân dân Việt Nam. Ông là người đã lái máy bay F-5E ném bom vào dinh Độc Lập ngày 8 tháng 4 năm 1975 và là người Việt Nam đầu tiên lái máy bay Boeing 767 và 777."
 }

@@ -1,17 +1,16 @@
 {
-  "dateOfBirth" : "Ất Dậu 1885",
-  "dateOfDeath" : "Quí Tị 1953",
-  "hometown" : "quê làng Hoằng Nông, huyện Duyên Hà, phủ Tiên Hưng, tỉnh Thái Bình, đỗ phó bảng năm 1916 nên thường gợi là Bảng Mộng",
-  "occupation" : "Nhà giáo dục",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Quê xã Hà Dương, huyện Vĩnh Lại, tỉnh Hải Dương",
+  "occupation" : "Danh thần đời Lê Thánh tông",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Triều Lê Sơ" : 7
   },
   "id" : 256,
-  "entityName" : "Nguyễn Can Mộng",
-  "aliases" : [ "Nông Sơn" ],
-  "overview" : "Xuất thân trong một gia đình nho học truyền thống, năm 1912 đỗ cử nhân tại trường Hà Nam lúc 27 tuổi, năm 1916 đỗ Phó bảng. Sơ bổ Huấn đạo huyện Ý Yên, tỉnh Nam Định. Năm 1917 làm giáo thọ cùng huyện, năm 1919 về dạy Hán Văn tại trường Bưởi ở Hà Nội, năm 1920 thăng kiểm học, rồi làm việc ở phòng báo chí phủ Thống sứ Bắc kì đến năm 1931. Năm 1936 giữ chức đốc học tỉnh Nam Định đến năm 1940 thì về hưu, nhưng vẫn lưu dạy Hán văn tại trường Bưởi. Trong thời gian dạy học, ông cộng tác với các tạp chí Nam Phong, Đông Dương chuyên về văn chương Trung Hoa và văn học cổ Việt Nam. Những năm 1949-1953 ông phụ trách giảng dạy môn Hán văn tại Đại học Văn khoa Hà Nội. Ông mất năm 1953 tại Hà Nội thọ 68 tuổi. Các tác phẩm của ông: - Nông sơn thi tập (1933) - Lệ tục nước nhà - Gương liệt nữ (cùng viết, 1927) - Trung Hoa văn thoại tiêu chuẩn (Hà Nội, 1942) - Nam học Hán tự (Hà Nội, Nam Kí 1943) - Ngạn ngữ phong dao (1936) - Hán tự khóa bản (1937) - Bức gương lòng son (Hà Nội, 1923) - Lịch sử Bắc Kì (1932) - Truyên Kiều ( Hà Nội, Viễn Đông 1936) - Nam học (1936) - Văn chương Việt Nam (nói chuyện tại Hội Trí Tri ngày 17-12-1936, Hà Nội, Tân Dân 1937)"
+  "entityName" : "Dương Đúc Nhan",
+  "aliases" : [ ],
+  "overview" : "Ông soạn bộ Cổ kim thi gia tinh tuyển cũng gọi là Tinh tuyển chư gia luật thi gồm 5 quyển 472 bài, sưu tập thơ của 13 nhà thơ cuối đời Trần, Hồ và Lê có chú thích do Lương Nhữ Hộc duyệt lại."
 }

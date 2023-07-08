@@ -1,20 +1,18 @@
 {
-  "dateOfBirth" : "?\n----------------------------------------------\nTân Sửu 761\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "791 Việt Nam\n----------------------------------------------\nNhâm Ngọ 802\n----------------------------------------------\nKhông rõ",
-  "hometown" : "quê làng Đường Lâm, tỉnh Sơn Tây (nay thuộc huyện Ba Vì, tỉnh Hà Tây)\n----------------------------------------------\nKhông rõ",
-  "occupation" : "Ông có tên \n----------------------------------------------\nThủ lĩnh",
-  "workTenure" : "766—791",
+  "dateOfBirth" : "Đinh Hợi 1467",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "nguyên quán làng Cảm Quyết, tỉnh Nghệ An, tự là Cao Dựng, hiệu An Lạc, sinh ngày 20 tháng 2 năm Đinh hợi (1467) tại Nghệ An, con ông Phan Văn Hóa, võ quan đời Hồng Đức",
+  "occupation" : "Võ tướng, Tiền hiền làng Phước Tích, tỉnh Thừa Thiên, nguyên quán làng Cảm Quyết, tỉnh Nghệ An",
+  "workTenure" : "Không rõ",
   "fatherName" : {
-    "Phùng Hạp Khanh" : null
+    "Phan Văn Hóa" : null
   },
   "motherName" : { },
   "eraName" : {
-    "Họ Phùng" : 4,
-    "Bắc thuộc lần lần 3" : 1,
-    "nhà Đường" : null
+    "Triều Lê Sơ" : 7
   },
   "id" : 536,
-  "entityName" : "Phùng Hưng",
-  "aliases" : [ "Công Phấn", "Phùng Hưng (馮興)", "Bố Cái Đại Vương", "Đô Quân" ],
-  "overview" : "Phùng Hưng (chữ Hán: 馮興; ? - 791 ) tự Công Phấn (功奮) hiệu Đô Quân (都君) là lãnh tụ một cuộc nổi dậy chống lại sự đô hộ của nhà Đường thời Bắc thuộc lần thứ ba (602 - 905) trong lịch sử Việt Nam.\n----------------------------------------------\nÔng dòng dõi Quan lang, tính hào hiệp, được nhân dân mến phục. Tương truyền ông có sức mạnh, tay không đẩy lui cặp trâu đang húc nhau, và giết cọp giữ gìn an ninh cho thôn xóm. Khoảng năm Kỉ tị 789, nhân Thứ sử Trương Bá Nghi và Cao Chính Bình của chính quyền đô hộ nhà Đường bạo ngược, ông nghe theo mưu sĩ là Đỗ Anh Hàn dấy binh chống đối, đổi tên là Khu Lão, xưng hiệu là Đô Quân. Em ông là Phùng Hải cũng đổi tên là Cự Lực, xưng hiệu là Đô Bảo, giúp ông đắc lực. Năm Tân mùi 791, khởi nghĩa thành công ông được nhân dân suy tôn là Bố Cái Đại vương. Đến năm Nhâm ngọ 802 ông mất hưởng dương 41 tuổi. Con là Phùng An thay cầm quyền, lại đầu hàng giặc. Đất nước lại bị nhà Đường đô hộ như cũ, do Thứ sử Triệu Xương cai trị. Về sau, các triều đại có truy phong Phùng Hưng duệ hiệu là Bố Cái Phu hựu Chương tín Sùng nghĩa Đại vương. Tại Đường Lâm có đền thờ Phùng Hưng và Ngô Quyền tôn nghiêm.\n----------------------------------------------\nPhùng Hưng (chữ Hán: 馮興; 746-789/791/802) , là lãnh tụ một cuộc nổi dậy chống lại sự đô hộ của nhà Đường thời Bắc thuộc lần thứ ba (602–905) trong lịch sử Việt Nam."
+  "entityName" : "Phan Ngọc Đường",
+  "aliases" : [ "An Lạc", "Cao Dựng" ],
+  "overview" : "Khoảng các năm 1490-1492 ông theo Nguyễn Kim sang Sầm Châu (Lào) thu dụng nghĩa sĩ, hào kiệt phò nhà Lê. Sau đó ông theo Nguyễn Hoàng vào khai khẩn đất Thuận - Quảng và đánh dẹp Chiêm Thành. Năm 1569 Nguyễn Hoàng chính thức trấn nhậm Thuận Hóa, đặt trụ sở tại làng Ái Tử, huyện Triệu Phong (tỉnh Quảng Trị ngày nay). Ông dẫn một đoàn quân tiền tiêu trấn đóng phía Nam các huyện Triệu Phong, Hải Lăng. Tại đây ông lấn dần vào phía Nam khai thác, bình định và cho mở làng Phước Tích, xã Phong Hòa, tỉnh Thừa Thiên. Từ đó hậu duệ ông thừa kế công nghiệp của ông, tiếp tục khai khẩn cả vùng lớn thuộc huyện Phong Điền vào thời trung đại cho đến ngày nay. Sau khi mất, được Đoan Quận công (Nguyễn Hoàng) ban thụy là Hoát Đạt."
 }

@@ -1,18 +1,18 @@
 {
-  "dateOfBirth" : "Kỉ Tị 1869",
-  "dateOfDeath" : "Ất Hợi 1935",
-  "hometown" : "quê làng Mĩ Chánh huyện Ba Tri, tỉnh Bến Tre",
-  "occupation" : "Nhà soạn tuồng",
-  "workTenure" : "Không rõ",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Tước hiệu",
+  "workTenure" : "1570—1570",
   "fatherName" : {
-    "Đồ Chiếu" : null
+    "Trịnh Kiểm" : 2515
   },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Đàng Ngoài - Chúa Trịnh" : 26
   },
   "id" : 1835,
-  "entityName" : "Nguyễn Đình Chiêm",
-  "aliases" : [ "Trọng Vĩnh" ],
-  "overview" : "Ông dạy học, làm nghề Đông y, lúc nhàn rỗi ông sáng tác văn chương để di dưỡng tính tình. Từ năm 1918, khi bà Sương Nguyệt Ánh làm báo Nữ giới chung ông thường viết bài cộng tác. Ngoài các sáng tác và dịch thơ ông còn là tác giả các vở tuồng hát bội: - Phong Ba đình - Phấn trang lầu có giá trị văn chương. Ngày 2-8-1935 ông mất, thọ 66 tuổi, an táng tại làng Mĩ Nhơn, huyện Ba Tri, tỉnh Bến Tre. Các con gái ông là Thoại Long và Kim Phụng có góp mặt trên văn đàn trước đây ở Sài Gòn và Bến Tre."
+  "entityName" : "Trịnh Cối",
+  "aliases" : [ ],
+  "overview" : "Trịnh Cối (chữ Hán: 鄭檜, ? - 1584) là một nhà chính trị thời chiến tranh Lê-Mạc. Do là con cả của thượng tướng Trịnh Kiểm, ông được cha trao binh quyền trước khi chết. Người em cùng cha khác mẹ của ông - Trịnh Tùng, khởi binh chống lại. Trịnh Cối không kiểm soát được vua Lê, bị kẹp vào giữa quân Mạc và quân Trịnh Tùng, kết quả phải đầu hàng nhà Mạc."
 }

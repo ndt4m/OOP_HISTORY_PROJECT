@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
+  "dateOfBirth" : "1151",
   "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Danh thần đời Trần Thái tông",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Trần" : 15
+    "nhà Lý" : null
   },
   "id" : 2303,
-  "entityName" : "Đặng Diễn",
+  "entityName" : "Lý Long Xưởng",
   "aliases" : [ ],
-  "overview" : "Nguyên bấy giờ nhà Trần mới dựng lên, chủ trương kén chọn nhân tài ra giúp nước bằng cách mở khoa thi. Khoa đầu tiên vào năm Nhâm thìn 1232 có 5 người đỗ đầu. Nhất giáp hai người: Trương Hanh và Lưu Diệm (như Trạng nguyên, Thám hoa). Nhị giáp hai người: Đặng Diễn và Trịnh Phủ (như Hoàng giáp). Tam giáp một người: Trần Châu Tao (hay Châu phổ) (đồng Tiến sĩ)."
+  "overview" : "Lý Long Xưởng (chữ Hán: 李龍昶; 1151 - ?) là một hoàng tử nhà Lý, từng được lập ngôi vị Trữ quân. Tuy nhiên sau đó ông bị vua cha phế truất vì tỏ ra không xứng đáng với ngôi vị,"
 }

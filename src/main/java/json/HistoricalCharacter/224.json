@@ -1,18 +1,14 @@
 {
-  "dateOfBirth" : "Tân Mão 1771",
-  "dateOfDeath" : "Nhâm Tuất 1862",
-  "hometown" : "quê gốc Nghệ An, sau dời về ở huyện Phú Vang Thừa Thiên",
-  "occupation" : "Danh tướng triều Nguyễn",
+  "dateOfBirth" : "21 tháng 5, 1915 Phú Thượng, Tây Hồ, Hà Nội",
+  "dateOfDeath" : "27 tháng 2, 1992 (76 tuổi) Hà Nội",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34,
-    "Nhà Tây Sơn" : 21,
-    "Nhà Nguyễn độc lập" : 30
-  },
+  "eraName" : { },
   "id" : 224,
-  "entityName" : "Tạ Quang Cự",
-  "aliases" : [ ],
-  "overview" : "Ông xuất thân là Cai đội, thăng làm Vệ úy. Năm Đinh hợi 1827, ông cùng Thống chế Phan Văn Thúy và Phó tướng Nguyễn Văn Xuân lập chiến công hiển hách giữ vững miền Nghệ Tĩnh, chống lại quân Xiêm xâm lược, được phong làm Phòng ngự sứ trấn thủ ở Trấn Ninh. Đến năm Canh dần 1830, thăng Tổng đốc An Tịnh kiêm lãnh Tuần vũ Nghệ An. Năm Mậu tuất 1838, vua Minh Mạng truyền dựng bia Võ công ở trước sân Võ miếu tại Kinh đô, bia ghi tên 20 danh tướng, tên ông đứng hàng thứ 11. Sang đời Thiệu Trị, ông được gia phong Thái bảo, kiêm quản Hậu quân. Đầu đời Tự Đức, ông lại kiêm quản Tả quân, rồi về hưu. Năm Nhâm tuất 1862 ông mất, thọ 91 tuổi"
+  "entityName" : "Bùi Trang Chước",
+  "aliases" : [ "Bùi Trang Chước" ],
+  "overview" : "Họa sĩ Bùi Trang Chước (sinh ngày 21 tháng 5 năm 1915, mất ngày 27 tháng 2 năm 1992) là họa sĩ bậc thầy Việt Nam với tác phẩm nổi tiếng Quốc huy Việt Nam."
 }

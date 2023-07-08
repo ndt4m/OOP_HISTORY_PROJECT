@@ -1,17 +1,18 @@
 {
-  "dateOfBirth" : "Đinh Dậu 1897",
-  "dateOfDeath" : "Bính Thìn 1976",
-  "hometown" : "quê làng Gia Cát, huyện Quế Sơn, tỉnh Quảng Nam (nay thuộc xã Quế Phong, huyện Quế Sơn, tỉnh Quảng Nam)",
-  "occupation" : "Giáo sư",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Quê huyện Hương Trà, tỉnh Thừa Thiên",
+  "occupation" : "Danh thần, con xử sĩ Hoàng Quang",
   "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "fatherName" : {
+    "Hoàng Quang" : 1511
+  },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Nhà Nguyễn độc lập" : 30
   },
   "id" : 2724,
-  "entityName" : "Lê Ấm",
+  "entityName" : "Hoàng Kim Hoán",
   "aliases" : [ ],
-  "overview" : "Xuất thân trong một gia đình Nho học truyền thống, con trai cử nhân Lê Tự, con rể chí sĩ Phan Châu Trinh. Thuở nhỏ học chữ Hán với thân phụ tại các trường trong huyện, đến năm 16 tuổi mới theo Tây học. Năm 1922 tốt nghiệp Cao đẳng Sư phạm Đông Dương, sau đó được bổ về dạy tại Trường Quốc học Vinh, năm 1924 chuyển về Trường Quốc tử giám (Huế). Năm 1928 đổi về Trường Quốc học Qui Nhơn (Bình Định) cho đến năm 1945. Sau ngày Nhật đảo chính Pháp, ông được vua Bảo Đại mời (cùng 13 vị khác) về Huế bàn việc \"chiêu tập nhân tài\" trong việc thành lập một chính phủ mới. Sau khi chính phủ Trần Trọng Kim thành lập (1945), ông được mời tham chánh (thời gian này ông có chân trong Ủy ban Quốc dân tỉnh Bình Định), đến năm 1954, Ngô Đình Diệm có lúc đánh tiếng mời ông tham gia Quốc hội Sài Gòn, ông đều từ chối. Ông là người có công giữ gìn, bảo quản được hầu hết di cảo của nhà yêu nước Phan Châu Trinh, cũng như trong việc biên soạn, dịch thuật, xuất bản một phần di cảo nhà thơ Tây Hồ. Ông cũng là người có mối quan hệ đặc biệt với các chí sĩ Phan Châu Trinh, Lê Văn Huân, Huỳnh Thúc Kháng... và hỗ trợ các nhà hoạt động cách mạng chống Pháp. Những năm chiến tranh Việt Mĩ ác liệt ông sống trọn tuổi trời đến ngày 9 tháng 12 năm 1976 ông qua đời tại nhà thờ Phan Châu Trinh tại Đà Nẵng, thọ 79 tuổi (Vợ ông là bà Phan Thị Châu Liên ái nữ cụ Phan Châu Trinh)."
+  "overview" : "Đời Gia Long, ông làm việc ở Viện Hàn lâm, rồi đổi làm Thiêm sự bộ Binh. Ít lâu làm Kí lục trấn Quảng Bình và Quảng Trị. Đời Minh Mạng, ông làm Chánh sứ sang Trung Quốc, khi vầ lãnh chức Tả tham tri, rồi ra làm Hiệp trấn Thanh Hóa. Ông cực lực bài trừ tham nhũng, trừng trị cường hào ác bá. Do đấy, chúng cấu kết với bọn quyền gian trong triều, khiến ông phải bị cách chức, phát vãng vào Cam Lộ hiệu lực. Do nhân dân bênh vực ông, triều đình xét lại, phục chức cho ông. Về sau ông thăng chức Tham hiệp Lạng Sơn, nhưng chưa đi nhậm chức thì mất."
 }

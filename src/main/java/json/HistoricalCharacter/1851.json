@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Kỉ Mão 1459",
+  "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
-  "hometown" : "quê làng Lan Độ, huyện Đông Ngạn, tỉnh Bắc Ninh",
-  "occupation" : "Võ tướng đời Lê Thánh tông",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Triều Lê Sơ" : 7
+  "fatherName" : {
+    "Triệu Đà" : 1462
   },
+  "motherName" : { },
+  "eraName" : { },
   "id" : 1851,
-  "entityName" : "Nghiêm Ích Khiêm",
+  "entityName" : "Trọng Thủy",
   "aliases" : [ ],
-  "overview" : "Ông nổi tiếng thơ văn, có sức mạnh và thông hiểu binh pháp, tài gồm văn võ. Năm Canh tuất 1490 ông đỗ tiến sĩ, 31 tuổi. Làm quan trong triều được ít lâu, cải qua chức võ, thăng Cẩm y vệ Đô chỉ huy sứ. Anh ông là Nghiêm Công Phụ cũng đỗ tiến sĩ, làm quan đồng triều, tài đức được sĩ phu trọng vọng."
+  "overview" : "Trọng Thủy (chữ Hán: 仲始), tên đầy đủ là Triệu Trọng Thủy (chữ Hán: 趙仲始), là hoàng tử nước Nam Việt, con trai của Triệu Đà."
 }

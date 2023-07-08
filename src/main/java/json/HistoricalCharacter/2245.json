@@ -1,18 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
+  "dateOfBirth" : "1533",
+  "dateOfDeath" : "1789",
   "hometown" : "Không rõ",
-  "occupation" : "Vua",
-  "workTenure" : "1516–1516",
-  "fatherName" : {
-    "Lê Doanh" : null
-  },
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Hậu Lê – giai đoạn Lê sơ" : 20
+    "nhà Hậu Lê" : null
   },
   "id" : 2245,
-  "entityName" : "Lê Quang Trị",
+  "entityName" : "Lê Trung Hưng",
   "aliases" : [ ],
-  "overview" : "Lê Quang Trị (chữ Hán: 黎光治 1509 - 1516) là một vị hoàng đế nhà Lê sơ trong lịch sử Việt Nam. Do được lập lên ngôi và phế truất trong thời gian loạn lạc ngắn ngủi, ông ít được nhắc tới trong danh sách các vị vua chính thống của Việt Nam."
+  "overview" : "Nhà Lê trung hưng (chữ Hán: 中興黎朝, 1533–1789) là giai đoạn tiếp theo của triều đại nhà Hậu Lê (tiếp nối nhà Lê Sơ) trong lịch sử phong kiến Việt Nam, được thành lập sau khi Lê Trang Tông với sự phò tá của cựu thần nhà Lê sơ là Nguyễn Kim được đưa lên ngôi báu. Đây là triều đại dài nhất so với các triều đại trong lịch sử Việt Nam với 256 năm và đây cũng là thời kỳ lãnh thổ Việt Nam được mở rộng nhiều lần nhất."
 }

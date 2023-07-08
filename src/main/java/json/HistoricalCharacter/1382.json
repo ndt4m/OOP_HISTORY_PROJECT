@@ -1,14 +1,16 @@
 {
   "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "hometown" : "quê huyện Cẩm Thủy, tỉnh Thanh Hóa",
+  "occupation" : "Võ tướng đời Lê Trang tông",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
   "id" : 1382,
-  "entityName" : "Nguyễn Hữu Thành",
+  "entityName" : "Hà Nhân Chính",
   "aliases" : [ ],
-  "overview" : "Nguyễn Tôn Nhan, tức Nguyễn Hữu Thành (1 tháng 2 năm 1948-31 tháng 1 năm 2011) là một nhà văn, nhà thơ, nhà biên khảo người Việt."
+  "overview" : "Gặp buổi nhiễu nhương ông tận tâm tận lực giúp nước,có công rất nhiều trong thời Trung Hưng nhà hậu Lê, được phong tặng tước Thụy Quận Công. Con ông là Hà Thọ Lộc là đại thần triều Lê Anh tông."
 }

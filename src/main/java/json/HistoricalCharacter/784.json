@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê ở Ninh Khê, đất Liêu Thủy, không rõ năm sinh năm mất",
-  "occupation" : "Theo Việt âm thi tập ông còn có tên khác nữa là Châu Đường Thương",
+  "dateOfBirth" : "Quí Sửu 1913",
+  "dateOfDeath" : "Mậu Ngọ 1978",
+  "hometown" : "tại làng Mọc Quan Nhân, huyện Từ Liêm, tỉnh Hà Đông (nay là xã Nhân Chính, huyện Từ Liêm, TP",
+  "occupation" : "Nhà văn",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Trần" : 15
+    "Nước Việt Nam mới" : 29
   },
   "id" : 784,
-  "entityName" : "Châu Đuờng Anh",
-  "aliases" : [ "Châu Đường Thương", "Liêu Thủy" ],
-  "overview" : "Ông nổi tiếng thơ văn. Trong Toàn Việt thi lục còn chép 2 bài thơ của ông."
+  "entityName" : "Lê Tài Phúng",
+  "aliases" : [ "Lê Tùng", "Trường Thiên", "Lê Tràng Kiều", "Phan Hữu" ],
+  "overview" : "Thuở nhỏ học ở Hà Nội, những năm 40 của thế kỉ XX, ông chủ trương báo Tân thiếu niên ở Hà Nội. Sau đó ông vào sống và làm báo tại Sài Gòn, từng cộng tác với các báo ở đây cho đến cuối đời. Sau cách mạng tháng 8 năm 1945. Ông gia nhập phong trào báo chí thống nhất cùng với Nam Đình, Trần Tấn Quốc, Nam Quốc Cang, Tam Ích, Thiếu Sơn, Vũ Tùng... chống nhóm li khai của chính phủ Nam Kì tự trị của thủ tướng Nguyễn Văn Thinh (1888-1946). Thời điểm này ông cộng tác với các nhà văn kháng chiến tại nội thành kí nhiều bút danh nhằm che đậy mục tiêu sinh hoạt của nhóm. Sau năm 1954 ông vẫn hành nghề báo chí, cộng tác với các báo Đuốc Nhà Nam, Dân chủ mới, Thần chung... Các tác phẩm chính: - Kho chuyện (1932, Nam Định) - Hang gió (1934, Nam Định) - Vị Giang Văn khố tuyển tập (1932, 1934) - Minh Trị thiên hoàng (1936, Hà Nội) - Tôi đã gặp người đàn bà ấy (1936 H.N) - Cuộc Nam tiến của dân tộc Việt Nam (1940, Sài Gòn) - Quốc văn toàn thư (1962, Sài Gòn) - Việt Nam một nền kinh tế tương lai (1947, Sài Gòn) - Kế hoạch 5 năm của Liên Xô (1947, Sài Gòn, hai cuốn này kí Phan Hữu) Và một số bản thảo: - Ca dao Việt Nam - Những thi văn tiền chiến - Nền văn hóa Cách mạng (1945-1954) - Phong trào tranh đấu của báo chí Bắc Việt (thời Pháp thuộc)."
 }

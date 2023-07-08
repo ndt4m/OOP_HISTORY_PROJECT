@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
+  "dateOfBirth" : "1674",
+  "dateOfDeath" : "1735",
   "hometown" : "Không rõ",
   "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "nhà Lê" : null
+  },
   "id" : 1977,
-  "entityName" : "Vũ Văn Mật",
+  "entityName" : "Nguyễn Hiệu",
   "aliases" : [ ],
-  "overview" : "Vũ Văn Mật (chữ Hán: 武文密; ?-?) là em của Vũ Văn Uyên, vị chúa Bầu thứ hai của họ Vũ ở Tuyên Quang."
+  "overview" : "Nguyễn Hiệu (chữ Hán: 阮傚; 1674 - 1735) là một đại thần nhà Lê trung hưng trong lịch sử Việt Nam."
 }

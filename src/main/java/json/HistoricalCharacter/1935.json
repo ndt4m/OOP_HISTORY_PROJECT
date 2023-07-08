@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Canh Tí 1900",
-  "dateOfDeath" : "Quí Mùi 1943",
-  "hometown" : "Quê làng Thiềng Đức, tỉnh Vĩnh Long",
-  "occupation" : "Nhà văn ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "dateOfBirth" : "242",
+  "dateOfDeath" : "284 Lạc Dương, Hà Nam",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Đông Ngô",
+  "workTenure" : "264 - 280",
+  "fatherName" : {
+    "Tôn Hòa" : null
+  },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Nhà Đông Ngô" : null
   },
   "id" : 1935,
-  "entityName" : "Phan Huấn Chương",
-  "aliases" : [ "Phan Văn Tí" ],
-  "overview" : "Xuất thân trong gia đình nghèo; đông anh em, cha làm thợ hồ nuôi con ăn học. Ông học tại trường trung học Mĩ Tho, đến năm thứ ba, ông phải bỏ học làm thầy giáo làng để phụ giúp gia đình. Thời gian đi dạy học này ông bắt đầu làm thơ, viết văn. Hai cuốn truyện dài: Hòn máu bỏ rơi (1936), Tan tác (1937) nổi tiếng ngay trong thời kì chữ Quốc ngữ còn phôi thai ở Nam Kì. Riêng cuốn Hòn máu bỏ rơi được giải thưởng văn chương của báo Đuốc Nhà Nam ở Sài Gòn trong năm 1937. Truyện dài Tan tác được giải thưởng văn chương của Tự lực văn đoàn, Hà Nội năm 1939. Ngoài 2 cuốn tiểu thuyết trên, ông còn có tập thơ nhan đề: Huấn Chương thi tập và một số bài đăng trên hai tuần báo Tân Văn và Thế giới Tân văn ở Sài Gòn trong những năm 1935-1936. Anh ông, nhà giáo Phạm Văn Thọ là một bậc mô phạm đạo đức, sau năm 1945 bỏ đời sống công chức, xuất gia đầu Phật ở Thất Sơn (Châu Đốc). Ông là một nhà văn hiện thực miền Nam, dù tác phẩm ông không nhiều nhưng ông đã góp phần xứng đáng vào di sản văn học nước nhà hồi thế kỉ này. Năm 1943, ông mất tại quê nhà, hưởng dương 43 tuổi."
+  "entityName" : "Tôn Hạo",
+  "aliases" : [ "Niên hiệu Nguyên Hưng (元興) 264-265 Cam Lộ (甘露) 265-266 Bảo Định (寶鼎) 266-269 Kiến Hoành (建衡) 269-271 Phượng Hoàng (鳳凰) 272-274 Thiên Sách (天冊) 275-276 Thiên Tỷ (天璽) 276 Thiên Ký (天紀) 277-280", "Húy: Tôn Hạo Tên tự: Hạo Tông (皓宗)", "Mạt Hoàng Đế (末皇帝)" ],
+  "overview" : "Tôn Hạo (chữ Hán: 孫皓; bính âm: Sun Hao, 242-284), hay Ngô Mạt đế (吳末帝), là hoàng đế cuối cùng của nhà Đông Ngô thời Tam Quốc trong lịch sử Trung Quốc. Ông là con trai của thái tử Tôn Hòa, cháu đích tôn của Đại Đế Tôn Quyền. Sau khi người chú của ông là Cảnh Đế Tôn Hưu qua đời và thái tử Tôn Quân còn nhỏ tuổi, các đại thần nước Ngô quyết định đưa Tôn Hạo lên ngôi hoàng đế. Trong thời gian trị vì, ông hoang dâm vô đạo, xa xỉ cùng cực, giết hại trung lương, tin dùng hoạn quan, việc chính sự thì ít để tâm tới, vì thế quốc lực Giang Đông suy yếu. Nhân cơ hội đó, năm 280, Tấn Vũ Đế phát động chiến tranh, tiêu diệt được Đông Ngô, Tôn Hạo hàng Tấn rồi bị bắt giải về Lạc Dương, kết thúc thế chân vạc Tam Quốc. Ông qua đời vào năm 284 dưới thời Tấn Vũ Đế."
 }

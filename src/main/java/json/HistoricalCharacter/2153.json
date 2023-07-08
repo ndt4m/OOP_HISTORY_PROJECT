@@ -1,17 +1,16 @@
 {
-  "dateOfBirth" : "Kỉ Mùi 1919",
-  "dateOfDeath" : "Canh Dần 1950",
-  "hometown" : "quê ở Thanh Hóa",
-  "occupation" : "Nhà thơ ",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Con Lê Dụ tông",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Trịnh - Nguyễn" : 34
   },
   "id" : 2153,
-  "entityName" : "Nguyễn Đức Giới",
-  "aliases" : [ "Thôi Hữu", "Tân Sắc", "Trần Văn Tấn" ],
-  "overview" : "Ông học tại trường Kĩ nghệ thực hành Huế. Từ năm 1939, ông bắt đầu sáng tác văn chương, có thơ đăng ở báo Bạn Đường (Thanh Hóa). Giác ngộ cách mạng ông bỏ học từ năm 1940 làm nghề thợ điện, tích cực hoạt động trong đoàn Thanh niên Dân chủ. Năm 1943 tham gia các tổ chức bí mật hoạt động ở Hà Nội, năm sau ông bi bắt, rồi vượt nguc, tham gia Hội Văn hóa Cứu quốc. Sau Cách mạng tháng Tám ông cộng tác các báo Sự Thật, Thủ Đô (của Liên khu I), Vệ Quốc quân (của Quân đội Nhân dân). Ngày 16-12-1950 ông hi sinh trên đường đi công tác trong vụ oanh tạc của máy bay Pháp, hưởng dương 31 tuổi. Thơ văn ông được hoan nghênh qua các bài: - Lên Cấm Sơn - Xe trâu - Lời cô lái đò - Đi tuần - Sau luỹ tre xanh Và các phóng sự: - Đi vào sau địch - Tù binh đường số 4..."
+  "entityName" : "Lê Duy Quí",
+  "aliases" : [ ],
+  "overview" : "Lúc sắp kéo binh đốt phá phủ chúa, có người tố cáo cho chúa Trịnh Giang hay biết. Việc bại lộ. Ông bỏ chạy nhưng không thoát, bị bắt giết một lượt với Lê Duy Chúc. Riêng Lê Duy Mật còn chống cự thêm một thời gian nữa rồi mới tự thiêu mà chết."
 }

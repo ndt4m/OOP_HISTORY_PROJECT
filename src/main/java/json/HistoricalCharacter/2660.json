@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê làng Phù Lê, huyện Kim Anh (nay thuộc Hà Nội)",
-  "occupation" : "Nữ sĩ đời Lê Thánh tông",
+  "dateOfBirth" : "Canh Thân 1920",
+  "dateOfDeath" : "Ất Hợi 1995",
+  "hometown" : "tại thành phố Nam Định, tỉnh Nam Định",
+  "occupation" : "Giáo sư thực vật học, nhà nghiên cứu",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Triều Lê Sơ" : 7
+    "Nước Việt Nam mới" : 29
   },
   "id" : 2660,
-  "entityName" : "Ngô Chi Lan",
-  "aliases" : [ "Nguyễn Hạ Huệ" ],
-  "overview" : "Bà nổi tiếng thơ văn. Chồng là danh sĩ Phù Thúc Hoành, quê ở làng Phù Xá. Vợ chồng bà đều được vua Lê và các danh sĩ đương thời trọng vọng. Bà từng được phong là Phù Gia nữ học sĩ, đảm đương việc dạy đạo đức nghi lễ, và truyền đạt văn hóa cho các cung nhân. Tương truyền bà có soạn tập thơ Mai trang tập, nhưng đã thất truyền. Nay chỉ còn lại 9 bài thơ chép ở các sách Trích diễm thi tập, Truyền kì mạn lục, Kiến văn tiểu lục, Lĩnh Nam chích quái. ấy là các bài: - Thái liên khúc (Khúc hát hái sen, chữ Hán) - Bốn bài thơ vịnh 4 mùa, cả chữ Hán lẫn Nôm. - Thơ vịnh Phù Đổng thiên vương, núi Vệ Linh. - Thơ vịnh truyện Tô Vũ (chữ Nôm)."
+  "entityName" : "Đào Văn Tiến",
+  "aliases" : [ ],
+  "overview" : "Xuất thân trong một gia đình có truyền thống Nho học, thời còn trẻ tuổi ông học tiểu học và trung học tại trường Thành Chung Nam Định. Tiếp đó lên Hà Nội học tiếp, đỗ tú tài năm 1940 rồi vào học Trường Đại học Khoa học Hà Nội. Năm 1944 tốt nghiệp Cao đẳng Động vật học, từ đó ông chuyên tâm nghiên cứu về động và thực vật học và đã có một số công trình nghiên cứu chuyên ngành. Sau toàn quốc kháng chiến (19-12-1946) ông lên chiến khu Việt Bắc tham gia kháng chiến trong lĩnh vực giáo dục và khoa học. Sau hiệp định Genève 1954, ông về lại Hà Nội tham gia công tác nghiên cứu khoa học (chuyên về động và thực vật học). Ông có chân trong các ủy ban Quốc tế nghiên cứu động vật (cá) của một số nước trên thế giới. Và cũng là giáo sư thỉnh giảng của một số nước ở Âu châu và Phi Châu. Ông là tác giả hàng trăm công trình nghiên cứu chuyên ngành về động vật thực vật. Do thành quả lao động khoa học, ông được Nhà nước Việt Nam tặng Giải thưởng Hồ Chí Minh về nghiên cứu khoa học. Ông mất trong năm 1995 tại Hà Nội, thọ 75 tuổi."
 }

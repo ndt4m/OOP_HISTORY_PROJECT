@@ -1,19 +1,20 @@
 {
-  "dateOfBirth" : "Đinh Mùi 1907",
-  "dateOfDeath" : "Giáp Ngọ 1954",
-  "hometown" : "quê làng Điều Hòa, tỉnh Mĩ Tho (nay thuộc tỉnh Tiền Giang), con ông Lê Tấn Công kĩ sư cầu cống",
-  "occupation" : "Nghệ sĩ sân khấu lỗi lạc",
-  "workTenure" : "Không rõ",
+  "dateOfBirth" : "12 tháng 6, 1107",
+  "dateOfDeath" : "9 tháng 11, 1187 (80 tuổi) Trung Quốc",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Đại Tống",
+  "workTenure" : "12 tháng 6 năm 1127 – 24 tháng 7 năm 1162 (35 năm, 42 ngày)",
   "fatherName" : {
-    "Lê Tấn Công kĩ sư cầu cống" : null
+    "Tống Huy Tông" : null
   },
-  "motherName" : { },
+  "motherName" : {
+    "Vi Hiền phi" : null
+  },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Nhà Nam Tống" : null
   },
   "id" : 3113,
-  "entityName" : "Lê Thị Phỉ",
-  "aliases" : [ "Năm Phỉ" ],
-  "overview" : "Năm 1917, mới 11 tuổi bà đã lên sân khấu với gánh hát Đồng Bào Nam, sau đó bà lập gia đình với nghệ sĩ Hai Giỏi và theo chồng về gánh Nam Đồng Ban do cha chồng sáng lập, nhưng chỉ được vài năm thì chồng qua đời. Khoảng năm 1924-1925 bà hát cho gánh Phước Cương của ông Nguyễn Ngọc Cương rồi \"bước thêm bước nữa\" với ông \"Bầu Cương\"! từ đây danh tiếng bà càng vang dậy vì tài diễn xuất độc đáo của bà qua nhiều vai diễn đã chiếm được cảm quan nghệ thuật của nhiều thế hệ khán giả khắp các tỉnh Nam Kì trong các vở Phụng Nghi Đình, Xử án Bàng Quí Phi, Lan và Điệp, Tơ vương đến thác... Khi biểu diễn ở nước ngoài (Pháp, Thái Lan...) tên tuổi bà được tán thưởng nhiệt liệt trên nhiều báo chí. Từ giới phê bình sân khấu đến khán giả ai cũng thán phục tài diễn xuất đầy nghệ thuật của bà. Ngày 2-6-1954, bà đột ngột từ trần vì bạo bệnh, hưởng dương 47 tuổi để lại sự thương tiếc của nhiều giới khán giả yêu nghệ thuật sân khấu."
+  "entityName" : "Triệu Cấu",
+  "aliases" : [ "Cao Tông (高宗)", "Triệu Cấu (趙構)", "Đức Cơ", "Thụ Mệnh Trung Hưng Toàn Công Chí Đức Thánh Thần Vũ Văn Chiêu Nhân Hiến Hiếu Hoàng đế (受命中兴全功至德圣神武文昭仁宪孝皇帝)", "Tĩnh Viêm (靖炎) hay Kiến Viêm (建炎) (1127 - 1130) Thiệu Hưng (紹興; 1130 - 1162)" ],
+  "overview" : "Tống Cao Tông (chữ Hán: 宋高宗, 12 tháng 6 năm 1107 - 9 tháng 11 năm 1187), tên húy là Triệu Cấu (chữ Hán: 趙構), tên tự là Đức Cơ (德基), là vị hoàng đế thứ 10 của triều đại nhà Tống trong lịch sử Trung Quốc, đồng thời là vị vua đầu tiên của thời Nam Tống (1127 - 1279)."
 }

@@ -1,17 +1,16 @@
 {
-  "dateOfBirth" : "Ất Tị 1845",
-  "dateOfDeath" : "Ất Mùi 1895",
-  "hometown" : "Hà Tĩnh",
-  "occupation" : "Nhà yêu nước quê làng Hữu Bằng huyện Hương Sơn, tỉnh Hà Tĩnh (nay là xã Sơn Bằng, tỉnh Hà Tĩnh)",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nhà Nguyễn độc lập" : 30
+    "nhà Hán" : null
   },
   "id" : 2097,
-  "entityName" : "Thái Vĩnh Chinh",
-  "aliases" : [ ],
-  "overview" : "Ông cùng với nhóm văn thân trong vùng tổ chức nghĩa quân kháng chiến chống Pháp, được vua Hàm Nghi phong làm Lãnh binh. Ông lãnh đạo nghĩa quân lập căn cứ ở địa phương làm tiêu hao nhiều lực lượng địch. Một thời gian sau, ông bị đám quân tay sai bao vây ở chiến khu. Nghĩa quân từ đó tan rã dần, nhưng ông vẫn chiến đấu đến cùng. Ông hi sinh trong năm Ất mùi 1895 hưởng dương 50 tuổi, còn lưu lại bài thơ TUYỆT MẠNG: \"Dĩ tri thiên mạng dĩ tri thân, Nan bảo giang sơn mãn cấu trần. Quốc tặc hoành hành gia tặc lộng, Đoạn trường huyết lệ lưỡng triêm cân.\" Nghĩa: Đã biết mạng trời đã biết thân, Non sông khôn giữ lúc nguy nan. Giặc nhà giặc nước đang lồng lộn, Máu lệ chan hòa đẫm ưởt khăn. Bạn ông là Nguyễn Năng Định và cháu ông là Lê Khoan Hoàng cũng một lòng hi sinh vì nước."
+  "entityName" : "Lý Quảng",
+  "aliases" : [ "Wade–Giles: Li Kuang" ],
+  "overview" : "Lý Quảng (chữ Hán: 李廣, phiên âm Wade–Giles: Li Kuang, bính âm: Li Guang, ? - 119 TCN), còn có biệt danh là Phi tướng quân (飛將軍), là một võ tướng dưới thời nhà Hán trong lịch sử Trung Quốc, người Lũng Tây, nổi tiếng là biệt tài cưỡi ngựa bắn cung. Theo ghi chép trong bộ Sử ký của Tư Mã Thiên thì Lý Quảng là con cháu của Lý Tín và là tổ tiên của các vị vua nhà Đường (theo Cựu và Tân Đường thư). Trong khoảng thời gian cầm quân của mình, Lý Quảng nhiều lần tham gia các chiến dịch chống lại bộ tộc Hung Nô ở miền bắc Trung Quốc. Năm 119 TCN, do sơ suất trong một lần ra trận giao tranh với Hung Nô nên ông hội quân trễ với các cánh quân khác và vô tình tạo điều kiện cho thiền vu Hung Nô trốn thoát, nên bị đưa ra xét xử. Do cho đó là một sự sỉ nhục, Lý Quảng đã tự sát."
 }

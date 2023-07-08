@@ -1,20 +1,16 @@
 {
-  "dateOfBirth" : "Canh Ngọ 1930",
-  "dateOfDeath" : "Ất Hợi 1995",
-  "hometown" : "tại Qui Nhơn",
-  "occupation" : "Nhà văn hiện đại",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Danh thần đời Lý Cao tông",
   "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Giáo sư Lê Ấm" : null
-  },
-  "motherName" : {
-    "Phan Thị Châu Liên" : null
-  },
+  "fatherName" : { },
+  "motherName" : { },
   "eraName" : {
-    "Nước Việt Nam mới" : 29
+    "Nhà Lý" : 14
   },
   "id" : 2794,
-  "entityName" : "Lê Khâm",
-  "aliases" : [ "Phan Tứ" ],
-  "overview" : "Xuất thân trong một gia đình nho giáo, nội ngoại tổ là các nhà yêu nước, thân phụ tốt nghiệp Truờng Cao đẳng sư phạm Đông Dương. Thuở nhỏ học ở Qui Nhơn đến năm 1945, sau toàn quốc kháng chiến gia đình tản cư về nguyên quán. Năm 1950 tham gia bộ đội, từng chiến đấu tại chiến trường Hạ Lào. Sau hiệp đinh Genève ông tập kết ra Bắc, năm 1958 là sinh viên tại Đại học Tổng hợp Hà Nội. Năm 1961 trở về chiến đấu tại chiến trường miền Nam, từng là phái viên Ban Tuyên huấn Liên khu V. Sau ngày thống nhất đất nước ông về công tác tại Hội Văn nghệ Quảng Nam - Đà Nẵng cho đến ngày qua đời (1995). Hầu hết sáng tác của ông là truyện ngắn và tiểu thuyết viết về đề tài chiến tranh chống Mĩ ở chiến trường miền Nam; nhất là ở Trung Trung Bộ. Các tác phẩm: - Một ngày bên đồn địch (truyện ngắn, 1957) - Bên kia biên giới (1958) - Trước giờ nổ súng (1960) - Trên đất Lào (1961) - Về làng (1964) - Trở về Hà Nội (1959) - Gia đình má Bảy (1968) - Trong đám nứa (1968) - Măng mọc trong lửa (1972) - Mẫn và tôi (1972) - Trại ST. 18 (1974) - Trong mưa núi (1984) - Người cùng quê (1985) - Sông Hằng mẹ tôi (dịch tiểu thuyết, 1984) "
+  "entityName" : "Đàm Dĩ Mông",
+  "aliases" : [ ],
+  "overview" : "Chính ông đã đưa ý kiến nên chọn lọc lại tăng đồ để Phật giáo giữ vững được giá trị không bị hỗn tạp, vua Lý Cao tông xuống chiếu chuẩn y. Nhờ thế, các tu sĩ vẫn được trọng vọng. Sau ông bị Phí Lang ở Đại Hoàng dâng thư hạch tội tham nhũng. Ông bị đánh đòn làm nhục, nên tụ tập quần chúng dấy loạn triều đình không dẹp nổi. Ít lâu, nhân có Quách Bốc đem quân đánh phá hoàng thành (Mậu thìn 1208) thẳng vào cung Vạn Duyên, lập Hoàng tử Thẩm lên làm vua, Đàm Dĩ Mông lại xu phụ theo phe đảng ấy. Đến khi anh em họ Trần chiêu binh đánh dẹp được loạn Quách Bốc (Kỉ tị 1209), đưa Lý Cao tông về kinh tiếp tục làm vua, thì sĩ phu không còn cảm tình gì với ông, ông hổ thẹn mà chết."
 }

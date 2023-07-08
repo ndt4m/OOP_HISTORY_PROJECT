@@ -1,16 +1,14 @@
 {
-  "dateOfBirth" : "Ất Sửu 1685",
-  "dateOfDeath" : "1699\n----------------------------------------------\nKhông rõ",
-  "hometown" : "quê làng Đôn Thư, huyện Thanh Oai, tỉnh Hà Đông (nay là tỉnh Hà Tây)",
-  "occupation" : "Danh thần, đời Lê Dũ tông",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
-  },
+  "eraName" : { },
   "id" : 2325,
-  "entityName" : "Võ Công Tuấn",
-  "aliases" : [ "Vũ Công Tuấn" ],
-  "overview" : "Vũ Công Tuấn (?-1699) là vị chúa Bầu cuối cùng cát cứ tại Tuyên Quang trong thời kỳ Nam Bắc triều và Trịnh Nguyễn phân tranh trong lịch sử Việt Nam.\n----------------------------------------------\nÔng thuở trẻ nổi tiếng văn chương, học ở trường Giám, đỗ khoa Sĩ vọng. Năm Giáp thìn 1724 ông đỗ đồng tiến sĩ, năm Mậu thân 1528 ông làm Hiệu thảo, lãnh chức Giám sát Thanh Hóa. Rồi dự trúng khoa thi Đông các, ông và Phạm Khiêm Ích, Nguyễn Công Thái được khen thưởng vẻ vang. Có lúc ông bị bãi chức, đến Canh thân 1740 lại được chúa Trịnh Doanh triệu ra dùng, ông làm Tả thị lang bộ Binh kiêm Học sĩ ở tòa Đông các, tước Hầu. Sau khi đã về hưu, vẫn còn được triều đình triệu ra lần nữa, ông vẫn hết lòng phục vụ. Lúc cáo quan lui về quê, ông mở trường dạy học, học trò ông thành đạt nhiều. Người đương thời rất khen ngợi ông. Khi mất, được truy tặng Thượng thư, tước Bộ Quận Công."
+  "entityName" : "Nguyễn Đức Hoan",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Đức Hoan (sinh 1938) là đại biểu Quốc hội Việt Nam khóa X. Ông thuộc đoàn đại biểu Quảng Trị."
 }

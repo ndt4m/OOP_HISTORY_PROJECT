@@ -1,14 +1,20 @@
 {
-  "dateOfBirth" : "15 tháng 12 năm 1925 Châu Thành, Long An Việt Nam",
-  "dateOfDeath" : "Không rõ",
+  "dateOfBirth" : "1679\n----------------------------------------------\nCanh Thân 1680\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "1731 (51–52 tuổi) Việt Nam\n----------------------------------------------\nTân Hợi 1731\n----------------------------------------------\nKhông rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Thuộc",
-  "workTenure" : "1946-1975",
-  "fatherName" : { },
+  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua nhà Hậu Lê\n----------------------------------------------\nVua",
+  "workTenure" : "1705 – 1729\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1705—1729",
+  "fatherName" : {
+    "Lê Hy Tông" : 595
+  },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34,
+    "Nhà Lê trung hưng" : null,
+    "Nam triều – Nhà Hậu Lê – giai đoạn Lê Trung hưng" : 28
+  },
   "id" : 1099,
-  "entityName" : "Trần Thiện Khiêm",
-  "aliases" : [ ],
-  "overview" : "Trần Thiện Khiêm (1925), nguyên là một tướng lĩnh Bộ binh của Quân lực Việt Nam Cộng hòa, cấp bậc Đại tướng. Ông xuất thân từ khóa đầu tiên ở trường Võ bị Liên quân Viễn Đông do Quân đội Thuộc địa Pháp mở ra tại Cao nguyên Trung phần Việt Nam. Mặc dù chuyên môn quân sự của ông là Bộ binh, nhưng khi còn là sĩ quan trung cấp, ông ít phải chỉ huy đơn vị tác chiến mà được cử giữ những chức vụ liên quan đến lãnh vực Tham mưu. Sau lên đến sĩ quan cao cấp, ông được cử chỉ huy đơn vị cấp Sư đoàn một thời gian ngắn. Ông từng là tướng lĩnh giữ vai trò quan trọng trong các cuộc Đảo chính Quân sự tại Việt Nam Cộng hòa trong những năm 1963-1964. Sau đó ông được đảm trách những chức vụ cao trong Quân lực như: Tư lệnh Quân đoàn, Tham mưu trưởng rồi Tổng Tham mưu trưởng Bộ Tổng Tham mưu. Là một trong số ít sĩ quan được thăng cấp tướng ở thời kỳ Đệ nhất Cộng hòa (Thiếu tướng năm 1962) và là một trong 5 sĩ quan được phong cấp Đại tướng trong Quân lực Việt Nam Cộng hòa. Ông cũng là một chính khách và là người giữ chức vụ đứng đầu Bộ Quốc phòng và Thủ tướng Việt Nam Cộng hòa trong thời gian lâu nhất."
+  "entityName" : "Lê Duy Đường",
+  "aliases" : [ "Lê Duy Đường", "Lê Dụ Tông", "Thuần Chính Huy Nhu Ôn Giản Từ Tường Khoan Huệ Tôn Mẫu Hòa Hoàng đế", "Vĩnh Thịnh (永盛: 1706 - 1719) Bảo Thái (保泰: 1720 - 1729)", "Dụ Tông (裕宗)" ],
+  "overview" : "Lê Dụ Tông (chữ Hán: 黎裕宗, 1679 – 1731) là vị Hoàng đế thứ 11 của nhà Lê trung hưng, trong lịch sử Việt Nam. Ông có tên húy là Lê Duy Đường (黎維禟, 黎維禎) – là con trai trưởng của vua Lê Hy Tông.\n----------------------------------------------\nTháng 4 năm Kỉ dậu 1729, ông bị chúa Trịnh Cương buộc nhường ngôi cho con ông là Duy Phường để làm Thái thượng hoàng. Thoái vị xong, hai năm sau (1731) ông mất, hưởng thọ 52 tuổi. Chôn tại Cổ Đô lăng, làng Cổ Đô, huyện Lôi Dương, tỉnh Thanh Hóa. Ông ở ngôi 25 năm, đổi hiệu năm 2 lần: - Vĩnh Thịnh 15 năm (1705-1719) - Bảo Thái 10 năm (1720-1729)\n----------------------------------------------\nLê Dụ Tông (chữ Hán: 黎裕宗 1679 – 27 tháng 2 năm 1731) là vị Hoàng đế thứ 11 của Nhà Lê Trung hưng và thứ 22 của triều Hậu Lê trong lịch sử Việt Nam. Ông có tên húy là Lê Duy Đường (黎維禟, 黎維禎) – là con trai trưởng của vua Lê Hy Tông."
 }

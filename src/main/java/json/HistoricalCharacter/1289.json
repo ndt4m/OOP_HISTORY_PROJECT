@@ -1,16 +1,14 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Mậu Ngọ 1858",
-  "hometown" : "quê huyện Phú Lộc, tỉnh Thừa Thiên",
-  "occupation" : "Văn thần đời Gia Long",
+  "dateOfBirth" : "sinh năm 1930",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
-  },
+  "eraName" : { },
   "id" : 1289,
-  "entityName" : "Hoàng Văn Diễn",
+  "entityName" : "Trần Đĩnh",
   "aliases" : [ ],
-  "overview" : "Nhà nghèo, hiếu học, ông nổi tiếng tài giỏi. Gặp buổi loạn lạc, ông lặn lội vào Nam, ngụ ở Gia Định, rồi theo giúp Nguyễn Ánh, được bổ làm ở viện Thị thư trong năm Tân hợi 1791. Đến năm Nhâm tuất 1802, ông làm Hiệp trấn Thanh Hóa một thời gian, nhưng sau bị bãi chức, lui về quê ở ẩn. Đến đời Minh Mạng (1820) ông được vời ra, khởi đầu phục chức Lang trung. Ít lâu được cử đi sứ nước Xiêm (Thái Lan), rồi bổ làm Tả tham tri bộ Công, sau thăng Thượng thư bộ Lại, từng đảm nhận việc dạy con vua trong nội. Ông mất vào năm Mậu ngọ 1858, được liệt thờ ở đền Hiền lương của triều Nguyễn."
+  "overview" : "Trần Đĩnh sinh năm 1930, là nhà báo của tờ Sự Thật từ những ngày đầu tiên, khi tờ báo của Hội nghiên cứu chủ nghĩa Mác này được thành lập với vai trò Tổng biên tập của Trường Chinh. Trần Đĩnh tự nhận mình là người viết hồi ký cho Hồ Chí Minh, ngoài ra còn viết hồi ký cho Nguyễn Đức Thuận, Phạm Hùng, Lê Văn Lương, Bùi Lâm."
 }

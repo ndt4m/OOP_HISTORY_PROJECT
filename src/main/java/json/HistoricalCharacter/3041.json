@@ -1,18 +1,16 @@
 {
-  "dateOfBirth" : "1812\n----------------------------------------------\n…",
-  "dateOfDeath" : "1859\n----------------------------------------------\nBính Ngọ 1546",
-  "hometown" : "huyện Đăng Xương, phủ Triệu Phong, tỉnh Quảng Trị (nay thuộc huyện Triệu Vân, tỉnh Quảng Trị)\n----------------------------------------------\nKhông rõ",
-  "occupation" : "Vua đời thứ ba nhà Mạc, con trưởng Mạc Đăng Doanh, được lập làm thái tử, nối ngôi vào năm Tân sửu 1541",
-  "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Mạc Đăng Doanh" : 1224
-  },
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Vua",
+  "workTenure" : "?–?",
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nam - Bắc Triều" : 19
+    "Hồng Bàng" : 17
   },
   "id" : 3041,
-  "entityName" : "Nguyễn Chương",
-  "aliases" : [ "Mạc Hữu Mệnh", "Nguyễn Lập", "Mạc Lập Bạo", "Mạc Ngọc Liễn", "Trị" ],
-  "overview" : "Nguyễn Văn Chương (1812-1859), sau đổi tên thành Nguyễn Lập , là một nhà khoa bảng. Văn Chương là người phường Vĩnh Hòa, tổng An Cư, huyện Đăng Xương, phủ Triệu Phong, tỉnh Quảng Trị (nay thuộc huyện Triệu Vân, tỉnh Quảng Trị). Ông đỗ Cử nhân năm Tân Sửu 1841 dưới thời Thiệu Trị, sau đỗ Đình nguyên Hoàng giáp cũng vào đời Thiệu Trị, 1844. Ông từng làm Án sát Hải Dương .\n----------------------------------------------\n"
+  "entityName" : "Hùng Vương thứ sáu",
+  "aliases" : [ ],
+  "overview" : "Hùng Vương thứ VI là một vị vua truyền thuyết của nước Văn Lang trong lịch sử Việt Nam. Tương truyền ông là người đã lãnh đạo người dân Văn Lang chống lại sự tấn công của quân xâm lược Ân."
 }

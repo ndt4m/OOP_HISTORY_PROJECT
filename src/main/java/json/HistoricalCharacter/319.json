@@ -1,21 +1,19 @@
 {
-  "dateOfBirth" : "17 tháng 10, 503\n----------------------------------------------\n",
-  "dateOfDeath" : "13 tháng 4, 548 (44 tuổi) Việt Nam\n----------------------------------------------\nMậu Thìn 548",
-  "hometown" : "quê huyện Long Hưng, tỉnh Thái Bình",
-  "occupation" : "Hoàng đế Vạn Xuân\n----------------------------------------------\nĐại thần sau là vua, người gầy dựng nhà Tiền Lý, xưng Nam đế",
-  "workTenure" : "544 – 548\n----------------------------------------------\nKhông rõ",
+  "dateOfBirth" : "Mậu Tí 1888",
+  "dateOfDeath" : "Canh Dần 1950",
+  "hometown" : "xã Kim Liên, huyện Nam Đàn, tỉnh Nghệ An.\n----------------------------------------------\nQuê làng Kim Liên, huyện Nam Đàn, tỉnh Nghệ An, sinh năm 1888",
+  "occupation" : "Chiến sĩ văn thân chống Pháp",
+  "workTenure" : "Không rõ",
   "fatherName" : {
-    "Lý Cạnh hay Lý Toản" : null
+    "đầu chí sĩ Phó bảng Nguyễn Sinh Huy" : null
   },
-  "motherName" : {
-    "Lê Thị Oánh" : null
-  },
+  "motherName" : { },
   "eraName" : {
-    "Nhà Tiền Lý" : 36,
-    "Nhà Tiền Lý, Triệu" : null
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 319,
-  "entityName" : "Lý Bôn",
-  "aliases" : [ "Thiên Đức (天徳)", "Nam Đế (南帝)", "Lý Bí", "Lý Phần" ],
-  "overview" : "Lý Nam Đế (chữ Hán: 李南帝; 503–548), húy là Lý Bí hoặc Lý Bôn (李賁) (xem mục Tên gọi bên dưới), là vị vua đầu tiên của nhà Tiền Lý và nước Vạn Xuân.\n----------------------------------------------\nÔng từng làm quan với nhà Lương khi nước ta bị chúng đô hộ. Nhà giàu có, tài gồm văn võ, ít lâu ông cáo quan lui về quê nuôi chí đánh đuổi giặc. Nhân Thứ sử Giao Châu là Tiêu Tư tàn ác, ông dấy quân đánh đuổi Tiêu Tư chạy về Quảng Châu, thu phục Thăng Long. Rồi tiến đánh Lâm Ấp, chiêu an dân chúng, tự xưng Nam đế, đặt hiệu nước là Vạn Xuân, hiệu năm là Thiên Đức trong năm Giáp tí 544, có Tinh Thiều, Triệu Túc giúp việc chính trị, Lý Đại Quyền, Lý Phổ Đình, Triệu Quang Phục coi việc binh bị. Nhà Lương lại sai tướng Dương Phiêu và Trần Bá Tiên đem quân xâm lược. Ông chống cự nhiều trận bị thua, rút quân về đóng ở hồ Điển Triệt (huyện Lập Thạch). Quân Lương tiến công, ông thất thế chạy vào động Khuất Liêu (thuộc tỉnh Hưng Hoá), rồi bệnh mất trong năm Mậu thìn 548. Tướng của ông là Triệu Quang Phục tiếp tục kháng chiến."
+  "entityName" : "Nguyễn Sinh Khiêm",
+  "aliases" : [ "Nguyễn Sinh Cung", "Nguyễn Sinh Khiêm" ],
+  "overview" : "Hồ Chí Minh, tên thật là Nguyễn Sinh Cung, vị chủ tịch đầu tiên của nước Việt Nam Dân chủ Cộng hòa (nay là Cộng hòa xã hội chủ nghĩa Việt Nam), sinh ra trong một gia đình nhà Nho nghèo ở làng Sen (hay làng Kim Liên), xã Kim Liên, huyện Nam Đàn, tỉnh Nghệ An.\n----------------------------------------------\nThuở nhỏ ông cùng em ruột theo thân phụ vào Huế học tập. Đến cuối thế kỉ XlX ông về quê tham gia hoạt động chống Pháp trong tổ chức của nhà yêu nước Lê Quyên (Đội Quyên), Hồ Sĩ Phấn (Đội Phấn)... nên bị Pháp bắt năm 1914, bị kết án tù đày đi Quảng Ngãi, Khánh Hòa một thời gian dài. Năm 1920 Pháp chuyển ông về giam lỏng tại Huế đến năm 1940 ông mới về lại được quê nhà (Nam Đàn). Sau cách mạng tháng 8 năm 1945 ông vẫn sinh sống tại quê nhà, đến cuối năm 1946 ông mới ra Hà Nội gặp lại người em của mình bấy giờ là chủ tịch Hồ Chí Minh. Ông mất năm 1950 tại Nam Đàn, thọ 62 tuổi."
 }

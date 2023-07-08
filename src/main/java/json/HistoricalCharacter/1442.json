@@ -1,17 +1,18 @@
 {
-  "dateOfBirth" : "Kỉ Mùi 1919",
-  "dateOfDeath" : "Nhâm Ngọ 2002",
-  "hometown" : "tại Thành phố Huế, tỉnh Thừa Thiên (nay là Thừa Thiên Huế)",
-  "occupation" : "Giáo sư âm nhạc, nhạc sĩ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Vua",
+  "workTenure" : "1778—1788",
+  "fatherName" : {
+    "Hồ Phi Phúc" : null
+  },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Nhà Tây Sơn" : 21
   },
   "id" : 1442,
-  "entityName" : "Nguyễn Văn Thương",
+  "entityName" : "Thái Đức",
   "aliases" : [ ],
-  "overview" : "Thuở nhỏ học tại Huế (Trường Quốc học), tốt nghiệp trung học ông làm nhân viên Sở Bưu điện Hà Nội. Tại đây ông từng có các ca khúc Đêm đông, Bướm hoa vang bóng một thời ở đất Thăng Long. Sau cách mạng tháng 8 ông tham gia kháng chiến ở Liên khu IV, trong thời gian này ông sáng tác bài ca nổi tiếng Bình Trị Thiên khói lửa vang vọng một thời. Sau hiệp định Genève ông tập kết ra Bắc, dạy ở Nhạc viện Hà Nội rồi Giám đốc học viện này. Có thời gian ông đi tu nghiệp về âm nhạc ở Cộng hòa dân chủ Đức (Đông Đức). Các tác phẩm chính:Đêm đông, Bướm hoa, Bình Trị Thiên khói lửa, Dâng người tiếng hát mùa xuân, Tuyển tập Piano, Tuyển tập 16 bài dân ca, dân vũ Việt Nam... Trong đời hoạt động nghệ thuật của mình, ông được nhà nước Việt Nam tặng danh hiệu Nghệ sĩ nhân dân, Giải thưởng Hồ Chí Minh. Ông mất ngày 5-12-2002 tại Bệnh viện Thống nhất TP.HCM, thọ 83 tuổi."
+  "overview" : "Nguyễn Nhạc (chữ Hán: 阮岳; 1743 – 1793) hay còn gọi là Nguyễn Văn Nhạc, là vị hoàng đế sáng lập ra Nhà Tây Sơn, ở ngôi hoàng đế từ năm 1778 đến năm 1788, lấy niên hiệu là Thái Đức (泰德) thường gọi là Thái Đức Đế (泰德帝). Từ năm 1789 – 1793, ông từ bỏ đế hiệu để nhường ngôi hoàng đế cho em trai là hoàng đế Quang Trung, còn ông tự hạ tước hiệu của mình xuống thành Tây Sơn vương."
 }

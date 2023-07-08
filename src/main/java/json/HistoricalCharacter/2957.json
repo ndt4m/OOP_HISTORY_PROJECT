@@ -1,19 +1,16 @@
 {
-  "dateOfBirth" : "499?\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "555 động Dã Năng\n----------------------------------------------\nKhông rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Vua nước Dã Năng\n----------------------------------------------\nVua",
-  "workTenure" : "548 – 555\n----------------------------------------------\n549—555",
-  "fatherName" : {
-    "Lý Toản" : null
-  },
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Quê phủ Bình Giang, châu Thượng Hồng, lộ Lạng Giang tỉnh Hưng Yên (nay thưộc tỉnh Hải Hưng)",
+  "occupation" : "Văn thần đời Trần Anh tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Tiền Lý" : 36,
-    "Nhà Tiền Lý và Triệu Việt Vương" : 36
+    "Nhà Trần" : 15
   },
   "id" : 2957,
-  "entityName" : "Đào Lang Vương",
-  "aliases" : [ "Lý Thiên Bảo", "Đào Lang Vương" ],
-  "overview" : "Lý Thiên Bảo (chữ Hán:李天寶; 499?-555) vua nước Dã Năng (tồn tại phía tây với nhà Tiền Lý) trong lịch sử Việt Nam. Ông tham gia cuộc chiến chống quân Lương giữ nước Vạn Xuân và cát cứ ở Dã Năng thời Triệu Việt Vương."
+  "entityName" : "Doãn Ân Phủ",
+  "aliases" : [ ],
+  "overview" : "Năm 1317, đời Trần Minh tông, ông được cử đi sứ nhà Nguyên. Khi đi sứ ông có nhiều thơ văn được danh sĩ Trung Quốc đương thời tán tụng. Trong An Nam chí lược, Lê Tắc chép là Doãn Thế Thôn (có lẽ là hiệu của Ân Phủ) làm quan đến bậc Đại phu. Có đi sứ cùng với Định Quan sang Trung Quốc nhiều lần."
 }

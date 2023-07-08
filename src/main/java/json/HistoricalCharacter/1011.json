@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Canh Ngọ 1870",
-  "dateOfDeath" : "Mậu Thân 1908",
-  "hometown" : "quê ở làng Tú Cẩm, sang cư ngụ ở làng Phú Lâm, huyện Tiên Phước, tỉnh Quảng Nam ông là anh rể Lê Cơ",
-  "occupation" : "Chí sĩ yêu nước",
+  "dateOfBirth" : "Tân Tị 1881",
+  "dateOfDeath" : "Mật Tí 1948",
+  "hometown" : "quê tại thành phố Huế, tỉnh Thừa Thiên",
+  "occupation" : "Nhà hoạt động xã hội",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 1011,
-  "entityName" : "Lê Lượng",
-  "aliases" : [ ],
-  "overview" : "Năm 1900 ông đỗ cử nhân (đồng khoa với Phan Châu Trinh). Nhưng coi rẻ công danh, dốc lòng đóng góp tâm huyết vào cuộc Duy tân cứu nước, ông ám trợ phong trào Đông du của Phan Bội Châu ở Quảng Nam, đồng thời hăng say hoạt động cho phong trào Duy tân tự cường ở tỉnh nhà. Sau khi ông đỗ cử nhân, Tổng tài sử quán Nguyễn Thuật (1842-1911) có câu đối mừng ông thi đỗ: \"Quân năng bạt xuân hương phong thập tải thư song vô xuyết nghiệp; Ngã diệc hỉ phần thích uyển nhứt môn kiều khách tấn đăng khoa.\" Bản dịch: Anh giỏi vượt hơn người làng cả mười năm học hành không ngơi nghỉ; Tôi vui chia phần họ ngoại nhà, toàn nhà khách giai đều đậu cả. Năm Mậu thân 1908, ông bị bắt giam ở ngục Quảng Nam, đến ngày 10-11 Mậu thân 1908 thì mất trong tù. Xác được đem về chôn cất tại quê nhà, hưởng dương 38 tuổi."
+  "entityName" : "Công Nữ Đồng Canh",
+  "aliases" : [ "Đạm Phương" ],
+  "overview" : "Bà xuất thân trong một gia đình hoàng tộc con Hoàng Hóa quận vương. Ngay từ tuổi thơ bà đă theo học chữ Hán, chữ Quốc ngữ nên có điều kiện tiếp xúc rộng rãi với nhiều giới. Tuy sinh trưởng nơi một gia đình trưởng giả, nhưng bà vẫn ý thức được giá trị của lao động chân tay và cái học thực dụng. Từ khi tiếp xúc với chí sĩ Phan Bội Châu và các bậc chí sĩ khác (1926) bà công khai đứng ra tổ chức một trường học nữ công có tên là Nữ công học hiệu nhằm giáo dục nữ giới ý thức được giá trị của nghề nghiệp thủ công. Nữ công học hiệu là một trường học có tính cách chuyên nghiệp về thủ công đầu tiên của Trung Kì. Với danh nghĩa Nữ công học hiệu, bà và các hội viên còn tổ chức biên soạn và xuất bản một số sách giáo dục thực nghiệp cho nữ giới như Nữ công thường thức, gia đình giáo dục... Bà từng cộng tác với các báo: Nam Phong, Trung Bắc tân văn, Hữu Thanh, Tiếng Dân... từ những năm 20 của thế kỉ này. Sau ngày kháng chiến chống Pháp (19- 12-1946) bà tản cư ra Thanh Hóa cùng với gia đình con trai. Tuổi già sức yếu, bà mất ở huyện Thọ Xuân, tỉnh Thanh Hóa, thọ 67 tuổi."
 }

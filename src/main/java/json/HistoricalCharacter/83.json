@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Bính Thân 1896",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "tại TP",
-  "occupation" : "Đại thần cuối triều Nguyễn, cựu Tổng đốc Nghệ An",
+  "dateOfBirth" : "Giáp Dần 1794",
+  "dateOfDeath" : "Quí Mão 1843",
+  "hometown" : "quê làng Mị Khê, phủ Bình Giang, tỉnh Hải Dương",
+  "occupation" : "Danh y thời Tây Sơn",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Nhà Tây Sơn" : 21,
+    "Nhà Nguyễn độc lập" : 30
   },
   "id" : 83,
-  "entityName" : "Võ Chuẩn",
-  "aliases" : [ ],
-  "overview" : "Sinh ra và lớn lên trong một gia đình vọng tộc, con trai Đông các Đại học sĩ Xuân Hòa hầu Võ Liêm nguyên thượng thư Bộ Lễ triều Bảo Đại. Từng học Trường Hậu bổ (Huế), Trường Thuộc địa (Paris), tốt nghiệp về nước làm việc ở Tòa khâm sứ Trung Kì, sau đó được thăng tham tá Tòa khâm (1913-1930). Năm 1930 ông được biệt phái sang làm việc với Nam triều, năm 1933 được bổ Quản đạo tỉnh Kontum, 1938 làm Tuần vũ tỉnh Quảng Bình, năm 1939 chuyển về làm Tuần vũ tỉnh Quảng Ngãi. Năm 1940 thăng Tổng đốc Nghệ An rồi về trí sĩ. Trên hoạn lộ ông được Nam triều và chính phủ Pháp tặng một số huân chương. Ông mất ở Huế trong những năm chiến tranh Việt Pháp. Hai con gái ông là Linh Bảo, Minh Đức Hoài Trinh đều là nhà văn."
+  "entityName" : "Nguyễn Thế Chuẩn",
+  "aliases" : [ "Đức Khê" ],
+  "overview" : "Ông là học trò Phạm Đình Hổ, có đi thi nhiều lần nhưng không đỗ, quay ra học nghề thuốc và được nổi tiếng. Đến đời nhà Nguyễn, vua Thiệu Trị nghe Tổng đốc Hà Nội là Nguyễn Hữu Tâm tiến cử ông, bèn sai Trương Đăng Quế xét thực hư rồi bổ nhiệm ông làm Phó ngự y nơi Thái Y viện, nhưng ông vin cớ có mẹ già hết sức từ chối. Năm Quí mão 1843 ông mất, hưởng dương 49 tuổi. Ông có soạn một tập thơ chữ Hán, một số sách y học và nhiều bài thuốc gia truyền."
 }

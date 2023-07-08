@@ -1,17 +1,16 @@
 {
   "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
-  "hometown" : "sinh quán tỉnh Bến Tre, không rõ năm sinh, năm mất",
-  "occupation" : "Nhà văn ",
+  "hometown" : "quê làng Anh Sơn, tỉnh Nghệ An",
+  "occupation" : "Võ tướng nhà Tây Sơn",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Nhà Tây Sơn" : 21
   },
   "id" : 2650,
-  "entityName" : "Dương Minh Đạt",
-  "aliases" : [ "Lầu" ],
-  "overview" : "Thuở nhỏ học ở Bến Tre, Sài Gòn, những năm 30 của thế kỉ XX ông viết văn, làm báo tại Sài Gòn. Từng cộng tác với các báo: Nông cổ mín đàn, Lục tỉnh tân văn, Công luận... và các nhà xuất bản Xưa Nay, Bảo Tồn, Đức Lưu Phương ở Sài Gòn. Các tác phẩm chính: - Tính kế nhiệm màu (Xưa Nay, 1926) - Anh hùng ba mặt tức Bí mật phi thường (nt, 1927) - Bình vỡ gương tan (Xưa Nay, 1927) - Hồng Hoàng Gia Cát (Xưa Nay, 1927) - Anh hùng hội đào duyên (Bảo Tồn, 1928) - Trường tình bí mật (Đức Lưu Phương, 1929) - Khối tình mầu nhiệm (Đức Lưu Phương, 1930)"
+  "entityName" : "Lê Quốc Cầu",
+  "aliases" : [ ],
+  "overview" : "Thân phụ ông là Lê Quốc Cơ, sinh bốn trai, ông là con trưởng, ba nguời em là Lê Quốc Lý, Lê Quốc Đạm và Lê Quốc Trân. Cả bốn anh em ông đều tham gia nghĩa quân Tây Sơn. Năm Nhâm tí 1792, ông được phong tước Bá, rồi tước Hầu (Quí sửu 1793), đến Bính thìn 1796, ông được phong làm Vệ Quốc tướng quân, Đô đốc, Cầu Ngọc Hầu. Ba người em của ông cũng đều được phong tặng. Nay gia đình họ Lê Quốc ở Nghệ Tĩnh hãy còn giữ được các sắc phong."
 }

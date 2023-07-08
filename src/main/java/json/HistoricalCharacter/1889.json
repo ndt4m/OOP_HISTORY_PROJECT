@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Giáp Dần 1914",
-  "dateOfDeath" : "Kỉ Mão 1999",
-  "hometown" : "quê làng Tơ Tung, huyện K'Bang, tỉnh Gia Lai",
-  "occupation" : "Anh hùng lực lượng vũ trang nhân dân, chiến sĩ cách mạng, dân tộc Ba Na",
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Bính Tuất 1886",
+  "hometown" : "quê làng Hương La, huyện Tĩnh Gia, tỉnh Thanh Hóa",
+  "occupation" : "Nhân sĩ yêu nước",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nước Việt Nam mới" : 29
+    "Pháp đô hộ" : 11,
+    "Nhà Nguyễn độc lập" : 30
   },
   "id" : 1889,
-  "entityName" : "Đinh Núp",
+  "entityName" : "Nguyễn Phương",
   "aliases" : [ ],
-  "overview" : "Ông tham gia cách mạng từ năm 1935 từng trốn vào rừng dùng vũ khí tự tạo (nỏ) bắt chết một lính Pháp, năm 1945 tham gia cướp chính quyền tại địa phương. Trong kháng chiến chống Pháp (1946-1954), ông vận động đồng bào dân tộc tham gia các tổ du kích, xây làng chiến đấu chống các cuộc càn quét của Quân đội Viễn chinh Pháp, tiêu hao nhiều đơn vị địch đem lại chiến thắng tại địa phương. Sau hiệp định Genève ông cùng đơn vị tập kết ra miền Bắc một thời gian rồi trở về tham gia đánh Mĩ ở Tây Nguyên. Các chức vụ ông đã đảm nhiệm: Chủ tịch Mặt trận tổ quốc tỉnh Gia Lai - Komtum (1976), Đại biểu Quốc hội, ủy viên Hội đồng Nhà nước khóa VI. Ông được tặng thưởng các huân chương quân công hạng ba và huân chương chiến công hạng nhất. Cuộc đời hoạt động của ông được một nhà văn (N.N) kể lại một phần trong tác phẩm Đất nước đứng lên. Ông mất năm 1999, thọ 85 tuổi."
+  "overview" : "Giặc Pháp xâm lăng, ông cùng các đồng chí tổ chức dân quân khởi nghĩa chống Pháp. Nghĩa quân dự định ngày mùng 7-1 năm Bính tuất 1886 sẽ tiến công đánh úp Thanh Hóa. Việc bại lộ, bị giặc bắt, ông tự tử sau khi sa vào tay giặc. Ông mất, Nguyên Xuân Ôn có thơ điếu: \"Khoa hoạn nhân trung đệ nhất hào, Nghĩa thanh chấn nhiếp quỉ phương tao. Y quan sĩ tận nhẫm kim cách, Sao lạp nhân giai thỉ trạch bào. Võ vệ tì hưu đô lạc lạc, Thang chân xa mã diệc thao thao. Tử sinh đắc táng câu nhàn sự, Vạn cổ thanh phong ôn lĩnh cao.\" Bản dịch: Trong đám văn thân rất mực hào, Phương xa run sợ tiếng xôn xao. Áo xiêm đổi lấy đồ binh phục, Võ kiếm thề chung nghĩa trạch bào. Muôn đội hùm beo đều tan tác, Một vùng xe ngựa lại lao xao. Mất còn thua được tầm thường cả Danh tiết muôn đời núi ổn cao."
 }

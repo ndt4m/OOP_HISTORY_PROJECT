@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "??",
-  "dateOfDeath" : "213",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Giáp Thìn 1904",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "tại huyện Ninh Hòa, tỉnh Khánh Hòa, lập nghiệp làm nghề dược vào định cư tại Thanh Hóa đến năm 1945",
+  "occupation" : "Dược sĩ, Cựu Thủ hiến Trung Việt của chính phủ Bảo Đại ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "nhà Ngụy" : null
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 1141,
-  "entityName" : "Triệu Nguyệt",
-  "aliases" : [ "Wade-Giles: Chao Yüeh" ],
-  "overview" : "Triệu Nguyệt (chữ Hán: 趙月, phiên âm tiếng Anh: Zhao Yue, phiên âm Wade-Giles: Chao Yüeh) (?? - 213) là một viên tướng của nhà Ngụy trong thời kỳ Tam Quốc, con trai đầu của Triệu Ngang binh sĩ của nhà Hán. Triệu Nguyệt tham gia trong trận Ký Thành, sau khi Mã Siêu hạ được Ký Thành, chiêu hàng các tướng người Hán trong đó có Triệu Ngang, ông ta không tin tưởng Triệu Ngang nên đã bắt làm tin ở huyện Nam Trịnh. Sau đó khi Triệu Ngang cấu kết với các tướng người Hán làm phản chống lại Mã Siêu, Mã Siêu đã giết Triệu Nguyệt."
+  "entityName" : "Phan Văn Giáo",
+  "aliases" : [ ],
+  "overview" : "Thuở nhỏ học ở Nha Trang, Huế, Hà Nội; tốt nghiệp dược sĩ, kinh doanh ngành dược tại Thanh Hóa. Từng là hội viên hội đồng hàng tỉnh Thanh Hóa, hội viên Hội đồng kinh tế nông nghiệp Trung Kì rồi Giám đốc Ngân hàng nông nghiệp tỉnh Thanh Hóa... Sau cách mạng tháng 8 năm 1945 ông bị lực lượng cách mạng Thanh Hóa giam giữ, đến năm 1946 ông trốn khỏi vùng kháng chiến lưu vong sang Hồng Kông. Năm 1949 ông phục vụ chính quyền \"Quốc gia\" của Bảo Đại, giữ chức Chánh võ văn phòng của Quốc trưởng Bảo Đại, kiêm thủ hiến Trung Việt (Trung Bộ) rồi Tổng trấn Trung Việt. Một thời từng làm mưa làm gió ở Huế và các vùng tạm chiếm khiến nhân dân rất bất bình. Sau khi Ngô Đình Diệm truất phế Bảo Đại, ông sống lưu vong ở Pháp và mất năm nào không rõ."
 }

@@ -1,14 +1,18 @@
 {
-  "dateOfBirth" : "21 tháng 7, 1953 (64 tuổi) Hoa Lư, Ninh Bình, Việt Nam Dân chủ Cộng hòa",
+  "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
-  "hometown" : "Hà Nội",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "hometown" : "Không rõ",
+  "occupation" : "Vua",
+  "workTenure" : "1638–1677",
+  "fatherName" : {
+    "Mạc Kính Khoan" : 2143
+  },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Bắc triều – Nhà Mạc  và thời kỳ Cao Bằng" : null
+  },
   "id" : 1903,
-  "entityName" : "Đặng Văn Hiếu",
+  "entityName" : "Mạc Minh Tông",
   "aliases" : [ ],
-  "overview" : "Đặng Văn Hiếu (sinh năm 1953) là một Thượng tướng Công an Nhân dân Việt Nam. Ông nguyên là Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa X, XI, nguyên Thứ trưởng Thường trực Bộ Công an Việt Nam, Phó Bí thư Đảng ủy Công an Trung ương (2011-2016), Chủ nhiệm Ủy ban Kiểm tra Đảng ủy Công an Trung ương (2011-2016), Đại biểu Quốc hội Việt Nam khóa XIII."
+  "overview" : "Mạc Kính Vũ (chữ Hán: 莫敬宇) là vua nhà Mạc thứ 10 và là vua Mạc thời hậu kỳ, khi đã rút lên Cao Bằng. Nguyên quán Mạc Kính Vũ là người xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách, tỉnh Hải Dương)."
 }

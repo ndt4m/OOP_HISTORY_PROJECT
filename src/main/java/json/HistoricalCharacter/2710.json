@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
+  "dateOfBirth" : "Giáp Dần 1434",
   "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Văn thần đời Gia Long",
+  "hometown" : "quê làng Đồng Trình (sau đổi là Tỉnh Thạch), huyện Thiên Lộc (sau là Can Lộc), tỉnh Hà Tĩnh",
+  "occupation" : "Danh thần đời Lê Thánh tông, quê làng Đồng Trình ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+    "Triều Lê Sơ" : 7
   },
   "id" : 2710,
-  "entityName" : "Nguyễn Thế Trung",
-  "aliases" : [ ],
-  "overview" : "Ông có tiếng văn thơ. Giao du thân thiết với Ân Quang Hầu Trần Công Hiến, Phác Ngọc Bá Trần Huy Phác. Khi ông làm đốc học Hải Dương gặp lúc Trần Công Hiến mở Hải Học đường để viết và xuất bản sách, ông cùng Trần Huy Phác cộng tác với Trần Công Hiến trong việc biên soạn bộ Danh thi hợp tuyển gồm 12 quyển (Trần Công Hiến phác thảo biên tập, ông và Trần Huy Phác khảo đính). Về lúc cuối đời ông được phong tước Trung Chính Bá."
+  "entityName" : "Hà Công Trình",
+  "aliases" : [ "Tỉnh Thạch" ],
+  "overview" : "Năm Bính tuất 1466, ông 32 tuổi đỗ Nhị giáp tiến sĩ, làm đến Thượng thư bộ Binh; Quốc tử tế tửu, Nhập thị kinh diên. Theo sách Thoái thực kí văn, chương I Trung kì: Thuở trẻ ông hàn vi, có lần say rượu nằm ngủ trên hòn đá bên đường, mộng thấy có người tới khuyên bảo: \"Sao không về đi học, bỏ uổng mất cái tài lỗi lạc, ông tỉnh dậy, trở về theo đòi nghiên bút đến nên danh. Khi đã quí hiển, ông mới xin đổi tên làng là Tỉnh Thạch (hòn đá thức tỉnh) như đã nói trên."
 }

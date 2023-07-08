@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "sinh năm 1945",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Giáp Ngọ 1894",
+  "dateOfDeath" : "Ất Dậu 1945",
+  "hometown" : "quê xã Đại Thanh, huyện Thường Tín, tỉnh Hà Tây",
+  "occupation" : "Nhà địa lí học",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
+  },
   "id" : 1750,
-  "entityName" : "Nguyễn Văn Tình",
+  "entityName" : "Ngô Vi Liễn",
   "aliases" : [ ],
-  "overview" : "Nguyễn Văn Tình (sinh năm 1945), là một sĩ quan cấp cao trong Quân đội Nhân dân Việt Nam, hàm Phó Đô đốc, nguyên Phó Tư lệnh Binh chủng Đặc công, Phó Tư lệnh về Chính trị Quân chủng Hải quân, Ủy viên Trung ương Đảng khóa 9."
+  "overview" : "Năm 1928, ông thi đậu và làm tri huyện ở các huyện Cẩm Giàng, Quỳnh Côi, Bình Lục, Võ Giàng và có soạn địa lí những hạt này. Các tác phẩm chính: - Địa dư huyện Bình Lục (Hà Nam), Hà Nội. Nhà in Lê Văn Tân, 1935. - Địa dư huyện Quỳnh Côi (Thái Bình), Hà Nội, Nhà in Lê Văn Tân, 1933. - Địa dư huyện Cẩm Giàng (Hải Dương). Hà Nội, Nhà in Lê Văn Tân, 1931. - Nomenclature des communes du Tonkin, classes par cantons, phủ, huyện ou châu et par provinces, suivies d'une table alphabétique détaillée, Hà Nội, Lê Văn Tân, 1928. - Les oeuvres complémentaires de l'école en Indochine: La Société d'enseignement mutuel du Tonkin Hà Nội, Taupin, 1929. - Địa dư các tỉnh Bắc Kì, Hà Nội, Lê Văn Tân, 1927. Ông mất năm 1945 hưởng dương 51 tuổi."
 }

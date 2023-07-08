@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "1914 làng Bãi, xã Cao Viên, huyện Thanh Oai, tỉnh Hà Đông , Liên bang Đông Dương",
-  "dateOfDeath" : "tháng 5, 1988 (73–74 tuổi) Hà Nội",
-  "hometown" : "Hà Nội",
-  "occupation" : "Sản xuất, kinh doanh lụa",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Giáp Ngo 1834",
+  "hometown" : "Không rõ",
+  "occupation" : "Nguời đời Minh Mạng, nổi tiếng võ dũng, cận vệ của Tả quân Lê Văn Duyệt. Ông xuất thân theo làm cận vệ Tả quân Lê Văn Duyệt, rất được tin cẩn. Chịu ân tri ngộ ấy nên sau khi Lê Văn Duyệt mất, bọn gian toa rập nhau làm án Lê Văn Duyệt, ông bèn cùng Lê Văn Khôi và các đồng chí dấy binh khởi nghĩa, Quí tị 1833. Hơn một năm chống cự với binh triều, ông tử trận, cuộc chiến cũng dần dần tan rã.",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
+  },
   "id" : 362,
-  "entityName" : "Trịnh Văn Bô",
+  "entityName" : "Đàm Vĩnh Ưng",
   "aliases" : [ ],
-  "overview" : "Trịnh Văn Bô (1914-1988) là một thương nhân Việt Nam giữa thế kỷ XX. Ông là nhà tư sản theo chủ nghĩa dân tộc, từng ủng hộ cho Chính phủ Cách mạng Lâm thời Việt Nam 5.147 lượng vàng, tương đương số tiền gần gấp đôi ngân khố chính phủ bấy giờ. Hiệu buôn tơ lụa Phúc Lợi tại số 48 phố Hàng Ngang quận Hoàn Kiếm Hà Nội, trước Cách mạng tháng Tám, cũng là nhà riêng của ông, là nơi Hồ Chí Minh ở dịp cuối tháng 8 đầu tháng 9 năm 1945, và là nơi ra đời bản Tuyên ngôn Độc lập khai sinh ra nước Việt Nam Dân chủ Cộng hòa."
+  "overview" : ""
 }

@@ -1,17 +1,17 @@
 {
-  "dateOfBirth" : "Giáp Thìn 1904",
-  "dateOfDeath" : "Giáp Tuất 1994",
-  "hometown" : "quê huyện Diễn Châu, tỉnh Nghệ An",
-  "occupation" : "Chiến sĩ cách mạng",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê thôn Hậu Ái, tổng Phương Canh, huyện Từ Liêm, tỉnh Hà Đông (nay là Hà Tây)",
+  "occupation" : "Đại thần đời Lý Cao tông",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Nhà Lý" : 14,
+    "nhà Lý" : null
   },
   "id" : 1836,
-  "entityName" : "Nguyễn Kim Cương",
-  "aliases" : [ ],
-  "overview" : "Ông tham gia tổ chức Việt Nam Thanh niên Cách mạng đồng chí hội từ năm 1926, được gởi sang Trung Quốc dự lớp huấn luyện do lãnh tụ Nguyễn Ái Quốc chủ trì. Năm 1927 ông về nước hoạt động ở Nam Bộ được bầu vào xứ ủy An Nam cộng sản đảng. Năm 1930, ông bị bắt ở Sài Gòn đày ra Côn Đảo, sau năm 1945 về đất liền giữ chức Phó ban Tuyên huấn xứ ủy Nam Bộ. Năm 1954 làm Bí thư đảng bộ ban liên lạc Quân sự đình chiến ở Sài Gòn, năm 1960 làm Thứ trưởng Bộ phủ Thủ tướng. Từ năm 1970 làm phó chủ nhiệm ủy ban liên lạc văn hóa nước ngoài của Trung ương đảng. Ông mất năm 1994 tại Hà Nội, thọ 90 tuổi."
+  "entityName" : "Đỗ Kính Tu",
+  "aliases" : [ "Lý Kính Tu" ],
+  "overview" : "Đỗ Kính Tu hay Lý Kính Tu (?-?) là một đại thần nhà Lý trong lịch sử Việt Nam.\n----------------------------------------------\nSau khi Thái úy Tô Hiến Thành mất, ông làm đến Quốc sư phụ chính. Sau khi Cao tông mất, ông chịu mạng vua phù lập Huệ tông nên được cho theo họ vua. Vì vậy còn gọi là Lý Kính Tu. Để tránh lụt lội cho quê ông, ông cho đào ngòi Hương Khê từ Đồng Chầm thuộc thôn Hậu ái, qua địa phận các thôn Kim Hoàng, An Trai, Hòe Thị, Thị Cấm, đến cửa chùa Linh ứng phóng ra Nhuệ giang, dài ước 2000 thước. Có người mưu hại ông gièm với Lý Huệ tông rằng ông sắp đặt để mượn cớ thỉnh vua du ngoạn, rồi gây biến loạn. Huệ tông tin thật ông bị ngờ oan, phẫn uất, cỡi ngựa đến Nhị Hà. thúc ngựa nhào xuống sông tự tử. Huệ tông hối hận, truy phong ông làm phúc thần, sắc cho thôn Hậu Ái lập đền thờ, về sau vẫn còn di tích."
 }

@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê làng Châu Diên, quận Giao Chỉ",
-  "occupation" : "Lão tướng đời Trưng vương",
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Giáp Tí 1804",
+  "hometown" : "quê ở Bình An, tỉnh Biên Hòa",
+  "occupation" : "Cũng gọi là Hồ Văn Vui, Ngoại thích triều Nguyễn",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Trưng Nữ Vương" : 10
+    "Nhà Tây Sơn" : 21,
+    "Nhà Nguyễn độc lập" : 30
   },
   "id" : 2209,
-  "entityName" : "Đô Dương",
-  "aliases" : [ ],
-  "overview" : "Năm Kỉ hợi, Thi Sách bị Thái thú Tô Định giết, ông hiệp binh với nhà họ Trưng khởi nghĩa. Năm Quí mão 43, sau khi chị em Trưng vương thất trận tự vẫn ở sông Hát Giang, ông vẫn cố thủ huyện Cư Phong, thuộc quận Cửu Chân, toan liên kết với quân Lâm Ấp và Tây Đồ Di để tiếp tục cuộc kháng chiến chống quân xâm lược Hán. Mã Viện tiến quân đến chỗ sông Mã hợp lưu với Lương Giang, rồi chia làm hai đạo, một đạo đi ngược dòng Lương Giang thẳng tới Cư Phong, một đạo theo dòng sông Mã xuống đến Vô Biên. Toán quân Hán đánh Cư Phong, đêm ngày vây chặt. Ông chống không nổi, quân dân chết rất nhiều nên đành ra hàng để bảo toàn lực lượng. Trận đánh Cư Phong này là trận cuối cùng, quân Hán giết của ta nhiều tướng và rất nhiều binh sĩ, đoạn đem nhiều gia đình các tướng phát vãng sang Linh Lăng ở miền Nam Trung Quốc."
+  "entityName" : "Hồ Văn Bôi",
+  "aliases" : [ "Hồ Văn Vui" ],
+  "overview" : "Xuất thân làm đội trưởng, ông từng hai phen theo Nguyễn Ánh lưu vong ở Vọng Các (Xiêm - Thái Lan), rồi làm thuộc nội Cai đội. Năm Nhâm tuất 1802, thăng Tả thị trung Tả nhất Vệ úy, rồi đổi làm Khâm sai thuộc nội Chưởng cơ. Nhưng chỉ hai năm sau - Giáp tí 1804 ông cáo bệnh về hưu, mất trong năm này. Năm Bính dần 1806, con gái ông là Hồ Thị Hoa được chọn làm vợ Đông cung Nguyễn Phúc Đảm (sau là vua Minh Mạng, bà nghiễm nhiên là Tá Thiên nhân hoàng hậu). Năm Bính tuất 1826, vua Minh Mạng (con rể ông) truy tặng ông Nghiêm oai tướng quân, Thượng quân, Thống chế. NămTân sửu 1841, vua Thiệu Trị truy tặng là Đắc tiến tráng Võ tướng quân, Tả quân Đô thống phủ, Đô thống chưởng phủ sự, Thái bảo, tước Phúc Quốc Công. Vợ chính ông là Huỳnh thị được truy phong Nhất phẩm Phúc Quốc phu nhân. Vua Thiệu Trị lại truyền lập nhà thờ họ Hồ gọi là Hồ tộc từ, và truy phong họ Hồ đến 4 đời trước. Tân hợi 1851 vua Tự Đức đổi tên nhà thờ lại là Dũ Trạch Từ."
 }

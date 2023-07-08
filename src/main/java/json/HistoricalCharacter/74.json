@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "1823",
-  "dateOfDeath" : "1901",
+  "dateOfBirth" : "Giáp Thìn 1664",
+  "dateOfDeath" : "Đinh Dậu 1717",
   "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "occupation" : "Vua nhà Hậu Lê",
   "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "fatherName" : {
+    "Lê Thần tông" : null
+  },
   "motherName" : { },
   "eraName" : {
-    "nhà Thanh" : null
+    "Trịnh - Nguyễn" : 34
   },
   "id" : 74,
-  "entityName" : "Lý Hồng Chương",
-  "aliases" : [ "Wade–Giles: Li Hung-chang" ],
-  "overview" : "Lý Hồng Chương (tiếng Hán giản thể: 李鸿章; phồn thể: 李鴻章; bính âm: Lǐ Hóngzhāng; phiên âm Wade–Giles: Li Hung-chang), phiên âm tiếng Anh: Li Hongzhang) (1823 - 1901), là một đại thần triều đình nhà Thanh trong lịch sử Trung Quốc. Ông là người tỉnh An Huy, xuất thân gia đình quan lại. Trong cuộc đời quan trường của mình ông đã thành lập Hoài quân tham gia cùng với Tăng Quốc Phiên, Tả Tông Đường trấn áp phong trào Thái Bình Thiên Quốc. Vì có công lao to lớn, ông được bổ nhiệm làm tổng đốc Hồ quảng, tổng đốc Trực Lệ kiêm Bắc dương đại thần, Tổng đốc Lưỡng Quảng, Túc nghị nhất đẳng bá."
+  "entityName" : "Lê Duy Hợp",
+  "aliases" : [ "Lê Hi Tông" ],
+  "overview" : "Khi vua cha mất, thân mẫu ông là Trịnh Thi mới có thai ông được 4 tháng. Trịnh Tạc đem về nuôi trong phủ. Anh ông là Gia tông chết, Tây vương Trịnh Tạc mới đưa ông lên nối ngôi vào ngày 12-6 năm Ất mão 1675. Bấy giờ, ông mới 11 tuổi quyền chính ở cả trong tay Chúa Trịnh. Ở ngôi được 30 năm, tháng 4 năm Ất dậu 1705, ông nhường ngôi cho con là Duy Đường mà làm Thái thượng hoàng. Đến năm Đinh dậu 1717. tháng 4 ông mất, lúc 54 tuổi, táng tại Phú lăng, làng Phú Lâm, huyện Đông Sơn, tỉnh Thanh Hóa. Thời gian ở ngôi 30 năm, ông đổi hiệu năm 2 lần: - Vĩnh Trị, 4 năm Bính thìn 1675 - Canh thân 1680. - Chính Hòa, 25 năm Canh thân 1680 - Ất dậu 1705."
 }

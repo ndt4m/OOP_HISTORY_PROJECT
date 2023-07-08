@@ -1,16 +1,14 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Quí Sửu 1973",
-  "hometown" : "quê tại Nhà Bè",
-  "occupation" : "Chiến sĩ đặc công Rừng Sác",
+  "dateOfBirth" : "1563",
+  "dateOfDeath" : "1628",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Nước Việt Nam mới" : 29
-  },
+  "eraName" : { },
   "id" : 314,
-  "entityName" : "Nguyễn Công Bao",
-  "aliases" : [ ],
-  "overview" : "Ông nhập ngũ và chiến đấu ở Nhà Bè, Rừng Sác. Từng là Trung đội phó đơn vị đặc công chỉ huy đơn vị đánh vào kho xăng dầu Nhà Bè vào đêm 3-12-1973 gây cho địch nhiều thiệt hại. Trên đường rút lui ông bị lực lượng hải thuyền địch bao vây, ông tử thương trên sông."
+  "entityName" : "Lý Toái Quang",
+  "aliases" : [ "Chi Phong", "Lee Sugwang" ],
+  "overview" : "Lý Túy Quang (1563-1628) (Yi Su-gwang, Hangul: 이수광, Hanja: 李睟光, Hán Việt: Lý Túy Quang), còn được gọi là Lee Sugwang, tự Nhuận Khanh （潤卿, 윤경, Yungyung），hiệu Chi Phong (芝峯, 지봉, Jibong), là danh thần người Triều Tiên làm quan dưới thời nhà Triều Tiên. Ông cũng là một sứ thần và học giả, người viết Jibong yuseol (芝峰類說, Chi Phong loại thuyết), vốn được xem quyển bách khoa sớm nhất của Hàn Quốc. Một số sách sử Việt gọi ông là Lý Toái Quang ."
 }

@@ -1,17 +1,16 @@
 {
-  "dateOfBirth" : "476\n----------------------------------------------\n…",
-  "dateOfDeath" : "545\n----------------------------------------------\nẤt Sửu 545",
-  "hometown" : "quê làng Giá, thuộc xã Yên Sở, huyện Hoài Đức, ngoại thành Hà Nội",
-  "occupation" : "Võ tướng đời Tiền Lý ",
+  "dateOfBirth" : "Ất Tị 1425",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê xã Lạc Quán, huyện Thanh Lâm, phủ Nam Sách, tỉnh Hải Dương",
+  "occupation" : "Danh thần đời Lê, có sách chép là Nguyễn Nguyên Xân",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "nhà Lương" : null,
-    "Nhà Tiền Lý, Triệu" : null
+    "Triều Lê Sơ" : 7
   },
   "id" : 2786,
-  "entityName" : "Phạm Tu",
-  "aliases" : [ ],
-  "overview" : "Phạm Tu (范脩, 476-545) là võ tướng, công thần khai quốc nhà Tiền Lý trong lịch sử Việt Nam. Ông là người có công giúp Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, thành lập nước Vạn Xuân độc lập.\n----------------------------------------------\nNăm Tân dậu 541, ông giúp Lý Bôn chống giặc nhà Lương, đuổi được Thứ sử Tiêu Tư tàn ác, ông đóng quân giữ thành Long Biên, cùng với Tinh Thiều và Triệu Túc sửa sang mọi việc, giúp Lý Bôn dựng nên nhà Tiền Lý. Năm Quí hợi 543, quân Lâm Ấp (Chiêm Thành) xâm chiếm, ông đánh dẹp được. Trước đó (Nhâm tuất 542) Lương Võ Đế sai Thứ sử Châu Tân là Lư Tử Hùng, Thứ sử Châu Cao là Tôn Quýnh sang xâm lược, ông cũng đã đánh lui quân giặc. Ông được vua Lý phong tước Phục Man tướng quân, đổi theo họ vua là Lý, nên cũng gọi là Lý Tu hay Lý Phục Man; lại được vua gả Công chúa Phương Dung cho. Năm Ất sửu 545, giặc Lương lại kéo sang đánh phá, ông chống nhau với giặc tại thành Tô Lịch (Hà Nội xưa) chết tại trận. Mộ và đền thờ ông nay hãy còn di tích tại quê ông ở làng Giá."
+  "entityName" : "Nguyễn Nguyên Chân",
+  "aliases" : [ "Nguyễn Nguyên Xân" ],
+  "overview" : "Năm Nhâm tuất, 1442 ông đỗ Tam giáp đồng tiến sĩ, mới 17 tuổi. Thầy học của ông là Trịnh Thiết Trường cũng đỗ tiến sĩ khoa này. Nhưng vì đứng ất bảng, Trịnh Thiết Trường và ông rất bực vì không đỗ cao, đều bỏ cuộc, quyết tranh khoa tới. Năm Mậu thìn 1448, thầy trò ông lại ra thi. Trịnh Thiết Trường đỗ Bảng nhãn, ông đỗ Nhị giáp tiến sĩ, làm đến Khu mật trực học sĩ. Ông cùng thầy học làm quan đồng triều Lê Nhân tông, Thánh tông, nổi tiếng văn chương lại có khí tiết, được sĩ phu đương thời trọng vọng."
 }

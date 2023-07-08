@@ -1,16 +1,17 @@
 {
   "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Nam Định",
-  "occupation" : "Công chúa, con gái út Trần Thánh Tông",
+  "dateOfDeath" : "Tân Dậu 1801",
+  "hometown" : "quê huyện Phù Cát, tỉnh Bình Định",
+  "occupation" : "Danh thần thời Nguyễn sơ - Gia Long",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Trần" : 15
+    "Trịnh - Nguyễn" : 34,
+    "Nhà Tây Sơn" : 21
   },
   "id" : 548,
-  "entityName" : "An Tư",
-  "aliases" : [ "Thiên Tư" ],
-  "overview" : "Năm Ất Dậu 1285, từ đầu tháng 2, quân Mông Nguyên tiến sang đánh chiếm nhiều nơi, đạo quân của Thoát Hoan sắp sang sông Nhị vào kinh thành. Trần Nhân Tông quyết định dùng chước hoãn binh bằng cách đem công chúa An Tư gả cho Thoát Hoan. Một ngày trong tháng 2, Trung Hiếu hầu Trần Dương nhận lệnh đi thương thuyết giảng hòa, rồi quan hầu cận là Đào Kiên đưa An Tư sang dinh tướng Mông Nguyên. Và chẳng bao lâu, dưới sự chỉ huy kháng chiến của Trần Quốc Tuấn, quân cướp nước bị dẹp tan. Trong chiến công này rõ ràng là có sự đóng góp của công chúa An Tư, người đã hi sinh vì nạn nước."
+  "entityName" : "Ngô Tùng Châu",
+  "aliases" : [ ],
+  "overview" : "Ông là học trò Sùng Đức xử sĩ Võ Trưởng Toản, tính đoan chính, có tiết tháo. Buổi đầu ông làm Chế các ở Viện Hàn lâm, rồi làm Điền tuấn quan cùng với Trịnh Hoài Đức, Lê Quang Định và hơn 10 người nữa coi việc khai khẩn ruộng đất. Sau, ông thăng chức Tham tri bộ Lễ kiêm việc dạy dỗ con lớn của Nguyễn Ánh. Năm Kỉ mùi 1799, ông phụ tá Võ Tánh trấn thủ thành Bình Định. Năm sau, bị đại tướng Tây Sơn Trần Quang Diệu vây thành rất ngặt, trong thành hết lương, không thể chống nổi, ông uống thuốc độc mà chết. Võ Tánh cũng tự thiêu sau ông hai ngày. Sự cố thủ của ông và Võ Tánh tự thiêu đã cầm chân binh sĩ Tây Sơn nên Nguyễn Ánh đánh lấy được Phú Xuân. Ông mất vào ngày 27-5 năm Tân dậu (7-7-1801). Năm đầu Gia Long (1802) truy tặng ông là Tán trị công thần đặc tiến Kim tử Vinh lộc đại phu, Trụ quốc Thái sư, tước Châu Quận Công, thụy là Trung ý. Đến đời Minh Mạng, năm 1831, gia phong ông là Tá vận công thần, Hiệp tá đại học sĩ, Thiếu sư, Ninh Hòa Quận Công, đổi thụy là Trung Mẫn."
 }

@@ -1,18 +1,16 @@
 {
   "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
+  "dateOfDeath" : "Quí Tị 1173",
   "hometown" : "Không rõ",
-  "occupation" : "Tước hiệu",
-  "workTenure" : "1657—1682",
-  "fatherName" : {
-    "Trịnh Tráng" : null
-  },
+  "occupation" : "Thiền sư đời Lý Anh tông, không rõ họ tên",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Đàng Ngoài - Chúa Trịnh" : 26
+    "Nhà Lý" : 14
   },
   "id" : 2070,
-  "entityName" : "Tây Định Vương",
-  "aliases" : [ ],
-  "overview" : "Tây Định Vương Trịnh Tạc (chữ Hán: 西定王鄭柞, 11 tháng 4 năm 1606 – 24 tháng 9 năm 1682), thụy hiệu Hoằng Tổ Dương vương (弘祖陽王), là vị chúa Trịnh thứ 3 thời Lê Trung hưng, cai trị từ năm 1657 đến 1682. Trịnh Tạc là chúa Trịnh duy nhất chứng kiến cả bảy cuộc xung đột Trịnh-Nguyễn thế kỷ 17 và có công chấm dứt việc cát cứ của họ Mạc ở Cao Bằng, đưa miền Bắc nước Đại Việt bước vào thời thịnh trị."
+  "entityName" : "Bảo Giác",
+  "aliases" : [ "Bảo Giác" ],
+  "overview" : "Ông là bạn tâm giao và cũng là người đã dẫn dắt Thiền sư Tĩnh Giới (Châu Hải Ngang) trong việc tu học và hoằng dương đạo pháp đương thời. Năm Chính Long Bảo ứng 11 (Quí tị 1173), ông viên tịch. Trước lúc mất, ông có đọc bài kệ cho Tĩnh Giới nghe: \"Vạn pháp qui không vô sở y, Qui tích chân như mục tiền kì. Đạt ngộ tâm viên vô sở chỉ, Thủy thủy tâm nguyệt dãn tâm nghi. \" Bản dịch: Muôn pháp về không, không tựa nương Chân như trước mắt, một con đường. Cái tâm liễu ngộ khôn nơi chỉ Như bóng trăng rằm đáy đại dương"
 }

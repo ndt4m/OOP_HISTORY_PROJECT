@@ -1,16 +1,14 @@
 {
-  "dateOfBirth" : "Đinh Mão 1807",
-  "dateOfDeath" : "Bính Dần 1866",
-  "hometown" : "quê xã Văn Lư",
-  "occupation" : "Văn thần đời Minh Mạng",
+  "dateOfBirth" : "15 tháng 5, 1930 thành phố Long Xuyên, An Giang",
+  "dateOfDeath" : "29 tháng 6, 2015 (85 tuổi) TP. Hồ Chí Minh",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
-  },
+  "eraName" : { },
   "id" : 1455,
-  "entityName" : "Đỗ Quang",
-  "aliases" : [ "Đỗ Tông Quang" ],
-  "overview" : "Năm Nhâm thìn 1832, ông đỗ Tam giáp đồng tiến sĩ lúc 25 tuổi, ông nổi tiếng thơ văn, làm Tuần phủ tỉnh Định Tường trong Nam vào đời Tự Đức. Gặp cơn biến loạn giặc Pháp sang xâm lược, đánh phá miền Nam, ông dời về Tân Hòa, cùng Trương Định tiếp tục chống giặc. Cuộc điếu tế các nghĩa sĩ Cần Giuộc, chính ông đã chủ trương nung nấu ý chí căm thù quân cướp nước, đôn đốc nhân dân cứu nước. Năm 1862, triều đình Huế kí hàng ước với giặc ông bị triệu về kinh, bổ làm Tuần phủ tỉnh Nam Định, ông dâng sớ kiên quyết từ chối, bỏ về nghỉ tại quê nhà. Năm sau, triều đình lại triệu ông vào Huế làm Tham tri, ông càng từ chối. Năm 1864, miền Hải Dương, Quảng Yên bị nạn hải phỉ quấy nhiễu, dân tình khổ cực, ông đành phái ra làm Tham tán Hải An để góp phần ổn định lại tình hình trong tỉnh. Công việc hoàn thành ông lại cáo quan về ở ẩn. Năm Bính dần 1866, ông mất, thọ 59 tuổi."
+  "entityName" : "Phan Nhân",
+  "aliases" : [ "Liêu Nguyễn Phan Nhân" ],
+  "overview" : "Phan Nhân (15 tháng 5 năm 1930 – 29 tháng 6 năm 2015 ) tên thật là Liêu Nguyễn Phan Nhân, sinh tại thành phố Long Xuyên, An Giang. Ông được biết đến với vai trò là nhạc sĩ với nhiều ca khúc nổi tiếng như Hà Nội niềm tin và hy vọng, Thành phố của tôi, Em ở nơi đâu, Bài ca cho em..."
 }

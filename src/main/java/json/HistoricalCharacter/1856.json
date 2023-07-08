@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Canh Thìn 1880",
-  "dateOfDeath" : "Bính Tí 1936",
-  "hometown" : "tại làng Giạ Lê thượng, huyện Hương Thủy, tỉnh Thừa Thiên",
-  "occupation" : "Cao tăng Phật giáo cận đại",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "619",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế nước Hứa",
+  "workTenure" : "618 – 619",
+  "fatherName" : {
+    "Vũ Văn Thuật" : null
   },
+  "motherName" : { },
+  "eraName" : { },
   "id" : 1856,
-  "entityName" : "Nguyễn Giác Tiên",
-  "aliases" : [ "Giác Tiên" ],
-  "overview" : "Năm 1895, ông xuất gia tu học tại chùa Từ Hiếu, năm 1901 thụ giới Sa Di, làm đệ tử thiền sư Tâm Tịnh, năm 1904 hòa thượng Tâm Tịnh về dựng am Thiếu Lâm gần chùa Tây Thiên để tỉnh tu, ông theo sư phụ về tu học ở đây. Năm 1908 đại giới đàn được tổ chức tại chùa Phước Lâm ở Quảng Nam, ông được thọ cụ túc giới và được chọn là Thủ chúng Sa di tại chùa này. Năm 1913, ông được cung thỉnh về Huế làm trụ trì chùa Trúc Lâm do ni sư Diên Trường vừa xây dựng xong. Năm 1923, ông tổ chức giới đàn tại chùa Từ Hiếu, đệ tử ông là Thiền sư Mật Khế được bổn sư của ông là Hòa thượng Tâm Tịnh truyền giới. Năm 1925, ông được sắc chỉ của triều đình thỉnh về trú trì Diệu Đế quốc tự. Năm 1929 ông cho mở Phật học đường Trúc Lâm giảng dạy tăng sĩ. Nơi đây trở thành một trung tâm đào tạo tăng tài lớn của Phật giáo Trung Kì mà ông là người khởi xướng đầu tiên. Trong số những học tăng, Phật tử theo học tại thiền viện Trúc Lâm, nổi danh nhất là các thiền sư Mật Khế, Mật Nguyện, Mật Thế... nhất là cư sĩ Tâm Minh Lê Đình Thám đã góp công lớn cho việc hình thành An Nam Phật học hội (Hội Phật giáo Trung Kì) nhằm chấn hưng Phật giáo miền Trung, chính ông là người khai sơn phá thạch buổi đầu. Ông mất vào ngày mồng bốn tháng mười âm lịch năm Bính tí (17-11-1936) lúc đang giữ chức trụ trì hai chùa Diệu Đế và Trúc Lâm, hưởng thọ 56 tuổi. Lúc sinh thời hòa thượng Giác Tiên được thầy bổn sư Thích Tâm Tịnh trao cho ông bài kệ đắc pháp sau: \"Giác đạo kiếp không tiền, Không không bát nhã thuyền. Quả nhân phù hạnh giải, Xứ xứ đắc an nhiên.\" Nghĩa: Đường Giác trước không kiếp Thuyền Bát nhã không không Hạnh giải hợp nhân quả, Ở đâu cũng thung dung."
+  "entityName" : "Vũ Văn Hóa Cập",
+  "aliases" : [ "Niên hiệu Thiên Thọ (天壽) 9/618 - 2/619 ÂL", "Hứa Đế (許帝)" ],
+  "overview" : "Vũ Văn Hóa Cập (tiếng Trung: 宇文化及; bính âm: Yǔwén Huàjí, ? - 619) là một tướng lĩnh của triều Tùy trong lịch sử Trung Quốc. Năm 618, ông đã lãnh đạo một cuộc binh biến chống lại và giết chết Tùy Dạng Đế. Sau đó, ông đưa cháu (gọi bằng bác) của Tùy Dạng Đế là Dương Hạo lên làm hoàng đế và dẫn đội Kiêu Quả quân (驍果军) định tiến về đông đô Lạc Dương. Ông nhiều lần bại trận dưới tay Lý Mật, Lý Thần Thông, và cuối cùng là Đậu Kiến Đức. Thấy mình sắp thất bại, ông ta đã giết Dương Hạo và tự xưng là hoàng đế của nước Hứa (許). Năm 619, ông bị Đậu Kiến Đức bắt giết."
 }

@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Tân Hợi 1791",
-  "dateOfDeath" : "Canh Dần 1830",
-  "hometown" : "quê huyện Thanh Oai, tỉnh Hà Đông (nay thuộc tỉnh Hà Tây)",
-  "occupation" : "Danh sĩ đầu đời nhà Nguyễn",
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Quí Tị 1173",
+  "hometown" : "quê ở Trung Thụy",
+  "occupation" : "Thiền sư đời Lý Anh tông",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+    "Nhà Lý" : 14
   },
   "id" : 1448,
-  "entityName" : "Ngô Thì Hiệu",
-  "aliases" : [ "Hoa Lâm Tản Nhân" ],
-  "overview" : "Ông có tiếng văn chương, tuy chỉ là giám sinh Quốc tử giám nhưng ông có nhiều thơ văn và các công trình biên soạn lớn được truyền tụng. Năm Canh dần 1830, ông mất, hưởng dương 39 tuổi, thụy là Trang Nghị. Các tác phẩm còn truyền: - Lạng hành kí sự - Quan ngư kí. - Đại Man sự tích - Nam Du thi tập - Khôn Trinh lục - Dạ Trạch phú kí"
+  "entityName" : "Kiều Phù",
+  "aliases" : [ ],
+  "overview" : "Tính ông trung hậu, thành thật, điềm đạm, giản dị, chuyên tâm nghiên cứu kinh sách, viết tốt, vẽ khéo. Đời Lý Anh tông, ông làm Cung hậu xá nhân Năm 30 tuổi, bỏ quan vào chùa Bảo Phúc ở quận Mĩ Lăng (nay thuộc tỉnh Hòa Bình), thọ giáo với thiền sư Đa Vân. Các kinh sách trong chùa này, chính tay ông chép lại, đến khi sư Đa Vân viên tịch, ông kế tiếp trụ trì, nghiễm nhiên đứng vào thế hệ thứ 9 dòng thiền Quan Bích. Ông thường bảo các môn đồ: - Lên bậc tôn thừa là nhờ ở sự siêng năng, thành được chính giác phải nhờ ở trí tuệ. Ví như đứng ngoài trăm thước mà bắn tới được là nhờ sức khỏe, trúng được đích thì không phải là vì sức khỏe. Năm Quí tị 1173, ngày 7-5, ông viên tịch còn lưu lại một số thơ văn giá trị."
 }

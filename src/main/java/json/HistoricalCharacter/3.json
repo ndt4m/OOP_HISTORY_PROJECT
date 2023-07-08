@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "1483",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "? Miền Bắc\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "?\n----------------------------------------------\nKhông rõ",
+  "hometown" : "quê ở làng La Khê, phủ Hoài Đức, tỉnh Hà Đông, nay thuộc xã Đông La, huyện Hoài Đức, tỉnh Hà Tây",
+  "occupation" : "Nhạc sĩ\n----------------------------------------------\nTổ nghề dệt gấm Việt Nam cận đại ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
+  },
   "id" : 3,
-  "entityName" : "Trần Bảo Tín",
+  "entityName" : "Trần Quý",
   "aliases" : [ ],
-  "overview" : "Trần Bảo Tín (chữ Hán: 陳保信; 1483-?) là một danh thần thời Hậu Lê."
+  "overview" : "Hồng Vân (Trần Quý) là một nhạc sĩ Việt Nam. Ông là tác giả bài \"Đồi thông hai mộ\" nổi tiếng và nhiều ca khúc dành cho tầng lớp bình dân tại Sài Gòn trước 1975.\n----------------------------------------------\nÔng sống vào thời Minh Mạng, tham gia việc quân, được đi đây đi đó nhiều nơi, tiếp xúc nhiều thương nhân người Hoa buôn bán hàng gấm. Ông tìm hiểu cách dệt gấm, khi giải ngũ về quê truyền dạy cho dân làng. Nhờ đó mà làng La Khê nổi tiếng về hàng gấm gọi là gấm La Khê. Sau khi ông mất, dân làng tôn thờ ông là tổ nghề dệt gấm."
 }

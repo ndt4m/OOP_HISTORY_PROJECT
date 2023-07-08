@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Quí Tị 1833",
-  "hometown" : "quê huyện Đường Hàn, tỉnh Hải Dương",
-  "occupation" : "Danh sĩ đời Minh Mạng, con quan Thái tể Phạm Công Trứ cuối đời Hậu Lê",
+  "dateOfBirth" : "476\n----------------------------------------------\n…",
+  "dateOfDeath" : "545\n----------------------------------------------\nẤt Sửu 545",
+  "hometown" : "quê làng Giá, thuộc xã Yên Sở, huyện Hoài Đức, ngoại thành Hà Nội",
+  "occupation" : "Võ tướng đời Tiền Lý ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+    "nhà Lương" : null,
+    "Nhà Tiền Lý, Triệu" : null
   },
   "id" : 1978,
-  "entityName" : "Phạm Đình Trạc",
+  "entityName" : "Phạm Tu",
   "aliases" : [ ],
-  "overview" : "Năm Tân tị 1821 ông đỗ cử nhân, có tiếng văn thơ, tự Bạt Khanh, làm đến Án sát Cao Bằng. Năm Quí tị 1833, nghe tin Lê Văn Khôi dấy binh chống triều đình ở trong Nam, ông lập tức truy lùng vây cánh của Khôi ở Cao Bằng để ngừa hậu hoạn trong tỉnh, bắt được em Khôi là Lê Văn Lư, hai con Khôi là Lê Văn Báo và Lê Văn Hổ, cùng 14 người trong họ. Triều đình khen thưởng ông trọng hậu. Đến tháng 8 năm Quí tị 1833, Nông Văn Vân khởi binh đánh phá Tuyên Quang, Cao Bằng, ông hết sức lo chống giữ thành. Suốt 32 ngày cầm cự, không có binh cứu viện, lương thực cũng sắp hết tình thế khó chống nổi với Nông Văn Vân, ông bảo các thuộc hạ: \"Giữ thành, không nên để sa vào tay quân địch!\". Ý đã quyết, ông tự tử chết. Bố chánh Bùi Đức tự Tăng Huy và Lãnh binh Phạm Văn Lợi (có sách chép Phạm Văn Lưu) cũng tự tử chết theo ông. Sau, triều đình cho lập miếu thờ ở Cao Bằng và Lạng Sơn gọi là \"Miếu tam trung\". Bạn thân của Phạm Đình Trạc là Hà Tông Quyền có mấy bài thơ chữ Hán cảm niệm. Bản dịch: Lẫm liệt chết như sống, Hùng thay! Phạm Bạt Khanh, Thư sinh chưa giở ngón, Thiên tử chửa nghe danh. Muốn đánh, giữ không có chỗ! Liều còn mất với thành. Thương ôi! tin đến muộn, Chuyện vỡ mới phân minh. Đã hết sức không nổi Thời liều một thác thôi! Ba trung, thành nhớ mặt, Một chết: tiếng thơm đời. Gây biến ai mang tội! Ban danh ấy tự trời. Kìa nay công luận đó: Hương khói ngát bên đồi. Lạ thay! mềm một sợi, Bông hoa cứng trăn rèn. Gặp biến giữ lòng vững, Làm thơ hăng khí thêm. Người xưa há ăn đứt: Kẻ nhác rón theo lên! Tri giao tình cảm nặng, Gạt lệ viết ai thiên."
+  "overview" : "Phạm Tu (范脩, 476-545) là võ tướng, công thần khai quốc nhà Tiền Lý trong lịch sử Việt Nam. Ông là người có công giúp Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, thành lập nước Vạn Xuân độc lập.\n----------------------------------------------\nNăm Tân dậu 541, ông giúp Lý Bôn chống giặc nhà Lương, đuổi được Thứ sử Tiêu Tư tàn ác, ông đóng quân giữ thành Long Biên, cùng với Tinh Thiều và Triệu Túc sửa sang mọi việc, giúp Lý Bôn dựng nên nhà Tiền Lý. Năm Quí hợi 543, quân Lâm Ấp (Chiêm Thành) xâm chiếm, ông đánh dẹp được. Trước đó (Nhâm tuất 542) Lương Võ Đế sai Thứ sử Châu Tân là Lư Tử Hùng, Thứ sử Châu Cao là Tôn Quýnh sang xâm lược, ông cũng đã đánh lui quân giặc. Ông được vua Lý phong tước Phục Man tướng quân, đổi theo họ vua là Lý, nên cũng gọi là Lý Tu hay Lý Phục Man; lại được vua gả Công chúa Phương Dung cho. Năm Ất sửu 545, giặc Lương lại kéo sang đánh phá, ông chống nhau với giặc tại thành Tô Lịch (Hà Nội xưa) chết tại trận. Mộ và đền thờ ông nay hãy còn di tích tại quê ông ở làng Giá."
 }

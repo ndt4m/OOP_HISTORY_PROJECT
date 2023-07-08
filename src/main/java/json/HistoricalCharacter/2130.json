@@ -1,16 +1,20 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "người làng Lương Xá, huyện Chương Đức, tỉnh Hà Đông (nay thuộc tỉnh Hà Tây)",
-  "occupation" : "Danh thần đời Lê Thái tông, con Nghĩa quận công Đặng Huấn",
+  "dateOfBirth" : "?",
+  "dateOfDeath" : "1438 Đại Việt",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
+  "fatherName" : {
+    "Lê Thái Tổ" : 1167
+  },
+  "motherName" : {
+    "Trịnh Thị Ngọc Lữ" : null
+  },
   "eraName" : {
-    "Triều Lê Sơ" : 7
+    "Nhà Hậu Lê" : 20
   },
   "id" : 2130,
-  "entityName" : "Đặng Tiến Vinh",
-  "aliases" : [ ],
-  "overview" : "Ông có chiến công được phong làm Tả Tư không, tước Hà Quận công. Ông có 7 nguời con, nổi bật nhất là Đặng Thế Tài và Đặng Thế Khoa, chức vi kiêm cả tướng võ, tướng văn, một nhà danh tuớng, ít ai sánh bằng."
+  "entityName" : "Lê Tư Tề",
+  "aliases" : [ "Quận Ai vương (郡哀王)", "Lê Tư Tề (黎思齊)" ],
+  "overview" : "Lê Tư Tề (chữ Hán: 黎思齊; ? – 1438), hay Quận Ai vương (郡哀王), là hoàng tử nhà Lê sơ trong lịch sử Việt Nam. Ông đã cùng cha là Lê Thái Tổ tham gia khởi nghĩa Lam Sơn đánh đuổi quân Minh, làm đến chức Tư đồ, thành lập Triều đại nhà Lê Sơ."
 }

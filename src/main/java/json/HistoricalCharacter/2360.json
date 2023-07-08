@@ -1,17 +1,22 @@
 {
-  "dateOfBirth" : "1371 Hương Xuân Hi, huyện Kim Hoa, châu Tam Đái, lộ Đông Đô\n----------------------------------------------\n…",
-  "dateOfDeath" : "1407 Hải khẩu Ki Lê, huyện Hà Hoa, châu Nhật Nam, lộ Nghệ An\n----------------------------------------------\nĐinh Hợi 1407",
+  "dateOfBirth" : "20 tháng 11, 1423 Lam Sơn, huyện Thọ Xuân, Thanh Hóa\n----------------------------------------------\nQuí Mão 1423\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "4 tháng 8, 1442 (18 tuổi) Lệ Chi viên, huyện Gia Định\n----------------------------------------------\nNhâm Tuất 1442\n----------------------------------------------\nKhông rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Danh thần nhà Hồ, ông làm đến Hành khiển hữu tham tri chính sự.",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
+  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua đời thứ hai nhà Hậu Lê\n----------------------------------------------\nVua",
+  "workTenure" : "1433 – 1442\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1433–1442",
+  "fatherName" : {
+    "Lê Thái Tổ" : 1167
+  },
+  "motherName" : {
+    "Cung Từ Cao hoàng hậu" : null
+  },
   "eraName" : {
-    "nhà Hồ" : null,
-    "Nhà Hồ" : 9
+    "Nhà Hậu Lê – giai đoạn Lê sơ" : 20,
+    "Nhà Lê sơ" : null,
+    "Triều Lê Sơ" : 7
   },
   "id" : 2360,
-  "entityName" : "Ngô Miễn",
-  "aliases" : [ ],
-  "overview" : "Ngô Miễn (chữ Hán: 吳勉, 1371 - 1407) hoặc Ngô tướng công (chữ Hán: 吳相公) là một danh thần nhà Hồ. Hành trạng của ông được xác thực bởi hai cuốn Nam Ông mộng lục và Đại Việt sử ký toàn thư.\n----------------------------------------------\nNăm Đinh hợi 1407, quân Minh xâm lược, nhà Hồ điêu đứng, nhân dân thảm khổ, ông đau đớn gieo mình xuống sông tử tiết. Vợ là Nguyễn thị cũng tự tử theo chồng. Trong Đại Việt sử kí toàn thư, có ghi truyện Ngô Miễn này, Ngô Sĩ Liên thêm lời bình: \"Vợ Ngô Miễn là Nguyễn thị không những chỉ chết vì tiết nghĩa, lời nói cũng đủ làm bài học cho đời\". Sử ghi lời nói của Nguyễn thị như sau: \"Chồng ta thờ vua, một đời ăn lộc, từ chỗ Trung quan được lên tham dự Chính phủ, nay vì nghĩa mà chết, thế là chết đáng chỗ, còn oán hận gì. Nghĩa vợ chồng, ơn vua tôi, ta không nỡ phụ bạc. Đành chết theo nhau vậy\". Trong Nam Ông mộng lục, Hồ Nguyên Trừng cũng ca tụng tiết nghĩa của vợ chồng Ngô Miễn: \"Than ôi! Chết vì tiết nghĩa là lí đương nhiên của kẻ sĩ đại phu, thế mà có người còn lấy làm khó. Xưa nay, ít nghe có vị quan nào được như vậy. Ngô Miễn là đấng trượng phu chăng! Đến như Nguyễn thị, một người đàn bà mà lâm nguy vẫn nhận ra tiết lớn, biết chồng chết đáng chỗ không ân hận gì, lại còn coi trọng điều nghĩa, xem nhẹ cái sống, nhìn chết như về, có thể gọi là bậc hiền phụ vậy. Trong số đàn bà ngu dại trên đời, những kẻ vì bực tức mà nhảy xuống nước chết nhiều lắm. Đến như vì nghĩa mà bỏ mình thì rất không dễ được!t Hạng người như Nguyễn thị thật đáng ca ngợi thay!\""
+  "entityName" : "Lê Nguyên Long",
+  "aliases" : [ "Lê Thái Tông", "Thái Tông (太宗)", "Lê Nguyên Long", "Thiệu Bình (紹平: 1434 - 1439) Đại Bảo (大寶: 1440 - 1442)", "Kế Thiên Thể Đạo Hiển Đức Thánh Công Khâm Minh Văn Tư Anh Duệ Triết Chiêu Hiến Kiến Trung Văn Hoàng đế (繼天體道顯德功欽明文思英睿仁哲昭憲建中文皇帝)" ],
+  "overview" : "Lê Thái Tông (chữ Hán: 黎太宗; 20 tháng 11, 1423 - 4 tháng 8, 1442), là vị Hoàng đế thứ hai của triều đại Hậu Lê trong lịch sử Việt Nam. Ông trị vì Đại Việt từ năm 1433 tới năm 1442, tổng cộng 9 năm.\n----------------------------------------------\nÔng là con thứ hai vua Lê Thái tổ, lên ngôi ngày 8 tháng 9 Quí sửu 1433 mới 10 tuổi, do Đại tư đồ Lê Sát phụ chính. Lê Sát lộng quyền giết hại công thần. Ít lâu ông nắm quyền bính, giết Lê Sát, Lê Ngân, sửa sang việc chính trị. Đối ngoại ông từng thân chinh đánh dẹp các cuộc nổi loạn ở miền sơn cước và mở rộng bang giao với Chiêm Thành, Xiêm, Lào. Ông vời nàng hầu của Nguyễn Trãi là Nguyễn Thị Lộ vào cung, phong là Lễ nghi học sĩ. Năm Nhâm tuất 1442, khoảng tháng 7, ông tuần du miền Đông. Đến mùng 4 tháng 8, xa giá về tới Thiền Đức Giang, thuộc huyện Gia Bình, tỉnh Bắc Ninh, ông nghỉ đêm ở Lệ Chi Viên (một trại trong vải) có Nguyễn Thị Lộ chầu hầu, rồi mất trong đêm ấy, mới 19 tuổi. Chôn tại Hựu lăng. làng Lam Sơn. Ông ở ngôi 9 năm, đổi hiệu năm 2 lần: - Thiệu Bình: Giáp dần 1434 - Kỉ mùi 1439 (6 năm). - Đại Bảo: Canh thân 1440 - Nhâm tuất 1442 (3 năm).\n----------------------------------------------\nLê Thái Tông (chữ Hán: 黎太宗 22 tháng 12 năm 1423 – 7 tháng 9 năm 1442), tên húy Lê Nguyên Long (黎元龍), là vị hoàng đế thứ hai của hoàng triều Lê nước Đại Việt. Thái Tông trị vì từ ngày 20 tháng 10 năm 1433 cho tới khi mất năm 1442, tổng cộng 9 năm."
 }

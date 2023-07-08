@@ -1,16 +1,14 @@
 {
-  "dateOfBirth" : "Không rõ",
+  "dateOfBirth" : "sinh năm 1924",
   "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Chí sĩ cận đại",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
-  },
+  "eraName" : { },
   "id" : 1420,
-  "entityName" : "Đinh Kinh Luân",
-  "aliases" : [ "Tiến Nhi" ],
-  "overview" : "Khoảng năm 1913, ông tham gia Việt Nam Quang phục hội ở Bắc Kì. Ông lại đàm nhận sứ mạng điều động và tiếp tế nhân lực tài chánh, võ khí cho các vị chỉ huy những chiến khu kháng cự quân cướp nước. Ông và Am Vệ Tân tận tụy hi sinh cho cách mạng, bị mật thám Pháp theo dõi. Đến khi sắp sa vào cạm bẫy, ông tự sát để khỏi lộ những điều bí mật."
+  "entityName" : "Bùi Nam Hà",
+  "aliases" : [ ],
+  "overview" : "Bùi Nam Hà (sinh năm 1924) là tướng lĩnh cấp cao trong Quân đội Nhân dân Việt Nam, hàm Thiếu tướng, nguyên Phó Tổng thanh tra Quân đội, Viện trưởng Học viện Hậu cần, Phó Giám đốc Học viện Quân sự cấp cao, Cục trưởng Cục nhà trường Bộ Tổng tham mưu, Phó Tư lệnh Đoàn 959, Phó Tư lệnh Tham mưu trưởng Tây Nguyên, Tham mưu phó Quân khu 5."
 }

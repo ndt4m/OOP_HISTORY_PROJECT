@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "2 tháng 2, 1917 (100 tuổi) Đông Mỹ, Thanh Trì, Hà Nội, Liên bang Đông Dương",
+  "dateOfBirth" : "Tân Hợi 1671",
   "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "hometown" : "quê làng An Ấp, huyện Hương Sơn tỉnh Hà Tĩnh (nay thuộc Hà Tĩnh)",
+  "occupation" : "Văn thần đời Lê Huyền tông con Thiêm đô ngự sử đời vua Lê Hiển tông là Đinh Nho Công",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
   "id" : 906,
-  "entityName" : "Đỗ Mười",
-  "aliases" : [ "Nguyễn Duy Cống" ],
-  "overview" : "Đỗ Mười (sinh ngày 2 tháng 2 năm 1917), tên thật là Nguyễn Duy Cống. Ông nguyên là Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam từ tháng 6 năm 1991 đến tháng 12 năm 1997, Chủ tịch Hội đồng Bộ trưởng thứ ba của nước Cộng hòa Xã hội chủ nghĩa Việt Nam từ tháng 6 năm 1988 đến tháng 7 năm 1991."
+  "entityName" : "Đinh Nho Hoàn",
+  "aliases" : [ ],
+  "overview" : "Canh thìn 1700, ông đỗ Nhị giáp tiến sĩ lúc 29 tuổi, làm đến Hầu thị lang bộ công, từng được cử đi sứ Thanh. Trên đường đi sứ về, chẳng may ông bệnh mất, được truy tặngTả thị lang bộ Lại. Vợ ông là Phan Thị nghe tin ông mất, đau lòng thắt cổ chết theo chồng. Nhà vua ban chiếu cho treo biển phong tặng tại cổng nhà để nêu tiếng khen. (Hồng Hà nữ sĩ Đoàn Thị Điểm có một truyện nói về tiết tháo của bà Đinh Nho Hoàn, đề là An ấp liệt nữ trong tập truyện truyền kì)."
 }

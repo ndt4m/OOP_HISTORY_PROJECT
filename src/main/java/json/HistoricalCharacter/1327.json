@@ -1,21 +1,20 @@
 {
-  "dateOfBirth" : "1116 Thăng Long\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "31 tháng 10 năm 1138 Điện Vĩnh Quang, Thăng Long\n----------------------------------------------\nKhông rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua",
-  "workTenure" : "1128 – 1138\n----------------------------------------------\n1127—1138",
+  "dateOfBirth" : "Nhâm Tí 1912",
+  "dateOfDeath" : "Giáp Thân 1944",
+  "hometown" : "quê làng Xuân Cầu xã Nghĩa Trụ, huyện Văn Giang, tỉnh Hải Dương",
+  "occupation" : "Liệt sĩ cách mạng",
+  "workTenure" : "Không rõ",
   "fatherName" : {
-    "Sùng Hiền hầu" : null,
-    "Sùng Hiền Hầu" : null
+    "ông Tô Y" : null
   },
   "motherName" : {
-    "Đỗ Phu nhân" : null
+    "Ngô Thị Lí" : null
   },
   "eraName" : {
-    "Nhà Lý" : 14
+    "Pháp đô hộ" : 11
   },
   "id" : 1327,
-  "entityName" : "Lý Thần Tông",
-  "aliases" : [ "Lý Dương Hoán (李陽煥)", "Thuận Thiên Quảng Vận Khâm Minh Nhân Hiếu Hoàng đế", "Thần Tông (神宗)", "Thiên Thuận (1128-1132) Thiên Chương Bảo Tự (1133-1138)" ],
-  "overview" : "Lý Thần Tông (chữ Hán: 李神宗; 1116 – 1138) là vị hoàng đế thứ năm của nhà Lý. Ông trị vì từ năm 1128 đến khi qua đời, tổng cộng là 10 năm. Mặc dù lên ngôi khi mới 11 tuổi, Lý Thần Tông đã tin dùng những người tài như Trương Bá Ngọc, Dương Anh Nhị và Lý Công Bình, thực hiện chính sách cai trị khoan dung và duy trì được sự ổn định của Đại Việt. Thời kỳ Lý Thần Tông còn chứng kiến việc Đại Việt đánh bại các cuộc xâm lược của Chân Lạp và Chiêm Thành năm 1132, 1136. Bên cạnh đó, Thần Tông bị sử sách phê phán vì quá mê tín vào các \"điềm lành\".\n----------------------------------------------\nLý Thần Tông (chữ Hán: 李神宗 1116 – 31 tháng 10 năm 1138) là vị hoàng đế thứ năm của triều đại nhà Lý nước Đại Việt. Ông trị vì từ năm 1128 đến khi qua đời năm 1138, tổng cộng là 10 năm."
+  "entityName" : "Tô Hiệu",
+  "aliases" : [ ],
+  "overview" : "Thuở nhỏ ông học chữ Hán, sau học trường Pháp Việt Hải Dương rồi lên học ở Hà Nội. Năm 1929 ông vào Sài Gòn hoạt động cùng anh ruột là Tô Chấn trong Việt Nam Quốc dân Đảng. Năm 1930 ông bị bắt đày ra Côn Đảo. Ở đảo ông trở thành thành viên Đảng Cộng sản Đông Dương. Năm 1934 ông được trả tự do về hoạt động tại Hà Nội, đến năm 1938 ông phụ trách các tỉnh duyên hải Bắc Kì và là Bí thư Thành ủy Hải Phòng, đến tháng 12-1939 ông bị bắt và đày lên Sơn La. Tại đây ông bị nhiều cực hình, bệnh nặng, ông qua đời ngày 7-3-1944 hưởng dương 32 tuổi."
 }

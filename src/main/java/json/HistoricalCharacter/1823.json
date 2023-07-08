@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Danh tướng đời hậu Trần, cương quyết chống quân cướp nước đến cùng.",
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Tân Dậu 1801",
+  "hometown" : "quê làng Thái Dương, huyện Hương Trà, tỉnh Thừa Thiên",
+  "occupation" : "Xử sĩ thời Nguyễn sơ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Hậu Trần" : null
+    "Trịnh - Nguyễn" : 34
   },
   "id" : 1823,
-  "entityName" : "Đinh Mỹ",
+  "entityName" : "Hoàng Quang",
   "aliases" : [ ],
-  "overview" : "Ông đã cùng các đồng chí tổ chức những chiến khu, quyết tâm đánh đuổi quân Minh cướp nước. Khi bị Trương Phụ bắt, giặc khuyên dỗ ông hàng, ông quyết không khuất phục, Trương Phụ đem chém, ông vẫn khảng khái. Người sau có thơ đề vịnh: \"Trượng phu anh khí lệ cần vương. Tuy tử tâm trung thệ bất hàng. Trung quán lưỡng gian huyền nhật nguyệt, Thiên thu thanh sử vĩnh lưu phương\". Bản dịch: Trượng phu anh khí dốc cần vương, Tuy chết trong lòng thệ chẳng hàng Trung nghĩa sáng soi vầng nhật nguyệt Nghìn thu thanh sử vẫn lưu phương."
+  "overview" : "Ông học thức uyên bác, có lần Nguyễn Huệ vời ra, ông từ chối. Họ Nguyễn Phúc muốn dùng ông, ông cũng tạ từ, ở ẩn không màng danh lợi. Ông mất khoảng năm Tân dậu 1801, văn chương ông còn được truyền tụng: Hoài Nam ca khúc (Khúc ngâm Hành Nam) dài 670 câu lục bát, thêm nhiều bài thơ Đường luật, một bài văn tế, một bài văn cáo gồm trong ca khúc ấy, và một bản dịch Chức cẩm Hồi văn của Tô Huệ. Khúc Hoài Nam được con gái Nguyễn Phúc Khoát là Ngọc Huyên sao ra truyền vào Nam. Đây là áng văn chương xuất sắc vào thời kì văn học lịch triều đang phát triển. Con ông là Hoàng Hoán được vua Gia Long vời làm quan đến chức Hữu Tham tri bộ Lại. Các hậu duệ ông đều làm quan các triều kế tiếp."
 }

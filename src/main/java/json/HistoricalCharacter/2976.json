@@ -1,16 +1,21 @@
 {
-  "dateOfBirth" : "Canh Tuất 1910",
-  "dateOfDeath" : "Tân Tị 1941",
-  "hometown" : "xã Vịnh Yên, tỉnh Nghệ An (về sau này quen gọi là thị xã Vinh)",
-  "occupation" : "Liệt sĩ cách mạng, lúc nhỏ tên là Vịnh",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
+  "dateOfBirth" : "1711\n----------------------------------------------\nKỉ Dậu 1729\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "1762 (50–51 tuổi) Đông Kinh, Đàng Ngoài, Đại Việt\n----------------------------------------------\nCanh Thân 1740\n----------------------------------------------\nKhông rõ",
+  "hometown" : "người làng Sóc Sơn, huyện Vĩnh Lộc, Thanh Hóa, Việt Nam.\n----------------------------------------------\nnguyên quán làng Sóc Sơn, huyện Vĩnh Lộc, tỉnh Thanh Hóa\n----------------------------------------------\nKhông rõ",
+  "occupation" : "Trịnh Vương\n----------------------------------------------\nChúa thư sáu đời Hậu Lê\n----------------------------------------------\nTước hiệu",
+  "workTenure" : "1729 – 1740\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1729—1740",
+  "fatherName" : {
+    "Trịnh Cương" : null
+  },
+  "motherName" : {
+    "Vũ Thị Ngọc Nguyên" : null
+  },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Trịnh - Nguyễn" : 34,
+    "Đàng Ngoài - Chúa Trịnh" : 26
   },
   "id" : 2976,
-  "entityName" : "Nguyễn Thị Minh Khai",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Thị Minh Khai (1 tháng 11 năm 1910- 28 tháng 8 năm 1941) là nhà cách mạng Việt Nam, một trong những người lãnh đạo Đảng Cộng sản Đông Dương trong giai đoạn 1930-1940.\n----------------------------------------------\nNăm lên 9 tuổi, bắt đầu học chữ Quốc ngữ rồi vào trường tiểu học Cao Xuân Dục. Năm 1927 gia nhập đảng Tân Việt có chân trong Ban chấp hành Đảng bộ. Năm 1930 sang Trung Quốc làm việc ở văn phòng Đông Phương Bộ Quốc tế cộng sản. Năm 1931 bà bị mật thám Pháp bắt ở Hồng Kông, năm 1934 được trả tự do. Trong năm này bà cùng Lê Hồng Phong được cử làm đại biểu chính thức đi dự đại hội lần thứ 7 của Quốc tế cộng sản tại Mạc Tư Khoa. Sau đó họ làm lễ thành hôn. Tại đây bà được vào học trường Đại học Đông Phương Staline. Năm 1936 bà được phân công công tác ở Sài Gòn, tham gia Xứ ủy Nam Kì và phụ trách Bí thư thành ủy Sài Gòn - Chợ Lớn. Tháng 9-1939 chiến tranh thế giới bùng nổ, địch khủng bố trắng, ngày 30-7-1940 bà bị địch bắt. Trong tù bà đã bí mật liên lạc được với tổ chức bên ngoài, tiếp tục lãnh đạo phong trào đấu tranh cách mạng. Ngày 23-11-1940 cuộc khởi nghĩa Nam Kì bùng nổ. Địch vin vào cuộc khởi nghĩa này lấy cớ kết án tử hình một số cán bộ lãnh đạo của Đảng đang bị giam giữ, trong đó có bà và chồng là Lê Hồng Phong. Ngày 28-8-1941 bà bị xử bắn cùng một lần với các đồng chí khác tại Hóc Môn. Hưởng dương 31 tuổi. Khi còn trong nhà tù, bà có mấy câu thơ nói lên ý chí cách mạng của mình: Vững chí bền gan ai hỡi ai! Kiên tâm giữ dạ mới anh tài. Thời cuộc đẩy đưa người chiến sĩ, Con đường cách mạng vẫn chông gai."
+  "entityName" : "Uy Nam Vương",
+  "aliases" : [ "Uy Nam Vương", "Trịnh Giang (鄭杠)", "Uy Nam Vương (威南王)", "Thuận Vương (順王)", "Dụ Tổ (裕祖)" ],
+  "overview" : "Uy Nam vương Trịnh Giang (chữ Hán: 鄭杠, 1711 – 1762), thụy hiệu là Dụ Tổ Thuận vương (裕祖順王), là vị chúa Trịnh thứ 6 thời Lê Trung hưng, ở ngôi từ tháng 10 năm 1729 đến tháng 1 năm 1740. Ông người làng Sóc Sơn, huyện Vĩnh Lộc, Thanh Hóa, Việt Nam.\n----------------------------------------------\nNăm 1729 chúa An Đô vương Trịnh Cương mất, ông được chọn nối ngôi chúa. Đời ông cầm quyền, công việc nội trị ngoại giao đã đi vào con đường bại vong. Các cuộc khởi nghĩa nông dân nổi lên khắp nơi nhằm lật đổ triều đại thối nát độc đoán do ông cầm đầu. Trong nội cung thì nhiều việc xấu xa, bỉ ổi xảy ra hàng ngày. Vào năm 1731, ông tìm cách vu vua Lê Duy Phương tư thông với vợ Trịnh Cương để bức tử ông vua này. Sử cho rằng ông làm chúa \"xa xỉ và hung ác quá độ\" khiến nhân dân căm ghét hơn bao giờ hết. Đến năm Canh thân 1740 ông bị truất ngôi, ở ngôi chúa được 11 năm em là Trịnh Doanh lên thay.\n----------------------------------------------\nTrịnh Giang (chữ Hán: 鄭杠, 14 tháng 10 năm 1711 – 30 tháng 12 năm 1762), còn có tên khác là Trịnh Khương (鄭橿), thụy hiệu là Dụ Tổ Thuận vương (裕祖順王), là vị chúa Trịnh thứ 6 thời Lê Trung hưng trong lịch sử Việt Nam."
 }

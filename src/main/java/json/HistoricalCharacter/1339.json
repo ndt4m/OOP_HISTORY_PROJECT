@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "374",
-  "dateOfDeath" : "423",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "1060\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Quê làng Lũng Động, huyện Chí linh, tỉnh Hải Dương, không rõ năm sinh, năm mất",
+  "occupation" : "Danh sĩ đời Lý Nhân tông",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "nhà Đông Tấn" : null
+    "Nhà Lý" : 14
   },
   "id" : 1339,
-  "entityName" : "Đỗ Tuệ Độ",
-  "aliases" : [ "Đỗ Huệ Độ" ],
-  "overview" : "Đỗ Tuệ Độ hay Đỗ Huệ Độ (tiếng Trung: 杜慧度; bính âm: Dù Huìdù, 374 – 423), sinh quán Chu Sương, Giao Chỉ, nguyên quán Kinh Triệu , là quan nhà Đông Tấn và Lưu Tống trong lịch sử Trung Quốc. Ông giữ chức thứ sử Giao Châu (quan cai trị đứng đầu Giao châu - tức phần lớn lãnh thổ Bắc và Bắc Trung Bộ Việt Nam hiện nay) trải qua 2 triều đại này."
+  "entityName" : "Mạc Hiển Tích",
+  "aliases" : [ ],
+  "overview" : "Mạc Hiển Tích (chữ Hán: 莫顯績, 1060 -?), là người đỗ đầu tại khoa thi năm Quảng Hựu thứ 2 (Bính Dần, 1086) thời vua Lý Nhân Tông .\n----------------------------------------------\nNăm Bính dần 1086 ông đỗ Trạng nguyên, em ông là Mạc Kiến Quan cũng trúng tuyển, anh em đều làm đến Thượng thư ở triều đình. Ông là tổ xa đời của Trạng nguyên Mạc Đĩnh Chi đời nhà Trần và Mạc Đăng Dung cũng thuộc dòng dõi ông. Trong Việt sử chí, truyện Lý Cao tông, có chép một đoạn về Mạc Hiển Tích: Năm Mậu thân 1188, đời Lý Cao tông, Mạc Hiển Tích làm chức Thiếu sư, bị một nhóm người có danh vọng và uy tín chỉ trích hành vi lạm quyền, phi pháp. Vụ tranh chấp kiện cáo dằng co gay gắt. Đầu năm Kỉ dậu 1189 vua Lý Cao giao vụ kiện cho Thái phó Ngô Lý Tín, Đô quan lang trung Lê Năng Trường xét xử. Nhưng cả Thái phó và Đô quan đều sợ Hiển Tích nên không dám truy cứu. Vì lúc bấy giờ, vua còn nhỏ tuổi, Hiển Tích tư thông với thái hậu, khiến nguời đương thời sợ Hiển Tích. Trong dân gian có câu ca châm biếm: \"Ngô phụ quốc thị Lan, Lê đô quan thị Kính. Án nhất tụng Mạc Tích, Đàn cục tích nhi di.\" Nghĩa: Phụ quốc Ngô là Lan, Đô quan Lê là Kính. Xử việc kiện Mạc Tích, Chỉ sợ hãi mà thôi! Đem Thái phó Ngô Lý Tín và Lang trung Lê Năng Trường sánh với tên Lan tên Kính là hai thằng điên thuở ấy thật là sự giễu cợt ngạo mạn, tố cáo rõ nét triều chính nhà Lý suy đồi, dẫn đến cảnh sụp đổ là lẽ tất nhiên."
 }

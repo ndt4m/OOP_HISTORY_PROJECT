@@ -1,17 +1,16 @@
 {
-  "dateOfBirth" : "Mậu Tí 1888",
-  "dateOfDeath" : "Nhâm Tí 1972",
-  "hometown" : "quê thôn Hòa Viên, xã Hành Phước, huyện Nghĩa Hành, tỉnh Quảng Ngãi",
-  "occupation" : "Chí sĩ hiện đại",
+  "dateOfBirth" : "Giáp Dần 1854",
+  "dateOfDeath" : "Nhâm Tí 1912",
+  "hometown" : "Quê xã Đông Sàng, huyện Phúc Thọ, tỉnh Sơn Tây (nay là tỉnh Hà Tây)",
+  "occupation" : "Danh sĩ, ông còn có tên khác nữa là Kiều Dực",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Pháp đô hộ" : 11
   },
   "id" : 1761,
-  "entityName" : "Nguyễn Công Phương",
-  "aliases" : [ ],
-  "overview" : "Năm Ất tị 1905 ông đỗ Nhị trường, nhưng tầy chay kì thi này bỏ về. Ông hoạt động liên tục trong các phong trào yêu nước từ những năm đầu thế kỉ XX. Năm 1930 ông gia nhập Đảng Cộng sản Đông Dương, được cử làm Bí thư huyện ủy, rồi dự bị Bí thư tỉnh ủy Quảng Ngãi. Từ Cách mạng tháng Tám về sau, ông giữ nhiều chức vụ quan trọng của Đảng, Nhà nước và Mặt trận Tổ quốc ở cấp tỉnh, Khu và Trung ương. Ngày 21-8-1972 ông mất, thọ 84 tuổi. Ông có tập hồi kí Một đời và Cách mạng."
+  "entityName" : "Kiều Oánh Mậu",
+  "aliases" : [ "Kiều Dực", "Kiều Cung" ],
+  "overview" : "Ông có tài văn thơ, tự là Tử Yến, hiệu Giá Sơn, đỗ cử nhân năm Kỉ mão 1879, và năm sau Canh thìn 1880, đỗ phó bảng. Ông được bổ làm Tri phủ, ít lâu bị giáng làm Tri huyện. Ông đã ngồi trấn nhậm nhiều nơi, rồi bỏ ấn từ quan, ra giúp việc tại tòa soạn báo Đồng Văn ở Hà Nội. Ngoài việc xuất bản cuốn Đoạn trường tân thanh, ông còn soạn truyện Tì bà, làm thêm hai bản án thổ quan và ngư phủ nối sau tập Kim Vân Kiều án của Nguyễn Văn Thắng. Ông cũng có đề tựa sách Tang thương ngẫu lục, duyệt lại sách Bút toán chỉ nam và soạn sách Bản triều bạn nghịch liệt truyện nói về các vụ khởi nghĩa chống nhà Nguyễn. Năm Nhâm tí 1912, ông mất, thọ 58 tuổi."
 }

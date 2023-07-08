@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Nhâm Thân 1512",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Quê gốc ở làng Châu Khê, huyện Quế Dương, cư ngụ tại làng Dũng Liệt, huyện Yên Phong, tỉnh Bắc Ninh (nay thuộc Bắc Ninh)",
-  "occupation" : "Nhà văn đời Mạc",
+  "dateOfBirth" : "Ất Tị 1905",
+  "dateOfDeath" : "Kỉ Hợi 1959",
+  "hometown" : "quê xã Hòa An, huyện Cao Lãnh, tỉnh Sa Đéc (nay thuộc tỉnh Đồng Tháp)",
+  "occupation" : "Nhà hoạt động cách mạng ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nam - Bắc Triều" : 19
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 412,
-  "entityName" : "Phạm Thiệu",
+  "entityName" : "Phạm Hữu Lầu",
   "aliases" : [ ],
-  "overview" : "Năm Quí sửu 1553 đời Mạc Phúc Nguyên, ông đỗ Hoàng giáp, nổi tiếng văn chương, giỏi việc chính trị, giúp nhà Mạc đắc lực trong việc tổ chức hành chánh, mở mang văn hóa. Ông từng được cử đi sứ nhà Minh (Trung Quốc), làm đến Thượng thư, tước Hầu. Khi về hưu, ông được tặng hàm Thái bảo. Ông là tác giả bộ sách Thi vận tập yếu. Bộ Thi vận tập yếu (2 quyển) do ông biên soạn. Sách là một cuốn tự điển về âm vận dùng trong phép làm thơ, xếp theo vần Trung Quốc. Bộ này ông viết phỏng theo một bộ sách có nhan đề tương tự gồm 5 quyển của Lý Phan Long đời Minh."
+  "overview" : "Năm 1928, ông gia nhập Việt Nam Thanh niên cách mạng Đồng chí hội ở Cao Lãnh, năm 1929 vào ĐCS Đông Dương. Tại Hội nghị hợp nhất 3 đảng cộng sản ở Cửu Long (Trung Quốc) ông được bầu là 1 trong 9 thành viên BCH Trung ương Lâm thời của Đảng CS Đông Dương. Trong giai đoạn 1938-1939 ông phụ trách và viết bài cho báo Dân chúng ở Sài Gòn, cổ vũ cho phong trào cách mạng Việt Nam và thế giới, thường kí tên Racosi. Ông bị bắt đày Côn Đảo 2 lần (1930, 1939). Sau CMT8, từ Côn Đảo về từng được giao nhiệm vụ Bí thư tỉnh đảng bộ Sa Đéc, Bí thư tỉnh ủy Mỹ Tho, Phó Bí Thư khu ủy 8, có chân trong Thường vụ xứ ủy kiêm Giám đốc Công an Nam bộ. Sau hiệp định Genève, 1954 ông được phân công ở lại miền Nam, lãnh nhiệm vụ Bí thư xứ ủy Nam bộ và là ủy viên BCH Trung ương Đảng. Ngày 16-10-1959, do làm việc cật lực, bệnh cũ do hậu quả những năm tháng bị tra tấn, tù đày ở Côn Đảo tái phát, ông từ trần ở Campuchia."
 }

@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Bính Dần 1506",
-  "dateOfDeath" : "Bính Thân 1584",
-  "hometown" : "tại châu Ô, tự là Văn Dụng, hiệu Phước Tâm, sau khi mất được ban thụy là Trường Tự, nguyên quán huyện Tống Sơn tỉnh Thanh Hóa",
-  "occupation" : "Tiền hiền, tổ nghề gốm làng Phước Tích tại châu Ô",
+  "dateOfBirth" : "584",
+  "dateOfDeath" : "606",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
+  "fatherName" : {
+    "Tùy Dạng Đế Dương Quảng" : null
   },
+  "motherName" : {
+    "Mẫn hoàng hậu Tiêu Thị" : null
+  },
+  "eraName" : { },
   "id" : 2182,
-  "entityName" : "Phan Ngọc Lãm",
-  "aliases" : [ "Văn Dụng", "Phước Tâm" ],
-  "overview" : "Khi Nguyễn Hoàng vào châu Ô, ông theo thân phụ (Phan Ngọc Phổ) vào khai nghiệp, lập làng Phước Tích, huyện Hương Trà, tỉnh Thừa Thiên ngày nay. Tại đây, ông và thân phụ cùng đoàn đi dân theo chúa Nguyễn vào đến huyện Hương Trà rồi xuống Cồn Dương (nay là làng Phước Tích) khai khẩn đất đai xây dựng nhà cửa, tổ chức nghề gốm. Từ đó con cháu ngày càng có sản nghiệp dân chúng an cư lạc nghiệp tại vùng đất mới này. Sau khi qua đời được triều đình phong \"Dực Bảo trung hưng linh phò chi thần\" thờ tại đình làng. Ông được nhân dân xưng tụng và tôn là ông tổ nghề gốm xứ Đàng Trong."
+  "entityName" : "Dương Chiêu",
+  "aliases" : [ "Tùy Cung Đế", "Nguyên Đức Vương", "Thế Tông" ],
+  "overview" : "Dương Chiêu (chữ Hán: 楊昭; bính âm: Yang Zhao, 584 - 606), tước vị lúc sống là Nguyên Đức Vương. Ông là con trai của Tùy Dạng Đế Dương Quảng, do ông mất sớm hơn cha mình, nên sau này Dương Quảng nhường ngôi cho con của ông là Dương Hựu, tức Tùy Cung Đế. Mẹ của ông là Mẫn hoàng hậu Tiêu Thị. Sau này, Dương Hựu truy miếu hiệu cho ông là Thế Tông, thụy hiệu đầy đủ là Hiếu Thành hoàng đế."
 }

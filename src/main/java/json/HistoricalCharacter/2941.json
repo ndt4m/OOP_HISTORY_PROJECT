@@ -1,14 +1,18 @@
 {
   "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
+  "dateOfDeath" : "1414",
   "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "occupation" : "Hoàng đế Đại Việt",
+  "workTenure" : "17 tháng 3 năm 1409 – 31 tháng 3 năm 1414 (5 năm, 14 ngày)",
+  "fatherName" : {
+    "Trang Định vương Trần Ngạc" : null
+  },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Nhà Hậu Trần" : 23
+  },
   "id" : 2941,
-  "entityName" : "Trần Bửu Kiếm",
-  "aliases" : [ ],
-  "overview" : "Trần Bửu Kiếm (sinh 1921), sinh quán Cần Thơ, tốt nghiệp Luật tại Hà Nội, tham gia Tổng hội Sinh viên và tham gia giành chính quyền tại Sài gòn năm 1945 trong Cách mạng Tháng Tám. Ông là đảng viên Đảng Dân chủ Việt Nam và Đảng cộng sản. Năm 1960 ông tham gia thành lập Mặt trận Dân tộc giải phóng Miền Nam Việt Nam, sau là thành viên Chính phủ Cách mạng lâm thời Cộng hòa Miền Nam Việt Nam."
+  "entityName" : "Trần Quý Khoáng",
+  "aliases" : [ "Trùng Quang (重光: 1409 - 1414)", "Trần Quý Khoáng", "Trần Quý Khoách" ],
+  "overview" : "Trùng Quang Đế (chữ Hán: 重光帝, ? – 1414) là vị vua thứ hai của triều Hậu Trần trong lịch sử Việt Nam. Ông có tên huý là Trần Quý Khoáng hay Trần Quý Khoách (陳季擴), sinh tại kinh đô Thăng Long, Hà Nội, Việt Nam. Thời gian ở ngôi của Trùng Quang Đế là thời kỳ chống sự đô hộ của nhà Minh sau khi nước Đại Ngu của nhà Hồ bị xâm chiếm."
 }

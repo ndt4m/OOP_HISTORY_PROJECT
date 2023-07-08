@@ -1,18 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
+  "dateOfBirth" : "?, Hoa Lư, Ninh Bình",
+  "dateOfDeath" : "?",
   "hometown" : "Không rõ",
-  "occupation" : "Vua",
-  "workTenure" : "951—954",
+  "occupation" : "Nam Quốc Vương",
+  "workTenure" : "994 - ?",
   "fatherName" : {
-    "Ngô Quyền" : 1285
+    "Lê Đại Hành" : 2974
   },
   "motherName" : { },
   "eraName" : {
-    "Nhà Ngô và Dương Tam Kha" : 25
+    "Nhà Tiền Lê" : 8
   },
   "id" : 1560,
-  "entityName" : "Thiên Sách Vương",
-  "aliases" : [ ],
-  "overview" : "Ngô Xương Ngập (chữ Hán: 吳昌岌; 915? - 954) là một vị vua nhà Ngô, trị vì từ 951 đến 954 cùng với em trai là Ngô Xương Văn. Sử gọi chung đó là thời Hậu Ngô Vương."
+  "entityName" : "Lê Long Mang",
+  "aliases" : [ "Nam Quốc Vương", "Lê Long Mang" ],
+  "overview" : "Lê Long Mang (chữ Hán: 黎龍鋩) là một hoàng tử của nhà Tiền Lê trong lịch sử Việt Nam. Ông là con trai thứ 10 của Vua Lê Đại Hành. Sinh tại kinh đô Hoa Lư, Ninh Bình, Việt Nam. Ông được vua phong tước Nam Quốc Vương(南國王), đóng tại Vu Lung, tức vùng đất thuộc tỉnh Thanh Hóa ngày nay. Căn cứ vào năm sinh người con trai thứ năm của vua Lê Đại Hành (986) và năm phong vương thì năm sinh của ông nằm trong khoảng từ 986 đến 994."
 }

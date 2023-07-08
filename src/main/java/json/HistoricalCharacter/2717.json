@@ -1,20 +1,14 @@
 {
-  "dateOfBirth" : "18 tháng 2, 259 TCN Hàm Đan",
-  "dateOfDeath" : "11 tháng 7, 210 TCN Cự Lộc quận (鉅鹿郡)",
+  "dateOfBirth" : "1 tháng 12, 1920 (96 tuổi) Phú Lộc, Thừa Thiên, Trung Kỳ, Liên bang Đông Dương",
+  "dateOfDeath" : "1991",
   "hometown" : "Không rõ",
-  "occupation" : "Vua nước Tần",
-  "workTenure" : "7 tháng 6 năm 247 TCN – 221 TCN",
-  "fatherName" : {
-    "Tần Trang Tương vương Lã Bất Vi (nghi vấn)" : null
-  },
-  "motherName" : {
-    "Triệu Cơ" : null
-  },
-  "eraName" : {
-    "Nhà Tần" : null
-  },
+  "occupation" : "Thuộc",
+  "workTenure" : "1945–1992",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
   "id" : 2717,
-  "entityName" : "Tần Thủy Hoàng Đế",
-  "aliases" : [ "Thủy Hoàng Đế (始皇帝)" ],
-  "overview" : ""
+  "entityName" : "Lê Đức Anh",
+  "aliases" : [ ],
+  "overview" : "Lê Đức Anh (sinh 1 tháng 12 năm 1920) là Chủ tịch nước thứ 4 của Cộng hòa Xã hội Chủ nghĩa Việt Nam nhiệm kỳ 1992–1997. Ông cũng đồng thời là một tướng lĩnh Quân đội Nhân dân Việt Nam, hàm Đại tướng, từng là Bộ trưởng Bộ Quốc phòng Việt Nam (1987–1991), Tổng Tham mưu trưởng Quân đội Nhân dân Việt Nam (1986–1987)."
 }

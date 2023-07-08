@@ -1,20 +1,16 @@
 {
-  "dateOfBirth" : "542",
-  "dateOfDeath" : "557",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "1600?",
   "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Bắc Chu",
-  "workTenure" : "557",
-  "fatherName" : {
-    "Vũ Văn Thái" : 1115
-  },
-  "motherName" : {
-    "Nguyên phu nhân, nguyên là Phùng Dực công chúa của Tây Ngụy" : null
-  },
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
   "eraName" : {
-    "Bắc Chu" : null
+    "nhà Mạc" : null
   },
   "id" : 2278,
-  "entityName" : "Vũ Văn Giác",
-  "aliases" : [ "Tên thật Vũ Văn Giác (宇文覺)" ],
-  "overview" : "Bắc Chu Hiếu Mẫn Đế (chữ Hán: 北周孝閔帝) (542-557, tại vị: 557) là vị Hoàng đế đầu tiên của nhà Bắc Chu."
+  "entityName" : "Nguyễn Thị Niên",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Thị Niên (chữ Hán: 阮氏年, ? - 1600?) là vợ Sơn quận công Bùi Văn Khuê - tướng nhà Mạc và nhà Lê trung hưng trong lịch sử Việt Nam."
 }

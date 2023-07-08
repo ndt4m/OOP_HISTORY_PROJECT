@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "1902\n----------------------------------------------\nNhâm Dần 1902",
-  "dateOfDeath" : "1931\n----------------------------------------------\nKhông rõ",
-  "hometown" : "quê làng Bạch Mai, huyện Hoàng Long, tỉnh Hà Đông (nay là Hà Nội)",
-  "occupation" : "Tên thật là Nguyễn Văn Sắc, Liệt sĩ",
+  "dateOfBirth" : "Đinh Mùi 1907",
+  "dateOfDeath" : "Ất Mão 1975",
+  "hometown" : "tại Nam Định",
+  "occupation" : "Giáo sư nhà nghiên cứu văn học",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 2263,
-  "entityName" : "Nguyễn Phong Sắc",
-  "aliases" : [ "Nguyễn Văn Sắc" ],
-  "overview" : "Nguyễn Phong Sắc (1902-1931) là một chí sĩ cách mạng Việt Nam. Ông là một trong những thành viên đầu tiên của Chi bộ Cộng sản Bắc Kỳ và một trong những Ủy viên Ban chấp hành Trung ương đầu tiên của Đảng Cộng sản Việt Nam.\n----------------------------------------------\nThuở nhỏ ông học ở Hà Nội, chịu ảnh hưởng của phong trào Duy tân, sau học trường Bưởi. Sau khi tốt nghiệp ông dạy học tư ở trường Thăng Long, nơi đây ông được đọc báo Người cùng khổ (Le Paria), cuốn Bản án chế độ Thực Pháp của Nguyễn Ái Quốc ảnh hưởng đến tư tưởng ông rất nhiều. Năm 1926 ông tham gia phong trào đòi ân xá Phan Bội Châu, để tang Phan Châu Trinh, rồi gia nhập Việt Nam Thanh niên cách mạng đồng chí hội. Năm 1929, ông được bầu vào Kì bộ Bắc Kì, trực tiếp làm Bí thư tỉnh bộ Hà Nội của Việt Nam thanh niên cách mạng đồng chí hội. Sau khi Đông Dương Cộng sản đảng thành lập, ông làm ủy viên Ban Chấp hành trung ương lâm thời. Đến năm 1930 ông trực tiếp chỉ đạo phong trào Xô Viết ở Nghệ Tĩnh. Sau đó, ông trúng cử vào Ban Chấp hành Trung ương Đảng và làm Bí thư xứ ủy Trung Kì. Năm 1931 (ngày 3-5) ông bị mật thám Pháp bắt tại ga Hàng Cỏ, Hà Nội. Sau đó chúng thủ tiêu ông vào ngày nào không rõ."
+  "entityName" : "Nghiêm Toản",
+  "aliases" : [ "Hạo Nhiên" ],
+  "overview" : "Thuở nhỏ học ở trường Thành chung Nam Định, Trung học Bảo hộ, Cao đẳng Sư phạm Đông Dương (Hà Nội), tốt nghiệp năm 1930. Thời còn ở ghế nhà trường (1929-1930) ông tham gia Việt Nam Quốc Dân đảng, bị bắt giam ở Hỏa Lò rồi đày Côn Đảo, sau đó được phóng thích trở về Hà Nội dạy tư và nghiên cứu văn học Việt Nam. Sau năm 1945 ông dạy ở Đại học Văn khoa Hà Nội, cộng tác với các nhà xuất bản Vĩnh Bảo, Sông Nhị, Minh Tân. Từ năm 1954 ông làm giáo sư tại Đại học Văn khoa Sài Gòn chuyên ngành Việt Hán ở miền Nam. Ông từng giữ chức Trưởng ban Việt Hán tại Trường Đại học Văn khoa Sài Gòn nhiều năm. Năm 1968 ông là một trong ba người dạy Đại học Văn khoa không có văn bằng Tiến sĩ được đề bạt vào ngạch giáo sư diễn giảng Đại học. Ông mất năm 1975 tại nhà riêng ở Sài Gòn. Các tác phẩm chính: - Việt Nam văn học sử trích yếu (1949) - Luận văn thị phạm (1951) - Việt luận (1952) - Lão Tử Đạo đức kinh (1959) - Thủy hử (dịch sang tiếng Pháp) - Quelques aspects de la littérature Vietnamienne"
 }

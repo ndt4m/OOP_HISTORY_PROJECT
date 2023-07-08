@@ -1,17 +1,14 @@
 {
-  "dateOfBirth" : "Không rõ",
+  "dateOfBirth" : "sinh năm 1927",
   "dateOfDeath" : "Không rõ",
-  "hometown" : "quê làng Hội Xuyên, huyện Gia Lộc, tỉnh Hải Dương, không rõ năm sinh, năm mất, tước Nghĩa Xuyên Công",
-  "occupation" : "Danh tướng đời Trần, quê làng Hội Xuyên, huyện Gia Lộc, tỉnh Hải Dương",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Nhà Trần" : 15,
-    "nhà Trần" : null
-  },
+  "eraName" : { },
   "id" : 2010,
-  "entityName" : "Nguyễn Chế Nghĩa",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Chế Nghĩa (阮制義, ?-?) là một tướng lĩnh thời nhà Trần.\n----------------------------------------------\nThuở trẻ ông đầu quân dưới trướng Phạm Ngũ Lão, đánh thắng quân Nguyên ở ải Chi Lăng khiến quân giặc phải khiếp sợ. Sau khi thắng quân Nguyên, ông được triều đình cho trấn thủ đất Lạng Sơn (nay huộc tỉnh Lạng Sơn) với chức Khống Bắc đại tướng quân, tước Nghĩa Xuyên hầu. Sự tích ông được chép trong Trần triều hiển thánh chính kinh tập biên."
+  "entityName" : "Nguyễn Văn Lập",
+  "aliases" : [ "Kostas Sarantidis" ],
+  "overview" : "Nguyễn Văn Lập (sinh năm 1927, tên khai sinh Kostas Sarantidis ) là một chiến sĩ quốc tế người Hy Lạp từng đứng trong hàng ngũ Việt Minh chống Pháp. Năm 2013, ông được chủ tịch nước Việt Nam Trương Tấn Sang phong tặng danh hiệu Anh hùng lực lượng vũ trang nhân dân."
 }

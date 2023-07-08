@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Canh Thìn 1940",
-  "hometown" : "quê ở ấp Tân Hội Đông, xã Tân Tạo, tỉnh Chợ Lớn (nay thuộc huyện Bình Chánh, thành phố Hồ Chí Minh)",
-  "occupation" : "Liệt sĩ cách mạng",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth" : "?",
+  "dateOfDeath" : "473 TCN Trung Quốc",
+  "hometown" : "Không rõ",
+  "occupation" : "Vua nước Ngô",
+  "workTenure" : "495 TCN - 473 TCN",
+  "fatherName" : {
+    "Ngô Hạp Lư" : null
   },
+  "motherName" : { },
+  "eraName" : { },
   "id" : 2998,
-  "entityName" : "Lê Công Phép",
-  "aliases" : [ ],
-  "overview" : "Năm 1940, trong cuộc Nam Kì khởi nghĩa ông được cử đứng ra lãnh đạo ủy ban hành động ở Long Hưng hạ. Sau đêm khởi nghĩa ông bị địch bắt giam ở bót Catinat, bi tra tấn cực hình, nhưng ông không khai một lời nào, rồi chúng đem ông xử bắn ngay tại quê nhà. Truớc lúc bị bắn ông bảo đám lính người Việt: \"Các anh cũng là đồng bào Việt Nam, các anh không nên bắn tôi, để cho Tây nó bắn\". Ông còn hô to: \"Cách mạng thành công muôn năm\"."
+  "entityName" : "Ngô Phù Sai",
+  "aliases" : [ "Cơ Phù Sai (姬夫差)", "Cơ Phù Sai", "Ngô Vương Phù Sai" ],
+  "overview" : "Ngô Phù Sai (phồn thể: 吳夫差; ? - 473 TCN) hay Ngô Vương Phù Sai (吳王夫差), tên thật là Cơ Phù Sai (姬夫差), là vị vua thứ 25 của nước Ngô thời Đông Chu trong lịch sử Trung Quốc. Ông trị vì khoảng thời gian 495 TCN đến năm 473 TCN."
 }

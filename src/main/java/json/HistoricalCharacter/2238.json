@@ -1,14 +1,16 @@
 {
   "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
-  "hometown" : "người làng Man Nhuế, huyện Thanh Lâm, thừa tuyên Hải Dương (nay thuộc thôn Mạn Nhuế, thị trấn Nam Sách (xã Thanh Lâm cũ), huyện Nam Sách, tỉnh Hải Dương).",
-  "occupation" : "Không rõ",
+  "hometown" : "quê ở Gia Định (nay thuộc thành phố Hồ Chí Minh)",
+  "occupation" : "Cao tăng đời Minh Mạng, không rõ họ tên, năm sinh, năm mất",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
+  },
   "id" : 2238,
-  "entityName" : "Vũ Tích",
-  "aliases" : [ ],
-  "overview" : "Vũ Dương (chữ Hán: 武暘, ? - ?), có sách chép là Vũ Tích, người làng Man Nhuế, huyện Thanh Lâm, thừa tuyên Hải Dương (nay thuộc thôn Mạn Nhuế, thị trấn Nam Sách (xã Thanh Lâm cũ), huyện Nam Sách, tỉnh Hải Dương). Đỗ Trạng nguyên khoa Quý Sửu, niên hiệu Hồng Đức thứ 24 (1493) . Làm quan đến Hàn lâm Thị thư, đi sứ Trung Quốc, được thăng chức thượng thư bộ Công và được phong tước Hầu. Ông có tham gia nhóm Tao đàn Nhị thập bát Tú của Lê Thánh Tông ."
+  "entityName" : "Giác Ngộ",
+  "aliases" : [ "Giác Ngộ", "Sơn Nhân" ],
+  "overview" : "Ông có tài nhưng không màng danh lợi, vào rừng ở ẩn, ông mặc quần áo toàn bằng lá cây. Một lần vua Minh Mạng cho sứ vời ông vào cung, hỏi thăm đạo lí. Ông đối đáp khiến vua Minh Mạng phải khen ngợi: Thuần nhất bất tạp là \"hòa\", vạn loại xưng tôn là \"thượng\", bậc sơn nhân thật đáng hai chữ ấy. Bèn ban hiệu cho ông là Sơn Nhâm hòa thượng, sắc cho ở chùa Giác Hoàng. Ông lưu ở đấy trong một tháng, rồi tâu xin về núi, tuyệt nhiên không thọ nhận gì của triều đình."
 }

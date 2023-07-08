@@ -1,20 +1,16 @@
 {
-  "dateOfBirth" : "8 tháng 4, 566",
-  "dateOfDeath" : "25 tháng 6, 635 (69 tuổi) Trường An, Đại Đường",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đại Đường",
-  "workTenure" : "18 tháng 6 năm 618 - 4 tháng 9 năm 626 (8 năm, 19 ngày)",
-  "fatherName" : {
-    "Đường Thế Tổ" : null
-  },
-  "motherName" : {
-    "Nguyên Trinh hoàng hậu" : null
-  },
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê xã Phúc Lộc, huyện Lệ Thủy, tỉnh Quảng Bình",
+  "occupation" : "Văn thần đời Mạc",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
   "eraName" : {
-    "Nhà Đường" : null
+    "Nam - Bắc Triều" : 19
   },
   "id" : 2547,
-  "entityName" : "Lý Uyên",
-  "aliases" : [ "Vũ Đức (武德)", "Lý Uyên (李淵)", "Cao Tổ (高祖)", "Thần Nghiêu Đại Thánh Đại Quang Hiếu Hoàng Đế (神堯大聖大光孝皇帝)" ],
-  "overview" : "Đường Cao Tổ (chữ Hán: 唐高祖, 8 tháng 4, 566 – 25 tháng 6, 635), là vị hoàng đế khai quốc của triều Đường trong lịch sử Trung Quốc. Ông trị vì từ năm 618 đến năm 626, tổng cộng 8 năm."
+  "entityName" : "Giáp Cống",
+  "aliases" : [ ],
+  "overview" : "Xuất thân giám sinh, gặp hồi địa phương rối loạn, ông một niềm trung nghĩa, giúp vua trị nước, được quan địa phương lưu ý khen ngợi, định bổ dụng làm quan. Không ngờ đang lúc chờ lệnh đi trấn nhậm, một hôm ông ngồi thuyền về quê nhà thăm mẹ, gặp trận bão nhận chìm thuyền chết đuối. Dân chúng đều thương tiếc."
 }

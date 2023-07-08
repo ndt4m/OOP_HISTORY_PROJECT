@@ -1,14 +1,19 @@
 {
   "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "43",
+  "dateOfDeath" : "113 TCN Nam Việt\n----------------------------------------------\nKhông rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "occupation" : "Hoàng đế Nam Việt\n----------------------------------------------\nVua",
+  "workTenure" : "125 TCN – 113 TCN\n----------------------------------------------\n125—113TCN",
+  "fatherName" : {
+    "Triệu Hồ" : 176,
+    "Triệu Văn Đế" : null
+  },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Nhà Triệu" : 16
+  },
   "id" : 2266,
-  "entityName" : "Trưng Nhị",
-  "aliases" : [ ],
-  "overview" : "Trưng Nhị (chữ Hán: (徵貳; ?-43) là thủ lĩnh chống sự đô hộ của nhà Đông Hán thời Bắc thuộc trong lịch sử Việt Nam. Bà cùng chị là Trưng Trắc đã lãnh đạo người Việt đánh đuổi thái thú Tô Định nhà Đông Hán. Sau khi cuộc khởi nghĩa này bị quân Hán dưới sự chỉ huy của Mã Viện đánh bại, tục truyền rằng vì không muốn chịu khuất phục, bà cùng Trưng Trắc đã nhảy xuống sông tự tử."
+  "entityName" : "Triệu Minh Vương",
+  "aliases" : [ "Triệu Anh Tề (趙嬰齊)" ],
+  "overview" : "Triệu Minh Vương (趙明王), húy Triệu Anh Tề (趙嬰齊) là vị vua thứ ba nhà Triệu nước Nam Việt, ở ngôi từ năm 125 TCN đến 113 TCN."
 }

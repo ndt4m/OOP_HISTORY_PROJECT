@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê ở thôn Phúc Nghĩa, tỉnh Sơn Tây (nay là Sơn Tây)",
-  "occupation" : "Hào kiệt trong thời Trưng vương",
+  "dateOfBirth" : "Quí Mão 1903",
+  "dateOfDeath" : "Canh Ngọ 1930",
+  "hometown" : "quê làng Thịnh Hào (Đại Li) cách Hà Nội độ một cây số (nằm phía sau đường Hàng Bột)",
+  "occupation" : "Nữ liệt sĩ cận đại, tên riêng là Chuyên, con thứ ba của chí sĩ Đỗ Văn Viêm",
   "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "fatherName" : {
+    "chí sĩ Đỗ Văn Viêm" : null
+  },
   "motherName" : { },
   "eraName" : {
-    "Trưng Nữ Vương" : 10
+    "Pháp đô hộ" : 11
   },
   "id" : 1258,
-  "entityName" : "Đinh Lượng",
-  "aliases" : [ ],
-  "overview" : "Ông giỏi võ nghệ, tính hào hiệp, nổi tiếng anh hùng. Tương truyền: nghe đồn cô gái Phùng Thị Chính là bậc nữ trung hào kiệt ông đến viếng thăm thử tài, rồi nên duyên chồng vợ. Khi Hai bà Trưng lãnh đạo cuộc khởi nghĩa, vợ chồng ông hưởng ứng, oanh liệt chống xâm lăng. Nhất là vợ ông lắm phen vào sinh ra tử, quyết chí liều mình đuổi giặc. Đến lúc thế cùng, Trưng vương tuẫn tiết vợ ông cũng tử tiết, ông đánh nhau với giặc một trận cuối cùng đẫm máu, bỏ mình trong trận."
+  "entityName" : "Đỗ Thị Tâm",
+  "aliases" : [ "Đỗ Chân Thiết" ],
+  "overview" : "Cô gia nhập Việt Nam Quốc dân đảng lãnh trách nhiệm tuyên truyên và mang truyền đơn phổ biến nhiều nơi. Tháng 3 năm 1930, cô bị bắt trong khi rải truyền đơn sau Giám, chịu cực hình tra tấn, nhưng vẫn một mực không khai. Cuối cùng cô xé vải yếm nhét dần vào họng, cho đến khi nghẹt thở mà chết, mới 27 tuổi."
 }

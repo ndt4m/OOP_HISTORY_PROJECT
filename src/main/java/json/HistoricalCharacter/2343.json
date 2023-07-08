@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Tân Dậu 1861",
-  "dateOfDeath" : "Kỉ Dậu 1909",
-  "hometown" : "tại Cù lao Giêng, tỉnh An Giang (nay thuộc huyện Phú Châu, tỉnh An Giang)",
-  "occupation" : "Tay sai thực dân Pháp, con Trần Bá Lộc (là tay chân thân Pháp, sát hại rất nhiều lương dân, nghĩa sĩ Việt Nam)",
+  "dateOfBirth" : "1532",
+  "dateOfDeath" : "1597",
+  "hometown" : "người làng Tây Đam, nay là xã Tây Tựu, huyện Từ Liêm, Hà Nội, Việt Nam.",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "nhà Lê" : null
   },
   "id" : 2343,
-  "entityName" : "Trần Bá Thọ",
-  "aliases" : [ "Joseph" ],
-  "overview" : "Thuở nhỏ được quan thầy cho sang Pháp học vì cha Thọ từng giết hại nhiều sinh linh người Việt nên được Pháp thưởng \"mề đay điều\" (Commandeur de lá Légion d'Honneur). Học xong, về nước làm quan nhiều nơi ở miền Nam đến chức Đốc phủ sứ. Khi làm tay sai cho Pháp, ông ta bị sạt nghiệp vì khai khẩn đất hoang; thiếu nợ ngân hàng nên gia tài bị phát mãi. Nhục nhã bị quan thầy bỏ rơi, chủ nợ kiện tịch thu tài sản... Phẫn chí, Thọ dùng súng lục tự tử năm 1909. Trước khi chết C.K có gởi cho ông ta bài thơ có nhan đề: Gởi cho Trần Bá... trước 15 ngày đùng Vững cầm đức cậy cựu tri ôi! Chúa thử lòng mình một ít thôi, Ép chí, nghe lời qua khổ ải, Đừng xui chước quỉ khốn vô hồi. Các em của Thọ: Trần Bá Tường làm huyện ở Cai Lậy; Đốc phủ ở Cần Thơ chết năm 1882; Nicolas Trần Bá Hữu làm huyện ở Long Thành (thuộc Biên Hòa) bị nghĩa quân giết tại nhiệm sở."
+  "entityName" : "Nguyễn Hữu Liêu",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Hữu Liêu (阮有僚, 1532-1597) là tướng nhà Lê trung hưng trong lịch sử Việt Nam. Ông là người làng Tây Đam, nay là xã Tây Tựu, huyện Từ Liêm, Hà Nội, Việt Nam. Ông có công đánh đổ nhà Mạc, giúp nhà Lê trung hưng."
 }

@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "937\n----------------------------------------------\nĐinh Dậu 937",
-  "hometown" : "Không rõ",
-  "occupation" : "Danh tướng có sách chép là Dương Đình Nghệ",
+  "dateOfBirth" : "1776\n----------------------------------------------\nBính Thìn 1916",
+  "dateOfDeath" : "1798\n----------------------------------------------\nBính Ngọ 1966",
+  "hometown" : "quê xã Hanh Thông quận Gò Vấp, tỉnh Gia Định, nay thuộc Thành phố Hồ Chí Minh",
+  "occupation" : "Liệt sĩ cách mạng",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Xây nền tự chủ" : 12
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 140,
-  "entityName" : "Dương Diên Nghệ",
-  "aliases" : [ "Dương Đình Nghệ" ],
-  "overview" : "Dương Đình Nghệ (chữ Hán: 楊廷藝), có sách như Việt Nam sử lược của Trần Trọng Kim chép là Dương Diên Nghệ (楊筵藝, ?-937) , người Ái châu, làm tướng cho Khúc Hạo. Đời Hậu Lương, Lưu Nghiễm của nước Nam Hán tiếm hiệu vua ở đất Quảng Châu, lấy cớ Khúc Hạo chiếm cứ đất Giao Châu, sai Lý Khắc Chính và Lý Tri Thuận đánh chiếm Giao Châu. Con trai Khúc Hạo là Khúc Thừa Mĩ bị bắt. Dương Đình Nghệ dấy binh đánh bại Lý Khắc Chính. Vua Nam Hán cho Lý Tiến thay làm Thứ sử Giao Châu, Dương Đình Nghệ lại vây hãm. Vua Nam Hán sai Trần Bảo đem quân cứu Lý Tiến, Dương Đình Nghệ đón đánh chém Trần Bảo, giữ thành, xưng là Tiết độ sứ. Được 8 năm, Dương Đình Nghệ bị nha tướng Kiều Công Tiễn làm phản, giết chết lên thay.\n----------------------------------------------\nNăm Tân mão 931, ông hưng binh, đánh tan quân đội của Thứ sử Lý Khắc Chính và Lý Tiến. Nhà Nam Hán sai Trần Bảo đem quân sang. Ông đón đánh, chém luôn Trần Bảo. Với chiến công lẫy lừng đó ông được nhân dân tin phục, suy tôn ông làm Tiết độ sứ. Ông mến tài viên thuộc tướng Ngô Quyền, gả con cho và cho trấn giữ Ái châu. Được 6 năm, một đêm, ông bị tên thuộc hạ là Kiều Công Tiễn phân bội ám sát chết. Ngô Quyền hay tin, lập tức kéo binh và đánh giết Kiều Công Tiễn dựng ra nhà Ngô. So với Triệu Quang Phục trong đời Tiền Lý, Dương Diên Nghệ thật đáng liệt ngang hàng."
+  "entityName" : "Nguyễn Văn Bảo",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Văn Bảo (阮文寶, 1776 - 1798): hay còn gọi là Nguyễn Bảo(阮寶), Tiểu triều vị vua bị phế truất của triều Tây Sơn.\n----------------------------------------------\nNăm 1946, làm chủ nhiệm Mặt trận Việt Minh tỉnh Gia Định. Sau chuyển qua hoạt động quân sự, cấp bậc Đại tá kiêm Chính ủy sư đoàn 330. Sau hiệp định Genève ông ở lại miền Nam hoạt động, giữ chức Chính ủy bộ chỉ huy Đặc khu Sài Gòn - Gia Định. Ông hi sinh ngày 9-1-1966 tại Củ Chi."
 }

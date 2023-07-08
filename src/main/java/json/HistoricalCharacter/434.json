@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "17 tháng 3, 1913 Vinh, Nghệ An, Liên bang Đông Dương",
-  "dateOfDeath" : "1 tháng 7, 2006 (93 tuổi) Hà Nội, Việt Nam",
-  "hometown" : "Không rõ",
-  "occupation" : "Thuộc",
-  "workTenure" : "1945–1986",
+  "dateOfBirth" : "Đinh Sửu 1673",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Phù Lưu, hạt Đông Sơn",
+  "occupation" : "Văn thần đời Lê Thần tông",
+  "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
   "id" : 434,
-  "entityName" : "Chu Huy Mân",
+  "entityName" : "Lại Đăng Tiến",
   "aliases" : [ ],
-  "overview" : "Chu Huy Mân (1913–2006) là một chính khách và tướng lĩnh Quân đội Nhân dân Việt Nam, hàm Đại tướng. Ông từng giữ chức Ủy viên Bộ Chính trị, Phó Chủ tịch Hội đồng Nhà nước, Chủ nhiệm Tổng cục Chính trị Quân đội Nhân dân Việt Nam."
+  "overview" : "Năm Vĩnh thọ 4 (Tân sửu 1661) ông 24 tuổi, đỗ Tam giáp đồng Tiến sĩ. Làm quan đến chức Đề hình, sau khi chết được tặng Tham chính. Đương thời được sĩ phu trọng vọng."
 }

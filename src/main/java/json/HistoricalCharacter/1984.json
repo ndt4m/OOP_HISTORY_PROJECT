@@ -1,21 +1,16 @@
 {
-  "dateOfBirth" : "3 tháng 8 năm 1872 Huế, Đại Nam\n----------------------------------------------\nNhâm Thân 1872\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "4 tháng 1, 1943 (71 tuổi) Alger, Algérie, Pháp\n----------------------------------------------\nQuí Mùi 1943\n----------------------------------------------\nKhông rõ",
-  "hometown" : "Thừa Thiên-Huế\n----------------------------------------------\nKhông rõ",
-  "occupation" : "Hoàng đế Đại Nam\n----------------------------------------------\nHoàng tử, con Kiến Thái vương Nguyễn Phúc Hồng Cai, em ruột Nguyễn Phúc Ưng Đăng \n----------------------------------------------\nHoàng đế",
-  "workTenure" : "2 tháng 8 năm 1884 – 1885\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1884–1885",
-  "fatherName" : {
-    "Nguyễn Phúc Hồng Cai" : null
-  },
-  "motherName" : {
-    "Phan Thị Nhàn" : null
-  },
+  "dateOfBirth" : "Quí Dậu 1933",
+  "dateOfDeath" : "Đinh Mùi 1967",
+  "hometown" : "quê xa Tân Sơn Nhì, quận Tân Bình, tỉnh Gia Định (nay thuộc thành phố Hồ Chí Minh)",
+  "occupation" : "Liệt sĩ hiện đại, chiến sĩ đặc công nội thành",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nhà Nguyễn" : null
+    "Nước Việt Nam mới" : 29
   },
   "id" : 1984,
-  "entityName" : "Nguyễn Phúc Ưng Lịch",
-  "aliases" : [ "Hàm Nghi", "Hàm Nghi (咸宜)", "Nguyễn Phúc Ưng Lịch Nguyễn Phúc Minh" ],
-  "overview" : "Hàm Nghi (chữ Hán: 咸宜; 3 tháng 8 năm 1872 – 4 tháng 1 năm 1943), tên thật Nguyễn Phúc Ưng Lịch (阮福膺?), là vị Hoàng đế thứ tám của nhà Nguyễn, triều đại phong kiến cuối cùng trong lịch sử Việt Nam.\n----------------------------------------------\nKhi vua Kiến Phúc bị đầu độc chết, ông được Nguyễn Văn Tường, Tôn Thất Thuyết đưa lên ngôi, lấy hiệu năm là Hàm Nghi, nên cũng gọi là vua Hàm Nghi. Ông không phải là con nuôi của vua Tự Đức nên không liên can gì đến ngai vàng. Sở dĩ ông được chọn làm vua vì còn nhỏ tuổi. Vả lại lúc đó khó tìm ra người hoàng tộc đủ điều kiện để làm vua. Lẽ ra Ưng Ki (sau này là vua Đồng Khánh) được nối ngôi, nhưng ông này không được cảm tình của Tường và Thuyết. Ngày 23-5-1885, Tôn Thất Thuyết đánh úp quân Pháp tại kinh thành, thất bại, ông bỏ kinh thành lập chiến khu ở Tân Sở (thuộc Cam Lộ, tỉnh Quảng Trị) xuống lệnh Cần vương tổ chức đánh Pháp cứu nước. Nhân dân trong nước đều hưởng ứng. Lúc đó, ông lập chiến khu ở huyện Tuyên Hóa (tỉnh Quảng Bình), nghĩa quân theo về rất đông như Tôn Thất Đạm, Tôn Thất Thiệp, Lê Trực... lực lượng nghĩa quân gây thiệt hại nhiều cho quân Pháp. Ngày 26-9 năm Mậu tí 1888, ông bị Trương Quang Ngọc phản bội bắt về nộp cho Pháp. Trong vòng vây quân thù, ông cầm thanh gươm đưa cho Ngọc và bảo rằng: \"Mày giết ta đi, còn hơn đưa tao về nộp cho Tây\". Sau đó Pháp đưa ông về Thuận An, rồi đưa lên tàu Biên Hòa đày sang Algérie, các cận thần của ông kẻ bị Pháp bắt, người trốn vào rừng tổ chức nghĩa quân tiếp tục kháng chiến, Tôn Thất Đạm uống thuốc tự tử trong chiến khu. Vì cả ba anh em ông đều bị làm vua, nên dân gian hồi đó có câu hát: Một nhà sinh đặng ba vua, Vua còn, vua mất, vua thua chạy dài (Vua còn là vua Đồng Khánh, vua mất là vua Kiến Phúc, vua thua tức vua Hàm Nghi). Sau đó Trương Quang Ngọc được Pháp thưởng một số tiền lớn, phong làm Lãnh binh của đạo quân tay sai. Nhưng chẳng bao lâu, Ngọc bị nghĩa quân Phan Đình Phùng giết chết tại nhà ông ta để làm gương cho những ai làm tay sai cho Pháp. Vua Hàm Nghi mất ở Algérie vào năm 1943, hưởng thọ 71 tuổi.\n----------------------------------------------\nHàm Nghi (chữ Hán: 咸宜 3 tháng 8 năm 1871 – 14 tháng 1 năm 1943), thụy hiệu Xuất Đế (出帝), tên thật Nguyễn Phúc Ưng Lịch (阮福膺\uD85F\uDC21), là vị hoàng đế thứ tám của nhà Nguyễn, triều đại phong kiến cuối cùng trong lịch sử Việt Nam."
+  "entityName" : "Bành Văn Trân",
+  "aliases" : [ ],
+  "overview" : "Năm 16 tuổi ông phải đi vắt sữa bò thuê để nuôi cha giúp mẹ. Vừa tuổi thanh niên ông tham gia chống chính quyền Sài Gòn đuổi dân lấy đất mở rộng sây bay Tân Sơn Nhất, rồi gia nhập đội đặc công. Năm 1965 được phân công làm chính trị viên một đơn vị, đã chỉ huy và tham gia đánh nhiều trận, quan trọng nhất là trận đánh sân bay đêm 2-12-1966, phá hủy 200 máy bay hiện đại, hàng chục xe quân sự, tiêu diệt và làm bị thương rất nhiều sĩ quan và binh sĩ Mỹ, một số lớn sĩ quan và binh sĩ Sài Gòn, làm chấn động chính quyền Mỹ, được tuyên dương Anh hùng lực lượng vũ trang nhân dân tháng 9-1967 Sau đó ông bị bắt, bị đày đi Côn Đảo và bị sát hại ở đó."
 }

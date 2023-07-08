@@ -1,17 +1,16 @@
 {
   "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
-  "hometown" : "quê thôn Hậu Ái, tổng Phương Canh, huyện Từ Liêm, tỉnh Hà Đông (nay là Hà Tây)",
-  "occupation" : "Đại thần đời Lý Cao tông",
+  "hometown" : "Thừa Thiên-Huế",
+  "occupation" : "Có sách chép là Cao Hữu Bằng ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Lý" : 14,
-    "nhà Lý" : null
+    "Nhà Nguyễn độc lập" : 30
   },
   "id" : 2657,
-  "entityName" : "Đỗ Kính Tu",
-  "aliases" : [ "Lý Kính Tu" ],
-  "overview" : "Đỗ Kính Tu hay Lý Kính Tu (?-?) là một đại thần nhà Lý trong lịch sử Việt Nam.\n----------------------------------------------\nSau khi Thái úy Tô Hiến Thành mất, ông làm đến Quốc sư phụ chính. Sau khi Cao tông mất, ông chịu mạng vua phù lập Huệ tông nên được cho theo họ vua. Vì vậy còn gọi là Lý Kính Tu. Để tránh lụt lội cho quê ông, ông cho đào ngòi Hương Khê từ Đồng Chầm thuộc thôn Hậu ái, qua địa phận các thôn Kim Hoàng, An Trai, Hòe Thị, Thị Cấm, đến cửa chùa Linh ứng phóng ra Nhuệ giang, dài ước 2000 thước. Có người mưu hại ông gièm với Lý Huệ tông rằng ông sắp đặt để mượn cớ thỉnh vua du ngoạn, rồi gây biến loạn. Huệ tông tin thật ông bị ngờ oan, phẫn uất, cỡi ngựa đến Nhị Hà. thúc ngựa nhào xuống sông tự tử. Huệ tông hối hận, truy phong ông làm phúc thần, sắc cho thôn Hậu Ái lập đền thờ, về sau vẫn còn di tích."
+  "entityName" : "Cao Hữu Dục",
+  "aliases" : [ "Cao Hữu Bằng" ],
+  "overview" : "Danh thần đời Minh Mạng, quê xã Thế Chí, huyện Phong Điền, tỉnh Thừa Thiên. Năm Ất dậu 1825, đỗ hương tiến, làm đến Thượng thư bộ Binh, rồi quản lí cơ vụ thành Trấn Tây. Có lần phạm lỗi sơ thất, ông phải giáng làm Viên ngoại lang bộ Binh, nhưng sung chức Hiệp tân. Đầu đời Thiệu Trị (Mậu thân 1848), ông quyền lĩnh bố chánh sứ An Giang. Rồi vì việc thất thủ thành Trấn Tây, ông lại bị giáng chức, nhưng vẫn quyền lĩnh án sát sứ An Giang. Ít lâu, lại bổ làm Tuyên phủ sứ Tây Ninh, rồi thăng Tổng đốc An Hà. Khi mất, được truy tặng Hiệp biện đại học sĩ, con ông là Hữu Sung làm đến Tuần phủ. Ông là tác giả tuồng (Nôm): Địch Thanh li Thợn (1918)."
 }

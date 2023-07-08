@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Ất Dậu 1885",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "tại Hà Nội (nay vẫn thuộc TP",
-  "occupation" : "Tổng đốc, Nhà doanh điền cuối triều Nguyễn",
+  "dateOfBirth" : "Mậu Thân 1908",
+  "dateOfDeath" : "Tân Mão 1951",
+  "hometown" : "quê xã Tây Nỗ, huyện Hoài Đức, ngoại thành Hà Nội, tham gia hoạt động cách mạng lúc còn trẻ tuổi",
+  "occupation" : "Nhà hoạt động cách mạng",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 627,
-  "entityName" : "Bùi Thiện Căn",
-  "aliases" : [ ],
-  "overview" : "Xuất thân trong một gia đình quan lại, con trai ông Bùi Khánh Diễn, cựu cố vấn Tòa Thượng thẩm Hà Nội, anh trai Tổng đốc Hải Dương Bùi Thiện Cơ và là thân phụ luật sư Bùi Tường Chiểu (luật sư Tòa Thượng thẩm Hà Nội), kĩ sư Bùi Tường Viên (kĩ sư ngành gốm sứ cao cấp ở Trường Mĩ thuật) và ông Bùi Tường Hách (Thanh tra sở Thủy lâm). Khi làm quan ở Ninh Bình, ông có công cho xây một con đê ngăn nước mặn ở Kim Sơn và lấn biền lập các làng mới ở tổng Tuy Lộc, huyện Kim Sơn. Khi ở Ninh Giang (Hải Dương), ông cũng cho đào một con kênh dài hơn 1 km để đem nước ngọt vào tưới ruộng cho tổng Văn Hội giúp nông dân có điều kiện canh tác. Lúc trấn nhiệm ở tỉnh Phú Thọ, ông cho thiết lập hơn 700 khu tá canh nhỏ ở các địa phương trong tỉnh và khuyến khích công cuộc mở đồn điền trồng chè và góp công vào việc xây dựng đường sá giúp cho việc giao thông thuận lợi. Nhờ vậy sản lượng chè Phú Thọ lên rất cao và nổi tiếng trên thị trường chè Đông Dương. Ông được Nam triều và chính phủ Pháp tặng nhiều bội tinh."
+  "entityName" : "Trịnh Đình Trọng",
+  "aliases" : [ "Nguyễn Hữu Phú" ],
+  "overview" : "Đầu năm 1941 ông bị Pháp bắt xử tù chung thân đày đi Sơn La, đến năm 1944 đày ra Côn Đảo. Sau CMT8 ông và các đồng chí được đón về đất liền phục vụ trong quân đội rồi làm bí thư Thành ủy Thành phố Sài Gòn - Chợ Lớn. Năm 1947 ông làm phó giám đốc sở Thông tin Nam bộ, rồi làm việc ở Ban Tuyên huấn xứ ủy Nam Kì. Ông mất vì bệnh nặng ngày 25-7-1951 tại Bạc Liêu."
 }

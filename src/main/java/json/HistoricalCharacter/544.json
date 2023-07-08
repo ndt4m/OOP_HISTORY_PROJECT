@@ -1,16 +1,19 @@
 {
-  "dateOfBirth" : "Nhâm Thìn 1652",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê làng Thượng Tốn, huyện Gia Lâm, tỉnh Bắc Ninh (nay là Hà Nội)",
-  "occupation" : "Văn thần đời Lê Hi tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "dateOfBirth" : "…\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "Kí Dậu 1729\n----------------------------------------------\nKhông rõ",
+  "hometown" : "quán làng Sóc Sơn, huyện Vĩnh Lộc, tỉnh Thanh Hóa\n----------------------------------------------\nKhông rõ",
+  "occupation" : "Chúa thứ năm đời hậu Lê\n----------------------------------------------\nTước hiệu",
+  "workTenure" : "1709—1729",
+  "fatherName" : {
+    "Trịnh Bính" : null
+  },
   "motherName" : { },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34
+    "Trịnh - Nguyễn" : 34,
+    "Đàng Ngoài - Chúa Trịnh" : 26
   },
   "id" : 544,
-  "entityName" : "Đỗ Công Bật",
-  "aliases" : [ ],
-  "overview" : "Năm Ất sửu 1685, ông đỗ Tam giáp tiến sĩ, làm Lễ khoa cấp sự trung. Sau, tăng Đô cấp sự trung. Con ông là Đỗ Công Đỉnh cũng có danh tiếng. Ông và một nhóm danh sĩ có đóng góp một phần lớn trong bộ Quốc sử thực lục chép từ năm đầu hiệu Cảnh Trị (Quí mão 1663) đời Lê Huyền tông, cho đến năm Đức Nguyên 2 (Ất mão 1675) cuối đời Lê Gia tông, tất cả 13 năm, do Lê Hi và Nguyễn Quí Đức biên soạn."
+  "entityName" : "An Đô Vương",
+  "aliases" : [ "An Đô Vương" ],
+  "overview" : "Năm 1709 chúa Trịnh Căn mất, ông được nối ngôi chúa trở thành chúa thứ năm thời vua Lê. Đời ông các cuộc chiến tranh giữa hai miền tạm hòa hoãn, nên việc nội trị tương đối yên ổn, thuế khóa, sưu dịch tương đối có kỉ cương. Việc thương mại giữa các địa phương trong nước có quan \"Giám đương\" chăm nom. Ông mất năm Kỉ dậu 1729, ở ngôi chúa được 21 năm.\n----------------------------------------------\nTrịnh Cương (chữ Hán: 鄭棡, 9 tháng 7 năm 1686 – 20 tháng 12 năm 1729), còn có tên khác là Trịnh Chù, thụy hiệu là Hy Tổ Nhân vương (禧祖仁王), là vị chúa Trịnh thứ 5 dưới thời Lê Trung Hưng trong lịch sử Việt Nam."
 }

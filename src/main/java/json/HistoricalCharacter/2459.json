@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "sinh ngày 31 tháng 3 năm 1942",
+  "dateOfBirth" : "Đinh mùi 1667",
   "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "hometown" : "quê làng Bình Lộ, huyện La Sơn, tỉnh Hà Tĩnh",
+  "occupation" : "Danh sĩ đời Lê Hiển tông",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
   "id" : 2459,
-  "entityName" : "Nguyễn Văn Hảo",
+  "entityName" : "Hoàng Dật",
   "aliases" : [ ],
-  "overview" : "Nguyễn Văn Hảo (sinh ngày 31 tháng 3 năm 1942) nhà kinh tế Việt nam, từng là Thống đốc Ngân hàng và Phó Thủ tướng của Việt Nam Cộng hòa trước ngày 30 tháng 4 năm 1975. Ông tốt nghiệp kinh tế tại một đại học Thụy Sĩ."
+  "overview" : "Năm Mậu dần 1698, ông 32 tuổi, đỗ tứ trường, rồi đỗ đầu khoa Hoành từ. Ông hay chữ và hay Nôm, nổi tiếng văn thơ, nhưng thi Hội không đỗ. Bất đắc chí, từ quan về, mở trại ở ẩn nơi núi Canh, thuộc làng Gia Hanh (tức Bào Khê). Ông đọc rộng, biết nhiều, dạy học trò đông hàng trăm người, nhiều nguời thành đạt. La Sơn phu tử Nguyễn Thiếp chịu ảnh hưởng của ông và sau này La Sơn như sống lại đời ông."
 }

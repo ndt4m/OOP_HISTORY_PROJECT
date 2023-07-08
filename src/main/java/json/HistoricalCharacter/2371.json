@@ -1,21 +1,14 @@
 {
-  "dateOfBirth" : "5 tháng 5, 1488 Đông Kinh\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "1 tháng 12, 1509 (21 tuổi) cửa Lệ Cảnh, Đông Kinh\n----------------------------------------------\nKhông rõ",
+  "dateOfBirth" : "Tháng 6, 1931 (86 tuổi]] Thừa Thiên, Việt Nam",
+  "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua",
-  "workTenure" : "1504 - 1509\n----------------------------------------------\n1504–1509",
-  "fatherName" : {
-    "Lê Hiến Tông" : 585
-  },
-  "motherName" : {
-    "Chiêu Nhân Duệ hoàng hậu" : null
-  },
-  "eraName" : {
-    "Nhà Hậu Lê – giai đoạn Lê sơ" : 20,
-    "Nhà Lê sơ" : null
-  },
+  "occupation" : "Thuộc",
+  "workTenure" : "1951-1975",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
   "id" : 2371,
-  "entityName" : "Lê Uy Mục",
-  "aliases" : [ "Lê Tuấn (黎濬) Lê Huyên (黎諠) Lê Nghị (黎誼)", "Đoan Khánh (端慶)", "Mẫn Lệ công (愍厲公) Uy Mục hoàng đế (威穆皇帝)" ],
-  "overview" : "Lê Uy Mục (chữ Hán: 黎威穆; 5 tháng 5, 1488 – 1 tháng 12, 1509), đôi khi còn gọi là Mẫn Lệ công (愍厲公), là vị hoàng đế thứ tám của nhà Lê sơ trong lịch sử Việt Nam. Ông được xem là một vị Hoàng đế tàn bạo và hoang dâm, nổi tiếng là một bạo chúa, người đời gọi là Quỷ vương (鬼王).\n----------------------------------------------\nLê Uy Mục (chữ Hán: 黎威穆; 5 tháng 5 năm 1488 – 1 tháng 12 năm 1509), đôi khi còn gọi là Mẫn Lệ công (愍厲公), là vị hoàng đế thứ tám của nhà Lê sơ trong lịch sử Việt Nam. Trong thời gian trị vì của mình, ông chỉ dùng một niên hiệu là Đoan Khánh, ông được xem là một vị hoàng đế tàn bạo và hoang dâm, nổi tiếng là một bạo chúa, người đời gọi là Quỷ vương (鬼王)."
+  "entityName" : "Phan Đình Niệm",
+  "aliases" : [ ],
+  "overview" : "Phan Đình Niệm (1931), nguyên là một tướng lĩnh Bộ binh của Quân lực Việt Nam Cộng hòa, cấp bậc Thiếu tướng. Ông xuất thân từ những khóa đầu tiên tại trường Võ bị Liên quân được Chính phủ Quốc gia mở ra tại nam Cao nguyên Trung phần dưới sự cố vấn và huấn luyện của Quân đội Pháp. Ra trường ông được chọn về đơn vị Bộ binh. Ông đã tuần tự giữ những chức vụ từ Trung đội trưởng cho đến Chỉ huy cấp Sư đoàn. Trong thời gian tại ngũ, ông còn được bổ nhiệm vào các chức vụ thuộc lĩnh vực Quân huấn và Hành chính Quân sự"
 }

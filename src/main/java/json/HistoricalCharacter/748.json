@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "15 tháng 5, 1957 (63 tuổi) Hà Nội, Việt Nam Dân chủ Cộng hòa",
+  "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Thuộc",
-  "workTenure" : "1976 – nay",
+  "hometown" : "quê xã Côi Trì, huyện Yên Mô, tỉnh Ninh Bình (nay là xã Yên Mĩ, huyện Tam Điệp, tỉnh Ninh Bình)",
+  "occupation" : "Danh sĩ đời Lê Hiển tông",
+  "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
   "id" : 748,
-  "entityName" : "Nguyễn Chí Vịnh",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Chí Vịnh (sinh năm 1957) là sĩ quan cấp cao của Quân đội Nhân dân Việt Nam, hàm Thượng tướng. Ông hiện là Thứ trưởng Bộ Quốc phòng Việt Nam phụ trách ngoại giao, tình báo, công tác gìn giữ hòa bình. Trong Đảng Cộng sản Việt Nam, ông là Ủy viên Trung ương Đảng khóa XI, XII, Ủy viên Thường vụ Quân ủy Trung ương. Ông từng giữ chức vụ Tổng cục trưởng Tổng cục 2 , lãnh đạo công tác tình báo quân đội trong vòng gần 8 năm từ 2002 đến 2009."
+  "entityName" : "Ninh Sản",
+  "aliases" : [ "Hi Tăng", "Dã Hiên" ],
+  "overview" : "Ông học rộng tài cao nhưng không tham luyến công danh, ở ẩn nơi thôn quê sống đời thanh đạm, bình dị. Đức độ của ông được nhân dân cảm phục, sĩ phu khen ngợi là hiền triết. Bạn tâm giao của ông là tiến sĩ Võ Huy Đĩnh. Em ông là Ninh Địch, con ông là Ninh Tốn đều là bậc có danh tiếng trong lịch sử nước nhà. Ông có soạn các sách: - Vũ vu thiển thuyết - Phong vịnh tập"
 }

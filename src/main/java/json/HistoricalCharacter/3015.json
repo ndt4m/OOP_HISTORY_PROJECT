@@ -1,14 +1,18 @@
 {
-  "dateOfBirth" : "sinh năm 1956",
-  "dateOfDeath" : "Không rõ",
+  "dateOfBirth" : "Tuy Viễn (Tây Sơn, Bình Định)",
+  "dateOfDeath" : "10/7/1802 (tức 16 tháng 6 năm Nhâm Tuất) thành cổ Xương Giang",
   "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "occupation" : "Chính cung Hoàng hậu nhà Tây Sơn",
+  "workTenure" : "1791 - 1792",
+  "fatherName" : {
+    "Bùi Đức Lương" : null
+  },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "nhà Tây Sơn" : null
+  },
   "id" : 3015,
-  "entityName" : "Hoàng Dũng",
-  "aliases" : [ ],
-  "overview" : "Hoàng Dũng là một diễn viên, đạo diễn điện ảnh và đạo diễn kịch nói Việt Nam. Ông sinh năm 1956 tại Hà Nội và từng giữ chức Giám đốc Nhà hát kịch Hà Nội (2007-2017). Ông được phong tặng danh hiệu nghệ sĩ nhân dân, danh hiệu cao nhất mà nhà nước Việt Nam trao tặng cho những người biểu diễn nghệ thuật, năm 2007."
+  "entityName" : "Bùi Thị Nhạn",
+  "aliases" : [ "Bùi Thị Nhạn", "Đệ nhị Quang Trung hoàng hậu", "Quang Trung Bùi hoàng hậu", "Thái Tổ Vũ hoàng hậu" ],
+  "overview" : "Bùi Thị Nhạn (chữ Hán: 裴氏雁, ?- 1802) là một trong Tây Sơn ngũ phụng thư. Sau này, khi trở thành vợ chính thức của vua Quang Trung (Nguyễn Huệ), bà được tấn phong làm Chính cung Hoàng hậu, và sau đó là Hoàng thái hậu khi con bà (?) là Nguyễn Quang Toản lên nối ngôi vua nhà Tây Sơn trong lịch sử Việt Nam."
 }

@@ -1,17 +1,14 @@
 {
-  "dateOfBirth" : "Giáp Thân 1884",
-  "dateOfDeath" : "Nhâm Dần 1962",
-  "hometown" : "tại làng Nhơn Giang, Chợ Quán, tỉnh Chợ Lớn (nay thuộc Q",
-  "occupation" : "Giáo sư, Cựu Bộ trưởng Giáo dục chính phủ Nguyễn Văn Tâm",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
-  },
+  "eraName" : { },
   "id" : 506,
-  "entityName" : "Trương Vĩnh Tống",
-  "aliases" : [ "Nicolas" ],
-  "overview" : "Xuất thân trong một gia đình trí thức lớn, con trai nhà văn hóa Pétrus Trương Văn Kí. Thuở nhỏ học tại Sài Gòn, năm 1903 ra trường đến năm 1904 làm thơ kí soái phủ Nam Kì. Kể từ năm 1928 được về hưu do thâm niên công vụ. Từ đó ông để hết tâm trí vào việc nghiên cứu và giảng dạy tiếng Việt. Ngoài việc làm của một công chức giáo sư, ông còn kiêm nhiệm chức Cố vấn Liên bang Đông Dương trong lĩnh vực giáo dục. Năm 1953, ông được mời tham chánh, giữ chức Bộ trưởng Ngoại giao rồi Giáo dục trong nội các Nguyễn Văn Tâm đã nhiều lần công cán nước Pháp thương lượng về các vấn đề có liên hệ Pháp Việt. Vợ ông là bà Trần Thị Lộ (sinh năm 1890 ở Sa Đéc) từng là Hội trưởng Hội Dục Anh ở Sài Gòn giúp nuôi dạy trẻ mồ côi. Các tác phẩm của ông: - Grammaire Annamite (Ngữ pháp Việt Nam). - Cours d'Annamite (Bài học tiếng Việt)"
+  "entityName" : "Nguyễn Mạnh Hùng",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Mạnh Hùng có thể là:"
 }

@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "1236",
-  "dateOfDeath" : "1285",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "occupation" : "Vua",
+  "workTenure" : "1592–1592",
+  "fatherName" : {
+    "Mạc Mậu Hợp" : 3064
+  },
   "motherName" : { },
   "eraName" : {
-    "nhà Nguyên" : null
+    "Bắc triều – Nhà Mạc  và thời kỳ Cao Bằng" : null
   },
   "id" : 1965,
-  "entityName" : "Lý Hằng",
-  "aliases" : [ "Đức Khanh" ],
-  "overview" : "Lý Hằng (chữ Hán: 李恒), tự là Đức Khanh (德卿), (1236 – 1285), người Đảng Hạng, là một trong những tướng lĩnh xuất sắc của nhà Nguyên. Lý Hằng mất vì trúng tên độc khi xâm lăng Đại Việt."
+  "entityName" : "Mạc Cảnh Tông",
+  "aliases" : [ ],
+  "overview" : "Mạc Toàn (chữ Hán: 莫全 1580 – 1593) là vị vua thứ sáu và là vua cuối cùng của nhà Mạc thời kỳ Nam - Bắc triều trong lịch sử Việt Nam."
 }

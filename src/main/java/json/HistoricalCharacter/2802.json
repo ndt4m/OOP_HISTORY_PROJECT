@@ -1,17 +1,14 @@
 {
-  "dateOfBirth" : "Mậu Thân 1908",
-  "dateOfDeath" : "Ất Hợi 1995",
-  "hometown" : "quê tỉnh Rạch Giá, sau cư ngụ ở Sài Gòn, Pháp",
-  "occupation" : "Dược sĩ nhà hoạt động xã hội",
+  "dateOfBirth" : "852",
+  "dateOfDeath" : "24 tháng 12 năm 905",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
-  },
+  "eraName" : { },
   "id" : 2802,
-  "entityName" : "Trần Kim Quan",
-  "aliases" : [ ],
-  "overview" : "Thuở nhỏ ông học tại Trường Nguyễn Đình Chiều Mĩ Tho, Pétrus Ký Sài Gòn. Thi đậu Trung học, ông ra Hà Nội học tại Trường Đại học Y Dược Đông Dương. Tốt nghiệp dược sĩ, ông về Sài Gòn mở Nhà thuốc Tây Kim Quan. Đây là một nhà thuốc bề thế, có danh tiếng trong lĩnh vực cứu tế, xã hội trước Thế chiến II tại Sài Gòn. Những năm 40 ông là thành viên Ban trị sự Hội Đức Trí Thể dục Nam Kì (SAMIPIC) các tôn chỉ phụng sự xã hội và giúp đỡ thanh thiếu niên nghèo hiếu học. Thời gian này ông là một trong các nhân vật sáng lập Hội Truyền bá Quốc ngữ Nam Kì do Michel Văn Vĩ làm chánh hội trưởng. Sau năm 1954, ông làm Chủ tịch Phong trào bảo vệ Hòa bình do ông và luật sư Nguyễn Hữu Thọ sáng lập, lãnh đạo. Năm 1955 ông bị Pháp bắt cùng với các thành viên phong trào. Sau đó ông được trả tự do, bị bệnh ông phải sang Pháp điều trị. Ngày 22-1-1995 ông mất tại Pháp, thọ 87 tuổi."
+  "entityName" : "Dương Hành Mật",
+  "aliases" : [ "Dương Hành Mẫn", "Hóa Nguyên" ],
+  "overview" : "Dương Hành Mật (giản thể: 杨行密; phồn thể: 楊行密; bính âm: Yáng Xíngmì, 852 – 24 tháng 12 năm 905), nguyên danh Dương Hành Mẫn (楊行愍, đổi tên năm 886), tên tự Hóa Nguyên (化源) là người giữ chức Hoài Nam tiết độ sứ vào cuối thời nhà Đường. Ông cai quản Hoài Nam và một vài quân lân cận, lãnh thổ mà ông cùng gia tộc mình cai quản sau đó trở thành nước Ngô thời Ngũ Đại Thập Quốc."
 }

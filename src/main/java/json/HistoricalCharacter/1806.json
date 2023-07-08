@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
+  "dateOfBirth" : "4 Đại Cồ Việt",
+  "dateOfDeath" : "979 Hoa Lư, Hoa Lư",
   "hometown" : "Không rõ",
-  "occupation" : "Hoàng hậu vợ Trần Minh tông, mẹ Trần Nghệ tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "occupation" : "Thái tử nhà Đinh",
+  "workTenure" : "978-979",
+  "fatherName" : {
+    "Đinh Tiên Hoàng" : 2346
+  },
   "motherName" : { },
   "eraName" : {
-    "Nhà Trần" : 15
+    "Nhà Đinh" : 35
   },
   "id" : 1806,
-  "entityName" : "Chiêu Từ",
-  "aliases" : [ ],
-  "overview" : "Tính bà khắc nghiệt, tham lợi, hay dự việc triều chính. Nhất là khi Nghệ tông ở ngôi, nhiều việc đều do bà quyết đoán nên triều thần nhiều người không phục. Các vương hầu cùng lắm người ngầm phản đối khiến lòng người li tán. Triều chính nhà Trần suy bại, một phần cũng vì sự lộng hành của bà."
+  "entityName" : "Đinh Hạng Lang",
+  "aliases" : [ "Đính Noa Tăng Noa" ],
+  "overview" : "Đinh Hạng Lang (chữ Hán: 丁項郎, ? - 979) - pháp danh Đính Noa Tăng Noa (chữ Hán: 頂帑僧帑) - là thái tử nhà Đinh, con trai thứ của Đinh Tiên Hoàng."
 }

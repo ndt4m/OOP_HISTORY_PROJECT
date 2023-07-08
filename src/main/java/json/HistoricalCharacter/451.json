@@ -1,18 +1,14 @@
 {
-  "dateOfBirth" : "Kỉ Mão 1769",
-  "dateOfDeath" : "Mậu Tí 1828",
-  "hometown" : "Quê làng Xuân Lan huyện Lương Tài, trấn Kinh Bắc (nay thuộc tỉnh Bắc Ninh)",
-  "occupation" : "Danh sĩ, luật gia cuối Lê, đầu Nguyễn",
+  "dateOfBirth" : "1837",
+  "dateOfDeath" : "1868",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34,
-    "Nhà Tây Sơn" : 21,
-    "Nhà Nguyễn độc lập" : 30
-  },
+  "eraName" : { },
   "id" : 451,
-  "entityName" : "Vũ Trinh",
-  "aliases" : [ "Lai Sơn", "Nguyên Hanh", "Duy Chu" ],
-  "overview" : "Năm Bính ngọ 1786 đỗ Hương tiến 17 tuổi làm Tri phủ Quốc Oai. Ít lâu được vời về triều, làm Tham chính sự ở nội các. Khi vua Quang Trung đánh bại quân Thanh, triều Lê sụp đổ, ông lánh thân ở Hồ Sơn (vùng Hà Nam ngày nay) dạy học, soạn sách. Nguyễn Ánh lên ngôi, ông được vời ra tham chính, nhận chức Thị Trung học sĩ. Năm 1804 ông xin từ chức nhưng không được. Sau làm đến hữu tham tri bộ Hình, ông đi sứ nhà Thanh năm 1809. Sau khi đi sứ về ông cùng Nguyễn Văn Thành, Trần Hựu hợp soạn bộ luật cho triều Nguyễn có tên Hoàng Việt luật lệ. Năm Bính tí 1816 ông bị liên lụy trong vụ án Nguyễn Văn Thuyên (con Tổng trấn Nguyễn Văn Thành) vốn là học trò ông, ông lại có ý bênh vực nên bị đày vào Quảng Nam, đến 12 năm sau (Mậu tí 1828) mới được ân xá, ông trở về quê vài ngày thì bệnh mất, hưởng dương 59 tuổi. Các tác phẩm của ông: - Lan Trì kiến văn lục (Ngô Hoàng và Nguyễn Tử Kính hiệu đính, Hải Điền đề tựa) - Cung oán thi tập - Sứ Yên thi tập - Hoàng Việt luật lệ (hợp soạn) Danh sĩ Ngô Hoàng viết bài tựa quyển Kiến văn lục ca tụng ông: \"Ông sẵn ôm tài chí kinh bang tế thế, song gặp thời ngang trái, mới lẫn tăm hơi chốn lều tranh (...) Tài học uẩn súc của ông thật hơn người nhiều\". Hoàng Việt luật lệ hay luật Gia Long (22 quyển), do ông và Trần Hựu trực tiếp biên soạn dưới quyền chỉ đạo của Tổng tài Nguyễn Văn Thành (1757-1817). Sách in giấy Vũ Di Trung Quốc, sau khắc bàn gỗ in ở Việt Nam. Trên đầu sách in tên bộ luật đề niên hiệu Gia Long thập nhị niên ban hành (1813). Thứ đến có bài tựa của đương kim hoàng đế Gia Long. Cuối sách (tập 22) có in bài Sớ tấu dâng lên vua do Tổng tài Nguyễn Văn Thành viết."
+  "entityName" : "Nguyễn Văn Lịch",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Trung Trực (chữ Hán: 阮忠直; 1837 –1868) là thủ lĩnh phong trào khởi nghĩa chống Pháp vào nửa cuối thế kỷ 19 ở Nam Bộ, Việt Nam."
 }

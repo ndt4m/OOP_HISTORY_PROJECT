@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "1888",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Tân Hợi 1791",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê xã Lạc Quần, huyện Giao Thủy, tỉnh Nam Định (nay thuộc xã Xuân Lạc, huyện Xuân Thủy, tỉnh Nam Định)",
+  "occupation" : "Sau đồi tên là Trung",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
+  },
   "id" : 981,
-  "entityName" : "Nguyễn Thiện Dương",
-  "aliases" : [ "Lãnh Giang" ],
-  "overview" : "Nguyễn Thiện Dương (?-1888), còn gọi là Lãnh Giang, là 1 thủ lĩnh nghĩa quân chống Pháp của khởi nghĩa Bãi Sậy trong phong trào Cần Vương."
+  "entityName" : "Phạm Thế Lịch",
+  "aliases" : [ ],
+  "overview" : "Ông có bài thơ tặng Hoàng giáp Tam Đăng Phạm Văn Nghị lúc kháng chiến chống Pháp, trở về quê an dưỡng tuổi già. Bài thơ hàm ngụ tâm chí ông cũng nồng nàn tình yêu nước như người bạn già ấy: \"Bắc Nam vạn lí nhất thanh hòa. Hà sự cuồng sưu ngạnh hải ba? Thiên khải nho trung giao cảm chiến, Đế liên lão bệnh hứa hưu qua. Thư từ nghĩa dũng hoàn hương lạc, Khảng khái anh hùng thoái lỗ ca. Tuế văn, nhân nhàn duy nhất chước. Đào nhiên, lãnh tiếu chỉ quan hà.\" Nghĩa: Muôn dặm Bắc, Nam vẫn một dải thanh bình vô sự, Tàu giặc điên cuồng cớ chi gây rối sóng biển? Trời mở đạo \"nho trung\" khiến cho ông dám đánh, Vua thương già yếu cho thôi việc binh đao. Cái vui về quê của đoàn nghĩa dũng có vẻ thong dong. Bài ca lui giặc của người anh hùng thật là khảng khái. Cảnh già rỗi rãi, chỉ việc ngồi uống rượu, Ngà say, cười lạt mà chỉ ra nơi xa xôi. Sau khi bị bãi chức, ông sống ở quê nhà, không cộng tác với Nam triều."
 }

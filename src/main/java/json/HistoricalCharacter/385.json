@@ -1,17 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê làng Ngoại Lãng, huyện Thư Trì, tỉnh Nam Định",
-  "occupation" : "Văn thần đời Lê Uy Mục",
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Canh Thìn 1940",
+  "hometown" : "Không rõ",
+  "occupation" : "Liệt sĩ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nam - Bắc Triều" : 19,
-    "Triều Lê Sơ" : 7
+    "Pháp đô hộ" : 11
   },
   "id" : 385,
-  "entityName" : "Đỗ Oánh",
-  "aliases" : [ ],
-  "overview" : "Năm Mậu thìn 1508, ông đỗ Tam giáp tiến sĩ. Ông nổi tiếng văn học, tính khảng khái cương trực, có tiết nghĩa, làm đến Thượng thư bộ Lễ. Đinh hợi 1527, Mạc Đăng Dung tiếm ngôi, ông về quê ở ẩn, không ra làm quan với nhà Mạc. Khí tiết được nhân dân đương thời mến phục. Trong cơn loạn lạc, ông vẫn vì dân mà cứu loạn, bỏ mình trong khói lửa chiến tranh. Ông được phong Phúc thần. Có đền thờ ở quê ông, tục gọi đền thờ Đỗ Thượng thư."
+  "entityName" : "Lê Văn Quới",
+  "aliases" : [ "Bảy Quới" ],
+  "overview" : ""
 }

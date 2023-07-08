@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Đinh Mão 1807",
+  "dateOfDeath" : "Tân Dậu 1861",
+  "hometown" : "quê làng Kim Bồng (tục gọi làng Bồng) huyện Yên Khánh, tỉnh Ninh Bình, tự là Vĩ Nhân, Trừng Phủ",
+  "occupation" : "Chí sĩ, danh sĩ quê làng Kim Bồng ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
+  },
   "id" : 1302,
-  "entityName" : "Hoàng Cầm",
-  "aliases" : [ ],
-  "overview" : "Hoàng cầm hay Hoàng Cầm trong tiếng Việt có thể đề cập đến:"
+  "entityName" : "Võ Duy Thanh",
+  "aliases" : [ "Trạng Bồng" ],
+  "overview" : "Ông đỗ Bảng nhãn, tài đáng Trạng nguyên, nên đương thời gọi ông là Bảng Bồng, hoặc Trạng Bồng. Học rộng biết nhiều, có óc khoa học tự nhiên. Khi giặc Pháp đánh Đà Nẵng, ông dâng sớ xin tăng cường lực lượng quốc phòng, chấn chỉnh việc nội trị, cải cách học thuật, văn hóa, kinh tế. Lúc làm Quốc tử giám tế tửu và khi làm Chủ khảo các khoa thi, ông đã phát hiện và rèn luyện được nhiều nhân tài cho tổ quốc. Khi Nguyễn Tri Phương vào Nam chống giặc Pháp xâm lược, ông có bài thơ tiễn: Nước non xưa vẫn nước non này. Cõi bắc ngàn năm suốt một dây. Ba tỉnh cát lầm đang rộn nỗi, Chín lần gươm báu phải trao tay. Đẩy xe vâng chỉ không dong giặc, Truyền hịch ra quân sớm định ngày. Cờ tía những mong tin báo tiệp, Tên ghi gác khói tượng đài mây. Khi làm quan ở Huế, ông dâng nhiều sớ đề nghị cải cách công tác quốc phòng, kinh tế rất sâu sắc. Cho đến lúc sắp mất, ông vẫn còn lưu lại một bài trần tình xin triều đình kíp chỉnh đốn mọi mặt để đối phó với thời cuộc nóng bỏng lúc bấy giờ. Năm Tân dậu ngày 4-4 (1861) ông mất, hưởng dương 54 tuổi. Các nhân sĩ tỉnh Ninh Bình có bài thơ tưởng niệm ông: Bảng vàng bia đá bậc tam khôi, Giấc mộng phù sinh luống ngậm ngùi. Nền Hạnh mây mờ sao điểm tối, Rừng Quỳnh nắng dọi đóa mai rơi. Vài tờ chương sớ nghìn thu để, Hai chữ châu phê chín bệ soi. Trên chốn đô môn ngày vĩnh quyết, Tình này cảnh ấy thuở nào nguôi. Các tác phẩm của ông có: - Bồng Châu Vũ tiên sinh thi văn tập - Trừng Phủ thi văn tập - Chế khoa Bảng nhãn Vũ Duy Thanh tập là những tác phẩm văn chương có giá trị của lịch sử văn học Việt Nam cận đại."
 }

@@ -1,17 +1,16 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "722 Hà Tĩnh\n----------------------------------------------\nQuí Hợi 723",
-  "hometown" : "xã Mai Phụ, huyện Thiên Lộc, phủ Đức Thọ, tỉnh Hà Tĩnh",
-  "occupation" : "Anh hùng dân tộc chống cuộc đô hộ nhà Đường",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Bình Thuận",
+  "occupation" : "Danh thần",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Bắc thuộc lần lần 3" : 1,
-    "nhà Đường" : null
+    "Trịnh - Nguyễn" : 34
   },
   "id" : 1033,
-  "entityName" : "Mai Thúc Loan",
-  "aliases" : [ "Mai Thúc Loan Mai Thúc Yên Mai Lập Thành", "Chân Lạp", "Mai Thúc Loan", "Hắc Đế (黑帝)" ],
-  "overview" : "Mai Hắc Đế (chữ Hán: 梅黑帝; ?–722), tên thật là Mai Thúc Loan (梅叔鸞) là vị vua người Việt thời Bắc thuộc, anh hùng dân tộc, người lãnh đạo cuộc khởi nghĩa chống lại sự chiếm đóng của nhà Đường ở Việt Nam vào đầu thế kỉ thứ 8.\n----------------------------------------------\nÔng giữ vùng hiểm yếu Sa Nam (Nam Đàn) làm căn cứ chính, đóng bản doanh ở núi Vệ, dựng điện phủ đặt tên là Vạn An. Quan đô hộ nhà Đường xin binh tiếp cứu, vua Đường Huyền tông cử Nội thị tả giám môn vệ tướng quân là Dương Tư Húc đem quân sang đàn áp. Trước sức tiến công của địch, thế cô, Mai Thúc Loan rút quân chạy về đóng giữ ở núi Vệ, chẳng bao lâu ông bị bệnh mất đột ngột vào năm Quí hợi 723. Nay ở núi Vệ, huyện Nam Đàn, tỉnh Nghệ An cũ còn di tích cổ thành của Mai Hắc đế, và ở xã Hương Lãm, huyện Nam Đàn có đền thờ Mai Hắc đế và Mai Thúc Huy. Về sau, các triều đại nối tiếp vẫn truy phong và liệt thờ cha con ông nơi miếu Lịch đại đế vương."
+  "entityName" : "Đặng Đức Thuật",
+  "aliases" : [ "Cửu Tư" ],
+  "overview" : "Khi Tây Sơn dấy binh, ông cất nhà tại Phước Sơn, thuộc tỉnh Bình Thuận ở ẩn. Năm Mậu thân 1788, ông vào Gia Định với Lê Đạt, gặp Nguyễn Ánh, được dùng làm gián nghị, thị giảng Viện Hàn lâm. Tính ông cương trực, một khi can gián mà chúa Nguyễn không nghe, ông nói: \"Lời nói không công hiệu, thế thì gián nghị nỗi gì\". Bèn bỏ ra đi, chúa Nguyễn phải cho người theo triệu hồi, ông mới trở lại phục vụ. Sau, ông mất trong quân, được truy tặng Thượng thư, Thi giảng học sĩ."
 }

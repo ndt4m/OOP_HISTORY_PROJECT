@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Quí Sửu 1673",
-  "dateOfDeath" : "Nhâm Dần 1722",
-  "hometown" : "quê xã Thiên Mụ, huyện Từ Liêm, tỉnh Hà Đông (nay là Hà Nội)",
-  "occupation" : "Danh thần đời Lê Dụ tông, con Thượng thư Nguyễn Quí Đức",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Vua",
+  "workTenure" : "1516–1516",
+  "fatherName" : {
+    "Lê Doanh" : null
+  },
   "motherName" : { },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34
+    "Nhà Hậu Lê – giai đoạn Lê sơ" : 20
   },
   "id" : 1380,
-  "entityName" : "Nguyễn Quí Ân",
+  "entityName" : "Lê Quang Trị",
   "aliases" : [ ],
-  "overview" : "Năm Ất mùi 1715 ông đỗ Hoàng giáp, 42 tuổi làm đến Đề hình Tả tư giảng. Hết lòng lo nước thương dân, ông được mọi người cảm phục về tư cách và công nghiệp giúp nước cứu dân. Khi ông mất được truy tặng Thượng thư bộ Công, gia phong làm phúc thần hạng trung. Thân phụ ông và con ông là Nguyễn Quí Cảnh đều làm đến Thượng thư và truy phong Phúc thần. Ông là tác giả sách Chính Hòa tiến sĩ đề danh kí."
+  "overview" : "Lê Quang Trị (chữ Hán: 黎光治 1509 - 1516) là một vị hoàng đế nhà Lê sơ trong lịch sử Việt Nam. Do được lập lên ngôi và phế truất trong thời gian loạn lạc ngắn ngủi, ông ít được nhắc tới trong danh sách các vị vua chính thống của Việt Nam."
 }

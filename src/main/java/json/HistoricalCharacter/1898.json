@@ -1,14 +1,17 @@
 {
-  "dateOfBirth" : "11 tháng 1, 1951 (70 tuổi) Hà Nam, Việt Nam Dân chủ Cộng hòa",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Bính Thìn 1916",
+  "dateOfDeath" : "Mậu Thìn 1988",
+  "hometown" : "quê thôn Đông Gia, huyện Đại Lộc, tỉnh Quảng Nam (nay là xã Đại Minh, huyện Đại Lộc tỉnh Quảng Nam)",
+  "occupation" : "Nhà hoạt động cách mạng",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
+  },
   "id" : 1898,
-  "entityName" : "Nguyễn Thị Doan",
+  "entityName" : "Trần Tống",
   "aliases" : [ ],
-  "overview" : "Nguyễn Thị Doan (sinh năm 1951) là một cựu chính trị gia Việt Nam. Bà từng là Phó Chủ tịch nước Cộng hòa Xã hội Chủ nghĩa Việt Nam (2007 - 2016), nguyên Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa VIII, IX, X, XI, Đại biểu Quốc hội Việt Nam khóa XIII thuộc Đoàn đại biểu tỉnh Hà Nam, nguyên Hiệu trưởng Trường Đại học Thương mại."
+  "overview" : "Xuất thân trong một gia đình vọng tộc thân phụ ông là Trần Cảnh, một nhà nho, một nhân sĩ có tiếng ở địa phương, các em ông là Trần Hãnh (Trần Hồng Chu), Trần Chi, Trần Thị Hiến, Trân Thị Thọ… đều tham gia cách mạng từ trước năm 1945. Thế cho nên trong bài vè bầu cử năm 1946, có câu: \"Trần Tống tuổi trẻ rất hăng\" như tinh thần trẻ trung, hăng say hoạt động của ông. Thuở nhỏ ông học tại Trường tiểu học Mĩ Hòa ở quê nhà, rồi Đà Nẵng, Huế cùng hoạt động trong tổ chức Thanh niên phản đế ở Huế. Đà Nẵng, Hội An... với các bạn học Trần Đinh Tri, Huỳnh Ngọc Huệ, Võ Quảng, Bùi Thương... Năm 1939, ông và một số đồng chí bị Pháp bắt đưa ra tòa kết án khổ sai, từng là tỉnh ủy viên Quảng Nam, xứ ủy viên Trung Kì đảng cộng sản Đông Dương chủ nhiệm Mặt trận Việt Minh tỉnh Quảng Ngãi, Phó bí thư tỉnh ủy Quảng Nam... Sau cách mạng tháng tám ông là thành viên của ủy ban khởi nghĩa tỉnh Quảng Nam, rồi đắc cử Đại biểu Quốc hội đơn vị tỉnh Quảng Nam. Sau đó vào làm việc ở liên khu 5 giữ chức chủ nhiệm báo Nhân Dân và giám đốc NXB Sự Thật Liên khu Năm. Ông là một chuyên gia lí luận của ĐCS Đông Dương nổi tiếng ở Liên khu 5 và Quảng Nam. Sau hiệp định Genève ông tập kết ra Bắc làm việc ở Trung ương đảng Lao động Việt Nam. Từ năm 1961 ông là thứ trưởng Bộ Đại học và Trung học chuyên nghiệp cho đến ngày về hưu. Ông mất năm 1988 tại Đà Nẵng, thọ 72 tuổi."
 }

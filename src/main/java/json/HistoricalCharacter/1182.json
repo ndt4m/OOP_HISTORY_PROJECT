@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "1807\n----------------------------------------------\nĐinh Mão 1807",
-  "dateOfDeath" : "1882\n----------------------------------------------\nQuí Tị 1883",
-  "hometown" : "Quê huyện Tân Long, tỉnh Gia Định, sau dời về ở Kiên Giang (Rạch Giá)",
-  "occupation" : "Nhân sĩ, nhà thơ yêu nước cận đại",
+  "dateOfBirth" : "Canh Tuất 1850",
+  "dateOfDeath" : "Bính Dần 1926",
+  "hometown" : "quê làng Hiền Lương (tục gọi làng Rèn), huyện Quảng Điền, tỉnh Thừa Thiên, nhạc phụ Phụng Hóa Công (vua Khải Định)",
+  "occupation" : "Phụ chánh đại thần triều Thành Thái Duy Tân",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
+    "Pháp đô hộ" : 11,
     "Nhà Nguyễn độc lập" : 30
   },
   "id" : 1182,
-  "entityName" : "Huỳnh Mẫn Đạt",
-  "aliases" : [ "Tuần Phủ Đạt" ],
-  "overview" : "Huỳnh Mẫn Đạt (黃敏達, 1807-1882) còn gọi là Tuần Phủ Đạt là quan nhà Nguyễn và là nhà thơ ở thế kỷ 19 tại Nam Bộ, Việt Nam.\n----------------------------------------------\nThuở trẻ ông học tại Gia Định, năm Tân mão 1831, ông đỗ cử nhân, nổi tiếng văn chương làm Tuần phủ ở Hà Tiên. Khi quân Pháp xâm chiếm miền Nam, ông cáo quan về ở ẩn tại Rạch Giá. Ông hay qua lại Bình Thủy (Cần Thơ nay là TP. Cần Thơ), lui tới đàm luận với Thủ khoa Bùi Hữu Nghĩa, và có giúp nhuận sắc bản tuồng Kim Thạch kì duyên. Huỳnh Mẫn Đạt là chiến sĩ trên mặt trận văn hóa góp công rất nhiều trong công cuộc chống Pháp xâm lược hồi đầu thế kỉ. Ông còn là một nhà thơ nổi tiếng của miền Nam. Năm Quí vị 1883, ông mất ở Rạch Giá, thọ 76 tuổi. Nơi Văn Xương Các (Văn Thánh) Vĩnh Long có bài vị thờ ông. Ông là tác giả một số bài thơ Nôm in trong các hợp tuyển thơ văn yêu nước Việt Nam hồi cuối thế kỉ XIX."
+  "entityName" : "Trương Như Cương",
+  "aliases" : [ ],
+  "overview" : "Năm 1873 đỗ Cử nhân, sơ bổ Thừa biện tàng thư, tiếp theo được thăng Tư vụ, Viên ngoại, rồi Tri phủ, Án sát tỉnh Hưng Yên, Bố chánh Quảng Bình, rồi về triều giữ chức Thị lang Bộ Binh. Năm 1885, kinh thành thất thủ, tiếp sau Nguyễn Phúc Ưng Ki lên ngôi (tức Vua Đồng Khánh) ông được bổ làm Phủ doãn Thừa Thiên; Tuần vũ, Tổng đốc Thanh Hóa. Sau đó về triều giữ chức Thượng thư Bộ Công sung Cơ mật viện đại thần, Võ hiển Đại học sĩ rồi giữ chức Phụ chánh đại thần tước Hiền Lương bá, đến đời vua Duy tân được tấn phong Hiền Lương hầu. Ông là người giữ chức Phụ chánh đại thần qua các triều Đồng Khánh, Thành Thái, Duy Tân. Tương truyền khi vua Đồng Khánh mới lên ngôi, vua đến đền Ngọc Trản (điện Hòn Chén - là ngôi đền thờ Tiên Thiên thánh mẫu rất linh ứng lúc bấy giờ ở Huế) xin xăm, Thánh mẫu bút phê \"Trương Như Cương\" nên ông được bổ làm Phủ doãn Thừa Thiên bất chấp lệ triều đình không bổ người bản quân làm quan đứng đầu tỉnh Thừa Thiên. Kế tiếp giữ chức Tổng đốc Thanh Hóa cũng là một ngoại lệ vì triều Nguyễn không bao giờ bổ người \"bách tính\" giữ chức vụ này ở bản quán của Nguyễn triều (chúa và vua Nguyễn gốc tỉnh Thanh Hóa). Dư luận đương thời cho rằng ông là người có mối quan hệ chặt chẽ với người Pháp nên mới được giữ những chức vụ quan trọng trong hoạn lộ của mình. Năm Bính dân 1926, ông mất thọ 76 tuổi được tấn phong Văn minh điện đại học sĩ ."
 }

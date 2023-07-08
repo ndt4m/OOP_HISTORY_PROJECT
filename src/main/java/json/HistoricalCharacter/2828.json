@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Nhâm Dần 1782",
-  "hometown" : "quê huyện Lệ Thủy, tỉnh Quảng Bình",
-  "occupation" : "Danh thần nhà Nguyễn Phúc",
+  "dateOfBirth" : "1823",
+  "dateOfDeath" : "1901",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34
+    "nhà Thanh" : null
   },
   "id" : 2828,
-  "entityName" : "Bạch Doãn Triều",
-  "aliases" : [ ],
-  "overview" : "Mậu tí 1768, ông đỗ giải nguyên, được bổ Tri huyện Đồng Xuân trong thời Định vương Nguyễn Phúc Thuần. Đến khi Tây Sơn dấy lên, ông chạy vào Gia Định, theo giúp Nguyễn Phúc ánh, chống lại Tây Sơn. Khoảng năm Nhâm dần 1782, Tây Sơn tiến công mạnh, Nguyễn Phúc Ánh chạy sang Xiêm (Thái Lan), ông bịnh mất tại Gia Định."
+  "entityName" : "Lý Hồng Chương",
+  "aliases" : [ "Wade–Giles: Li Hung-chang" ],
+  "overview" : "Lý Hồng Chương (tiếng Hán giản thể: 李鸿章; phồn thể: 李鴻章; bính âm: Lǐ Hóngzhāng; phiên âm Wade–Giles: Li Hung-chang), phiên âm tiếng Anh: Li Hongzhang) (1823 - 1901), là một đại thần triều đình nhà Thanh trong lịch sử Trung Quốc. Ông là người tỉnh An Huy, xuất thân gia đình quan lại. Trong cuộc đời quan trường của mình ông đã thành lập Hoài quân tham gia cùng với Tăng Quốc Phiên, Tả Tông Đường trấn áp phong trào Thái Bình Thiên Quốc. Vì có công lao to lớn, ông được bổ nhiệm làm tổng đốc Hồ quảng, tổng đốc Trực Lệ kiêm Bắc dương đại thần, Tổng đốc Lưỡng Quảng, Túc nghị nhất đẳng bá."
 }

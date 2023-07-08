@@ -1,16 +1,20 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Quí Mão 43",
+  "dateOfBirth" : "1661",
+  "dateOfDeath" : "1675 (13–14 tuổi) Đông Kinh, Đại Việt",
   "hometown" : "Không rõ",
-  "occupation" : "Anh thư thời Bắc thuộc lần I, dòng dõi các vua Hùng. Mẹ nữ vương Trưng Trắc (Có sách chép nguyên họ tên bà là Trần Thị Đoan)",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
+  "occupation" : "Hoàng đế Đại Việt",
+  "workTenure" : "1671 - 1675",
+  "fatherName" : {
+    "Lê Thần Tông" : 1930
+  },
+  "motherName" : {
+    "Lê Thị Ngọc Hoàn" : null
+  },
   "eraName" : {
-    "Trưng Nữ Vương" : 10
+    "Nhà Lê trung hưng" : null
   },
   "id" : 437,
-  "entityName" : "Man Thiện",
-  "aliases" : [ ],
-  "overview" : "Bà góa chồng từ khi còn trẻ, tận tụy nuôi dạy con. Vốn là nữ tướng tài giỏi, bà cũng dạy hai con gái nghề kiếm cung, việc trận mạc. Và chính bà đã cùng con đứng lên chiêu tập quân sĩ khởi nghĩa chống quân Hán cướp nước. Nơi bến Nam Nguyễn, bà chỉ huy toàn quân đánh đuổi quân giặc. Bà Trưng lên ngôi, bà được toàn thể quân dân tôn sùng trọng vọng. Quí mão 43, khi Mã Viện tiến công dữ dội, thấy các con lâm nguy, tuy tuổi đã già bà vẫn anh dũng dẫn một cánh quân xung trận, và hi sinh trong cuộc chiến cuối cùng. Nơi bà hi sinh, từ đấy có tên là mả Dạ, và ngôi miếu lập tại đấy đề thờ bà gọi là miếu Mèn. (Từ chân núi Ba Vì đổ ra cửa sông Đáy ở quãng giữa có vùng đồi gò chập chùng, cây cối um tùm, đấy là chốn miếu Mèn, mả Dạ. Tiếng ta thời tối cổ \"Dạ\" là tiếng tôn xưng người đàn bà già anh dũng, \"Mèn\" là tôn kính bậc anh thư ấy như bà mẹ chung của dân tộc)."
+  "entityName" : "Lê Duy Cối",
+  "aliases" : [ "Dương Đức (陽德: 1672 - 1674) Đức Nguyên (德元: 1674 - 1675)", "Lê Duy Cối Lê Duy Khoái", "Gia Tông (嘉宗)", "Mỹ Hoàng đế" ],
+  "overview" : "Lê Gia Tông (chữ Hán: 黎嘉宗; 1661-1675), tên húy là Lê Duy Cối (黎維禬, 黎維?) là vị hoàng đế thứ 9 của nhà Lê trung hưng trong lịch sử Việt Nam (sau Lê Huyền Tông và trước Lê Hy Tông), lên ngôi ngày 19 tháng 11 năm Tân Hợi (1671) khi mới 10 tuổi. Đến ngày 3 tháng 4 năm Ất Mão (1675) vua bị bệnh mất."
 }

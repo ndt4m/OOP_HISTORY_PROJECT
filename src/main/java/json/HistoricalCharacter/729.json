@@ -1,14 +1,17 @@
 {
-  "dateOfBirth" : "25/10/1874 Trường Sa, Hồ Nam, nhà Thanh",
-  "dateOfDeath" : "31/10/1916 Thượng Hải, Trung Hoa Dân Quốc",
-  "hometown" : "Không rõ",
-  "occupation" : "Phục vụ",
-  "workTenure" : "1911-1916",
+  "dateOfBirth" : "Canh Thân 1920",
+  "dateOfDeath" : "…",
+  "hometown" : "tại Vientiane (Lào), nguyên quán huyện Quốc Oai, tỉnh Sơn Tây, (nay thuộc tỉnh Hà Tây)",
+  "occupation" : "Thiếu tướng QĐNDVN",
+  "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
+  },
   "id" : 729,
-  "entityName" : "Hoàng Hưng",
-  "aliases" : [ "Huang Hsing" ],
-  "overview" : "Hoàng Hưng (phồn thể: 黃興, giản thể: 黄兴, bính âm: Huáng Xīng hay Huang Hsing; sinh ngày 25 tháng 10 năm 1874 – mất 31 tháng 10 năm 1916) là nhà lãnh đạo cách mạng, thủ lĩnh quân sự và chính khách của Trung Quốc, ông là tham mưu trưởng đầu tiên của quân đội cách mạng Trung Hoa Dân Quốc. Vì là một trong những người đầu tiên sáng lập nên Quốc Dân Đảng nên ông được xem là nhân vật đứng thứ hai chỉ sau Tôn Trung Sơn. Họ được xem là cặp đôi Tôn – Hoàng trong suốt cuộc khởi nghĩa cách mạng chống lại triều đình Mãn Thanh. Mộ ông tọa lạc tại núi Nhạc Lộc, Trường Sa, Hồ Nam, Trung Quốc."
+  "entityName" : "Phan Trọng Tuệ",
+  "aliases" : [ ],
+  "overview" : "Các năm 1936-1939 ông từ Lào về nước tham gia Thanh Niên Dân chủ rồi gia nhập Đảng cộng sản Đông Dương. Năm 1940-1943 ông là Xứ ủy viên Bắc Kì, đến tháng 7 năm 1943 ông bị bắt, kết án khổ sai chung thân, giam ở Hỏa Lò (Hà Nội) đến năm 1944 đày ra Côn Đảo. Sau cách mạng tháng tám năm 1945 ông được về đất liền, được cử làm chinh ủy khu 9, năm 1950 làm chính ủy Quân khu 7. Năm 1954 ông có chân trong Ban thi hành Hiệp định đình chiến đóng tại Sài Gòn. Năm 1956 ông ra Bắc được phong hàm thiếu tướng và được chỉ định vào Ban chấp hành Trung ương Đảng Lao động Việt Nam. Sau đó (1970) đảm nhận chức vụ Bộ trưởng Bộ Giao thông vận tải kiêm Phó thủ tướng chính phủ. Sau năm 1975, ông sống tại Sài Gòn và mất khoảng năm 1989-1990. Ông được tặng nhiều huân chương cao quí."
 }

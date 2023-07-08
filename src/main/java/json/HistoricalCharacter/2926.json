@@ -1,20 +1,14 @@
 {
-  "dateOfBirth" : "?",
-  "dateOfDeath" : "111 TCN Nam Việt",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Nam Việt",
-  "workTenure" : "112 TCN – 111 TCN",
-  "fatherName" : {
-    "Triệu Minh Vương" : 1844
-  },
-  "motherName" : {
-    "người Việt (không rõ tên)" : null
-  },
-  "eraName" : {
-    "Nhà Triệu" : 16
-  },
+  "dateOfBirth" : "1587",
+  "dateOfDeath" : "1693",
+  "hometown" : "người làng Phù Chẩn, huyện Đông Ngàn, phủ Từ Sơn, Kinh Bắc (nay là xã Phù Chẩn, thị xã Từ Sơn, tỉnh Bắc Ninh).",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
   "id" : 2926,
-  "entityName" : "Triệu Kiến Đức",
-  "aliases" : [ "Triệu Thuật Dương Vương", "Triệu Kiến Đức (趙建德)" ],
-  "overview" : "Triệu Dương Vương (趙陽王), hay Triệu Thuật Dương Vương (趙術陽王), Triệu Vệ Dương Vương (趙衛陽王) , tên họ thật là Triệu Kiến Đức (趙建德), trị vì từ năm 112 TCN - 111 TCN, là vị vua cuối cùng của nhà Triệu nước Nam Việt trong lịch sử Việt Nam."
+  "entityName" : "Nguyễn Xuân Chính",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Xuân Chính (chữ Hán: 阮春正, 1587 - 1693) người làng Phù Chẩn, huyện Đông Ngàn, phủ Từ Sơn, Kinh Bắc (nay là xã Phù Chẩn, thị xã Từ Sơn, tỉnh Bắc Ninh). Đỗ trạng nguyên khoa Đinh Sửu, niên hiệu Dương Hòa thứ 3 (1637), đời Lê Thần Tông khi đó ông đã 50 tuổi, là trạng nguyên già nhất trong lịch sử. Làm quan đến Tả thị lang Lại bộ, Nhập thị Kinh diên, tước Đạo Ngạn bá. Sau khi mất, ông được tặng chức Thượng thư, tước hầu. Có tài liệu ghi ông là Nguyễn Xuân Sinh ."
 }

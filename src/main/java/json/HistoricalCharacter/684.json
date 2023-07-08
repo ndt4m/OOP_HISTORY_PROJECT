@@ -1,14 +1,17 @@
 {
-  "dateOfBirth" : "12 tháng 6, 1908 Xã Thạch Châu, huyện Lộc Hà, tỉnh Hà Tĩnh, xứ Trung Kỳ",
-  "dateOfDeath" : "27 tháng 4, 1979 Nhà lao Chí Hòa, thành phố Hồ Chí Minh, Việt Nam",
-  "hometown" : "Sài Gòn, Việt Nam Cộng hòa",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Giáp Ngọ 1954",
+  "hometown" : "nguyên quán tỉnh Thanh Hóa, sau ra định cư ở làng La Nội, phủ Hoài Đức tỉnh Hà Đông (nay thuộc tỉnh Hà Tây), không rõ năm sinh",
+  "occupation" : "Nhà văn ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
+  },
   "id" : 684,
-  "entityName" : "Phan Huy Quát",
-  "aliases" : [ "Châu Cử" ],
-  "overview" : "Phan Huy Quát (1908 - 1979) tự Châu Cử, nguyên quán Hà Tĩnh, là thủ tướng Việt Nam Cộng hòa từ ngày 16 tháng 2 năm 1965 đến ngày 5 tháng 6 năm 1965. Phan Huy Quát đồng thời là thành viên Đại Việt Quốc dân Đảng và Tổng trưởng Quốc phòng Quốc gia Việt Nam. Sau ngày 30 tháng 4 năm 1975, ông tổ chức vượt biên nhưng bị phát hiện, bị tuyên án tù và mất trong nhà lao Chí Hòa ngày 27 tháng 4 năm 1979."
+  "entityName" : "Nguyễn Đôn Phục",
+  "aliases" : [ "Tùng Vân", "Hi Cán" ],
+  "overview" : "Thuở nhỏ ông theo Hán học, đỗ Tú tài năm 1906 rồi không thi cử gì nữa. Ông cộng tác với các báo Nam phong, rồi Tri Tân của Nguyễn Tường Phượng trong nhiều năm. Phần lớn tác phẩm của ông đều đăng trên 2 tạp chí trên. Các tác phẩm chính đã in: - Truyện ông đồ Ba Vẫy, trước đăng trên Nam phong, có bản chữ Nôm. - Luận ngữ quốc văn giải thích (cùng soạn với Nguyễn Hữu Tiến) Hà Nội, Imprimerie Tonkinoise, 1935. - Mạnh Tử quốc văn giải thích (cùng soạn với Nguyễn Hữu Tiến). Nhà xuất bản Trung Bắc tân văn. - Đằng vương các tự diễn nôm. Nam phong, 1933. - Vấn đề quốc văn, Nam phong số 126, 1928 Và nhiều bài khác đăng trong tạp chí Nam phong vào những năm 1924 đến 1935."
 }

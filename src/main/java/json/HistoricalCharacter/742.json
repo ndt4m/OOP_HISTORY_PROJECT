@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "4 tháng 7, 1938 (79 tuổi) Lộc Hà, Hà Tĩnh",
+  "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "hometown" : "quê làng Quất Động, huyện Thượng Phúc, phủ Thường Tín, tỉnh Hà Đông (nay thuộc TP",
+  "occupation" : "Công thần đời Lê Thái tổ",
   "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Nguyễn Đổng Chi (phụ thân)" : null
-  },
+  "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Triều Lê Sơ" : 7
+  },
   "id" : 742,
-  "entityName" : "Nguyễn Huệ Chi",
-  "aliases" : [ "Phương Tri, Huệ Chi, Cánh Hồng, Hy Tuệ", "Phương Tri" ],
-  "overview" : "Nguyễn Huệ Chi, sinh ngày 4 tháng 7 năm 1938, là một giáo sư người Việt Nam, nhà nghiên cứu văn học Việt Nam cổ, trung và cận đại; nguyên trưởng phòng Văn học Việt Nam cổ cận đại của Viện Văn học; nguyên Chủ tịch Hội đồng Khoa học của Viện Văn học thuộc Viện Khoa học Xã hội Việt Nam, là hội viên Hội Nhà văn Việt Nam từ 1984 tới tháng 5 năm 2015. Giáo sư Nguyễn Huệ Chi còn được biết đến với các bút danh Phương Tri, Huệ Chi, Cánh Hồng, Hy Tuệ. Năm 2009, cùng với nhà văn Phạm Toàn và Giáo sư Nguyễn Thế Hùng, ông khởi xướng trang mạng Bauxite Việt Nam."
+  "entityName" : "Bùi Công Hành",
+  "aliases" : [ ],
+  "overview" : "Cuối đời nhà Trần, ông dự thi, vừa lúc quân Minh sang xâm lược, khoa thi bỏ dở. Ông ẩn trong rừng, theo phù Bình Định vương Lê Lợi. Kháng chiến thành công, ông được Lê Thái tổ trọng dụng. Đến đời Lê Thái tông, khoảng năm Thiệu Bình (1434-1439), ông sung sứ bộ sang nhà Minh. Tại Yên Kinh, các quan Minh có ý thử thách, mời ông lên một tòa lầu cao, nói là để duyệt kinh Phật và hội họp ngâm thơ, rồi lén lút đi cả, rút luôn cái thang. Trên lầu chỉ có một tượng Phật, một bình nước trong và hai cây lọng dựng hai bên cửa lầu. Ông xem kĩ tượng Phật thì thấy là bằng bột. Ông vẫn tỏ ý thản nhiên bẻ tượng Phật ra ăn, uống nước, roi giương lọng ra, cặp vào nách mà lao mình xuống đất. Người Minh khen ngợi, hậu đãi ông rồi ân cần tiễn ông và sứ bộ về. Ông xin luôn hai cây lọng đem về nước làm kỉ niệm. Lê Thái tông bèn sai thợ noi theo kiểu lọng ấy mà chế lọng khác. Do đó, nghề làm lọng đời sau tôn ông là thủy tổ, lan rộng trong các làng Quất Động, Đô Quan, Tam Xá, Võ Lăng và Hướng Dương. Lê Thái tông phong ông làm Kim tử vinh lộc đại phu, sung chức Thị lang bộ Công, tước Thanh Lương Hầu, và cho theo họ vua. Khi ông mất được truy tặng Thượng thư, Thái bảo Lương Quận Công. Tại xã Đông Biểu, huyện Phong Doanh, tỉnh Nam Định (nay vẫn là Nam Định) có đền thờ ông."
 }

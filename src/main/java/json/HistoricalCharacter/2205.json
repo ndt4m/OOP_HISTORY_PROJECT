@@ -2,15 +2,18 @@
   "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Du học sinh đầu tiên trong thời Bắc thuộc lần thứ nhất ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "occupation" : "Hùng Vương\n----------------------------------------------\nTổ thứ nhất của dân tộc Việt Nam, họ Hồng Bàng dựng nước. Tất cả truyền được 18 đời đều xưng họ Hùng Vương (theo Hùng triều ngọc phả và Thiên Nam bảo lục diễn ca).\n----------------------------------------------\nVua",
+  "workTenure" : "2879 TCN - ?\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n2879 TCN–2794 TCN",
+  "fatherName" : {
+    "Đế Minh" : null
+  },
   "motherName" : { },
   "eraName" : {
-    "Bắc thuộc lần 1" : 6
+    "Hồng Bàng" : 17,
+    "Dựng nước" : 31
   },
   "id" : 2205,
-  "entityName" : "Bốc Long",
-  "aliases" : [ ],
-  "overview" : "Ông sang Trung Quốc du học và tụ tiến thân, được vua Hán nạp dụng, hầu cận trong cung. Một lần, nhân ngày Tết nguyên đán, giữa lúc trăm quan triều hội chúc tụng nhà vua, chính ông và Lý Cầm đã đứng ra đòi hỏi quyền lợi cho người Việt. Lời yêu sách của ông được vua Hán chú ý, và sau đó một vài người Việt có tài năng cũng được vua Hán đối xử trọng hậu, quyền lợi ngang với quan lại nhà Hán. Đồng thời với ông, còn có Trương Trọng cũng là một du học sinh lỗi lạc của nước ta, khiến vua Hán phải kính nể."
+  "entityName" : "Kinh Dương Vương",
+  "aliases" : [ "Lộc Tục", "Xích Quỷ", "Lộc Tục (祿續)" ],
+  "overview" : "Kinh Dương vương (chữ Hán: 涇陽王); là một nhân vật truyền thuyết, ông nội Hùng Vương thứ nhất, thuộc dòng dõi Vua Thần Nông vốn được suy tôn làm thủy tổ của người Bách Việt. Dã sử chép Kinh Dương vương tên húy là Lộc Tục (祿續), là người hình thành nhà nước sơ khai đầu tiên vào năm Nhâm Tuất (~2879 Tr.CN), đặt quốc hiệu là Xích Quỷ, Lãnh thổ của quốc gia dưới thời Kinh Dương vương rộng lớn, phía bắc tới sông Dương Tử (cả vùng hồ Động Đình), phía nam tới nước Hồ Tôn (Chiêm Thành), phía đông là Đông Hải (một phần của Thái Bình Dương), phía tây là Ba Thục (Tứ Xuyên, Trung Hoa ngày nay). Kinh Dương vương truyền ngôi cho con là Lạc Long Quân.\n----------------------------------------------\nNgài là đời thứ nhất gọi là Kinh Dương Vương Lộc Tục, tôn dâng miếu là Hùng Vương, thứ hai là Lạc Long Quân Sùng Lãm, thứ ba là Hùng Lân... Quốc hiệu ta lúc ấy là Văn Lang đóng đô ở Phong Châu (thuộc huyện Bạch Hạc, tỉnh Vĩnh Phú ngày nay. Ông làm vua nước Xích Quỉ vào khoảng năm Nhâm tuất (2879 tr.CN) lấy con gái Động Đinh quan là Long Nữ sinh ra Sùng Lãm, nối ngôi làm vua. Toàn lãnh thổ chia ra làm 15 bộ: Văn Lang, Châu Diên, Phúc Lộc, Tân Hưng, Võ Định, Võ Ninh, Lục Khái, Ninh Hải, Dương Tuyền, Giao Chỉ, Cửu Chân, Hoài Nam, Cửu Đức, Việt Thường và Binh Văn. Và truyền nhau đến đời thứ 18 là Hùng Duệ. Đến nay di tích hay còn trên đỉnh Hùng Sơn (Núi Hùng) cách Hà Nội 97km, cũng gọi là Núi Đền, Nghĩa Lĩnh, hay Nghĩa Cương. Bia đề 4 chữ lớn Cao Sơn cảnh Hùng.\n----------------------------------------------\nKinh Dương Vương (chữ Hán: 涇陽王, 2919 TCN - 2792 TCN) là con của Đế Minh, tức em trai ruột của Đế Nghi (Đế Nghi cũng là con trai của Đế Minh), cháu nội của Đế Thừa, cháu 3 đời của Thần Nông. Kinh Dương Vương (tên húy là Lộc Tục) thuộc dòng dõi vua Thần Nông vốn được suy tôn là thủy tổ của người Bách Việt. Sử chép Kinh Dương Vương tên húy là Lộc Tục (祿續), là người hình thành nhà nước sơ khai đầu tiên vào năm Nhâm Tuất 2879 TCN, đặt quốc hiệu là Xích Quỷ. Lãnh thổ của quốc gia dưới thời Kinh Dương Vương rộng lớn, phía bắc tới sông Dương Tử (cả vùng hồ Động Đình), phía nam tới nước Hồ Tôn (Chiêm Thành), phía đông là Đông Hải (một phần của Thái Bình Dương), phía tây là Ba Thục (Tứ Xuyên, Trung Hoa ngày nay). Kinh Dương Vương truyền ngôi cho con là Lạc Long Quân (tên húy là Sùng Lãm)."
 }

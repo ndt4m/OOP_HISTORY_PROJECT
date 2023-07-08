@@ -1,17 +1,16 @@
 {
-  "dateOfBirth" : "Mậu Tuất 1898",
-  "dateOfDeath" : "Nhâm Thìn 1952",
-  "hometown" : "quê xã Long Châu, tỉnh Vĩnh Long, sinh ngày 7-6-1898",
-  "occupation" : "Bác sĩ chuyên khoa tâm thần, quê xã Long Châu, tỉnh Vĩnh Long",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "1460",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "nhà Lê" : null
   },
   "id" : 337,
-  "entityName" : "Nguyễn Văn Hoài",
+  "entityName" : "Lê Thụ",
   "aliases" : [ ],
-  "overview" : "Khoảng năm 1930, ông trở về nước và tình nguyện phục vụ ở Dưỡng trí viện Biên Hòa. Tại đây ông đã tận tụy cứu chữa \"thế giới người điên\", khiến mọi người đều cảm phục. Do đấy, đã có lúc dưỡng trí viện Biên Hòa mang tên ông là Dưỡng trí viện Nguyễn Văn Hoài. Ngày 28-5-1952, lúc 5 giờ ông mất đột ngột vì bệnh tim, hưởng dương 54 tuổi. Các tác phẩm chính của ông: 1. Lược khảo về vấn đề hòa bình (1950) 2. Điên? Dưỡng trí viện? (1952) 3. Từ bệnh tâm trí để bệnh giết người 4. Về sự tổ chức Dưỡng trí viện 5. Adolf Hitler xét như một bệnh nhân tâm thần"
+  "overview" : "Lê Thụ (?-1460), là một tướng lĩnh, khai quốc công thần nhà Lê sở trong lịch sử Việt Nam. Lê Thụ phục vụ dưới bốn triều vua Lê Thái Tổ, Lê Thái Tông, Lê Nhân Tông, Lê Nghi Dân, làm quan đến chức Thái úy."
 }

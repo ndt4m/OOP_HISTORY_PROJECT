@@ -1,17 +1,14 @@
 {
-  "dateOfBirth" : "Mậu Thân 1908",
-  "dateOfDeath" : "Giáp Ngọ 1954",
-  "hometown" : "tại An Cựu, ngoại thành Huế - (nay thuộc tỉnh Thừa Thiên - Huế)",
-  "occupation" : "Nhà văn",
+  "dateOfBirth" : "1825",
+  "dateOfDeath" : "1885",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
-  },
+  "eraName" : { },
   "id" : 723,
-  "entityName" : "Nguyễn Khoa Văn",
-  "aliases" : [ "Xích Nam tử", "Hải Triều" ],
-  "overview" : "Ông là đảng viên lớp đầu của Đảng cộng sản Đông Dương từ lúc thành lập. Ngọn bút lí luận sắc bén của ông từng áp đảo đối phương trong những cuộc tranh biện, bút chiến về văn học. Năm 1927, ông mới 19 tuổi tham gia Đảng Tân Việt và dự hội nghị toàn quốc của Đảng này khi quyết định cải tổ thành Đông Dương Cộng sản liên đoàn. Tháng 6-1930 được kết nạp vào Đảng Cộng sản Đông Dương, rồi vào hoạt động ở Sài Gòn, tham gia Thành ủy Sài Gòn, Chợ Lớn (8-1930). Năm sau 1931 ông bị bắt tại Sài Gòn, đưa về Huế kết án 9 năm khổ sai và 8 năm quản thúc, nhưng đến tháng 7-1932 lại được trả tự do. Ra tù, ông bí mật hoạt động cách mạng, đồng thời viết bài trên các báo chí hợp pháp để truyền bá chủ nghĩa Mác và quan điểm của Đảng cộng sản về nghệ thuật vị nhân sinh. Tháng 8-1940 ông bị bắt đi an trí tại Phong Điền (Thừa Thiên), đến tháng 3-1945 mới được thả. Ông tham gia tổng khởi nghĩa ở Huế, sau làm Giám đốc Sở tuyên truyền Trung Bộ. Trong thời gian kháng chiến chống Pháp, làm Giám đốc Sở tuyên truyền Liên khu IV, ủy viên Ban chấp hành Chi hội Văn nghệ Liên khu IV. Năm Giáp ngọ 1954, ngày 6-8 Dương lịch ông mất tại Hà Lãng, tỉnh Thanh Hóa, sau cơn bệnh nặng kéo dài, hưởng dương 46 tuổi. Các tác phẩm: - Duy tâm hay duy vật (chuyên luận, xb 1935) - Văn sĩ và xã hội (1937) - Về văn học và nghệ thuật (tuyển tập những bài viết, xuất bản 1965 sau khi ông mất)."
+  "entityName" : "Hồ Văn Hiển",
+  "aliases" : [ ],
+  "overview" : "Hồ Văn Hiển (1825-1885) là một võ quan của nhà Nguyễn. Ông là một trong những chỉ huy quân Đại Nam tấn công bất thành đồn Mang Cá dẫn đến thất thủ kinh đô Huế năm 1885."
 }

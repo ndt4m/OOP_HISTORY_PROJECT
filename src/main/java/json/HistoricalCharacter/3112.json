@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Quê làng Hạ Hồi phủ Thường Tín, tỉnh Hà Đông (nay thuộc Hà Nội)",
-  "occupation" : "Nhà thơ cận đại",
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Kỉ Sửu 1889",
+  "hometown" : "quê Khê Ta Bao, châu Tuyên Hóa, tỉnh Quảng Bình",
+  "occupation" : "Tay sai Pháp",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Pháp đô hộ" : 11,
+    "Nhà Nguyễn độc lập" : 30
   },
   "id" : 3112,
-  "entityName" : "Từ Diễn Đồng",
-  "aliases" : [ "Long Tài" ],
-  "overview" : "Ông là học trò của Tế tửu Quốc tử giám Khiếu Năng Tĩnh, nổi tiếng thông minh, văn chương xuất sắc. Tính ông khảng khái, nhiệt tình yêu nước, nên khi thi đỗ tú tài gặp lúc giặc Pháp xâm lược ông không ra làm quan, ở nhà dạy học làm thầy thuốc. Ông làm thơ rất nhiều phần lớn chứa chan niềm thương dân lo nước, kích thích nhân dân tranh đấu cho sự sống còn của dân tộc, chống lại ách thống trị của thực dân Pháp. Ông mất lúc 52 tuổi. Thơ ông chứa chan tình cảm, thương yêu người đồng loại và biểu hiện được tâm chí mình. Đêm Dài Đêm sao đến mãi tối mò mò! Đêm đến bao giờ mới sáng cho? Con trẻ u ơ chừng muốn dậy, Ông già khúng khắng vẫn còn ho. Ngọn đèn giữ trộm khêu còn bé, Tiếng chó nghi người cắn vẫn to. Hàng xóm láng giềng ai đã dậy, Dậy thì lên tiếng gọi nhà nho."
+  "entityName" : "Trương Quang Ngọc",
+  "aliases" : [ ],
+  "overview" : "Nguyên, Ngọc làm thổ tù, năm 1885 vua Hàm Nghi lập chiến khu tại Cam Lộ, các sĩ phu yêu nước và nghĩa sĩ theo về rất đông, trong đó có ông. Năm 1887 vua Hàm Nghi bị quân Pháp bao vây phải lần ra các vùng cao tỉnh Quảng Bình. Có lần vua và đoàn tùy tùng tạm trú tại nhà ông ta. Ngày 26-6 năm Mậu tí, y để cho quân Pháp bắt vua. Sau khi làm xong công việc chó săn, Ngọc được quan thầy Pháp thưởng cho một số tiền lớn và chức Hàm Lãnh binh. Nhưng đến năm 1889 Phan Đình Phùng cho Cao Thắng đem nghĩa binh lên Khê Ta Bao bắt Ngọc xử tử để răn chúng. Đời ông là gương xấu cho hậu thế."
 }

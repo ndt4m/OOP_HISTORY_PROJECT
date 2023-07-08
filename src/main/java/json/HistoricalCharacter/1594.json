@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Quí Hợi 1743",
+  "dateOfDeath" : "Canh Tuất 1790",
+  "hometown" : "tại làng Trường Lưu, tổng Lai Thạch, huyện La Sơn, tỉnh Hà Tĩnh",
+  "occupation" : "Nhà thơ đời Lệ Hiển tông, có tên khác nữa là Yên",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
   "id" : 1594,
-  "entityName" : "Trần Thương",
-  "aliases" : [ ],
-  "overview" : "Trần Thương (chữ Hán phồn thể:陳倉區, chữ Hán giản thể: 陈仓区) là một quận của địa cấp thị Bảo Kê, tỉnh Thiểm Tây, Trung Quốc. Quận này có diện tích 2577 km2, dân số năm 2002 là 650.000 người. Dân số có hộ tịch là 590.500 người. Dân số nông dân là 500.700 người, dân số phi nông nghiệp là 89.800 người, nam giới 30,86 vạn, nữ giới 28,19 vạn. Tỷ lệ sinh là 7,14‰，tỷ lệ tử vong là 5,47‰. Quận Trần Thượng được chia thành 18 trấn và hương."
+  "entityName" : "Nguyễn Huy Tự",
+  "aliases" : [ "Hữu Chi", "Uẩn Trai" ],
+  "overview" : "Ông là con Thám hoa Nguyễn Huy Oánh, rể Nguyễn Khản. Năm Kỉ mão 1759 ông đỗ Hương cống. Từ năm Đinh hợi 1767 ông nhậm chức Tri phủ Quốc Oai. Năm Canh dần 1770, ông được ưu đãi theo hàng tiến sĩ, thăng Hiến sát sứ Sơn Nam, sau đó cải sang võ chức (1774), tước Nhạc Đình Bá, rồi làm Đốc đồng Sơn Tây (1782). Đến năm Giáp thìn 1784 có tang mẹ vợ, ông cáo về cư tang. Nhà Hậu Lê suy vong, năm Kỉ dậu 1789 ông được vua Quang Trung triệu vào Phú Xuân, bổ chức Hữu thị lang. Nhưng chẳng bao lâu, ngày 5-9-1790 (27-7 âm lịch Canh tuất) ông mất, hưởng dương 47 tuổi, thụy là Thông Mẫn. Ông là tác giả truyện thơ Hoa tiên."
 }

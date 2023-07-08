@@ -1,21 +1,17 @@
 {
-  "dateOfBirth" : "8 tháng 10 năm 1885 Huế, Đại Nam\n----------------------------------------------\nNhâm Ngọ 1882\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "6 tháng 11, 1925 (40 tuổi) Huế, Đại Nam, Liên bang Đông Dương\n----------------------------------------------\nẤt Sửu 1925\n----------------------------------------------\nKhông rõ",
-  "hometown" : "Thừa Thiên-Huế\n----------------------------------------------\nKhông rõ",
-  "occupation" : "Hoàng đế Đại Nam\n----------------------------------------------\nVua thứ mười hai triều Nguyễn con vua Đồng Khánh\n----------------------------------------------\nHoàng đế",
-  "workTenure" : "18 tháng 5 năm 1916 - 6 tháng 11 năm 1925 (9 năm, 172 ngày)\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1916–1925",
-  "fatherName" : {
-    "Đồng Khánh" : 2203
-  },
-  "motherName" : {
-    "Hựu Thiên Thuần hoàng hậu" : null
-  },
+  "dateOfBirth" : "Mậu Thân 1908",
+  "dateOfDeath" : "Bính Dần 1986",
+  "hometown" : "quê tỉnh Hà Tĩnh",
+  "occupation" : "Giáo sư, Linh mục Thiên chúa giáo",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
   "eraName" : {
     "Pháp đô hộ" : 11,
-    "Nhà Nguyễn" : null
+    "Nước Việt Nam mới" : 29
   },
   "id" : 2201,
-  "entityName" : "Nguyễn Phúc Bửu Đảo",
-  "aliases" : [ "Nguyễn Phúc Bửu Đảo (阮福寶嶹) Nguyễn Phúc Tuấn (阮福晙)", "Khải Định (啓定)", "Nguyễn Hoằng Tông", "Hoằng Tông (弘宗)", "Tuyên Hoàng đế (宣皇帝)", "Nguyễn Phúc Bửu Đảo", "Khải Định" ],
-  "overview" : "Khải Định (chữ Hán: 啓定帝; 8 tháng 10 năm 1885 – 6 tháng 11 năm 1925), tên khai sinh Nguyễn Phúc Bửu Đảo (阮福寶嶹), là vị hoàng đế thứ 12 của triều đại nhà Nguyễn trong lịch sử Việt Nam, ở ngôi từ 1916 đến 1925. Ông được truy tôn miếu hiệu là Nguyễn Hoằng Tông (阮弘宗).\n----------------------------------------------\nTừ khi lên ngôi, ông chỉ là một vua bù nhìn, mọi việc chính trị, quân sự ngoại giao... đều do Pháp quyết định cả. Ông chỉ lo vui chơi trong cung cấm. Năm 1922, Pháp đưa ông sang Paris để tuyên truyền, cổ vũ cho chính sách bảo hộ mà cha đẻ của chính sách này là Toàn quyền Albert Sarraut nhằm ru ngủ một số lưu học sinh và Việt kiều nhẹ dạ tại Pháp. Cùng đi với ông có Phạm Quỳnh và một số đại thần khác. Vừa đến nơi, ông bị nhà yêu nước Phan Châu Trinh lên án bằng một bức thư dài lời lẽ gay gắt vì những hành vi ám muội của ông và thực dân. Chính chuyến đi mờ ám này cùng bức thư trên đã gây một tiếng vang lớn đối với dư luận nước Pháp hồi đó. Triều đại ông không còn chút thực quyền nào cả. Lương Khắc Ninh, một người làm quan với Pháp khi viết thư cho ông cũng nói: \"Khải Định vương quả hữu bất nhân thọ thất trách nặc, nhiên nan biện\" (vua Khải Định quả thật bất nhân, điều ấy khó tranh cãi được). Ông mất năm 1925, con trai là Nguyễn Phúc Vĩnh Thụy lên nối ngôi, hiệu năm là Bảo Đại.\n----------------------------------------------\nKhải Định Đế (chữ Hán: 啓定帝; 8 tháng 10 năm 1885 – 6 tháng 11 năm 1925), tên khai sinh Nguyễn Phúc Bửu Đảo (阮福寶嶹), là vị hoàng đế thứ 12 của triều đại nhà Nguyễn trong lịch sử Việt Nam, ở ngôi từ 1916 đến 1925. Ông được truy tôn miếu hiệu là Hoằng Tông (弘宗)."
+  "entityName" : "Cao Văn Luận",
+  "aliases" : [ ],
+  "overview" : "Ông xuất thân trong một gia đình Công giáo lâu đời tại Hà Tĩnh, thuở nhỏ tu học tại chủng viện Xuân Bích, Hà Nội. Khoảng năm 1938-1939 thụ phong linh mục, rồi du học tại Pháp về Triết học và sinh ngữ Đông phương, năm 1942 tốt nghiệp cử nhân triết học và Trường sinh ngữ Đông phương Paris vào năm 1945. Năm 1947 về nước, làm cha xứ tại một họ đạo ở huyện Tuyên Hóa, tỉnh Quảng Bình, năm 1949 vào Huế dạy triết học tại trường Quốc học. Năm 1957 ông cùng một số trí thức miền Trung vận động thành lập Viện Đại học Huế rồi được chính thức giữ chức Viện trưởng Viện Đại học Huế từ năm 1958 đến năm 1964. Viện Đại học Huế là một cơ sở Đại học đầu tiên ở miền Trung trong những năm chiến tranh, nơi học tập của thanh niên hiếu học thuộc các tỉnh từ Quảng Trị đến Bình Thuận. Tháng 8 năm 1963 ông bị chế độ Ngô Đình Diễm cách chức Viện trưởng vì cho rằng ông có cảm tình với sinh viên chống chế độ hồi đó; tuy rằng ông là người có nhiều liên hệ tình cảm với gia đình họ Ngô. Sau đảo chính ngày 1-1 1-1963 ông trở lại giữ chức vụ này một thời gian ngắn, rồi làm giáo sư tại Đại học Sư phạm Sài Gòn cho đến năm 1975. Ông mất ngày 20-7-1986 tại Hoa Kỳ. Các tác phẩm chính: - Tâm lí học (1958) - Luận lí học và Siêu hình học (1958) - Đạo đức học (1959) - Danh từ triết học (1959) - Henri Bergson (1961) - Bên giòng lịch sử (1971 - Hồi ký)..."
 }

@@ -1,16 +1,14 @@
 {
-  "dateOfBirth" : "1616",
-  "dateOfDeath" : "1688",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
   "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "nhà Lê" : null
-  },
+  "eraName" : { },
   "id" : 1776,
-  "entityName" : "Nguyễn Mậu Tài",
+  "entityName" : "Lý Vân",
   "aliases" : [ ],
-  "overview" : "Nguyễn Mậu Tài (1616-1688) là đại thần nhà Lê trung hưng trong lịch sử Việt Nam."
+  "overview" : "Lý Vân có thể là một trong những nhân vật sau:"
 }

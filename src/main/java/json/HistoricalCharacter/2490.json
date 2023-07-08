@@ -1,16 +1,20 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê ở Quảng Đức",
-  "occupation" : "Danh thần đời Gia Long - Minh Mạng",
+  "dateOfBirth" : "26 tháng 12 năm 1867 làng Đan Nhiễm, xã Nam Hòa, huyện Nam Đàn, tỉnh Nghệ An.",
+  "dateOfDeath" : "29 tháng 10, 1940 (72 tuổi) Huế",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
+  "fatherName" : {
+    "Phan Văn Phổ" : null
+  },
+  "motherName" : {
+    "Nguyễn Thị Nhàn" : null
+  },
   "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+    "nhà Nguyễn - Liên bang Đông Dương" : null
   },
   "id" : 2490,
-  "entityName" : "Cung Văn Hy",
-  "aliases" : [ ],
-  "overview" : "Ông làm quan rất mực thanh liêm, có công đức với dân, được sĩ dân đương thời trọng vọng. Năm Mậu tí 1828, triều đình thành lập Quốc sử quán và xuống chiếu tưởng lệ cho những người làm văn hóa, có sách hay được duyệt. Bây giờ, các danh sĩ đua nhau dâng sách đã soạn. Ông dâng trình bộ sách Khai quốc công nghiệm diễn chí gồm 7 quyển."
+  "entityName" : "Phan Sào Nam",
+  "aliases" : [ "Thị Hán, Phan Giải San, Sào Nam Tử, Hạo Sinh, Hiếu Hán" ],
+  "overview" : "Phan Bội Châu (chữ Hán: 潘佩珠; 1867 – 1940) là một danh sĩ và là nhà cách mạng Việt Nam, hoạt động trong thời kỳ Pháp thuộc."
 }

@@ -1,16 +1,20 @@
 {
-  "dateOfBirth" : "1 tháng 7 năm 1915 Hà Nội, Liên bang Đông Dương\n----------------------------------------------\nẤt Hợi 1815",
-  "dateOfDeath" : "27 tháng 4, 1998 (82 tuổi) TP. Hồ Chí Minh, Việt Nam\n----------------------------------------------\nTân Dậu 1861",
-  "hometown" : "quê làng Mĩ Ngãi, Cao Lãnh (nay thuộc tỉnh Đồng Tháp)",
-  "occupation" : "Liệt sĩ cận đại",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
+  "dateOfBirth" : "15 tháng 11, 986\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "19 tháng 11, 1009 (23 tuổi) Đại Cồ Việt\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Đại Cồ Việt\n----------------------------------------------\nVua",
+  "workTenure" : "1005 – 1009\n----------------------------------------------\n1005—1009",
+  "fatherName" : {
+    "Lê Đại Hành" : 2974
+  },
+  "motherName" : {
+    "Chi hậu Diệu Nữ" : null
+  },
   "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+    "Nhà Tiền Lê" : 8
   },
   "id" : 593,
-  "entityName" : "Nguyễn Văn Linh",
-  "aliases" : [ "N" ],
-  "overview" : "Nguyễn Văn Linh (1 tháng 7 năm 1915 – 27 tháng 4 năm 1998) là Tổng Bí thư Đảng Cộng sản Việt Nam từ 1986 đến 1991. Thời kỳ là Tổng Bí thư, ông nổi tiếng với bút danh N.V.L. (sau này ông cho biết đó là \"Nói Và Làm\") với một loạt những bài báo trong chuyên mục Những việc cần làm ngay trên báo Nhân dân bàn về những việc cần phải chấn chỉnh trong xã hội. Ông được xem là người mở đường và có công lớn trong công cuộc đổi mới nền kinh tế Việt Nam.\n----------------------------------------------\nBị nội phản ông sa vào tay giặc, chúng dụ hàng, ông bất khuất bị giết trong năm Tân dậu, hưởng dương 46 tuổi. Tương truyền ông có mấy câu cảm khái: Rất tiếc thù chung chưa trả đặng, Sụt sùt chín suối dễ nào nguôi. Mộ ông nay còn tại Mĩ Ngãi, tên ông được dùng đề đặt tên chợ gọi là Chợ Thống Linh, Ngã tư Thống Linh. Người sau có thơ truy niệm ông: Lịch sử đáng nêu cụ Thông Linh. Trung cang vì nước đã quên mình. Giận người sống mất suy ra nhục, Thương kẻ thác còn nghĩ lại vinh. Bao tiếng ngọt ngon lòng chẳng núng, Lắm lần hăm dọa chí không kinh. Ngâm thơ li hận cười người phản, Quốc vận từ đây phú hậu sinh."
+  "entityName" : "Lê Ngọa Triều",
+  "aliases" : [ "Ngọa Triều Hoàng Đế (臥朝皇帝) (do Lý Thái Tổ truy) Khai Thiên Ứng Vận Thánh Văn Thần Vũ Tắc Thiên Sùng Đạo Đại Thắng Minh Quang Hiếu Hoàng Đế (開天應運聖文神武則天崇道大勝明光孝皇帝) (tôn hiệu tự xưng của Lê đế Long Đĩnh và được mặc định thành thụy hiệu theo lễ pháp)", "Ứng Thiên (應天) Cảnh Thụy (景瑞)", "Lê Long Đĩnh (黎龍鋌) Lê Chí Trung (黎至忠)" ],
+  "overview" : "Lê Long Đĩnh (chữ Hán: 黎龍鋌; 15 tháng 11, 986 – 19 tháng 11, 1009), còn gọi là Lê Ngọa Triều (黎臥朝), là vị hoàng đế cuối cùng của nhà Tiền Lê trong lịch sử Việt Nam. Ông trị vì 4 năm từ năm 1005 đến năm 1009. Cái chết bí ẩn của ông ở tuổi 24 dẫn đến việc chấm dứt nhà Tiền Lê, quyền lực rơi vào tay nhà Lý.\n----------------------------------------------\nLê Long Đĩnh (chữ Hán: 黎龍鋌 15 tháng 11 năm 986 – 19 tháng 11 năm 1009) là vị hoàng đế cuối cùng của nhà Tiền Lê trong lịch sử Việt Nam. Ông lên ngôi sau khi ám sát người anh trai là Lê Trung Tông để giành ngôi. Ông trị vì được 4 năm, từ năm 1005 đến năm 1009. Cái chết đột ngột của ông ở tuổi 24 dẫn đến việc chấm dứt nhà Tiền Lê, quyền lực rơi vào tay Lý Công Uẩn, người lập ra nhà Lý."
 }

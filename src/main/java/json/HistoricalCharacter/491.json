@@ -1,21 +1,14 @@
 {
-  "dateOfBirth" : "Đinh Dậu 1897",
-  "dateOfDeath" : "Giáp Tí 1984",
-  "hometown" : "quê làng Đại Phong, huyện Lệ Thủy, anh Quảng Bình, con trai thứ Phụ chánh đại thần Ngô Đình Khả và là em thứ của Ngô Đình Khôi (1895 - 1945) anh Ngô Đình Diệm (1901- 1963), Ngô Đình Nhu (1911-1963), Ngô Đình Luyện (1914-1989) Ngô Đình Cẩn (1917-1964)",
-  "occupation" : "Giám mục Thiên chúa giáo ",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
-  "fatherName" : {
-    "thứ Phụ chánh đại thần Ngô Đình Khả" : null
-  },
-  "motherName" : {
-    "là em thứ của Ngô Đình Khôi" : null
-  },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
-  },
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
   "id" : 491,
-  "entityName" : "Ngô Đình Thục",
-  "aliases" : [ "Phêrô Martinô" ],
-  "overview" : "Thuở nhỏ học tại Huế, từng là chủng sinh, sau du học Italia, Pháp... năm 1929 đỗ cử nhân văn chương Pháp, Tiến sĩ thần học ở Roma, từng là phụ tá cho Giám mục Drapier ở Roma. Sau khi về nước phục vụ tại tòa giám mục Huế, khoảng các năm 1939-1940 làm Giám mục tại Tòa Giám mục Vĩnh Long. Năm 1960 về Huế làm Tổng Giám mục Tòa Giám mục Huế cho đến tháng 8-1963 sang ngụ tại Giáo phận Roma (Italia) cho đến ngày 13-12-1984 chết ở nước ngoài (Hoa Kì). Đương thời ở miền Nam Việt Nam và cả nước ngoài, dư luận không tán đồng việc làm của ông đối với thế tục, nếu không muốn nói là đa số đều bất bình với ông."
+  "entityName" : "Lý Trường Nhân",
+  "aliases" : [ ],
+  "overview" : "Lý Trường Nhân (chữ Hán: 李長仁) là một thủ lĩnh địa phương, cát cứ Giao Châu, tự trị với chính quyền phong kiến phương Bắc trong lịch sử Việt Nam thời Bắc thuộc lần II."
 }

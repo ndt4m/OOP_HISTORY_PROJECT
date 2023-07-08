@@ -1,18 +1,16 @@
 {
-  "dateOfBirth" : "1818\n----------------------------------------------\nẤt Dậu 1765",
-  "dateOfDeath" : "1862\n----------------------------------------------\nẤt Dậu 1825",
-  "hometown" : "Thừa Thiên-Huế",
-  "occupation" : "Danh sĩ thời Nguyễn sơ",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê huyện Nghiêu Phong, tỉnh Quảng Yên (nay là tỉnh Quảng Ninh)",
+  "occupation" : "Danh thần đời Minh Mạng",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34,
-    "Nhà Tây Sơn" : 21,
     "Nhà Nguyễn độc lập" : 30
   },
   "id" : 483,
-  "entityName" : "Trịnh Hoài Đức",
-  "aliases" : [ "Cấn Trai", "Chỉ Sơn" ],
-  "overview" : "Đỗ Thúc Tĩnh (1818-1862) , tên húy: Như Chương, tự: Cấn Trai; là quan nhà Nguyễn theo chủ trương kháng Pháp trong lịch sử Việt Nam.\n----------------------------------------------\nThuở trẻ ông là học trò của Sùng Đức xử sĩ Võ Trường Toản ở Gia Định. Từ năm 1788, ông thi đỗ rồi làm quan với chúa Nguyễn Ánh. Đến đời Gia Long ông càng được trọng dụng, nhiều lần đi sứ Trung Quốc, làm đến Thượng thư bộ Lại, kiêm bộ Hình và Phó tổng tài Quốc sử quán. Ông nổi tiếng văn chương một thời cùng Lê Quang Định và Ngô Nhơn Tịnh được người đời xưng tặng là \"Gia Định tam gia\" trong nhóm Bình Dương thi xã tiếp thời với thi phái Chiêu Anh Các ở Hà Tiên. Thơ Nôm của ông còn truyền tụng khá nhiều. Năm Ất dậu 1825 ông mất, thọ 60 tuổi. Các tác phẩm chính của ông: - Lịch Đại kí - Cân Trai thi tập - Nguyên Khang - Bắc sứ thi tập - Khanh tế lục - Gia Định thành thông chí - Gia Định tam gia thi tập Bộ Gia Định thành thông chí là một địa phương chí ra đời sớm và sáng giá nhất về đất Nam Kì xưa. Với công trình này, tác giả không những giúp cho người Việt Nam am hiểu về miền đất mới của tổ quốc, mà còn cho người nước ngoài hiểu về đất Nam Kì xưa một cách tường tận. Chính vì vậy, ngay từ khi mới chiếm Nam Kì người Pháp (Aubaret) đã dịch tác phẩm này sang tiếng Pháp hồi cuối thế kỉ XIX."
+  "entityName" : "Ngô Đức Chính",
+  "aliases" : [ ],
+  "overview" : "Năm Đinh hợi 1827, có toán cướp bể do Ba Công Dụng cầm đầu đem 50 chiến thuyền vào cướp châu Tiên Yên. Lúc này sau khi làm Thiêm sự bộ Hình, ông đang cáo về nhà nhận thấy giặc hoành hành, làm khổ dân chúng, bèn đứng ra tập họp quan quân đi đánh dẹp, chém được tên cầm đầu, khiến chúng kinh hoàng tan vỡ. Triều đình trọng thưởng và nhân dân rất kính phục ông. Ông có phụ biên bản thảo bộ: Địa dư chí tỉnh Quảng Yên."
 }

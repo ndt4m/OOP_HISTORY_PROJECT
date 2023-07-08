@@ -1,17 +1,14 @@
 {
-  "dateOfBirth" : "Mậu Ngọ 1918",
-  "dateOfDeath" : "Mậu Thân 1968",
-  "hometown" : "quê làng Sơn Tịnh, huyện Hương Sơn tỉnh Hà Tĩnh",
-  "occupation" : "Liệt sĩ hiện đại",
+  "dateOfBirth" : "25 tháng 12 năm 1959 xã Duy Trinh, huyện Duy Xuyên, Quảng Nam, Việt Nam Cộng Hoà",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
-  },
+  "eraName" : { },
   "id" : 1958,
-  "entityName" : "Trần Văn Kiểu",
-  "aliases" : [ "Chín Ca" ],
-  "overview" : "Những năm 40, ông vào Nam Bộ làm công nhân ở đồn điền cao su Phú Mĩ Hưng ở Xuân Lộc. Tại đây, ông tham gia hoạt động cách mạng chống Pháp, gia nhập đảng cộng sản Đông Dương hoạt động bí mật tại các công trường cao su của người Pháp. Sau Cách mạng tháng Tám, ông vào bộ đội đánh Pháp tại mặt trận miền Đông Nam Bộ. Năm 1954 ông ở lại miền Nam hoạt động bí mật, lãnh đạo công tác công vận, được bầu làm ủy viên Ban Công Vận Trung ương cục miền Nam, đặc trách phong trào công nhân cao su. Trong cuộc nổi dậy năm Mậu thân 1968, ông hi sinh tại mặt trận Chợ Lớn hưởng dương 50 tuổi."
+  "entityName" : "Đặng Thị Ngọc Thịnh",
+  "aliases" : [ ],
+  "overview" : "Đặng Thị Ngọc Thịnh (sinh ngày 25 tháng 12 năm 1959) là một nữ chính khách Việt Nam. Bà hiện là ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa XII, Phó Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam, đồng thời là Đại biểu Quốc hội Việt Nam khóa XIV nhiệm kì 2016-2021 thuộc đoàn đại biểu tỉnh Vĩnh Long."
 }

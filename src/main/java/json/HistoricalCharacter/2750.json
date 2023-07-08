@@ -1,18 +1,16 @@
 {
-  "dateOfBirth" : "1753 Bình Định, Đàng Trong, Đại Việt",
-  "dateOfDeath" : "16 tháng 9, 1792 (38–39 tuổi) Phú Xuân, Đại Việt",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đại Việt",
-  "workTenure" : "22 tháng 12 năm 1788 – 16 tháng 9 năm 1792 (4 năm, 268 ngày)",
-  "fatherName" : {
-    "Nguyễn Phi Phúc" : null
-  },
+  "occupation" : "Nhà thơ đời Lê Hiển tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Tây Sơn" : 21
+    "Trịnh - Nguyễn" : 34
   },
   "id" : 2750,
-  "entityName" : "Phạm Thị Liên",
-  "aliases" : [ "Long Nhương Tướng quân Bắc Bình Vương Hoàng đế", "Hồ Thơm Nguyễn Huệ", "Bắc Bình Vương", "Quang Trung (光中: 1788 - 1792)", "Tây Sơn Thái Tổ (西山太祖)", "Võ Hoàng đế (武皇帝)" ],
-  "overview" : "Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đưa ra nhiều cải cách kinh tế, xã hội nổi bật trong lịch sử Việt Nam."
+  "entityName" : "Nguyễn Gia Cơ",
+  "aliases" : [ "Kì Trai" ],
+  "overview" : "Ông có tiếng thơ văn, về sau ông lấy con gái Lê Hiển tông (chị ruột công chúa Ngọc Hân, vợ vua Quang Trung), nghiễm nhiên là Phò mã nhà Lê và cũng là người thân thiết với nhà Tây Sơn. Thơ văn ông còn lại một thi phẩm: Tứ Trai thi tập soạn chung với anh cả là Tân Trai Nguyễn Gia Thiều và hai em là Hòa Trai Nguyễn Gia Diễm, Thanh Trai Nguyễn Gia Chu. Sách hiện nay đã thất lạc chỉ còn lại một số bài được truyền tụng."
 }

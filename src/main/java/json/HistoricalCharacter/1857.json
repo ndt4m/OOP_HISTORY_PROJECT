@@ -1,19 +1,16 @@
 {
-  "dateOfBirth" : "Nhân Ngọ 1882",
-  "dateOfDeath" : "Canh Tí 1960",
-  "hometown" : "quê làng Phương Khê, phủ Quảng Oai, tỉnh Sơn Tây (nay thuộc tỉnh Hà Tây)",
-  "occupation" : "Ẩn sĩ, Chiến sĩ phong trào Đông Kinh nghĩa thục ",
+  "dateOfBirth" : "Quí Dậu 1873",
+  "dateOfDeath" : "Giáp Thân 1944",
+  "hometown" : "quê làng Phong Thử, huyện Điện Bàn, tỉnh Quảng Nam (nay là xã Điện Thọ, huyện Điện Bàn)",
+  "occupation" : "Nhà yêu nước",
   "workTenure" : "Không rõ",
-  "fatherName" : {
-    "thứ Tú tài Nguyễn Thiều" : null
-  },
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Pháp đô hộ" : 11
   },
   "id" : 1857,
-  "entityName" : "Nguyễn Côn",
-  "aliases" : [ "Khôn" ],
-  "overview" : "Thuở nhỏ ông theo khoa cử, thi Hương một khoa rồi bỏ luôn, tham gia phong trào Duy tân ở Hà Nội (Đông Kinh nghĩa thục) từng làm giáo sư ở trường này. Năm 1908, Trường Đông Kinh nghĩa thục bị đóng cửa, các nhà sáng lập và giáo sư bị khủng bố, ruồng bắt, ông bỏ trốn vào Nam Kì định ra nước ngoài với anh ruột là chí sĩ Nguyễn Nhuận cũng hoạt động với Phan Bội Châu nhưng không thực hiện được (sau Nguyễn Nhuận - hiệu Tùng Hương - mất tích ở Trung Quốc). Cuối cùng ông đến một làng hẻo lánh (Đốc Vàng Thượng) ở Đồng Tháp Mười khai khẩn đất hoang. Nơi đây, ông thường qua lại liên hệ với các chí sĩ bị Pháp cưỡng bức lưu trú tại các địa phương lân cận như: Nguyễn Quang Diệu, Dương Bá Trạc, Võ Hoành... Ông có hai con trai là Nguyễn Xuân Tu, Nguyễn Xuân Thiếp (thi sĩ) đều mất sớm, cháu ông (gọi bằng bác) là học giả Nguyễn Hiến Lê có nhiều đóng góp cho văn hóa Việt Nam thời hiện đại. Ngoài một chiến sĩ, ông còn là một nhà thơ có hồn thi sĩ. Thơ ông mang đấu ấn thời đại cũng như tâm thức và khí phách mình. Bài thơ Cảm khái (viết hồi năm 1955) của ông nói lên được phần nào tâm sự, khí tiết ông và các đồng chí: Tuổi xanh kết bạn xoay trời đất, Năm chục năm nay thỏa ước mong Độc lập xa gần cờ phất phới! Anh hồn cố hữu khoái hay không? Chí lớn không thành, suốt đời ông làm một ẩn sĩ tại nơi heo hút Đồng Tháp Mười cho đến buổi vãn niên. Ông mất năm 1960 tại Đốc Vàng Thượng tỉnh Long Xuyên, thọ 70 tuổi."
+  "entityName" : "Phan Thúc Duyện",
+  "aliases" : [ "Phong Thử", "Mi Sanh" ],
+  "overview" : "Ông xuất thân trong một gia đình nông nghiệp, đậu Cử nhân khoa Canh tí 1900 (bạn đồng hương và đồng khoa với Phan Châu Trinh, Huỳnh Thúc Kháng Nguyễn Đình Hiến). Sau khi đỗ cử nhân, ông không ra làm quan mà tích cực thực hành duy tân tự cường tại quê nhà cùng với các đồng chí là Trần Quí Cáp, Phan Châu Trinh... Năm 1908 phong trào Duy tân bị đàn áp, ông và các chiến sĩ khác bị bắt lưu đày Côn Đảo vô thời hạn. Ở Côn Đảo được hơn 10 năm, ông có người con trai tên là Phan Mính tham dự cuộc chiến ở Châu Âu hồi năm 1914 (sau lưu học tại Pháp đậu kĩ sư) làm đơn khiếu nại, đến năm 1919 ông được trả tự do. Về đến Huế, ông bị thực dân Pháp và triều đình Huế cưỡng bức lưu trú tại Quảng Bình, hơn 10 năm. Sau đó được về sống ở bản quán. Ông mất ngày 3-10- 1944 tại quê nhà. Khi ở Côn Đảo, được trả tự do Huỳnh Thúc Kháng có tặng ông bài thơ ngũ ngôn: \"Biệt thị tiêu hồn vật, Phân khâm huống nguc trung, Khử lưu kim nhật vị, Tân khổ thập niên đồng. Hải hoạt châu lâm ngạn, Thiên cao hạc xuất lung. Ỷ lư do hữu mẫu, Nhứt kiến tiếu nhan hồng. Bản dịch: Cái biệt, ghê hồn nhỉ, Phương chi giữa cảnh cùng! Ở về chia khác ngả, cay đắng lẫn mười đông, Biển rộng thuyền gần bến, Trời cao hạc thoát lồng. Me già cùng thấy mặt Dựa cửa thỏa lòng trông."
 }

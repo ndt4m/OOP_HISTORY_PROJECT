@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "1903",
-  "dateOfDeath" : "1989",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Ất Mùi 1835",
+  "hometown" : "Cao Bằng",
+  "occupation" : "Dũng tướng thuộc hạ của Lê Văn Khôi, không rõ năm sinh, nguyên họ Bế ở tỉnh Cao Bằng",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
+  },
   "id" : 1095,
-  "entityName" : "Nguyễn Thiệu",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Thiệu (1903-1989) một trong hai đại biểu đại diện An Nam Cộng sản Đảng tham dự Hội nghị thành lập Đảng Cộng sản Việt Nam năm 1930."
+  "entityName" : "Nguyễn Văn Hoành",
+  "aliases" : [ "Nguyễn Hựu Hoành" ],
+  "overview" : "Sau khi Lê Văn Duyệt mất, vua Minh Mạng khủng bố gia đình và những kẻ cận kề của Tả quân. Năm 1832, ông cùng Lê Văn Khôi, Nguyễn Văn Trắm, Đặng Vĩnh Ưng... khởi binh chống lại triều đình Nguyễn. Quân khởi nghĩa làm chủ thành Phiên An (tên cũ của thành Gia Định) và một số tỉnh Nam Kì hơn một năm, quân triều phải vất vả lắm mới bình định được. Tháng 7-1835 quân khởi nghĩa bị dẹp tan. Hơn 1831 người bị giết chôn chung vào một huyệt, đương thời gọi là Đồng mả ngụy. Ông cùng năm người ở trong Bộ chỉ huy bị bắt giải về Huế hành hình. Đương thời danh tiếng và oai dũng ông ai cũng kính sợ, nên có câu \"Ông Hoành, ông Trắm tái thế sao mà dám làm vậy\" được lưu truyền ở Nam Kì."
 }

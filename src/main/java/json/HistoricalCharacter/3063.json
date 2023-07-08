@@ -1,17 +1,20 @@
 {
-  "dateOfBirth" : "Canh Thân 1920",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Quê xã Đại Hòa, huyện Đại Lộc, tỉnh Quảng Nam",
-  "occupation" : "Nhà văn ",
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "1593 Lạng Sơn\n----------------------------------------------\nQuí Tị 1593",
+  "hometown" : "Không rõ",
+  "occupation" : "Danh tướng nhà Mạc. Con thứ bảy của Mạc Đăng Doanh, em Mạc Phúc Hải và Khiêm vương Mạc Kính Điển.",
   "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "fatherName" : {
+    "Mạc Đăng Doanh" : 1224,
+    "Mạc Thái Tông" : 1574
+  },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Nhà Mạc" : 18,
+    "Nam - Bắc Triều" : 19
   },
   "id" : 3063,
-  "entityName" : "Võ Quảng",
-  "aliases" : [ "Võ Quảng" ],
-  "overview" : "Võ Quảng tham gia cách mạng từ năm 1935, chính thức gia nhập tổ chức Thanh niên dân chủ ở Huế. Năm 1939 làm tổ trưởng tổ Thanh niên Phản đế ở Huế. Tháng 9 năm 1941 bị Pháp bắt giam ở nhà lao Thừa Phủ. Sau đó bị đưa đi quản thúc vô thời hạn ở xã Đại Hòa. Năm 1945 làm Trưởng ban Tư pháp thành phố Đà Nẵng. Sau đó làm Phó Chủ tịch UB Kháng chiến hành chánh Đà Nẵng. Năm 1947 làm Hội thẩm chính trị (tức là Phó Chánh án) tòa án quân sự miền Nam Việt Nam. Từ 1948 đến 1955 làm ủy viên Ban Thiếu niên Nhi đồng Trung ương, đồng thời làm phụ trách Nhà xuất bản Kim Đồng và xưởng phim hoạt hình. Năm 1971 về Hội Nhà văn Việt Nam, phụ trách Văn học thiếu nhi. Phần lớn tác phẩm ông đều dành cho thơ thiếu nhi nhằm đào tạo những thế hệ trẻ yêu mến văn học. Và cũng từ đó giúp làm phong phú thêm văn học thiếu nhi Việt Nam. Tác phẩm đã xuất bản: - Cái Thăng (truyện, 1961) - Chỗ cây đa làng (1964) - Cái Mai (1967) - Những chiếc áo ấm (truyện, 1970) - Quê nội, Tảng sáng (truyện, 1973) - Bài học tốt (truyện, 1975) - Vượn hú (truyện, 1973) - Kinh tuyến vĩ tuyến (truyện, 1995) - Gà mái hoa (thơ, 1957) - Thấy cái hoa nở (thơ, 1962) - Nắng sớm (thơ, 1965) - Anh đom đóm (thơ, 1970) - Măng tre (thơ, 1972) - Quả đỏ (thơ 1980) - Ánh nắng sớm (thơ, 1993) - Sơn tinh Thủy tinh, Con 2 (kịch bản phim hoạt hình). Ngoài ra còn một số biên soạn viết bằng tiếng Pháp."
+  "entityName" : "Mạc Đôn Nhượng",
+  "aliases" : [ ],
+  "overview" : "Mạc Đôn Nhượng (?-1593) là hoàng tử và là tướng nhà Mạc trong lịch sử Việt Nam. Ông tham gia cuộc chiến tranh Lê-Mạc cho tới khi kết thúc thời Nam Bắc triều.\n----------------------------------------------\nÔng được phong tước ứng vương, sau khi cha mất, anh là Phúc Hải nối ngôi, ông vẫn là một tướng lĩnh ra sức đánh dẹp nhóm phản kháng do Phạm Tử Nghi cầm đầu, ủng hộ Mạc Chính Trung tranh ngôi vua và quyết liệt chống nhau với nhà Lê. Nhất là sau khi Phúc Hải mất. Phúc Nguyên lên cầm quyền, ông cùng với anh là Khiêm vương Mạc Kính Điển trên cương vị ông chú vua, phụ chính đắc lực. Có thể nói, trong dòng họ Mạc, nhờ ông và Kính Điển mà nhà Mạc còn đứng vững được khá lâu trước những cơn bao táp do nhà Lê ập xuống. Có lúc ông quá mệt nhọc, đâm ra phóng túng hưởng lạc, bỏ mặc việc triều chính, nhưng sau đó ông biết phục thiện qua những lời khuyên trách của các đại thần rồi vẫn hăng hái vào sanh ra tử trên trường chiến đấu một mất một còn với nhà Lê. Ông và Kính Điển nghiễm nhiên là hai cây cột cả chống đỡ nhà Mạc một thời oanh liệt tranh bá đồ vương, từng phò 4 triều: Phúc Hải, Phúc Nguyên, Mậu Hợp và Kính Chỉ. Năm Quí tị 1593, trung tuần tháng giêng âm lịch ông bại binh chạy về ẩn náu ở An Bắc (nay thuộc huyện Sơn Đông, tỉnh Lạng Sơn), rồi bệnh mất, thọ 60 tuổi."
 }

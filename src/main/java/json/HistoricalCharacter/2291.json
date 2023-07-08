@@ -1,16 +1,14 @@
 {
-  "dateOfBirth" : "Nguyễn Chí Thành xã Gia Thắng, Gia Viễn, Ninh Bình",
-  "dateOfDeath" : "1141",
+  "dateOfBirth" : "1935 Hà Nội",
+  "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
   "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "nhà Lý" : null
-  },
+  "eraName" : { },
   "id" : 2291,
-  "entityName" : "Nguyễn Minh Không",
+  "entityName" : "Nguyễn Trung",
   "aliases" : [ ],
-  "overview" : "Lý Quốc Sư (chữ Hán: 李國師; 15 tháng 10 năm 1065 – 1141) là tên gọi theo quốc tính họ Vua do nhà Lý ban cho ghép với chức danh pháp lý cao nhất của một vị thiền sư từng là dược sư, pháp sư, đại sư rồi quốc sư tên hiệu Nguyễn Minh Không (chữ Hán: 阮明空). Ông là một vị cao tăng đứng đầu tổ chức phật giáo của triều đại nhà Lý trong lịch sử, được xem là vị thiền sư sáng lập nên nhiều ngôi chùa nhất ở Việt Nam và được tôn vinh là ông tổ nghề đúc đồng."
+  "overview" : "Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển ."
 }

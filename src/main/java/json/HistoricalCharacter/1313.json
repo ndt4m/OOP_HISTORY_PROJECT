@@ -1,21 +1,17 @@
 {
-  "dateOfBirth" : "?\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "1340 trại An Trung, xã Dương Hòa, lộ Lý Nhân (Hà Nam)\n----------------------------------------------\nKỉ Mão 1339",
-  "hometown" : "quê huyện Chí Linh (nay thuộc tỉnh Hải Dương)",
-  "occupation" : "Danh tướng, Thiên vương đời Trần Nhân tông tước Nhân Huệ vương, con của Thượng tướng Trần Phó Duyệt",
+  "dateOfBirth" : "Phước Lễ, Bà Rịa\n----------------------------------------------\nGiáp Thìn 1904",
+  "dateOfDeath" : "Hà Nội\n----------------------------------------------\nGiáp Thìn 1964",
+  "hometown" : "quê ở tỉnh Bà Rịa",
+  "occupation" : "Chính trị gia\n----------------------------------------------\nNhà hoạt động chính trị",
   "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Trần Phó Duyệt" : null,
-    "Thượng tướng Trần Phó Duyệt" : null
-  },
-  "motherName" : {
-    "?" : null
-  },
+  "fatherName" : { },
+  "motherName" : { },
   "eraName" : {
-    "Nhà Trần" : 15
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 1313,
-  "entityName" : "Trần Khánh Dư",
-  "aliases" : [ "Nhân Huệ vương (仁惠王)" ],
-  "overview" : "Trần Khánh Dư (chữ Hán: 陳慶餘, ? - 1340), hiệu là Nhân Huệ vương (仁惠王), là một chính khách, nhà quân sự Đại Việt dưới thời Trần. Ông nổi bật với việc giữ chức Phó đô tướng quân trong trong kháng chiến chống Nguyên lần 2 và 3, tiêu diệt đoàn thuyền lương quân Nguyên ở Vân Đồn năm 1288, tham gia chinh phục Chiêm Thành năm 1312 nhưng bị sử sách phê phán vì tính tham lam, thô bỉ thể hiện qua câu nói \"Tướng là chim ưng, dân lính là vịt, dùng vịt để nuôi chim ưng thì có gì là lạ?\".\n----------------------------------------------\nÔng say mê sách vở, giỏi binh thư, được Trần Thánh tông nhận làm con nuôi (Thiên tử nghĩa nam: con nuôi vua) phong làm Phiêu kị Đại tướng quân, tước Thượng Vị Hầu. Sau vì có sự va chạm với gia đình Hưng Đạo vương Trần Quốc Tuấn, ông bị cách hết quan tước, tịch thu tài sản, đuổi về làm dân. Ông nhẫn nhục lui về sống ở quê nhà có lúc làm nghề đốt than, bán than (do đấy có thuyết gán cho ông là tác giả bài thơ \"Người bán than\", thật ra chưa hẳn ông là tác giả). Tháng 10 năm Nhâm ngọ 1282, trong lúc ông chở thuyền than qua bến Bình Than có người thông báo với nhà vua ông được triệu về họp ở Bình Than (Nam Sách - Hải Hưng). Thấy ông cực khổ Trần Nhân tông xuống chiếu tha tội cho ông, ban cho áo ngự và phong làm Phó Đô tướng quân. Năm Mậu tí 1288, trong cuộc kháng chiến chống quân Nguyên Mông xâm lược lần thứ ba, ông chỉ huy đạo quân phòng giữ vùng biển, đóng ở Vân Đồn (Quảng Ninh). Khi cánh quân thủy Ô Mã Nhi, Phàn Tiếp kéo qua Vân Đồn ông chặn đánh nhưng không cản được giặc. Thượng hoàng nghe tin, sai sứ đến bắt ông về xử tội. Ông bảo với sứ \"Lấy quân luật mà xử, đành là tôi có tội, nhưng xin hoãn cho vài ngày để tôi lập công chuộc tội, rồi sẽ chịu búa rìu phê phán cũng chưa muộn\". Rồi sau đó ông bố trí quân chặn đường về của giặc để triệt hạ. Đúng như ông dự đoán, mấy ngày sau, đoàn thuyền chở lương thực của giặc do Trương Văn Hổ điều động qua bến Vân Đồn. Ông xua quân đánh, bắt được. các tướng giặc và tù binh, thâu nhiều chiến lợi phẩm. Chiến công của ông góp phần làm cho quân giặc suy yếu và mở đường cho đạo thủy quân của ta tạo nên chiến thắng Bạch Đằng sau đó. Ông nghiễm nhiên đứng vào hàng thân vương lỗi lạc của nhà Trần. Năm 1339 ông mất, thọ trên 60 tuổi."
+  "entityName" : "Dương Bạch Mai",
+  "aliases" : [ "Bourov" ],
+  "overview" : "Dương Bạch Mai (1904-1964) là một nhà hoạt động cách mạng dân tộc, nhà chính trị, ngoại giao Việt Nam, đảng viên Đảng Cộng sản Việt Nam, đại biểu Quốc hội Việt Nam khóa 2.\n----------------------------------------------\nThuở nhỏ ông học ở quê nhà, Sài Gòn, sau du học tại Pháp. Thời gian học ở Paris, ông tham gia Đảng Việt Nam độc lập do một số nhà yêu nước Việt Nam sáng lập tại Pháp. Sau đó, ông gia nhập Đảng Cộng sản Pháp, cùng hoạt động với Nguyễn Văn Tạo. Năm 1928, trong một cuộc xô xát có đổ máu tại khu Đại học La tinh (Paris) giữa một nhóm sinh viên tiến bộ và nhóm sinh viên cực hữu, ông bị bắt giam một thời gian ngắn. Khoảng năm 1929, ông sang Mạc Tư Khoa liên lạc với Đảng Cộng sản Liên Xô, rồi vào học Trường Đại học Đông phương Staline cùng khóa với Bùi Văn Thủ, Hà Huy Tập, Trần Ngọc Danh... sau đó ông trở về Pháp. Năm 1932, ông về nước, sống và hoạt động tại Sài Gòn. Thời gian này ông cộng tác với các báo La Clockefelée, La Lutte, Mai, Dân quyền với Nguyễn Văn Tạo, Nguyễn An Ninh, Tạ Thu Thâu, Phan Văn Hùm... Năm 1936, 1937 ông đứng chung \"Sổ Lao động\" của báo La lutte cùng với Phan Văn Hùm,Tạ Thu Thâu,Trần Văn Thạch, Nguyễn Văn Tạo ứng cử vào Hội đồng Thành phố Sài Gòn nhân danh Mặt trận vô sản, thống nhất và đắc cử vẻ vang. Cùng thời gian này ông và các đồng viện cùng các tổ chức yêu nước khác tổ chức phong trào Đông Dương Đại hội nhằm vận động dân sinh và dân chủ. Cuối cùng phong trào tan rã do sự lật lọng của chính quyền thực dân và các đảng thân Pháp. Pháp khủng bố, ông và các đồng viện khác bị bắt đưa ra tòa. rồi bị cưỡng bức lưu trú ở Cần Thơ (nay thuộc tỉnh Hậu Giang). Một thời gian sau ông được trả tự do. Năm 1939, nhân chiến tranh thế giới thứ hai bùng nổ, thực dân Pháp vin vào tình trạng chiến tranh, bắt ông đày đi Côn Đảo một lần với Bùi Văn Thủ, Nguyễn Văn Tạo, Lê Hồng Phong, Lê Duẩn, Nguyễn An Ninh... Đến năm 1943, ông mới được trả tự do, nhưng vẫn bi quản thúc tại Tân Uyên (Biên Hòa). Đến năm 1945, ông là một trong nhĩmg người lănh đạo cướp chính quyền tại Sài Gòn. Cách mạng tháng Tám thành công rồi Toàn quốc kháng chiến, ông phụ trách công tác an ninh trong Lâm ủy Nam bộ. Năm 1946, ông là Thành viên của Phái đoàn Việt Nam đi dự Hội nghị trù bị Đà Lạt... Tại Hội nghị này ông nổi tiếng là nhân vật có những ý kiến rất thẳng thừng tranh luận với các thành viên người Pháp. Sau khi dự Hội nghị Đà Lạt về Fontainbleau (Paris) ông bi Pháp bắt đày lên Kontum. Tại đây ông được các chiến sĩ quân báo liên khu 5 giải thoát về Bình Định. Sau đó ông được điều ra công tác ở Trung ương. Sau hòa binh lập lại (1954), ông vẫn làm việc ở Hà Nộí. Năm 1964, ông mất ở Hà Nội, hưởng dương 60 tuổi."
 }

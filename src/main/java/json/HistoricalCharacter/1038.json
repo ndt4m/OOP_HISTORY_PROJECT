@@ -1,18 +1,16 @@
 {
-  "dateOfBirth" : "11 tháng 6, 1733",
-  "dateOfDeath" : "24 tháng 10, 1765 (32 tuổi) Phú Xuân, Đàng Trong, Đại Việt",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "1940\n----------------------------------------------\nCanh Thìn 1940",
+  "hometown" : "quê huyện Thanh Chương, tỉnh Nghệ An, sau ra cư ngụ ở tỉnh Bắc Giang",
+  "occupation" : "Nhà yêu nước",
   "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Nguyễn Phúc Khoát" : 2086
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "motherName" : {
-    "Trương Thị Dung" : null
-  },
-  "eraName" : { },
   "id" : 1038,
-  "entityName" : "Nguyễn Phúc Luân",
-  "aliases" : [ "Hưng Tổ (兴祖)", "Nguyễn Hưng Tổ", "Nhân Minh Cẩn Hậu Khoan Dụ Ôn Hòa Hiếu Khang Hoàng đế (仁明谨厚宽裕温和孝康皇帝)" ],
-  "overview" : "Nguyễn Phúc Luân (chữ Hán: 阮福㫻, 11 tháng 6 năm 1733 - 24 tháng 10 năm 1765), còn gọi là Nguyễn Hưng Tổ (阮興祖), là một vương tử ở Đàng Trong, được di chiếu sẽ lên ngôi chúa Nguyễn ở Đàng Trong nhưng không thành. Ông bị quyền thần ngoại thích là Trương Phúc Loan sát hại."
+  "entityName" : "Trần Trung Lập",
+  "aliases" : [ ],
+  "overview" : "Trần Trung Lập (? - 1940) là một nhà cách mạng Việt Nam chống Pháp, tư lệnh Việt Nam Kiến quốc quân.\n----------------------------------------------\nÔng nhiệt thành yêu nước, từng ra nước ngoài liên lạc với Phan Bội Châu có chân trong Phục quốc Đồng minh hội. Năm 1917 ông cùng Lương Ngọc Quyến phá ngục Thái Nguyên, tham dự quân Đội Cấn (tức Trịnh Văn Cấn) trong cuộc khởi nghĩa Thái Nguyên. Thất bại, Lương Ngọc Quyến hi sinh, ông tìm đường sang Trung Quốc tổ chức lại các đội võ trang chuấn bi lực lượng phục quốc. Tại đây có lúc ông là sĩ quan trong quân đội Trung Quốc. Rút kinh nghiệm quân sự, về sau ông đứng ra thành lập một lực lượng mệnh danh Việt Nam Kiến quốc quân, do ông làm Tổng tư lệnh. Chuẩn bị xong, ông chỉ huy lực lượng tấn công vào khu vực Đồng Đăng và Lạng Sơn. Việc lớn không thành, ông quyết tử chiến đấu, hi sinh trong trận đánh ở Lục Ngạn ngày 26-12-1940."
 }

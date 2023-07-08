@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Canh Ngọ 1930",
-  "hometown" : "Không rõ",
-  "occupation" : "Thường gọi là Cai Hoằng, vì nguyên là hạ sĩ quan binh đoàn Pháp đóng ở Yên Bái. Ông có lòng yêu nước, làm nội tuyến trước khi Việt Nam Quốc dân đảng khởi nghĩa ở Yên Bái.",
+  "dateOfBirth" : "Nhâm Tuất 1922",
+  "dateOfDeath" : "Nhâm Tuất 1982",
+  "hometown" : "quê ở Hải Phòng (nay vẫn là TP",
+  "occupation" : "Tướng lĩnh QĐND VN ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 2885,
-  "entityName" : "Ngô Hải Hoàng",
-  "aliases" : [ "Cai Hoằng" ],
-  "overview" : "Ông bị bắt, bị địch tra tấn ác liệt. Khi ra Hội đồng đề hình (tòa án quân sự Pháp), do Poulet Osier ngồi ghế chánh án bảo ông: - Anh thật là vô ân, Đại úy Jourdain là thượng cấp của anh hết sức tử tế với anh, thế mà đêm ấy anh đã bắn chết ông ta đầu tiên. Ông đáp: -Nhưng đó là kẻ thù cướp nước chúng tôi, nên phải giết. Thực dân Pháp giết ông trong ngày 8-3-1930."
+  "entityName" : "Lưu Văn Thi",
+  "aliases" : [ "Hoàng Thế Thiện" ],
+  "overview" : "Ông tham gia cách mạng từ năm 1940, tháng 3 năm 1943 bị Pháp bắt đày đi nhà tù Sơn La. Cùng thời điểm này ông vượt ngục về bám trụ hoạt động tuyên truyền ở Võ Nhai, chủ nhiệm Việt Minh tỉnh Thái Nguyên giành chính quyền từ tay thực dân Pháp tại đây. Trong kháng chiến chống Pháp ông chỉ huy đánh Pháp ở các mặt trận thuộc liên khu 10 (Bắc Bộ). Từ tháng 12 năm 1955 chủ nhiệm chính trị Liên khu III. Những năm 60 ông vào chiến trường miền Nam giữ chức Phó chính ủy Quân khu 8, từ năm 1969-1974 chính ủy Sư đoàn 304. Đầu năm 1975 là chính ủy Quân đoàn 4 tham gia chiến dịch Hồ Chí Minh, năm 1977 giữ chức Thứ truởng Bộ Quốc phòng rồi trưởng đoàn chuyên gia Quân sự Việt Nam tại Campuchia. Năm 1982 chuyển về giữ chức Thứ trưởng Bộ thương binh và xã hội, từng được nhà nước Việt Nam tặng thưởng các huân chương, trong đó có Huân chương độc lập hạng nhất..."
 }

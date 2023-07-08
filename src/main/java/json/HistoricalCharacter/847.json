@@ -1,16 +1,21 @@
 {
-  "dateOfBirth" : "Kỉ Dậu 1069",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "huyện Chiêm Hóa, tỉnh Tuyên Quang ngày nay)",
-  "occupation" : "Danh thần đời Lý Nhân tông, dòng dõi Hà Đắc Trọng, ở châu Vị Long ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
+  "dateOfBirth" : "16 tháng 6 năm 1807 Huế, Việt Nam\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "4 tháng 10, 1847 (40 tuổi) Huế, Đại Nam\n----------------------------------------------\nCanh Tuất 1850",
+  "hometown" : "quê huyện Gia Lộc, tỉnh Hải Dương",
+  "occupation" : "Hoàng đế Đại Nam\n----------------------------------------------\nDanh thần đời T",
+  "workTenure" : "11 tháng 2 năm 1841 – 4 tháng 10 năm 1847 (6 năm, 235 ngày)\n----------------------------------------------\nKhông rõ",
+  "fatherName" : {
+    "Minh Mạng" : 1781
+  },
+  "motherName" : {
+    "Tá Thiên Nhân hoàng hậu Hồ Thị Hoa" : null
+  },
   "eraName" : {
-    "Nhà Lý" : 14
+    "Nhà Nguyễn" : null,
+    "Nhà Nguyễn độc lập" : 30
   },
   "id" : 847,
-  "entityName" : "Hà Hưng Tông",
-  "aliases" : [ ],
-  "overview" : "Năm Nhâm tuất 1082, ông mới 14 tuổi, được kết duyên với Công chúa Khâm Thánh và được phong làm Tả đại liêu ban. Đến năm Bính dần 1086, kiêm thêm Tri châu Vị Long, giữ Tiết độ sứ, Kim tử quang lộc đại phu, kiếm hiệu Thái phó. Năm Đinh hợi 1107, ông cho xây chùa Bảo Ninh Sùng Phức rất tráng lệ ở vùng huyện Chiêm Hóa. Ông từng được phong làm Phò kí lang, Đô tri tả vũ vệ đại tướng quân, đồng trung Thư, môn hạ bình chương sự, kiêm quân nội khuyến nông sự Thái bảo, Thái phó, Thượng trụ quốc. Thực ấp gồm có 3900 hộ, ăn lộc thực thụ 900 hộ. Khi chùa Bảo Ninh Sùng Phức xây dựng xong, đại phu Lý Thừa Ân có soạn một bài văn bia, nêu rõ công nghiệp họ Hà ở châu Vị Long. Hiện nay, bia nằm ở chân núi Đan Hán, thuộc thôn Vĩnh Khoái, xã An Nguyên, huyện Chiêm Hóa, tỉnh Tuyên Quang do Sở văn hóa Hà Tuyên phát hiện trong năm 1964, Bia cao 145cm, rộng 80cm. Trán bia trang trí hình rồng mây và hoa dây. Hai bên là những vòng tròn nhỏ dọc theo chiều dày của bia. Mặt sau đá mài nhẵn nhưng không có chữ."
+  "entityName" : "Bùi Văn Thúy",
+  "aliases" : [ "Nguyễn Phúc Miên Tông (阮福綿宗)", "Hiến Tổ", "Thiệu Trị (紹治;: 1841 - 1847)", "Chương Hoàng đế (章皇帝)", "Hiến Tổ (憲祖)", "Trị", "Nguyễn Phúc Miên Tông" ],
+  "overview" : "Thiệu Trị (chữ Hán: 紹治; 16 tháng 6 năm 1807 – 4 tháng 10 năm 1847), tên thật là Nguyễn Phúc Miên Tông (阮福綿宗), là vị Hoàng đế thứ ba của nhà Nguyễn, triều đại phong kiến cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1841 đến khi qua đời năm 1847, được truy tôn miếu hiệu là Hiến Tổ (憲祖).\n----------------------------------------------\nNăm Nhâm dần 1842, đỗ cử nhân, làm quan trải 2 triều Thiệu Trị, Tự Đức, có công trong việc chống bọn cướp biển Tàu. Năm Canh tuất 1850, ông quyền lãnh ấn Vụ châu Vạn Ninh. Bấy giờ có giặc Tàu ô quấy phá, ông lo chống giữ, mưu việc trị an hết lòng bảo vệ dân chúng. Thế yếu ông bị giặc giết. Dân chúng đều thương tiếc. Triều đình phong tặng ông chức Tri châu."
 }

@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Nhâm Dần 1902",
-  "dateOfDeath" : "Kỉ Tị 1929",
-  "hometown" : "tại số 37 phố Hàng Thiếc, Hà Nội, nguyên quán làng Trung Tựu, xã Tây Tựu, huyện Từ Liêm, ngoại thành Hà Nội (nay thuộc TP",
-  "occupation" : "Nhà văn",
+  "dateOfBirth" : "Quí Tị 1533",
+  "dateOfDeath" : "Canh Tí 1600",
+  "hometown" : "xã Đoàn Lâm (tục gọi là xã Miếu Thông), huyện Gia Phúc, phủ Hạ Hồng, trấn Hải Dương (nay là thôn Đoàn Lâm, xã Thanh Tùng, huyện Thanh Miện, tỉnh Hải Dương).\n----------------------------------------------\nquê xã Đoạn Tùng (sau kiêng húy chúa Trịnh Tùng, nên đổi là Đoạn Lâm), tục gọi xã Miếu Thông, huyện Gia Lộc (sau đổi Gia Phúc), tỉnh Hải Dương",
+  "occupation" : "Danh sĩ nhà Mạc, quê xã Đoạn Tùng ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Trịnh - Nguyễn" : 34,
+    "nhà Mạc" : null,
+    "Nam - Bắc Triều" : 19
   },
   "id" : 242,
-  "entityName" : "Đặng Trần Phất",
-  "aliases" : [ "Như Hiền" ],
-  "overview" : "Xuất thân trong một gia đình khoa bảng, là con trai thứ tư của Giải nguyên Đặng Trần Vỹ và bà Lê Thị Bình. Thuở nhỏ học tiểu học ở Hà Nội, trung học ở trường Albert-Sarraut, tốt nghiệp Tú tài Tây trong những năm (1920-1925). Lúc đi học cũng như vào đời ông thường cộng tác với các báo Nam Phong, L'Indépendance, TonKin... Năm 1926 ông sang Lào làm việc ở Sở bưu điện Vientiane, sau đó đổi lên Paksé (Bản vàng) và mất tại đó trong tháng 6 năm 1929. Sau khi mất gia đình đưa thi hài về an táng tại quê nhà. Ông là tác giả các tác phẩm: - Cành hoa điểm tuyết (tiểu thuyết, 1921) - Một tấm cảm tình (thơ, kí sự, 1922) - Cuộc tang thương (tiểu thuyết, 1923) Đặng Trần Phất là nhà văn có tiểu thuyết viết bằng tiếng Việt xuất bản vào hàng sớm nhất ở miền Bắc - Hà Nội (1921) trước cả Tố Tâm (1925) của Hoàng Ngọc Phách. Tác phẩm của ông bước đầu giúp cho tiến trình văn học Quốc ngữ Việt Nam có cơ sở phát triển mạnh."
+  "entityName" : "Đỗ Uông",
+  "aliases" : [ "Đoạn Lâm" ],
+  "overview" : "Đỗ Uông (chữ Hán: 杜汪, 1523 hay 1533? - 1600), người xã Đoàn Lâm (tục gọi là xã Miếu Thông), huyện Gia Phúc, phủ Hạ Hồng, trấn Hải Dương (nay là thôn Đoàn Lâm, xã Thanh Tùng, huyện Thanh Miện, tỉnh Hải Dương). Ông đỗ đệ nhất giáp đồng tiến sĩ cập đệ đệ nhị danh (bảng nhãn), khoa Bính Thìn niên hiệu Quang Bảo thứ 3 (1556) đời Mạc Tuyên Tông (Mạc Phúc Nguyên). Ông lần lượt làm quan cho nhà Mạc và nhà Lê trung hưng.\n----------------------------------------------\nNăm Bính thìn 1556, đời Mạc Phúc Nguyên, ông đỗ nhất giáp tiến sĩ, đứng hàng thứ hai (tức Bảng nhãn) lúc 23 tuổi (nhiều sách chép 34 tuổi). Năm Giáp tuất 1574, đời Mạc Mậu Hợp, ông làm Hữu thị lang bộ Binh, kiêm vương phó (thầy của các bậc vương công). Năm Mậu dần 1578, ông làm chánh sứ qua nhà Minh dâng lễ cống. Khi trở về thăng Thượng thư bộ Lại, kiêm Đông các đại học sĩ, tước Phúc Quận Công. Nhà Mạc mất, ông cùng một nhóm quan cũ nhà Mạc ra phù tá nhà Lê, được giữ nguyên chức cũ. Lại được cử đi sứ lần nữa, rồi đổi làm Thượng thư bộ Hộ, gia Thiếu Bảo, đổi tước phong là Thông Quận Công. Đến năm Canh tí 1600, đời Lê Kính tông, trong nước có biến, vua chạy ra Tây Ninh, ông can ngăn xin rước vua trở về bị loạn quân giết chết, thọ 67 tuổi."
 }

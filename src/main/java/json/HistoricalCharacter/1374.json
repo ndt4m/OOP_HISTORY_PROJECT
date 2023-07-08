@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Vua",
-  "workTenure" : "40—43",
+  "dateOfBirth" : "Tân Mão 1771",
+  "dateOfDeath" : "Nhâm Tuất 1862",
+  "hometown" : "quê gốc Nghệ An, sau dời về ở huyện Phú Vang Thừa Thiên",
+  "occupation" : "Danh tướng triều Nguyễn",
+  "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Trưng Nữ Vương" : 10
+    "Trịnh - Nguyễn" : 34,
+    "Nhà Tây Sơn" : 21,
+    "Nhà Nguyễn độc lập" : 30
   },
   "id" : 1374,
-  "entityName" : "Trưng Vương",
-  "aliases" : [ "Trưng Nhị" ],
-  "overview" : "Hai Bà Trưng (chữ Nôm: ?婆徵) là thời kỳ xen giữa Bắc thuộc lần 1 và Bắc thuộc lần 2 trong lịch sử Việt Nam. Đây là tên gọi chung của hai chị em Trưng Trắc (chữ Hán: 徵側) và Trưng Nhị (徵貳), là anh hùng dân tộc của người Việt, những thủ lĩnh khởi binh chống lại nhà Đông Hán của Trung Quốc, lập ra một quốc gia với kinh đô tại Mê Linh và tự phong là Nữ vương.\n----------------------------------------------\nHai Bà Trưng (13 tháng 9 năm 14 – 5 tháng 3 năm 43) là tên chỉ chung hai chị em Trưng Trắc (徵側) và Trưng Nhị (徵貳), hai người phụ nữ được đánh giá là anh hùng dân tộc của người Việt. Trong sử sách, hai bà được biết đến như là những thủ lĩnh khởi binh chống lại chính quyền đô hộ của Đông Hán, lập ra một quốc gia với kinh đô tại Mê Linh và Trưng Trắc tự phong là Nữ vương. Thời kì của hai Bà xen giữa thời kỳ Bắc thuộc lần 1 và Bắc thuộc lần 2 trong lịch sử Việt Nam. Đại Việt sử ký toàn thư coi Trưng Trắc là một vị vua trong lịch sử, với tên gọi Trưng Nữ vương (徵女王)."
+  "entityName" : "Tạ Quang Cự",
+  "aliases" : [ ],
+  "overview" : "Ông xuất thân là Cai đội, thăng làm Vệ úy. Năm Đinh hợi 1827, ông cùng Thống chế Phan Văn Thúy và Phó tướng Nguyễn Văn Xuân lập chiến công hiển hách giữ vững miền Nghệ Tĩnh, chống lại quân Xiêm xâm lược, được phong làm Phòng ngự sứ trấn thủ ở Trấn Ninh. Đến năm Canh dần 1830, thăng Tổng đốc An Tịnh kiêm lãnh Tuần vũ Nghệ An. Năm Mậu tuất 1838, vua Minh Mạng truyền dựng bia Võ công ở trước sân Võ miếu tại Kinh đô, bia ghi tên 20 danh tướng, tên ông đứng hàng thứ 11. Sang đời Thiệu Trị, ông được gia phong Thái bảo, kiêm quản Hậu quân. Đầu đời Tự Đức, ông lại kiêm quản Tả quân, rồi về hưu. Năm Nhâm tuất 1862 ông mất, thọ 91 tuổi"
 }

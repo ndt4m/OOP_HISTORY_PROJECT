@@ -1,19 +1,16 @@
 {
-  "dateOfBirth" : "Tân Dậu 1921",
-  "dateOfDeath" : "Quí Mùi 2003",
-  "hometown" : "tại làng Đa Ngưu, huyện Văn Giang, Bắc Ninh, con trai Bác sĩ Nguyễn Xuân Bái",
-  "occupation" : "Chuyên gia ngân hàng",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê ở tỉnh Trà Vinh",
+  "occupation" : "Chiến sĩ Văn thân",
   "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Bác sĩ Nguyễn Xuân Bái" : null
-  },
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Pháp đô hộ" : 11
   },
   "id" : 1450,
-  "entityName" : "Nguyễn Xuân Oánh",
+  "entityName" : "Trần Bình",
   "aliases" : [ ],
-  "overview" : "Thuở nhỏ học tại Hà Nội, Pháp; tốt nghiệp tiến sĩ kinh tế học tại Pháp, Mĩ... Khi về nước ông từng giữ các chức vụ: Thống đốc Ngân hàng Quốc gia Sài Gòn, có lúc làm Phó thủ tướng chính phủ đặc trách kinh tế tài chánh... nhưng một thời gian sau ông từ chức trở về cương vị một chuyên gia kinh tế. Sau ngày 30 tháng 4 năm 1975 ông ở lại Sài Gòn cộng tác với chính quyền cách mạng trong lĩnh vực chuyên môn của mình về kinh tế, ngân hàng, tài chánh... Ông từng là Đại biểu Quốc hội, ủy viên đoàn chủ tịch ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, Phó chủ tịch liên hiệp các Hội khoa học kĩ thuật TP.HCM. Ông qua đời ngày 29-8-2003, thọ 82 tuổi."
+  "overview" : "Trần Bình (giản thể: 陈平; phồn thể: 陳平, ? - 178 TCN), nguyên quán ở làng Hội Dũ, huyện Hương Vũ , là nhân vật chính trị thời Hán Sở và Tây Hán trong lịch sử Trung Quốc, từng giữ chức thừa tướng triều Hán. Ông là người thông minh tuyệt đỉnh, trí tuệ siêu phàm. Người đời sau có câu ví: Bày mưu ngang Phạm Lãi, lập mẹo tựa Trần Bình.\n----------------------------------------------\nNăm 1875, lúc Pháp xâm chiếm xong 6 tỉnh Nam Kì, ông cùng bạn là chí sĩ Nguyễn Hữu Huân, Lê Quang Quan (Tân Kế) hợp sức nhau đánh Pháp ở tỉnh Trà Vinh. Căn cứ nghĩa quân đóng tại địa bàn thuộc Ba Động huyện Càng Long tỉnh Trà Vinh. Tại địa phương ông chỉ huy nghĩa quân đánh phá, tiêu hao nhiều lực lượng địch. Tuy nhiên, chẳng bao lâu vì lực lượng nghĩa quân còn non yếu không địch nổi với các đạo quân xâm lược và tay sai được trang bị vũ khí tối tân. Nghĩa quân thất bại nhiều trận, ông hi sinh tại chiến trường."
 }

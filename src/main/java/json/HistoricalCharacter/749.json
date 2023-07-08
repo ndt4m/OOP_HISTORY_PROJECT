@@ -1,18 +1,19 @@
 {
-  "dateOfBirth" : "Phan Châu Trinh phủ Tam Kỳ, tỉnh Quảng Nam, Đại Nam\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "Sài Gòn, Đông Dương thuộc Pháp\n----------------------------------------------\nKhông rõ",
-  "hometown" : "quê làng Phú Diễn, huyện Từ Liêm, tỉnh Hà Đông (nay thuộc Hà Nội)",
-  "occupation" : "nhà thơ, nhà văn, nhà hoạt động chính trị\n----------------------------------------------\nVăn thần",
+  "dateOfBirth" : "Đinh Mùi 1907",
+  "dateOfDeath" : "Nhâm Tuất 2001",
+  "hometown" : "tại Hà Nội, con trai Thượng thư Lê Hoan (1856-1915)",
+  "occupation" : "Họa sĩ nguời đầu tiên canh tân chiếc áo dài của phụ nữ Việt Nam",
   "workTenure" : "Không rõ",
   "fatherName" : {
-    "Phan Văn Bình (cha) Lê Thị Chung (mẹ)" : null
+    "Thượng thư Lê Hoan" : null
   },
   "motherName" : { },
   "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 749,
-  "entityName" : "Vương Duy Trinh",
-  "aliases" : [ "Hương Trì", "Tử Cán", "Đạm Trai", "Phan Tây Hồ", "Tây Hồ" ],
-  "overview" : "Phan Châu Trinh (còn được gọi Phan Chu Trinh; 1872–1926), hiệu là Tây Hồ, Hy Mã, tự là Tử Cán. Ông là nhà thơ, nhà văn, và là nhà hoạt động chính trị thời cận đại trong lịch sử Việt Nam.\n----------------------------------------------\nNăm Canh ngọ 1870 ông đỗ cử nhân, làm Bố chánh, sau thăng đến Tổng đốc Thanh Hóa. Ông có đề tựa bộ Thi tấu hợp biên và soạn các sách: - Thanh Hóa kỉ thắng - Thanh Hóa quan phong - Thi tấu hợp biên Thanh Hóa kỉ thắng (1 quyển) do ông biên soạn, Phạm hữu Nguyên viết lời Dẫn. Thanh Hóa kỉ thắng là một bộ sách ghi chép các thắng tích, về lịch sử, diên cách, các núi, sông, hang động, đền, chùa, và các nhân vật lịch sử danh nhân tỉnh Thanh Hóa. Thanh Hóa quan phong (1 quyển) cũng do ông biên soạn, sưu tập về phong tục thơ ca dân gian của tỉnh Thanh Hóa. Sách giúp độc giả ngày nay thêm hiểu văn học và văn hóa dân gian Thanh Hóa."
+  "entityName" : "Lê Phổ",
+  "aliases" : [ ],
+  "overview" : "Thuở nhỏ học trung học ở Hà Nội, năm 1925 ông thi vào học khóa đầu tiên (1925-1930) tại Trường cao đẳng Mĩ thuật Đông Dương chuyên về lụa và sơn mài. Năm 1930 tốt nghiệp và một thời gian sau ông được học bổng sang Pháp tiếp tục theo học tại Trường Mĩ thuật Paris. Ông là tác giả hàng trăm tác phẩm mà phần lớn đều mang hình ảnh người phụ nữ luôn được ông chăm chút với một vẻ sống động và giàu tình cảm. Theo một số nhà phê bình nghệ thuật tạo hình thì Lê Phổ là một họa sĩ bậc thầy được giới hội họa trong và ngoài nước đánh giá cao. Các tác phẩm tiêu biểu của ông: - Thiếu nữ với hoa cẩm chướng - Thiếu nữ và cây phong lan - Chân dung thiếu nữ - Kim Vân Kiều Ông mất ngày 12-12-2001 tại Paris, thọ 94 tuổi."
 }

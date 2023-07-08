@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Quí Hợi 1923",
-  "dateOfDeath" : "Mậu Dần 1998",
-  "hometown" : "quê xã Triệu Lăng, huyện Triệu Phong, tỉnh Quảng Trị",
-  "occupation" : "Đại tướng QĐND Việt Nam",
+  "dateOfBirth" : "Nhâm Tí 1912",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê xã phú Thị huyện Gia Lâm, Hà Nội (huyện Siêu Loại, tỉnh Bắc Ninh cũ)",
+  "occupation" : "Tên khai sinh: Cao Bá Thao",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
+    "Pháp đô hộ" : 11,
     "Nước Việt Nam mới" : 29
   },
   "id" : 503,
-  "entityName" : "Đoàn Khuê",
-  "aliases" : [ ],
-  "overview" : "Ông tham gia cách mạng từ năm 1939, năm 1940 bị Pháp bắt giam đày đi Ban Mê Thuột. Sau ngày Nhật đảo chính Pháp tại Đông Dương, ông tham gia thành lập Ủy ban lâm thời, chủ nhiệm Việt Minh, ủy viên quân sự tỉnh Quảng Bình. Sau ngày toàn quốc kháng chiến ông làm chính trị viên Trường lục quân trung học Quảng Ngãi. Trong suốt hai cuộc kháng chiến chống Pháp và Mĩ, ông đảm nhiệm các chức chính ủy sư đoàn, quân khu bốn, quân khu năm. Từ năm 1983-1987 tư lệnh quân tình nguyện Việt Nam tại Campuchia, rồi thứ trưởng Bộ Quốc phòng, tham mưu trưởng QĐND Việt Nam. Đến năm 1990 ông được vinh thăng Đại tướng giữ chức Bộ trưởng bộ Quốc phòng, Phó bí thư Đảng ủy quân sự trung ương, Đại biểu Quốc hội từ khóa VI-IX, ủy viên Ban chấp hành trung ương ĐCS Việt Nam, ủy viên Bộ chính trị khóa VI-VIII (1997). Ông được Đảng và Nhà nước Việt Nam tặng nhiều Huân chương cao quí, trong đó có huân chương Hồ Chí Minh. Ông mất năm 1998 tại Hà Nội, thọ 75 tuổi."
+  "entityName" : "Cao Bá Thao",
+  "aliases" : [ "Thao Thao" ],
+  "overview" : "Thao Thao có thơ in từ năm 1935. Tập thơ đầu tiên của ông là tập Dưới trăng (1935) gồm toàn thơ 8 chữ. Ngoài làm thơ ông còn viết báo, viết kịch thơ. Năm 1957 ông tham dự Đại hội thành lập Hội Nhà văn Việt Nam. Các tác phẩm chính: - Dưới trăng (thơ, 1935) - Bờ suối (thơ, 1935) - Thuyền mở (thơ, 1936) - Ải Bắc (thơ, 1942) - Trăng nước (thơ, 1943) - Quán biên thuỳ (Kịch thơ, 1943)."
 }

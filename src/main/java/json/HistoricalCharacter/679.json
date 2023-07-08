@@ -1,16 +1,17 @@
 {
   "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
-  "hometown" : "xã Xuân Lôi, huyện Vũ Ninh (nay thuộc xã Đại Xuân huyện Quế Võ, tỉnh Bắc Ninh) .",
-  "occupation" : "Không rõ",
+  "hometown" : "quê ở Đông Sơn, Phủ Trinh, tỉnh Thanh Hóa",
+  "occupation" : "Con danh sĩ Lê Quát ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "nhà Mạc" : null
+    "Nhà Trần" : 15,
+    "nhà Trần" : null
   },
   "id" : 679,
-  "entityName" : "Hoàng Văn Tán",
-  "aliases" : [ ],
-  "overview" : "Hoàng Văn Tán (chữ Hán: 黃文贊, ? - ?) người xã Xuân Lôi, huyện Vũ Ninh (nay thuộc xã Đại Xuân huyện Quế Võ, tỉnh Bắc Ninh) . Ông thi đỗ trạng nguyên năm 1523, trong khoa thi Quý Mùi, niên hiệu Thống Nguyên thứ hai của vua Lê Cung Đế . Ông được giao cùng với Đông các đại học sĩ Đạo Nguyện bá Nguyễn Văn Thái thảo tờ chiếu của Lê Cung Hoàng nhường ngôi cho Mạc Đăng Dung (Đại Việt Sử ký Toàn thư chỉ chép là Nguyễn Văn Thái thảo chiếu này ). Sau đó, ông làm quan nhà Mạc đến chức Tả Thị lang Bộ Lễ ."
+  "entityName" : "Lê Giác",
+  "aliases" : [ "Lê Giác" ],
+  "overview" : "Lê Giốc hay Lê Giác (? -?) là một đại quan nhà Trần trong lịch sử Việt Nam.\n----------------------------------------------\nĐời Trần Duệ tông, ông làm Ninh phủ sứ ở Nghệ An. Bấy giờ, Duệ tông thân chinh Chiêm Thành, tử trận, Trần Hiệp hàng giặc. Năm Đinh tị 1377, nguời Chiêm đưa Hiệp về Nghệ An lập làm vua, ông phản kháng quyết liệt, liền dàn quân đóng giữ ở yếu điểm Đại Hoàng. Giặc chiêu dụ, ông lớn tiếng mạt sát. Vua Chiêm là Chế Bồng Nga tiến đánh, ông sa cơ bị bắt, không khuất phục và mắng chửi thẳng vào mặt quân thù. - Ta là trọng thần nước lớn, há đi quì lạy ngươi là dân rợ nhỏ sao? Giặc giết ông chết. Về sau quân dân ta bình được Chiêm Thành, vua Trần tưởng niệm ông, xưng tặng là \"Mạ tặc Trung Võ Hầu\", sắc truy phong làm phúc thần, có miếu thờ ven sông Đại Hoàng."
 }

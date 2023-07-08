@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "Tháng 10 năm 1931 Sơn Tây, Việt Nam",
-  "dateOfDeath" : "12 tháng 11, 1996 (65 tuổi) Los Angeles, California Hoa Kỳ",
-  "hometown" : "Không rõ",
-  "occupation" : "Thuộc",
-  "workTenure" : "1951-1975",
+  "dateOfBirth" : "Kỉ Mão 1759",
+  "dateOfDeath" : "Quí Mùi 1823",
+  "hometown" : "quê ở thôn Đại Hành",
+  "occupation" : "Danh sĩ cuối đời Hậu Lê",
+  "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
   "id" : 30,
-  "entityName" : "Lê Nguyên Khang",
+  "entityName" : "Nguyễn Bá Xuyến",
   "aliases" : [ ],
-  "overview" : "Lê Nguyên Khang (1931-1996), nguyên là một tướng lĩnh gốc Hải quân của Quân lực Việt Nam Cộng hòa, cấp bậc Trung tướng Ông xuất thân từ khóa đầu tiên tại trường Sĩ quan Trừ bị do Quốc gia Việt Nam mở ra ở miền Bắc Việt Nam. Ra trường, ông phục vụ trong Quân chủng Hải quân, sau chuyển sang bộ phận Bộ binh Hải quân (Thuỷ quân Lục Chiến). Hầu hết thời gian tại ngũ, ông phục vụ trong Binh chủng này. Ông là người chỉ huy Binh chủng Thủy Quân Lục Chiến với thời gian lâu nhất. Ông cũng từng là chỉ huy đơn vị cấp Biệt khu, Quân đoàn và là sĩ quan giữ chức vụ cao cấp tại Bộ Tổng Tham mưu."
+  "overview" : "Ông mồ côi cha từ bé, lưu lạc nhiều nơi, có chí cầu học, nổi tiếng văn chương. Năm 34 tuổi (Quí sửu 1793) ông vào Gia Định theo giúp Nguyễn Ánh, được làm Khâm sai chưởng cơ, rồi làm An phủ sứ phủ Hoài Đức, tước Xuyến Ngọc Hầu. Năm Quí mùi 1823, ông mất, thọ 64 tuổi. Còn để lại bộ Xuyến Ngọc Hầu thi văn tập gồm hơn 50 bài thơ quốc âm và nhiều bài văn tế (tạp chí Nam Phong có sao lục, đăng từ số 117 đến 126) Nay còn truyền một bản Công thần Nguyễn An phủ sứ truyện."
 }

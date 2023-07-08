@@ -1,20 +1,18 @@
 {
-  "dateOfBirth" : "27 tháng 4, 1770 Thăng Long, Đại Việt",
-  "dateOfDeath" : "4 tháng 12, 1799 (29 tuổi) chùa Kim Tiền, Huế, Đại Việt",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Bắc Cung hoàng hậu nhà Tây Sơn",
-  "workTenure" : "1788 - 1792",
+  "occupation" : "Vua",
+  "workTenure" : "1681–1683",
   "fatherName" : {
-    "Lê Hiển Tông" : 4
+    "Mạc Kính Vũ" : 1506
   },
-  "motherName" : {
-    "Chiêu nghi Nguyễn Thị Huyền" : null
-  },
+  "motherName" : { },
   "eraName" : {
-    "Nhà Hậu Lê Nhà Tây Sơn" : null
+    "Bắc triều – Nhà Mạc  và thời kỳ Cao Bằng" : null
   },
   "id" : 571,
-  "entityName" : "Lê Ngọc Hân",
-  "aliases" : [ "Như Ý Trang Thuận Trinh Nhất Vũ Hoàng hậu", "Ngọc Hân công chúa Hữu cung hoàng hậu Bắc cung hoàng hậu", "Lê Ngọc Hân" ],
-  "overview" : "Lê Ngọc Hân (chữ Hán: 黎玉忻, 1770-1799) còn gọi Ngọc Hân công chúa hay Bắc Cung Hoàng hậu (北宮皇后) là công chúa nhà Hậu Lê và hoàng hậu nhà Tây Sơn trong lịch sử Việt Nam, vợ của vua Quang Trung (Nguyễn Huệ). Dân gian còn lưu truyền tên gọi bà là Bà Chúa Tiên khi bà ở Phú Xuân vì dinh phủ lập ở chùa Kim Tiên."
+  "entityName" : "Mạc Đức Tông",
+  "aliases" : [ ],
+  "overview" : "Mạc Kính Quang (莫敬光) hay Mạc Kính Tiêu (莫敬蕭) hoặc Mạc Kính Hoảng (莫敬晃), là vị vua cuối cùng của Nhà Mạc thời hậu kỳ. Nguyên quán Mạc Kính Quang là người xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách, tỉnh Hải Dương). Tuy nhiên, ông không được nhắc đến trong sử sách Việt Nam."
 }

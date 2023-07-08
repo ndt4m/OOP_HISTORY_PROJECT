@@ -1,17 +1,19 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "1471\n----------------------------------------------\nTân Mão 1471",
-  "hometown" : "xã Minh Tiến, huyện Ngọc Lặc, Thanh Hóa.\n----------------------------------------------\nKhông rõ",
-  "occupation" : "Ông là em Đinh Lễ. Danh tướng kháng Minh dưới cờ Bình Định vương Lê Lợi. Trong trận đánh ở rừng Chi Lăng ông giết tướng Minh là Liễu Thăng, được phong làm Tư ma, tước Đình Thượng Hầu.",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "dateOfBirth" : "175 TCN\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "124 TCN Nam Việt\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Nam Việt\n----------------------------------------------\nVua",
+  "workTenure" : "137 TCN – 124 TCN\n----------------------------------------------\n137—125TCN",
+  "fatherName" : {
+    "Triệu Trọng Thủy" : null,
+    "Trọng Thủy" : 1533
+  },
   "motherName" : { },
   "eraName" : {
-    "nhà Lê Sơ" : null,
-    "Triều Lê Sơ" : 7
+    "Nhà Triệu" : 16
   },
   "id" : 2152,
-  "entityName" : "Đinh Liệt",
-  "aliases" : [ "Lê Liệt" ],
-  "overview" : "Đinh Liệt (chữ Hán: 丁列) hay Lê Liệt (? - 1471) là công thần khai quốc nhà nhà Lê Sơ trong lịch sử Việt Nam, người thôn Phúc Long, xã Minh Tiến, huyện Ngọc Lặc, Thanh Hóa.\n----------------------------------------------\nNăm Giáp dần 1434, quân Chiêm đánh cướp ngoài ven, ông vâng lệnh đem quân dẹp yên ngay. Đến cuối đời Lê Nhân tông, Kỉ mão 1459, ông cùng Nguyễn Xí mưu giết được Lạng Sơn vương Lê Nghi Dân, bình được nội loạn. Sau Thánh tông nối ngôi, phong ông làm Thái phó, tước Á Quận Công. Năm Canh dần 1470, ông sung chức Chính lỗ tướng quân hộ giá Lê Thánh tông đi đánh Chiêm Thành, cùng với Lê Niệm đốc suất đội chiến thuyền đi trước, tiến lấy được thành Đồ Bàn. Năm sau, Tân mão 1471 ông mất, truy phong là Mục vương. Mãi đến đời nhà Nguyễn vẫn còn nhắc nhở đến ông. Đời Minh Mạng, Quí tị 1823, liệt thờ ông vào miếu Lịch Đại đế vương."
+  "entityName" : "Triệu Văn Vương",
+  "aliases" : [ "Văn Hoàng đế (文皇帝)", "Triệu Hồ", "Triệu Mạt Triệu Muội (趙眜) Triệu Hồ (趙胡)" ],
+  "overview" : "Triệu Văn Đế (趙文帝) hay Triệu Văn Vương (趙文王), húy Triệu Mạt, có khi phiên âm là Triệu Muội (趙眜), còn gọi là Triệu Hồ (趙胡), là vị vua thứ 2 nhà Triệu nước Nam Việt, cháu nội của Triệu Đà, lên ngôi năm 137 TCN.\n----------------------------------------------\nTriệu Văn Đế (趙文帝) hay Triệu Văn Vương (趙文王), húy Triệu Mạt, có khi phiên âm là Triệu Muội (趙眜), còn gọi là Triệu Hồ (趙胡), là vị vua thứ hai nhà Triệu nước Nam Việt, cháu nội của Triệu Đà, lên ngôi năm 137 TCN."
 }

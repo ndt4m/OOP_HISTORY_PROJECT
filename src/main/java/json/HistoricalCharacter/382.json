@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Canh Ngọ 1870",
-  "dateOfDeath" : "Ất Hợi 1935",
-  "hometown" : "quê ở Bu N'Trang, huyện Đắc Nông, tỉnh Đắk Lắk (Ban Mê Thuột) Cao nguyên Trung phần Việt Nam",
-  "occupation" : "Nhà yêu nước thuộc dân tộc Mơ Nông",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "xã Yên Thành, Yên Mô, Ninh Bình).",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "nhà Hậu Trần" : null
   },
   "id" : 382,
-  "entityName" : "Nơ Trang Long",
+  "entityName" : "Trần Triệu Cơ",
   "aliases" : [ ],
-  "overview" : "Ông xuất thân trong một gia đình nông dân là Tù trưởng một bộ lạc sống ở Bu N'Trang giàu lòng yêu nước, căm thù giặc Pháp xâm chiếm nước ta. Ông đã đứng lên lãnh đạo các dân tộc Tây Nguyên như Mơ Nông, Stieng, Mạ, vũ trang chống Pháp năm 1929. Ông biết lợi dụng địa thế hiểm trở của vùng Tây Nguyên, tổ chức đánh du kích, gây cho quân Pháp nhiều thiệt hại trong hơn 20 năm liền. Ngày 23-5-1935, ông chỉ huy chống một trấn càn của lực lượng thực dân khá đông. Ông hi sinh trong lúc chiến đấu vào ngày 25-6-1935, thọ 65 tuổi."
+  "overview" : "Trần Triệu Cơ (chữ hán: 陳 肇 基) là vị tướng có công thiết lập nhà Hậu Trần trong lịch sử Việt Nam. Ông là người Mô Độ, châu Trường An, phủ Thiên Trường, trấn Sơn Nam (nay thuộc xã Yên Thành, Yên Mô, Ninh Bình)."
 }

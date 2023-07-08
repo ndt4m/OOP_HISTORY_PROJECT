@@ -1,17 +1,16 @@
 {
-  "dateOfBirth" : "1776\n----------------------------------------------\nBính Thìn 1916",
-  "dateOfDeath" : "1798\n----------------------------------------------\nBính Ngọ 1966",
-  "hometown" : "quê xã Hanh Thông quận Gò Vấp, tỉnh Gia Định, nay thuộc Thành phố Hồ Chí Minh",
-  "occupation" : "Liệt sĩ cách mạng",
+  "dateOfBirth" : "Giáp Thìn 1664",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Đan Loan, huyện Đường An, trấn Hải Dương (nay thuộc huyện Bình Giang, tỉnh Hải Dương)",
+  "occupation" : "Danh sĩ đời Lê Hi tông",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Trịnh - Nguyễn" : 34
   },
   "id" : 1124,
-  "entityName" : "Nguyễn Văn Bảo",
+  "entityName" : "Võ Thạnh",
   "aliases" : [ ],
-  "overview" : "Nguyễn Văn Bảo (阮文寶, 1776 - 1798): hay còn gọi là Nguyễn Bảo(阮寶), Tiểu triều vị vua bị phế truất của triều Tây Sơn.\n----------------------------------------------\nNăm 1946, làm chủ nhiệm Mặt trận Việt Minh tỉnh Gia Định. Sau chuyển qua hoạt động quân sự, cấp bậc Đại tá kiêm Chính ủy sư đoàn 330. Sau hiệp định Genève ông ở lại miền Nam hoạt động, giữ chức Chính ủy bộ chỉ huy Đặc khu Sài Gòn - Gia Định. Ông hi sinh ngày 9-1-1966 tại Củ Chi."
+  "overview" : "Nhà nghèo, ông bỏ quê, ra ở chùa Báo Thiên, huyện Thọ Xương, theo học với tiến sĩ Võ Công Đạo ở Kinh đô. Có chí, có tài, ông nổi tiếng văn thơ. Năm Ất sửu 1685 ông đỗ Thám hoa làm đến Hồng lô tự khanh, Thiêm đô ngự sử, Bồi tụng. Có lúc bị chúa Trịnh bãi chức, nhưng không lâu lại được khôi phục chức cũ. Lúc về hưu ông mở trường dạy học tại quê nhà. Tác phẩm của ông là bộ Hào Nam văn tập (lấy tên nơi ông mở trường dạy học trại Hào Nam, thuộc Kinh đô) nay đã mất."
 }

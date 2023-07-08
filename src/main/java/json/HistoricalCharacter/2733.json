@@ -1,17 +1,14 @@
 {
-  "dateOfBirth" : "Kỉ Mùi 1919",
-  "dateOfDeath" : "Kỉ Dậu 1969",
-  "hometown" : "quê tỉnh Bắc Ninh",
-  "occupation" : "Liệt sĩ hiện đại",
-  "workTenure" : "Không rõ",
+  "dateOfBirth" : "20 tháng 2, 1927 Tây Sơn, Bình Định, Trung Kỳ, Đông Dương thuộc Pháp",
+  "dateOfDeath" : "20 tháng 10, 2013 (86 tuổi) Hà Nội, Việt Nam",
+  "hometown" : "Không rõ",
+  "occupation" : "Thuộc",
+  "workTenure" : "1945-1996",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
-  },
+  "eraName" : { },
   "id" : 2733,
-  "entityName" : "Phan Đức",
+  "entityName" : "Nguyễn Nam Khánh",
   "aliases" : [ ],
-  "overview" : "Ông tham gia cách mạng từ hồi còn trẻ, đảng viên kì cựu đảng cộng sản Đông Dương, xứ ủy viên xứ ủy Bắc Kì. Sau năm 1945, ông hoạt động ở Sài Gòn, từng là ủy viên thường trực thành ủy Sài Gòn - Gia Định, kiêm Bí thư Phân khu I. Năm 1969 ông hi sinh trên đường công tác tại chiến trường."
+  "overview" : "Nguyễn Nam Khánh (20 tháng 2 năm 1927 - 20 tháng 10 năm 2013) là một cựu tướng lĩnh Quân đội Nhân dân Việt Nam. Ông từng giữ chức Phó Chủ nhiệm Tổng cục Chính trị Quân đội Nhân dân Việt Nam, hàm Thượng tướng."
 }

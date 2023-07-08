@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "602",
-  "hometown" : "Không rõ",
-  "occupation" : "Vua nước Dã Năng",
-  "workTenure" : "555 – 571",
+  "dateOfBirth" : "Giáp Dần 1554",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng An Hoa, huyện Quảng Đức, trú làng Đan Loan huyện Đường An, tỉnh Hải Dương (nay thuộc tỉnh Hải Dương)",
+  "occupation" : "Danh thần nhà Mạc, vốn là ngoại tổ 7 đời của danh sĩ Tùng Niên Phạm Đình Hổ",
+  "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Tiền Lý" : 36
+    "Nam - Bắc Triều" : 19
   },
   "id" : 51,
-  "entityName" : "Lý Phật Tử",
-  "aliases" : [ "Lý Phật Tử (李佛子)", "(Hậu) Nam Việt Hoàng Đế (後)南越皇帝 Anh Liệt Nhân Hiếu Khâm Minh Thánh Vũ Hoàng Đế (英烈仁孝欽明聖武皇帝)" ],
-  "overview" : "Hậu Lý Nam Đế (chữ Hán: 後李南帝; trị vì: 571-602) là vua nhà Tiền Lý trong lịch sử Việt Nam. Ông tên thật là Lý Phật Tử (李佛子; ?-602), người Thái Bình, phủ Long Hưng (Sơn Tây), là cháu họ của Lý Nam Đế."
+  "entityName" : "Bùi Thế Vinh",
+  "aliases" : [ ],
+  "overview" : "Năm Diện Thành 3 (Canh thìn 1580) đời Mạc Hợp, ông 26 tuổi, đỗ tiến sĩ, làm quan đến Tự khanh. Khi nhà Mạc bị đánh dứt, ông lui về quê. Nhà Lê cho vời ông và Đỗ Uông (tục gọi là Thượng Thông) và Nhữ Công Tụng (tức Thượng Nhữ) ra làm quan. Đỗ và Nhữ vâng theo, riêng ông lấy dao rạch đầu gối cáo bệnh không chịu ra. Bấy giờ, lại có bà Thường quốc phu nhân tự thắt cổ tuẫn tiết. Dân gian có lời ngợi khen ông và bà ấy: \"Con dao Đan Loan, dây thừng Phu nhân\"."
 }

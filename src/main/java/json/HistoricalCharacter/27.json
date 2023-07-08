@@ -1,16 +1,14 @@
 {
-  "dateOfBirth" : "1533 hoặc 1534 Thượng Cốc, huyện Lôi Dương (Thanh Hóa)",
-  "dateOfDeath" : "1609 (74–75 tuổi) hoặc 1609 (75–76 tuổi)",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
   "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Nhà Lê trung hưng" : null
-  },
+  "eraName" : { },
   "id" : 27,
-  "entityName" : "Lê Trạc Tú",
+  "entityName" : "Nguyễn Sĩ",
   "aliases" : [ ],
-  "overview" : "Lê Trạc Tú (chữ Hán: 黎擢秀) (1533 hoặc 1534-1609) là một tể tướng và thượng thư thời Lê trung hưng."
+  "overview" : "Nguyễn Sĩ (?-?), là một võ tướng trong phong trào Cần Vương ở Nghệ An, Việt Nam."
 }

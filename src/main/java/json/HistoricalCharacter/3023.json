@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Giáp Dần 1854",
-  "dateOfDeath" : "1883\n----------------------------------------------\nQuí Hợi 1883",
-  "hometown" : "quê làng Quỳnh Đôi, huyện Quỳnh Lưu, tỉnh Nghệ An, là án sát tỉnh Nam Định cũ và đã hy sinh trong trận chiến giữ thành Nam Định, cùng với Nguyễn Hữu Bản (con trai Nguyễn Mậu Kiến) và Đề đốc Lê Văn Điếm, khi Pháp xâm lược Bắc kỳ lần thứ hai (1883).\n----------------------------------------------\nquê xã Quỳnh Đôi, huyện Quỳnh Lưu, tỉnh Nghệ An, con cử nhân Hồ Bá Toàn, cháu nội cử nhân Hồ Bá Hưng",
-  "occupation" : "Liệt sĩ đời ",
+  "dateOfBirth" : "Nhâm Dần 1902",
+  "dateOfDeath" : "Đinh Mão 1987",
+  "hometown" : "tại Hà Nội, nguyên quán huyện Gia Bình, tỉnh Bắc Ninh (nay thuộc tỉnh Bắc Ninh), sống và làm việc ở Hà Nội từ lúc còn trẻ cho đến ngày qua đời",
+  "occupation" : "Nhà nghiên cứu văn học",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 3023,
-  "entityName" : "Hồ Bá Ôn",
-  "aliases" : [ "Đức" ],
-  "overview" : "Hồ Bá Ôn (胡伯溫, ?-1883), quê làng Quỳnh Đôi, huyện Quỳnh Lưu, tỉnh Nghệ An, là án sát tỉnh Nam Định cũ và đã hy sinh trong trận chiến giữ thành Nam Định, cùng với Nguyễn Hữu Bản (con trai Nguyễn Mậu Kiến) và Đề đốc Lê Văn Điếm, khi Pháp xâm lược Bắc kỳ lần thứ hai (1883).Ông được truy tặng hàm Quang Lộc Tư Khanh, thờ ở đền Trung Nghĩa.\n----------------------------------------------\nNăm Canh ngọ 1870, đỗ cử nhân, năm Ất hợi 1875 đỗ phó bảng, 21 tuổi. Ông làm Án sát tỉnh Nam Định, nổi tiếng liêm chính. Năm Quí hợi 1883, giặc Pháp chiếm thành Nam Định, ông tử trận, hưởng dương 29 tuổi, đưọc truy tặng hàm Quang lộc tự khanh và thờ vào đền Trung nghĩa. Con trai ông là Hồ Bá Kiện cũng là bậc anh hùng liệt sĩ. Ông có đôi câu đối điếu Hoàng giáp Tam Đãng Phạm Văn Nghị còn truyền tụng: \"Cao danh bất hủ Hoa lư thạch; Nghĩa phẫn do minh vị chữ đào\". Dịch: Nhan danh truyền mãi hang Liên Động Nghĩa phẫn còn vang sóng vị Hoàng. (Sau khi kháng chiến với giặc Pháp vùng sông Độc Bộ, tuổi già Phạm Văn Nghị về ở ẩn nơi động Liên Hoa ở Hoa Lư.)"
+  "entityName" : "Vũ Ngọc Phan",
+  "aliases" : [ ],
+  "overview" : "Ông viết văn, soạn sách, dịch thuật từ những năm còn trẻ, nổi tiếng là một cây bút tiểu luận, phê bình văn học sáng giá tại Hà Nội từ những năm 30. Ông từng cộng tác vói các báo Phong Hóa, Ngày Nay, Tự lực văn đoàn, nhất là nhóm Tân Dân của Vũ Đình Long... trước năm 1945. Sau cách mạng tháng Tám và Toàn quốc kháng chiến, ông nhiệt tình tham gia công tác văn hóa kháng chiến, từng giữ các chức vụ: Chủ tịch ủy ban kháng chiến khu Đống Đa - Hà Nội, Tổng thư kí ủy ban vận động Hội nghị Văn hóa toàn quốc, ủy viên thường trực Đoàn Văn hóa kháng chiến Liên khu IV, ủy viên ban chấp hành Hội Văn học nghệ thuật Việt Nam... Ông được nhà nước Việt Nam tặng thưởng nhiều Huân chương. Ngày 14-6-1987 ông mất tại Hà Nội, thọ 85 tuổi. Các tác phẩm của ông đã xuất bản: - Nhà văn hiện đại (5 tập, 1940) - Nhìn sang láng giềng (1941) - Thời kì binh hỏa (1941) - Thi sĩ Trung Nam (1942) - Tiểu Nhiên Mi cơ (phóng tác, 1942) - Ba loại văn (Tân Dân, 1944) - Trên đường nghệ thuật (1944) - Chuyện Hà Nội (bút kí, 1944) - Con đường mới của thanh niên (1944) - Những trận đánh Pháp (1946) - Truyện cổ tích Việt Nam (1956) - Tục ngữ và dân ca Việt Nam (1957) Sau khi ông qua đời được nhà nước Việt Nam truy tặng Giải thưởng Hồ Chí Minh."
 }

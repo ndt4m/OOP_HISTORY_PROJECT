@@ -1,17 +1,16 @@
 {
-  "dateOfBirth" : "1434\n----------------------------------------------\nGiáp Dần 1434",
+  "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
-  "hometown" : "Thái Nguyên",
-  "occupation" : "Danh thần, thuở trẻ có tên là Viễn",
-  "workTenure" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Vua",
+  "workTenure" : "1409—1414",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "nhà Lê" : null,
-    "Triều Lê Sơ" : 7
+    "Nhà Hậu Trần" : 23
   },
   "id" : 2103,
-  "entityName" : "Đỗ Cận",
-  "aliases" : [ "Viễn", "Cận", "Hữu Khác", "Phổ Sơn" ],
-  "overview" : "Đỗ Cận (1434-?), trước tên là Viễn, sau được vua Lê Thánh Tông đổi lại là Cận, tự: Hữu Khác, hiệu: Phổ Sơn; là danh thần nhà Lê sơ trong lịch sử Việt Nam.\n----------------------------------------------\nTự là Hữu Khác, hiệu Phổ Sơn, quê ở xã Thông Thượng, huyện Phổ Yên, tỉnh Thái Nguyên. Năm Mậu tuất 1478, ông đỗ Tam giáp đồng tiến sĩ, làm thượng thư. Khoảng năm Quí mão 1483, ông đi sứ Minh, có soạn tập Kinh Lăng kí, tả phong tục và phong cảnh Thủ đô Kim Lăng của Trung Quốc."
+  "entityName" : "Trùng Quang Đế",
+  "aliases" : [ ],
+  "overview" : "Trùng Quang Đế (chữ Hán: 重光帝 ? – 14 tháng 4 năm 1414) là vị hoàng đế thứ hai của nhà Hậu Trần, một triều đại được dựng lên ở miền nam Đại Việt để chống lại sự đô hộ của đế quốc Minh sau năm 1407. Ông có tên húy là Trần Quý Khoáng (陳季擴) hay Trần Quý Khoách, là cháu nội của Trần Nghệ Tông. Khi chú ông là Giản Định Đế dựng nhà Hậu Trần (1407), ông giữ chức Nhập nội thị trung. Năm 1408, các tướng Đặng Dung và Nguyễn Cảnh Dị bất bình với Giản Định Đế mới vào Nghệ An lập Trần Quý Khoáng lên ngôi vua. Trần Quý Khoáng tôn Giản Định Đế làm Thái thượng hoàng, cùng tiến quân ra bắc đánh Minh, đến năm 1409, Thượng hoàng bị địch bắt giết."
 }

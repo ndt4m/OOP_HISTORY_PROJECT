@@ -1,14 +1,17 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Tân Hợi 1911",
+  "dateOfDeath" : "Ất Hợi 1995",
+  "hometown" : "Hà Nội",
+  "occupation" : "Nhà văn, nhà báo",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
+  },
   "id" : 655,
-  "entityName" : "Phạm Khắc",
+  "entityName" : "Lê Văn Siêu",
   "aliases" : [ ],
-  "overview" : "Phạm Khắc (1939–17 tháng 5 năm 2007) là một nhà quay phim, nhà nhiếp ảnh nối tiếng trong làng nhiếp ảnh, quay phim và truyền hình Việt Nam; ông được xem là người đặt nền móng cho thể loại phim ký sự của Đài truyền hình TP HCM. Ông được phong tặng danh hiệu Nghệ sĩ nhân dân, Anh hùng Lao động."
+  "overview" : "Thuở nhỏ học ở Hà Nội, tốt nghiệp trường Công nghệ thực hành ở Hải Phòng, năm 1932 làm việc tại sở công chánh Hà Nội (Đốc công nhà máy gạch Đáp Cầu) Những năm 40 cộng tác với nhóm Hàn Thuyên của Nguyễn Đức Quỳnh, cùng Trương Tửu. Đặng Thái Mai... Viết báo Tiếng Trẻ và một số sách về thanh niên và thực nghiệp do nhà Hàn Thuyên xuất bản trước Thế chiến II. Năm 1934 - 36 làm chánh văn phòng nghiên cứu kĩ thuật Sở Hỏa xa Hồ Nam - Quảng Tây (TQ). Khoảng các năm 1938-1944 ông chuyển về làm việc ở sở công chánh Hà Nội. Thời gian này ông hợp tác chặt chẽ với nhóm Hàn Thuyên viết các loại sách Tân văn hóa, giữ chức trưởng ban khánh tiết Hội truyền bá quốc ngữ Hải Phòng. Sau toàn quốc kháng chiến, tản cư ra vùng Tự do tham gia Hội đồng chuyên môn sản xuất kĩ nghệ ở liên khu III… Năm 1947 bị Pháp hành quân bắt về Hà Nội. Năm 1949 chuyển vào sống ở Sài Gòn với nghề thầu khoán, đến năm 1952 ông làm chủ bút báo Mới của Phan Văn Tươi, rồi tuần báo Phương Đông cho đến hiệp định Genève. Từ năm 1959 chủ bút các báo Cách mạng Quốc gia, nguyệt san Sáng dội Miền Nam. Năm 1967 ông được mời dạy một số giờ tại Đại học Vạn Hạnh, Cao Đẳng Phật học Huệ Nghiêm ở Sài Gòn... Ông mất năm 1995 tại quận Thủ Đức TP.HCM. Các tác phẩm chính đã xuất bản: - Hợp lí hóa Taylor(HànThuyên,1940). - Thanh niên và thực nghiệp (Hàn Thuyên, 1940) - Luân lí và thực nghiệp (Hàn Thuyên, 1941) - Tương lai kĩ nghệ Việt Nam (Hàn Thuyên, 1942) - Học để làm gì ? (1957) - Văn minh Việt Nam (1954, Sài Gòn) - Nguồn gốc văn học (Thế giới, 1956 Sài Gòn) - Tân Xuân tùy bút (Nguyễn Đình Vượng, 1960) - Giai nhân kì ngộ (Phan Châu Trinh, chú thích, 1958 Sài Gòn) - Văn học đời Lý (1957, Sài Gòn) - Nếp sống tình cảm của người Việt Nam (1955, Sài Gòn) - Việt Nam văn minh sử cương) (1967) - Quốc sư Vạn Hạnh (kịch, 1967) - Văn học sử thời kháng Pháp (1973, Sài Gòn) - Sửa đổi lề lối làm việc (1958) - Việt Nam văn minh sơ lược khảo (1972) - Truyền thống dân tộc (1968)"
 }

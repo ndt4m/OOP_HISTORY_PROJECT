@@ -1,16 +1,14 @@
 {
   "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
+  "dateOfDeath" : "43",
   "hometown" : "Không rõ",
   "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "nhà Lê" : null
-  },
+  "eraName" : { },
   "id" : 1403,
-  "entityName" : "Nguyễn Cư Đạo",
+  "entityName" : "Trưng Nhị",
   "aliases" : [ ],
-  "overview" : "Nguyễn Cư Đạo là danh thần nhà Lê sơ trong lịch sử Việt Nam. Ông phục vụ dưới 4 triều vua Lê Thái Tông, Lê Nhân Tông, Lê Nghi Dân và Lê Thánh Tông."
+  "overview" : "Trưng Nhị (chữ Hán: (徵貳; ?-43) là thủ lĩnh chống sự đô hộ của nhà Đông Hán thời Bắc thuộc trong lịch sử Việt Nam. Bà cùng chị là Trưng Trắc đã lãnh đạo người Việt đánh đuổi thái thú Tô Định nhà Đông Hán. Sau khi cuộc khởi nghĩa này bị quân Hán dưới sự chỉ huy của Mã Viện đánh bại, tục truyền rằng vì không muốn chịu khuất phục, bà cùng Trưng Trắc đã nhảy xuống sông tự tử."
 }

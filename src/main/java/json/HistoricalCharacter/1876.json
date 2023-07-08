@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê làngThổ Thành, phủ Diễn Châu, tỉnh Nghệ An, sang cư ngụ xã Vô Ngại, huyện Đường Hào (sau là phủ Mĩ Hào) tỉnh Hưng Yên (nay vẫn là tỉnh Hưng Yên)",
-  "occupation" : "Danh sĩ đời Trần Duệ tông",
+  "dateOfBirth" : "6 tháng 3, 1911 Gia Lộc, Hải Dương, Việt Nam, Bắc Kỳ, Liên bang Đông Dương\n----------------------------------------------\nQuí Sửu 1913",
+  "dateOfDeath" : "16 tháng 8, 1989 (78 tuổi) Hà Nội, Việt Nam\n----------------------------------------------\nKỉ Tị 1989",
+  "hometown" : "tại làng Thượng Cốc huyện Tứ Lộc, tỉnh Hải Dương",
+  "occupation" : "Nhà hoạt động cách mạng, tên thường dùng là Lê Thanh Nghị",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Trần" : 15
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 1876,
-  "entityName" : "Hồ Tông Thốc",
-  "aliases" : [ ],
-  "overview" : "Hồ Tông Thốc(胡宗簇) là một vị quan, nhà sử học của Việt Nam vào thời vua Trần Nghệ Tông. Ông làm quan cho triều Trần tới chức Hàn Lâm học sĩ phụng chỉ kiêm Thẩm hình viện sứ, soạn các bộ sách sử như Việt Nam thế chí (1 bộ); Việt sử cương mục (1 bộ), nay đã thất lạc, mất năm 80 tuổi.\n----------------------------------------------\nNăm Nhâm tí 1372, ông đỗ Thái học sinh làm An phủ sứ, ông có sang sứ nhà Minh. Năm Bính dần 1386, làm Học sĩ Viện Hàn lâm, kiêm chức Thẩm hình viện sự. Đến khi Hồ Quí Ly truất phế Trần Thiếu đế, ông cáo quan lui về, hơn 80 tuổi mới mất, còn để lại các sách: - Thảo nhàn hiệu tần tập - Việt sử cương mục. - Việt Nam thế chí - Phú học chỉ nam Ông còn có nhiều bài thơ được truyền tụng như: Qua miếu Hạng Võ, Tặng Nuyễn Phi Khanh. Ông cũng có soạn bài văn Bia chùa Báo ân. Con cháu ông như Hồ Sĩ Dương, Hồ Sĩ Đống đều là bậc danh sĩ đương thời."
+  "entityName" : "Nguyễn Văn Xứng",
+  "aliases" : [ "Lê Thanh Nghị" ],
+  "overview" : "Lê Thanh Nghị (1911-1989) là một chính khách Việt Nam. Ông từng giữ chức Phó Thủ tướng của Việt Nam từ năm 1960 đến 1980, Phó chủ tịch kiêm Tổng thư ký Hội đồng Nhà nước (1982-1986).\n----------------------------------------------\nThuở nhỏ học ở Hải Dương, lớn lên được Việt Nam Thanh niên Cách mạng đồng chí Hội kết nạp và đưa đi hoạt động ở Uông Bí, rồi được kết nạp vào Đảng Cộng Sản Đông Dương năm 1930. Năm 1932 ông bị đày ra Côn Đảo. Trong tù, được các đồng chí lớn tuổi giúp đỡ ông tích cực học tập văn hóa, chính trị và tham gia công tác. Năm 1936 ông được trả tự do, trở về hoạt động, xây dựng cơ sở quần chúng, và cơ sở Đảng, và có chân trong thành ủy Hà Nội. Cuối năm 1937, ông được tổ chức cử phái về hoạt động ở quê nhà Hải Dương, tham gia liên tỉnh ủy, xứ ủy Bắc Kì... vào thời điểm này ông bị Pháp bắt đày lên Sơn La. Đầu năm 1945 ông được trả tự do, trở về hoạt động ở Hà Nội. Lúc này ông giữ chức thường vụ Xứ ủy Bắc kì cho đến cách mạng tháng Tám thành công. Trong kháng chiến chống Pháp, ông làm bí thư Liên Khu ủy III, năm 1949 làm chánh văn phòng Trung ương Đảng. Tại Đại hội lần thứ II của Đảng, ông được bầu vào Ban Chấp hành Trung ương (1951), ít năm sau vào Bộ chính trị, giữ chức Phó Thủ tướng chính phủ. Đại biểu Quốc hội từ khoá II - VI. Ông mất tại Hà Nội trong năm 1989, ông được Đảng và Nhà nước Việt Nam tặng nhiều huân chương cao quí, trong đó có Huân chương sao vàng."
 }

@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
+  "dateOfBirth" : "1452",
   "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
   "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "nhà Lê" : null
+  },
   "id" : 1746,
-  "entityName" : "Dương Hùng",
+  "entityName" : "Nguyễn Nhân Thiếp",
   "aliases" : [ ],
-  "overview" : "Dương Hùng có thể là:"
+  "overview" : "Nguyễn Nhân Thiếp (1452 - ?) là đại thần nhà Lê sơ trong lịch sử Việt Nam."
 }

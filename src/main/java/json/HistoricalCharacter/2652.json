@@ -1,21 +1,20 @@
 {
-  "dateOfBirth" : "16 tháng 6 năm 1807 Huế, Việt Nam\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "4 tháng 10, 1847 (40 tuổi) Huế, Đại Nam\n----------------------------------------------\nCanh Tuất 1850",
-  "hometown" : "quê huyện Gia Lộc, tỉnh Hải Dương",
-  "occupation" : "Hoàng đế Đại Nam\n----------------------------------------------\nDanh thần đời T",
-  "workTenure" : "11 tháng 2 năm 1841 – 4 tháng 10 năm 1847 (6 năm, 235 ngày)\n----------------------------------------------\nKhông rõ",
+  "dateOfBirth" : "?\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "Tháng 10, 1580 Đông Kinh\n----------------------------------------------\nCanh Thìn 1580",
+  "hometown" : "huyện Bình Hà, Dương Kinh (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách, tỉnh Hải Dương)\n----------------------------------------------\nHải Dương",
+  "occupation" : "Thân vương nhà Mạc, con trai Đăng Doanh, em Phúc Hải, anh Đôn Nhượng.",
+  "workTenure" : "Không rõ",
   "fatherName" : {
-    "Minh Mạng" : 1781
+    "Mạc Thái Tông" : 1574,
+    "Đăng Doanh" : null
   },
-  "motherName" : {
-    "Tá Thiên Nhân hoàng hậu Hồ Thị Hoa" : null
-  },
+  "motherName" : { },
   "eraName" : {
-    "Nhà Nguyễn" : null,
-    "Nhà Nguyễn độc lập" : 30
+    "Nhà Mạc" : 18,
+    "Nam - Bắc Triều" : 19
   },
   "id" : 2652,
-  "entityName" : "Nguyễn Hiến Tổ",
-  "aliases" : [ "Nguyễn Phúc Miên Tông (阮福綿宗)", "Hiến Tổ", "Thiệu Trị (紹治;: 1841 - 1847)", "Chương Hoàng đế (章皇帝)", "Hiến Tổ (憲祖)", "Trị", "Nguyễn Phúc Miên Tông" ],
-  "overview" : "Thiệu Trị (chữ Hán: 紹治; 16 tháng 6 năm 1807 – 4 tháng 10 năm 1847), tên thật là Nguyễn Phúc Miên Tông (阮福綿宗), là vị Hoàng đế thứ ba của nhà Nguyễn, triều đại phong kiến cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1841 đến khi qua đời năm 1847, được truy tôn miếu hiệu là Hiến Tổ (憲祖).\n----------------------------------------------\nNăm Nhâm dần 1842, đỗ cử nhân, làm quan trải 2 triều Thiệu Trị, Tự Đức, có công trong việc chống bọn cướp biển Tàu. Năm Canh tuất 1850, ông quyền lãnh ấn Vụ châu Vạn Ninh. Bấy giờ có giặc Tàu ô quấy phá, ông lo chống giữ, mưu việc trị an hết lòng bảo vệ dân chúng. Thế yếu ông bị giặc giết. Dân chúng đều thương tiếc. Triều đình phong tặng ông chức Tri châu."
+  "entityName" : "Mạc Kính Điển",
+  "aliases" : [ "Vua Mạc Thái Tông", "Kinh Phủ" ],
+  "overview" : "Khiêm Vương Mạc Kính Điển (chữ Hán: 謙王 莫敬典; ? - 1580), tự Kinh Phủ, người hương Cao Đôi, huyện Bình Hà, Dương Kinh (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách, tỉnh Hải Dương). Ông là con thứ ba của Mạc Đăng Doanh (tức Vua Mạc Thái Tông), là đại công thần có công lớn trong việc gìn giữ cơ nghiệp nhà Mạc, được nhà Mạc phong tước Khiêm vương.\n----------------------------------------------\nÔng tính linh mẫn, dũng cảm có thừa, được phong tước Khiêm vương. Khi Phạm Tử Nghi tôn phù Mạc Chính Trung đối lập với Mạc Phúc Nguyên, ông ra sức giúp Phúc Nguyên giữ vững ngôi vua, dẹp tan nhóm phản kháng của Phạm Tử Nghi. Nhà Mạc phần lớn nhờ có ông và em ông là Ứng vương Mạc Đôn Nhượng hết sức chống đỡ cảc thế lực đối kháng và đứng vững trước những cuộc tấn công của binh tướng nhà Lê. Ông giữ chức Tổng soái Trung doanh, cầm quyền chính trị khắp trong triều ngoài quận. Đời Mạc Mậu Hợp, tấn phong ông là Kinh Đại vương. Ông cùng Đôn Nhượng cố sức đấu tranh quyết liệt với nhà Lê, chống đỡ cho nhà Mạc qua các cơn nguy ngập. Năm Canh thìn 1580 tháng 10 âm lịch ông mất. Đôn Nhượng thay ông thống lĩnh binh quyền. Đời ông, lúc làm tướng, khi nhiếp chính hơn 20 năm, được nhiều người mến mộ, nhà Mạc dựa vào ông làm nơi nương tựa. Ông có 18 người con: 9 trai, 9 gái."
 }

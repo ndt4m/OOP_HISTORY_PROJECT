@@ -1,23 +1,16 @@
 {
-  "dateOfBirth" : "1630\n----------------------------------------------\nCanh Ngọ 1630\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "1649 (18–19 tuổi) Đông Kinh, Đại Việt\n----------------------------------------------\nKỉ Sửu 1649\n----------------------------------------------\nKhông rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua nhà Hậu Lê\n----------------------------------------------\nVua",
-  "workTenure" : "1643 – 1649\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1643–1649",
-  "fatherName" : {
-    "Lê Thần Tông" : 1930,
-    "Thần tông" : null
-  },
-  "motherName" : {
-    "Nguyễn Thị Ngọc Bạch" : null
-  },
+  "dateOfBirth" : "Canh Dần 1110",
+  "dateOfDeath" : "Ất Dậu 1165",
+  "hometown" : "quê ở làng Trường Nguyên, huyện Tiên Du, tỉnh Bắc Ninh nên đương thời gọi ông là sư Trường Nguyên - theo tên quê ông",
+  "occupation" : "Thiền sư đời Lý Anh tông, không rõ tên và pháp danh",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34,
-    "Nhà Lê trung hưng" : null,
-    "Nam triều – Nhà Hậu Lê – giai đoạn Lê Trung hưng" : 28
+    "Nhà Lý" : 14
   },
   "id" : 1147,
-  "entityName" : "Lê Chân Tông",
-  "aliases" : [ "Chân Tông (真宗)", "Lê Duy Hựu", "Thuận Hoàng đế", "Lê Chân Tông", "Phúc Thái (福泰: 1643 - 1649)" ],
-  "overview" : "Lê Chân Tông (chữ Hán: 黎真宗, 1630 – 1649) tên húy là Lê Duy Hựu (黎維祐, 黎維禔), là vị hoàng đế thứ 7 của nhà Lê trung hưng trong lịch sử Việt Nam, ở ngôi từ năm 1643 đến năm 1649, tổng cộng 6 năm.\n----------------------------------------------\nNăm Quí mùi 1643, tháng 10 ông lên ngôi mới 13 tuổi, Thanh Đô vươngTrịnh Tráng phụ chính. Trong đời ông, vua Minh là Quế vương đóng ở Quảng Tây có sai sứ sang phong cho ông làm An Nam quốc vương. Năm Kỉ sửu 1649, tháng 8 ông mất, mới 19 tuổi, táng tại Hoa Phố lăng. Ở ngôi 7 năm, hiệu năm là Phúc Thái: Tháng 10 Quí mùi 1643 - tháng 8 Kỉ sửu 1649.\n----------------------------------------------\nLê Chân Tông (chữ Hán: 黎真宗 1630 – 2 tháng 10 năm 1649) tên húy là Lê Duy Hựu (黎維祐, 黎維禔), là vị Hoàng đế thứ 7 của nhà Lê Trung hưng và thứ 18 của triều Hậu Lê trong lịch sử Việt Nam, ở ngôi từ năm 1643 đến năm 1649, tổng cộng 6 năm."
+  "entityName" : "Phan Trường Nguyên",
+  "aliases" : [ ],
+  "overview" : "Ông đi tu từ nhỏ, học với sư Âu Đạo Huệ, rồi về ẩn ở núi Từ Sơn, được truyền tâm ấn thuộc thế hệ thứ 10 dòng thiền Quan Bích. Vua Lý Anh tông từng nhờ người bạn cũ của ông là Lê Hội đi triệu ông về kinh. Ông chấp nhận ra đi, nhưng được nửa đường ông hối lại, bỏ trở về núi. Sau ông trụ trì ở chùa Sóc Thiên núi Vệ Linh (nay thuộc huyện Kim Anh, tỉnh Vĩnh Phú). Ngày 7-6 âm tịch năm Đinh dậu (16-7-1165), ông mất hưởng dương 55 tuổi."
 }

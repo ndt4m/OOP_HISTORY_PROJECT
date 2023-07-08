@@ -1,17 +1,18 @@
 {
-  "dateOfBirth" : "Ất Hợi 1875",
-  "dateOfDeath" : "Giáp Tuất 1934",
-  "hometown" : "tại làng Phước Lâm, tổng Phước Điền Trung, tỉnh Chợ Lớn (nay thuộc Thành phố Hồ Chí Minh)",
-  "occupation" : "Quyền Giáo tông đạo Cao Đài ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "dateOfBirth" : "1377\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "tháng 4, 1399\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua",
+  "workTenure" : "27 tháng 12, 1388 - 15 tháng 3, 1398 (9 năm, 78 ngày)\n----------------------------------------------\n1388—1398",
+  "fatherName" : {
+    "Trần Nghệ Tông" : 2791
+  },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Nhà Trần" : 15
   },
   "id" : 78,
-  "entityName" : "Lê Văn Trung",
-  "aliases" : [ ],
-  "overview" : "Ông mồ côi cha lúc mới được vài tháng tuổi, được mẹ nuôi và dạy dỗ nên người và thành đạt sớm. Thuở nhỏ học trường Chasseloup Laubat ở Sài Gòn, tốt nghiệp bằng Thành chung, được bổ làm thư kí tại Dinh Thống đốc Nam Kì, nhưng đến năm 1906 ông xin từ chức bước sang làm nghề thầu khoán xây cất, ông từng đắc cử hội viên Hội Đồng Tư vấn, Thượng nghị viện Đông Dương. Năm 1925 ông từ nhiệm và bỏ cả công việc kinh doanh, dốc lòng vào việc tu hành và phát triển đạo Cao Đài. Ngày 7-10-1926, ông cùng một số chức sắc khác trong đạo gởi thư cho Thống đốc Nam Kì loan báo thành lập đạo Cao Đài và sau này được cử giữ chức Quyền Giáo tông. Ngày 13-10 năm Giáp tuất (dương lịch 19-11-1934) ông mất tại Giáo tông đường ở tòa thánh Tây Ninh, thọ 59 tuổi. Ông là tác giả nhiều bài thuyết đạo, sau được in thành các tập sách mỏng, như: Phương chân hành đạo (1929) và nhiều thơ xướng họa cùng các vị đồng đạo."
+  "entityName" : "Trần Thuận Tông",
+  "aliases" : [ "Trần Ngung (陳顒)", "Thuận Tông (順宗)", "Quang Thái (光泰)" ],
+  "overview" : "Trần Thuận Tông (chữ Hán: 陳順宗, 1377 – tháng 4, 1399), là vị hoàng đế thứ 11 của triều đại nhà Trần trong lịch sử Việt Nam. Ông trị vì từ năm 1388 đến khi bị ép nhường ngôi năm 1398.\n----------------------------------------------\nTrần Thuận Tông (chữ Hán: 陳順宗 1377 – 30 tháng 4 năm 1400) là vị hoàng đế thứ 12 và cũng là hoàng đế áp chót của triều Trần nước Đại Việt. Ông trị vì từ năm 1388 đến khi bị ép nhường ngôi năm 1398."
 }

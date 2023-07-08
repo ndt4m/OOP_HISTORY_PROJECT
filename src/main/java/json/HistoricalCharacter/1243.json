@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "1819",
+  "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
-  "hometown" : "quê là thôn Đan Lạc, xã, Thịnh Lạc, tổng Nộn Liễu, huyện Nam Đường, phủ Anh Sơn, tỉnh Nghệ An (nay là xã Hùng Tiến, huyện Nam Đàn, tỉnh Nghệ An).",
-  "occupation" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Danh thần triều Tây Sơn Nguyễn Huệ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Nhà Tây Sơn" : 21
+  },
   "id" : 1243,
-  "entityName" : "Nguyễn Thái",
+  "entityName" : "Hoàng Thạc Phụ",
   "aliases" : [ ],
-  "overview" : "Nguyễn Thái (1819-?) là một nho sĩ thời Nguyễn. Nguyễn Thái có quê là thôn Đan Lạc, xã, Thịnh Lạc, tổng Nộn Liễu, huyện Nam Đường, phủ Anh Sơn, tỉnh Nghệ An (nay là xã Hùng Tiến, huyện Nam Đàn, tỉnh Nghệ An). Ông đỗ Hương cống (thời Nguyễn gọi là Cử nhân) năm Đinh Mùi 1847, tức niên hiệu Tự Đức thứ 1, rồi đỗ Phó bảng năm Tân Hợi niên hiệu Tự Đức 4 1851. Tiếp theo, qua kỳ ân khoa năm đó, ông đỗ Hoàng giáp. Ông giữ các chức quan đó là Hàn lâm viện Trước tác, Tu thư Vân hải sở, Đốc học Quảng Ngãi, Giảng quan ở Kinh diên Khởi cư trú, Thị độc Học sĩ, Án sát sứ Hưng Yên ."
+  "overview" : "Sau khi vua Quang Trung mất, ông hết lòng phò tá vua Cảnh Thịnh, làm đến Đô sát thự đô ngự sử, tước Hi Quang hầu. Năm Canh thân 1800, ông đem chiếu chỉ và lễ vật vào Nghệ An, thỉnh La Sơn phu tử Nguyễn Thiếp ra giúp việc. Ông tận tụy vói nhà Tây Sơn, được vua Quang Trung, Cảnh Thịnh trọng vọng, tin cẩn quan quân hết lòng ủng hộ."
 }

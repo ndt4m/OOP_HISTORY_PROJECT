@@ -1,17 +1,14 @@
 {
-  "dateOfBirth" : "Ất Tị 1905",
-  "dateOfDeath" : "Mậu Tuất 1958",
-  "hometown" : "quê làng Phù Khê, phủ Từ Sơn, tỉnh Bắc Ninh (nay là huyện Tiên Sơn tỉnh Bắc Ninh)",
-  "occupation" : "Nhà văn bút ",
+  "dateOfBirth" : "175",
+  "dateOfDeath" : "219",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
-  },
+  "eraName" : { },
   "id" : 658,
-  "entityName" : "Nguyễn Cát Ngạc",
-  "aliases" : [ "Nam Xương" ],
-  "overview" : "Ông xuất thân trường Cao đẳng Công chánh, làm công tác kĩ thuật, lại chuyên viết kịch bản và cũng từng tham gia đóng kịch. Ông tham gia Cách mạng tháng Tám, công tác bí mật ở thành phố Nam Định, Hà Nội. Đến năm 1954 ông được phái vào Sài Gòn công tác và hi sinh trong năm 1958, hưởng dương 53 tuổi. Hai vở kịch của ông từng được hoan nghênh: - Chàng ngôc (1930) - Ông Tây An Nam (1931)"
+  "entityName" : "Dương Tu",
+  "aliases" : [ "Đức Tổ" ],
+  "overview" : "Dương Tu (chữ Hán: 杨修; 175 - 219), biểu tự Đức Tổ (德祖), là một mưu sĩ của Tào Ngụy, phục vụ dưới trướng của Tào Tháo, về sau đi theo trợ giúp con thứ tư của Tào Tháo là Tào Thực trong giai đoạn tranh ngôi vị Thế tử giữa anh em Tào Phi cùng Tào Xung và Tào Chương."
 }

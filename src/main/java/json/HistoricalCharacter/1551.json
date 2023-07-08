@@ -1,17 +1,14 @@
 {
-  "dateOfBirth" : "Bính Ngọ 1906",
-  "dateOfDeath" : "Bính Thìn 1976",
-  "hometown" : "sinh quán tại Sài Gòn (nay là TP",
-  "occupation" : "Bác sĩ, nhà văn hiện đại",
+  "dateOfBirth" : "15 tháng 4, 1944 (73 tuổi) Huyện Hải Lăng, tỉnh Quảng Trị",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Xã Hải Thiện, huyện Hải Lăng, tỉnh Quảng Trị.",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
-  },
+  "eraName" : { },
   "id" : 1551,
-  "entityName" : "Ngô Quang Lý",
-  "aliases" : [ ],
-  "overview" : "Ông có chân trong hội Khuyến học Nam Kì, từng tích cực hoạt động văn hóa. Những bài ông viết trên các sách báo ở Sài Gòn như Nam Kì tuần báo, tạp chí Phổ thông rất có giá trị. Ông cũng thường được mời nói chuyện trên đài Phát thanh Sài Gòn về y học, văn học. Có lòng yêu nước ông giữ vững được tiết tháo, không để bị lung lạc, mua chuộc, phần đông giới trí thức đều quí trọng ông. Năm Bính thìn 1976, ngày 21-9 dương lịch ông mất, thọ 70 tuổi, an táng tại nghĩa trang An Nhơn, ở quận Gò Vấp (Thành phố Hồ Chí Minh). Trên tờ Nam Kì tuần báo, số đặc biệt về Nguyễn Đình Chiểu, hai bài của ông viết về Nguyễn Đình Chiểu, dưới nhãn quan y học, thật xuất sắc được nhiều người tán thưởng."
+  "entityName" : "Lê Mạnh Thát",
+  "aliases" : [ "Thích Trí Siêu (pháp danh)" ],
+  "overview" : "Giáo sư, tiến sĩ, sử gia, thiền sư Lê Mạnh Thát, pháp danh là Thượng tọa Thích Trí Siêu sinh ngày 15 tháng 4 năm 1944 tại Làng Cu Hoan, Xã Hải Thiện, huyện Hải Lăng, tỉnh Quảng Trị. Ông là một lãnh tụ của Giáo hội Phật giáo Việt Nam Thống nhất, và bị tuyên án tử hình năm 1988. Ông được biết nhiều bởi những công trình nghiên cứu về lịch sử Phật giáo cũng như lịch sử Việt Nam."
 }

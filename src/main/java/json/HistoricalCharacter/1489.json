@@ -1,19 +1,16 @@
 {
-  "dateOfBirth" : "…\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "Kí Dậu 1729\n----------------------------------------------\nKhông rõ",
-  "hometown" : "quán làng Sóc Sơn, huyện Vĩnh Lộc, tỉnh Thanh Hóa\n----------------------------------------------\nKhông rõ",
-  "occupation" : "Chúa thứ năm đời hậu Lê\n----------------------------------------------\nTước hiệu",
-  "workTenure" : "1709—1729",
-  "fatherName" : {
-    "Trịnh Bính" : null
-  },
+  "dateOfBirth" : "Tân Dậu 1861",
+  "dateOfDeath" : "Kỉ Dậu 1909",
+  "hometown" : "tại Cù lao Giêng, tỉnh An Giang (nay thuộc huyện Phú Châu, tỉnh An Giang)",
+  "occupation" : "Tay sai thực dân Pháp, con Trần Bá Lộc (là tay chân thân Pháp, sát hại rất nhiều lương dân, nghĩa sĩ Việt Nam)",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34,
-    "Đàng Ngoài - Chúa Trịnh" : 26
+    "Pháp đô hộ" : 11
   },
   "id" : 1489,
-  "entityName" : "An Đô Vương",
-  "aliases" : [ "An Đô Vương" ],
-  "overview" : "Năm 1709 chúa Trịnh Căn mất, ông được nối ngôi chúa trở thành chúa thứ năm thời vua Lê. Đời ông các cuộc chiến tranh giữa hai miền tạm hòa hoãn, nên việc nội trị tương đối yên ổn, thuế khóa, sưu dịch tương đối có kỉ cương. Việc thương mại giữa các địa phương trong nước có quan \"Giám đương\" chăm nom. Ông mất năm Kỉ dậu 1729, ở ngôi chúa được 21 năm.\n----------------------------------------------\nTrịnh Cương (chữ Hán: 鄭棡, 9 tháng 7 năm 1686 – 20 tháng 12 năm 1729), còn có tên khác là Trịnh Chù, thụy hiệu là Hy Tổ Nhân vương (禧祖仁王), là vị chúa Trịnh thứ 5 dưới thời Lê Trung Hưng trong lịch sử Việt Nam."
+  "entityName" : "Trần Bá Thọ",
+  "aliases" : [ "Joseph" ],
+  "overview" : "Thuở nhỏ được quan thầy cho sang Pháp học vì cha Thọ từng giết hại nhiều sinh linh người Việt nên được Pháp thưởng \"mề đay điều\" (Commandeur de lá Légion d'Honneur). Học xong, về nước làm quan nhiều nơi ở miền Nam đến chức Đốc phủ sứ. Khi làm tay sai cho Pháp, ông ta bị sạt nghiệp vì khai khẩn đất hoang; thiếu nợ ngân hàng nên gia tài bị phát mãi. Nhục nhã bị quan thầy bỏ rơi, chủ nợ kiện tịch thu tài sản... Phẫn chí, Thọ dùng súng lục tự tử năm 1909. Trước khi chết C.K có gởi cho ông ta bài thơ có nhan đề: Gởi cho Trần Bá... trước 15 ngày đùng Vững cầm đức cậy cựu tri ôi! Chúa thử lòng mình một ít thôi, Ép chí, nghe lời qua khổ ải, Đừng xui chước quỉ khốn vô hồi. Các em của Thọ: Trần Bá Tường làm huyện ở Cai Lậy; Đốc phủ ở Cần Thơ chết năm 1882; Nicolas Trần Bá Hữu làm huyện ở Long Thành (thuộc Biên Hòa) bị nghĩa quân giết tại nhiệm sở."
 }

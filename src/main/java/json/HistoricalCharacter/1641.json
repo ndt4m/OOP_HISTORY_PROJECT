@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "1907\n----------------------------------------------\nĐinh Mùi 1907",
-  "dateOfDeath" : "1946\n----------------------------------------------\nBính Tuất 1946",
-  "hometown" : "quê ở Thái Bình, sinh sống bằng ngòi bút ở Hà Nội",
-  "occupation" : "Nhà văn chuyên viết tiểu thuyết lịch sử kí sự",
+  "dateOfBirth" : "Canh Dần 1230",
+  "dateOfDeath" : "Tân Mão 1291",
+  "hometown" : "Không rõ",
+  "occupation" : "Pháp sư cư sĩ đời Trần",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Nhà Trần" : 15,
+    "nhà Trần" : null
   },
   "id" : 1641,
-  "entityName" : "Phan Trần Chúc",
-  "aliases" : [ ],
-  "overview" : "Phan Trần Chúc (1907-1946), là nhà văn Việt Nam, thời tiền chiến.\n----------------------------------------------\nÔng sáng tác văn học khá nhiều, từng cộng tác với các báo Tân Việt Nam, Ngọ báo, Việt báo xuất bản ở Hà Nội. Các tác phẩm chính của ông đã xuất bản đều thuộc loại lịch sử kí sự, lịch sử tiểu thuyết. Năm Bính tuất 1946 ông mất tại Hoài Đức tỉnh Hà Đông hưởng dương 39 tuổi. Các tác phẩm của ông đã xuất bản: - Triều Tây Sơn (1942) - Vua Hàm Nghi (Hà Nội, 1935) - Bùi Viện với cuộc duy tân của triều Tự Đức (1942) - Lê Hoàn (1939) - Hồi chuông Thiên Mụ (1940) - Cần vương (1941) - Vua Quang Trung (1940) - Dưới lũy Trường Dục (1942) - Bánh xe khứ quốc. (Hà Nội. Đời mới, Thụy Kí, 1941) - Một kiếp trước của Phật Thích Ca (1942) - Danh nhân Việt Nam qua các triều đại (1942) - Ngày mai với tập hồ sơ của một thời đại (Hà Nội, 1942) - Việt Nam sử học (Thế kỉ 18 - 1942) - Thế kỉ XVIII: Bằng Quận Công (Mai Lĩnh, 1942) - Triều Tây Sơn (1942) - Giọt máu sau cùng (tiểu thuyết, 1943) - Từ nhà Chùa đến nhà Chúa (Hương Sơn, 1942) - Phạm Nhan (loại học sinh). Hà Nội, Xuân Thu (1943) - Năm bộ da dê hay là một tấm gương kiên nhẫn (Thụy Kí, 1943) Hầu hết tác phẩm của Phan Trần Chúc đều lấy đề tài và cảm hứng từ các nhân vật lịch sử của sử để hình thành. Có thể nói ông là nhà văn viết tiểu thuyết lịch sử (chứ không phải sử học) khá đều tay so với các nhà văn khác. Đọc ông, tác giả Nhà văn hiện đại (Vũ Ngọc Phan) cho rằng: \"Trong các sách của Phan Trần Chúc chỉ được có cái đặc sắc là lối nghị luận. Lời nghị luận của ông bao giờ cũng sáng suốt. Nếu muốn tìm giá trị họa chăng đó là giá trị những văn phẩm của ông. Còn những tài liệu ông dùng phần nhiều không được chắc chắn, nên ông đã không tránh được những sự mâu thuẫn là những điều không nên có trong một quyển sử.\""
+  "entityName" : "Trần Quốc Tung",
+  "aliases" : [ "Trần Quốc Tung", "Tuệ Trung Thượng Sĩ", "Trần Tung" ],
+  "overview" : "Tuệ Trung Thượng sĩ (慧中上士; 1230 - 1291 ) tên thật là Trần Tung (陳嵩, hay Trần Quốc Tung), là một thành viên trong hoàng tộc nhà Trần với tước hiệu Hưng Ninh Vương và là một thiền sư Việt Nam. Ông là người hướng dẫn vua Trần Nhân Tông vào cửa Thiền và có nhiều ảnh hưởng đến tư tưởng của vị vua sáng lập Thiền phái Trúc Lâm Yên Tử.\n----------------------------------------------\nTâm hồn ông phóng khoáng, không màng công danh, chuyên nghiên cứu đạo Phật, say mê Thiền học. Ông thọ giáo với Thiền sư Tiêu Dao, nổi tiếng thâm thông đạo lí, được Trần Thánh tông và Nhân tông kính trọng. Khi quân Nguyên - Mông xâm lược ông có công kháng chiến cứu nước, được phong chức trọng quyền cao nhưng ông đều từ chối. Chỉ nhận tước vị Ninh vương rồi về ấp phong ở Tịnh Bang, ẩn dật nơi đấy tham cứu về thiền học. Năm Tân mão 1291 ông mất ở ấp Tịnh Bang, thọ 61 tuổi. Tác phẩm sáng giá của ông là bộ: Tuệ Trung Thượng sĩ ngữ lực. (Do sự nhẫm lẫn của các học gia đời trước nhiều sách ghi Tuệ Trung Thượng sĩ là Trần Quốc Tảng, thật ra ông là Trần Tung em Trần Quốc Tuấn, cùng cha khác mẹ)."
 }

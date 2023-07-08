@@ -1,16 +1,21 @@
 {
-  "dateOfBirth" : "Mậu Ngọ 1678",
-  "dateOfDeath" : "Canh Thân 1740",
-  "hometown" : "quê xã Tả Thanh Oai, huyện Thanh Oai tỉnh Hà Đông (nay là ngoại thành Hà Nội)",
-  "occupation" : "Danh sĩ đời Lê Hi tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
+  "dateOfBirth" : "6 tháng 9, 1488 Đông Kinh\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "30 tháng 12, 1504 (16 tuổi) Điện Hoàng Cực, Đông Kinh\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua",
+  "workTenure" : "17 tháng 7 năm 1504 – 30 tháng 12 năm 1504 (0 năm, 166 ngày)\n----------------------------------------------\n1504–1504",
+  "fatherName" : {
+    "Lê Hiến Tông" : 585
+  },
+  "motherName" : {
+    "Trang Thuận Duệ hoàng hậu" : null
+  },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34
+    "Nhà Hậu Lê – giai đoạn Lê sơ" : 20,
+    "Nhà Lê sơ" : null
   },
   "id" : 221,
-  "entityName" : "Ngô Đình Thạc",
-  "aliases" : [ ],
-  "overview" : "Năm Canh thìn ông đỗ Tam giáp đồng tiến sĩ lúc mới 22 tuổi làm đến Thượng thư bộ Lại; phụ trách giáng sách trong cung, được phong tước Quận công. Năm Nhâm tí 1732 ông đi sứ Trung Quốc, tại Trung Quốc được các danh sĩ nước ngoài nể trọng. Sau khi đi sứ về được thăng Tham tụng, gia tặng Thiếu Bảo. Khoảng năm 1739-1740 trong nước có loạn, ông ra làm Tổng phủ Lạng Sơn. Năm Canh thân 1740 thổ tù Lạng Sơn là Toản Cơ gây cuộc bạo loạn chống lại triều đình. Ông kiên cường chống giữ thành, bị giặc giết tại trận, thọ 62 tuổi. Hồi năm Nhâm tí 1732, lúc đi sứ Trung Quốc, ông có soạn tập thơ Hoàng Hoa nhã vịnh ghi lại cảm tưởng và cảnh vật trên đường đi sứ. Em ông là Ngô Đình Chất cũng là một danh sĩ có danh vọng đương thời."
+  "entityName" : "Lê Túc Tông",
+  "aliases" : [ "Thái Trinh (泰貞)", "Túc Tông (肅宗)", "Lê Thuần (黎㵮)", "Chiêu Nghĩa Hiển Nhân Ôn Cung Uyên Mặc Hiếu Doãn Cung Khâm Hoàng đế (昭義顯仁溫恭淵默惇孝允恭欽皇帝)" ],
+  "overview" : "Lê Túc Tông (chữ Hán: 黎肅宗; 1 tháng 8, 1488 - 30 tháng 12, 1504), là vị hoàng đế thứ bảy của nhà Lê sơ trong lịch sử Việt Nam, ở ngôi trong vòng 6 tháng; từ ngày 6 tháng 6 đến ngày 30 tháng 12 trong năm 1504.\n----------------------------------------------\nLê Túc Tông (chữ Hán: 黎肅宗 6 tháng 9 năm 1488 – 12 tháng 1 năm 1505) là vị hoàng đế thứ bảy của Hoàng triều Lê nước Đại Việt. Túc Tông chỉ giữ ngôi trong vòng 6 tháng; từ ngày 17 tháng 7 năm 1504 đến khi mất ngày 12 tháng 1 năm 1505 và chỉ dùng một niên hiệu là Thái Trinh."
 }

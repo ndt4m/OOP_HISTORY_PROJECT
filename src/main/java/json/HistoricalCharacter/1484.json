@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Giáp Ngọ 1894",
-  "dateOfDeath" : "Đinh Tị 1917",
-  "hometown" : "quê ở Tam Bình, tỉnh Vĩnh Long",
-  "occupation" : "Chí sĩ cận đại",
+  "dateOfBirth" : "Quí Sửu 1913",
+  "dateOfDeath" : "Kỉ Tị 1989",
+  "hometown" : "tại Phủ Lạc Biên đường Trung Bộ (nay là đường Tô Hiến Thành, Gia Hội, Huế)",
+  "occupation" : "Nhà văn, dịch giả",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 1484,
-  "entityName" : "Hoàng Văn Kỷ",
-  "aliases" : [ ],
-  "overview" : "Thân phụ ông là Hoàng Văn Cát và chú ruột là Hoàng Hưng tức Hoàng Văn Nghị đều là chí sĩ, hi sinh vì nước. Từ năm Bính ngọ 1906, ông mới 12 tuổi, theo cha và chú sang Nhật, hưởng ứng phong trào Đông du. Năm sau, thân phụ ông trở về nước và bị Pháp bắt giam, mất trong tù. Ông cùng với chú ở lại Đông Kinh học tập, lo việc cứu nước. Ít lâu, Hoàng Hưng ở Hương Cảng nghiên cứu việc chế lựu đạn, lại bị địch bắt giải về nước. Ông hay tin, càng sôi lòng căm thù, vất bút cầm gươm, đổi họ tên, giả làm người Trung Quốc, vào học trường quân sự ở Bắc Kinh. Chí lớn vẫn mang nặng trong lòng nhưng chưa thành đạt, ông mất trong năm Đinh tị 1917 vì bệnh, mới 23 tuổi."
+  "entityName" : "Nguyễn Phúc Bửu Kể",
+  "aliases" : [ "Tiêu Sử", "Lương Nhân", "Bửu Kể" ],
+  "overview" : "Xuất thân trong một gia đình hoàng tộc là cựu Giám sinh Trường Quốc tử giám Huế, năm 1934 tốt nghiệp, dạy tại các trường Trung học Đồng Khánh, Cao đẳng Mĩ thuật, Đại học Văn khoa Huế, viện Hán học Huế.. Trong thời gian dạy học, làm Quản thủ Thư viện Đại học Huế (hơn 20 năm) ông vẫn cộng tác đều đặn với các báo từ Bắc đến Nam: Tiểu thuyết thứ bảy, Văn học, Tri Tân (Hà Nội, trước năm 1945), Bách khoa, tạp chí Đại học Huế, Tương lai, Văn hóa nguyệt san... (Sài Gòn, sau năm 1955). Bửu Kế là nhà vãn chuyên viết về các đề tài cổ học và địa phương thuộc khu vực Huế, nên trong học giới học thuật thường gọi ông là nhà Huế học hay nhà cố đô Huế học. Các tác phẩm: - Nếp nhà (giải thưởng văn chương độc nhất toàn quốc của Bộ Quốc gia giáo dục, 1953). - Thằng người gỗ (giải nhất của Hội phụ huynh học sinh toàn quốc, Tân Việt, 1952). - Tầm Nguyên tự điển (Nam Cường, Sài Gòn, 1955). - Truyện ngắn quốc tế (1954) - Nguyễn triều cố sự (Khai Trí, 1956) - Nghìn lẻ một chuyện cười - Hán Việt từ nguyên (di thảo) - Các loại sách tuổi thơ (1969) - Chính tả căn bản (di thảo) - Từ điển viết văn (di thảo) Và rất nhiều chuyên đề về kinh thành Huế in trên các Tạp chí Đại học Huế, Bách khoa, Phổ thông..."
 }

@@ -1,17 +1,21 @@
 {
-  "dateOfBirth" : "Bính Thìn 1916",
-  "dateOfDeath" : "Giáp Tí 1984",
-  "hometown" : "quê huyện Long Thành, tỉnh Biên Hòa (nay thuộc tỉnh Đồng Nai), có tư liệu viết quê ông tại xã Thái Hòa, huyện Tân Uyên tục danh là Hai Nhỏ",
-  "occupation" : "Tướng lĩnh ",
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "1802\n----------------------------------------------\nNhâm Tuất 1802",
+  "hometown" : "Bình Định",
+  "occupation" : "Con trưởng vua Quang Trung",
   "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
+  "fatherName" : {
+    "vua Quang Trung" : null
+  },
+  "motherName" : {
+    "một người hầu" : null
+  },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Nhà Tây Sơn" : 21,
+    "nhà Tây Sơn" : null
   },
   "id" : 1598,
-  "entityName" : "Lương Văn Nho",
+  "entityName" : "Nguyễn Quang Thùy",
   "aliases" : [ ],
-  "overview" : "Sau Cách mạng Tháng Tám, ông tham gia Nam bộ kháng chiến, năm 1947 là Huyện đội trưởng Long Thành, rồi Tỉnh đội trưởng dân quân Bà Rịa, Tỉnh đội phó, tham mưu trưởng tỉnh đội Bà Rịa - Chợ Lớn. Năm 1954 tập kết ra Bắc làm Tham mưu trưởng liên khu 3. Năm 1961 trở về Nam chiến đấu, làm Tư lệnh kiêm Bí thư Đặc khu Rừng Sác, Tư lệnh pháo binh Miền. (B2). Sau 30-4-1975 làm phó Tham mưu trưởng Quân khu 7, từng được tặng Huân chương chiến công. Ông mất năm 1984, thọ 68 tuổi."
+  "overview" : "Nguyễn Quang Thùy (chữ Hán: 阮光垂; ? - 1802), là con vua Quang Trung và là Tiết chế thủy bộ chư quân miền Bắc của nhà Tây Sơn trong lịch sử Việt Nam.\n----------------------------------------------\nNhững năm vua Quang Trung ra Bắc phò Lê diệt Trịnh ông được theo dự các trận đánh lớn. Sau khi Nguyễn Huệ rút về Phú Xuân, Nguyễn Quang Thùy ở lại \"cai trị xứ Bắc Kì\". Vua Quang Trung lên ngôi hoàng đế, ông được phong chức Khanh công, lãnh Bắc thành tiết chế thủy bộ chư quân. Năm 1790, vâng lệnh vua cha theo sứ bộ do \"giả vương\" Phạm Công Tri dẫn đầu sang Trung Quốc nhận phong. Sau khi vua Quang Trung qua đời, ông vẫn giữ chức cũ ở Bắc thành, kiên quyết bảo vệ ngai vàng cho em dù ở triều đình các cận thần thanh toán nhau. Năm 1801 Nguyễn Ánh kéo quân ra Thăng Long, vua Cảnh Thịnh chống giữ không nổi, ông cùng với các anh em và cận thần chạy lên vùng ngược, nửa đường bị quân Nguyễn Ánh bắt được, ông tự tử cùng với em là Nguyễn Quang Thiện."
 }

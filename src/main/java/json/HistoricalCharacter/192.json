@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "1541",
-  "dateOfDeath" : "1593",
-  "hometown" : "xã Lương Xá, huyện Thiện Tài, trấn Kinh Bắc (nay là thôn Lương Xá, xã Phú Lương, huyện Lương Tài, Bắc Ninh) , cùng làng với Phạm Quang Tiến, trạng nguyên khoa thi 1565.",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Quê xã Lục Dương, huyện Chí Linh, tỉnh Hải Dương",
+  "occupation" : "Danh thần đời Mạc",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Nam - Bắc Triều" : 19
+  },
   "id" : 192,
-  "entityName" : "Vũ Giới",
+  "entityName" : "Dương Tốn",
   "aliases" : [ ],
-  "overview" : "Vũ Giới (chữ Hán: 武玠, 1541-1593), người xã Lương Xá, huyện Thiện Tài, trấn Kinh Bắc (nay là thôn Lương Xá, xã Phú Lương, huyện Lương Tài, Bắc Ninh) , cùng làng với Phạm Quang Tiến, trạng nguyên khoa thi 1565. Đỗ trạng nguyên khoa Đinh Sửu, niên hiệu Sùng Khang thứ 12 (1577) đời Mạc Mậu Hợp . Làm quan qua các chức như Hữu thị lang, Thượng thư Lại bộ ."
+  "overview" : "Ông cũng tinh thông khoa thuật số, địa lý, binh pháp. Danh tiếng ông vang khắp xa gần. Các học trò ông thành đạt, về sau đều nhớ công đức đào tạo của ông. Về thơ văn, ông nổi tiếng vào bậc thầy ông lại sở trường nhất về thể phú, nên đương thời có câu truyền tụng: \"Dịu dàng như phú Dương Tốn\". Cả đến các quan học sĩ trong triều cũng đánh giá cao tập phú của ông nhan đề: Phụ nhân đồng tử giai tri kì danh nghĩa là: Đàn bà con nít cũng đều biết tiếng. Con ông là Dương Phổ cũng nổi danh về từ phú."
 }

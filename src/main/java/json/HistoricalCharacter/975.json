@@ -1,14 +1,20 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
+  "dateOfBirth" : "4 tháng 9, 1300 Thăng Long\n----------------------------------------------\nCanh Tí 1300\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "10/3/1357.Hưởng dương 57 tuổi Cung Bảo Nguyên, Thăng Long\n----------------------------------------------\nĐinh Dậu 1357\n----------------------------------------------\nKhông rõ",
+  "hometown" : "quê làng Tức Mặc, phủ Thiên Trường tỉnh Nam Định\n----------------------------------------------\nKhông rõ",
+  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua thứ năm nhà Trần miếu \n----------------------------------------------\nVua",
+  "workTenure" : "1314 – 1329\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1314—1329",
+  "fatherName" : {
+    "Trần Anh Tông" : 2018
+  },
+  "motherName" : {
+    "Chiêu Từ hoàng hậu" : null
+  },
+  "eraName" : {
+    "Nhà Trần" : 15
+  },
   "id" : 975,
-  "entityName" : "Lê Thị Hoa",
-  "aliases" : [ ],
-  "overview" : "Nàng Hoa hay Lê Thị Hoa (chữ Hán: 黎氏華; 2 TCN-43) là một nữ tướng thời Hai Bà Trưng, khởi nghĩa tại vùng Nga Sơn Thanh Hóa."
+  "entityName" : "Trần Minh Tông",
+  "aliases" : [ "Trần Minh Tông", "Đại Khánh (1314 – 1323) Khai Thái (1324 – 1329)", "Thể Thiên Sùng Hóa Khâm Minh Duệ Hiếu Hoàng Đế", "Minh Tông (明宗)", "Trần Mạnh (陳奣)" ],
+  "overview" : "Trần Minh Tông (chữ Hán: 陳明宗, 4 tháng 9 năm 1300 – 10 tháng 3 năm 1357), là vị hoàng đế thứ năm của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ tháng 4 năm 1314 đến tháng 3 năm 1329, sau đó làm Thái thượng hoàng từ năm 1329 đến khi qua đời.\n----------------------------------------------\nNăm Giáp dần 1314 ông lên ngôi, triều đại ông cũng tốt đẹp về văn hóa, chính trị, tôn giáo. Về nông nghiệp cũng phát triển thuận lợi, qua chính sách kêu gọi các vương hầu trả lại ruộng tư hữu đã lấn chiếm, giúp nông dân có ruộng cày. Ông ở ngôi 15 năm (1314-1329), sau nhường ngôi cho con, làm Thái Thượng hoàng như các vua trước từng làm. Ngày 19-2 Đinh dậu (10-3-1357) ông mất, hưởng dương 57 tuổi. Ông có soạn tập thơ Minh tông thi tập nay đã mất, chỉ còn lại 25 bài chép ở Toàn Việt thi lục.\n----------------------------------------------\nTrần Minh Tông (chữ Hán: 陳明宗 4 tháng 10 năm 1300 – 10 tháng 3 năm 1357) tên thật là Trần Mạnh (陳奣), là vị hoàng đế thứ năm của Hoàng triều Trần nước Đại Việt. Ông giữ ngôi từ ngày 3 tháng 4 năm 1314 đến ngày 15 tháng 3 năm 1329, sau đó làm Thái thượng hoàng đến khi qua đời. Thời kỳ của ông và cha ông được mệnh danh là thời kỳ hưng thịnh của vương triều nhà Trần, được sử gia xưng tụng là Anh Minh Thịnh Thế."
 }

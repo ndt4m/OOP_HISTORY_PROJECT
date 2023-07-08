@@ -1,16 +1,20 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
+  "dateOfBirth" : "1162 Dãy núi Khentii, Mông Cổ",
+  "dateOfDeath" : "18 tháng 8, 1228 (65 tuổi)",
   "hometown" : "Không rõ",
-  "occupation" : "Thành hoàng làng Đình Lạp",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
+  "occupation" : "Đại Hãn Đế quốc Mông Cổ",
+  "workTenure" : "1206 – 1227",
+  "fatherName" : {
+    "Yesükhei (Dã Tốc Cai)" : null
+  },
+  "motherName" : {
+    "Ho'elun (Ha Ngạch Lôn/Nguyệt Luân)" : null
+  },
   "eraName" : {
-    "Bắc thuộc lần lần 3" : 1
+    "Borjigin (Bột Nhi Chi Cân/Bác Nhĩ Tề Cát Đặc)" : null
   },
   "id" : 2854,
-  "entityName" : "Đặng Cao",
-  "aliases" : [ ],
-  "overview" : "Nguyên thân phụ ông là một vị tù trưởng thuộc miền thượng du nước ta, có lòng yêu nước nên dấy quân chống xâm lăng, bị giặc giết chết. Ông nối chí cha, báo thù nhà đền nợ nước, gióng trống phất cờ khởi nghĩa. Nhưng thế cô, ông cũng hi sinh, nhân dân thương tiếc và lập đền thờ. Sau được truy phong thành hoàng làng Đình Lạp tại quê hương."
+  "entityName" : "Thành Cát Tư Hãn",
+  "aliases" : [ "Pháp Thiên Khải Vận Thánh Vũ Hoàng đế", "Thành Cát Tư Hãn (Tên khai sinh: Thiết Mộc Chân) Chữ viết Mông Cổ ở bên phải.", "Nguyên Thái Tổ" ],
+  "overview" : "Thành Cát Tư Hãn (tên tiếng Mông Cổ: Чингис хаан, Çingis hán; tiếng Mông Cổ: [tʃiŋɡɪs xaːŋ] (nghe); phiên âm Hán: 成吉思汗; 1162 -1227) là một Khả hãn Mông Cổ và là người sáng lập ra Đế quốc Mông Cổ sau khi hợp nhất các bộ lạc độc lập ở vùng đông bắc châu Á năm 1206."
 }

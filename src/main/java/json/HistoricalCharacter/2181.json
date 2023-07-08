@@ -1,20 +1,17 @@
 {
-  "dateOfBirth" : "23 tháng 1, 599 Lam Điền, Thiểm Tây",
-  "dateOfDeath" : "10 tháng 7, 649 (50 tuổi) Trường An, Trung Quốc",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đại Đường",
-  "workTenure" : "4 tháng 9 năm 626 – 10 tháng 7 năm 649 (22 năm, 309 ngày)",
-  "fatherName" : {
-    "Đường Cao Tổ" : null
-  },
-  "motherName" : {
-    "Thái Mục hoàng hậu" : null
-  },
+  "dateOfBirth" : "Nhâm Dần 1902",
+  "dateOfDeath" : "Đinh Mão 1987",
+  "hometown" : "tại Tân Bình Thành, huyện Mỏ Cày, tỉnh Bến Tre",
+  "occupation" : "Nhà giáo dục",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
   "eraName" : {
-    "Nhà Đường" : null
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 2181,
-  "entityName" : "Lý Thế Dân",
-  "aliases" : [ "Lý Thế Dân (李世民)", "Trinh Quán (貞觀)", "Văn Vũ Đại Thánh Đại Quảng Hiếu hoàng đế (文武大聖大廣孝皇帝)", "Thái Tông (太宗)" ],
-  "overview" : "Đường Thái Tông (chữ Hán: 唐太宗, 23 tháng 1, 599 – 10 tháng 7, 649), là vị Hoàng đế thứ hai của triều đại nhà Đường trong lịch sử Trung Quốc, trị vì từ năm 626 đến năm 649 với niên hiệu duy nhất là Trinh Quán (貞觀)."
+  "entityName" : "Ca Văn Thỉnh",
+  "aliases" : [ "Ngác Xuyên" ],
+  "overview" : "Hơn 10 năm dạy học, ông luôn luôn quan tâm nâng cao tinh than yêu nước, dốc tâm vào việc nghiên cứu văn học, sử học. Trước Cách mạng tháng Tám, ông có nhiều bài nghiên cứu đăng trên các tạp chí trong nước. Năm 1945, ông tham gia thành lập chính quyền ở Bến Tre rồi sau đó nhận nhiệm vụ Ủy viên Ủy ban kháng chiến hành chánh Nam Bộ. Năm 1946 ông tham gia phái đoàn Nam Bộ ra Trung ương, nhận chức vụ Quyền Bộ trưởng Bộ giáo dục. Năm 1952 trở về Nam làm ủy viên Tuyên huấn trung ương cục miền Nam. Khi tập kết ra Bắc ông chuyền sang làm công tác ngoại giao, phụ trách Vụ Đông Nam Á, và từ năm 1959 làm Giám đốc Thư viện Khoa học Xã hội Trung ương. Sau ngày 30-4-1975, dù tuổi cao sức yếu ông vẫn được cử làm Viện trưởng Viện Khoa học Xã hội miền Nam tại TP. Hồ Chí Minh cho đến ngày nghỉ hưu. Ngày 5-1-1987 ông từ trần, thọ 85 tuổi, được an táng tại quê nhà (Mỏ Cày, Bến Tre). Cuộc đời tận tụy vì dân vì nước của ông ngoài các huân chương cao quí do Nhà nước tặng, ông còn đề lại cho đời các tác phẩm: - Văn chương yêu nước Nam Bộ... - Hào khí Đồng Nai. Và nhiều bài khảo cứu, dịch thuật có giá trị đăng trên các tạp chí trong nước từ trước năm 1945."
 }

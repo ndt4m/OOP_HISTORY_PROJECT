@@ -1,14 +1,20 @@
 {
-  "dateOfBirth" : "1928 Hà Đông, Việt Nam",
-  "dateOfDeath" : "24 tháng 4, 197224 tháng 4 năm 1972 (44 tuổi) Tân Cảnh, Kontum Việt Nam",
+  "dateOfBirth" : "21 tháng 7, 541",
+  "dateOfDeath" : "13 tháng 8, 604 (63 tuổi) Nhân Thọ cung, Trường An, Trung Quốc",
   "hometown" : "Không rõ",
-  "occupation" : "Thuộc",
-  "workTenure" : "1951-1972",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
+  "occupation" : "Hoàng đế Đại Tùy",
+  "workTenure" : "581 – 604",
+  "fatherName" : {
+    "Dương Trung" : null
+  },
+  "motherName" : {
+    "Lữ Cổ Đào" : null
+  },
+  "eraName" : {
+    "Nhà Tùy" : null
+  },
   "id" : 130,
-  "entityName" : "Lê Đức Đạt",
-  "aliases" : [ ],
-  "overview" : "Lê Đức Đạt (1928-1972), nguyên là một sĩ quan cao cấp gốc Kỵ binh của Quân lực Việt Nam Cộng hòa, cấp bậc Đại tá. Ông xuất thân từ trường Võ bị Liên quân do Chính phủ Quốc gia Việt Nam thành lập dưới sự hỗ của Quân đội Pháp tại nam Cao nguyên Trung phần. Ra trường ông được chọn về Binh chủng Thiết giáp. Ông đã phục vụ ở đơn vị này được một thời gian ngắn, sau chuyển sang đơn vị Bộ binh. Năm 1972 khi đang là Tư lệnh Sư đoàn Bộ binh, ông tử trận. Được truy thăng cấp bậc Chuẩn tướng."
+  "entityName" : "Dương Kiên",
+  "aliases" : [ "Văn Hoàng đế (文皇帝)", "Dương Kiên (楊堅)", "Niên hiệu Khai Hoàng (开皇; 581 - 600) Nhân Thọ (仁寿; 601 - 604)", "Cao Tổ (高祖)" ],
+  "overview" : "Tùy Văn Đế (chữ Hán: 隋文帝; 21 tháng 7, 541 - 13 tháng 8, 604), tên thật là Dương Kiên (楊堅), là vị Hoàng đế sáng lập triều đại nhà Tùy trong lịch sử Trung Quốc. Ông ở ngôi từ năm 581 đến năm 604, tổng cộng 23 năm."
 }

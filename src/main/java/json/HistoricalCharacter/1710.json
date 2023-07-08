@@ -1,14 +1,18 @@
 {
-  "dateOfBirth" : "1260",
-  "dateOfDeath" : "1330?",
-  "hometown" : "người làng Cự Xạ, huyện Đông Triều, phủ Tân Hưng (nay là thị xã Đông Triều, tỉnh Quảng Ninh).",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
   "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "fatherName" : {
+    "Lê Sao" : null
+  },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Nhà Hậu Lê" : 20
+  },
   "id" : 1710,
-  "entityName" : "Trần Thì Kiến",
-  "aliases" : [ ],
-  "overview" : "Trần Thì Kiến (陳時見, 1260–1330?) người làng Cự Xạ, huyện Đông Triều, phủ Tân Hưng (nay là thị xã Đông Triều, tỉnh Quảng Ninh). Ông từng là môn khách của Trần Hưng Đạo, và được Trần Hưng Đạo tiến cử với Vua Trần Nhân Tông, được vua bổ nhiệm làm An phủ sứ phủ Thiên Trường, sau đó là thiên qua nhiều chức vụ khác như: Kiểm pháp quan kiêm chức Đại An phủ sứ Kinh sư, Nhập nội hành khiển hữu gián nghị đại phu, và cuối đời ông được thăng lên đến chức Tả bộc xạ - Tể tướng."
+  "entityName" : "Lê Thọ Vực",
+  "aliases" : [ "Sùng quốc công", "Lê Thọ Vực" ],
+  "overview" : "Lê Thọ Vực (?-1484 hoặc 1489 ) là một tướng lĩnh nhà Lê sơ trong lịch sử Việt Nam, có công bình định Bồn Man, ổn định biên giới phía tây của Đại Việt."
 }

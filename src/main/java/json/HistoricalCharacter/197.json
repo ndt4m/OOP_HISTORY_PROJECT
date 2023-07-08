@@ -1,17 +1,16 @@
 {
-  "dateOfBirth" : "Kỉ Mão 1879",
-  "dateOfDeath" : "Quí Mão 1963",
-  "hometown" : "quê làng An Truyền, tổng Quảng Xuyên, huyện Phú Vang, tỉnh Thừa Thiên, cư ngụ tại Gia Hội, Thành phố Huế",
-  "occupation" : "Nhà giáo dục, tác giả, cựu Đốc học trường Quốc học Huế",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Vĩnh Long",
+  "occupation" : "Tức Bảy Nghị ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Pháp đô hộ" : 11
   },
   "id" : 197,
-  "entityName" : "Hồ Đắc Hàm",
-  "aliases" : [ ],
-  "overview" : "Thuở nhỏ học Trường Quốc học Huế, đậu bằng Thành Chung năm 1900, năm 1915 đậu cử nhân Hán học tại Trường thi Thừa Thiên. Sơ bổ Trước tác hàn lâm viện, Giám đốcTrường Sư phạm Huế (1915), rồi Thị giảng học sĩ (1919), Hồng lô tự khanh (1921), Tư nghiệp Quốc tử giám, rồi Tham tri Bộ Học (1933) năm sau Quyền Thượng thư. Sau khi về hưu ông mở trường Trung học tư thục Hồ Đắc Hàm tại Huế, Hội trưởng Hội Truyền bá Quốc ngữ Trung Kì. Ông là tác già các sách: - Mông học tu tri - Monographie de la province Nghệ An - Monographie de la province Quảng Trị - Từ điển Hán Việt từ nguyên - Đại Nam Quốc âm dẫn giải - Kim Vân Kiều truyện dẫn giải..."
+  "entityName" : "Hoàng Văn Nghị",
+  "aliases" : [ "Huỳnh Nghị" ],
+  "overview" : "Quê ở huyện Tam Bình, tỉnh Vĩnh Long. Hai vợ chồng ông đều tích cực hoạt động cách mạng, cùng xuất ngoại trong năm Bính ngọ 1906, được Kì Ngoại Hầu Cường Để và Phan Bội Châu trọng vọng. Bí danh Hoàng Hưng của ông, chính Cường Để đặt cho, và vợ ông cũng có bí danh là Thiệu Trưng. Từ tháng 6-1906, ông cùng Đặng Từ Mẫn vào học trường võ bị Shimbu Gakko ở Nhật. Ra trường; ông được Tổng bộ Việt Nam Quang phục hội giao nhiệm vụ liên lạc với các đồng chí trong Nam xuất ngoại sang Nhật. Ông lén về nước, vẫn âm thầm theo đuổi chí hướng giải phóng dân tộc. Năm 1913, tháng 6 ông bị bắt giải về nước, rồi bị đày Côn Đảo. Sau khi ông từ Côn Đảo về, nhà chức trách đương thời theo dõi vợ chồng ông, kiểm soát chặt chẽ. Về già, ông làm quản lý tàu Vĩnh Thuận của cụ Bộ Tòng, chạy đường Vĩnh Long - Sài Gòn. Trong quyển Tự phán, Phan Bội Châu ghi: \"Hoàng Hưng ở lại Nhật Bản cần lao học tập ước nửa năm, sau về Hương Cảng khổ tâm tích cực, định làm một nhà thực hành chế tạo đạn dược, toan hành động một việc phi thường, bị chính phủ Anh dẫn độ cho Pháp, án đày Côn Lôn. Nam kì thanh niên lúc đó như ông Hoàng Hưng thật là hiếm\"."
 }

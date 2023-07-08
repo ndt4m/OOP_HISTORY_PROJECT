@@ -1,18 +1,20 @@
 {
-  "dateOfBirth" : "Mậu Ngọ 1918",
-  "dateOfDeath" : "Bính Tuất 1946",
-  "hometown" : "tại làng Tân Thạnh, huyện Chợ Mới, tỉnh An Giang",
-  "occupation" : "Thi sĩ ",
+  "dateOfBirth" : "Canh Ngọ 1930",
+  "dateOfDeath" : "Ất Hợi 1995",
+  "hometown" : "tại Qui Nhơn",
+  "occupation" : "Nhà văn hiện đại",
   "workTenure" : "Không rõ",
   "fatherName" : {
-    "Nguyễn Côn" : 1239
+    "Giáo sư Lê Ấm" : null
   },
-  "motherName" : { },
+  "motherName" : {
+    "Phan Thị Châu Liên" : null
+  },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Nước Việt Nam mới" : 29
   },
   "id" : 1987,
-  "entityName" : "Nguyễn Xuân Thiếp",
-  "aliases" : [ "Việt Châu" ],
-  "overview" : "Thuở nhỏ ông học ở Long Xuyên, đậu Tiểu học rổi nghỉ ở nhà học chữ Hán và Đông y. Những năm 1944-1945 vì giao tình thơ văn mà thân với Huỳnh Phú Sổ (đạo Hòa Hảo). Năm 1946, ông làm trung gian hòa giải các cuộc tranh chấp nội bộ giữa Việt Minh và Hòa Hảo nên bị liên lụy và chết ở Cần Thơ cùng một lần với tướng Hòa Hảo Trần Văn Soái. Ông có thơ đăng trên báo Mai của Đào Trinh Nhất ở Sài Gòn, Gió Mùa, Dân báo... trong phần phụ trương văn chương của báo Lục tỉnh tân văn. Tại Đốc Vàng thượng (quê nhà) ông lập Văn đàn Đốc Vàng thượng. Ông là một thi sĩ xuất thân trong một gia đình nhà Nho yêu nước, làm thơ từ hồi còn rất trẻ (10-15 tuổi). Lúc mới 16 tuổi đã có thơ xuất bản và đến năm 26 tuổi (1944) đã có 4 tập thơ đến với độc giả trong toàn quốc. Trong 4 tập thơ vừa nói có tập Hải Đường hoa rụng và Lông ngỗng gieo tình (Truyện Mị Châu - Trọng Thủy) được đa số độc giả yêu thơ tán thưởng. Lông ngỗng gieo tình là một cuốn tiểu thuyết dã sử bằng thơ viết về sự tích Trọng Thủy - Mị Châu trong truyền thống lịch sử và văn chương truyền khẩu Việt. Thơ Việt Châu bóng bảy, trôi chảy như giòng sông bất tận xuôi về biển cả như phần đông các nhà thơ lãng mạn thời tiền chiến. Đánh giá về thi tài Việt Châu, Vũ Ngọc Phan cho rằng: \"Lời kể chuyện bằng thơ là một lối rất khó, xưa nay cũng chỉ mới có tập Kim Vân Kiều là quán tuyệt cổ kim, vậy mà ông Việt Châu đã viết tập Lông ngỗng gieo tình được như thế, nhất là lại dùng lối song thất lục bát là lối nay hình như các thi sĩ không dùng đến...\" (Vũ Ngọc Phan - Hà Nội 14-11-1942). Các tác phẩm của ông đã xuất bản: - Xuân xanh (1934) - Tình thơ (1942) - Lông ngỗng gieo tình (1942) - Hải Đường hoa rụng (1944) - Tráng sĩ ca (1945)"
+  "entityName" : "Lê Khâm",
+  "aliases" : [ "Phan Tứ" ],
+  "overview" : "Xuất thân trong một gia đình nho giáo, nội ngoại tổ là các nhà yêu nước, thân phụ tốt nghiệp Truờng Cao đẳng sư phạm Đông Dương. Thuở nhỏ học ở Qui Nhơn đến năm 1945, sau toàn quốc kháng chiến gia đình tản cư về nguyên quán. Năm 1950 tham gia bộ đội, từng chiến đấu tại chiến trường Hạ Lào. Sau hiệp đinh Genève ông tập kết ra Bắc, năm 1958 là sinh viên tại Đại học Tổng hợp Hà Nội. Năm 1961 trở về chiến đấu tại chiến trường miền Nam, từng là phái viên Ban Tuyên huấn Liên khu V. Sau ngày thống nhất đất nước ông về công tác tại Hội Văn nghệ Quảng Nam - Đà Nẵng cho đến ngày qua đời (1995). Hầu hết sáng tác của ông là truyện ngắn và tiểu thuyết viết về đề tài chiến tranh chống Mĩ ở chiến trường miền Nam; nhất là ở Trung Trung Bộ. Các tác phẩm: - Một ngày bên đồn địch (truyện ngắn, 1957) - Bên kia biên giới (1958) - Trước giờ nổ súng (1960) - Trên đất Lào (1961) - Về làng (1964) - Trở về Hà Nội (1959) - Gia đình má Bảy (1968) - Trong đám nứa (1968) - Măng mọc trong lửa (1972) - Mẫn và tôi (1972) - Trại ST. 18 (1974) - Trong mưa núi (1984) - Người cùng quê (1985) - Sông Hằng mẹ tôi (dịch tiểu thuyết, 1984) "
 }

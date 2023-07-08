@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Quí Dậu 1873",
-  "dateOfDeath" : "Giáp Thân 1944",
-  "hometown" : "quê làng Phong Thử, huyện Điện Bàn, tỉnh Quảng Nam (nay là xã Điện Thọ, huyện Điện Bàn)",
-  "occupation" : "Nhà yêu nước",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "nhà Hậu Lê" : null
   },
   "id" : 2677,
-  "entityName" : "Phan Thúc Duyện",
-  "aliases" : [ "Phong Thử", "Mi Sanh" ],
-  "overview" : "Ông xuất thân trong một gia đình nông nghiệp, đậu Cử nhân khoa Canh tí 1900 (bạn đồng hương và đồng khoa với Phan Châu Trinh, Huỳnh Thúc Kháng Nguyễn Đình Hiến). Sau khi đỗ cử nhân, ông không ra làm quan mà tích cực thực hành duy tân tự cường tại quê nhà cùng với các đồng chí là Trần Quí Cáp, Phan Châu Trinh... Năm 1908 phong trào Duy tân bị đàn áp, ông và các chiến sĩ khác bị bắt lưu đày Côn Đảo vô thời hạn. Ở Côn Đảo được hơn 10 năm, ông có người con trai tên là Phan Mính tham dự cuộc chiến ở Châu Âu hồi năm 1914 (sau lưu học tại Pháp đậu kĩ sư) làm đơn khiếu nại, đến năm 1919 ông được trả tự do. Về đến Huế, ông bị thực dân Pháp và triều đình Huế cưỡng bức lưu trú tại Quảng Bình, hơn 10 năm. Sau đó được về sống ở bản quán. Ông mất ngày 3-10- 1944 tại quê nhà. Khi ở Côn Đảo, được trả tự do Huỳnh Thúc Kháng có tặng ông bài thơ ngũ ngôn: \"Biệt thị tiêu hồn vật, Phân khâm huống nguc trung, Khử lưu kim nhật vị, Tân khổ thập niên đồng. Hải hoạt châu lâm ngạn, Thiên cao hạc xuất lung. Ỷ lư do hữu mẫu, Nhứt kiến tiếu nhan hồng. Bản dịch: Cái biệt, ghê hồn nhỉ, Phương chi giữa cảnh cùng! Ở về chia khác ngả, cay đắng lẫn mười đông, Biển rộng thuyền gần bến, Trời cao hạc thoát lồng. Me già cùng thấy mặt Dựa cửa thỏa lòng trông."
+  "entityName" : "Lê Sơ",
+  "aliases" : [ ],
+  "overview" : "Nhà Lê sơ hay Lê sơ triều (chữ Nôm: 家黎初 chữ Hán: 黎初朝), đôi khi gọi là nhà Hậu Lê (後黎朝), là giai đoạn đầu của triều đại quân chủ nhà Hậu Lê. Đây là thời kỳ mà chế độ quân chủ chuyên chế tập quyền trong lịch sử Việt Nam lần đầu tiên đạt đến đỉnh cao của sự phát triển cũng như suy thoái của nó. Nhà Lê sơ được thành lập sau khi Lê Lợi phát động Khởi nghĩa Lam Sơn đánh bại nhà Minh. Ông đổi tên Giao Chỉ (交阯), vốn tồn tại trong thời gian nội thuộc nhà Minh, trở về Đại Việt (大越), quốc hiệu có từ đời Lý Thánh Tông."
 }

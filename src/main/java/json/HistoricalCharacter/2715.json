@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Quê huyện Yên Phong, tỉnh Bắc Ninh",
-  "occupation" : "Võ tướng theo giúp Lê Lợi khởi nghĩa ở Lam Sơn, không rõ năm sinh, năm mất, được cho theo họ vua",
+  "dateOfBirth" : "Kỉ Mão 1639",
+  "dateOfDeath" : "Bính Thìn 1716",
+  "hometown" : "quê làng Phú Hào, huyện Lôi Dương, tỉnh Thanh Hóa, ông cùng với anh là Lê Thì Kinh giúp vua Lê, chúa Trịnh trong việc chống với chúa Nguyễn",
+  "occupation" : "Danh tướng đời Lê Gia tông, con Hầu Quận Công Lê Thì Hiến",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Thuộc Minh" : 33
+    "Trịnh - Nguyễn" : 34
   },
   "id" : 2715,
-  "entityName" : "Ngô Đễ",
-  "aliases" : [ "Lê Đễ" ],
-  "overview" : "Ông dũng cảm xông pha trận mạc, dày công lao, được phong làm Thống lĩnh tướng quân. Đến khoảng năm 1426-1427, ông hi sinh lúc cuộc khởi nghĩa sắp thành công. Khôi phục xong đất nước, vua Lê truy niệm ông vào hàng đệ nhất công thần, phong làm Phúc thần, cấp cho ruộng đất để con cháu gầy nghiệp, thờ phụng. Trải qua các triều đại đều có truy phong."
+  "entityName" : "Lê Thì Hải",
+  "aliases" : [ ],
+  "overview" : "Năm Bính thìn 1716 ông mất, thọ 77 tuổi."
 }

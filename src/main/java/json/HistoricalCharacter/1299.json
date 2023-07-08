@@ -1,19 +1,16 @@
 {
-  "dateOfBirth" : "175 TCN\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "124 TCN Nam Việt\n----------------------------------------------\nKhông rõ",
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Kỉ Mùi 1799",
   "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Nam Việt\n----------------------------------------------\nVua",
-  "workTenure" : "137 TCN – 124 TCN\n----------------------------------------------\n137—125TCN",
-  "fatherName" : {
-    "Triệu Trọng Thủy" : null,
-    "Trọng Thủy" : 1533
-  },
+  "occupation" : "Võ tướng Tây Sơn, dày công giúp anh em Bắc Bình vương Nguyễn Huệ gây dựng đại nghiệp, ông được anh em Tây Sơn trọng vọng, trao cho chức Đô đốc.",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Triệu" : 16
+    "Nhà Tây Sơn" : 21
   },
   "id" : 1299,
-  "entityName" : "Triệu Văn Vương",
-  "aliases" : [ "Văn Hoàng đế (文皇帝)", "Triệu Văn Vương", "Triệu Mạt Triệu Muội (趙眜) Triệu Hồ (趙胡)" ],
-  "overview" : "Triệu Văn Đế (趙文帝) hay Triệu Văn Vương (趙文王), húy Triệu Mạt, có khi phiên âm là Triệu Muội (趙眜), còn gọi là Triệu Hồ (趙胡), là vị vua thứ 2 nhà Triệu nước Nam Việt, cháu nội của Triệu Đà, lên ngôi năm 137 TCN.\n----------------------------------------------\nTriệu Văn Đế (趙文帝) hay Triệu Văn Vương (趙文王), húy Triệu Mạt, có khi phiên âm là Triệu Muội (趙眜), còn gọi là Triệu Hồ (趙胡), là vị vua thứ hai nhà Triệu nước Nam Việt, cháu nội của Triệu Đà, lên ngôi năm 137 TCN."
+  "entityName" : "Đoàn Văn Cát",
+  "aliases" : [ ],
+  "overview" : "Năm Mậu ngọ 1798, Nguyễn Bảo (con Nguyễn Nhạc) không tuân phục triều đình Phú Xuân, hùng cứ Qui Nhơn, sai ông và Nguyễn Văn Thiệu đi trấn giữ Phú Yên. Ông thấy tình thế Tây Sơn đã rối về nội bộ, liệu Nguyễn Bảo chẳng làm nên gì được, từ đấy u uất, sinh bệnh mà mất."
 }

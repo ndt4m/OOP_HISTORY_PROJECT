@@ -1,16 +1,16 @@
 {
   "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Thiền sư đời Lý Nhân tông, không rõ họ tên, năm sinh năm mất",
+  "hometown" : "Hà Tây",
+  "occupation" : "Liệt sĩ cận đại, người tỉnh Hà Đông ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Lý" : 14
+    "Pháp đô hộ" : 11
   },
   "id" : 1791,
-  "entityName" : "Pháp Bảo",
-  "aliases" : [ "Pháp Bảo" ],
-  "overview" : "Ông trụ trì chùa Phúc Diên thuộc tỉnh Thanh Hóa, đương thời được Lý Thường Kiệt trọng vọng. Ông có công đào tạo được nhiều tăng sinh cho Phật giáo Việt Nam vào đời nhà Lý, nên được phong là Giác Tính Hải Chiếu đại sư. Ít lâu sau lại được phong là Thông Thiền Hải Chiếu đại sư. Năm 1101 ông làm bài văn bia chùa Linh Xứng ở Ngưỡng Sơn, và năm 1118 soạn văn bia chùa Sùng Nghiêm Diên Thánh có tên là: - Ngưỡng Sơn Linh Xứng tự bi minh - Sùng Nghiêm Diên Thánh tự bi minh. Nội dung bài văn bia ở chùa Linh Xứng, đoạn cuối đề cao việc làm và đức độ Lý Thường Kiệt một khuôn mặt lớn của lịch sử Việt Nam trên nhiều lĩnh vực. Di tích các văn bia trên hiện nay vẫn còn."
+  "entityName" : "Hà Tử Kính",
+  "aliases" : [ ],
+  "overview" : "Ông nhiệt thành yêu nưóc, xuất dương sang Trung Quốc, gia nhập Việt Nam Quang phục hội. Ông cùng bạn đồng hương là Nguyễn Tông Duy tích cực hoạt động cách mạng, được các đồng chí quí trọng. Ít lâu, ông bệnh mất ở Dương Thành (Quảng Châu). Nguyễn Tông Duy mất ở Long Châu. Đặng Đoàn Bằng có thơ điếu ông và Nguyên Tông Duy, cùng với Lê Thanh Hương - người Nam Định, mất ở Băng Cốc (Thái Lan). \"Thiên trùng vân sự vạn trùng san, Tứ cố thương mang lệ ám đàn. Nguyệt ám đăng vi nhân ảnh đạm, Phong thê vũ thiết kiếm quang hàn. Mộng trung xích tử đề thinh khổ, Cục lí thần châu chiến huyết ân. Bằng bối linh tinh cừu vị báo! Hải thiêm phủ ngương đoạn sầu nan.\" Bản dịch: Mây núi xa xa mấy vạn trùng, Mênh mang bốn phía lệ tuôn ròng. Trăng mờ đêm tối người phai bóng, Gió thảm mưa thê kiếm lạnh lùng! Mộng thấy trẻ con gào tiếng khóc, Cuộc nhìn trận đánh, máu xông hồng. Bạn bầu thưa thớt thù chưa báo! Trời bể sầu này khó dứt xong."
 }

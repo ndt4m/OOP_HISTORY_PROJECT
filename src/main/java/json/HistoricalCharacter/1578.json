@@ -1,16 +1,14 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Giáp Tuất 1874",
-  "hometown" : "Nghệ An",
-  "occupation" : "Liệt sĩ cận đại, lãnh tụ kháng chiến thời Pháp thuộc, nguời tỉnh Nghệ An.",
+  "dateOfBirth" : "1465",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "người làng Đồng Khê, huyện Thanh Lâm, phủ Thượng Hồng (nay là thôn Đồng Khê, xã An Lâm, huyện Nam Sách, tỉnh Hải Dương).",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
-  },
+  "eraName" : { },
   "id" : 1578,
-  "entityName" : "Đặng Như Mai",
+  "entityName" : "Trần Sùng Dĩnh",
   "aliases" : [ ],
-  "overview" : "Ông nhiệt thành yêu nước, đứng lên cùng Tú tài Trần Tấn chỉ đạo cuộc kháng chiến, lập chiến khu ở vùng Nghệ Tĩnh. Nghĩa quân Văn thân dưới sự đièu khiển của ông, thanh thế lừng lẫy. Ông truyền hịch Bình Tây sát tả, đốt phá những làng dân công giáo theo giặc Pháp. Nam triều cấu kết với giặc Pháp cử Khâm sai Nguyễn Văn Tường và tổng thống quân vụ Lê Bá Thận đem quân hội với quân Pháp vây đánh. Chống nhau suốt sáu tháng, dần dần nghĩa quân tan rã. Ông tử tiết trong năm Giáp tuất 1874."
+  "overview" : "Trần Sùng Dĩnh (chữ Hán: 陳崇穎, 1465–?) là một Trạng nguyên của Việt Nam. Ông là người làng Đồng Khê, huyện Thanh Lâm, phủ Thượng Hồng (nay là thôn Đồng Khê, xã An Lâm, huyện Nam Sách, tỉnh Hải Dương). Ông đỗ Trạng nguyên khoa Đinh Mùi niên hiệu Hồng Đức thứ 18 (1487) , đời Lê Thánh Tông. Làm quan Đô ngự sử Thập nhị Kinh diên, rồi được thăng lên Hộ bộ hữu thị lang và Hộ bộ Thượng thư vào tháng 12 năm 1514 dưới thời vua Lê Tương Dực. Sau khi mất, ông được phong làm Phúc thần và được thờ phụng ở quê nhà."
 }

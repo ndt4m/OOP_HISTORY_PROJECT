@@ -1,16 +1,14 @@
 {
-  "dateOfBirth" : "Giáp Dần 1854",
-  "dateOfDeath" : "Kỉ Mùi 1919",
-  "hometown" : "quê làng Hữu Thanh Oai, huyện Thanh Oai, tỉnh Hà Đông (nay thuộc TP",
-  "occupation" : "Danh sĩ, tác giả",
-  "workTenure" : "Không rõ",
+  "dateOfBirth" : "15 tháng 5, 1927 Điện Nam, Điện Bàn, Quảng Nam, Liên bang Đông Dương",
+  "dateOfDeath" : "23 tháng 6, 2014 (87 tuổi) Đà Nẵng, Việt Nam",
+  "hometown" : "Không rõ",
+  "occupation" : "Thuộc",
+  "workTenure" : "1946-1998",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
-  },
+  "eraName" : { },
   "id" : 1367,
-  "entityName" : "Đoàn Triển",
-  "aliases" : [ "Mai Viên" ],
-  "overview" : "Xuất thân trong một gia đình nho học truyền thống (con trai cử nhân Đoàn Trọng Huyên, em ruột cử nhân Đoàn Bưu) đậu cử nhân khoa Bính tuất (1886) niên hiệu Đồng Khánh thứ nhất tại trường thị Hà Nam. Ông từng làm viên ngoại Nha kinh lược Bắc kì, sau chuyển về làm việc ở bộ Lễ. Tại đây ông cùng với Đỗ Văn Tâm, Bùi Hướng Thành, Dương Lâm soạn sách tân giáo khoa ở Ban Tu thư. Trước khi về hưu được thăng Hiệp biện Đại học sĩ. Con trai út ông là Đoàn Thêm (1916 - …) là một nhà luật học, nhà văn có thực tài. Các tác phẩm của ông: - An Nam phong tục sách - Mai Viên thi văn tập - Đoàn tuần phủ công độc - Âu học Hán tự tân thư"
+  "entityName" : "Phan Hoan",
+  "aliases" : [ ],
+  "overview" : "Phan Hoan (1927-2014), là tướng lĩnh cấp cao trong Quân đội Nhân dân Việt Nam, hàm Trung tướng, nguyên Tư lệnh kiêm Bí thư Đảng uỷ Quân khu 5, Phó Tư lệnh Binh chủng Thông tin, Tham mưu phó Mặt trận B3 (Tây Nguyên)"
 }

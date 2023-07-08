@@ -1,16 +1,21 @@
 {
-  "dateOfBirth" : "1463\n----------------------------------------------\nGiáp Thân 1464",
-  "dateOfDeath" : "1505\n----------------------------------------------\nBính Dần 1506",
-  "hometown" : "quê làng Bình Ngô, huyện Gia Bình, tỉnh Bắc Ninh",
-  "occupation" : "Danh sĩ đời Lê Thánh tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
+  "dateOfBirth" : "30 tháng 6, 1337\n----------------------------------------------\nBính Tí 1336\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "4 tháng 3, 1377 (39 tuổi) Chiêm Thành\n----------------------------------------------\nĐinh Tị 1377\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua thứ chín nhà Trần\n----------------------------------------------\nVua",
+  "workTenure" : "1372 - 1377\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1372—1377",
+  "fatherName" : {
+    "Trần Minh Tông" : 2061,
+    "thứ 11 của Trần Minh tông" : null
+  },
+  "motherName" : {
+    "Đôn Từ quý phi" : null
+  },
   "eraName" : {
-    "Triều Lê Sơ" : 7
+    "Nhà Trần" : 15
   },
   "id" : 798,
-  "entityName" : "Nguyễn Quang Bật",
-  "aliases" : [ "Nguyễn Quang Hiếu" ],
-  "overview" : "Nguyễn Quang Bật (chữ Hán: 阮光弼; 1463–1505) tên thật Nguyễn Quang Hiếu, là người đỗ trạng nguyên năm 1484 dưới triều vua Lê Thánh Tông.\n----------------------------------------------\nNăm Giáp thìn 1484 ông đỗ trạng nguyên, làm Thị thư ở viện Hàn lâm, dự vào Tao đàn Nhị thập bát tú của vua Lê Thánh tông. Năm Giáp tí 1504, ông làm Đô ngự sử cùng với Đàm Văn Lễ nhận di chiếu Thánh tông lập vua Túc tông. Do đấy, vua Uy Mục rất ghét ông, nên sau khi đoạt ngôi, Uy Mục đày ông vào làm Thừa tuyên sứ ở Quảng Nam. Trên đường đi nhậm chức, ông bị bức phải nhảy xuống sông tự vẫn trong năm Bính dần 1506. Đời vua Tương Dực, ông và Đàm Văn Lễ được truy tặng là bậc tiết nghĩa. Tác phẩm của ông nay chỉ còn lại một số bài thơ chép trong Toàn Việt thi lục."
+  "entityName" : "Trần Duệ Tông",
+  "aliases" : [ "Kế Thiên Ứng Vận Nhân Minh Khâm Hiếu Hoàng Đế 繼天應運仁明欽孝皇帝", "Long Khánh (隆慶)", "Trần Duệ Tông", "Duệ Tông (睿宗)", "Trần Kính (陳曔)" ],
+  "overview" : "Trần Duệ Tông (chữ Hán: 陳睿宗, 30 tháng 6, 1337 - 4 tháng 3, 1377), là vị hoàng đế thứ 9 của triều đại nhà Trần trong lịch sử Việt Nam. Ông trị vì từ năm 1372 đến khi bị giết vào năm 1377.\n----------------------------------------------\nKhi vua Nghệ tông tránh loạn Dương Nhật Lễ, ông có công bình định xứ sở nên được Nghệ tông truyền ngôi cho nhưng ông chỉ ở ngôi được 4 năm (1374-1377). Trong năm Đinh tị 1377, ông thân chinh đi đánh Chiêm Thành, gặp lúc biến động chiến thuyền gặp nguy hiểm. Quí phi yêu dấu của ông là Nguyễn Bích Châu tin theo sự mê hoặc tế thần gieo mình xuống biển để cứu nạn. Và sau đó ông cũng chết tại trận, hưởng dương 41 tuổi. Ông cũng có tài văn thơ, tác giả một số thơ văn, nhưng phần lớn bị thất lạc. Bài Văn tế Nguyễn Bích Châu có nghệ thuật thơ, nay còn truyền tụng.\n----------------------------------------------\nTrần Duệ Tông (chữ Hán: 陳睿宗, 30 tháng 6 năm 1337 – 4 tháng 3 năm 1377) là vị hoàng đế thứ 10 của triều đại nhà Trần trong lịch sử Việt Nam. Ông trị vì từ năm 1372 đến khi tử trận vào năm 1377. Trần Duệ Tông là vị hoàng đế duy nhất trong lịch sử Việt Nam bị tử trận khi đương quyền. Xét trong 7 thế kỷ Chiến tranh Việt-Chiêm, ông cũng là vị Hoàng đế duy nhất bị tử trận khi đánh nhau với quân Chiêm Thành."
 }

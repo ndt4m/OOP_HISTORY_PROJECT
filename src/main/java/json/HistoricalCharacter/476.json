@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Canh Thìn 1820",
-  "hometown" : "Quê huyện Bình Dương, tỉnh Gia Định (nay là thành phố Hồ Chí Minh)",
-  "occupation" : "Văn thần đời Gia Long",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Tước hiệu",
+  "workTenure" : "1786—1787",
+  "fatherName" : {
+    "Trịnh Giang" : null
+  },
   "motherName" : { },
   "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+    "Đàng Ngoài - Chúa Trịnh" : 26
   },
   "id" : 476,
-  "entityName" : "Lê Bá Phẩm",
+  "entityName" : "Án Đô Vương",
   "aliases" : [ ],
-  "overview" : "Xuất thân làm Quốc giám thị học, rồi đổi qua Viện Hàn lâm. Lại từng ra làm Kí lục ở Trấn Định, ít lâu làm Cai bạ ở Quảng Nam. Sau làm Tả tham tri bộ Hình. Ông có lần đi sứ Trung Quốc (triều đại nhà Thanh), khi về đổi làm Hiệp trấn Thanh Hóa, sau được triệu về kinh lãnh chức Tham biện ở bộ Hình rồi vào lãnh Hình tào ở Gia Định, đoạn quyền lãnh Hiệp trấn Nghệ An. Đời Minh Mạng Canh thìn 1820, ông mất, được truy tặng Hiệp biện đại học sĩ, thụy là Cẩm Hầu."
+  "overview" : "Án Đô vương Trịnh Bồng (chữ Hán: 鄭槰; 25 tháng 8 năm 1749 - 13 tháng 2 năm 1791), là vị chúa Trịnh thứ 11 thời Lê Trung hưng và cũng là vị chúa cuối cùng trong lịch sử Việt Nam."
 }

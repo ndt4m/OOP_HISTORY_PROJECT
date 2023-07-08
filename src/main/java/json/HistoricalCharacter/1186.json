@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Nhâm Ngọ 1882",
-  "dateOfDeath" : "Bính Thìn 1916",
-  "hometown" : "Quê làng Nghi An, ngoại ô Thành phố Đà Nẵng nay thuộc huyện Hòa Vang, tỉnh Quảng Nam",
-  "occupation" : "Nhà yêu nước, lãnh tụ cuộc khởi nghĩa của vua Duy Tân năm 1916",
+  "dateOfBirth" : "Nhâm Tí 1912",
+  "dateOfDeath" : "Kỉ Mão 1975",
+  "hometown" : "Quê xã An Phú, huyện Sơn Tịnh, tỉnh Quảng Ngãi",
+  "occupation" : "Tướng lãnh QĐNDVN, từng là đội trưởng Đội du kích Ba Tơ, Tư lệnh kiêm Chính ủy lực lượng công an nhân dân vũ trang",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 1186,
-  "entityName" : "Thái Phiên",
-  "aliases" : [ "Nam Thạnh" ],
-  "overview" : "Ông là con trai duy nhất của ông Thái Duy Tân và bà Lê Thị Lí. Thuở nhỏ học chữ Hán, sau theo Tây học, rồi làm tư với thầu khoán người Pháp Le Roy ở Đà Nẵng. Năm 1903 ông tham gia phong trào Duy tân, Đông du với Phan Bội Châu. Năm 1908 phong trào chống thuế ở Trung Kì bị khủng bố, ông thoát khỏi lưới giặc. Đến năm 1913-1914 ông liên lạc với Tú tài Lê Ngung, Trần Cao Vân tổ chức cơ sở Việt Nam Quang phục hội tại Quảng Nam, Quảng Ngãi, Bình Định... Từ đó ông và Trần Cao Vân quyết định tiếp xúc với vua Duy Tân (Nguyễn Phúc Vĩnh San) để tổ chức cuộc khởi nghĩa tại Huế. Đầu năm 1916 nhờ sự giúp đỡ của Thị vệ Nguyễn Quang Siêu và tài xế Phạm Hữu Khánh (tài xế riêng của vua Duy Tân) ông và Trần Cao Vân gặp vua Duy Tân, nhà vua tán thành kế hoạch lật đổ Pháp và hứa sẽ làm theo những điều đã mật ước. Kế hoạch khởi nghĩa sẽ nổ ra vào lúc 1 giờ sáng ngày 3-5-1916. Ủy ban khởi nghĩa gồm Thái Phiên, Trần Cao Vân, Phan Thành Tài, Lê Ngung Nguyễn Sụy, Lê Cơ... Kế hoạch khởi nghĩa bị tiết lộ, ông Trần Cao Vân và vua Duy Tân sau khi ra khỏi thành Huế bị Pháp bắt trên đường lên căn cứ cùng các ông Tôn Thất Để Nguyễn Quang Siêu... Ngày 17-5-1916 ông và các đồng chí bị chém ở pháp trường An Hòa (gần Huế). Cảm vì cái chết oanh liệt này, Phan Bội Châu khóc ông bài thơ: Bảy thước thân trai trả nợ đời, Tinh thần xu xác một mà hai. Trong vòng lồng chậu không chim cá, Trước mắt non sông có bể trời. Cây cỏ biếc đem giây máu nhuốm, Ruột gan hồng cậy tấm trăng soi, Chúng ta vẫn cùng giòng Hồng Lạc, Xin hỏi Nam Xương có mấy ai ?"
+  "entityName" : "Phạm Quang Khanh",
+  "aliases" : [ "Phạm Kiệt" ],
+  "overview" : "Ông tham gia cách mạng từ năm 1929 trong tổ chức Việt Nam Thanh niên Cách mạng đồng chí hội, năm 1931 bị Pháp bắt kết án tù chung thân đày lên Ban Mê Thuột. Năm 1943 được trả tự do, lãnh đạo cuộc khởi nghĩa Ba Tơ vào ngày 11-3-1945 thành công. Sau đó lực lượng từ Ba Tơ kéo về cùng nhân dân địa phương giành chính quyền ở toàn tỉnh Quảng Ngãi. Sau toàn quốc kháng chiến (19-12-1946) làm Đại đoàn trường Đại đoàn 31 thuộc liên khu 5. Từ năm 1953-1960 là cục phó rồi cục trưởng cục bảo vệ Tổng cục chính trị, năm 1961 tư lệnh kiêm chính ủy lực lượng công an nhân dân vũ trang (Bộ trưởng Bộ Công an). Ông là đại biểu Quốc hội các khóa III, IV từng được tặng Huân chương Hồ Chí Minh. Ông mất năm 1975, thọ 63 tuổi."
 }

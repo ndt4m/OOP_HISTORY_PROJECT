@@ -1,14 +1,21 @@
 {
-  "dateOfBirth" : "1426",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "xã Cổ Liễu, huyện Tây Chân (nay thuộc xã Nam Hùng huyện Nam Trực, tỉnh Nam Định), phủ Phụng Thiên, trú quán phường Nhật Chiêu, huyện Quảng Đức (nay thuộc xã Đông Ngạc, huyện Từ Liêm, thành phố Hà Nội) .",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
+  "dateOfBirth" : "16 tháng 6 năm 1807 Huế, Việt Nam\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "4 tháng 10, 1847 (40 tuổi) Huế, Đại Nam\n----------------------------------------------\nCanh Tuất 1850",
+  "hometown" : "quê huyện Gia Lộc, tỉnh Hải Dương",
+  "occupation" : "Hoàng đế Đại Nam\n----------------------------------------------\nDanh thần đời T",
+  "workTenure" : "11 tháng 2 năm 1841 – 4 tháng 10 năm 1847 (6 năm, 235 ngày)\n----------------------------------------------\nKhông rõ",
+  "fatherName" : {
+    "Minh Mạng" : 1781
+  },
+  "motherName" : {
+    "Tá Thiên Nhân hoàng hậu Hồ Thị Hoa" : null
+  },
+  "eraName" : {
+    "Nhà Nguyễn" : null,
+    "Nhà Nguyễn độc lập" : 30
+  },
   "id" : 1831,
-  "entityName" : "Vũ Tuấn Chiêu",
-  "aliases" : [ ],
-  "overview" : "Vũ Tuấn Chiêu (chữ Hán: 武濬昭, 1426 - ?) nguyên quán xã Cổ Liễu, huyện Tây Chân (nay thuộc xã Nam Hùng huyện Nam Trực, tỉnh Nam Định), phủ Phụng Thiên, trú quán phường Nhật Chiêu, huyện Quảng Đức (nay thuộc xã Đông Ngạc, huyện Từ Liêm, thành phố Hà Nội) . Ông đỗ đầu trong số ba đệ nhất giáp tiến sĩ cập đệ (tức trạng nguyên) khoa thi Hồng Đức năm thứ 6 (1475) . Ông làm quan đến Tả Thị lang Bộ Lại ."
+  "entityName" : "Nguyễn Hiến Tổ",
+  "aliases" : [ "Nguyễn Phúc Miên Tông (阮福綿宗)", "Hiến Tổ", "Thiệu Trị (紹治;: 1841 - 1847)", "Chương Hoàng đế (章皇帝)", "Hiến Tổ (憲祖)", "Trị", "Nguyễn Phúc Miên Tông" ],
+  "overview" : "Thiệu Trị (chữ Hán: 紹治; 16 tháng 6 năm 1807 – 4 tháng 10 năm 1847), tên thật là Nguyễn Phúc Miên Tông (阮福綿宗), là vị Hoàng đế thứ ba của nhà Nguyễn, triều đại phong kiến cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1841 đến khi qua đời năm 1847, được truy tôn miếu hiệu là Hiến Tổ (憲祖).\n----------------------------------------------\nNăm Nhâm dần 1842, đỗ cử nhân, làm quan trải 2 triều Thiệu Trị, Tự Đức, có công trong việc chống bọn cướp biển Tàu. Năm Canh tuất 1850, ông quyền lãnh ấn Vụ châu Vạn Ninh. Bấy giờ có giặc Tàu ô quấy phá, ông lo chống giữ, mưu việc trị an hết lòng bảo vệ dân chúng. Thế yếu ông bị giặc giết. Dân chúng đều thương tiếc. Triều đình phong tặng ông chức Tri châu."
 }

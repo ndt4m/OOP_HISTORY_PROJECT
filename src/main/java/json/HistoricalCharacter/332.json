@@ -1,14 +1,17 @@
 {
-  "dateOfBirth" : "sinh năm 1",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
+  "dateOfBirth" : "? Làng Bỉ Ngũ, thuộc Lam Sơn, huyện Thọ Xuân, Thanh Hóa, Việt Nam\n----------------------------------------------\n…",
+  "dateOfDeath" : "1437 Đông Kinh, Việt Nam\n----------------------------------------------\nĐinh Tị 1437",
+  "hometown" : "người làng Bỉ Ngũ, thuộc Lam Sơn, huyện Thọ Xuân, Thanh Hóa, Việt Nam.\n----------------------------------------------\nquê thôn Đại Nga ở Lam Sơn, tỉnh Thanh Hóa",
+  "occupation" : "Thuộc\n----------------------------------------------\nDanh thần đời Lê Thái tổ",
+  "workTenure" : "1418 - 1428\n----------------------------------------------\nKhông rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "nhà Lê" : null,
+    "Triều Lê Sơ" : 7
+  },
   "id" : 332,
-  "entityName" : "Nguyễn Hữu Quang",
+  "entityName" : "Lê Sát",
   "aliases" : [ ],
-  "overview" : "Nguyễn Hữu Quang (sinh năm 1/5/1962) là đại biểu quốc hội Việt Nam khóa XIV nhiệm kì 2016-2021 , đại biểu Quốc hội Việt Nam khóa XIII, thuộc đoàn đại biểu Thanh Hoá , khóa XII thuộc đoàn đại biểu tỉnh Nghệ An ."
+  "overview" : "Lê Sát (chữ Hán: 黎察, ? – 1437) là công thần khai quốc nhà Lê sơ trong lịch sử Việt Nam, người làng Bỉ Ngũ, thuộc Lam Sơn, huyện Thọ Xuân, Thanh Hóa, Việt Nam.\n----------------------------------------------\nÔng theo giúp Lê Lợi trong cuộc khởi nghĩa cứu nước, dày công lao ở trận mạc, được phong Thiếu úy, rồi thăng Tư mã trong năm Đinh mùi 1427. Năm Mậu thân 1428, ông được ban hiệu Suy Trung tán tự hiệp mưu công thần chức Tư khấu, coi sóc việc quân, việc chính trị trong nước, tước Huyện Thượng Hầu. Đứng hàng thứ hai trong 53 công thần được khắc biển biểu dương. Năm Quí sửu 1433, được gia hiệu Dương võ tĩnh nam công thần, thăng Đại tư đồ rồi được làm Thừa tướng, giúp đỡ Thái tông. Từ 1433 về sau, uy quyền ông rất to, nhưng dần dần bị nhà vua chán ghét. Ngự sử Đinh Cảnh An và phe nhóm hùa theo ý nhà vua, hạch tội ông chuyên quyền nên vua ra lệnh cách chức. Chúng lại vu cáo thêm, ông bị vua bắt phải tự tử, tịch thu hết tài sản. Mãi đến đời Thánh tông, năm Giáp thìn 1484, ông mới được mình oan, truy tặng là Thái Bảo, tước Cảnh Quận Công."
 }

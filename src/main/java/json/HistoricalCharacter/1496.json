@@ -1,20 +1,16 @@
 {
-  "dateOfBirth" : "6 tháng 7, 1173",
-  "dateOfDeath" : "15 tháng 11, 1210 (37 tuổi)",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đại Việt",
-  "workTenure" : "1175 - 1210",
-  "fatherName" : {
-    "Lý Anh Tông" : 2394
-  },
-  "motherName" : {
-    "Đỗ Thụy Châu" : null
-  },
+  "dateOfBirth" : "Quí Tị 1893",
+  "dateOfDeath" : "Ất Dậu 1945",
+  "hometown" : "quê làng Động Dã, huyện Thanh Oai, nay thuộc tỉnh Hà Tây",
+  "occupation" : "Nhà báo",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
   "eraName" : {
-    "Nhà Lý" : 14
+    "Pháp đô hộ" : 11
   },
   "id" : 1496,
-  "entityName" : "Lý Long Cán",
-  "aliases" : [ "Niên hiệu Trinh Phù (1176 - 1185) Thiên Tư Gia Thuỵ (1186 - 1201) Thiên Gia Bảo Hựu (1202 - 1204) Trị Bình Long Ứng (1205 - 1210", "Lý Long Cán (hay Trát )", "Cao Tông" ],
-  "overview" : "Lý Cao Tông (chữ Hán: 李高宗, 1173–1210), là vị Hoàng đế thứ bảy của nhà Lý, cai trị từ năm 1175 đến năm 1210."
+  "entityName" : "Nguyễn Nam Thông",
+  "aliases" : [ ],
+  "overview" : "Năm 1937, ông làm chủ bút tờ Đông Tây và thường viết về tiểu thuyết lịch sử. Ông mất năm 1945 tại Hà Nội. Các tác phẩm: - Ba Giai. Hà Nội, Nhà xuất bản Tân Dân, 1934. - Tú Xuất. Hà Nội, Nhà xuất bản Tân Dân, 1930. - Đàn bà dễ có mấy tay. Hà Nội, Tân Dân thư quán, Hải Phòng, 1930. - Thằng ăn mày giàu nhất, tham nhất thế giới. Hà Nội, Tân dân thư quán, 1930. - Trung Nhật chiến tranh yếu nhân. Hà Nội, 1938. - Nhật - Nga chiến kỉ. Hà Nội, 1939. - Vợ lẽ của tôi (dịch của Từ Trẩm Á). Hà Nội, 1939."
 }

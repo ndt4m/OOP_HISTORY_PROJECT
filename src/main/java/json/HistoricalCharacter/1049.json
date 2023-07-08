@@ -1,17 +1,16 @@
 {
-  "dateOfBirth" : "Kỉ Mão 1819",
-  "dateOfDeath" : "Ất Sửu 1925",
-  "hometown" : "người làng Phụng Công, tỉnh Hà Tĩnh",
-  "occupation" : "Nhân vật hi hữu trong trường khoa cử",
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Bính Ngọ 1786",
+  "hometown" : "Quê làng Trảo Nha, huyện Thạch Hà, tỉnh Hà Tĩnh",
+  "occupation" : "Danh tướng đời Lê Hiển tông, Dòng dõi danh tướng Ngô Cảnh Hựu đời Lê Trang tông",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nhà Nguyễn độc lập" : 30
+    "Trịnh - Nguyễn" : 34
   },
   "id" : 1049,
-  "entityName" : "Đoàn Tử Quang",
+  "entityName" : "Ngô Cảnh Hoàn",
   "aliases" : [ ],
-  "overview" : "Từ thuở trẻ ông thi nhiều khoa chỉ đỗ hai khoa tú tài. Đến khoa Canh tí 1900, ông đã 82 tuổi còn lều chõng đi thi. Khoa này, chánh chủ khảo là Tế tửu Khiếu Năng Tĩnh, người tỉnh Nam Định, phó chủ khảo là Mai Khắc Đôn, nguời tỉnh Quảng Trị. Kết quả: 30 người đỗ cử nhân, người chiếm giải nguyên là Phan Bội Châu, còn ông đứng hạng 29. Bấy giờ ông còn mẹ già 98 tuổi. Thân mẫu ông góa chồng từ khi mới sinh ông, thủ tiết cho đến già. Trước đó vua Tự Đức ban tặng mẹ ông 15 lạng bạc và phong tặng là tiết phụ. Ông được bổ làm Huấn đạo ở Hương Sơn khi về hưu đã trên trăm tuổi. Vua Khải Định phong tặng ông làm Hàn lâm viện thị độc, trong năm Giảp tí 1924, năm sau ông mất, thọ 106 tuổi. Tổng đốc Nghệ An là Đào Tấn có thơ mừng khi ông thi đỗ Con trai Đào Tấn là Đào Thoại Thạch cũng có bài Hát nói mừng ông đỗ cử nhân khoá này."
+  "overview" : "Ông làm đến Tổng binh chỉ huy sứ, Quản đội Tiền Trạch nên đời sau vẫn thường gọi là ông Tiền Trạch. Năm Bính ngọ 1786 Tây Sơn cử binh đánh, ông và hai người con trai cầm quân chống cự quyết liệt trên sông Thúy Ái. Thua to, ông cùng hai con đều tử trận. Vợ ông là Phan Thị Thuấn hay tin, sau đó cũng gieo mình xuống sông Thúy Ái tử tiết."
 }

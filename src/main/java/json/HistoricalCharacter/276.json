@@ -1,16 +1,14 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Canh Tí 1960",
-  "hometown" : "Tây Ninh",
-  "occupation" : "Liệt sĩ hiện đại, nhiệt thành yêu nước, có tinh thần cách mạng rất cao.",
+  "dateOfBirth" : "1 tháng 1, 1920 Triệu Phong, Quảng Trị, Liên bang Đông Dương",
+  "dateOfDeath" : "7 tháng 10, 2005 (85 tuổi) Hà Nội, Việt Nam",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Nước Việt Nam mới" : 29
-  },
+  "eraName" : { },
   "id" : 276,
-  "entityName" : "Hoàng Lệ Kha",
+  "entityName" : "Trần Quỳnh",
   "aliases" : [ ],
-  "overview" : "Ông là một cán bộ lãnh đạo có nhiều cống hiến, một chiến sĩ cộng sản kiên cường bất khuất ở tỉnh Tây Ninh. Mật vụ Mĩ - Diệm bắt ông và kết án tử hình, hành quyết trong năm 1960. Sau luật 10-59 Ngô Đình Diệm, tay sai lê máy chém đi tàn sát những người yêu nước, Hoàng Lê Kha là người đầu tiên bị chúng giết. Gương đấu tranh kiên cường và sự hi sinh của ông được Tổ quốc ghi ơn."
+  "overview" : "Trần Quỳnh (1920 - 2005); nguyên Đại biểu Quốc hội từ khóa I đến khóa VII, Phó Chủ tịch Hội đồng Bộ trưởng, Chủ nhiệm Ủy ban Khoa học và Kỹ thuật Nhà nước nước Cộng hòa Xã hội Chủ nghĩa Việt Nam; nguyên Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa IV, V."
 }

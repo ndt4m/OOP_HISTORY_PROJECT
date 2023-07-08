@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Mậu Dần 1938",
-  "hometown" : "quê ở Bạc Liêu",
-  "occupation" : "Liệt sĩ cách mạng",
+  "dateOfBirth" : "982?\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "1059?\n----------------------------------------------\nKhông rõ",
+  "hometown" : "quê làng Băng Sơn, Châu Ái (tức làng Dương Sơn, huyện Hoằng Hóa, tỉnh Thanh Hóa)",
+  "occupation" : "Danh thần đời Lý Thái tổ, không rõ năm sinh, năm mất, quê làng Băng Sơn, Châu Ái ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Nhà Lý" : 14,
+    "nhà Lý" : null
   },
   "id" : 1995,
-  "entityName" : "Tạ Lợi",
+  "entityName" : "Lê Phụng Hiểu",
   "aliases" : [ ],
-  "overview" : "Ông giác ngộ cách mạng rất sớm, gia nhập đảng Cộng sản Đông Dương, tích cực hoạt động chống Pháp. Ông là người cộng sản đầu tiên của vùng đất Long Điền Đông. Sau một thời gian đi huấn luyện và sinh hoạt Đảng ở nhiều nơi, đến năm 1930, ông trở về quê Long Điền Đông gây dựng cơ sở, tổ chức cho nhân dân tỉnh Bạc Liêu vùng lên chống Pháp cứu nước. Năm Mậu dần 1938, ông bị bắt rồi bị đày ở Bà Rá, bị giặc Pháp tra tấn tàn nhẫn ông hi sinh trong tù."
+  "overview" : "Lê Phụng Hiểu (chữ Hán: 黎奉曉, 982? - 1059?) là một đại tướng nhà Lý, phụng sự ba triều vua đầu tiên của nhà Lý đó là vua Lý Thái Tổ, Lý Thái Tông và Lý Thánh Tông. Ông là người có công rất lớn trong việc phò vua Lý Thái Tông tức Lý Phật Mã lên ngôi.\n----------------------------------------------\nÔng là người giỏi võ, thuở trẻ từng một mình áp đảo đa số trai tráng làng Đàm Xá, khiến họ khuất phục và nghe theo sự sắp đặt của ông. Lý Thái tổ nghe tiếng ông, vời ra trọng dụng, phong làm Võ vệ tuớng quân. Khi vua mất, ba người con là Đông Chinh, Dực Thánh và Võ Đức vương phục binh gây biến để giành ngôi. Ông đem vệ sĩ ra đánh dẹp, giết Võ Đức vương và đuổi tan các nhóm binh biến, đưa Thái tông lên nối nghiệp. Thái tông khen ngợi ông, ví ông như Uất Trì Kính Đức (Uất Trì Cung) đời Đường, rồi phong ông làm Đô thống Thượng tướng quân, tước Hầu. Ông cũng có công dẹp loạn ở nhiều nơi. Nhà vua luận công phong thưởng, ông ngỏ ý: \"Tôi không muốn quan tước, chỉ xin đứng trên núi Băng Sơn ném cây đao lớn ra xa, đao rơi tới đâu thì được lấy ruộng đất trong khoảng đó\". Vua chuẩn nhận và chiếu theo chỗ ngọn đao ông ném, cấp cho ông hơn 1000 mẫu đất để biểu dương công trạng. Sau khi ông mất, dân chúng lập đền thờ, nhà vua truy phong ông làm phúc thần."
 }

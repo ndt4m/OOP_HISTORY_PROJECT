@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Tân Mùi 1871",
-  "dateOfDeath" : "Kỉ Tị 1929",
-  "hometown" : "quê làng Mĩ Trà, Cao Lãnh, tỉnh Sa Đéc (nay thuộc tỉnh Đồng Tháp)",
-  "occupation" : "Nhân sĩ ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth" : "856",
+  "dateOfDeath" : "17/5/924",
+  "hometown" : "Không rõ",
+  "occupation" : "Vua nước Kỳ",
+  "workTenure" : "901 hay 12/5/907 - 924",
+  "fatherName" : {
+    "Tống Đoan (宋端)" : null
   },
+  "motherName" : {
+    "Lô thị, Yên quốc thái phu nhân" : null
+  },
+  "eraName" : { },
   "id" : 2997,
-  "entityName" : "Phạm Nhân Thuần",
-  "aliases" : [ ],
-  "overview" : "Từ năm Kỉ dậu 1909, hưởng ứng phong trào Đông du, ông cùng Lưu Quang Bật, Trần Chánh Chiếu xuất ngoại đi Hương Cảng, rồi sang Nhật. Hoạt động ở nước ngoài một thời gian, ông bị bắt giải trở về nước, giam tại Vĩnh Long. Sau đó ông bị kết án 2 năm tù. Ra tù, dù bị theo dõi, ông vẫn âm thầm hoạt động chống Pháp, thường liên lạc với các chí sĩ ở Bến Tre, Rạch Giá, về sau ông lập \"Nhân Thuần lữ quán\" tại Long Xuyên, làm trụ sở mật giao liên với các đồng chí. Ít lâu ông lâm bệnh rồi mất năm Kỉ tị 1929 hưởng dương 58 tuổi."
+  "entityName" : "Lý Mậu Trinh",
+  "aliases" : [ "Tống Văn Thông", "Chính Thần", "Tên đầy đủ Tống Văn Thông, sau cải thành Lý Mậu Trinh Thụy hiệu Trung Kính (忠敬)" ],
+  "overview" : "Lý Mậu Trinh (tiếng Trung: 李茂貞; bính âm: Lǐ Màozhēn, 856–17 tháng 5 năm 924), nguyên danh Tống Văn Thông (tiếng Trung: 宋文通; bính âm: Sòng Wéntōng), tên tự Chính Thần (正臣), là người cai trị duy nhất của nước Kỳ thời Ngũ Đại Thập Quốc trong lịch sử Trung Quốc. Lý Mậu Trinh trở thành một tiết độ sứ hùng mạnh trong thời gian Đường Chiêu Tông trị vì, sức mạnh của ông tập trung tại trị sở Phượng Tường. Tuy nhiên, sức mạnh của Lý Mậu Trinh đã dần suy yếu sau các thất bại trước các quân phiệt Vương Kiến và Chu Toàn Trung."
 }

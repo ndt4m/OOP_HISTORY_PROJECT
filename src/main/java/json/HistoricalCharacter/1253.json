@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Kỉ Mão 1879",
+  "dateOfDeath" : "Mậu Thìn 1928",
+  "hometown" : "Thừa Thiên-Huế",
+  "occupation" : "Cao tăng Phật giáo, ông nguyên là hoàng thân nhà Nguyễn, tên Hoài Trấp",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
+  },
   "id" : 1253,
-  "entityName" : "Nguyễn Nghi",
-  "aliases" : [ "Nguyễn Văn Nghi" ],
-  "overview" : "Nguyễn Nghi hay Nguyễn Văn Nghi là một tên người Việt. Một số nhân vật cùng mang tên này như:"
+  "entityName" : "Viên Thành",
+  "aliases" : [ "Tôn Thất Hoài Trấp" ],
+  "overview" : "Năm 15 tuổi ông mồ côi cha mẹ, năm 19 tuổi, ông xuất gia, thọ giới với Viên Giác đại sư Nguyễn Khoa Luận, tại chùa Ba La ở làng Nam Phổ, tỉnh Thừa Thiên. Suốt 20 năm tu trì khổ hạnh, tinh thông giáo lí, đến năm 44 tuổi ông rời chùa Ba La, dựng một túp thảo am gần núi Ngự Bình, đặt tên là Tra Am (sau đổi là Mật Sơn tự) làm nơi tu hành và hoằng pháp. Năm Mậu thìn 1928 ông mất, hưởng dương 49 tuổi. Tra Am về sau là chùa Mật Sơn ở Huế, có bức hoành khắc bài thơ của ông làm trong mùa thu năm 1923. \"Sơ lâm vũ quá tịch dương thì, Khê bạn hoành tương trúc địch xuy. Nhất khúc tự ngu sơn thủy lục, Thử tình bất dữ bạch vân tri.\" Bản dịch: Mưa tạnh rừng thưa, lúc bóng tà, Bên khe tiếng sáo vẳng đưa xa, Vui thay một khúc cùng non nước, Tình nọ mây kia dễ biết ta. Ông là tác giả một số thơ Thiền chữ Hán và chữ Nôm có giá trị nghệ thuật và văn chương."
 }

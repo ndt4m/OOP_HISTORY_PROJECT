@@ -1,21 +1,16 @@
 {
-  "dateOfBirth" : "1267\n----------------------------------------------\nĐinh Mão 1267",
-  "dateOfDeath" : "2 tháng 2, năm 1285 sông Như Nguyệt\n----------------------------------------------\nẤt Dậu 1285",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Anh hùng kháng chiến chống quân Nguyên - Mông, tôn thất nhà Trần, tước Hoài Văn Hầu.",
+  "occupation" : "Công chúa con gái Hùng Vương thứ XVIII, có sách chép là Ngọc Hoa, nổi tiếng sắc nước hương trời. Nhân vật gây nên cuộc \"tranh hôn kết oán\" trong thời Văn Lang.",
   "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Trần Nhật Duy (?)" : null
-  },
-  "motherName" : {
-    "Trần Ý Ninh (?)" : null
-  },
+  "fatherName" : { },
+  "motherName" : { },
   "eraName" : {
-    "Nhà Trần" : 15,
-    "nhà Trần" : null
+    "Dựng nước" : 31
   },
   "id" : 620,
-  "entityName" : "Trần Quốc Toản",
-  "aliases" : [ "Hoài Văn vương (懷文王)", "Hoài Văn hầu (懷文侯)" ],
-  "overview" : "Trần Quốc Toản (chữ Hán: 陳國瓚; 1267 – 2 tháng 2, 1285), hay Hoài Văn hầu (懷文侯) hoặc Hoài Văn vương (懷文王) , là một tông thất nhà Trần, sống ở thời kỳ trị vì của Trần Nhân Tông.\n----------------------------------------------\nĐời Trần Nhân tông, quân Nguyên kéo sang cướp nước ta. Nhà vua hội các vương hâu để bàn việc cự chiến. Quốc Toản lúc bấy giờ mới 16 tuổi cũng đến hội, nhưng vì còn nhỏ tuổi nên không được dự bàn. Ông đứng nghe lòng căm tức đến nỗi bóp nát trái cam cầm trong tay. Tan hội về, ông tập họp đám thiếu niên thân thuộc, sắm sửa vũ khí, may lá cờ đề 6 chữ: Phá cường địch báo hoàng ân rồi ra binh đánh giặc. Ông từng dự nhiều trận lớn, có lúc theo thượng tướng Trần Quang Khải, góp phần chiến thắng Chương Dương vang dội trong lịch sử chống ngoại xâm. Năm Ất dậu 1285 ông hi sinh, mới 18 tuổi. Trần Nhân tông than tiếc, làm bài văn tế ông, và truy tặng ông tước Hoài Văn vương. Phan Kế Bính sau này, trân trọng viết về ông: Giỏi thay Trần Quốc Toản Tuổi trẻ dư can đảm. Dốc bụng báo hoàng ân, Cả gan bình quốc nạn. Cờ bay giặc hãi hùng, Giáo trở quân tan rã. Lừng lẫy tiếng anh hùng, Giỏi thay Trần Quốc Toản."
+  "entityName" : "Bạch Hoa",
+  "aliases" : [ "Ngọc Hoa" ],
+  "overview" : "Huyền sử lưu truyền: Gần bờ côi Văn Lang có người của bộ lạc do Thục Phán lãnh đạo, có lần đến cầu hôn con vua Hùng mà không thành. Gã cố oán, khi sắp mất dặn lại cháu Thục Phán phải đánh lấy nước Văn Lang, rửa hận. Đồng thời có Nguyễn Tùng là nhân vật lỗi lạc ở ẩn trên ngọn núi Tản Viên cũng đến cầu hôn. Lại có một thanh niên anh tuấn ngụ ở ven biển đến cầu hôn nữa. Hùng Vương chằng biết chọn ai, bèn giao hẹn: \"Ngày mai ai đưa lễ vật quí giá đến trước thì gả con cho\". Nguyễn Tùng y hẹn đến trước và dâng lễ vật trọng hậu, Bạch Hoa vâng mạng vua cha theo Nguyễn Tùng về núi. Chàng trai ở biển nổi nóng, đánh phá dữ dội. Câu chuyện tranh hôn kết oán trong đời Hùng Vương thứ 18 này, huyền sử gọi là chuyện Sơn tinh, Thủy tinh. Cuộc tình duyên của Bạch Hoa, chẳng những khiến hai chàng trai ở biển và ở núi sinh thù gây biến, mà họ Thục cũng oán. Do đó nước Văn Lang mất về tay Thục Phán vào năm Giáp thìn 257 trước Công nguyên."
 }

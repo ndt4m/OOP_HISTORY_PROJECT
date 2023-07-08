@@ -1,14 +1,20 @@
 {
-  "dateOfBirth" : "10 tháng 7 năm 1926 (91 tuổi) Mỹ Tho, Việt Nam",
-  "dateOfDeath" : "Không rõ",
+  "dateOfBirth" : "21 tháng 3, 927 Lạc Dương, Trung Quốc",
+  "dateOfDeath" : "14 tháng 11, 976 (49 tuổi) Trung Quốc",
   "hometown" : "Không rõ",
-  "occupation" : "Thuộc",
-  "workTenure" : "1946-1975",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
+  "occupation" : "Hoàng đế Đại Tống",
+  "workTenure" : "4 tháng 2 năm 960 – 14 tháng 11 năm 976 (16 năm, 284 ngày)",
+  "fatherName" : {
+    "Triệu Hoằng Ân" : null
+  },
+  "motherName" : {
+    "Chiêu Hiến thái hậu" : null
+  },
+  "eraName" : {
+    "Nhà Bắc Tống" : null
+  },
   "id" : 1524,
-  "entityName" : "Nguyễn Hữu Hạnh",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Hữu Hạnh (sinh 1926) là một cựu tướng lĩnh Bộ binh của Quân lực Việt Nam Cộng hòa, cấp bậc Chuẩn tướng. Ông thường được biết với vai trò là Phụ tá Tổng Tham mưu trưởng cuối cùng của Quân lực Việt Nam Cộng hòa, người đã tác động để Tổng thống Dương Văn Minh sớm đi đến quyết định kêu gọi Quân lực Việt Nam Cộng hòa buông vũ khí trước sức tấn công của Quân đội Nhân dân Việt Nam và Quân Giải phóng miền Nam vào cuối tháng 4 năm 1975, chấm dứt cuộc Chiến tranh Việt Nam."
+  "entityName" : "Triệu Khuông Dận",
+  "aliases" : [ "Kiến Long (建隆: 960 - 963) Càn Đức (乾德: 963 - 968) Khai Bảo (開寶: 968 - 976)", "Khải Vận Lập Cực Anh Vũ Duệ Văn Thần Đức Thánh Công Chí Minh Đại Hiếu Hoàng đế (啓運立極英武睿文神德聖功至明大孝皇帝)", "Triệu Khuông Dận (趙匡胤)", "Thái Tổ (太祖)", "Nguyên Lãng" ],
+  "overview" : "Tống Thái Tổ (chữ Hán: 宋太祖, 21 tháng 3, 927 - 14 tháng 11, 976), tên thật là Triệu Khuông Dận (趙匡胤, đôi khi viết là Triệu Khuông Dẫn), tự Nguyên Lãng (元朗), là vị Hoàng đế khai quốc của triều đại nhà Tống trong lịch sử Trung Quốc, ở ngôi từ năm 960 đến năm 976."
 }

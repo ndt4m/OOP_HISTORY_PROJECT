@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Giáp Ngọ 1894",
-  "dateOfDeath" : "Tân Tị 1941",
-  "hometown" : "quê làng Yên Lộ (nay thuộc xá Yên Nghĩa, huyện Hoài Đức, Hà Nội",
-  "occupation" : "Liệt sĩ cách mạng được xưng tặng là \"Chị Cả Bắc Kì \"",
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Đinh Mùi 1787",
+  "hometown" : "quê làng Ngọc Điền, huyện Thanh Chương, tỉnh Nghệ An (nay là tỉnh Nghệ An)",
+  "occupation" : "Có sách chép là Trần Danh Bích",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Trịnh - Nguyễn" : 34
   },
   "id" : 88,
-  "entityName" : "Nguyễn Thị Thủy",
-  "aliases" : [ "Chị Cả Bắc Kì" ],
-  "overview" : "Bà là vợ của nhà nho Nguyễn Trung Để, vợ chồng bà từng tham gia các phong trào đấu tranh đòi trả tự do cho Phan Bội Châu, để tang Phan Châu Trinh... Về sau (1939) bà được kết nạp vào Đảng Cộng sản Đông Dương, tích cực hoạt động, thường liên lạc với các ông: Trường Chinh, Hoàng Văn Thụ... địa bàn hoạt động của bà trải dài từ Hà Đông đến Cao Bằng, Lạng Sơn. Hai con trai bà là Nguyễn Mạnh Quang và Nguyễn Trung Hộ cũng là những nhà cách mạng cốt cán từng bị Tổng đốc Hoàng Trọng Phu bắt giam. Năm 1941, bà bị địch bắt, tra tấn dã man, khi thả ra bị thổ huyết rồi mất vào cuối năm ấy, hưởng dương 47 tuổi."
+  "entityName" : "Trần Phương Bính",
+  "aliases" : [ "Trần Danh Bích", "Trần Danh Nhuế", "Chiêu Cày" ],
+  "overview" : "Ông là con tiến sĩ Trần Danh Tố. Khi nghĩa quân Tây Sơn ra Bắc, ông âm mưu chống lại nhà Tây Sơn, nhưng Trần Quang Diệu mến tài tha cho. Sau ông dấy binh với danh nghĩa phù Lê, nhưng bị nhà Tây Sơn tiêu diệt."
 }

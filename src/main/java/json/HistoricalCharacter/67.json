@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Nhà thơ đời Lê Hiển tông",
+  "dateOfBirth" : "Tân Tị 1881",
+  "dateOfDeath" : "Nhâm Ngọ 1942",
+  "hometown" : "quê làng Mĩ Xương (Cao Lãnh) nay thuộc tỉnh Đồng Tháp",
+  "occupation" : "Nhà yêu nước ông có ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34
+    "Pháp đô hộ" : 11
   },
   "id" : 67,
-  "entityName" : "Nguyễn Gia Cơ",
-  "aliases" : [ "Kì Trai" ],
-  "overview" : "Ông có tiếng thơ văn, về sau ông lấy con gái Lê Hiển tông (chị ruột công chúa Ngọc Hân, vợ vua Quang Trung), nghiễm nhiên là Phò mã nhà Lê và cũng là người thân thiết với nhà Tây Sơn. Thơ văn ông còn lại một thi phẩm: Tứ Trai thi tập soạn chung với anh cả là Tân Trai Nguyễn Gia Thiều và hai em là Hòa Trai Nguyễn Gia Diễm, Thanh Trai Nguyễn Gia Chu. Sách hiện nay đã thất lạc chỉ còn lại một số bài được truyền tụng."
+  "entityName" : "Đinh Hữu Thuật",
+  "aliases" : [ "Đinh Quang Tích" ],
+  "overview" : "Ông học nho uyên bác, giao thiệp rộng, tính cương trực, nhiệt thành yêu nước. Hưởng ứng phong trào Duy tân, Đông du, ông xuất dương sang Nhật, Trung Quốc, hoạt động cách mạng từ năm Nhâm tí 1912. Ít lâu ông bị Pháp bắt giải về Hà Nội mang án 20 năm. Lưu đày ở Guyane suốt 12, 13 năm gian khổ, ông vượt nguc, lẻn về nước cải trang làm người Trung Quốc, hoạt động nhiều nơi, tận tụy cứu nước, có lúc ẩn thân trên núi Cấm ở Châu Đốc. Năm Nhâm ngọ 1942, ông mất tại làng Tân Khánh (Sa Đéc) thọ 61 tuổi, mộ ở làng Mĩ Xương."
 }

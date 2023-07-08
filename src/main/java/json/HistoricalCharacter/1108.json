@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Quí Tị 1473",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "người làng Tuy Lai, huyện Đường An, tỉnh Hải Dương",
-  "occupation" : "Danh thần đời Lê Thánh tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "dateOfBirth" : "1160",
+  "dateOfDeath" : "1210 Đại Việt",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế nhà Trần",
+  "workTenure" : "truy tôn",
+  "fatherName" : {
+    "Trần Hấp (陈翕)" : null
+  },
   "motherName" : { },
   "eraName" : {
-    "Triều Lê Sơ" : 7
+    "nhà Trần" : null
   },
   "id" : 1108,
-  "entityName" : "Bùi Hoàn Khánh",
-  "aliases" : [ ],
-  "overview" : "Năm Hồng Đức 21 (Canh tuất 1490), ông đỗ tam giáp đồng tiến sĩ, lúc 17 tuổi, nổi tiếng văn thơ, đương thời được sĩ phu yêu mến, làm đến Thị Lang, mất tại chức."
+  "entityName" : "Trần Lý",
+  "aliases" : [ "Nguyên Tổ (元祖)", "Trần Nguyên Tổ", "Trần Lý (陳李)", "Chiêu Hoàng Đế (昭皇帝)" ],
+  "overview" : "Trần Lý (chữ Hán: 陳李; 1160 - 1210 ), hay Trần Nguyên Tổ (陳元祖), là ông của Trần Thái Tông, người sáng lập ra triều đại nhà Trần trong lịch sử Việt Nam. Ông chính là người khởi đầu sự nghiệp cai trị Đại Việt gần 200 năm của nhà Trần."
 }

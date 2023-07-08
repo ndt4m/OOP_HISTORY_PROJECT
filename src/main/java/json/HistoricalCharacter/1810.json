@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "462",
-  "dateOfDeath" : "523",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Canh Ngọ 1930",
+  "dateOfDeath" : "Canh Thân 1980",
+  "hometown" : "quê xã Phong Bình, huyện Phong Điền, tỉnh Thừa Thiên",
+  "occupation" : "Nhà thơ hiện đại",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Nước Việt Nam mới" : 29
+  },
   "id" : 1810,
-  "entityName" : "Vũ Ninh Vương",
-  "aliases" : [ ],
-  "overview" : "Bách Tế Vũ Ninh Vương (Muryeong-wang, 462 - 523), cai trị đất nước từ năm 501 - 523. Vũ Ninh Vương là vị vua thứ 25 của triều đại Bách Tế trong thời kì Tam Quốc Triều Tiên. Trong thời kì cai trị của mình, Vũ Ninh Vương đã nhiều lần liên thủ với nước Tân La để chống lại Cao Cấu Ly. Ông cũng mở rộng ngoại giao với hai đế quốc: Trung Quốc và Nhật Bản."
+  "entityName" : "Phạm Bá Ngoãn",
+  "aliases" : [ "Thanh Hải" ],
+  "overview" : "Ông sinh ngày 4-11-1930, nhiệt thành yêu nước, từ năm 1947 ông tham gia cách mạng ở huyện Hương Thủy, làm Chính trị viên đoàn Văn công Thừa Thiên. Từ 1954 ông ở lại quê nhà hoạt động trong lòng địch. Đến năm 1967, thành lập khu Trị Thiên, ông chuyên công tác văn nghệ ở khu cho đến ngày miền Nam giải phóng. Rồi từ sau 1975 ông phụ trách Hội Văn nghệ Bình Trị Thiên, và là ủy viên thường vụ Hội Liên hiệp Văn học nghệ thuật Việt Nam, ủy viên Ban chấp hành Hội Nhà văn Việt Nam. Ngày 15-12-1980 ông mất ở Huế, hưởng dương 50 tuổi. Các tác phẩm chính của ông: - Huế mùa Xuân tập I 1970, tập II 1975 - Dấu võng Trường Sơn 1977 - Những đồng chí trung kiên Thanh Hải từng được giải thưởng Văn học Nguyễn Đình Chiểu 1965."
 }

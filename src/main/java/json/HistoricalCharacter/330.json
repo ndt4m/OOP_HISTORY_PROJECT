@@ -1,16 +1,20 @@
 {
-  "dateOfBirth" : "Tân Dậu 1861",
-  "dateOfDeath" : "Đinh Mùi 1907",
-  "hometown" : "quê làng Thượng Phán, huyện Quỳnh Côi, tỉnh Thái Bình, tên cũ là Đào Văn Mại",
-  "occupation" : "Danh sĩ cận đại",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
+  "dateOfBirth" : "4 tháng 9, 1300 Thăng Long\n----------------------------------------------\nCanh Tí 1300\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "10 tháng 3, 1357 (56 tuổi) Cung Bảo Nguyên, Thăng Long\n----------------------------------------------\nĐinh Dậu 1357\n----------------------------------------------\nKhông rõ",
+  "hometown" : "quê làng Tức Mặc, phủ Thiên Trường tỉnh Nam Định\n----------------------------------------------\nKhông rõ",
+  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua thứ năm nhà Trần miếu \n----------------------------------------------\nVua",
+  "workTenure" : "1314 – 1329\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1314—1329",
+  "fatherName" : {
+    "Trần Anh Tông" : 2018
+  },
+  "motherName" : {
+    "Chiêu Từ hoàng hậu" : null
+  },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Nhà Trần" : 15
   },
   "id" : 330,
-  "entityName" : "Đào Nguyên Phổ",
-  "aliases" : [ "Đào Văn Mại" ],
-  "overview" : "Năm Mậu tuất 1898, ông đỗ Đình nguyên (hoàng giáp) năm 37 tuổi, thụ chức Hàn lâm thừa chỉ. Làm quan mới một năm, ông từ chức, rồi ra làm báo Đăng cổ tùng báo ở Hà Nội. Đây là tờ báo viết chữ Quốc ngữ đầu tiên ở Hà Nội. Năm Ất tị 1905, ông làm chủ bút tạp chí Đại Việt tân báo. Đào Nguyên Phổ là một nhà nho tiếp thu tư tưởng tư sản dân quyền đầu tiên ở nước ta khi ông làm quan tại Huế. Nhà ông là nơi có nhiều sách tân học nhất ở Việt Nam thời ấy. Trong phong trào Duy tân (1905-1908) ông tuy không trực tlếp tham gia phong trào, nhưng đã ủng hộ và có chân trong ban giảng huấn của trường Đông Kinh nghĩa thục ở Hà Nội. Khi phong trào Duy tân lên cao (trường Đông Kinh nghĩa thục hoạt động mạnh), ông vẫn không trực tiếp tham gia được vì nghiện thuốc phiện, nên có lần ông tâm sự với các thân hữu: \"Ai cũng biết Duy tân, sao tôi còn thủ cựu, chẳng khiếp nhược lắm ư? \" Rồi ông đập bàn đèn. Thuốc phiện hành ông dữ, ông đau ốm cả tháng. Nhiều người ái ngại, khuyên ông hút lại, ông giận và bảo: \"Tử sinh hữu mạng! Con đĩ phù dung dám làm ma bắt tôi sao? \". Năm Đinh vị 1907, ông mất, hưởng dương 46 tuổi. Ông là thân phụ học giả Quán Chi Đào Trinh Nhất. Đào Nguyên Phổ là nhà báo đầu tiên viết chữ Quốc ngữ khởi sắc nhất của Việt Nam (ở miền Bắc) vào thời đó."
+  "entityName" : "Trần Minh Tông",
+  "aliases" : [ "Trần Minh Tông", "Đại Khánh (1314 – 1323) Khai Thái (1324 – 1329)", "Thể Thiên Sùng Hóa Khâm Minh Duệ Hiếu Hoàng Đế", "Minh Tông (明宗)", "Trần Mạnh (陳奣)" ],
+  "overview" : "Trần Minh Tông (chữ Hán: 陳明宗, 4 tháng 9 năm 1300 – 10 tháng 3 năm 1357), là vị hoàng đế thứ năm của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ tháng 4 năm 1314 đến tháng 3 năm 1329, sau đó làm Thái thượng hoàng từ năm 1329 đến khi qua đời.\n----------------------------------------------\nNăm Giáp dần 1314 ông lên ngôi, triều đại ông cũng tốt đẹp về văn hóa, chính trị, tôn giáo. Về nông nghiệp cũng phát triển thuận lợi, qua chính sách kêu gọi các vương hầu trả lại ruộng tư hữu đã lấn chiếm, giúp nông dân có ruộng cày. Ông ở ngôi 15 năm (1314-1329), sau nhường ngôi cho con, làm Thái Thượng hoàng như các vua trước từng làm. Ngày 19-2 Đinh dậu (10-3-1357) ông mất, hưởng dương 57 tuổi. Ông có soạn tập thơ Minh tông thi tập nay đã mất, chỉ còn lại 25 bài chép ở Toàn Việt thi lục.\n----------------------------------------------\nTrần Minh Tông (chữ Hán: 陳明宗 4 tháng 10 năm 1300 – 10 tháng 3 năm 1357) tên thật là Trần Mạnh (陳奣), là vị hoàng đế thứ năm của Hoàng triều Trần nước Đại Việt. Ông giữ ngôi từ ngày 3 tháng 4 năm 1314 đến ngày 15 tháng 3 năm 1329, sau đó làm Thái thượng hoàng đến khi qua đời. Thời kỳ của ông và cha ông được mệnh danh là thời kỳ hưng thịnh của vương triều nhà Trần, được sử gia xưng tụng là Anh Minh Thịnh Thế."
 }

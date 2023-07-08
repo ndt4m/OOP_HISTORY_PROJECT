@@ -1,16 +1,16 @@
 {
   "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "1789",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê huyện Vĩnh Lộc, tỉnh Thanh Hoá",
+  "occupation" : "Con Mâu Nghĩa Công Hoàng Đình Ai",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "nhà Thanh" : null
+    "Trịnh - Nguyễn" : 34
   },
   "id" : 220,
-  "entityName" : "Trương Triều Long",
+  "entityName" : "Hoàng Đình Thái",
   "aliases" : [ ],
-  "overview" : "Trương Triều Long (張朝龍, ?-1789) là một tướng của nhà Thanh, chết trận tại Việt Nam."
+  "overview" : "Hoàng tài gồm văn võ, phù tá Lê Anh tông, từng đương đầu với các tướng Mạc và đàn áp các cuộc nổi loạn của dân chúng. Được triều đình phong tước Lương Quận Công (sách Lịch triều hiến chương loại chí - nhân vật ghi chép là Trọng Quận Công)."
 }

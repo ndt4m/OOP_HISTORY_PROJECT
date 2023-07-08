@@ -1,17 +1,16 @@
 {
-  "dateOfBirth" : "Canh Tuất 1910",
-  "dateOfDeath" : "Ất Sửu 1985",
-  "hometown" : "nguyên quán Thành phố Hà Nội sinh tháng 8 năm 1910 tại Hà Nội",
-  "occupation" : "Nhà tài chánh kế toán, Giám đốc Nhà Đoan ",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "nhà Hậu Lê" : null
   },
   "id" : 637,
-  "entityName" : "Trịnh Văn Bính",
-  "aliases" : [ ],
-  "overview" : "Xuất thân trong một gia đình Nho học, buôn bán tơ lụa ở Hà Nội. Ông là cựu học sinh trường Albert Sarraut, sau du học Pháp, tốt nghiệp Trường Cao học Thương mại Paris (Hautes études Commerciales de Paris) về nước làm việc tại Nha Quan thuế Đông Dương ở Bắc Kì, rồi Phó Giám đốc cơ quan này một thời gian rồi làm giám đốc Nha Quan thuế. Sau Tổng khởi nghĩa tháng tám năm 1945, ông vẫn tiếp tục làm việc chuyên môn thuộc ngành này. Ngày 17-4-1946 tham gia phái đoàn Hội nghị Đà Lạt làm Trưởng ban Kinh tế và Tài chính của chính phủ VNDCCH. Tháng 11 năm 1946, chính phủ \"Liên hiệp Quốc gia\" thay đổi thành phần nhân sự ông được giữ chức Thứ trưởng Bộ Tài chánh (Bộ trưởng là ông Lê Văn Hiến). Tháng 5 năm 1946, ông là thành viên của phái đoàn Việt Nam tham dự hội nghị Fontainebleau tại Pháp (Trưởng ban Kinh tế Tài chính và Liên bang Trung Ấn) hội nghi tan rã vì thái độ cương ngạnh của Pháp. Sau khi về nước ông vẫn tiếp tục giữ chức vụ trên suốt chín năm kháng chiến chống Pháp. Năm 1960 ông về hưu sống tại Hà Nội, đến năm 1985 ông qua đời ngày 10-11-1985 tại nhà riêng ở Hà Nội, thọ 75 tuổi. Ông từng được Nhà nước Việt Nam tặng Huân chương độc lập."
+  "entityName" : "Trương Chiến",
+  "aliases" : [ "Lê Chiến" ],
+  "overview" : "Đình thượng hầu Trương Chiến, hay Lê Chiến là khai quốc công thần nhà Hậu Lê."
 }

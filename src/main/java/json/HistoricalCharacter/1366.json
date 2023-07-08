@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "1934",
-  "dateOfDeath" : "2018",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "occupation" : "Người đời Lê Nhân tông",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Triều Lê Sơ" : 7
+  },
   "id" : 1366,
-  "entityName" : "Dương Danh Dy",
+  "entityName" : "Đào Biểu",
   "aliases" : [ ],
-  "overview" : "Dương Danh Dy (1934-2018) là nhà ngoại giao, cựu Tổng lãnh sự Việt Nam tại Quảng Châu, Trung Quốc, học giả hàng đầu Việt Nam trong nghiên cứu về vấn đề Trung Quốc. Ông được coi là một trong những người Việt Nam hiểu Trung Quốc nhất cũng như những dã tâm đối với Việt Nam của Chính quyền Trung Nam Hải."
+  "overview" : "Trong tập thơ vịnh sử Lê triều khiếu vịnh thi tập Hà Nhậm Đại có bài vịnh về ông: \"Cung trung truyền mệnh nhất hoàng môn, Túc dạ vô vong báo chủ ân. Quốc điền tinh trung danh bất hủ, Nghi Dân nghịch tặc kỉ hà tồn? \" Bản dịch: Hoàng môn nhậm chức quan hầu cận Khuya sớm ơn vua báo nghĩa sâu. Lệ ruớc tôi trung truyền bất hủ, Nghi Dân loại giặc hỏi còn bao?"
 }

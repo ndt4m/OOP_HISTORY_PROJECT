@@ -1,20 +1,18 @@
 {
-  "dateOfBirth" : "1237",
-  "dateOfDeath" : "1300 (62–63 tuổi)",
+  "dateOfBirth" : "1377",
+  "dateOfDeath" : "tháng 4, 1399",
   "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
+  "occupation" : "Hoàng đế Đại Việt",
+  "workTenure" : "27 tháng 12, 1388 - 15 tháng 3, 1398 (9 năm, 78 ngày)",
   "fatherName" : {
-    "Trần Thái Tông (trên danh nghĩa)" : null
+    "Trần Nghệ Tông" : 2791
   },
-  "motherName" : {
-    "Hiển Từ Thuận Thiên hoàng hậu" : null
-  },
+  "motherName" : { },
   "eraName" : {
-    "nhà Trần" : null
+    "Nhà Trần" : 15
   },
   "id" : 2519,
-  "entityName" : "Trần Quốc Khang",
-  "aliases" : [ "Tĩnh Quốc Đại vương 靖國大王" ],
-  "overview" : "Trần Quốc Khang (chữ Hán: 陳國康, 1237 – 1300), được biết đến qua phong hiệu Tĩnh Quốc vương (靖國王) hay Tĩnh Quốc đại vương (靖國大王), là một hoàng tử nhà Trần trong lịch sử Việt Nam. Ông được nhắc tới nhiều do thân thế rất đặc biệt, trên danh nghĩa là con trưởng của Trần Thái Tông nhưng thực ra là con của Khâm Minh đại vương Trần Liễu, anh trai của Thái Tông."
+  "entityName" : "Trần Ngung",
+  "aliases" : [ "Trần Ngung (陳顒)", "Thuận Tông (順宗)", "Quang Thái (光泰)" ],
+  "overview" : "Trần Thuận Tông (chữ Hán: 陳順宗, 1377 – tháng 4, 1399), là vị hoàng đế thứ 11 của triều đại nhà Trần trong lịch sử Việt Nam. Ông trị vì từ năm 1388 đến khi bị ép nhường ngôi năm 1398."
 }

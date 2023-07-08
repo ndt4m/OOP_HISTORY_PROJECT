@@ -1,14 +1,16 @@
 {
   "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
-  "hometown" : "xã thuộc huyện Thanh Thuỷ, tỉnh Phú Thọ, Việt Nam.",
-  "occupation" : "Không rõ",
+  "hometown" : "quê làng Hoàng Trù nay là xã Nam Chung, huyện Nam Đàn, tỉnh Nghệ An",
+  "occupation" : "Nhà yêu nước ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
+  },
   "id" : 2770,
-  "entityName" : "Hoàng Xá",
+  "entityName" : "Vương Thúc Mậu",
   "aliases" : [ ],
-  "overview" : "Hoàng Xá là một xã thuộc huyện Thanh Thuỷ, tỉnh Phú Thọ, Việt Nam."
+  "overview" : "Ông đỗ tú tài. Căm thù quân cướp nước ông tổ chức khởi nghĩa chống Pháp nhưng thế cô phải hi sinh. Con trai ông là Vương Thúc Quí, cháu là Vương Thúc Oánh đều có lòng yêu nước tham gia công cuộc cứu nước. Sách Bài ngoại liệt truyện có ghi bài thơ điếu ông: \"Lăng lăng kì khí tỉ Kì sơn Bất tử ninh dung nghịch lỗ hoàn. Tá vấn phần lăng hà xứ tại? Tả biên Hồng Lĩnh hữu Kim Nhan.\" Bản dịch: Lâng lâng khí lạ sánh tày non, Chưa chết làm cho giặc mất hồn. Muốn hỏi mồ ông đâu đó nhỉ? Tả thì HồngLĩnh, hữu Kim Nhan."
 }

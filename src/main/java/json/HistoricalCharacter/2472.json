@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Giáp Thân 1944",
-  "dateOfDeath" : "Mậu Thân 1968",
-  "hometown" : "quê xã Đoàn Hùng huyện Duyên Hà, tỉnh Thái Bình (nay vẫn thuộc tỉnh Thái Bình)",
-  "occupation" : "Nhà văn, Liệt sĩ hiện đại, cựu sinh viên tranh đấu Sài Gòn",
+  "dateOfBirth" : "Ất Tị 1905",
+  "dateOfDeath" : "Quí Sửu 1973",
+  "hometown" : "quê ở Bến Tre",
+  "occupation" : "Nhà nghiên cứu Phật học",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
+    "Pháp đô hộ" : 11,
     "Nước Việt Nam mới" : 29
   },
   "id" : 2472,
-  "entityName" : "Trần Triệu Luật",
-  "aliases" : [ ],
-  "overview" : "Năm 1954 ông theo gia đình di cư vào sinh sống ở Sài Gòn, cựu học sinh trường Chu Văn An (Sài Gòn) cựu sinh viên Đại học luật khoa Sài Gòn. Ông từng tham gia và là thành viên của Ban chấp hành Tổng hội sinh viên Sài Gòn (1963-1968). Ông là một trong các \"lãnh tụ\" sinh viên tổ chức hướng dẫn các cuộc biểu tình chống Mĩ và các thế lực phản động Sài Gòn một thời vang vọng. Các năm 1967, 1968 ông có chân trong Liên minh các lực lượng dân tộc, dân chủ và hòa bình miền Nam Việt Nam. Lúc viết văn, làm báo ông cộng tác với các báo và tạp chí: Bách khoa, Hành trình, Đất nước Đối diện... là những báo có uu tín ở miền Nam Việt Nam vào thời điểm trên. Sau Tổng tiến công Mậu thân (1968) ông thoát li ra vùng Giải phóng và hi sinh trên đường công tác ở Tây Ninh ngày 11-10-1968 cùng địa điểm với thi sĩ, liệt sĩ Trần Quang Long (1941-1968). Các tác phẩm của ông hầu hết là các chuyên đề đăng trong các tạp chí vừa dẫn ở trên."
+  "entityName" : "Mai Thọ Truyền",
+  "aliases" : [ "Chánh Trí" ],
+  "overview" : "Ông là một trong những Đốc phủ sứ ngoại hạng và cũng là một trong những người sáng lập chùa Xá Lợi (Sài Gòn) và Hội Phật học Nam Việt. Ông trước tác khá nhiều, nổi tiếng nhất là những chuyên luận về Phật giáo trong các tạp chí Phật học trong Nam, ngoài Bắc và dịch một số kinh sách đạo Phật. Những năm 60, có lúc ông giữ chức Quốc vụ khanh đặc trách văn hóa của chính quyền Sài Gòn. Với cương vị của mình, ông đóng góp phần lớn về việc phục chế một số tác phẩm văn học cổ điển Việt Nam. Ông mất ngày 17-4-1973 tại Sài Gòn, thọ 68 tuổi. Các tác phẩm của ông phần lớn là nghiên cứu, dịch thuật và Phật học."
 }

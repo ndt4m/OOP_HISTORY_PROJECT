@@ -1,16 +1,23 @@
 {
-  "dateOfBirth" : "Quí Tị 1713",
-  "dateOfDeath" : "Kỉ Dậu 1789",
-  "hometown" : "quê làng Trường Lưu, tồng Lai Thạch, huyện La Sơn, tỉnh Hà Tĩnh",
-  "occupation" : "Nhà văn, nhà thơ đời Lê Hiển tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
+  "dateOfBirth" : "18 tháng 7, 1620\n----------------------------------------------\nKỉ Mùi 1619\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "30 tháng 4, 1687 (66 tuổi) Đàng Trong, Đại Việt\n----------------------------------------------\nĐinh Mão 1687\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Chúa Nguyễn\n----------------------------------------------\nÔng là công tử thứ hai của chúa Nguyễn Phúc Lan, mẹ là Đoàn thị. Ông được phong làm Thái phó Dũng lễ Hầu, Dũng Quận Công. Năm Giáp thân (1644) ông đánh thắng thuyền nước ngoài vào cướp ở cửa Eo (Yêu môn, nay là Thuận An), nhờ đó năm Mậu tí 1648 ông được phong làm Tiết chế chủ quan cùng cha đại phá Trịnh ở sông Gianh.\n----------------------------------------------\nChúa",
+  "workTenure" : "1648 - 1687\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1648—1687",
+  "fatherName" : {
+    "Chúa Thượng" : null,
+    "Nguyễn Phúc Lan" : 1342
+  },
+  "motherName" : {
+    "Đoàn Thị Ngọc" : 202
+  },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34
+    "Trịnh - Nguyễn" : 34,
+    "Đàng Trong - Chúa Nguyễn" : 5,
+    "Họ Nguyễn" : null
   },
   "id" : 154,
-  "entityName" : "Nguyễn Huy Oánh",
-  "aliases" : [ ],
-  "overview" : "Năm Mậu thìn 1748 ông đỗ thám hoa, làm đến Tả thị lang bộ Lại, ông xin về hưu, nhưng sau đó triều đình triệu dụng, thăng Đô ngự sử. Ông cũng từng được cử đi sứ làm đến Thượng thư bộ Hộ. Năm Kỉ dậu ngày 2-6 Dương lịch 1789 ông mất, thọ 76 tuổi. Văn phái Trưởng Lưu của họ ông, đương thời nổi tiếng ngang với văn phái Tiên Điền (Nguyễn Du). Con ông là Nguyễn Huy Tự tác giả truyện thơ Hoa Tiên, cháu là Nguyễn Huy Hổ tác giả truyện thơ Mai Đình Mộng Kí. Ông cùng với anh là Nguyễn Quýnh cũng nổi tiếng thơ văn trong phái Hồng Sơn. Tác phẩm của ông gồm: - Phụng sứ Yên kinh tập - Bắc dư tập lãm - Sơ học chỉ nam - Phụng sứ yên đài tổng ca - Cổ lễ nhạc chương thi văn tập"
+  "entityName" : "Nguyễn Phúc Tần",
+  "aliases" : [ "Nguyễn Phúc Tần", "Hiền Vương", "Tuyên Uy Kiến Vũ Anh Minh Trang Thánh Đức Thần Công Hiếu Triết hoàng đế Ngắn: Hiếu Triết hoàng đế", "Thái Tông (太宗)" ],
+  "overview" : "Nguyễn Phúc Tần (chữ Hán: 阮福瀕, 18 tháng 7 năm 1620 - 30 tháng 4 năm 1687), tước hiệu Dương Quận công (勇郡公), và được người trong lãnh thổ gọi là chúa Hiền (主賢), là vị chúa Nguyễn thứ 4 trong của chính quyền Đàng Trong trong lịch sử Việt Nam. Ông ở ngôi từ năm 1648 đến năm 1687, tổng cộng được 40 năm.\n----------------------------------------------\nNăm Canh thìn 1649, Hi tông mất, ông được triều đình tôn nối nghiệp chúa cha năm 30 tuổi, đương thời gọi là Chúa Hiền hay Hiền vương (anh cả là công tử Nguyễn Phúc Võ mất sớm). Ông am hiểu binh pháp, chính trị, có ý chí mở mang bờ cõi, chăm lo việc nước, không chuộng vui chơi, yến tiệc, lại là người quyết đoán, cứng rắn có khi đến tàn nhẫn. Sử chép ông có một phi tần nguyên là đào hát, rất xinh đẹp, ông rất yêu mến; một hôm đọc sách thấy chuyện Ngô Phù Sai vì say mê nữ sắc mà mất nước, ông sực tỉnh, bèn ngầm sai người bỏ thuốc độc giết chết người phi tần ấy vì có lần nàng có ý khuynh loát việc triều chính. Năm Ất mùi 1655, ông ra đánh chúa Trịnh, chiếm Nghệ An và bình định cả khu vực phía Nam Thanh Hóa, chúa Trịnh khó khăn lắm mới giữ được từ sông Mã trở ra. Năm Vĩnh Thọ thứ 3 (1660), Trịnh Căn phản công, bộ tướng của ông là Nguyễn Hữu Tiến và Nguyễn Hữu Dật bất hòa, quân Nguyễn thất thế phải bỏ Nghệ An rút về Bố Chính như trước. Năm Cảnh Trị thứ 8 (1670), Trịnh Tạc đem quân vượt sông Gianh đánh vào nhưng thất bại phải rút về ranh giới cũ. Năm Tân hợi 1671, chúa Trịnh lại đem quân vào đánh một lần nữa nhưng thất bại nốt. Từ đó Trịnh - Nguyễn lấy sông Gianh làm ranh giới giữa hai bên gọi là Bắc Hà, Nam Hà (hoặc Đàng Ngoài, Đàng Trong). Năm Mậu tuất 1658, vua Chân Lạp nhận làm phiên thần chúa Thái tông. Năm Kỉ mùi 1679, tướng nhà Minh là Dương Ngạn Địch, Trần Thượng Xuyên, Trần An Bình vì bất phục nhà Thanh đem nhiều quân sĩ và thuyền bè sang xin làm tôi chúa Nguyễn. Ông cho họ đến khai khẩn, mở mang đất Biên Hòa (nay thuộc tỉnh Đồng Nai), Mĩ Tho (nay thuộc tỉnh Tiền Giang) và các khu vực kế cận. Năm Đinh mão 1687 ông bệnh, qua đời ở ngôi 39 năm, thọ 68 tuổi, được truy tặng là Hiếu tông Hiếu Triết Hoàng đế, an táng ở núi Hải Cát (thuộc huyện Hải Lăng, Quảng Trị). Về đời Thái tông sách Thực lục tiền biên chép: \"Bấy giờ trong cõi vô sự, thóc lúa được mùa, chúa càng sửa sang chính trị không xây đài tạ, không gần thanh sắc, giảm nhẹ giao dịch thuế má, trăm họ vui vẻ, đều khen là đời thái bình\". Chính Hiền vương là người đầu tiên kinh dinh vùng đất Nam Bộ ngày nay.\n----------------------------------------------\nNguyễn Phúc Tần (chữ Hán: 阮福瀕, 18 tháng 7 năm 1620 - 30 tháng 4 năm 1687), hay Nguyễn Thái Tông, tước hiệu Dũng Quận công (勇郡公), và được người trong lãnh thổ gọi là chúa Hiền (主賢), là vị chúa Nguyễn thứ tư của chính quyền Đàng Trong trong lịch sử Việt Nam. Ông ở ngôi từ năm 1648 đến năm 1687, tổng cộng được 40 năm."
 }

@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "1456?\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "1522?\n----------------------------------------------\nKhông rõ",
-  "hometown" : "huyện Thiên Lộc (Can Lộc), tỉnh Hà Tĩnh, sau dời ra xã Mạo Bổ, huyện Sơn Vi, tỉnh Sơn Tây",
-  "occupation" : "Danh thần đời Lê Thánh tông",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê phường Đông Các, huyện Thọ Xương, thành Thăng Long (nay thuộc TP",
+  "occupation" : "Danh sĩ, tác giả",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Triều Lê Sơ" : 7
+    "Nhà Nguyễn độc lập" : 30
   },
   "id" : 1211,
-  "entityName" : "Đặng Minh Khiêm",
-  "aliases" : [ "Trinh Dự", "Trình Dự", "Thoát Hiên" ],
-  "overview" : "Đặng Minh Khiêm (鄧鳴謙, 1456?-1522?) , tự Trinh Dự, hiệu Thoát Hiên; là danh thần và là danh sĩ Việt Nam thời Lê sơ.\n----------------------------------------------\nNăm Tân dậu 1501, ông làm thị thư Viện Hàn lâm, đi sứ nhà Minh. Năm Kỉ tị 1509, ông lại đi sứ lần nữa, khi đi về đổi làm Tả thị lang bộ Lại, rồi thăng Thượng thư bộ Lễ, kiêm Phó tổng tài Sử quán coi việc ở Chiêu văn quán, Tú lâm cuộc. Khoảng năm 1516-1522, đời Lê Chiêu tông, ông nhận việc sửa bộ Đại Việt sử kí. Gặp lúc trong nước có nhiều biến cố, giữa triều đình ông luôn giữ khí tiết cứng cỏi không ai lay chuyển được. Ông giữ mình thẳng thắn, không ỷ phụ ai. Sau ông biết thời thế không thể làm gì được, nên mượn sử sách ngâm vịnh tiêu khiển. Ông mất ở Hóa Châu thọ trên 70 tuổi. Ông còn để lại mấy tác phẩm giá trị: Việt giám vị thi sử thi tập đề tựa năm Canh thìn 1520, Thi lục 123 bài, Thi tuyển. Trong Lịch triều hiến chương loại chí, Phan Huy Chú nhận định về Đặng Minh Khiêm: \"Văn chương của ông thanh nhã, dồi dào, đời vẫn truyền tụng. Có văn học, tiết tháo, ông là bậc danh nho đời Lê. Sử khen là không hổ tiếng khoa danh. Bàn đến ông, người ta cho Đặng Tất, Đặng Dung có hậư\"."
+  "entityName" : "Trần Văn Vi",
+  "aliases" : [ "Thành Tư", "Hoài Đông" ],
+  "overview" : "Năm Ất dậu (1825) ông thi Hương đỗ cử nhân tại trường Thăng Long cùng khóa với Hoàng Tế Mĩ, Nguyễn Văn Siêu, Tô Trân... Làm quan ở Quốc sử quán triều Nguyễn thăng đến hàm Thái bộ tự Khanh. Ông là thân phụ cử nhân Trần Huy Tích (1828-...). Ông là tác giả bộ sử Lê sử toản yếu. Sách được con trai ông là Trần Huy Tích hiệu đính, bổ sung. Bộ Lê sử toản yếu (10 quyển) do ông biên soạn, con trai là Trần Huy Tích san định và viết lời Tựa. Nội dung Lê sử toản yếu là một bộ lược sử Việt Nam về triều Lê, do một tư nhân viết. Sách còn là bản thảo, bắt đầu có một bài tiểu dẫn (không đề tên, không biết rõ của ai, trang sau là bài tựa của con trai tác giả là Trần Huy Tích, viết năm Tự Đức Quí hợi, 1863, sau khi hiệu chính). Thứ đến mục lục, đầu sách nguyên đề: Quốc sử tập biên toản yếu mục lục sau sửa chữa là: Lê sử toản yếu mục lục và bài Tựa."
 }

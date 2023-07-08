@@ -1,17 +1,18 @@
 {
-  "dateOfBirth" : "Giáp Dần 1914",
-  "dateOfDeath" : "Đinh Tị 1977",
-  "hometown" : "tại làng Tân Tịch, huyện Tân Uyên, tỉnh Biên Hòa (nay thuộc tỉnh Bình Dương)",
-  "occupation" : "Nhà thơ, Thiếu tướng Quân đội Nhân dân Việt Nam, Thứ trưởng Bộ Lâm nghiệp",
+  "dateOfBirth" : "Tân Mão 1771",
+  "dateOfDeath" : "Giáp Thân 1824",
+  "hometown" : "quê làng Tiên Điền huyện Nghi Xuân, trấn Nghệ An (nay là Hà Tĩnh)",
+  "occupation" : "Danh sĩ ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Trịnh - Nguyễn" : 34,
+    "Nhà Tây Sơn" : 21,
+    "Nhà Nguyễn độc lập" : 30
   },
   "id" : 228,
-  "entityName" : "Huỳnh Văn Nghệ",
-  "aliases" : [ ],
-  "overview" : "Ngay từ tuổi thanh niên ông đã tích cực tham gia hoạt động cứu nước, tham gia suốt hai cuộc trường chinh chống Pháp, Mĩ với bí danh Tâm Ngãi. Trong kháng chiến chống Pháp, ông làm phó khu trưởng khu 7 (Đông Nam Bộ) chỉ huy nhiều trận du kích chiến và vận động chiến nổi tiếng ở Nam Bộ, tên tuổi ông trong và ngoài nước đều biết. Kháng chiến thành công, ông chuyển ngành giữ chức Thứ truởng bộ Lâm nghiệp. Ông được nhà nước tặng nhiều huy chương, huân chương cao quý và huy hiệu Thành đồng Tổ quốc. Ông mất ngày 5-3-1977 tại TP. Hồ Chí Minh thọ 63 tuổi. Thời còn trẻ tuổi, ông sáng tác thơ văn khá nhiều, thơ ông thắm đượm tình yêu nước, nghĩa đồng bào và dân tộc tính sâu đậm. Ngày nay nhắc đến ông không ai không liên tưởng đến mấy câu thơ tuyệt tác biểu lộ được nỗi lòng ông: Ai về xứ Bắc ta theo với, Thăm lại quê hương giống Lạc Hồng. Từ thuở mang gươm đi mở cõi, Ngàn năm thương nhớ đất Thăng Long. Các tác phẩm của ông: - Đồng Nai (1943) - Bên bờ sông xanh (1988)"
+  "entityName" : "Nguyễn Hành",
+  "aliases" : [ "Tử Kính", "Nam Thúc", "Nhật Nam", "Nguyễn Đạm", "Ngọ Nam" ],
+  "overview" : "Ông nổi tiếng văn chương, cùng với chú là Nguyễn Du là hai trong số năm nhà văn thời ấy được xưng tặng là An Nam ngũ tuyệt ông trung thành với nhà Hậu Lê, không cộng tác với nhà Tây Sơn và sau đó càng cự tuyệt không phục vụ nhà Nguyễn, cam sống thanh bần, ẩn dật ở quê nhà. Năm Giâp thân 1824 ông mất, hưởng dương 53 tuổi, ông còn hai tập thơ được truyền tụng: - Quan Đông hải - Minh Quyên thi tập"
 }

@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Mậu Tí 1228",
+  "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
-  "hometown" : "quê xã Hoành Bồ, huyện Hoành Sơn",
-  "occupation" : "Đại thần, đời Trần Thái Tông, quê xã Hoành Bồ, huyện Hoành Sơn",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "hometown" : "Không rõ",
+  "occupation" : "Vua",
+  "workTenure" : "722—723",
+  "fatherName" : {
+    "Mai Hắc Đế" : 2852
+  },
   "motherName" : { },
   "eraName" : {
-    "Nhà Trần" : 15
+    "Họ Mai" : 3
   },
   "id" : 1700,
-  "entityName" : "Trương Xán",
-  "aliases" : [ "Châu Bố Chánh" ],
-  "overview" : "Năm Bính thìn (29 tuổi) ông đỗ Trạng nguyên Trại khoa khi Bính thìn niên hiệu Nguyên phong thứ 6 đời Trần Thái Tông. Làm quan đến chức Thị lang hàm Tự Khanh và mất năm nào không rõ."
+  "entityName" : "Mai Thiếu Đế",
+  "aliases" : [ ],
+  "overview" : "Mai Thiếu Đế (chữ Hán: 梅少帝; ? – 723?) là một vị vua truyền thuyết Việt Nam. Tương truyền, ông là người kế vị vua Mai Hắc Đế trong lịch sử Việt Nam."
 }

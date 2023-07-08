@@ -1,20 +1,16 @@
 {
-  "dateOfBirth" : "22 tháng 2, 1066 Du Thiền các, Thăng Long",
-  "dateOfDeath" : "15 tháng 1, 1128 (61 tuổi) Điện Vĩnh Quang, Thăng Long",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đại Việt",
-  "workTenure" : "1072 – 1128",
-  "fatherName" : {
-    "Lý Thánh Tông" : 2991
-  },
-  "motherName" : {
-    "Linh Nhân hoàng hậu" : null
-  },
+  "dateOfBirth" : "Kỉ Hợi 1659",
+  "dateOfDeath" : "Bính Thìn 1736",
+  "hometown" : "người ở Hải Dương, ông nội là Nguyễn Đình Tiên theo Nguyễn Hoàng vào Thuận Hóa, bèn nhập tịch ở huyện Hương Trà, tỉnh Thừa Thiên (nay thuộc tỉnh Thừa Thiên Huế) đổi thành họ Nguyễn Khoa",
+  "occupation" : "Danh sĩ đời chúa Nguyễn Phúc Chu",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
   "eraName" : {
-    "Nhà Lý" : 14
+    "Trịnh - Nguyễn" : 34
   },
   "id" : 2204,
-  "entityName" : "Lý Càn Đức",
-  "aliases" : [ "Lý Càn Đức (李乾德)", "Hiếu Thiên Thể Đạo Thánh Văn Thần Vũ Sùng Nhân Ý Nghĩa Hiếu Từ Thuần Thành Minh Hiếu Hoàng Đế", "Thái Ninh (1072-1076) Anh Vũ Chiêu Thắng (1076-1084) Quảng Hựu (1085-1092) Hội Phong (1092-1100) Long Phù (1101-1109) Hội Tường Đại Khánh (1110-1119) Thiên Phù Duệ Vũ (1120-1126) Thiên Phù Khánh Thọ (1127-1127)", "Nhân Tông (仁宗)" ],
-  "overview" : "Lý Nhân Tông (chữ Hán: 李仁宗; 22 tháng 2 năm 1066 – 15 tháng 1 năm 1128) là vị hoàng đế thứ tư của nhà Lý nước Đại Việt. Ông trị vì từ năm 1072 đến năm 1128, tổng cộng 55 năm. Ông được xem là vị vua có thời gian ở ngôi lâu nhất trong lịch sử Việt Nam."
+  "entityName" : "Nguyễn Khoa Chiêm",
+  "aliases" : [ ],
+  "overview" : "Ông có tiếng văn chương, tự Bảng Trung, xuất thân làm Thủ hạp đời chúa Nguyễn. Năm 1701 ông cùng Trần Đình Khánh theo Cai cơ ngoại tả Tôn Thất Diệu vào Quảng Bình công tác quân sự. Năm Canh dần 1710 thăng chức Cai hạp kiêm Tri hạ được Trần Đình Ân tri ngộ tiến cử ông với chúa Nguyễn Phúc Chu nên được tin dùng, thăng Cai bạ phó đoán sự (1718), rồi thăng Tham chính, chính đoán sự (1724). Từ ấy ông vạch định mọi kế hoạch trong nước, làm đến Thượng thư bộ Lại, tước Bảng Trung Hầu. Về sau ông làm con rể Trần Đình Ân. Lúc tuổi già ông trí sĩ ở quê nhà, năm Bính thìn 1736 ông mất, thọ 77 tuổi, được tặng hàm Đại lí tự Thượng khanh, thụy là Trung Hậu. Tác phẩm chính của ông là Nam triều công nghiệp diễn chí (soạn trong năm 1719) còn lưu truyền. Về sau có Nguyễn Giản đề lời bạt, Dương Công Tòng nhuận chính. Về tựa sách sau có đổi là: Công nghiệp diễn chí hay Việt Nam khai quốc chí truyện hay Việt Nam khai quốc chí truyện diễn âm hay Nam triều Nguyễn chúa khai quốc công nghiệp chí tân soạn."
 }

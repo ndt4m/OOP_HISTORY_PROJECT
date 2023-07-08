@@ -1,16 +1,21 @@
 {
-  "dateOfBirth" : "Canh Dần 1890",
-  "dateOfDeath" : "Nhâm Ngọ 1942",
-  "hometown" : "quê làng Hoạch Trạch, tục gọi làng Vạc, huyện Bình Giang, tỉnh Hải Dương",
-  "occupation" : "Nhà văn, nhà sưu khảo",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
+  "dateOfBirth" : "1136 Thăng Long\n----------------------------------------------\nBính Thìn 1136\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "14 tháng 8, 1175 (38–39 tuổi) Thăng Long, Đại Việt\n----------------------------------------------\nẤt Mùi 1175\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua nhà Lý, con trưởng Lý Thần tông, nối ngôi nhà Lý\n----------------------------------------------\nVua",
+  "workTenure" : "1138 – 1175\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1138—1175",
+  "fatherName" : {
+    "Lý Thần Tông" : 3002,
+    "Lý Thần tông" : null
+  },
+  "motherName" : {
+    "Linh Chiếu Thái hậu" : null
+  },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Nhà Lý" : 14
   },
   "id" : 2664,
-  "entityName" : "Nguyễn Văn Ngọc",
-  "aliases" : [ "Ôn Như" ],
-  "overview" : "Suốt 30 năm phục vụ trong ngành giáo dục ông còn tận tụy soạn sách, viết báo. Năm Giáp tuất 1934, ông cùng các học giả bạn sáng lập Hội Phật giáo Bắc Kì, và có công tái thiết chùa Quán Sứ làm Hội quán trung ương Hội Phật giáo Bắc Kì. Anh ông là Băng Hồ Nguyễn Quang Oánh cũng có công với văn học, chủ trương Cổ kim thi xã và Việt văn thư xá. Năm Nhâm ngọ, ngày 11-3 âm lịch (26-4-1942) ông mất lúc 52 tuổi. Các tác phẩm chính của ông: - Phổ thông độc bản (1922) - Nam thi hợp tuyển (1927) - Ngụ ngôn (1935) - Tục ngữ phong dao I, II (1928) - Bàn về vấn đề cải lương hương chính (1920) - Câu đối (1931) - Người Mường (1925) - Đào nương ca (1932) - Đông Tây ngụ ngôn (1927) - Nhi đồng lạc viên (1936) - Để mua vui (1929) - Truyện cổ nước Nam (1932) - Cổ học tinh hoa (hợp soạn, 1933) Ngoài ra, ông còn là tác giả hai cuốn sách giáo khoa về Việt ngữ viết bằng tiếng Pháp: - Méthode langue annamite (1933) - Cours de langue annamite (1936) Và một số sách giáo khoa Tiểu học. Đánh giả về các trước tác Nguyễn Văn Ngọc, Vũ Ngọc Phan viết: \"Nếu đọc tất cả những sách của Nguyễn Văn Ngọc, người ta nhận thấy những sách biên tập của ông là những sách có giá trị hơn những sách soạn của ông, vì trong việc biên tập, ngòi bút của ông rất là thận trọng. Những quyển như Câu đối, Đào nương ca, Cổ học tinh hoa... đều là những quyển rất có ích cho những người muốn học tập quốc văn và muốn biết đại lược về những tư tưởng của cổ Trung Hoa. Về mặt biên tập, Nguyễn Văn Ngọc đáng liệt vào hàng những nhà văn xuất sắc trong lớp tiên phong\" (Nhà văn hiện đại)"
+  "entityName" : "Lý Anh Tông",
+  "aliases" : [ "Niên hiệu Thiệu Minh (绍明; 1138 - 1139) Đại Định (大定; 1140 - 1162) Chính Long Bảo Ứng (政隆宝应; 1163 - 1173) Thiên Cảm Chí Bảo (天感至宝; 1174 - 1175)", "Lý Thiên Tộ (李天祚)", "Thể Thiên Thuận Đạo Duệ Văn Thần Võ Thuần Nhân Hiển Nghĩa Huy Mưu Thánh Trí Ngự Dân Dục Vật Quần Linh Phi Ứng Đại Minh Chí Hiếu Hoàng Đế (体天顺道睿文神武纯仁显义徽谋圣智御民育物群灵丕应大明至孝皇帝)", "Lý Anh Tông", "Anh Tông (英宗)" ],
+  "overview" : "Lý Anh Tông (chữ Hán: 李英宗, 1136 - 14 tháng 8, 1175), là vị Hoàng đế thứ sáu của nhà Lý trong lịch sử Việt Nam, trị vì từ năm 1138 tới năm 1175, tổng cộng 37 năm.\n----------------------------------------------\nBấy giờ nhà vua thêm vụng về bang giao với Chiêm Thành, đưa người Chiêm là Ung Minh Ta Điệp về Chiêm để làm vua, khiến vua Chiêm đương thời là Chế Bỉ La Bút chống đánh lại. giết tướng ta là Lý Mông. Nội chính ngoại biên rối loạn, dân tình khốn khổ. Đến khi Đỗ Anh Võ chết, Tô Hiến Thành thay làm Thái úy.\n----------------------------------------------\nLý Anh Tông (chữ Hán: 李英宗 tháng 4 năm 1136 - 14 tháng 8 năm 1175) là vị hoàng đế thứ sáu của nhà Lý trong lịch sử Việt Nam, trị vì từ năm 1138 tới năm 1175, tổng cộng 37 năm."
 }

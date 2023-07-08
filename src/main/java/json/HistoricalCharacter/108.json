@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "1743\n----------------------------------------------\n…",
-  "dateOfDeath" : "1782\n----------------------------------------------\nBính Ngọ 1786",
-  "hometown" : "Không rõ",
-  "occupation" : "Võ tướng đời Lê Hiển tông",
+  "dateOfBirth" : "Canh Thìn 1820",
+  "dateOfDeath" : "Đinh Dậu 1897",
+  "hometown" : "tại kinh thành Huế",
+  "occupation" : "Danh sĩ lớn đời Nguyễn",
   "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "fatherName" : {
+    "vua Minh Mạng" : null
+  },
   "motherName" : { },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34
+    "Nhà Nguyễn độc lập" : 30
   },
   "id" : 108,
-  "entityName" : "Hoàng Đình Bảo",
-  "aliases" : [ "Hoàng Tố Lý", "Hoàng Đình Huy", "Quận Huy" ],
-  "overview" : "Hoàng Đình Bảo (1743-1782) là Huy quận công (còn gọi là Quận Huy) thời Lê-Trịnh, trong lịch sử Việt Nam.\n----------------------------------------------\nNăm Đinh dậu 1777, ông làm trấn thủ Nghệ An. Cuối năm Mậu tuất 1778, ông về triều Đốc đồng Nghệ An là Bùi Huy Bích lên thay làm Hiệp trấn. Vì hồi ấy ông rất được lòng dân, nên triều đình có ý nghĩ ông làm phản. Chúa Trịnh Sâm mật báo thuộc hạ là Nguyễn Phương Dĩnh và Nguyễn Lệ (tức Nguyễn Khản) mưu giết ông đi. Nhưng vợ ông được lòng Vương phi Đặng Thị Huệ, nên được che chở an toàn. ông về triều đưa lễ vật đến làm thân với con trưởng Trịnh Sâm là Trịnh Tông (tức Khải), Khải không nhận, lại còn dọa khi lên ngôi chúa sẽ loại ông ra. Do đó, ông càng ngả về phe Đặng Thị Huệ, ngắm ủng hộ con của Thị Huệ là Trịnh Cán lên làm Thế tử. Ông được phong tước là Điền Quận Công, rồi rồi là Huy Quận Công. Đời bấy giờ có ca dao châm biếm ông xu phụ Đặng Thị Huệ (tức Bà Chúa Chè). Trăm quan có mắt như mờ, Để cho Huy Quận vào sờ chính cung. Năm Tân sửu 1781, Nguyễn Nhã Lượng có ý xui ông làm phản, đặt ra bài sấm có câu: \"Thảo nhất điền bát, thỉ bất dương quần\". (Thảo nhất điền bát ghép lại là chữ Hoàng, ám chỉ ông, thỉ bất là chỉ về ông vốn tuổi hợi; dương quần\" là chỉ Trịnh Sâm và Trịnh Cán đều tuổi mùi ! Để giải sự nghi ngờ, ông tố cáo Nguyễn Nhã Lượng, khiến Lượng bị bắt giết. Dần dần ông mất uy tín với mọi người, bị kiêu binh giết chết trong năm 1786."
+  "entityName" : "Nguyễn Phúc Miên Trinh",
+  "aliases" : [ "Tĩnh Phố", "Khôn chương", "Quí Trọng", "Vĩ Dạ", "Tuy Lý Vương" ],
+  "overview" : "Ông nổi tiếng văn chương ngang với anh là Tùng Thiện vương, thành viên Tùng Vân thi xã, cũng gọi là Mặc Vân thi xã của Tùng Thiện vương hội họp với các danh sĩ ở kinh đô. Năm Quí mùi 1883 khi quân Pháp tấn công Huế, con trai ông âm mưu chống lại phái chủ chiến của Tôn Thất Thuyết nên bị trấn áp. Ông trốn xuống một tàu chiến Pháp ở Thuận An, nhờ Khâm sứ De Champeaux che chở, nhưng bị Tôn Thất Thuyết đòi lại và an trí ở Quảng Ngãi. Đến khi Đồng Khánh lên ngôi mới được thả về sang đời Thành Thái, ông làm Phụ chánh. Năm Đinh dậu ngày 24-10 âm lịch (18-11-1897) ông mất, thọ 77 tuổi, còn để lại bộ: - Vĩ Dạ hợp tập - Vĩ Dạ văn tập - Vĩ Dạ thi tập - Nam Cầm khúc (Nguyễn Phúc Hồng Sâm dịch ra quốc âm) - Trung Quốc Công thi tập Đương thời trong Văn giới ca tụng ông và Tùng Thiện vương là \"NhịTô\" (so sánh như Tô Triệt và Tô Thức tức cha con Tô Đông Pha đời Tống). Thơ văn ông đều bằng chữ Hán, chỉ có một ít bằng chữ Nôm, như bài: Cũng phải xơi ngơi cũng phải chơi. Làm người nào phải Phật lo đời. Ngày dài dễ đặng ba muôn sáu, Tháng chẵn lần qua một chục hai. Việc phủ vua quan giờ có phép, Tiệc thơ hầu hạ dám nhường ai. Mua vui nghìn lượng xin đừng tiếc, Đã thấy co ro cất củ khoai. Vĩ Dạ hợp tập gồm chung cả thi tập và văn tập của Tuy Lý vương Nguyễn Miên Trinh. (Văn tập gồm 5 quyển; thi tập 6 quyển; tự, truyện... 1 quyển). Mặt sách có đề rõ sách in năm Tự Đức Ất hợi (1875). Bài tựa của Nguyễn Đức Đạt đề năm Tự Đức thứ 23 (1875); thứ đến bài tựa của Vương Tiến Khiêm đề năm Tân tị (1881). Rồi đến bản truyện tác giả của Quốc sử quán và bản tuyển của nhà riêng. Tiểu tượng tác giả, gồm 3 kiểu khác nhau, có bài tán của con là Hồng Nhung. Đây là toàn tập thơ văn của nhà thơ đời Tự Đức. Tuy Lý vương cùng nổi tiếng với Tùng Thiện Tương mà ta thường nói Tùng Tuy, Vĩ Dạ là nơi mà Tuy Lý vương có nhà ở."
 }

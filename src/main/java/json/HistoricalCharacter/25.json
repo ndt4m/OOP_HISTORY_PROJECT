@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "1950 Trung Thành, Nông Cống, Thanh Hóa",
+  "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
   "hometown" : "Không rõ",
-  "occupation" : "Thiếu tướng",
+  "occupation" : "Hào kiệt cuối đời Trần",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Hậu Trần" : null
+  },
   "id" : 25,
-  "entityName" : "Lê Mã Lương",
+  "entityName" : "Bùi Một Ngôn",
   "aliases" : [ ],
-  "overview" : "Lê Mã Lương (sinh 1950) là một tướng lĩnh cấp cao của Quân đội Nhân dân Việt Nam, hàm Thiếu tướng, nguyên Giám đốc Bảo tàng Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang Nhân dân."
+  "overview" : "Trước kia, vua Trùng Quang có sai Lê Ngân sang triều Minh xin phong, bị giết mất. Sau, ông cùng với Hồ Ngạn Thần lại đi sứ cầu phong. Đến Yên kinh, vua Minh dò hỏi tình hình chính trị và quân sự nước ta. Hồ Ngạn Thần tỏ bày các việc, quên dè dặt. Riêng ông, cẩn thận rất mực. Nhà Minh bèn phong vua Trùng Quang chức Bố chính sứ, Hồ Ngạn Thần làm tri phủ. Xong, sứ bộ trở về nước. Bây giờ ông mới tâu về việc Hồ Ngạn Thần đã tiết lộ bí mật quân sự, có hại cho nước nhà, khiến Ngạn Thần phải tội xử chém. Sau, Trần Trùng Quang và các tướng sĩ Hóa Châu đều bị quân Minh bắt, ông tử tiết."
 }

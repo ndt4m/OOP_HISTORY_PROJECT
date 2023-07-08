@@ -1,19 +1,16 @@
 {
-  "dateOfBirth" : "Mậu Ngọ 1918",
-  "dateOfDeath" : "Nhâm Thìn 1952",
-  "hometown" : "quê làng An Hội, tổng Bảo Hựu, tỉnh Bến Tre (nay thuộc thị xã Bến Tre, tỉnh Bến Tre) con ông Nguyễn Ngọc Tướng (một chức sắc cao cấp đạo Cao Đài), em ruột kĩ sư Nguyễn Ngọc Bích (1908-1963)",
-  "occupation" : "Kĩ sư",
+  "dateOfBirth" : "Canh Tí 1660",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Phù Khê, huyện Đông Ngạn, tỉnh Bắc Ninh",
+  "occupation" : "Danh thần đời Lê, có sách chép là Quách Chú",
   "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Nguyễn Ngọc Tướng" : null
-  },
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Trịnh - Nguyễn" : 34
   },
   "id" : 1565,
-  "entityName" : "Nguyễn Ngọc Nhựt",
-  "aliases" : [ ],
-  "overview" : "Thuở nhỏ ông học ở Sài Gòn, sau du học Pháp, tốt nghiệp kĩ sư làm việc tại Pháp hồi trước Thế chiến. Năm 1946 đáp lời kêu gọi của tổ quốc về nước tham gia kháng chịến chống Pháp trong cương vị một nhà khoa học, trong lúc anh ruột ông là kĩ sư cầu cống Nguyễn Ngọc Bích (nguyên là một công chức cao cấp làm việc trong chính quyền cũ) đang giữ chức Khu Bộ phó khu 9 bị Pháp bắt tại chiến trường Sóc Trăng năm 1947 (Kĩ sư Bích là đại biểu Quốc hội, ủy viên thường trực Quốc hội Việt Nam năm 1946, năm 1948 ông bị Pháp cưỡng bức lưu trú tại Pháp). Năm 1948 ông được mời giữ chức Ủy viên ủy ban kháng chiến hành chánh Nam bộ phụ trách công tác thương binh xã hội. Ngày 2-6-1949 ông bị bắt tại Cái Bèo (thuộc tỉnh Sa Đéc). Trong lúc bị giam giữ, thực dân dùng nhiều thủ đoạn mua chuộc, dụ dỗ, thuyết phục, nhưng ông vẫn không cộng tác với chính quyền thực dân."
+  "entityName" : "Quách Giai",
+  "aliases" : [ "Quách Chú" ],
+  "overview" : "Ông là danh thần đời Lê Hi tông, từ bé đã có tiếng thần đồng. Năm Quí hợi 1683 ông đỗ Bảng nhãn lúc 23 tuổi. Ông từng làm Đốc đồng ở Thanh Hóa, trải qua nhiều chức vụ cao ở các tỉnh ngoài. Sau, ông về triều làm đến Thái thượng Tự khanh, nhưng chẳng bao lâu thì lâm bệnh, xin về hưu, rồi mất ở quê nhà. Tương truyền: ông vẫn biết mình bạc phước, nên khi thành đạt ông thường làm nhiều điều phước thiện để cầu ân đức. Nhiều người nghèo khổ từng được ông cứu giúp, nhất là kẻ sĩ hàn vi được ông nâng đỡ, tiến cử cho lập thân vẻ vang. Khi ông mất ai cũng thương tiếc. Tổ tiên xa đời của ông là Quách Toản Khế khi xưa cũng nổi tiếng tài giỏi và có nhân đức."
 }

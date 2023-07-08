@@ -1,16 +1,16 @@
 {
   "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Cao tăng đời Lý Nhân tông. Không rõ tên họ, năm sinh và năm mất",
+  "hometown" : "Quê làng Định Công, huyện Thanh Trì, Hà Nội",
+  "occupation" : "Tổ nghề kim hoàn Việt Nam, gia đình ông gồm ba anh em: Trần Điền, Trần Hòa và Trần Điện",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Lý" : 14
+    "Nhà Tiền Lý, Triệu" : null
   },
   "id" : 545,
-  "entityName" : "Dĩnh Đạt",
-  "aliases" : [ "Dĩnh Đạt" ],
-  "overview" : "Nhâm dần 1122, ông làm bài minh khắc vào chuông và soạn bài bia chùa Viên Quang. Hầu hết sĩ phu đương thời đều ngương mộ đạo hạnh ông."
+  "entityName" : "Trần Điện",
+  "aliases" : [ ],
+  "overview" : "Về thời Lý Nam Đế, nước ta bị giặc Nam Chiếu quấy phá. Ba anh em bèn bán hết ruộng vườn lánh nạn sang Tàu. Khi đến biên giới bị cướp, họ chạy lạc nhau. Hòa sang nước Tùy học nghề thợ bạc, Điền và Điện sang nước Tấn học nghề thợ vàng. Sau 5 năm cả ba anh em trở về nước kể chuyện cho nhau, rồi mở tiệm vàng bạc, đặt tên là Kim Hoàn và dạy thêm cho nhiều người khác. Do đó về sau người ta gọi nghề làm vàng bạc là nghề kim hoàn và tôn ba anh em nhà họ Trần làm tổ sư."
 }

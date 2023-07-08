@@ -1,18 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
+  "dateOfBirth" : "Ất Mão 1675",
   "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Vua",
-  "workTenure" : "112—111TCN",
-  "fatherName" : {
-    "Triệu Anh Tề" : 771
-  },
+  "hometown" : "quê làng Hoàn Hậu, tỉnh Nghệ An",
+  "occupation" : "Văn thần đời Lê Hi tông, cùng dòng dõi với Hồ Sĩ Dương",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Triệu" : 16
+    "Trịnh - Nguyễn" : 34
   },
   "id" : 2214,
-  "entityName" : "Triệu Dương Vương",
+  "entityName" : "Hồ Phi Tích",
   "aliases" : [ ],
-  "overview" : "Triệu Dương Vương (趙陽王), hay Triệu Thuật Dương Vương (趙術陽王), Triệu Vệ Dương Vương (趙衛陽王), tên họ thật là Triệu Kiến Đức (趙建德), trị vì từ năm 112 TCN – 111 TCN, là vị vua cuối cùng của nhà Triệu nước Nam Việt trong lịch sử Việt Nam."
+  "overview" : "Năm Canh thìn 1700, ông đỗ tiến sĩ, 25 tuổi, làm đến Ngự sử. Năm Tân mão 1711, đời Lê Dụ tông, ông dâng sớ điều trần nhiều việc ích nước lợi dân, được ban thưởng bạc và lụa. Sau ông đi sứ có công, được giao cho nhiệm vụ kinh lí địa giới tỉnh Tuyên Quang - Hưng Hóa. Năm Kỉ dậu 1729, nạn lụt xảy ra, ông tận lực lo việc cứu lụt, phát thóc kho ở Vị Hoàng chẩn cấp cho nhân dân bị thiên tai. Ông làm quan đến Thượng thư bộ Hình, tước Quận công, rồi cáo quan về hưu. Khi mất được tặng Thiếu Bảo. Sau khi ông mất, phu nhân ông là Châu Thị Bát hăy còn trẻ, bị tướng Nguyễn Hữu Cầu rúng ép, bèn tử tiết."
 }

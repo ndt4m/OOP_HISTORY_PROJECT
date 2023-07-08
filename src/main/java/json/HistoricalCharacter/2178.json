@@ -1,16 +1,17 @@
 {
   "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê quán, pháp danh Khánh Long",
-  "occupation" : "Thiền sư đời Gia Long, không rõ tên họ, quê quán",
+  "dateOfDeath" : "979\n----------------------------------------------\nKhông rõ",
+  "hometown" : "người làng Đại Đê, huyện Thiên Bản, nay thuộc huyện Vụ Bản, tỉnh Nam Định.\n----------------------------------------------\nquê ở Thiên Bân",
+  "occupation" : "Nội giám nhà Đinh",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+    "nhà Đinh" : null,
+    "Nhà Đinh" : 35
   },
   "id" : 2178,
-  "entityName" : "Khánh Long",
-  "aliases" : [ "Khánh Long" ],
-  "overview" : "Ông xuất gia trụ trì ở chùa Hội Sơn trên núi Châu Thới thuộc phủ Long Trung, huyện Long Thành, tỉnh Biên Hòa (nay thuộc tỉnh Đồng Nai). Sau, ông tự dựng một cảnh chùa ở Gò Quít, thuộc huyện Phước Chánh. Thiện nam tín nữ kính mộ đạo hạnh của ông, lấy pháp danh ông mà gọi tên chùa là Khánh Long. Một du khách xưa viếng cảnh có thơ đề: \"Tiêu sơ lãnh thụ quải tà dương. Bộ nhập khê nhan phỏng đạo trường. Chữ mính vô yên sào hạc tịnh Khả liên thiền vị chính thê lương. Bản dịch: Hoang vu chùa quạnh bóng tà dương, Dấn bước bờ khe viếng đạo trường. Hiu hắt khói trà vương cảnh tịnh, Cửa Thiền ngùi ngậm vẻ thê lương."
+  "entityName" : "Đỗ Thích",
+  "aliases" : [ ],
+  "overview" : "Đỗ Thích (chữ Hán: 杜釋; ?-979) là một vị quan nhà Đinh, là người làng Đại Đê, huyện Thiên Bản, nay thuộc huyện Vụ Bản, tỉnh Nam Định. Đỗ Thích từng làm quan ở Đồng Quan (Ninh Bình ngày nay), rồi giữ chức Chi Hậu Nội Nhân dưới thời vua Đinh Tiên Hoàng.\n----------------------------------------------\nĐỗ Thích xuất thân làm thư lại ở Đồng Quan, sau được vào cung hầu vua Đinh. Một đêm Đỗ nằm mộng thấy có ngôi sao sa vào miệng, cho là có điềm tốt, bèn có ý thoán đoạt cơ nghiệp nhà Đinh. Năm Kỉ mão 979, đang đêm Đỗ lẻn vào cung giết chết Đinh Tiên Hoàng và người con trưởng là Nam Việt vương Đinh Liễn. Việc vỡ lỡ, Đỗ chui nằm rạp trên mái cung. Cung nữ trông thấy, mách bảo Định quốc công Nguyễn Bặc, nên Đỗ bị Nguyễn bắt gịết."
 }

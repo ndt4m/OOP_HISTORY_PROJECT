@@ -1,18 +1,17 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Vua",
-  "workTenure" : "1592–1592",
-  "fatherName" : {
-    "Mạc Mậu Hợp" : 3064
-  },
+  "dateOfBirth" : "Giáp Tí 1924",
+  "dateOfDeath" : "Giáp Ngọ 1954",
+  "hometown" : "quê xã Đức Thọ, huyện Đông Sơn, tỉnhThanh Hóa",
+  "occupation" : "Nhà thơ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Bắc triều – Nhà Mạc  và thời kỳ Cao Bằng" : null
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 2774,
-  "entityName" : "Mạc Cảnh Tông",
-  "aliases" : [ ],
-  "overview" : "Mạc Toàn (chữ Hán: 莫全 1580 – 1593) là vị vua thứ sáu và là vua cuối cùng của nhà Mạc thời kỳ Nam - Bắc triều trong lịch sử Việt Nam."
+  "entityName" : "Nguyễn Văn Vượng",
+  "aliases" : [ "Hồng Nguyên" ],
+  "overview" : "Ông nhiệt thành yêu nước, sau Cách mạng tháng Tám gia nhập quân đội, phụ trách công tác văn nghệ, rồi làm ủy viên Ban chấp hành Hội Văn hóa cứu quốc Liên khu IV. Ông có thơ đăng trên các báo: Chiến sĩ, Dân mới, Sáng tạo. Bài thơ NHỚ được giải thưởng của Hội Văn nghệ liên khu IV tổ chức trong năm 1948. Tháng 2-1954 ông mất vì bệnh lao hưởng dương 30 tuổi. Ông có các tác phẩm: - Hồn nhỏ Việt Nam - Đời anh nông dân - Vô Nam... Trong cuộc kháng chiến chống Pháp ông đóng góp nhiều thơ văn giá trị. Bài thơ Nhớ là một thi phẩm xuất sắc có hình tượng nghệ thuật cao, được giới yêu thơ trân trọng: Lũ chúng tôi bọn người tứ xứ Gặp nhau từ hồi chưa biết chữ Quen nhau từ thuở một hai Súng bắn chưa quen, Quân sự mươi bài Lòng vẫn cười vui kháng chiến (…) Thưa trong nứ: Bây chừ thiệt vô cùng gian khổ Đồng bào ta phải kháng chiến ra ri Đêm nứ chúng tôi đi, Nòng súng nghiêng nghiêng, Đường mòn thấp thoáng Dân chúng cầm tay lắc lắc: Độc lập nhớ rẽ viền vui ví chắc."
 }

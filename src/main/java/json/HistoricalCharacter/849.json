@@ -1,17 +1,16 @@
 {
-  "dateOfBirth" : "Mậu Thìn 1928",
-  "dateOfDeath" : "Bính Tí 1996",
-  "hometown" : "tại huyện Châu Thành, tỉnh Tây Ninh",
-  "occupation" : "Nhạc sĩ hiện đại",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Lạc Phố, huyện Hương Sơn, tỉnh Hà Tĩnh",
+  "occupation" : "Danh tướng đời Lê Hiển tông",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Trịnh - Nguyễn" : 34
   },
   "id" : 849,
-  "entityName" : "Nguyễn Hồng Xuân",
-  "aliases" : [ "Xuân Hồng" ],
-  "overview" : "Ông tham gia kháng chiến chống Pháp từ năm 1945 suốt 9 năm (1946-1954) tại chiến trường Đông Nam Bộ. Từ năm 1954, ông ở lại hoạt động bí mật tại Tây Ninh, và tại chiến khu Đ ở chiến trường Đông Nam Bộ trong cương vị một cán bộ văn hóa, văn nghệ... Sau Tổng tiến công Mậu thân (1968) ông ra miền Bắc, đi thăm một số nước xã hội chủ nghĩa một thời gian, rồi trở về miền Nam hoạt động, chiến đấu ở chiến trường xưa. Ông là tác giả nhiều nhạc phẩm cách mạng được người cách mạng và giới trẻ ái mộ, như: Xuân chiến kh, Bài ca may áo, Tiếng chày trên sóc Bombo, Mùa xuân trên TP.Hồ Chí Minh... Ông mất trong năm 1996 tại Thành phố Hồ Chí Minh, thọ 68 tuổi."
+  "entityName" : "Văn Đình Dẫn",
+  "aliases" : [ ],
+  "overview" : "Năm 1740 ông làm Trấn thủ Sơn Tây. Lúc bấy giờ tình hình trong nước rối loạn, chúa Trịnh Doanh đem cả đại quân đi đàn áp các phong trào khởi nghĩa ở các địa phương, thành Thăng Long bỏ trống. Biết tin này, lãnh tụ nông dân khởi nghĩa là Nguyễn Cừ cùng tướng là Trần Thiên về chiếm Thăng Long. Ông lập tức đem quân về đàn áp cứu nguy cho chúa Trịnh. Vì thế ông được phong tước Điều Quận công. Gia thế ông nhiều đời làm tướng, cha là Văn Đinh Nhân tước Cổn Quận Công, con là Văn Đình Ức tước Quảng Quận Công, cháu là Văn Đình Cung đỗ Tạo sĩ giữ chức Binh phù làm rể chúa Trịnh. Đương thời xưng tụng là \"Hương Sơn thê tướng\" (nhà nối đời làm tướng ở Hương Sơn). Khi ông mất được truy tặng là Đại vương, phong phúc thần. Sách VIỆT SỬ TỐNG VỊNH viết: \"Thăng Long vô bị tặc phân di, Suất lữ cần vương nhật dạ trì. Bỉnh chúc nhiệt đương tư diệt tặc, Nhiên tương tháp tượng tỉ hoài nghi\" Nghĩa: Thăng Long không giữ giặc tơi bời Đem chúng Cần vương chẳng nghỉ ngơi Đốt đuốc nấu cơm lo giết giặc Thắp hương cặp gậy phỉnh lòng người"
 }

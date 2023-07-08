@@ -1,14 +1,18 @@
 {
-  "dateOfBirth" : "1923 huyện Gia Khánh, phủ Trường An, Đại Nam",
-  "dateOfDeath" : "1988 ?",
-  "hometown" : "Không rõ",
-  "occupation" : "Phục vụ",
-  "workTenure" : "1945-1977",
-  "fatherName" : { },
+  "dateOfBirth" : "1812\n----------------------------------------------\n…",
+  "dateOfDeath" : "1859\n----------------------------------------------\nBính Ngọ 1546",
+  "hometown" : "huyện Đăng Xương, phủ Triệu Phong, tỉnh Quảng Trị (nay thuộc huyện Triệu Vân, tỉnh Quảng Trị)\n----------------------------------------------\nKhông rõ",
+  "occupation" : "Vua đời thứ ba nhà Mạc, con trưởng Mạc Đăng Doanh, được lập làm thái tử, nối ngôi vào năm Tân sửu 1541",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "Mạc Đăng Doanh" : 1224
+  },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Nam - Bắc Triều" : 19
+  },
   "id" : 2262,
-  "entityName" : "Nguyễn Mạnh Quân",
-  "aliases" : [ ],
-  "overview" : "Đại tá Nguyễn Mạnh Quân (1923-1988) là một sĩ quan chỉ huy của Quân đội Nhân dân Việt Nam. Ông là một trong những chỉ huy chiến trường quan trọng trong suốt thời kỳ Chiến tranh Việt Nam (1945-1975), là một trong chỉ huy trực tiếp của Mặt trận Tây Nguyên trong Chiến dịch Bắc Tây Nguyên 1972."
+  "entityName" : "Nguyễn Chương",
+  "aliases" : [ "Mạc Hữu Mệnh", "Nguyễn Lập", "Mạc Lập Bạo", "Mạc Ngọc Liễn", "Trị" ],
+  "overview" : "Nguyễn Văn Chương (1812-1859), sau đổi tên thành Nguyễn Lập , là một nhà khoa bảng. Văn Chương là người phường Vĩnh Hòa, tổng An Cư, huyện Đăng Xương, phủ Triệu Phong, tỉnh Quảng Trị (nay thuộc huyện Triệu Vân, tỉnh Quảng Trị). Ông đỗ Cử nhân năm Tân Sửu 1841 dưới thời Thiệu Trị, sau đỗ Đình nguyên Hoàng giáp cũng vào đời Thiệu Trị, 1844. Ông từng làm Án sát Hải Dương .\n----------------------------------------------\n"
 }

@@ -1,17 +1,19 @@
 {
-  "dateOfBirth" : "1889\n----------------------------------------------\nKỉ Sửu 1889",
-  "dateOfDeath" : "1960\n----------------------------------------------\nCanh Tí 1960",
-  "hometown" : "Hà Nội",
-  "occupation" : "Nhà báo, giáo sư, cựu bộ trưởng, ông giỏi Pháp văn, từng làm chủ nhiệm các báo La Tribune Indochinoise, L'Echo du Việt Nam, Đuốc Nhà Nam",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "571\n----------------------------------------------\nTân Mão 571",
+  "hometown" : "quê ở Châu Biên, phủ Vĩnh Tường, tỉnh Vĩnh Yên (nay thuộc Vĩnh Phú)",
+  "occupation" : "Danh tướng nhà Tiền Lý, con Thái phó Triệu Túc",
+  "workTenure" : "548 - 571\n----------------------------------------------\nKhông rõ",
+  "fatherName" : {
+    "Triệu Túc" : 439
+  },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Nhà Tiền Lý" : 36,
+    "Nhà Tiền Lý, Triệu" : null
   },
   "id" : 40,
-  "entityName" : "Nguyễn Phan Long",
-  "aliases" : [ ],
-  "overview" : "Nhà báo Nguyễn Phan Long (1889–1960) là một nhà báo, nhà hoạt động chính trị Việt Nam nửa đầu thế kỷ 20. Ông từng được Quốc trưởng Bảo Đại chỉ định làm Thủ tướng đầu tiên của chính phủ Quốc gia Việt Nam kiêm Tổng trưởng Nội vụ trong một thời gian ngắn (chưa đầy 4 tháng).\n----------------------------------------------\nThuở nhỏ học tại trường Albert Sarraut Hà Nội, du học Pháp. Về nước ông vào Sài Gòn dạy học và mở trường Trung học Nguyễn Phan Long nổi tiếng dạy hay. Những năm 40, ông tham gia hoạt động chính tri, tham gia Đại hội Đông Dương vận động dân chủ. Phong trào bị Pháp khủng bố trắng, ông bị cô lập một thời gian. Sau năm 1945, ông bị các nhân vật phân li trong chính phủ tự trị Nam Kì kì thị, trấn áp một thời gian. Ngày 18-1-1950 ông làm Thủ tướng kiêm Bộ trưởng Ngoại giao Chính phủ Sài Gòn, nhưng chính phủ này phải từ chức mấy tháng sau đó. Từ đó ông sống bằng nghề viết báo và dạy học. Ngày 16-7-1960 ông mất tại nhà riêng ở Sài Gòn, thọ 71 tuổi, dư luận đương thời cho là do Ngô Đình Nhu đầu độc. Ông là một nhà báo, nhà chính trị thanh liêm, suốt mấy mươi năm dạy học, làm báo, Thủ tướng chính phủ mà suốt đời phải ở nhà thuê. Thế cho nên khi ông vừa qua đời chủ nhà liền tống vợ con ông ra khỏi nơi gia đình ông mướn trước ngày từ trần. Ông là tác giả các sách: - Cannibale par persuasion - Le romane Mademoiselle Lys … Khi ông chết Phương Hải có bài văn điếu ông: Bỗng tin đâu sét đánh ngang mày rằng người khuất núi, lòng đau, dạ xót, hồn trí loạn cuồng. Nghe lụy ứa lệ trào lên mắt, khóc bực nhân tài, đất thảm, trời sầu, phong ba bơi nổi! Khéo trách thay con Tạo trớ trêu? Buồn nghĩ lại cuộc đời ngắn ngủi. Nhớ linh xưa Trí tột thông minh, Thần thêm rắn rỏi. Chốn báo chương nổi tiêng Đuốc Nhà Nam soi sáng khắp muôn dân. Trường chánh trị vang danh, thực dân Phán kinh hoàng trong ba cõi. Rạng rạng đức hi sinh. Làu làu tài ăn nói. Nghĩ mình rường cột Quốc gia, mưu đồ độc lập thành tâm cố sức đấu tranh. Xót bạn đồng nghiệp báo giới xây mộng tự do, thực dạ quyết công đòi hỏi. Ôi! Thương kiếp người lăn lóc, bảy mươi hai cũng gọi trọn đời. Xót nguyện vọng dở dang, hăm lăm triệu chưa thành nguyên khối. Ngậm ngùi cơn vĩnh biệt chia phôi. Ngao ngán cuộc tang thương biến đổi Người về đâu, hồn về đâu? Trăm lòng đau thắt nhớ lời châu ngọc uyên thâm. Danh còn đó tiếng còn đó! Vạn thuở lưu truyền, ghi nét vàng son chói lọi. Nay đành phủi sạch nợ trần ai, người về chín suối, nguyện cầu hồn được sớm tiêu diêu. Xưa trót yêu vì tài lỗi lạc, kẻ ở dương gian, thương khóc tình thêm nhiều tức tửi. Gởi tiếng phân ưu. Chia niềm sầu tủi. Lệ thắm chan hòa. Buồn lên vời vợi... Hỡi ơi! Thương thay!"
+  "entityName" : "Triệu Quang Phục",
+  "aliases" : [ "Triệu Quang Phục", "Triệu Quang Phục (趙光復)", "Dạ Trạch Vương (夜澤王)" ],
+  "overview" : "Triệu Việt Vương (chữ Hán: 趙越王; ?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đáy.\n----------------------------------------------\nTừ năm Tân dậu 541 ông theo cha ra giúp Lý Bôn đánh đuổi quân nhà Lương xâm lược nước ta. Năm Giáp tí 544, khởi nghĩa thành công, Lý Bôn xưng đế phong ông làm Tả tướng quân. Năm Ất sửu 545, Lương Võ Đế lại sai Trần Bá Tiên đem quân sang đánh phá, đưa Dương Phiêu làm Thứ sử. Ông chống cự quyết liệt với quân Lương, đóng bản dinh nơi đầm Dạ Trạch, được xưng tụng là Dạ Trạch vương. Năm Mậu thìn 548, Lý Nam Đế mất ở động Khuất Liêu, ông thay quyền điều động quân dân kháng chiến cứu nước tự xưng Việt vương. Trong khi ấy người trong họ Lý là Lý Thiên Bửu và Lý Phật Tử bại binh, đóng ở Dã Năng. Thiên Bửu cũng xưng là Đào Lang vương. Năm Tân mùi 551, ở Trung Quốc có loạn Hầu Cảnh, vua Lương là Dự Chương Vương triệu Trần Bá Tiên về để Phó tướng Dương Sàn ở lại xâm lược. Thừa thế ông đánh tan quân Lương thu phục thành Long Biên. Hay tin chiến thắng, Lý Thiên Bửu và Lý Phật Tử cũng kéo quân về tụ hội. Năm Ất hợi 555 Lý Thiên Bửu mất, Phật Tử thay nắm quyền, lại gây hấn với Triệu Việt vương, nhưng không đương cự nổi phải xin giải hòa. Nghĩ tình Nam Đế, ông chấp thuận, ông đóng ở Long Biên (Hà Nội), Phật Tử đóng ở Ô Diên (thuộc làng Đại Mỗ, huyện Từ Liêm, tỉnh Hà Đông), lấy bãi Quân Thần làm giới hạn. Đã chia vùng cai quản ông còn gả con cho Phật Tử để tỏ tình hòa hiếu. Đến năm Tân mão 571, Lý Phật Tử đánh úp Long Biên. Ông không chống cự nổi, chạy đến sông Đại Nha (huyện Đại An, tỉnh Nam Định), gieo mình xuống sông tự vẫn. Nơi làng Độc Bộ, gần làng Đại An, tỉnh Nam Định (nay vẫn thuộc Nam Định) còn đền thờ ông. Trần Duy Vân đề vịnh: Tình thầy nghĩa tớ cảnh non sông, Dạ Trạch hồ kia luống chạnh lòng. Đạc đất chữa yên điềm bạch độc, Khấn trời may được dấu hoàng long. Tỏ danh bốn bể con nhà Triệu, Yên gối muôn dân giống nước Hồng. Hương lửa năm năm đền Bộc Bộ, Ấy ai du tử biết chăng không?"
 }

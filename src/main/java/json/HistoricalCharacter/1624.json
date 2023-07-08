@@ -1,17 +1,16 @@
 {
-  "dateOfBirth" : "Kỉ Hợi 1899",
-  "dateOfDeath" : "Ất Mão 1975",
-  "hometown" : "Không rõ",
-  "occupation" : "Nhân sĩ hiện đại, giỏi về hội họa, có lòng yêu nước.",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê ở Giáp Sơn, tỉnh Hải Dương",
+  "occupation" : "Danh y, nhà châm cứu xuất sắc đời Hồ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Nhà Hồ" : 9
   },
   "id" : 1624,
-  "entityName" : "Đặng Văn Ký",
-  "aliases" : [ "Minh Tài" ],
-  "overview" : "Ông hiệu là Minh Tài, từng hoạt động duy tân cứu nước. Khoảng năm 1940, ông bị thực dân đưa đi ở trại tập trung Tà Lài, Bà Rá. Khoảng năm 1944-45 ông bị Nhật đưa đi an trí ở Chiêu Nam (Tân Gia Ba: Singapour). Suốt hai thời kì kháng Pháp, kháng Mĩ, ông sống tròn khí tiết, có chân trong các tổ chức văn học yêu nước, chống văn hóa đồi trụy thời Mĩ ở miền Nam. Sau ngày giải phóng miền Nam, ông cũng có tham dự nhiều tổ chức cách mạng, nhưng chỉ trong mấy tháng sau ông từ trần. Bình sinh ông hoạt động văn hóa, có tên tuổi trong làng văn, làng báo yêu nước."
+  "entityName" : "Nguyễn Đại Năng",
+  "aliases" : [ ],
+  "overview" : "Ông làm thuốc cứu giúp nhân dân, không màng gì lợi lộc, tài đức được nhân dân ca tụng, nhất là khoa châm cứu rất nổi tiếng. Khoảng năm Quí mùi 1403, nhà Hồ xây cất bệnh viện Trung ương phục vụ nhân dân, gọi là Quảng tế thự ông được Hồ Quí Li trọng dụng, giao cho cai quản cơ quan y tế Trung ương với cương vị Quảng tế tự thừa (Giám đốc viện y tế Trung ương ngày nay). Ông cũng giỏi về quân sự, có tài bắn nỏ, nên cũng được nhà Hồ cử kiêm coi việc quân và về sau coi sóc luôn Quân y viện. Ông có soạn sách y học: Châm cứu tiếp hiệu diễn ca ghi lại cách chữa 130 loại bệnh chứng, 140 huyệt châm cứu trong đó có 11 huyệt do tổ tiên chúng ta tìm ra. (nay đã thất truyền)."
 }

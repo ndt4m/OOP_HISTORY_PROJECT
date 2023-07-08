@@ -1,17 +1,16 @@
 {
-  "dateOfBirth" : "Canh Tuất 1910",
-  "dateOfDeath" : "Đinh Mão 1987",
-  "hometown" : "quê ở Mĩ Tho (nay thuộc tỉnh Tiền Giang)",
-  "occupation" : "Nữ sĩ hiện đại",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Mộ Trạch, huyện Đường An, tỉnh Hải Dương",
+  "occupation" : "Đô vật nổi tiếng, Trạng Vật đời Lê Thánh tông",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Triều Lê Sơ" : 7
   },
   "id" : 1794,
-  "entityName" : "Mai Huỳnh Hoa",
-  "aliases" : [ "Mai Kim Ba" ],
-  "overview" : "Bà vốn là cháu ngoại nữ sĩ Sương Nguyệt Ánh Nguyễn Ngọc Khuê (con gái Nguyễn Đình Chiểu). Bà có tiếng thơ văn, có tinh thần yêu nước hết lòng giúp đỡ chồng con trên đường sự nghiệp. Những lúc chồng (Phan Văn Hùm) ngồi tù ra nước ngoài, hoặc bị đày Côn Đảo, bà cùng vợ Nguyễn An Ninh vẫn một lòng khảng khái thờ chồng nuôi con, giúp đỡ các nhà yêu nựớc trong thời vong quốc. Khi chồng mất, bà có mấy vần thơ truy niệm: Kể từ ngộ biến đến giờ, Xuân qua thu lại có thừa đau thương. Khóc người tử táng hà phương, Lòng tôi là huyệt ủ hương hồn người. Bà cũng là một cây bút sáng giá trên các tạp chí, tập san tại Sài Gòn trước đây. Năm Đinh mão 1987, ngày 25-7 bà mất tại thành phố Hồ Chí Minh, thọ 77 tuổi an táng tại nghĩa địa họ Phan ở thị xã Thủ Dầu Một, tỉnh Bình Dương."
+  "entityName" : "Võ Phong",
+  "aliases" : [ "Trạng Vật" ],
+  "overview" : "Ông có tướng ngũ đoàn, nhưng rất giỏi môn đấu vật. Một hôm ra kinh thành, ông nhìn thấy các đô lực sĩ hộ vệ nhà vua, tỏ ý chê cười, thách thức đấu vật với họ. Nhà vua chấp thuận cuộc thi đấu giữa ông với đô lực sĩ trong triều. Ông quật ngã đối thủ, được phong làm đô lực sĩ. Ông có tiếng chính trực, tháo vát, về sau làm đến Chỉ huy sứ Cẩm y thị vệ. Có lần ông được sung vào phái đoàn đi sứ nhà Minh, biểu diễn tài đấu vật. Ông áp đảo các tay đô vật Trung Quốc, khiến vua Minh khen ngợi gọi ông là \"Lý Tôn Hiếu An Nam\" (Lý Tôn Hiếu, danh tướng nhà Đường, tướng người nhỏ bé nhưng sức mạnh và giỏi võ nghệ, dẹp tan nhóm Hoàng Sào). Lê Quang Bí (cũng gọi là Bôn) đề vịnh: \"Ngũ đoán tằng xưng tướng mạo kì, Tang bồng hồ thỉ hảo nam nhi. Nhất môn bá trọng quang tiền nghiệp, Thiên tải minh lương kết chủ tri. Ứng biến đạt tài thi hữu chính, Xứng bình lịnh dữ bá vu thì. Tử tôn vinh thịnh đoan phi ngẫu, Chủng đức cao dao thị ngã si (sư).\" Bản dịch: Tướng xem ngũ đoản thật phi thường. Hồ thỉ làm trai chí bốn phương, Nếp cũ thêm tươi hàng bá trọng. Ngàn xưa được gặp chúa minh lương. Khen tay chính trị tài thông biến, Giữ mực công minh tiếng chẳng thường. Con cháu vinh hoa âu cũng bởi, Ai trồng cây đức để làm gương."
 }

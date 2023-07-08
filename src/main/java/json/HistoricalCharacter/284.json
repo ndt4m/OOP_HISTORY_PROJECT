@@ -1,19 +1,20 @@
 {
-  "dateOfBirth" : "1709\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "1735 (25–26 tuổi)\n----------------------------------------------\nKhông rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua",
-  "workTenure" : "1729 – 1732\n----------------------------------------------\n1729—1732",
+  "dateOfBirth" : "Mậu Dần 1878",
+  "dateOfDeath" : "Nhâm Thân 1932",
+  "hometown" : "tại làng Bình Tây, tỉnh Chợ Lớn (nay thuộc Q",
+  "occupation" : "Giáo tông đạo Cao Đài, tín đồ đạo Cao Đài đầu tiên, tục danh là Phủ Chiêu ",
+  "workTenure" : "Không rõ",
   "fatherName" : {
-    "Lê Dụ Tông" : 2219
+    "Ngô Văn Xuân" : null
   },
-  "motherName" : { },
+  "motherName" : {
+    "Lâm Thị Quí" : null
+  },
   "eraName" : {
-    "Nhà Lê trung hưng" : null,
-    "Nam triều – Nhà Hậu Lê – giai đoạn Lê Trung hưng" : 28
+    "Pháp đô hộ" : 11
   },
   "id" : 284,
-  "entityName" : "Lê Đế Duy Phường",
-  "aliases" : [ "Vĩnh Khánh (永慶)", "Lê Duy Phường" ],
-  "overview" : "Lê Duy Phường (1709 – 1735) hay Vĩnh Khánh đế hoặc Hôn Đức công, là vị hoàng đế thứ 12 của nhà Lê trung hưng trong lịch sử Việt Nam.\n----------------------------------------------\nLê Duy Phường (chữ Hán: 黎維祊, 1709 – 1735) hay Vĩnh Khánh Đế hoặc Hôn Đức công, là vị Hoàng đế thứ 12 của nhà Lê Trung hưng và thứ 23 của triều Hậu Lê trong lịch sử Việt Nam."
+  "entityName" : "Ngô Văn Chiêu",
+  "aliases" : [ ],
+  "overview" : "Ông sinh trưởng trong một gia đình nghèo, cha mẹ ông phải đi làm công tại nhà máy xay lúa Bình Tây. Tuổi trẻ ông rất thông minh lại nhà nghèo nên được cấp học bổng vào học tại Trường Trung học Nguyễn Đình Chiểu ở Mĩ Tho. Năm 1899 tốt nghiệp bằng Thành chung được bổ làm việc tại Sở Tân đáo Sài Gòn, nhưng đến năm 1931 thì xin thôi việc \"nhà nước\" dốc lòng vào việc tu thiền theo pháp môn Cao Đài. Ông là người khai sáng ra phái tu Chiếu minh chuyên sâu về nội tu của đạo Cao Đài. Từ năm 1930, đạo Cao Đài có khuynh hướng về chính trị và nội bộ đạo phân hóa thành nhiều hệ phái. Ông mất năm 1932 thọ 54 tuổi. Ông là tác giả một số bài thơ về giáo lí đạo Cao Đài."
 }

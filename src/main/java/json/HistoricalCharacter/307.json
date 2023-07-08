@@ -1,17 +1,16 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Kỉ Sửu 1949",
-  "hometown" : "Không rõ",
-  "occupation" : "Liệt sĩ hiện đại",
+  "dateOfBirth" : "Giáp Thân 1704",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Diên Hà, huyện Diên Hà, tỉnh Thái Bình",
+  "occupation" : "Danh sĩ đời Lê Dụ tông",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Trịnh - Nguyễn" : 34
   },
   "id" : 307,
-  "entityName" : "Nguyễn Mỹ Ca",
-  "aliases" : [ ],
-  "overview" : "Cựu học sinh trường Trung học Pétrus Ký Sài Gòn. Tuổi trẻ ông học ở Hà Nội, sau về Sài Gòn tham gia phong trào Thanh niên Tiền phong của Bác sĩ Phạm Ngọc Thạch ở Sài Gòn cùng với Trần Văn Khê, Lưu Hữu Phước, Huỳnh Văn Tiếng, sau gia nhập đảng Dân chủ Việt Nam. Sau ngày Nam Bộ kháng chiến (23-9-45) ông ra bưng biền tham gia kháng chiến ở miền Đông Nam Bộ. Năm 1948, bộ phận Thông tin tuyên truyền dời về khu 9, ông theo đơn vị về Đồng Tháp Mười rồi hi sinh trong năm 1949. Ông là đồng tác giả một số hành khúc với nhạc sĩ Lưu Hữu Phước."
+  "entityName" : "Lê Trọng Thứ",
+  "aliases" : [ "Lê Phú Thứ" ],
+  "overview" : "Năm Giáp thìn 1724, ông đỗ đồng tiến sĩ lúc 20 tuổi, làm quan đến Hữu thị lang bộ Hộ, Nhập thị Tả chính ngôn, tước Diên Phương Bá. Ông nổi tiếng văn chương, giỏi việc chính trị, nhưng không ham mê công danh, làm quan ít lâu ông xin về trí sĩ. Sau triều đình lại triệu dụng ông phải ra làm quan một thời gian nữa. Ông được thăng đến Thượng thư bộ Hình, Tước Diên Phương Hầu, từng được cử làm Giám khảo trong các khoa thi Hội. Con ông là Lê Quí Đôn, một nhà bác học nổi tiếng của văn hóa sử Việt Nam."
 }

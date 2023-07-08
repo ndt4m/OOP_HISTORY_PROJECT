@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "1919 Ân Thi, Hưng Yên",
-  "dateOfDeath" : "2011 (92 tuổi)",
-  "hometown" : "quê ở xã Phù Ủng, huyện Ân Thi, Hưng Yên.",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Mậu Thìn 1568",
+  "dateOfDeath" : "Giáp Thân 1644",
+  "hometown" : "Không rõ",
+  "occupation" : "Vợ chúa Tiên Nguyễn Họàng, mẹ Nguyễn Phúc Khê, họ Nguyễn, không rõ tên, Minh Đức là mĩ hiệu",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
   "id" : 543,
-  "entityName" : "Trần Đình Thọ",
+  "entityName" : "Minh Đức",
   "aliases" : [ ],
-  "overview" : "Trần Đình Thọ (2/10/1919- 2/2011) là một giáo sư, họa sĩ, nhà giáo nhân dân nổi tiếng quê ở xã Phù Ủng, huyện Ân Thi, Hưng Yên. Ông tốt nghiệp khóa cuối cùng của Trường Cao đẳng Mỹ thuật Đông Dương (1939-1944). Theo đánh giá của nhiều nhà nghiên cứu, họa sĩ Trần Đình Thọ thuộc thế hệ hoạ sĩ đàn anh của nền nghệ thuật tạo hình cách mạng. Nhắc đến ông là nhớ đến một hoạ sĩ của cách mạng và nhân dân."
+  "overview" : "Bà là người đâu tiên trong hoàng gia theo đạo Gia Tô, có tên thánh là Maria Madeleine do giáo sĩ Francisco di Pina hướng dẫn, từ năm Ất sửu 1625. Bà là người sùng đạo, bà có lập nhà thờ ngay trong dinh của con (Nguyễn Phúc Khê) ở Kim Long - miền phụ cận Huế - ngôi nhà thờ này đến năm Ất dậu 1645 bị con san bằng để tránh sự ngờ vực của chúa Thượng. Năm Giáp thân 1644 bà mất, thọ 76 tuổi"
 }

@@ -1,18 +1,16 @@
 {
-  "dateOfBirth" : "Giáp Dần 1854",
-  "dateOfDeath" : "Quí Mùi 1943",
-  "hometown" : "tại quê nhà ở Rạch Giá (nay là tỉnh Kiên Giang)",
-  "occupation" : "Nhân sĩ, thi gia có danh vọng, con trai danh sĩ Tuần phủ Huỳnh Mẫn Đạt, ông sinh ở Chợ Lớn (TP",
-  "workTenure" : "Không rõ",
-  "fatherName" : {
-    "danh sĩ Tuần phủ Huỳnh Mẫn Đạt" : null
-  },
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Vua",
+  "workTenure" : "?–?",
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Hồng Bàng" : 17
   },
   "id" : 2905,
-  "entityName" : "Hoàng Thúc Mại",
+  "entityName" : "Hùng Vương thứ 16",
   "aliases" : [ ],
-  "overview" : "Ông có tiếng văn học, được sĩ phu trọng vọng. Tính ông hào hiệp, nhân hậu, hay giúp đỡ kẻ cô thế, nghèo khó. Tuy sống trong thời mất nước, nhưng không xu phụ ngoại nhân, noi gương thân phụ suốt đời sống cảnh thanh bần, đạm bạc. Năm Quí mùi 1943, ông mất thọ 89 tuổi. Thơ ông còn được truyền tụng khá nhiều, cũng có lắm bài hay. Như bài Ngày xuân nhở bạn. Xuân về gió mát dựa hiên mai Nhớ bạn vào ra bước chẳng dài Ngoảnh mặt thọ vân thêm bát ngát, Chạnh lòng thương nguyệt không nguôi ngoai. Lưu Linh rượu uống thời nhiều khách, Lý Bạch ngâm thơ có mấy ai ? Ngàn dặm non sông khôn trở gót, Nôm na ít vận tỏ tình hoài."
+  "overview" : "Hùng Vương thứ XVI là một vị vua truyền thuyết của nước Văn Lang trong lịch sử Việt Nam."
 }

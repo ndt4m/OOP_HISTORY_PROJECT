@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "1410",
-  "dateOfDeath" : "1485",
-  "hometown" : "quê ở xã Quảng Bị (tên tục là làng Bợ), nay là xã Thạch Đồng, huyện Thanh Thủy, tỉnh Phú Thọ .",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
   "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "nhà Trần" : null
+  },
   "id" : 2536,
-  "entityName" : "Trần Văn Huy",
-  "aliases" : [ ],
-  "overview" : "Trần Văn Huy (1410-1485), tên thường gọi là Quan Thượng Bợ, còn được thờ với tên Đặng Hiên là nhà khoa bảng người Việt Nam, quê ở xã Quảng Bị (tên tục là làng Bợ), nay là xã Thạch Đồng, huyện Thanh Thủy, tỉnh Phú Thọ ."
+  "entityName" : "Phạm Mại",
+  "aliases" : [ "Kính Khê", "Phạm Tông Mại" ],
+  "overview" : "Phạm Mại (chữ Hán: 范邁), hay Phạm Tông Mại (范宗邁, ? - ?), hiệu: Kính Khê; là nhà thơ và là quan nhà Trần trong lịch sử Việt Nam."
 }

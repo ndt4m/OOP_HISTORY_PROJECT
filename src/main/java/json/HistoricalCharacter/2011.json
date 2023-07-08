@@ -1,14 +1,17 @@
 {
-  "dateOfBirth" : "3 tháng 5, 1883 Thiệu Hưng, Chiết Giang, Đại Thanh",
-  "dateOfDeath" : "18 tháng 6, 1950 Đài Bắc, Đài Loan",
-  "hometown" : "Không rõ",
-  "occupation" : "Phục vụ",
-  "workTenure" : "1902-1949",
+  "dateOfBirth" : "Mậu Tuất 1898",
+  "dateOfDeath" : "Giáp Dần 1974",
+  "hometown" : "quê xã Long Hựu, tỉnh Gò Công (nay thuộc huyện Gò Công, tỉnh Tiền Giang)",
+  "occupation" : "Danh tăng, nhà cải cách Phật học, tục danh là Nguyễn Văn Tài, Nguyễn Văn Sáng",
+  "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
+  },
   "id" : 2011,
-  "entityName" : "Trần Nghi",
-  "aliases" : [ "Công Hiệp", "Thoái Tố" ],
-  "overview" : "Trần Nghi (giản thể: 陈仪; phồn thể: 陳儀; bính âm: Chén Yí; tự Công Hiệp (公俠) rồi Công Hiệp (khác nghĩa) (公洽), hiệu Thoái Tố (退素); 1883 – 18 tháng 8 năm 1950) là Chủ tịch và Tổng tư lệnh Cảnh vệ (警備總司令) tỉnh Đài Loan sau khi được Nhật Bản trả về cho Trung Hoa Dân Quốc, là đại diện Đồng minh, vào năm 1945. Cách hành xử của ông trên vấn đề giữa người Đài Loan và người đại lục dẫn đến Sự kiện 28 tháng 2. Sau đó ông bị cách chức rồi bị xử tử vì tội phản bội (không liên quan đến các sự kiện tại Đài Loan)."
+  "entityName" : "Nguyễn Văn Tài",
+  "aliases" : [ "Nguyễn Văn Sáng", "Thiện Chiếu" ],
+  "overview" : "Thuở nhỏ ông học cả Tây học và Hán học, đến tuổi trưởng thành thì xuất gia học Phật ở Gò Công, Sài Gòn... Năm 1926, ông trụ trì chùa Linh Sơn, sau đó nhường trụ sở lại cho Hội Nam Kì nghiên cứu Phật học, ông về trụ trì chùa Chúc Thọ ở Gò Vấp (Gia Định). Từ năm 1922-1945 ông hằng lưu tâm đến việc chấn hưng Phật giáo, canh tân việc tu hành mong cho đạo Phật đi gần với con đường dân tộc trước nạn bị trị. Ngay từ buổi đầu ông cộng tác với hòa thượng Khánh Hòa, về sau ông đi con đường riêng của mình với chương trinh cải cách mạnh mẽ, khác đời, nên đương thời ít người theo nổi. Năm 1936, ông về Rạch Giá cộng tác với hòa thượng Trí Thiền (Nguyễn Văn Đồng) ở chùa Tam Bảo (Rạch Giá) thành lập Hội Phật học Kiêm Tế ra tạp chí Tiến Hóa hô hào cải cách Phật giáo sâu rộng, mở lớp dạy chữ Quốc ngữ miễn phí cho con em lao động, đem ánh sáng từ bi đi sâu vào đời sống xã hội. Từ năm 1940, tham gia phong trào cộng sản, năm 1942 hai ông bị chính quyền thời đó bắt lưu đày Côn Đảo (hòa thượng Trí Thiền mất ở đảo). Sau Cách mạng tháng 8 năm 1945 ông được đón về đất liền một lượt với Phạm Hùng, Hà Huy Giáp... Từ năm 1946, ông tham gia kháng chiến trong cương vị một công dân. Sau hiệp định Genève (1954) ông tập kết ra miền Bắc, đến năm 1956, ông làm chuyên gia Việt Nam tại Bắc Kinh (Trung Quốc) mãi đến năm 1961 mới về nước. Ông nghỉ hưu năm 1965 và đến năm 1974 qua đời ở Hà Nội. Trước năm 1945, Sư Thiện Chiếu trước tác nhiều sách, bài khảo luận về Phật giáo với đầu óc cải cách mạnh mẽ, tiến bộ muốn đưa tăng sĩ, giáo đồ tiến lên con đường học vấn theo Tây phương. Đương thời tên tuổi Sư Thiện Chiếu vang vọng một thời vì tính hiếu động qua ngòi bút sắc nét của ông trên tinh thần cải cách Phật học. Các tác phẩm của ông: - Phật hóa tân thanh niên - Phật giáo tổng yếu - Phật học vấn đáp (1932) - Tranh biện - Phật giáo và vô thần luận (1934) - Tôn giáo - Chân lí của đại thừa và tiểu thừa - Tại sao tôi đã cám ơn đạo Phật (1937) - Triết lí đạo Phật (dịch Kinh Lăng Nghiêm) - Cái thang Phật học (1932) - Phật pháp là Phật pháp (1934) - Kinh pháp cú Và một số tác phẩm khác về đạo Phật và xã hội hiện đại."
 }

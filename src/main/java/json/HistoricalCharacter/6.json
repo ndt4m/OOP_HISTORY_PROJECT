@@ -1,14 +1,17 @@
 {
-  "dateOfBirth" : "10 tháng 1, 1986 (31 tuổi) Hàm Đan, Hà Bắc, Trung Quốc",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
+  "dateOfBirth" : "? thôn Bảo Tháp, xã Đông Cứu, huyện Gia Bình,tỉnh Bắc Ninh\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "? Phú Thọ\n----------------------------------------------\nKhông rõ",
+  "hometown" : "huyện 3 động thuộc châu Quảng Nguyên, cho Đại Việt (nay là Việt Nam)\n----------------------------------------------\nquê ở Đông Cừu, huyện An Định, lộ Bắc Giang (trước là tỉnh Bắc Ninh, nay là tỉnh Hà Bắc)",
+  "occupation" : "Thái sư nhà Lý\n----------------------------------------------\nVăn thần đời Lý Nhân tông",
+  "workTenure" : "1085-1095\n----------------------------------------------\nKhông rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Nhà Lý" : 14,
+    "nhà Tống" : null
+  },
   "id" : 6,
-  "entityName" : "Trần Kim",
-  "aliases" : [ ],
-  "overview" : "Trần Kim (chữ Hán: 陈金, phồn thể: 陳金, bính âm: Chén Jīn; sinh 10 tháng 1 năm 1986 tại Hàm Đan, Hà Bắc, Trung Quốc) là một nam vận động viên cầu lông Trung Quốc. Anh là nhà vô địch cầu lông thế giới năm 2010, sau khi thắng Taufik Hidayat trong trận chung kết Giải vô địch cầu lông thế giới 2010 tại Paris."
+  "entityName" : "Lê Văn Thịnh",
+  "aliases" : [ "Lê Thái sư Đại vương" ],
+  "overview" : "Lê Văn Thịnh (chữ Hán: 黎文盛, 11-2-1050 - ? ), là người đỗ đầu trong khoa thi đầu tiên của Nho học Việt Nam, được bổ làm quan, dần trải đến chức Thái sư triều Lý. Năm 1084, ông thành công trong việc bàn nghị về việc cương giới với quan nhà Tống, khiến nước này phải trả lại 6 huyện 3 động thuộc châu Quảng Nguyên, cho Đại Việt (nay là Việt Nam). Tuy nhiên đến năm 1096 thì ông bị đày rồi mất, sau khi xảy ra \"Vụ án hồ Dâm Đàm\" (1095).\n----------------------------------------------\nNăm Ất mão 1075, ông đỗ Trạng nguyên khoa thi đầu tiên trong nước, liền được vua trọng dụng, phong làm Thị lang bộ Binh. Năm Giáp tí 1084, ông được cử làm Chánh sứ cùng với Nguyễn Bồi tới trại Vĩnh Bình (thuộc Châu Ung, nay thuộc tỉnh Quảng Tây) thương nghị việc biên giới, đòi nhà Tống trả lại các miếu Vật Dương, Vật Ác thuộc châu Quảng Nguyên (nay là phần đất Tây Bắc tỉnh Cao Bằng) mà Nùng Trí Cao đã đem nộp hàng nhà Tống. Cuộc tranh luận giữa ông với viên Chánh sứ nhà Tống là Thành Trạc đạt thắng lợi. Trở về nước, ông được cất lên chức Thái sư. Suốt 12 năm ở cương vị Thái sư đến năm Bính tí 1096, ông bị nghi kị có ý phản vua (sách chép chuyện hoang đường: ông hóa hổ để ám hại Lý Nhân tông khi nhà vua ra hồ Dâm Đàm - Hồ Tây), bị cách chức và đày lên miền thượng lưu sông Thao (sông Hương, Thanh Hóa). Về sau không rõ sống chết ra sao. Trong vụ hạ bệ và đày đi Lê Văn Thịnh, nhà vua ban thưởng cho Mục Thận rất hậu, kể là có công với vua. Dựa vào truyền thuyết hoang đường, vua Tự Đức vịnh: \"Văn học đô vi tiến thủ tư, Man nô tư súc nhật căng kì. Thân qua nhất kích hôn phần tán Yên hổ nguyên lai thệ Thái sư\". Bản dịch: Văn học toàn dùng để tiến thân, Học thâm tôi tớ thuật kì gian. Giáo thần ném tới tà ma hết, Hổ quỉ nguyên hình chính đại thần. Ông là tác giả một số thơ, văn sử nhưng hầu hết đã thất truyền."
 }

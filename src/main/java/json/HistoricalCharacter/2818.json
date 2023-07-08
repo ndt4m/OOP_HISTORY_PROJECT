@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "16 tháng 9 năm 1929 (88 tuổi) Hưng Yên, Việt Nam",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Thuộc",
-  "workTenure" : "1951-1975",
+  "dateOfBirth" : "Canh Thân 1800",
+  "dateOfDeath" : "Canh Ngọ 1870",
+  "hometown" : "quê xã Thu Hoạch, huyện Thiên Lộc, tỉnh Hà Tĩnh",
+  "occupation" : "Danh sĩ đời ",
+  "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
+  },
   "id" : 2818,
-  "entityName" : "Nguyễn Duy Hinh",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Duy Hinh (1929), nguyên là một tướng lĩnh gốc Kỵ Binh của Quân lực Việt Nam Cộng hòa, cấp bậc Thiếu tướng. Ông xuất thân từ khóa đầu tiên và duy nhất ở trường Sĩ quan Trừ bị do Chính phủ Quốc gia Việt Nam với sự hỗ trợ của Quân đội Pháp mở ra vào đầu thập niên 1950 tại Bắc phần Việt Nam, nhằm mục đích đào tạo sĩ quan người Việt phục vụ Quân đội Quốc gia Việt Nam trong Quân đội Liên hiệp Pháp. Ra trường ông gia nhập binh chủng Thiết giáp. Ông đã tuần tự đảm trách từ chức vụ Chi đội trưởng cho đến Chỉ huy phó binh chủng này. Sau chuyển sang lĩnh vực Quân huấn và Tham mưu. Sau cùng ông là Tư lệnh một Sư đoàn Bộ binh."
+  "entityName" : "Phan Huy Vịnh",
+  "aliases" : [ "Hàm Phủ" ],
+  "overview" : "Năm Mậu tí 1828 đỗ cử nhân, làm Chủ sự bộ Binh. Ít lâu đổi ra trấn nhậm ở các tỉnh lần thăng đến Thượng thư bộ Lễ. Hai lần đi sứ nhà Thanh (1841 và 1854), được vua Tự Đức trọng vọng tặng thơ khen ngợi. Năm Canh ngọ 1870 ông mất, thọ 70 tuổi ông có tài văn chương tương truyền bản dịch Tì bà hành của ông được truyền tụng nhiều vì ngôn ngữ trong sáng, tứ thơ thanh thoát đầy hình tượng nghệ thuật Đây là một dịch phẩm giá trị nhất trong văn học Việt Nam. Các tác phẩm của ông: - Như Thanh sứ trình (Nhật kí lần đi sứ I). -Nhâm trình tùy bút thi tập (hơn 80 bài làm trong lần đi sứ II). Như Thanh sứ trình, là tập nhật kí ghi lại cuộc hành trình từ Phú Xuân (Huế) đến Yên Kinh trong lần đi sứ năm 1841. Tác phẩm ghi lại một cách trung thực về nghi lễ ngoại giao trong các cuộc tiếp đón sứ giả, lễ vật triều cống. Bên cạnh tác giả còn ghi chép về lịch sử, địa lí, truyền thuyết dân gian các nơi mà tác giả đã đi qua. Nhân trình tùy bút thi tập là một tập thơ gồm hơn 80 bài trong lần đi sứ thứ hai mà ông là chánh sứ. Những sự việc, cảnh vật được ông ngâm vịnh là những đề tài bình thường nhưng được viết với một tâm thức tươi tắn và lòng yêu thương tạo vật dạt dào."
 }

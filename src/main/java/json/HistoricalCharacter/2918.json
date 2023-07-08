@@ -1,18 +1,17 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "1777 Đàng Trong, Đại Việt",
-  "hometown" : "Không rõ",
-  "occupation" : "Nguyễn Vương",
-  "workTenure" : "1776 - 1777",
-  "fatherName" : {
-    "Nguyễn Phúc Hạo" : null
-  },
+  "dateOfBirth" : "1704\n----------------------------------------------\nGiáp Thân 1704",
+  "dateOfDeath" : "1778\n----------------------------------------------\nMậu Tuất 1778",
+  "hometown" : "quê làng Tiên Lý, huyện Đông Thành, tỉnh Nghệ An (nay thuộc tỉnh Nghệ An)",
+  "occupation" : "Võ tướng đời Lê Hiển tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Họ Nguyễn" : null
+    "Trịnh - Nguyễn" : 34,
+    "nhà Lê" : null
   },
   "id" : 2918,
-  "entityName" : "Nguyễn Phúc Dương",
-  "aliases" : [ "Nguyễn Phúc Dương (阮福暘)", "Cung Mẫn Anh Đoán Huyền Mặc Vĩ Văn Mục Vương (恭敏英斷玄默偉文穆王)" ],
-  "overview" : "Nguyễn Phúc Dương (chữ Hán: 阮福暘; ?- 1777) là vị Chúa Nguyễn thứ 10 của Đàng Trong - vùng phía nam lãnh thổ nước Đại Việt chia cắt trong 2 thế kỷ."
+  "entityName" : "Bùi Thế Đạt",
+  "aliases" : [ ],
+  "overview" : "Bùi Thế Đạt (chữ Hán: 裴世達; 1704-1778) là tướng nhà Lê trung hưng trong lịch sử Việt Nam. Ông có công đánh dẹp các cuộc khởi nghĩa nông dân Đàng Ngoài giữa thế kỷ 18 và tham gia chiến dịch Phú Xuân 1774-1775 đánh chiếm Thuận Hóa-Quảng Nam, mở đất Đàng Ngoài; ông cũng là người vẽ bản đồ Hoàng Sa thế kỷ 18 .\n----------------------------------------------\nXuất thân là binh sĩ, lập nhiều chiến công đến năm Canh thân 1740 được làm lưu thủ Thái Nguyên, tước Đoan Nghiêm Hầu. Lúc tại chức ông lại ra sức trừ trộm cướp, rồi kiêm luôn chức Thống lĩnh Sơn Tây. Đến Đinh hợi 1767 được gia phong tước Đoàn Quận công. Năm Kỉ sửu 1769, ông bình định xong nhóm loạn ở Trận Ninh, bức Võ Văn Mật phải tự thiêu chết. Được vua Lê gia phong công thần, thăng Đại tư mã, nhưng vẫn giữ chức Đốc trấn Nghệ An. Năm Giáp ngọ 1774, ông cùng Hoàng Ngũ Phúc vào Phú Xuân ngăn chống Tây Sơn. Hai năm sau (Bính thân 1776) Hoàng Ngũ Phúc mất, ông làm Nam thùy đại tướng quân, kiêm Trấn thủ Thuận Hóa; nhưng đến tháng 8 thì Tạo Quận công Phạm Ngô Cầu lĩnh chức đại tướng ra thay, ông được triệu về kinh, gia chức Thủ phủ sự. Năm Mậu tuất 1778, có giặc biến, ông ra làm Trấn thủ Sơn Nam dẹp giặc xong, đổi làm Đốc suất Nghệ An. Ít lâu thì mất, thọ 74 tuổi, được truy tặng chức Đại tư đổ Và gia phong phúc thần. Phan Huy Chú nhận xét về ông: \"Thế Đạt là con nhà tướng, có mưu lược hành quân chuyên thận trọng, yêu sĩ tốt nhiều phen lập đại công. Triều đại bấy giờ coi là bậc tế phụ để nương tựa. Dòng dõi nhà huân thần có địa vị danh vọng cao, ông là bậc danh tướng của châu Hoan thời gần đây\"."
 }

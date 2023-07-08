@@ -1,16 +1,14 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Tân Dậu 1801",
-  "hometown" : "quê làng Thái Dương, huyện Hương Trà, tỉnh Thừa Thiên",
-  "occupation" : "Xử sĩ thời Nguyễn sơ",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "894",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
-  },
+  "eraName" : { },
   "id" : 2645,
-  "entityName" : "Hoàng Quang",
-  "aliases" : [ ],
-  "overview" : "Ông học thức uyên bác, có lần Nguyễn Huệ vời ra, ông từ chối. Họ Nguyễn Phúc muốn dùng ông, ông cũng tạ từ, ở ẩn không màng danh lợi. Ông mất khoảng năm Tân dậu 1801, văn chương ông còn được truyền tụng: Hoài Nam ca khúc (Khúc ngâm Hành Nam) dài 670 câu lục bát, thêm nhiều bài thơ Đường luật, một bài văn tế, một bài văn cáo gồm trong ca khúc ấy, và một bản dịch Chức cẩm Hồi văn của Tô Huệ. Khúc Hoài Nam được con gái Nguyễn Phúc Khoát là Ngọc Huyên sao ra truyền vào Nam. Đây là áng văn chương xuất sắc vào thời kì văn học lịch triều đang phát triển. Con ông là Hoàng Hoán được vua Gia Long vời làm quan đến chức Hữu Tham tri bộ Lại. Các hậu duệ ông đều làm quan các triều kế tiếp."
+  "entityName" : "Dương Phục Cung",
+  "aliases" : [ "Tử Khác" ],
+  "overview" : "Dương Phục Cung (giản thể: 杨复恭; phồn thể: 楊復恭, ? - 894), tên tự Tử Khác (子恪), là một hoạn quan nhà Đường. Ông đóng vai trò chủ chốt trong triều đình của Đường Hy Tông và Đường Chiêu Tông. Sau đó ông bị Đường Chiêu Tông nghi ngờ chiếm đoạt quyền lực nên bị loại bỏ, vì thế ông quay sang khuyến khích con nuôi và cháu nuôi của mình cùng nổi dậy chống triều đình. Tuy nhiên, họ đã bị tướng Lý Mậu Trinh đánh bại, rồi bị bắt giữ trong lúc chạy trốn, cuối cùng bị hành hình tại Trường An."
 }

@@ -1,14 +1,16 @@
 {
   "dateOfBirth" : "Không rõ",
   "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "hometown" : "quê xã Nông Sơn, huyện Điện Bàn, tỉnh Quảng Nam",
+  "occupation" : "Liệt sĩ đời Lê Anh tông",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
   "id" : 2702,
-  "entityName" : "Phạm Sư Ôn",
+  "entityName" : "Đào Bí",
   "aliases" : [ ],
-  "overview" : "Phạm Sư Ôn (chữ Hán: 范師温) là nhà sư nổi tiếng của đất Quốc Oai (Hà Nội). Sư chuẩn bị khởi nghĩa vào năm 1390."
+  "overview" : "Tính ông dũng cảm, có nghĩa khí, giỏi võ nghệ, được bổ làm Đồng Tổng tri ở huyện Hải Khang. Trong vùng ông trị nhậm nhân dân sống yên ổn khỏi lo trộm cướp khuấy nhiễu. Gặp khi trong nước có nhiều biến loạn, ông có công đánh dẹp, triều đình càng trọng dụng. Khi ông mất, được phong Phúc thần."
 }

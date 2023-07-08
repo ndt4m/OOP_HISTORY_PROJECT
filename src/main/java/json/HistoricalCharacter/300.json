@@ -1,20 +1,14 @@
 {
-  "dateOfBirth" : "Bính Tí 1696\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "Mậu Ngọ 1738\n----------------------------------------------\nKhông rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Chúa thứ bảy thời Nguyễn sáng nghiệp, ông là con trưởng của Chúa Nguyễn Phúc Chu, sinh năm Bính tí 1696. Khi trưởng thành có tài văn võ, được trao chức Cai cơ tước Đĩnh Thịnh Hầu.\n----------------------------------------------\nChúa",
-  "workTenure" : "1725—1738",
-  "fatherName" : {
-    "của Chúa Nguyễn Phúc Chu" : null,
-    "Chúa Minh" : null
-  },
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "606",
+  "hometown" : "người đất Hoa Âm, Hoằng Nông (nay thuộc tỉnh Thiểm Tây)",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
   "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34,
-    "Đàng Trong - Chúa Nguyễn" : 5
-  },
+  "eraName" : { },
   "id" : 300,
-  "entityName" : "Nguyễn Phúc Trú",
-  "aliases" : [ "Ninh Vương" ],
-  "overview" : "Năm Ất tị 1725 Nguyễn Phúc Chu mất, ông đúng 29 tuổi được nối ngôi, các quan tôn là Thái phó, Đĩnh Quốc Công, hiệu là Vân Tuyền đạo nhân, đương thời gọi là Ninh vương. Năm Nhâm tí 1732,ông đặt châu Định Viễn, tập dinh Long Hồ tức Vĩnh Long (bây giờ thuộc tỉnh Vĩnh Long), đưa dân đến lập nghiệp thành một vùng trù phú của đất nước. Năm Ất mão 1735, Tổng binh Hà Tiên Mạc Cửu mất, con là Mạc Thiên Tích kế tục sự nghiệp cha được ông phong làm Tổng binh Đại đô đốc trấn Hà Tiên trông coi biên thùy phía Tây Nam tổ quốc. Năm Mậu ngọ, Vĩnh Hựu thứ 4 đời Lê Ý tông (1738) ông mất, hưởng dương 43 tuổi ở ngôi được 13 năm, an táng ở làng Định Môn, tỉnh Thừa Thiên, triều thần đăng thụy hiệu là Đại Đô thống Tổng quốc chính Đĩnh Ninh vương, truy tôn là Túc tông Hiếu Minh hoàng đế.\n----------------------------------------------\nNguyễn Phúc Chú (chữ Hán: 阮福澍, 1697-1738) hay Trú hay Thụ còn được gọi là Nguyễn Túc Tông, là vị chúa Nguyễn thứ bảy của chính quyền Đàng Trong trong lịch sử Việt Nam (ở ngôi từ 1725 đến 1738), nối ngôi Chúa Nguyễn Phúc Chu."
+  "entityName" : "Dương Tố",
+  "aliases" : [ "Xử Đạo" ],
+  "overview" : "Dương Tố (chữ Hán: 楊素; ? - 606) tên chữ là Xử Đạo (處道), người đất Hoa Âm, Hoằng Nông (nay thuộc tỉnh Thiểm Tây), là quyền thần triều Tùy, có công lớn mà cũng có tội lớn trong lịch sử Trung Quốc."
 }

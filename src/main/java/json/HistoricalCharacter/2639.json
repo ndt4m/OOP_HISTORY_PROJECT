@@ -1,17 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
+  "dateOfBirth" : "Nhâm Ngọ 1642",
   "dateOfDeath" : "Không rõ",
-  "hometown" : "xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách, tỉnh Hải Dương, Việt Nam).\n----------------------------------------------\nKhông rõ",
-  "occupation" : "Hoàng đế Đại Việt (nhà Mạc thời hậu kì)\n----------------------------------------------\nVua lưu vong cuối cùng của nhà Mạc, có sách chép là Kính Hoàn, con Khánh vương Kính Khoan.",
-  "workTenure" : "1638 – 1677\n----------------------------------------------\nKhông rõ",
+  "hometown" : "quê làng Liêu Xá",
+  "occupation" : "Danh sĩ đời Lê Hy tông",
+  "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34,
-    "Nhà Mạc" : 18
+    "Trịnh - Nguyễn" : 34
   },
   "id" : 2639,
-  "entityName" : "Mạc Kính Vũ",
-  "aliases" : [ "Mạc Kính Hoàn", "Niên hiệu Thuận Đức (1638 – 1677)", "Mạc Kính Vũ Mạc Kính Hoàn" ],
-  "overview" : "Mạc Kính Vũ (chữ Hán: 莫敬宇) là vua nhà Mạc thứ 10 và là vua cuối cùng thời hậu kỳ, khi đã rút lên Cao Bằng. Nguyên quán cha Mạc Kính Khoan là người xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách, tỉnh Hải Dương, Việt Nam).\n----------------------------------------------\nNăm Mậu dần 1638, tháng giêng âm lịch, Kính Khoan mất, đến tháng 3 ông lên nối nghiệp quyết liệt phản kháng nhà Lê, không chịu thần phục nữa như cha ông đã qui thuận. Ông cùng người trong tôn thất là Kính Miên vẫn hùng cứ Cao Bằng, đánh nhau nhiều trận với binh tướng vua Lê chúa Trịnh. Dù ông cố gắng quật khởi, đời ông là vua cuối cùng của nhà Mạc. Sau khi ông mất, con cháu và dư đảng không còn làm nên chuyện lớn lao gì được. Đinh tị 1677, chúa Trịnh đem quân tổng tấn công vùng Cao Bằng, chém giết dữ dội, nhà Mạc thật sự cáo chung kể từ đấy."
+  "entityName" : "Lê Hữu Danh",
+  "aliases" : [ "Xuân Am" ],
+  "overview" : "Năm Canh tuất 1670, ông đỗ Hoàng giáp, 28 tuổi, làm quan đến Hiến sát sứ, được phong tước Uyên Bá. Ông nổi tiếng văn học, tài đức được sĩ phu trọng vọng. Các con cháu ông đều có danh vọng, đặc biệt cháu nội ông Lê Hữu Trác (con Lê Hữu Mưu) về sau trở nên vị tổ của ngành Đông y nước nhà. Con trai ông - tiến sĩ Lê Hữu Mưu có soạn sách Văn xá Lê."
 }

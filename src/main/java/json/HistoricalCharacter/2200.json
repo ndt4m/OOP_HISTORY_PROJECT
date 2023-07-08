@@ -1,14 +1,18 @@
 {
-  "dateOfBirth" : "1857",
-  "dateOfDeath" : "1914",
+  "dateOfBirth" : "?",
+  "dateOfDeath" : "1005, Thạch Hà, Nghệ An",
   "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "occupation" : "Đông Thành Vương",
+  "workTenure" : "989 - 1005",
+  "fatherName" : {
+    "Lê Đại Hành" : 2974
+  },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Nhà Tiền Lê" : 8
+  },
   "id" : 2200,
-  "entityName" : "Nguyễn Như Khuê",
-  "aliases" : [ "Phác Đình", "Chương Chu" ],
-  "overview" : "Nguyễn Thần Hiến (1857-1914), tự: Phác Đình , hiệu: Chương Chu; là người đã sáng lập ra \"Quỹ Khuyến Du học hội\" nhằm vận động và hỗ trợ cho học sinh sang Nhật Bản học, là một trong những nhà cách mạng tiên phong trong phong trào Đông Du ở miền Nam và là một nhà chí sĩ cận đại Việt Nam."
+  "entityName" : "Lê Long Tích",
+  "aliases" : [ "Lê Long Tích Lê Ngân Tích", "Đông Thành Đại Vương" ],
+  "overview" : "Lê Long Tích (chữ Hán: 黎龍錫; ? - 1005) là con thứ hai của Lê Đại Hành. Sinh thời ông được nhận tước phong là Đông Thành vương (東城王). Hiện còn 2 di tích riêng thuộc cố đô Hoa Lư tỉnh Ninh Bình là nơi thờ Đông Thành Vương Lê Ngân Tích."
 }

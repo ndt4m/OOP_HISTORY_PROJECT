@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "1910",
-  "dateOfDeath" : "1953",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Nhâm Ngọ 1882",
+  "dateOfDeath" : "Nhâm Thân 1932",
+  "hometown" : "quê làng Điều Hòa, châu thành Mĩ Tho, tỉnh Mĩ Tho (nay thuộc tỉnh Tiền Giang)",
+  "occupation" : "Chí sĩ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
+  },
   "id" : 774,
-  "entityName" : "Huỳnh Thiện Lộc",
-  "aliases" : [ ],
-  "overview" : "Huỳnh Thiện Lộc (1910 - 1953) là một kỹ sư nông nghiệp, nhà tư bản dân tộc và chính trị gia Việt Nam."
+  "entityName" : "Mai Văn Ngọc",
+  "aliases" : [ "Mai Bạch Ngọc" ],
+  "overview" : "Khi tiếp xúc với Nguyễn An Ninh, Phan Văn Hùm, ông nồng nhiệt tán thưởng chủ thuyết Cao vọng thanh niên của Nguyễn An Ninh và lập trường chống Pháp của Phan, Nguyễn. Do đó, về sau Phan Văn Hùm trở nên con rể ông. Lúc Nguyễn An Ninh bị bắt, mấy lần, ông bị mật thám theo dõi gắt gao rồi bị bắt về giam tại Khám lớn Sài Gòn cuối năm 1931. Đến năm 1932, vì không có bằng chứng, buộc lòng Pháp phải thả ông ra. Sau đó ông cùng một số đồng chí trốn sang Thái Lan, nhưng vừa đến Pácxế (Lào) ông bị Pháp phục kích bắn chết, hưởng dương 50 tuổi. Hồi còn sinh tiền khi bàn về nhân tính ông có mấy vần thơ bình dị mà sâu sắc về cái \"hư nên\" của con người nói chung: Thế giói bổn vô chân ác mĩ Nhân tâm đồ tự vọng thanh ô. Nhược giao đạo đức tùy nhơn đạo Tranh chấp tùng tư hữu sở do."
 }

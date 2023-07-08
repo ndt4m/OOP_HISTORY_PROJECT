@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Ất Mão 1915",
-  "dateOfDeath" : "Quí Mùi 1943",
-  "hometown" : "quê làng Nghĩa Đô, ngoại thành Hà Nội",
-  "occupation" : "Nhà văn",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Thịnh Cuông, huyện Chân Định, trấn Sơn Nam, sau là Trực Ninh, tỉnh Nam Định (nay vẫn thuộc Nam Định)",
+  "occupation" : "Danh sĩ đời Lê mạt",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11
+    "Trịnh - Nguyễn" : 34,
+    "Nam - Bắc Triều" : 19,
+    "Triều Lê Sơ" : 7
   },
   "id" : 2429,
-  "entityName" : "Vũ Trọng Can",
+  "entityName" : "Lê Đản",
   "aliases" : [ ],
-  "overview" : "Xuất thân trong một gia đình truyền thống Nho học, thân phụ là ông Vũ Năng Tĩnh một bậc túc nho ở Hà Nội. Những năm 30-40 ở thế kỉ XX, ông tham gia viết văn, làm báo cùng các bạn văn Lê Tràng Kiều, Bùi Huy Phồn, Nguyễn Bính lập tuần báo Tiểu thuyết thứ năm. Ông giữ chức biên tập kiêm thư kí tòa soạn báo, công tác với Hà Nội báo. Ông cũng là người từng lập ban kịch Hà Nội lưu diễn tại các tỉnh miền Bắc và bắc Trung Bộ (Huế). Phần lớn tiểu thuyết ông thuộc khuynh hướng lãng mạn. Các tác phẩm chính: - Nước mắt người đàn bà (Tiểu thuyết, Hương Sơn XB, 1940) - Sự động cỡn của đàn bà (Tiểu thuyết, Hà Nội XB, 1940) - Tâm lí ái tình (Tiểu thuyết, Minh Phương XB, 1940) - Người em sầu mộng (Tiểu thuyết, Cộng Lực XB, 1941) - Tang tóc (Tiểu thuyết, Tân Việt XB, 1942) - Dã tràng xe cát (truyện, Hà Nội XB, 1942) - Người Chiến Quốc liệt truyện (truyện, Đời Mới XB, 1943) - Cái tủ chè (kịch, 1943) Ông mất vì bệnh cấp tính tại quê nhà trong năm 1943 lúc đang độ sáng tác sung sức."
+  "overview" : "Khi nhà Nguyễn thành lập, khoảng năm 1807, ông làm Đốc trấn Lạng Sơn, và được cử làm Giám thị trường thi Hiến Nam (trường thi này đặt ở bãi sông xã Hoa Dương, làng Kim Động, tỉnh Hưng Yên nay thuộc Hải Dương). Ông có soạn quyển Nam Hà tiệp lục. Sách chép lược sử các chúa Nguyễn ở miền Nam từ gốc tích đến năm Gia Long thứ 3 (1804)."
 }

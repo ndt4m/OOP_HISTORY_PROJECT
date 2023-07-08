@@ -1,17 +1,21 @@
 {
-  "dateOfBirth" : "Bính Ngọ 1906",
-  "dateOfDeath" : "Kỉ Dậu 1969",
-  "hometown" : "quê huyện Mỏ Cày, tỉnh Bến Tre (nay vẫn thuộc tỉnh Bến Tre)",
-  "occupation" : "Họa sư, sáng lập viên trường Cao đẳng Mĩ thuật Gia Định",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
+  "dateOfBirth" : "26 tháng 7, 1507 Đông Kinh\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "15 tháng 6, 1527 (19 tuổi) Tây cung, Đông Kinh, Đại Việt\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua",
+  "workTenure" : "22 tháng 7 năm 1522 – 15 tháng 6 năm 1527 (4 năm, 328 ngày)\n----------------------------------------------\n1522–1527",
+  "fatherName" : {
+    "Lê Minh Tông" : null
+  },
+  "motherName" : {
+    "Trịnh Thị Loan" : null
+  },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Nhà Hậu Lê – giai đoạn Lê sơ" : 20,
+    "Nhà Lê sơ" : null
   },
   "id" : 1531,
-  "entityName" : "Lê Văn Đệ",
-  "aliases" : [ ],
-  "overview" : "Thuở nhỏ học tại Sài Gòn, sau khi tốt nghiệp Trung học ông ra Hà Nội thi vào học trường Cao Đẳng Mĩ thuật Đông Dương. Năm 1930 tốt nghiệp, ông tiếp tục du học ở châu Âu (Pháp - Ý), năm 1936 đoạt giải Roma nên Giáo hội La Mã mời ông trang trí điện Vatican, được Giáo hoàng Pie XI tặng thưởng Giáo hoàng Bội tinh. Khoảng năm 1938 ông về nước, dạy tại trường Cao đẳng Mĩ thuật Đông Dương tại Hà Nội, ông cho lập Trung tâm nghệ thuật Việt Nam vào năm 1939 nơi hội tụ nhiều khuôn mặt lớn của giới hội họa Việt Nam, như Nguyễn Gia Trí, Tô Ngọc Vân, Trần Văn Cẩn... Sau năm 1954 có lúc ông làm Giám đốc và giảng dạy tại Trường Cao Đẳng Mĩ thuật Gia Định. Ông mất năm 1969 thọ 63 tuổi. Ông là tác giả nhiều họa phẩm có giá trị."
+  "entityName" : "Lê Cung Hoàng",
+  "aliases" : [ "Lê Xuân (黎椿)", "Cung Hoàng đế (恭皇帝)", "Thống Nguyên (統元)" ],
+  "overview" : "Lê Cung Hoàng (chữ Hán: 黎恭皇; 26 tháng 7, 1507 – 15 tháng 6, 1527), là vị hoàng đế thứ 11 của nhà Hậu Lê, ở ngôi từ năm 1522 đến 1527, tổng cộng 5 năm. Ông là vị hoàng đế cuối cùng của nhà Lê sơ.\n----------------------------------------------\nLê Cung Hoàng (chữ Hán: 黎恭皇 26 tháng 7 năm 1507 – 15 tháng 6 năm 1527) là vị hoàng đế thứ 11 của nhà Hậu Lê, ở ngôi từ năm 1522 đến 1527, tổng cộng 5 năm với niên hiệu Thống Nguyên. Ông là vị hoàng đế cuối cùng của nhà Lê sơ."
 }

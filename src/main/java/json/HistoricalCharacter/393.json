@@ -1,17 +1,16 @@
 {
-  "dateOfBirth" : "Giáp Tí 1924",
-  "dateOfDeath" : "Nhâm Ngọ 2002",
-  "hometown" : "tại thị xã Hội An, huyện Điện Bàn, tỉnh Quảng Nam",
-  "occupation" : "Nhà văn",
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Một trong năm cao sĩ đời Trần ",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Nhà Trần" : 15
   },
   "id" : 393,
-  "entityName" : "Lê Võ Đài",
-  "aliases" : [ "Lê Võ Đài", "Minh Hương" ],
-  "overview" : "Thuở nhỏ học ở Hội An, đến năm 20 tuổi ông theo gia đình vào lập nghiệp ở Sài Gòn với nhiều nghề như y tá, dạy tư, viết báo. Sau Cách mạng tháng 8 năm 1945, ông tham gia Cách mạng làm cán bộ Đoàn trường Thanh niên, Học sinh Cứu quốc Sài Gòn - Chợ Lớn, nguyên cán bộ Sở Giáo dục TP. HCM. Những năm 1950-1975 ông là cộng tác viên với các báo: Việt Nam học đường, Tiếng chuông, Tiến Bộ... tại Sài Gòn. Sau năm 1975 ông cộng tác với các báo Sài Gòn giải phóng, Tuổi trẻ... và các báo khác. Các tác phẩm chính (hầu hết đều văn xuôi): - Ba cái dại (1957) - Người đẹp miền băng tuyết (1972) - Thế giới kì lạ của loài ong (1972) - Hoa đồng cỏ nội (1975) - Hội An quê tôi (1995) - Nhớ Sài Gòn I, II (1995) Ông mất ngày 28 tháng 10 năm 2002 tại TP. HCM."
+  "entityName" : "Đặng Tảo",
+  "aliases" : [ ],
+  "overview" : "Ông nổi tiếng thơ văn, nhưng ông cho sủng lộc làm cay đắng khó chịu cho nguời nên chẳng cầu tiến thân, cam tâm ở chốn ruộng vườn. Các vua Trần rất kính mến khí tiết ông, vẫn thường cho nguời lui tới, thăm viếng và những khi có việc nước quan trọng đều hỏi ý kiến ông. Ông nghiễm nhiên đóng vai trò cố vấn nhưng cương quyết từ chối tất cả bổng lộc của triều đình. Ông tình nguyện làm người thắp hương và coi sócThái lăng (lăng vua Trần Anh tông) ở núi An Sinh. Mỗi khi Trần Minh tông (con Anh tông) lên thăm lăng, ông thường lánh mặt. Nhà vua cảm nghĩa ông, ban cho 20 mẫu ruộng. Nhưng ruộng đó trước kia vua đã cho bà thứ phi là Thiên Xuân. Ông cũng không đòi để lấy lại như vua đã ban. Bạn ca của ông là Lê Trung rất cảm nghĩa ông, bán hết cả nhà cửa ruộng đất rồi đem gia quyến đến ở với ông tại núi An Sinh. Sau cả hai đều mất ở đấy. Vua Trần Nghệ tông sắc tứ hai chữ \"Trung tiết\" đề ở ngôi nhà của hai ông."
 }

@@ -1,17 +1,19 @@
 {
-  "dateOfBirth" : "Mậu Thân 1908",
-  "dateOfDeath" : "Ất Mão 1975",
-  "hometown" : "tại Hà Nội",
-  "occupation" : "Giáo sư, Bộ trưởng bộ Giáo dục chính phủ Việt Nam dân chủ cộng hòa",
+  "dateOfBirth" : "Canh Tí 1900",
+  "dateOfDeath" : "Đinh Dậu 1957",
+  "hometown" : "quê làng Bình Thành, tỉnh Gò Công (nay thuộc tỉnh Tiền Giang) con ông Hồ Hữu Tạo, em ruột nhà tiểu thuyết Hồ Biểu Chánh tức Hồ Văn Trung",
+  "occupation" : "Nhà văn, kí giả",
   "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "fatherName" : {
+    "Hồ Hữu Tạo" : null
+  },
   "motherName" : { },
   "eraName" : {
     "Pháp đô hộ" : 11,
     "Nước Việt Nam mới" : 29
   },
   "id" : 118,
-  "entityName" : "Nguyễn Văn Huyên",
-  "aliases" : [ ],
-  "overview" : "Sau Cách mạng tháng Tám 1945 ông làm Giám đốc Vụ Đại học kiêm Giám đốc Viện Đông phương Bác cổ Hà Nội. Từ tháng 11-1946 được Quốc hội và chính phủ cử làm Bộ trưởng Bộ Giáo dục, và giữ nhiều chức vụ quan trọng khác: - Đại biểu Quốc hội khóa II, III, IV, V. - Ủy viên đoàn chủ tịch ủy ban trung ương Mặt trận tổ quốc Việt Nam. - Phó hội trưởng Hội Hữu nghị Việt - Trung. - Phó hội trưởng Hội Sử học. - Ủy viên ủy ban Khoa học và kĩ thuật Nhà nước. Ông đã tham gia nhiều phái đoàn Chính phủ đi đàm phán với các nước. Do công lao của mình ông được Quốc hội và chính phủ tặng thưởng Huân chương kháng chiến hạng Nhất và truy tặng Huân chương Độc lập hạng Nhất. Ông là con rể tổng đốc Vi Văn Định, anh em cột chèo với Giáo sư Hồ Đắc Di. Năm Ất mão 1975, ngày 19-10 Dương lịch, ông mất khi lâm bệnh ở nước Cộng hòa Dân chủ Đức. Lễ tang tổ chức long trọng tại Hà Nội."
+  "entityName" : "Hồ Văn Hiến",
+  "aliases" : [ "Hồ Văn Trung", "Viên Hoành" ],
+  "overview" : "Sau Cách mạng tháng Tám, ông vẫn còn viết trên báo Dân quyền, Trời Nam, Tiếng dội, đôi khi viết văn kiếm hiệp mạo hiểm, trào phúng, nhi đồng, kí dưới bút hiệu Viên Tiểu thơ. Ông sống bình dị, có tình nghĩa, các bạn văn đều mến. Lại nữa, chữ viết đẹp, văn chương trong sáng, trọng đạo lí, nên được quí trọng nhiều. Ngày 7-12-1957 ông mất tại Sài Gòn, nơi nhà người con trưởng của ông là Hồ Văn Tòng, hưởng dương 57 tuổi."
 }

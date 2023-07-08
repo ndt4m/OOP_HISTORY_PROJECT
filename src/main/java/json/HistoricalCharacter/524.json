@@ -1,17 +1,18 @@
 {
-  "dateOfBirth" : "Canh Thân 1920",
-  "dateOfDeath" : "Canh Dần 1950",
-  "hometown" : "quê xã Long Thuận, tỉnh Gò Công cũ (nay là huyện Gò Công Đông, tỉnh Tiền Giang)",
-  "occupation" : "Liệt sĩ hiện đại ",
+  "dateOfBirth" : "Mậu Ngọ 1498",
+  "dateOfDeath" : "Ất Tị 1545",
+  "hometown" : "quê làng Định Công, huyện Thanh Trì",
+  "occupation" : "Danh thần nhà Mạc, con thứ hai Quảng Quốc Công Bùi Xương Trạch",
   "workTenure" : "Không rõ",
-  "fatherName" : { },
+  "fatherName" : {
+    "Quảng Quốc Công Bùi Xương Trạch" : null
+  },
   "motherName" : { },
   "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+    "Nam - Bắc Triều" : 19
   },
   "id" : 524,
-  "entityName" : "Huỳnh Đình Hai",
-  "aliases" : [ "Hai Râu" ],
-  "overview" : "Xuất thân trong một gia đình nông nghiệp, lên Sài Gòn làm công nhân, tham gia hoạt động cách mạng trong tổ chức công đoàn, tích cực hoạt động cướp chính quyền tại Sài Gòn ngày 24- 8-1945. Tiếp đến cuộc kháng chiến chống Pháp, ông được tổ chức giao nhiều chức vụ quan trọng như Tham mưu trưởng lực lượng công đoàn xung phong, ủy viên ủy ban kháng chiến đâu tiên của thành phố, Thành đội trưởng Thành đội dân quân Sài Gòn. Ông hi sinh ngày 10-3-1950 tại Thủ Đức."
+  "entityName" : "Bùi Vịnh",
+  "aliases" : [ ],
+  "overview" : "Năm Mậu thìn 1532 đời Mạc Đăng Doanh, ông 34 tuổi ra thi đỗ Phó bảng, thi ứng chế cũng đỗ đầu. Làm quan đến Tả thị lang bộ Hộ, kiêm Tả thuyết thư ở Tả xuân phường, rồi bổ Đông các đại học sĩ, tước Mai Lĩnh hầu, sau thăng tước Mai Quận công. Năm Ất tị 1545, ông mất, thụy là Trung Hiến. Con ông là Bùi Bỉnh Uyên cũng là bậc nhân tài. Thơ phú để lại, có hai bài phú Đế đô hình thắng và Cung trung bảo huấn còn truyền. Bài Đế đô hình thắng do vua Mạc sai làm. Bài Cung trung bảo huấn là lời dạy hai người cháu gái - con của anh ông là Diễn Quận công Bùi Trụ vào hầu trong cung vua Mạc."
 }

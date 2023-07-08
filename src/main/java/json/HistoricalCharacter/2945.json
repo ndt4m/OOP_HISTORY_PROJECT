@@ -1,16 +1,17 @@
 {
-  "dateOfBirth" : "Canh Tí 1600",
-  "dateOfDeath" : "Tân Sửu 1661",
-  "hometown" : "quê làng Quất Động, huyện Thường Phúc, tỉnh Hà Đông (nay là Hà Tây) nguời đời Lê Chiêu tông, đỗ tiến sĩ đời Lê Chiêu tông (1643-1649)",
-  "occupation" : "Vị tổ nghề thêu Việt Nam, quê làng Quất Động, huyện Thường Phúc, tỉnh Hà Đông (nay là Hà Tây) nguời đời Lê Chiêu tông, đỗ tiến sĩ đời Lê Chiêu tông ",
+  "dateOfBirth" : "1894 Đông Anh, Hà Nội\n----------------------------------------------\nGiáp Ngọ 1894",
+  "dateOfDeath" : "1954\n----------------------------------------------\nGiáp Ngọ 1954",
+  "hometown" : "Sinh quán ở Mai Lâm, huyện Đông Anh, Hà Nội (trước thuộc tỉnh Bắc Ninh)",
+  "occupation" : "Nhà văn, nhà báo, dịch giả\n----------------------------------------------\nNhà văn, nhà báo",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
   "eraName" : {
-    "Trịnh - Nguyễn" : 34
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
   "id" : 2945,
-  "entityName" : "Lê Công Hạnh",
-  "aliases" : [ "Trần Quốc Khái" ],
-  "overview" : "Ông nguyên là một đại thần, làm đến thượng thư khi đi sứ Trung Quốc, ông lưu tâm quan sát công kĩ nghệ nước ngoài, chú ý nhiều đến nghề thêu. Do đó, khi trở về nước, ông chỉ báo cho nhân dân trong vùng Hướng Dương, Võ Lăng, Đào Xá cố công học tập nghề thêu đan. Sau khi ông mất, nhân dân các tỉnh Hà Đông, Hà Nội tưởng niệm ông, suy tôn ông làm tổ nghề thêu đan nước ta."
+  "entityName" : "Ngô Tất Tố",
+  "aliases" : [ "Thôn Dân", "Phó Thi", "Tuệ Nhân", "Thục Điếu" ],
+  "overview" : "Ngô Tất Tố (1894 – 20 tháng 4 năm 1954) là một nhà văn, nhà báo, nhà Nho học và nhà nghiên cứu có ảnh hưởng ở Việt Nam giai đoạn trước 1954.\n----------------------------------------------\nÔng viết văn, làm báo. Khoảng năm 1927-1929 ông vào Nam cộng tác với các báo Đông Pháp thời báo, Thần Chung... Rồi trở ra Bắc, chuyên tâm sáng tác, nghiên cứu văn học, sử học, triết học, nổi tiếng trong làng báo, làng văn trong thời 1930-1945. Ông nhiệt thành yêu nước, tham gia kháng chiến, tích cực hoạt động đóng góp tâm huyết trong cuộc kháng Pháp cứu nước. Năm Giáp ngọ 1954, tháng 4 Dương lịch ông mất tại Nhã Nam, Hà Bắc, thọ 60 tuổi. Các tác phẩm chính của ông: Văn - Tắt đèn (1939), tiểu thuyết - Việc làng (1941), tiểu thuyết - Lều chõng (1941), tiểu thuyết - Lịch sử Đề Thám (1935), tiểu thuyết lịch sử cùng viết - Vua Hàm Nghi và việc kinh thành thất thủ (1935), tiểu thuyết lịch sử - Văn học Việt Nam (1942) - Gia Định Tổng trân tả quân Lê Văn Duyệt (1937), tiểu thuyết lịch sử - Thi văn bình chú (tài liệu văn học), Nhà xuất bản Đỗ Xuân Mai, 1941 - Phê bình Nho giáo của Trần Trọng Kim (1940) Dịch - Cẩm Hương đình - Đường thi (1940) - Kinh Dịch (1943) Sau 1945 - Trời hửng - Doãn Thanh Xuân - Trước lửa chiến đấu - Suối thép (1951-1952) (dịch) - Bùi Thị Phác (1952), chèo Bộ Văn học Việt Nam do ông khởi thảo mới viết được hai đời là: Văn học đời Lý (1942) và Văn học đời Trần (1942) đều là phần văn học viết bằng chữ Hán do tiền nhân ta soạn thuật."
 }

@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "16 tháng 11, 1939 (78 tuổi) Hải Hậu, Nam Định, Việt Nam",
-  "dateOfDeath" : "1997",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
+  "dateOfBirth" : "Bính Ngọ 1906",
+  "dateOfDeath" : "Canh Ngọ 1930",
+  "hometown" : "quê xã Xuân Tường, huyện Thanh Chương, tỉnh Nghệ An",
+  "occupation" : "Liệt sĩ hiện đại",
   "workTenure" : "Không rõ",
   "fatherName" : { },
   "motherName" : { },
-  "eraName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
+  },
   "id" : 463,
-  "entityName" : "Nguyễn Châu",
+  "entityName" : "Nguyễn Công Thường",
   "aliases" : [ ],
-  "overview" : "Nguyễn Châu (1939-), là một nhà vật lý người Việt Nam, Tiến sĩ khoa học, Giáo sư vật lý của trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội, nguyên là Phó chủ tịch Hội Vật lý Việt Nam các khóa 3 (1991-1997), 4 (1997-2002) và 5 (2002-2007); đồng thời là Chủ tịch Hội Khoa học Vật liệu Việt Nam từ năm 2003 đến năm 2008. Ông là chuyên gia trong lĩnh vực từ học và vật liệu từ ở Việt Nam thuộc chuyên ngành vật lý chất rắn và khoa học vật liệu."
+  "overview" : "Ông hi sinh trong cuộc biểu tình ngày 1-9-1930 ở huyện Thanh Chương tại bến đò Nguyệt Bổng trong cao trào Xô Viết Nghệ Tĩnh hồi đầu thế kỉ XX. Ngày rằm tháng 7 năm Canh ngọ 1930 (một tuần sau ngày 1-9-1930) đồng bào tổng Xuân Lâm làm lễ truy điệu ông. Ông Nguyễn Phùng Bá (thầy Tớc) có bài văn điếu rất thống thiết."
 }
