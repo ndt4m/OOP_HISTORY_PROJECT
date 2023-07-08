@@ -38,28 +38,16 @@ public class MainController {
     private Button trangchu;
 
     
-    
-    
-    @FXML
-    private FXMLLoader loadChar = new FXMLLoader(getClass().getResource("/newApp/fxml/Character.fxml"));
-
-    
     @FXML
     private FXMLLoader loadHomePage = new FXMLLoader(getClass().getResource("/newApp/fxml/trangchu.fxml"));
 
-    
-    @FXML
-    private FXMLLoader loadDiTich = new FXMLLoader(getClass().getResource("/newApp/fxml/DiTich.fxml"));
 
-    @FXML
-    private FXMLLoader loadEra = new FXMLLoader(getClass().getResource("/newApp/fxml/Era.fxml"));
+
 
     
-    @FXML
-    private FXMLLoader loadEvent = new FXMLLoader(getClass().getResource("/newApp/fxml/Event.fxml"));
     
-    @FXML
-    private FXMLLoader loadFes = new FXMLLoader(getClass().getResource("/newApp/fxml/Festival.fxml"));
+    
+
     
     
     private BorderPane characterBox;
@@ -72,26 +60,61 @@ public class MainController {
     
     @FXML
     void EraPressed(ActionEvent event) {
+    	FXMLLoader loadEra = new FXMLLoader(getClass().getResource("/newApp/fxml/Era.fxml"));
+    	try {
+			eraBox = loadEra.load();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
     	main.setCenter(eraBox);
     }
 
     @FXML
     void HisSitePressed(ActionEvent event) {
+    	FXMLLoader loadDiTich = new FXMLLoader(getClass().getResource("/newApp/fxml/DiTich.fxml"));
+    	try {
+			diTichBox = loadDiTich.load();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		main.setCenter(diTichBox);
     }
     
     @FXML
     void characterPressed(ActionEvent event) {
+    	FXMLLoader loadChar = new FXMLLoader(getClass().getResource("/newApp/fxml/Character.fxml"));
+    	try {
+			characterBox = loadChar.load();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		main.setCenter(characterBox);
     }
 
     @FXML
     void eventPressed(ActionEvent event) {
+    	FXMLLoader loadEvent = new FXMLLoader(getClass().getResource("/newApp/fxml/Event.fxml"));
+    	try {
+			eventBox = loadEvent.load();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
     	main.setCenter(eventBox);
     }
 
     @FXML
     void festivalPressed(ActionEvent event) {
+        FXMLLoader loadFes = new FXMLLoader(getClass().getResource("/newApp/fxml/Festival.fxml")); 	
+		try {
+			fesBox = loadFes.load();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
     	main.setCenter(fesBox);
     }
 
@@ -103,12 +126,12 @@ public class MainController {
     @FXML
     void initialize() {
     	try {
-			characterBox = loadChar.load();
+//			characterBox = loadChar.load();
 			homeBox = loadHomePage.load();
-			diTichBox = loadDiTich.load();
-			eraBox = loadEra.load();
-			fesBox = loadFes.load();
-			eventBox = loadEvent.load();
+			
+			
+
+			
 			main.setCenter(homeBox);
 
 		} catch (IOException e) {
