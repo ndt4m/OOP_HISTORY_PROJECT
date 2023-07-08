@@ -93,7 +93,7 @@
                                     </Label>
                                  </children>
                               </VBox>
-                              <VBox HBox.hgrow="ALWAYS">
+                              <VBox stylesheets="@../../application/stylesheet/stylesheet.css" HBox.hgrow="ALWAYS">
                                  <children>
                                     <Text fx:id="workTenureText" strokeType="OUTSIDE" strokeWidth="0.0" text="workTenureText" wrappingWidth="620.0" VBox.vgrow="ALWAYS">
                                        <VBox.margin>
