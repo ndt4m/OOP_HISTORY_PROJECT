@@ -5,14 +5,8 @@ import java.io.IOException;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
-import javafx.scene.Parent;
-import javafx.scene.Scene;
 import javafx.scene.control.Button;
-import javafx.scene.layout.AnchorPane;
 import javafx.scene.layout.BorderPane;
-import javafx.scene.layout.HBox;
-import javafx.scene.layout.VBox;
-import newApp.App.App;
 
 public class MainController {
 
@@ -41,15 +35,6 @@ public class MainController {
     @FXML
     private FXMLLoader loadHomePage = new FXMLLoader(getClass().getResource("/newApp/fxml/trangchu.fxml"));
 
-
-
-
-    
-    
-    
-
-    
-    
     private BorderPane characterBox;
     private BorderPane homeBox;
     private BorderPane diTichBox;
@@ -126,12 +111,7 @@ public class MainController {
     @FXML
     void initialize() {
     	try {
-//			characterBox = loadChar.load();
 			homeBox = loadHomePage.load();
-			
-			
-
-			
 			main.setCenter(homeBox);
 
 		} catch (IOException e) {

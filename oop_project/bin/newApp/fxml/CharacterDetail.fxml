@@ -3,7 +3,7 @@
 <?import javafx.geometry.Insets?>
 <?import javafx.scene.control.Label?>
 <?import javafx.scene.control.ScrollPane?>
-<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
 <?import javafx.scene.layout.FlowPane?>
 <?import javafx.scene.layout.HBox?>
 <?import javafx.scene.layout.VBox?>
@@ -12,25 +12,13 @@
 
 <ScrollPane fx:id="charDetailRoot" fitToHeight="true" fitToWidth="true" pannable="true" stylesheets="@../../application/stylesheet/stylesheet.css" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="newApp.controller.CharacterDetailController">
    <content>
-      <AnchorPane>
-         <children>
-            <VBox alignment="CENTER" maxHeight="1.7976931348623157E308">
-               <children>
-                  <HBox alignment="CENTER_LEFT" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" VBox.vgrow="ALWAYS">
+      <BorderPane>
+         <center>
+            <BorderPane BorderPane.alignment="CENTER">
+               <center>
+                  <VBox>
                      <children>
-                        <Text fx:id="nameText" strokeType="OUTSIDE" strokeWidth="0.0" text="Name" textAlignment="CENTER" wrappingWidth="605.6100496053696">
-                           <font>
-                              <Font size="36.0" />
-                           </font>
-                           <HBox.margin>
-                              <Insets bottom="20.0" />
-                           </HBox.margin>
-                        </Text>
-                     </children>
-                  </HBox>
-                  <VBox VBox.vgrow="ALWAYS">
-                     <children>
-                        <HBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" VBox.vgrow="ALWAYS">
+                        <HBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308">
                            <children>
                               <VBox prefHeight="18.0" prefWidth="176.0">
                                  <children>
@@ -54,7 +42,7 @@
                               </FlowPane>
                            </children>
                         </HBox>
-                        <HBox VBox.vgrow="ALWAYS">
+                        <HBox>
                            <children>
                               <VBox prefHeight="18.0" prefWidth="176.0">
                                  <children>
@@ -79,7 +67,7 @@
                               </VBox>
                            </children>
                         </HBox>
-                        <HBox VBox.vgrow="ALWAYS">
+                        <HBox>
                            <children>
                               <VBox prefHeight="18.0" prefWidth="176.0">
                                  <children>
@@ -104,7 +92,7 @@
                               </VBox>
                            </children>
                         </HBox>
-                        <HBox VBox.vgrow="ALWAYS">
+                        <HBox>
                            <children>
                               <VBox prefHeight="18.0" prefWidth="176.0">
                                  <children>
@@ -132,7 +120,7 @@
                               </VBox>
                            </children>
                         </HBox>
-                        <HBox VBox.vgrow="ALWAYS">
+                        <HBox>
                            <children>
                               <VBox prefHeight="18.0" prefWidth="176.0">
                                  <children>
@@ -160,7 +148,7 @@
                               </VBox>
                            </children>
                         </HBox>
-                        <HBox VBox.vgrow="ALWAYS">
+                        <HBox>
                            <children>
                               <VBox prefHeight="18.0" prefWidth="176.0">
                                  <children>
@@ -185,7 +173,7 @@
                               </VBox>
                            </children>
                         </HBox>
-                        <HBox VBox.vgrow="ALWAYS">
+                        <HBox>
                            <children>
                               <VBox prefHeight="18.0" prefWidth="176.0">
                                  <children>
@@ -199,7 +187,7 @@
                                     </Label>
                                  </children>
                               </VBox>
-                              <VBox>
+                              <VBox HBox.hgrow="ALWAYS">
                                  <children>
                                     <Text fx:id="overviewText" strokeType="OUTSIDE" strokeWidth="0.0" text="overviewText" wrappingWidth="620.0" VBox.vgrow="ALWAYS">
                                        <VBox.margin>
@@ -210,7 +198,7 @@
                               </VBox>
                            </children>
                         </HBox>
-                        <HBox VBox.vgrow="ALWAYS">
+                        <HBox>
                            <children>
                               <VBox prefHeight="18.0" prefWidth="176.0">
                                  <children>
@@ -235,7 +223,7 @@
                               </VBox>
                            </children>
                         </HBox>
-                        <HBox VBox.vgrow="ALWAYS">
+                        <HBox>
                            <children>
                               <VBox prefHeight="18.0" prefWidth="176.0">
                                  <children>
@@ -260,7 +248,7 @@
                               </VBox>
                            </children>
                         </HBox>
-                        <HBox VBox.vgrow="ALWAYS">
+                        <HBox>
                            <children>
                               <VBox prefHeight="18.0" prefWidth="176.0">
                                  <children>
@@ -286,12 +274,26 @@
                         </HBox>
                      </children>
                   </VBox>
+               </center>
+               <left>
+                  <VBox prefHeight="200.0" prefWidth="100.0" BorderPane.alignment="CENTER" />
+               </left>
+            </BorderPane>
+         </center>
+         <top>
+            <HBox alignment="CENTER" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" BorderPane.alignment="CENTER">
+               <children>
+                  <Text fx:id="nameText" strokeType="OUTSIDE" strokeWidth="0.0" text="Name" textAlignment="CENTER" wrappingWidth="600.0">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets bottom="20.0" />
+                     </HBox.margin>
+                  </Text>
                </children>
-               <padding>
-                  <Insets bottom="5.0" left="20.0" right="20.0" top="10.0" />
-               </padding>
-            </VBox>
-         </children>
-      </AnchorPane>
+            </HBox>
+         </top>
+      </BorderPane>
    </content>
 </ScrollPane>
