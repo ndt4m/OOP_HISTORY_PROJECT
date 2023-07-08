@@ -1,22 +1,14 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Trung Quốc",
-  "hometown": "Không rõ",
-  "occupation": "Vua nước Trần",
-  "workTenure": "534 TCN",
-  "fatherName": {
-    "Trần Ai công": null
-  },
-  "motherName": {},
-  "eraName": {
-    "nhà Chu": null
-  },
-  "id": 515,
-  "entityName": "Trần Lưu",
-  "aliases": [
-    "Quy Lưu (媯留)",
-    "Không có",
-    "Quy Lưu"
-  ],
-  "overview": "Trần Lưu (chữ Hán: 陳留; trị vì: 534 TCN ), tên thật là Quy Lưu (媯留), là vị vua thứ 23 của nước Trần – chư hầu nhà Chu trong lịch sử Trung Quốc."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 515,
+  "entityName" : "Trịnh Châu",
+  "aliases" : [ "Trung Châu" ],
+  "overview" : "Trịnh Châu (giản thể: 郑州; phồn thể: 鄭州; bính âm: Zhèngzhōu), trước đây gọi là Dự Châu hay Trung Châu, là một địa cấp thị và là tỉnh lỵ tỉnh Hà Nam, Trung Quốc. Địa cấp thị này tọa lạc ngay phía bắc của miền trung tỉnh Hà Nam và phía nam sông Hoàng Hà. Thành phố này giáp giới với Lạc Dương về phía tây, Tiêu Tác về phía tây bắc, Tân Hương về phía đông bắc, Khai Phong về phía đông, Hứa Xương về phía đông nam và Bình Đỉnh Sơn về phía tây nam."
 }

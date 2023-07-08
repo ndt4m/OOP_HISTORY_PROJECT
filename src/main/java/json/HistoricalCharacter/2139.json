@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "1445",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Tả thị lang bộ Lại (khi sống) Thượng thư bộ Lễ (truy tặng)",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Lê sơ": null
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê tỉnh Hải Dương",
+  "occupation" : "Danh sĩ đời Lê Hi tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
   },
-  "id": 2139,
-  "entityName": "Trần Năng",
-  "aliases": [],
-  "overview": "Trần Năng (sinh 1445) là tả thị lang bộ Lại thời Lê sơ đậu hoàng giáp năm 1493. Ông được truy tặng thượng thư bộ Lễ sau khi qua đời."
+  "id" : 2139,
+  "entityName" : "Châu Bá Dương",
+  "aliases" : [ ],
+  "overview" : "Ông nổi tiếng thơ văn. Rất yêu chuộng sách vở và thường giúp đỡ hàn sĩ. Làm quan có tiếng thanh liêm mẫn cán, được sĩ phu và nhân dân trọng vọng. Chính ông đã xuất bản bộ sách Hồ thượng thư gia lễ, 2 quyển (tác giả là Hồ Sĩ Dương)."
 }

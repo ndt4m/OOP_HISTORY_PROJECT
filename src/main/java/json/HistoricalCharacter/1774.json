@@ -1,14 +1,18 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 1774,
-  "entityName": "Kỷ Sửu",
-  "aliases": [],
-  "overview": "Kỷ Sửu (chữ Hán: 己丑) là kết hợp thứ 26 trong hệ thống đánh số Can Chi của người Á Đông. Nó được kết hợp từ thiên can Kỷ (Thổ âm) và địa chi Sửu (bò/trâu). Trong chu kỳ của lịch Trung Quốc, nó xuất hiện trước Canh Dần và sau Mậu Tý."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Tước hiệu",
+  "workTenure" : "1782—1782",
+  "fatherName" : {
+    "Trịnh Sâm" : null
+  },
+  "motherName" : { },
+  "eraName" : {
+    "Đàng Ngoài - Chúa Trịnh" : 26
+  },
+  "id" : 1774,
+  "entityName" : "Điện Đô Vương",
+  "aliases" : [ ],
+  "overview" : "Điện Đô vương Trịnh Cán (chữ Hán: 奠都王鄭檊, 1775 – 17 tháng 12, 1782) là vị chúa Trịnh thứ 9 của vương tộc Trịnh cầm quyền ở miền Bắc Đại Việt thời nhà Lê trung hưng trong lịch sử Việt Nam."
 }

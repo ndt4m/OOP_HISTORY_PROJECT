@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nguyên (sau này đổi tên thành gia tộc Đo Bạt)": null
+  "dateOfBirth" : "Ất Sửu 1866",
+  "dateOfDeath" : "Tân Tị 1941",
+  "hometown" : "Hà Tĩnh",
+  "occupation" : "Liệt sĩ cận đại, tục gọi là Cố Giám, em ruột cụ tú Hoàng Xuân An",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 333,
-  "entityName": "nhà Tây Ngụy",
-  "aliases": [],
-  "overview": "Tây Ngụy (tiếng Trung:西魏) là triều đại xuất hiện sau khi có sự tan rã của nhà Bắc Ngụy và cai trị vùng lãnh thổ miền Bắc Trung Quốc từ năm 535 tới năm 557."
+  "id" : 333,
+  "entityName" : "Hoàng Xuân Hành",
+  "aliases" : [ ],
+  "overview" : "Về sau, khi Phan Bội Châu bị bắt về nước và an trí tại Huế, Hoàng Xuân Hành từ Côn Đảo trở về sống với Phan Bội Châu tại Bến Ngự (Huế). Sau khi Phan Bội Châu qua đời, ông về quê ở làng Xuân Hòa, tổng Lâm Thịnh, huyện Nam Đàn, tỉnh Nghệ An một thời gian ngắn rồi uống thuốc độc tự tử vào năm 1941."
 }

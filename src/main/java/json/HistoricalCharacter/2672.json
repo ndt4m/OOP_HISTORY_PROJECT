@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "…\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath": "Mậu Dần 1518\n----------------------------------------------\nKhông rõ",
-  "hometown": "Không rõ",
-  "occupation": "Dòng dõi nhà Lê, khoảng năm Mậu dần 1518, ông được số quần thần tôn vương. Vì lúc bấy giờ, nhóm Trần Cảo, Trân Thăng dấy lên đảo chính, khiến Lê Tương Dực đế bị nhóm Trịnh Duy Sản giết chết, nước loạn to.\n----------------------------------------------\nVua",
-  "workTenure": "1518–1519",
-  "fatherName": {
-    "Lê Lộc": null
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê ở Mĩ Tho, tỉnh Định Tường (nay thuộc tỉnh Tiền Giang)",
+  "occupation" : "Nhà văn cận đại, ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "motherName": {},
-  "eraName": {
-    "Nhà Hậu Lê – giai đoạn Lê sơ": 20,
-    "Triều Lê Sơ": 7
-  },
-  "id": 2672,
-  "entityName": "Lê Bảng",
-  "aliases": [],
-  "overview": "Ông được tôn vương, cũng có đặt hiệu năm là Đại Đức, nhưng chẳng bao lâu thì bị phế. Cũng trong năm Mậu dẫn 1518 ấy, Lê Dụ được đưa lên và rồi bị Mạc Đăng Dung giết.\n----------------------------------------------\nLê Bảng(黎榜) là một vị vua nhà Lê sơ trong lịch sử Việt Nam. Do được lập lên ngôi và phế truất trong thời gian loạn lạc ngắn ngủi, ông ít được nhắc tới trong danh sách các vị vua chính thống của Việt Nam."
+  "id" : 2672,
+  "entityName" : "Mai Đằng Phương",
+  "aliases" : [ "Nhiêu Phang" ],
+  "overview" : "Khi quân Pháp chiếm Định Tường (1861), ông giữ tiết tháo, chịu sống nghèo nhất định không hợp tác với giặc dù được giặc Pháp nhiều lần mời ra cộng tác ông sống với nghề dạy học và làm thuốc đương thời được nhân dân trọng vọng. Mai Đằng Phương là một nhà thơ có thi tài tương truyền ông sáng tác nhiều, nhưng tác phẩm ông đã thất lạc phần lớn. Bài thơ \"CON CHÓ\" hàm ý sâu sắc được truyền tụng trong dân gian: Ban đêm ai nấy ngủ tư bề, Can cớ chi mà sủa tía lia? Láu quáu chẳng cho hồn điệp nghỉ, Gầm gừ không để giấc hòe mê. Một là giận kẻ say về tối. Hai nữa ghét người thức học khuya! Trờì đất xui ta làm đặng chủ, Muợn đao Phàn Khoái giết không ghê."
 }

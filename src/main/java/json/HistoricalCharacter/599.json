@@ -1,19 +1,17 @@
 {
-  "dateOfBirth": "1898\n----------------------------------------------\nMậu Tuất 1898",
-  "dateOfDeath": "1993\n----------------------------------------------\nQuí Dậu 1993",
-  "hometown": "quê làng Thổ Tang, phủ Vĩnh Tường, tỉnh Vĩnh Yên (nay thuộc tỉnh Vĩnh Phúc)",
-  "occupation": "Nhà hoạt động chính trị",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Quí Hợi 1923",
+  "dateOfDeath" : "Kỉ Mão 1999",
+  "hometown" : "tại xã Diễn Minh, huyện Diễn Châu, tỉnh Nghệ An",
+  "occupation" : "Nhà thơ hiện đại",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 599,
-  "entityName": "Vũ Hồng Khanh",
-  "aliases": [
-    "Vũ Hồng Khanh"
-  ],
-  "overview": "Vũ Hồng Khanh (chữ Hán: 武鴻卿; 1898 – 1993) là một nhà cách mạng và chính khách Việt Nam. Ông là một trong các lãnh tụ của Việt Nam Quốc dân đảng; từng là thành viên trong Chính phủ liên hiệp kháng chiến thành lập ngày 2 tháng 3 năm 1946, giữ chức Phó Chủ tịch Kháng chiến Ủy viên Hội.\n----------------------------------------------\nÔng là một trong những người cùng Nguyễn Thái Học sáng lập Việt Nam Quốc dân đảng từ năm 1928 tại miền Bắc. Sau vụ khởi nghĩa Quốc dân đảng thất bại trong năm 1930, ông thoát khỏi sự bủa vây của Pháp, trốn sang Trung Quốc hoạt động chống Pháp ở nước ngoài. Sau năm 1945 về nước tham gia chính phủ liên hiệp kháng chiến Việt Nam, ông là Đại biểu Quốc hội được cử giữ chức Phó chủ tịch kháng chiến ủy viên hội (chủ tịch là Võ Nguyên Giáp) cùng trông coi công cuộc kháng chiến chống Pháp. (Hai bộ nội vụ giành cho 2 người không đảng là Huỳnh Thúc Kháng và Phan Anh). Việc tham chánh này của ông và Nguyễn Tường Tam bị một phái trong Việt Quốc và Việt Cách toan thanh toán ông và Nguyễn Tường Tam (theo Hồi kí Vũ Đình Hòe). Sau ngày toàn quốc kháng chiến (19-12-1946) ông phải lưu vong sang Trung Quốc đến năm 1950 mới về Việt Nam rồi vào sống ở miền Nam. Sống ở sài Gòn hơn 20 năm, nhưng Vũ Hồng Khanh không có hoạt động gì và không tham chánh dù có thời điểm hai đảng Việt Cách, Việt Quốc đang có mặt trên chính trường miền Nam lúc đương thời. Sau năm 1975, ông được tập trung đi học tập cải tạo ở miền Bắc đến sau năm 1985 mới được về sinh sống tại quê nhà (ở Vĩnh Phúc). Cuộc đời hoạt động và sinh sống của ông được nhà văn Nguyễn Khải (1930-…) hư cấu nghệ thuật qua tiểu thuyết Sư già chùa Thắm và ông đại tá về hưu (1993) giàu tính nhân văn. Ông mất năm 1993 tại quê nhà, thọ 95 tuổi."
+  "id" : 599,
+  "entityName" : "Trần Hữu Thung",
+  "aliases" : [ ],
+  "overview" : "Xuất thân trong một gia đình nông nghiệp, thuở nhỏ học tại quê nhà. Những năm 1943-1944 ông tham gia Mặt trận Việt Minh tại Diễn Châu, Nghệ An cho đến Cách mạng tháng Tám thành công (1945). Trong kháng chiến chống Pháp (1946-1954) ông làm việc ở Ban Văn hóa Liên khu IV, Chi hội văn nghệ Liên khu IV cho đến hiệp định Genève năm 1954. Từ năm 1955, ông công tác tại Hội Nhà văn Việt Nam ở Hà Nội một thời gian, sau đó chuyển về Hội Văn nghệ tỉnh Nghệ tỉnh ở Vinh (Nghệ An). Các năm 1950-1952 ông sáng tác đều tay với các thi đề O Bưởi (Hai Tộ hò khoan), Dặn con, Đồng Tháng Tám... nhất là thi đề Thăm lúa giới thiệu được sinh hoạt văn nghệ thời kháng chiến chống Pháp ở liên khu IV. Chính thi đề Thăm lúa này được tặng giải thơ trong Đại hội thanh niên các nước XHCN ở Budapest. Ông mất ngày 31-7-1999 tại quê nhà thọ 76 tuổi."
 }

@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "người làng Đại Điện, huyện Bình Hà",
-  "occupation": "Danh thần đời Lê Thánh tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Triều Lê Sơ": 7
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Bính Tuất 1886",
+  "hometown" : "quê làng Hương La, huyện Tĩnh Gia, tỉnh Thanh Hóa",
+  "occupation" : "Nhân sĩ yêu nước",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 2705,
-  "entityName": "Bùi Đoan Giáo",
-  "aliases": [],
-  "overview": "Năm Hồng Đức 18 (Đinh vị 1437), ông đỗ nhị giáp tiến sĩ, làm đến Thống chính sứ. Tài đức được nhân dân trọng vọng. Xuất thân hàn vi, thờ mẹ rất hiếu thảo, cần cù giúp đỡ mẹ và kiên tâm trì chí cầu học cầu tiến, đạt được nguyện vọng. Khi vinh hiển, ông hằng nâng đỡ kẻ nghèo, xa gần đều khen ngợi."
+  "id" : 2705,
+  "entityName" : "Nguyễn Phương",
+  "aliases" : [ ],
+  "overview" : "Giặc Pháp xâm lăng, ông cùng các đồng chí tổ chức dân quân khởi nghĩa chống Pháp. Nghĩa quân dự định ngày mùng 7-1 năm Bính tuất 1886 sẽ tiến công đánh úp Thanh Hóa. Việc bại lộ, bị giặc bắt, ông tự tử sau khi sa vào tay giặc. Ông mất, Nguyên Xuân Ôn có thơ điếu: \"Khoa hoạn nhân trung đệ nhất hào, Nghĩa thanh chấn nhiếp quỉ phương tao. Y quan sĩ tận nhẫm kim cách, Sao lạp nhân giai thỉ trạch bào. Võ vệ tì hưu đô lạc lạc, Thang chân xa mã diệc thao thao. Tử sinh đắc táng câu nhàn sự, Vạn cổ thanh phong ôn lĩnh cao.\" Bản dịch: Trong đám văn thân rất mực hào, Phương xa run sợ tiếng xôn xao. Áo xiêm đổi lấy đồ binh phục, Võ kiếm thề chung nghĩa trạch bào. Muôn đội hùm beo đều tan tác, Một vùng xe ngựa lại lao xao. Mất còn thua được tầm thường cả Danh tiết muôn đời núi ổn cao."
 }

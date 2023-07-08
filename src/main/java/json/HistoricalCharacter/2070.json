@@ -1,14 +1,18 @@
 {
-  "dateOfBirth": "13 tháng 12 năm 1929 Bến Tre, Việt Nam",
-  "dateOfDeath": "22 tháng 1, 2007 (78 tuổi) Virginia, Hoa Kỳ",
-  "hometown": "Không rõ",
-  "occupation": "Thuộc",
-  "workTenure": "1953-1975",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 2070,
-  "entityName": "Ngô Quang Trưởng",
-  "aliases": [],
-  "overview": "Ngô Quang Trưởng (1929-2007), nguyên là một tướng lĩnh Bộ binh của Quân lực Việt Nam Cộng hòa, cấp bậc Trung tướng. Ông xuất thân từ những khóa đầu tại trường Sĩ quan Trừ bị do Quốc gia Việt Nam mở ra ở miền Nam Việt Nam. Trong thời gian tại ngũ, ông đã có hơn 12 năm phục vụ trong Binh chủng Nhảy dù. Năm 1972, ông được bổ nhiệm làm Tư lệnh Quân đoàn I, là chỉ huy cao nhất trong trận đánh tái chiếm Thành cổ Quảng Trị. Năm 1975, Quân đoàn I do ông chỉ huy thất bại nhanh chóng do bị rút Sư đoàn Dù về Sài Gòn theo lệnh của Tổng thống Nguyễn Văn Thiệu cộng thêm việc dân chúng và binh sĩ ở vùng hỏa tuyến hoang mang khi Sư đoàn Thủy Quân Lục Chiến rút khỏi Quảng Trị trong Chiến dịch Huế-Đà Nẵng. Ngày 29 tháng 3 năm 1975, ông và một số tướng lãnh bơi ra tàu Hải Quân neo đậu ngoài khơi Đà Nẵng để vào Sài Gòn, sau đó di tản sang Mỹ."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Tước hiệu",
+  "workTenure" : "1657—1682",
+  "fatherName" : {
+    "Trịnh Tráng" : null
+  },
+  "motherName" : { },
+  "eraName" : {
+    "Đàng Ngoài - Chúa Trịnh" : 26
+  },
+  "id" : 2070,
+  "entityName" : "Tây Định Vương",
+  "aliases" : [ ],
+  "overview" : "Tây Định Vương Trịnh Tạc (chữ Hán: 西定王鄭柞, 11 tháng 4 năm 1606 – 24 tháng 9 năm 1682), thụy hiệu Hoằng Tổ Dương vương (弘祖陽王), là vị chúa Trịnh thứ 3 thời Lê Trung hưng, cai trị từ năm 1657 đến 1682. Trịnh Tạc là chúa Trịnh duy nhất chứng kiến cả bảy cuộc xung đột Trịnh-Nguyễn thế kỷ 17 và có công chấm dứt việc cát cứ của họ Mạc ở Cao Bằng, đưa miền Bắc nước Đại Việt bước vào thời thịnh trị."
 }

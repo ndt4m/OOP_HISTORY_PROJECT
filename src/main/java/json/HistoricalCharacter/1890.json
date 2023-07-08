@@ -1,14 +1,17 @@
 {
-  "dateOfBirth": "1903",
-  "dateOfDeath": "1931",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 1890,
-  "entityName": "Lê Mao",
-  "aliases": [],
-  "overview": "Lê Mao, hay còn gọi Lê Viết Mao (1903-1931), bí danh là Cát, là nhà cách mạng Việt Nam, một trong những người lãnh đạo phong trào Xô Viết Nghệ Tĩnh. Ông là Bí thư Xứ ủy Trung Kỳ và Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam."
+  "dateOfBirth" : "Nhâm Tí 1912",
+  "dateOfDeath" : "Canh Ngọ 1990",
+  "hometown" : "tại xã Phượng Sơn, huyện Lục Ngạn, tỉnh Bắc Giang",
+  "occupation" : "Nhà văn",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
+  },
+  "id" : 1890,
+  "entityName" : "Bùi Huy Phồn",
+  "aliases" : [ "Bùi Như Lạc", "Đỗ Phồn" ],
+  "overview" : "Xuất thân trong một gia đình nho học, thuở nhỏ theo cổ học, rồi Tây học. Những năm trước Cách Mạng tháng 8 ông dạy học, viết văn, làm thơ, cộng tác với các báo Hà Nội báo, Phong Hóa, Tiểu thuyết thứ năm, Văn Mới... Sau ngày toàn quốc nổ súng chống ngoại xâm, ông tham gia kháng chiến chống Pháp. Từng giữ chức vụ: Ủy viên Ban Chấp hành đoàn Văn hóa kháng chiến Bắc Bộ, chủ bút báo Đây Việt Bắc, biên tập viên báo Cứu Quốc khu X. Sau năm 1955 về Hà Nội làm Giảm đốc Nhà xuất bản Văn học (1958-1962), ủy viên Ban Chấp hành Hội nhà văn Việt Nam... Ông mất ngày 31 tháng 10 năm 1990 tại Hà Nội, hưởng thọ 78 tuổi. Các tác phẩm chính: - Lá huyết thư (1932) - Một chuỗi chín (1941) - Sự tích Trần Hưng Đạo diễn ca (1941) - Gan dạ đàn bà (1942) - Mối thù truyền kiếp (1942) - Tàn xuân đế quốc (thơ - 1955) - Phất (1961) - Bình minh hôm nay (1990)"
 }

@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "547",
-  "hometown": "người Làng Cổ Sở sau đổi là Làng GIÁ(gồm ba làng: Yên sở, Đắc Sở,Yên Thái thuộc huyện Hoài Đức,Hà Nội ngày nay).",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 823,
-  "entityName": "Lý Phục Man",
-  "aliases": [
-    "Làng GIÁ"
-  ],
-  "overview": "Lý Phục Man (李服蠻, ? - 547), không rõ họ tên thật.Ông là một danh tướng thời Lý Nam Đế ở thế kỷ 6 trong lịch sử Việt Nam. Vì ông có công thu phục được các bộ tộc thiểu số (người Man) vùng Đỗ Động - Đường Lâm (vùng tây bắc nước ta thời Lý Nam Đế) nên được suy tôn là \"Phục Man Tướng Quân\".Ông cùng với Phạm Tu đánh tan quân Lâm Ấp xâm lược nên đã được vua cho mang họ \"Lý\") . Ông là người Làng Cổ Sở sau đổi là Làng GIÁ(gồm ba làng: Yên sở, Đắc Sở,Yên Thái thuộc huyện Hoài Đức,Hà Nội ngày nay).Theo Thần Tích tại Quán GIÁ,Ông nổi tiếng là người giỏi võ nghệ,có tài thuần trị được voi. Là một trung thần có nhiều công lao, nên khi mất, ông được nhân dân nhiều nơi tôn thờ làm Thành hoàng làng . Mặc dù vậy, trong các tài liệu chính sử xưa kia không thấy chép về ông. Tên và thần tích của ông xuất hiện trong các tài liệu dã sử như: \"Tiền Nam Đế Sự Tích Quốc Âm\", Việt điện u linh tập thời Trần; và sau đó được kể lại trong Đại Nam nhất thống chí thời Nhà Nguyễn và trong Thần tích tại đền thờ Ông."
+  "dateOfBirth" : "924",
+  "dateOfDeath" : "963",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "nhà Đường" : null
+  },
+  "id" : 823,
+  "entityName" : "Kinh Nam",
+  "aliases" : [ ],
+  "overview" : "Kinh Nam (荆南) (924–963) hay còn gọi là Nam Bình (南平), Bắc Sở (北楚), là một trong mười nước tại miền Trung Nam Trung Quốc, được thành lập sau năm 907, khi nhà Đường sụp đổ, đánh dấu sự khởi đầu của thời kỳ Ngũ đại Thập quốc tại Trung Quốc (907-960)."
 }

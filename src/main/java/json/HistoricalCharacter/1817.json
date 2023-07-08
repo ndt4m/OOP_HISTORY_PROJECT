@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Quí Mùi 23",
-  "dateOfDeath": "Quí Mão 43",
-  "hometown": "quê xã Hương Nha, nay thuộc huyện Tam Nông, tỉnh Vĩnh Phú",
-  "occupation": "Tức Nàng Xuân, Nữ tướng thời Trưng vương, con gái vị thủ lãnh châu Đại Man",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trưng Nữ Vương": 10
+  "dateOfBirth" : "Tân Hợi 1671",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng An Ấp, huyện Hương Sơn tỉnh Hà Tĩnh (nay thuộc Hà Tĩnh)",
+  "occupation" : "Văn thần đời Lê Huyền tông con Thiêm đô ngự sử đời vua Lê Hiển tông là Đinh Nho Công",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
   },
-  "id": 1817,
-  "entityName": "Xuân Nương",
-  "aliases": [
-    "Nàng Xuân"
-  ],
-  "overview": "Năm Kỉ hợi 39, cha và anh bà bị Thái thú Tô Định giết, bà cùng hai người anh còn sống sót cải trang trốn thoát, nương náu nơi thôn Tuế Phong (nay thuộc xã Hương Nộn, huyện Tam Nông). Bà vận động nhân dân căm thú giặc, tập hợp nhau lại chống giặc cứu nước. Chẳng bao lâu thanh thế lớn mạnh, bà kéo binh về Hát Môn tụ nghĩa, chiến đấu dưới cờ Trưng Vương. Năm Canh tí 40 dẹp xong giặc, bà được phong quan tước và kết duyên với em Thi Sách là Thi Bằng, nghiễm nhiên là em dâu của Trưng Vương. Hai vợ chồng được giao trấn giữ mạn sông Thao. Năm Quí mão 43 quân Hán lại kéo sang, do Mã Viện chỉ huy, cùng với hai phó tướng là Doãn Chí và Lưu Long đánh phá dữ dội. Trưng vương bại binh, tử tiết. Bấy giờ hai vợ chồng Xuân Nương vẫn quyết liệt chiến đấu. Bà chỉ huy quân bộ, chồng bà chỉ huy quân thủy ngăn chận giặc ở ngã ba Hạc. Nhưng thế không chống nổi lâu, về sau hai vợ chồng bà đều hi sinh, lúc mới 20 tuổi. Nhân dân có lập đền thờ bà bên hữu ngạn sông Thao. Riêng ở Hương Nha là quê bà, hàng năm mở hội tưởng niệm bà vào tháng hai âm lịch. Đặc biệt có lệ hát \"xoan\" là một hình thức diễn xướng văn nghệ dân gian. Nhiều liễn đối truy điệu bà vẫn còn truyền tụng: \"Độc lập thụ tiên tinh, vạn cổ huân danh huyền nhật nguyệt, Song lưu Trưng hiển tích, thiên thu nghĩa kí đối sơn hà\". Nghĩa: Dựng ngọn cờ độc lập, công danh nghìn năm tỏ rõ cùng mặt trăng, mặt trời. Chiến công vẫn còn sống mãi với triều Trưng vương, muôn thuở nghĩa khí sánh cùng sông núi."
+  "id" : 1817,
+  "entityName" : "Đinh Nho Hoàn",
+  "aliases" : [ ],
+  "overview" : "Canh thìn 1700, ông đỗ Nhị giáp tiến sĩ lúc 29 tuổi, làm đến Hầu thị lang bộ công, từng được cử đi sứ Thanh. Trên đường đi sứ về, chẳng may ông bệnh mất, được truy tặngTả thị lang bộ Lại. Vợ ông là Phan Thị nghe tin ông mất, đau lòng thắt cổ chết theo chồng. Nhà vua ban chiếu cho treo biển phong tặng tại cổng nhà để nêu tiếng khen. (Hồng Hà nữ sĩ Đoàn Thị Điểm có một truyện nói về tiết tháo của bà Đinh Nho Hoàn, đề là An ấp liệt nữ trong tập truyện truyền kì)."
 }

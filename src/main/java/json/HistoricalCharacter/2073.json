@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "Bính Thân 1896",
-  "dateOfDeath": "Quí Sửu 1973",
-  "hometown": "quê ở Đức Phong, xã Đông Thái, huyện Đức Thọ, tỉnh Hà Tĩnh (nay là xã Tùng Ảnh cùng huyện)",
-  "occupation": "Nhà văn, giáo sư văn học",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Giáp Thìn 1904",
+  "dateOfDeath" : "Đinh Sửu 1937",
+  "hometown" : "quê làng Tân Thạnh (Sơn Định), huyện Chợ Lách, tỉnh Vĩnh Long (nay thuộc Bến Tre)",
+  "occupation" : "Nhà báo",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 2073,
-  "entityName": "Hoàng Ngọc Phách",
-  "aliases": [
-    "Song An"
-  ],
-  "overview": "Ông tốt nghiệp trường Cao đẳng Sư phạm Đông Dương (Hà Nội), dạy học nhiều nơi, viết văn. Ông nổi tiếng ngay khi cho xuất bản tác phẩm đầu tiên là quyển tiểu thuyết Tố Tâm. Truớc Cách mạng tháng Tám, ông làm Hội trưởng hội Truyền bá quốc ngữ tỉnh Bắc Ninh và tham gia phong trào Việt Minh ở đây. Sau cách mạng, ông từng giữ chức vụ Giám đốc Học khu Bắc Ninh (1945-1951), giám đốc giáo dục khu XII (1947-1948), Giám đốc truờng Cao đẳng Sư phạm trung ương (1951). Rồi về công tác tại ban tu thư Bộ Giáo dục, viết sách nghiên cứu văn học. Ngày 24-11-1973, ông mất tại Hà Nội, thọ 77 tuổi. Các tác phẩm đã xuất bản: - Tố Tâm, tiểu thuyết, tái bản nhiều lần, 1925. - Thời thế với văn chương (tiểu luận, phê bình văn học, 1941) - Thơ văn Nguyễn Khuyến (hợp soạn, nghiên cứu, 1957). - Giai thoại văn học Việt Nam (1965). - Đâu là chân lí (1941) - Thơ văn Nguyễn Khuyến (hợp soạn, 1957) - Chèo và tuồng (hợp soạn, 1958) - Văn thơ Trần Tế Xương (hợp soạn, 1958) - Thơ văn Nguyễn Công Trứ (hợp soạn,1958) - Thơ văn yêu, nước và cách mạng (I, II, hợp soạn, 1959). - Nhị độ mai (hợp soạn, 1960) - Chuyện Trường Bưởi (1989) Hoàng Ngọc Phách là một nhà văn lãng mạn tiền phong viết bằng chữ quốc ngữ đầu tiên của văn học Việt Nam trước trào lưu văn học lãng mạn tư sản phương Tây du nhập vào nước ta hồi đầu thế kỉ, trong đó có tiểu thuyết Tố Tâm."
+  "id" : 2073,
+  "entityName" : "Nguyễn Văn Bá",
+  "aliases" : [ "Thới Xuyên", "Tiểu Vân" ],
+  "overview" : "Ông tốt nghiệp trường Sư phạm Sài Gòn, từng là giáo sư có phong cách một người thầy gương mẫu, khi còn dạy học, ông thường giúp đỡ các học sinh con nhà nghèo khó mà ham học. Những năm 30, ông bị bệnh, từ chức giáo học, gia nhập làng văn, viết báo, từng làm chủ nhiệm báo Thần Chung - một tờ báo có tiếng và bề thế vào hàng nhất nhì ở Sài Gòn trước thế chiến. Ông là tác giả tiểu thuyết: Người vợ hiền từng được giải thưởng của Hội luân lí Nam Kì. Những năm 1930-1932, Thiếu Sơn trong Phê bình và Cảo luận viết về ông: \"Ông (NVB) cộng tác với nhiều báo, viết bài có bút danh là Tiểu Vân và làm báo Thần Chung với Diệp Văn Kì. Trong cuộc đời dạy học và viết văn, làm báo, ông đã truyền bá tinh thền yêu nước, đạo đức con người và đấu tranh chống áp bức bất công\". Ông mất năm 1937 lúc mới 33 tuổi đang tuổi năng nổ của một nhà báo."
 }

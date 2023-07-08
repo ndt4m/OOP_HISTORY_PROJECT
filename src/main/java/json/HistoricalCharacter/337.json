@@ -1,25 +1,17 @@
 {
-  "dateOfBirth": "1320",
-  "dateOfDeath": "3 tháng 10, 1363 Hồ Bà Dương",
-  "hometown": "Không rõ",
-  "occupation": "Hoàng đế Đại Hán",
-  "workTenure": "1360 - 1363",
-  "fatherName": {
-    "Trần Phổ Tài": null
+  "dateOfBirth" : "Mậu Tuất 1898",
+  "dateOfDeath" : "Nhâm Thìn 1952",
+  "hometown" : "quê xã Long Châu, tỉnh Vĩnh Long, sinh ngày 7-6-1898",
+  "occupation" : "Bác sĩ chuyên khoa tâm thần, quê xã Long Châu, tỉnh Vĩnh Long",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "motherName": {
-    "?": null
-  },
-  "eraName": {
-    "Đại Hán (大漢)": null
-  },
-  "id": 337,
-  "entityName": "Trần Hữu Lượng",
-  "aliases": [
-    "Trần Hữu Lượng",
-    "không",
-    "Cao Tổ (高祖)",
-    "Đại Nghĩa 1360 Đại Định 1361-1363"
-  ],
-  "overview": "Trần Hữu Lượng (chữ Hán: 陳友諒; sinh năm 1320, mất ngày 3 tháng 10 năm 1363) là một thủ lĩnh quân phiệt thời \"Nguyên mạt Minh sơ\" trong lịch sử Trung Quốc, là người Miện Dương, Hồ Bắc . Ông nguyên họ Tạ, nhưng vì tổ tiên ở rể nhà họ Trần, nên sau này lấy theo họ đó."
+  "id" : 337,
+  "entityName" : "Nguyễn Văn Hoài",
+  "aliases" : [ ],
+  "overview" : "Khoảng năm 1930, ông trở về nước và tình nguyện phục vụ ở Dưỡng trí viện Biên Hòa. Tại đây ông đã tận tụy cứu chữa \"thế giới người điên\", khiến mọi người đều cảm phục. Do đấy, đã có lúc dưỡng trí viện Biên Hòa mang tên ông là Dưỡng trí viện Nguyễn Văn Hoài. Ngày 28-5-1952, lúc 5 giờ ông mất đột ngột vì bệnh tim, hưởng dương 54 tuổi. Các tác phẩm chính của ông: 1. Lược khảo về vấn đề hòa bình (1950) 2. Điên? Dưỡng trí viện? (1952) 3. Từ bệnh tâm trí để bệnh giết người 4. Về sự tổ chức Dưỡng trí viện 5. Adolf Hitler xét như một bệnh nhân tâm thần"
 }

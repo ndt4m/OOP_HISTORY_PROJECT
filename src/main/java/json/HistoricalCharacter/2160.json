@@ -1,21 +1,16 @@
 {
-  "dateOfBirth": "1849\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath": "1937\n----------------------------------------------\nKhông rõ",
-  "hometown": "quê ở làng Xuân Đào, xã Xuân Dục, huyện Mỹ Hào, tỉnh Hưng Yên.\n----------------------------------------------\nquê ở làng Nễ Độ, huyện Tiên Lữ, tỉnh Hưng Yên",
-  "occupation": "Danh sĩ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Nhà ngoại giao triều Nguyễn",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 2160,
-  "entityName": "Nguyễn Thiện Kế",
-  "aliases": [
-    "Nễ Giang",
-    "Trung Khả",
-    "Thuật Chi"
-  ],
-  "overview": "Nguyễn Thiện Kế (1849-1937) tên tự là Trung Khả, hiệu Đường Vân hay Nễ Giang, còn được gọi là Huyện Nẻ hay Huyện Móm, là 1 chỉ huy của khởi nghĩa Bãi Sậy trong phong trào Cần Vương và là em ruột của thủ lĩnh Nguyễn Thiện Thuật, quê ở làng Xuân Đào, xã Xuân Dục, huyện Mỹ Hào, tỉnh Hưng Yên. Ngoài ra, ông còn làm thơ trào phúng và cũng là anh rể của thi sĩ Tản Đà.\n----------------------------------------------\nNăm 1888 ông đỗ cử nhân, được bổ làm Tri huyện Tùng Thiện, tỉnh Sơn Tây, Tri phủ Thuận Thành, Từ Sơn, Bắc Ninh (vì làng Nễ Độ tục gọi là làng Nễ, nên thường gọi ông là Huyện Nễ hoặc Huyện Móm). Ông nổi tiếng thơ văn, giỏi thơ trào phúng, thường mạnh dạn đả kích đám người cầu vinh và châm biếm cái xã hội băng hoại buổi giao thời. Do đó, ông bị chính quyền đương thời cách chức, ông về ở ẩn ở ấp Cổ Đằng thuộc tỉnh Sơn Tây. Ông vốn là em ruột vị anh hùng Bãi Sậy - Tán tương quân vụ Nguyễn Thiện Thuật và là anh rể nhà thơ Tản Đà. Thơ ông còn truyền tụng rất nhiều như những bài châm biếm Lê Hoan, Phạm Văn Thụ… Bài VỊNH KIỀU sau đây phần nào nói lên được tâm chí ông: Lúc túng thần tiên cũng phải liều, Duyên đâu hờ hững nợ đâu nhiều. Bán mình nào thấy chàng Kim hỏi, Đánh đĩ tha hồ mụ Bạc tiêu... Đàn chửa giải oan cho tướng giặc, Thành còn, nghiêng nước với quan triều. Nghìn năm ai chẳng phương trăng gió, Danh tiếng phần riêng một Thúy Kiều. Bài phú Vịnh Tài Bàn của ông cũng rất hay. Ngoài ra, ông có dịch bài Văn tế Chiêu quân của Tản Đà rất khéo. Thơ văn ông có nhiều hình tượng, có nghệ thuật trào phúng thâm thúy."
+  "id" : 2160,
+  "entityName" : "Trần Doãn Khanh",
+  "aliases" : [ ],
+  "overview" : "Theo hòa ước Giáp tuất 1874 triều đình Huế cử ông Nguyễn Thành Ý (1819-1897) làm chánh lãnh sự, Trần Doãn Khanh là phó lãnh sự cạnh Thống đốc Nam Kì. Hai ông đến Sài Gòn năm 1876 nhận nhiệm sở. Trong thời gian làm chánh phó lãnh sự, bên ngoài hai ông vẫn giao thiệp êm đẹp với soái phủ Sài Gòn của Pháp. Thật sự bên trong ông vẫn âm thầm vận động triều đình ủng hộ các lực lượng nghĩa quân chống Pháp. Do đó ngày 22-6-1883 Thống đốc Nam Kì là Charles Thomson kí lệnh trục xuất hai ông ra khỏi Nam Kì trong vòng 24 giờ và cấm không được đặt chân trở lại Sài Gòn. Nguyễn Thành Ý và ông về đến Huế gặp lúc vua Tự Đức qua đời và tình hình quân sự ở Huế vô cùng đen tối. Nguyễn Thành Ý nhận lệnh đi thương thuyết với Pháp để kí hòa ước Harmand còn Trần Doãn Khanh không thấy sử triều Nguyễn nhắc tới."
 }

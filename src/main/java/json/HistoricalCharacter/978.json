@@ -1,14 +1,18 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 978,
-  "entityName": "Kỷ Dậu",
-  "aliases": [],
-  "overview": "Kỷ Dậu (chữ Hán: 己酉) là kết hợp thứ 46 trong hệ thống đánh số Can Chi của người Á Đông. Nó được kết hợp từ thiên can Kỷ (Thổ âm) và địa chi Dậu (gà). Trong chu kỳ của lịch Trung Quốc, nó xuất hiện trước Canh Tuất và sau Mậu Thân."
+  "dateOfBirth" : "230 TCN",
+  "dateOfDeath" : "207 TCN Trung Quốc",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Đại Tần",
+  "workTenure" : "210 TCN - 207 TCN",
+  "fatherName" : {
+    "Tần Thủy Hoàng" : 1735
+  },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Tần" : null
+  },
+  "id" : 978,
+  "entityName" : "Hồ Hợi",
+  "aliases" : [ "Doanh Hồ Hợi (嬴胡亥)", "Doanh Hồ Hợi" ],
+  "overview" : "Tần Nhị Thế (chữ Hán: 秦二世; 230 TCN - 207 TCN), hay Nhị Thế Hoàng đế (二世皇帝), tên thật là Doanh Hồ Hợi (嬴胡亥), là vị Hoàng đế thứ hai của nhà Tần trong lịch sử Trung Quốc, trị vì từ 210 TCN đến 207 TCN."
 }

@@ -1,21 +1,18 @@
 {
-  "dateOfBirth": "…",
-  "dateOfDeath": "Quí Hợi 1863",
-  "hometown": "quê huyện Tuy Viễn tỉnh Bình Định, gốc người Minh hương",
-  "occupation": "Đại thần triều Nguyễn, cũng có sách ghi là Lâm Duy Thiếp, Lâm Duy Nghĩa",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê xã An Ấp huyện Hương Sơn, tỉnh Hà Tĩnh, con ông Lê Kinh Tế, đậu cử nhân năm 1861 tại trường thi Nghệ An, không rõ năm sinh",
+  "occupation" : "Tay chân thực dân Pháp, quê xã An Ấp huyện Hương Sơn, tỉnh Hà Tĩnh, con ông Lê Kinh Tế, đậu cử nhân năm 1861 tại trường thi Nghệ An",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "Lê Kinh Tế" : null
   },
-  "id": 3013,
-  "entityName": "Lâm Duy Hiệp",
-  "aliases": [
-    "Lâm Duy Nghĩa",
-    "Thất Trai",
-    "Lâm Duy Thiếp",
-    "Chính Lộ"
-  ],
-  "overview": "Làm quan đến chức Thượng thư, sung Cơ mật viện đại thần, Phụ chánh đại thần. Năm Nhâm tuất 1862, ông sung chức Phó sứ, cùng với Chánh sứ Toàn quyền Phan Thanh Giản vào Nam thương thuyết với giặc Pháp, kí hòa ước ngày 5-6-1862, giao 3 tỉnh miền Đông Nam Kì cho giặc Pháp. Ông và Phan Thanh Giản bị triều đình quở trách chiếu lệ. Bấy giờ, phong trào kháng chiến ở trong Nam không chấp thuận hòa ước ấy, coi như là một hàng ước nhục nhã. Dân gian truyền tụng bài vè đả kích cuộc đàm phán thất lợi, có câu: \"Phan, Lâm mãi quốc, triều đình khí dân\". Để trấn an dư luận, triều đình giáng cấp ông và Phan. Ông bị giáng làm Tuần phủ Thuận Khánh, Phan thì làm Tổng đốc Vĩnh Long và được lệnh mở cuộc tiếp xúc với Pháp, thương thuyết lại, nhưng vì âm mưu thâm độc của bọn cướp nước và sự mềm yếu của hai ông, nên cuộc thương thuyết hoàn toàn thất bại. Về sau, cuộc đời ông lặng lẽ trôi theo giòng lịch sử đau thương của dân tộc, ông mất năm 1863. Tuy đã mất, sau đó ông vẫn bị triều đình Huế truy đoạt cả phẩm hàm. Mãi đến đời Đồng Khánh (1888) mới được khai phục làm Thị lang bộ Binh."
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
+  },
+  "id" : 3013,
+  "entityName" : "Lê Kính Hạp",
+  "aliases" : [ ],
+  "overview" : "Được chúng ban chức Tiểu phủ sứ, Hạp tận lực phá hoại phong trào Cần vương, Văn thân kháng Pháp hồi cuối thế kỷ XIX ở Nghệ Tĩnh. Khi nguời anh của Phan Đình Phùng là Phan Đình Thông bị bắt, Hạp viết thư dụ dỗ Thông ra hàng, nhưng bị cự tuyệt. Lê Kính Hạp là kẻ đa cố tình làm tay sai cho quân xâm lược, đáng làm bia cười cho muôn đời. Về sau ông ta chết trong nỗi nhục nhã ê chề, buồn thảm."
 }

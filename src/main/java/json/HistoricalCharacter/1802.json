@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "…",
-  "dateOfDeath": "Giáp Tí 1804",
-  "hometown": "quê ở Bình An, tỉnh Biên Hòa",
-  "occupation": "Cũng gọi là Hồ Văn Vui, Ngoại thích triều Nguyễn",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Tây Sơn": 21,
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Giáp Dần 1914",
+  "hometown" : "tại Trung Quốc công cử ông cùng Lâm Đức Mậu làm ủy viên giao tế trong ban chỉ đạo Hội",
+  "occupation" : "Nhân sĩ cận đại, ông có lòng yêu nước",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 1802,
-  "entityName": "Hồ Văn Bôi",
-  "aliases": [
-    "Hồ Văn Vui"
-  ],
-  "overview": "Xuất thân làm đội trưởng, ông từng hai phen theo Nguyễn Ánh lưu vong ở Vọng Các (Xiêm - Thái Lan), rồi làm thuộc nội Cai đội. Năm Nhâm tuất 1802, thăng Tả thị trung Tả nhất Vệ úy, rồi đổi làm Khâm sai thuộc nội Chưởng cơ. Nhưng chỉ hai năm sau - Giáp tí 1804 ông cáo bệnh về hưu, mất trong năm này. Năm Bính dần 1806, con gái ông là Hồ Thị Hoa được chọn làm vợ Đông cung Nguyễn Phúc Đảm (sau là vua Minh Mạng, bà nghiễm nhiên là Tá Thiên nhân hoàng hậu). Năm Bính tuất 1826, vua Minh Mạng (con rể ông) truy tặng ông Nghiêm oai tướng quân, Thượng quân, Thống chế. NămTân sửu 1841, vua Thiệu Trị truy tặng là Đắc tiến tráng Võ tướng quân, Tả quân Đô thống phủ, Đô thống chưởng phủ sự, Thái bảo, tước Phúc Quốc Công. Vợ chính ông là Huỳnh thị được truy phong Nhất phẩm Phúc Quốc phu nhân. Vua Thiệu Trị lại truyền lập nhà thờ họ Hồ gọi là Hồ tộc từ, và truy phong họ Hồ đến 4 đời trước. Tân hợi 1851 vua Tự Đức đổi tên nhà thờ lại là Dũ Trạch Từ."
+  "id" : 1802,
+  "entityName" : "Đặng Bỉnh Thành",
+  "aliases" : [ ],
+  "overview" : "Khoảng tháng 6-1913, Kỳ Ngoại hầu Cường Để về nước, lưu trú tại nhà ông, nhà Trần Chánh Chiếu và khách sạn Lục tỉnh do bà Năm Long làm quản lí. Thời gian này, chính ông đã cấp giấy thuế thân giả cho Cường Để, mang tên một nông dân thường, để tiện đi các tỉnh Vĩnh Long, Cần Thơ, Châu Đốc, vận động đồng bào chống Pháp. Ông tận tụy hi sinh cho công cuộc cứu quốc. Về sau việc bại lộ ông trốn sang Hương Cảng chịu khốn đốn nhiều bề, vẫn kiên trung một lòng vì nước. Khoảng năm 1914, ông bị bắt và mất trong ngục."
 }

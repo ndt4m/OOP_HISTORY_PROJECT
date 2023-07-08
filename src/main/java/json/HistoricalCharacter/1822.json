@@ -1,19 +1,17 @@
 {
-  "dateOfBirth": "Đinh Tị 1917",
-  "dateOfDeath": "Canh Dần 1950",
-  "hometown": "quê ở thị xã Hải Dương",
-  "occupation": "Nhà thơ ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Canh Tuất 1850",
+  "dateOfDeath" : "Tân Mão 1891",
+  "hometown" : "Không rõ",
+  "occupation" : "Tức Nữ sĩ Hồng Thiết, dòng dõi Đoan Hưng Quận Công Nguyễn Văn Trương.",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 1822,
-  "entityName": "Nguyễn Tuấn Trình",
-  "aliases": [
-    "Thâm Tâm"
-  ],
-  "overview": "Nhà nghèo, học hết bậc tiểu học, ông bỏ học đi làm để mưu sinh. Từ năm 1938 ông cùng gia đình sống ở Hà Nội, vẽ tranh và sáng tác văn học. Ông viết nhiều nhất ở các báo Tiểu thuyết thứ bảy, Truyền bá, Phổ thông bán nguyệt san. Sau Cách mạng tháng Tám, ông tham gia Hội Văn hóa Cứu quốc, rồi toàn quốc kháng chiến, ông vào bộ đội, làm thư kí Tòa soạn báo Vệ quốc quân. Năm 1950, ông tham dự chiến dịch Cao Lạng, trên đường hành quân, ông mất vào ngày 18-8-1950 hưởng dương 33 tuổi. Thơ ông được tán thưởng nhiều qua các thi đề: Thanh ca, Vọng nhân hành, Tống biệt hành, Chiều mưa đường số 5. Thuốc mê là truyện dài đầu tay của ông được độc giả toàn quốc hoan nghênh từ trước năm 1945. Tống biệt hành là một thi đề đầy mĩ tính của nghệ thuật thi ca với những câu vượt thời gian: Đưa người, ta không đưa qua sông, Sao có tiếng sóng ở trong lòng! Bóng chiều không thắm không vàng vọt, Sao đầy hoàng hôn trong mắt trong? Đưa người, ta chỉ đưa người ấy, Một giã gia đình, một dửng dưng..."
+  "id" : 1822,
+  "entityName" : "Nguyễn Thị Tuệ",
+  "aliases" : [ "Hồng Thiết" ],
+  "overview" : "Bà kết duyên với Nguyễn Phúc Hồng Thiết (tuần phủ tỉnh Bình Thuận, con thứ 18 của Tuy Lý vương Miên Trinh). Năm Ất dậu 1885, quân Pháp chiếm kinh thành Huế, Nguyễn Văn Tường bị Pháp bắt. Tuy Lý vương bị đưa đi an trí ở Quảng Ngãi, gia đình bà bị an trí ở Phú Yên, đến năm 1888 mới được về quê, bà mất năm 1891, hưởng dương 41 tuổi. Trước khi qua đời, bà có bài thơ: Một đám trần ai phủi sạch rồi, Lợi danh như rứa thấy thì thôi! Bồ đề cội cũ thường vun quén, Bát nhã thuyền đưa vốn sẵn ngồi Sóng gió mênh mang nhờ lượng Phật, Sắt son ghỉ tạc tấm tình tôi. Nương qua bể khổ về bờ cõi, Chín phẩm sen vàng quyết hẳn vui.. Con trai bà là Thúc Giạ Thị Ưng Bình cùng nổi tiếng trên văn đàn Việt Nam."
 }

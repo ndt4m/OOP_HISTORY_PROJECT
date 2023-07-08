@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Bính Thìn 1916",
-  "dateOfDeath": "Bính Tuất 1946",
-  "hometown": "quê ở Thủ Đức, tỉnh Gia Định (nay thuộc TP",
-  "occupation": "Luật sư, chiến sĩ cách mạng",
-  "workTenure": "Không rõ",
-  "fatherName": {
-    "Thái Văn Lân": null
+  "dateOfBirth" : "Mậu Ngọ 1858",
+  "dateOfDeath" : "Bính Thìn 1916",
+  "hometown" : "tại làng Tân An Tây, tổng Đức Hòa Trung (Phước Lợi) huyện Hà Đông phủ Tam Kì, tỉnh Quảng Nam (nay thuộc xã Tiên Thọ, huyện Tiên Phước tỉnh Quảng Nam), tục gọi là Phó Bẽm (hay Bẻn) vì ông giữ chức Phó tổng tại địa phương",
+  "occupation" : "Liệt sĩ, thủ lãnh cuộc khởi nghĩa Duy Tân năm 1916 ở Tiên Phước - Tam Kì sinh ngày 14 tháng 3 năm Mậu ngọ (1858) tại làng Tân An Tây, tổng Đức Hòa Trung (Phước Lợi) huyện Hà Đông phủ Tam Kì, tỉnh Quảng Nam (nay thuộc xã Tiên Thọ, huyện Tiên Phước tỉnh Quảng Nam), tục gọi là Phó Bẽm ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
-  },
-  "id": 1480,
-  "entityName": "Thái Văn Lung",
-  "aliases": [],
-  "overview": "Ông vốn con nhà giàu, theo đạo Gia tô, được sang Pháp học trường Luật và trường khoa học chính trị. Ông đỗ cử nhân Luật ưu hạng, và vì có quốc tịch Pháp, nên ông phải nhập ngũ trong hàng ngũ quân đội Pháp với quân hàm Chuẩn úy, trong thế chiến thứ hai (1939-1945). Về nước, xuất thân như ông hẳn là \"con cưng\" của thực dân, nhưng ông sớm giác ngộ cách mạng, đã quyết định đứng vào hàng ngũ dân tộc. Tháng 3 năm 1945 ông cùng các ông Mai Văn Bộ, Phạm Ngọc Thạch và Nguyễn Văn Thủ được Xứ ủy Nam Kì giao cho nhiệm vụ tổ chức Thanh niên tiền phong Sài Gòn, Chợ Lớn. Ngày 23-9-1945, cuộc Nam Bộ kháng chiến phát khởi. Ngày hôm sau ông bị thực dân Pháp bắt một lượt với Phạm Ngọc Thuần, bị chúng hành hung dã man. Ông cương quyết không đầu thú. Biết chúng chưa rõ lai lịch, ông không để lộ danh tánh và địa vị xã hội của mình. Chẳng bao lâu ông được lọt lưới thực dân. Đầu năm 1946, ông bỏ nhà vào khu tham gia ủy ban kháng chiến xã. Nhận rõ giá trị ông qua sự tích cực công tác các đồng chí cử ông lên làm Chủ tịch ủy ban kháng chiến quận Thủ Đức. Đến khi sa vào tay giặc, ông kiên trung bất khuất. Vợ ông cũng bị bắt giữ và giam riêng. Biết mình phải hi sinh ông dặn vợ: \"Tôi chết, không có gì ân hận. Tôi sung sướng đã làm trọn nghĩa vụ. Nếu em còn sống và được thả, em nhắn lại với các chiến hữu của tôi: Hãy cố gắng đạt tới mục đích chung đến ngày thắng lợi cuối cùng\". Ngày 2-7-1946 ông bị thảm sát trong tù hưởng dương 30 tuổi. Năm 1949, Phạm Ngọc Thuần viết một quyển sách nhỏ bằng Pháp văn, nhan đề là Les Variétés du Maquis, nhắc đến Thái Văn Lung với niềm cảm phục: Không một bí mật quân sự, không một tiết lộ, không một tin tức nào vượt khỏi đôi môi đã khép chặt một cách anh dũng phi thường và khép chặt mãi mãi. Với cái chết kéo dài một cách thảm khốc, luật sư Thái Văn Lung còn minh họa bằng một hình tích đẫm máu của chính anh để nói thêm với ta rằng: \"Vết nhơ của nô lệ chỉ có thế rửa được bằng máu.\""
+  "id" : 1480,
+  "entityName" : "Trần Huỳnh",
+  "aliases" : [ "Bẻn" ],
+  "overview" : "Xuất thân trong một gia đình nông nghiệp bán cận sơn thuộc phủ Tam Kì. Những năm 1902-1908 ông tham gia phong trào Duy tân tại địa phương lập chợ mở trường tân học (chợ Cây Cốc - nay là chợ Tiên Thọ, trường Tân Xuân...). Trong cuộc khủng bố trắng năm 1908 ông thoát được nanh vuốt thực dân và Nam triều, đến năm 1916 ông là thành viên cuộc khởi nghĩa Duy Tân tại Quảng Nam. Đội quân khởi nghĩa tại Tam Kì do ông (Tr.H) làm Tổng lãnh binh có nhiệm vụ chiếm phủ đường Tam Kì (lúc này chưa có huyện Tiên Phước). Nội vụ xảy ra như sau: Vào tháng 9 năm 1916 tại Tam Kì, Tân An Tây, Tích Phước. Các nhà cách mạng thành lập một tổ chức gọi là Phục quốc quân được hình thành tại nhà ông Trần Huỳnh, Thẩm Tùng Văn (Hoa kiều), Trần Khuê... Chiều ngày 1-5-1916 (tức ngày 29-3 Âm lịch) trong một cuộc họp ở Tích Phước gồm một số nhà lãnh đạo cuộc nổi dậy chiếm phủ Tam Kì sẽ diễn ra vào đêm mùng 2 rạng sáng mùng 3 tháng Tư Âm lịch (tức đêm 3 rạng ngày 4 tháng 5 năm 1916) đợi lệnh cuộc phát khởi tại Huế. Cuộc khởi nghĩa tại Huế bị bại lộ khâm sứ Charles phát một trung đội lê dương cấp tốc vào Tam Kì trấn áp. Tuy vậy nghĩa quân lúc ấy đã vây chặt phủ đường Tam Kì, một dân binh tên là Trần Chái (quê ở Tam Dưỡng, thị xã Tam Kì) leo lên cột cờ hạ cờ Nam triều xuống và treo cờ nghĩa quân lên thì bị địch bắn chết tại chỗ. Sáng ngày 4-5-1916 lực lượng khởi nghĩa chiếm trọn phủ lị và các làng xã kế cận. Nhưng liền đó Pháp phân công ông Trần Huỳnh và các chiến hữu (Thẩm Tùng Văn, Lê Ngạn, Ngô Đốc, Đỗ Đăng Cảnh, Trần Chương, Lương Đình Thực) đều bị Pháp bắt trọn đày Lao Bảo, Ban Mê Thuột. Ngày 27-5-1916 tòa Nam án Quảng Nam mở phiên tòa ở Vĩnh Điện, ông bị kết án khổ sai chung thân đày đi Ban Mê Thuột. Sau đó chúng tăng án ông bị xử tử hình, ông bị xử chém tại Chợ Củi (Vĩnh Điện - Điện Bàn). Ông hi sinh vào ngày 3 tháng 6 nặm 1916, thọ 58 tuổi. Vì cuộc khởi nghĩa năm 1916 và nghĩa quân chiếm phủ lị Tam Kì ở địa phương có bài vè: Năm Thìn (1916), ngày Tị Giờ Tí tháng Tư Anh em ta bị sự hư một lần Kéo lên năm bảy trăm dân Nửa đồn Đại lí nửa quầng lên Nha (Phủ lị) (…) Khắc ác ông huyện Hà Đông Bắt ra phơi nắng, cổ gông chân xiềng Người giàu đóng góp bạc tiền Người nghèo bị bắt, giải liền phủ trên Tù giam biệt xứ ai quên! Phú cho trời đất khi nên thì nhờ (...)"
 }

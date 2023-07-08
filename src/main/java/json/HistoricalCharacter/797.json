@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "20 tháng 7, 1954 (64 tuổi) Quế Sơn, Quảng Nam, Quốc gia Việt Nam",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Hà Nội",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 797,
-  "entityName": "Nguyễn Xuân Phúc",
-  "aliases": [],
-  "overview": "Nguyễn Xuân Phúc (sinh 20 tháng 7 năm 1954) là đương kim Thủ tướng Chính phủ nước Cộng hoà Xã hội Chủ nghĩa Việt Nam. Ông còn là đại biểu quốc hội Việt Nam khóa XIV nhiệm kì 2016-2021 thuộc đoàn đại biểu thành phố Hải Phòng. Ông từng là Đại biểu Quốc hội Việt Nam khóa XIII nhiệm kì 2011-2016, thuộc đoàn đại biểu tỉnh Quảng Nam. Trong Đảng Cộng sản Việt Nam, ông hiện giữ chức Ủy viên Bộ Chính trị Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa XII, Bí thư Ban Cán sự Đảng Chính phủ."
+  "dateOfBirth" : "Quí Hợi 1623",
+  "dateOfDeath" : "…",
+  "hometown" : "quê xã Hoạch Trạch, huyện Đường An, tỉnh Hải Dương",
+  "occupation" : "Có sách chép là Nhữ Đình Dụng, Văn thần đời Lê Huyền tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
+  "id" : 797,
+  "entityName" : "Nhữ Tiến Dụng",
+  "aliases" : [ "Nhữ Đình Dụng" ],
+  "overview" : "Năm Giáp thìn 1664 ông đỗ đồng tiến sĩ 41 tuổi, làm quan đến Cấp sự trung. Tương truyền ông là người ăn ở trung hậu, có nhân đức. Do đấy, dù tài học tầm thường, nhưng rất được triều đình ưu ái, sĩ phu trọng vọng. Về sau con ông là Nhữ Tiến Hiền, cháu nội ông là Nhữ Đình Toản, Nhữ Trọng Thai đều là bậc đại khoa có danh tiếng trong lịch sử."
 }

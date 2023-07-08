@@ -1,18 +1,18 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Vua",
-  "workTenure": "1516–1516",
-  "fatherName": {
-    "Lê Doanh": null
+  "dateOfBirth" : "1765\n----------------------------------------------\nẤt Dậu 1765",
+  "dateOfDeath" : "1825\n----------------------------------------------\nẤt Dậu 1825",
+  "hometown" : "Thừa Thiên-Huế",
+  "occupation" : "Danh sĩ thời Nguyễn sơ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34,
+    "Nhà Tây Sơn" : 21,
+    "Nhà Nguyễn độc lập" : 30
   },
-  "motherName": {},
-  "eraName": {
-    "Nhà Hậu Lê – giai đoạn Lê sơ": 20
-  },
-  "id": 90,
-  "entityName": "Lê Quang Trị",
-  "aliases": [],
-  "overview": "Lê Quang Trị (chữ Hán: 黎光治 1509 - 1516) là một vị hoàng đế nhà Lê sơ trong lịch sử Việt Nam. Do được lập lên ngôi và phế truất trong thời gian loạn lạc ngắn ngủi, ông ít được nhắc tới trong danh sách các vị vua chính thống của Việt Nam."
+  "id" : 90,
+  "entityName" : "Trịnh Hoài Đức",
+  "aliases" : [ "An", "Cấn Trai", "Chỉ Sơn" ],
+  "overview" : "Trịnh Hoài Đức (chữ Hán: 鄭懷德; 1765 - 1825), còn có tên là An(安), tự Chỉ Sơn (止山), hiệu Cấn Trai (艮齋); là một công thần của triều Nguyễn, là một nhà thơ, nhà văn và là một sử gia nổi tiếng của Việt Nam trong thế kỷ 18-19. Sinh thời, ông từng được vua nhà Nguyễn ban tước An Toàn hầu .\n----------------------------------------------\nThuở trẻ ông là học trò của Sùng Đức xử sĩ Võ Trường Toản ở Gia Định. Từ năm 1788, ông thi đỗ rồi làm quan với chúa Nguyễn Ánh. Đến đời Gia Long ông càng được trọng dụng, nhiều lần đi sứ Trung Quốc, làm đến Thượng thư bộ Lại, kiêm bộ Hình và Phó tổng tài Quốc sử quán. Ông nổi tiếng văn chương một thời cùng Lê Quang Định và Ngô Nhơn Tịnh được người đời xưng tặng là \"Gia Định tam gia\" trong nhóm Bình Dương thi xã tiếp thời với thi phái Chiêu Anh Các ở Hà Tiên. Thơ Nôm của ông còn truyền tụng khá nhiều. Năm Ất dậu 1825 ông mất, thọ 60 tuổi. Các tác phẩm chính của ông: - Lịch Đại kí - Cân Trai thi tập - Nguyên Khang - Bắc sứ thi tập - Khanh tế lục - Gia Định thành thông chí - Gia Định tam gia thi tập Bộ Gia Định thành thông chí là một địa phương chí ra đời sớm và sáng giá nhất về đất Nam Kì xưa. Với công trình này, tác giả không những giúp cho người Việt Nam am hiểu về miền đất mới của tổ quốc, mà còn cho người nước ngoài hiểu về đất Nam Kì xưa một cách tường tận. Chính vì vậy, ngay từ khi mới chiếm Nam Kì người Pháp (Aubaret) đã dịch tác phẩm này sang tiếng Pháp hồi cuối thế kỉ XIX."
 }

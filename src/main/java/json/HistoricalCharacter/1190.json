@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê ở thôn Phúc Nghĩa, tỉnh Sơn Tây (nay là Sơn Tây)",
-  "occupation": "Hào kiệt trong thời Trưng vương",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trưng Nữ Vương": 10
+  "dateOfBirth" : "Ất Sửu 1925",
+  "dateOfDeath" : "Mậu Thân 1968",
+  "hometown" : "quê ở Bạc Liêu",
+  "occupation" : "Liệt sĩ cách mạng",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nước Việt Nam mới" : 29
   },
-  "id": 1190,
-  "entityName": "Đinh Lượng",
-  "aliases": [],
-  "overview": "Ông giỏi võ nghệ, tính hào hiệp, nổi tiếng anh hùng. Tương truyền: nghe đồn cô gái Phùng Thị Chính là bậc nữ trung hào kiệt ông đến viếng thăm thử tài, rồi nên duyên chồng vợ. Khi Hai bà Trưng lãnh đạo cuộc khởi nghĩa, vợ chồng ông hưởng ứng, oanh liệt chống xâm lăng. Nhất là vợ ông lắm phen vào sinh ra tử, quyết chí liều mình đuổi giặc. Đến lúc thế cùng, Trưng vương tuẫn tiết vợ ông cũng tử tiết, ông đánh nhau với giặc một trận cuối cùng đẫm máu, bỏ mình trong trận."
+  "id" : 1190,
+  "entityName" : "Lê Thị Riêng",
+  "aliases" : [ ],
+  "overview" : "Sinh trong một gia đình nông dân nghèo, mồ côi cha mẹ sớm, giác ngộ cách mạng từ tuổi trẻ, tích cực tham gia kháng chiến từ 1945. Sau hiệp định Genève, bà được bầu làm ủy viên ủy ban Trung ương Mặt trận dân tộc Giải phóng miền Nam, và là phó hội trưởng Hội Liên hiệp phụ nữ Giải phóng miền Nam. Trong một chuyến công tác, bà bị địch bắt vào tháng 5-1967, giam tại nhà lao Biên Hòa. Địch tra tấn vô cùng dã man, bà vẫn bất khuất. Trong cuộc Tổng tiến công tết Mậu thân bà bị chúng giết chết trên đường Hồng Bàng Sài Gòn (nay là đường Hùng Vương Thành phố Hồ Chí Minh)."
 }

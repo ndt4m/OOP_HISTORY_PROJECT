@@ -1,18 +1,20 @@
 {
-  "dateOfBirth": "Nhâm Tuất 1922",
-  "dateOfDeath": "Bính Ngọ 1966",
-  "hometown": "quê xã Vĩnh Lợi, huyện Vĩnh Lợi, tỉnh Bạc Liêu (nay vẫn thuộc tỉnh Bạc Liêu)",
-  "occupation": "Tức nhạc sĩ Quách Vĩnh Chương ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "5 tháng 7 năm 182 Hạ Bi, Từ Châu, Nhà Hán",
+  "dateOfDeath" : "21 tháng 5 năm 252 (70 tuổi) Kiến Nghiệp, Đông Ngô",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Đông Ngô",
+  "workTenure" : "23 tháng 5 229 – 21 tháng 5 252 22 năm, 344 ngày",
+  "fatherName" : {
+    "Tôn Kiên" : null
   },
-  "id": 2144,
-  "entityName": "Quách Vĩnh Chương",
-  "aliases": [
-    "Quách Vũ"
-  ],
-  "overview": "Ông nhiệt tình yêu nước, từ năm 1940 ông học ở Hà Nội, từng hợp tác với Lưu Hữu Phước sáng tác và phổ biến những ca khúc khơi động tinh thần cách mạng. Rồi từ sau Cách mạng tháng Tám, ông tận tụy phục vụ công tác văn hóa cứu quốc. Những bài hát của ông được nhân dân hoan nghênh. Năm 1954, nhận chỉ thị về Sài Gòn hoạt động, ông cùng Dương Tử Giang, Nguyễn Tấn Sĩ và các đồng chí tích cực cùng âm nhạc khơi động lòng yêu nước của nhân dân nội thành. Bị địch theo dõi và bắt được, ông vẫn vững ý chí bất khuất. Đến khi thoát ngục, ông trở ra chiến khu công tác và càng tích cực hơn. Ngày 9-9-1966 ông mất, hưởng dương 44 tuổi. Đến ngày 17-4-1984 Hội Văn nghệ TP. Hồ Chí Minh làm lễ truy điệu và bốc mộ cải táng ông về nghĩa trang liệt sĩ thành phố. Các ông Trương Bỉnh Tòng, Đoàn Giỏi đều có bài cảm niệm ông chí thiết."
+  "motherName" : {
+    "Ngô thị" : null
+  },
+  "eraName" : {
+    "Đông Ngô" : null
+  },
+  "id" : 2144,
+  "entityName" : "Tôn Quyền",
+  "aliases" : [ "Trọng Mưu", "Tên đầy đủ Họ: Tôn (孫) Tên: Quyền (權) tự Trọng Mưu (仲謀) Niên hiệu xem phần Niên hiệu Thụy hiệu Đại hoàng đế (大皇帝) Miếu hiệu Thái Tổ (太祖)", "Ngô Đại Đế" ],
+  "overview" : "Tôn Quyền (giản thể: 孙权; phồn thể: 孫權; 5 tháng 7 năm 181– 21 tháng 5, 252), tự là Trọng Mưu (仲谋), thụy hiệu Ngô Đại Đế (吴大帝, tức là \"Hoàng đế lớn của Ngô\"), là người sáng lập của chính quyền Đông Ngô dưới thời Tam Quốc trong lịch sử Trung Quốc. Ông thừa hưởng quyền kiểm soát đất Giang Đông từ tay huynh trưởng, Tôn Sách, năm 200. Ông tuyên bố độc lập và cai trị Giang Đông từ năm 222 đến 229 với tước hiệu Ngô vương và từ 229 đến 252 với tước hiệu hoàng đế Ngô. Không như các đối thủ Tào Tháo và Lưu Bị, Tôn Quyền thường đóng vai trò trung lập trong các cuộc xung đột của Thục và Ngụy, và chỉ đứng về một trong phía hai bên còn lại nếu điều đó có lợi cho nước Ngô; cũng không bao giờ cố gắng để thống nhất ba nước, mặc dù nhiều sử gia cho rằng là do không đủ thực lực để làm điều đó."
 }

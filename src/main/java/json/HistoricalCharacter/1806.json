@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "…",
-  "dateOfDeath": "Canh Thìn 1940",
-  "hometown": "quê ở ấp Tân Hội Đông, xã Tân Tạo, tỉnh Chợ Lớn (nay thuộc huyện Bình Chánh, thành phố Hồ Chí Minh)",
-  "occupation": "Liệt sĩ cách mạng",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng hậu vợ Trần Minh tông, mẹ Trần Nghệ tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Trần" : 15
   },
-  "id": 1806,
-  "entityName": "Lê Công Phép",
-  "aliases": [],
-  "overview": "Năm 1940, trong cuộc Nam Kì khởi nghĩa ông được cử đứng ra lãnh đạo ủy ban hành động ở Long Hưng hạ. Sau đêm khởi nghĩa ông bị địch bắt giam ở bót Catinat, bi tra tấn cực hình, nhưng ông không khai một lời nào, rồi chúng đem ông xử bắn ngay tại quê nhà. Truớc lúc bị bắn ông bảo đám lính người Việt: \"Các anh cũng là đồng bào Việt Nam, các anh không nên bắn tôi, để cho Tây nó bắn\". Ông còn hô to: \"Cách mạng thành công muôn năm\"."
+  "id" : 1806,
+  "entityName" : "Chiêu Từ",
+  "aliases" : [ ],
+  "overview" : "Tính bà khắc nghiệt, tham lợi, hay dự việc triều chính. Nhất là khi Nghệ tông ở ngôi, nhiều việc đều do bà quyết đoán nên triều thần nhiều người không phục. Các vương hầu cùng lắm người ngầm phản đối khiến lòng người li tán. Triều chính nhà Trần suy bại, một phần cũng vì sự lộng hành của bà."
 }

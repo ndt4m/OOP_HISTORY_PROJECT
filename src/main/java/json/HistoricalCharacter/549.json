@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Tân Hợi 1671",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê làng An Ấp, huyện Hương Sơn tỉnh Hà Tĩnh (nay thuộc Hà Tĩnh)",
-  "occupation": "Văn thần đời Lê Huyền tông con Thiêm đô ngự sử đời vua Lê Hiển tông là Đinh Nho Công",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "Mậu Thìn 1928",
+  "dateOfDeath" : "Đinh Sửu 1997",
+  "hometown" : "quê xã Dương Xá, huyện Gia Lâm, Thành phố Hà Nội",
+  "occupation" : "Giáo sư y khoa, Thiêú tướng QĐNDVN",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nước Việt Nam mới" : 29
   },
-  "id": 549,
-  "entityName": "Đinh Nho Hoàn",
-  "aliases": [],
-  "overview": "Canh thìn 1700, ông đỗ Nhị giáp tiến sĩ lúc 29 tuổi, làm đến Hầu thị lang bộ công, từng được cử đi sứ Thanh. Trên đường đi sứ về, chẳng may ông bệnh mất, được truy tặngTả thị lang bộ Lại. Vợ ông là Phan Thị nghe tin ông mất, đau lòng thắt cổ chết theo chồng. Nhà vua ban chiếu cho treo biển phong tặng tại cổng nhà để nêu tiếng khen. (Hồng Hà nữ sĩ Đoàn Thị Điểm có một truyện nói về tiết tháo của bà Đinh Nho Hoàn, đề là An ấp liệt nữ trong tập truyện truyền kì)."
+  "id" : 549,
+  "entityName" : "Nguyễn Huy Phan",
+  "aliases" : [ ],
+  "overview" : "Ông tham gia chống Pháp từ sau cách mạng tháng 8 năm 1945 trong lĩnh vực quân y của QĐNDVN. Xuất thân là y sĩ phòng quân y Bộ Quốc phòng và trở thành người đầu tiên xây dựng chuyên ngành phẫu thuật tạo hình Việt Nam, Viện sĩ Hàn lâm khoa học Newyork (Hoa Kì), Phó chủ tịch Tổng hội y dược học Việt Nam, Chủ tịch hội Hữu nghị Việt Mĩ... Ông là tác giả 118 tài liệu và công trình khoa học về phẫu thuật tạo hình và vi phẫu thuật, 110 bài viết và báo cáo khoa học về lĩnh vực phẫu thuật chung, 23 tài liệu bằng tiếng nước ngoài... Do công sức, khả năng, tinh thần phục vụ khoa học và nhân dân, ông được Quân đội và nhà nước tặng nhiều huân chương cao quí; trong đó có Huân chương Độc lập hạng nhất và danh hiệu Thầy thuốc nhân dân. Ông mất trong năm 1997 tại Hà Nội."
 }

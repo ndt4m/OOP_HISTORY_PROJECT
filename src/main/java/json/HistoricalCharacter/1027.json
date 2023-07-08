@@ -1,25 +1,16 @@
 {
-  "dateOfBirth": "26 tháng 7, 1507 Đông Kinh\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath": "15 tháng 6, 1527 (19 tuổi) Tây cung, Đông Kinh, Đại Việt\n----------------------------------------------\nKhông rõ",
-  "hometown": "Không rõ",
-  "occupation": "Hoàng đế Đại Việt\n----------------------------------------------\nVua",
-  "workTenure": "22 tháng 7 năm 1522 – 15 tháng 6 năm 1527 (4 năm, 328 ngày)\n----------------------------------------------\n1522–1527",
-  "fatherName": {
-    "Lê Minh Tông": null
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Giáp Thân 1224",
+  "hometown" : "quê ở kinh đô Thăng Long (nay là Hà Nội)",
+  "occupation" : "Thiền sư đời Lý Huệ tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Lý" : 14
   },
-  "motherName": {
-    "Trịnh Thị Loan": null
-  },
-  "eraName": {
-    "Nhà Hậu Lê – giai đoạn Lê sơ": 20,
-    "Nhà Lê sơ": null
-  },
-  "id": 1027,
-  "entityName": "Lê Cung Hoàng",
-  "aliases": [
-    "Lê Xuân (黎椿)",
-    "Cung Hoàng đế (恭皇帝)",
-    "Thống Nguyên (統元)"
-  ],
-  "overview": "Lê Cung Hoàng (chữ Hán: 黎恭皇; 26 tháng 7, 1507 – 15 tháng 6, 1527), là vị hoàng đế thứ 11 của nhà Hậu Lê, ở ngôi từ năm 1522 đến 1527, tổng cộng 5 năm. Ông là vị hoàng đế cuối cùng của nhà Lê sơ.\n----------------------------------------------\nLê Cung Hoàng (chữ Hán: 黎恭皇 26 tháng 7 năm 1507 – 15 tháng 6 năm 1527) là vị hoàng đế thứ 11 của nhà Hậu Lê, ở ngôi từ năm 1522 đến 1527, tổng cộng 5 năm với niên hiệu Thống Nguyên. Ông là vị hoàng đế cuối cùng của nhà Lê sơ."
+  "id" : 1027,
+  "entityName" : "Lê Thuần",
+  "aliases" : [ "Hiện Quang" ],
+  "overview" : "Ông mồ côi cha từ ngày còn bé, được sư Thường Chiếu đem về nuôi dạy hơn 10 năm. Sau khi Thường Chiếu qua đời, ông theo tu học với sư Trí Thông. Tương truyền khi ở chùa, một hôm vì nhận một món lễ vật của công chúa Hoa Dương, bị xuyên tạc, đạo hữu chê cười, ông bèn vào núi Uyên Trừng ở Nghệ An theo học với sư Pháp Giới. Khi tu học ở Uyên Trừng, Lý Huệ tông nhiều lần cho vời ông về triều, ông đều từ chối. Có nguời biết vậy hỏi: - Thầy ở trên núi làm gì? Ông đáp bằng một bài kệ: \"Ná dĩ Hứa Do đức, Hà tri thế kỉ xuân. Vô vi cư khoáng dã, Tiêu dao tự tại nhân.\" Nghĩa: Họ Hứa đường quen nết Bao xuân mặc cõi đời. Mênh mông quãng đồng rộng. Tùy ý tự rong chơi. Năm Tân tị 1221 ông mất tại núi Uyên Trừng. Trước khi mất ông còn lưu lại bài kệ cho đệ tử: \"Huyễn pháp giai thị huyễn, Huyễn tu giai thị huyễn, Nhị huyễn giai bất tức, Tức thị trừ như huyễn.\" Nghĩa: Pháp chính là huyền pháp Tu, đều là huyễn tu. Biết hai cái đều huyễn, Mọi huyễn thảy tiêu trừ. Ông là tác giả một số bài kệ."
 }

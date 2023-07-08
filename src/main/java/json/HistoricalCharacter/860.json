@@ -1,18 +1,17 @@
 {
-  "dateOfBirth": "Nhâm Tuất 1922",
-  "dateOfDeath": "Không rõ",
-  "hometown": "tại Cao Lãnh, tỉnh Kiến Phong (nay thuộc tỉnh Đồng Tháp) Từ năm 1945 ông từng làm giáo viên Việt ngữ ở Campuchia",
-  "occupation": "Nhà nghiên cứu văn hóa Việt Khmer",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Quí Dậu 1813",
+  "dateOfDeath" : "Mậu Tí 1888",
+  "hometown" : "quê xã Nguyệt Viên, huyện Hoằng Hóa, tỉnh Thanh Hóa",
+  "occupation" : "Đại thần đời vua Đồng Khánh",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 860,
-  "entityName": "Lê Quang Hương",
-  "aliases": [
-    "Lê Hương"
-  ],
-  "overview": "Sau hiệp định Genève ông là thông tín viên Việt Tấn Xã (Sài Gòn) tại Nam Vang, năm 1958 về làm việc tại Bộ Thông tin rồi tại Phủ Quốc vụ khanh Đặc trách văn hóa Sài Gòn (1972-1975). Các tác phẩm chính: - Tự học chữ Miên (1963) - Truyện cổ quôc tế (1969) - Truyện vui quốc tẽ (1969) - Nguời Việt gốc Miên (1969) - Truyện cổ Cao Miên I, II (1969) - Angkor (1970) - Bùa ngải Cao Miên (1970) - Chợ trời biên giới Việt Nam - Cao Miên (1969) - Sử Cao Miên (1970) - Việt Kiều ở Kampuchia (1971) - Sử liệu Phù Nam (1970) - Người hùng (1970) - Truyện cổ Ấn Độ (1970) - Truyện cổ tích Việt Nam (1970) - Quả đâm thôi sơn (1952) Và một số truyện ngắn in trên các báo từ năm 1945-1975: Trung Bắc chủ nhật, Tiểu thuyết thứ bảy ở Hà Nội cùng một số bản thảo: Cổ tục Cao Miên, Truyện nghẹt thở, Truyện cổ Cao Miên III - IV, Lịch sử Cao Lãnh và Đồng Tháp Mười."
+  "id" : 860,
+  "entityName" : "Nguyễn Hữu Độ",
+  "aliases" : [ "Hi Bùi", "Tống Khê" ],
+  "overview" : "Nguyễn Hữu Độ có thể là:\n----------------------------------------------\nÔng sinh năm Quí dậu 1813, đỗ cử nhân năm 1837, đỗ tiến sĩ năm 1838. Làm quan từ Thượng thư đến Phụ chính đại thần, Cơ mật viện đại thần... Nguyễn Hữu Độ là người học thức uyên bác, từng giữ nhiều chức vụ quan trọng trong triều vua Đồng Khánh. Năm 1880-1883 ông giữ chức Kinh lược Bắc Kì khi quân Pháp chiếm Hà Nội. Sau này ông là người giữ một vai trò quyết định cho việc Đồng Khánh lên ngôi (vì con gái ông là chánh phi của vua Đồng Khánh) nên được phong làm cố mạng lương thần gia hàm Thái sư, Cần chánh điện đại học sĩ kiêm Cơ mật đại thần. Dư luận đương thời cho rằng Nguyễn Hữu Độ là người có liên hệ mật thiết với Pháp, nhất là Champeaux (Thượng thư bộ Hình), nên lời nói ông được Pháp nghe hơn cả và chính ông và Đồng Khánh cố ý thảm sát Phụ chánh đại thần Phan Đình Bình sau khi ông làm Phụ chánh cho vua Đồng Khánh. Ngày 18-12-1888, ông mất tại Hà Nội, thọ 75 tuổi, di hài đưa về chôn ở Huế. Tác phẩm của ông: - Đại Nam thực lục chính biên - Tống Khê tấu nghị tập"
 }

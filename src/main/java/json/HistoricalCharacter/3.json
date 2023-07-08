@@ -1,19 +1,14 @@
 {
-  "dateOfBirth": "1916\n----------------------------------------------\nBính Thìn 1916",
-  "dateOfDeath": "1985\n----------------------------------------------\nẤt Sửu 1985",
-  "hometown": "quê làng Bản Ngũ, huyện Vụ Bản, tỉnh Nam Định",
-  "occupation": "Nhà hoạt động cách mạng, tên thường dùng là Nguyễn Đức Thuận, tục danh là Tư Móm",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
-  },
-  "id": 3,
-  "entityName": "Nguyễn Đức Thuận",
-  "aliases": [
-    "Nguyễn Đức Thuận"
-  ],
-  "overview": "Nguyễn Đức Thuận (1916 – 1985) là nhà cách mạng Việt Nam, nguyên là Phó Bí thư Xứ ủy Nam Bộ, Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, Chủ tịch Tổng Liên đoàn Lao động Việt Nam. Ông là tác giả cuốn Bất khuất, một cuốn tự truyện từng gây tiếng vang ở miền Bắc về \"sức chịu đựng kỳ diệu của một người chiến sĩ\", suốt 8 năm bị tra tấn dã man vẫn không khuất phục...\" ).\n----------------------------------------------\nXuất thân công nhân, năm 1936 tham gia phong trào thợ thuyền ở Hà Nội, năm 1937 gia nhập Đảng Cộng sản Đông Dương. Năm 1940 có chân trong Thành ủy Hà Nội, cuối năm 1940 bị bắt, kết án 15 năm khổ sai đày lên nhà tù Sơn La, đến cuối năm 1943 đày Côn Đảo. Năm 1945 được cách mạng đón về đất liền, cử giữ chức Bí thư tỉnh ủy Thủ Dầu Một (nay là tỉnh Bình Dương). Năm 1947 làm bí thư khu 7 (miền Đông Nam Bộ)... Sau hiệp định Genève, ông ở lại miền Nam, đến năm 1956 bị bắt đày Côn Đảo lần thứ hai. Năm 1964 ra tù, đến năm 1967 là Phó Chủ tịch kiêm Tổng thư kí Tổng Công đoàn Việt Nam rồi Chủ tịch. Năm 1985 Ủy viên Trung ương Đảng Cộng sản Việt Nam. Ông mất năm 1985 tại Hà Nội, thọ 69 tuổi."
+  "dateOfBirth" : "1483",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 3,
+  "entityName" : "Trần Bảo Tín",
+  "aliases" : [ ],
+  "overview" : "Trần Bảo Tín (chữ Hán: 陳保信; 1483-?) là một danh thần thời Hậu Lê."
 }

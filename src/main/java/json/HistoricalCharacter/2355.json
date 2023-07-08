@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "1919 Ân Thi, Hưng Yên",
-  "dateOfDeath": "2011 (92 tuổi)",
-  "hometown": "quê ở xã Phù Ủng, huyện Ân Thi, Hưng Yên.",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 2355,
-  "entityName": "Trần Đình Thọ",
-  "aliases": [],
-  "overview": "Trần Đình Thọ (2/10/1919- 2/2011) là một giáo sư, họa sĩ, nhà giáo nhân dân nổi tiếng quê ở xã Phù Ủng, huyện Ân Thi, Hưng Yên. Ông tốt nghiệp khóa cuối cùng của Trường Cao đẳng Mỹ thuật Đông Dương (1939-1944). Theo đánh giá của nhiều nhà nghiên cứu, họa sĩ Trần Đình Thọ thuộc thế hệ hoạ sĩ đàn anh của nền nghệ thuật tạo hình cách mạng. Nhắc đến ông là nhớ đến một hoạ sĩ của cách mạng và nhân dân."
+  "dateOfBirth" : "Nhâm Tí 1912",
+  "dateOfDeath" : "Tân Tị 1941",
+  "hometown" : "Quê làng Nam Trực, phủ Nam Trực, tỉnh Nam Định (nay vẫn thuộc tỉnh Nam Định)",
+  "occupation" : "Nhà thơ lấy ba chữ tên họ xáo trộn làm biệt ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
+  },
+  "id" : 2355,
+  "entityName" : "Lê Văn Bái",
+  "aliases" : [ "J. Leiba" ],
+  "overview" : "Tuổi trẻ ông học tại Trường Bưởi đến năm thứ ba thì bỏ đi theo bọn giang hồ mại vũ gần một năm. Sau về quê học cha Hán, năm 1935 thi đậu bằng thành chung rồi vào ngạch thư kí tòa sứ Bắc Kì. Trong thời gian làm công chức, ông thường viết bài trên các báo: Ngọ báo, Đông Tây, Trung Bắc, Tiểu thuyết thứ bảy, Ích Hữu, Tin Văn, Việt báo, L'Annam nouveau... Thơ ông mang dấu ấn thời đại, có nhiều bài rất hay, cảm hóa được nhiều giới độc giả lúc đương thời. Ngoài ra ông còn là một dịch giả thơ Đường trên các báo trên. Trước khi lìa đời ông có mấy vần tuyệt bút như nhắn gửi thế nhân: Đời như hiu quạnh, nghĩa trang không, Sự thế vùi trong nấm cỏ đồng. Tro giấy bay thành hồ điệp trắng, Lệ rơi máu đỏ đỗ quyên hồng … Một cười trả lại người thiên hạ, Cả tấm thân này lẫn mộng hoa. Bài Hoa bạc mệnh có những câu trở thành \"kinh ngữ\" của thơ ca hiện đại và cho đến nay vẫn được giới yêu thơ tán thưởng. Người đẹp vẫn thường hay chết yểu, Thi nhân đầu bạc sớm hơn ai. Ba xuân, muôn thắm thêu cành biếc, Bạc mệnh hoa kia đã rụng rồi! Héo trước trăm hoa, hoa bạc mệnh, Đang xuân để khỏi thấy xuân tàn Chúa xuân ví biết tình hoa thế, Xin kiếp sau đừng nở thế gian. Hồn kết gió hương trời Nhược Thủy Cánh viền mây thắm động Thiên Thai Hóa thành những giọt mưa thơm ấy, Tưới nở trăm hoa đã héo rồi. Ngày 18-12-1941, ông mất, hưởng dương 29 tuổi để lại sự thương tiếc của giới văn chương, nghệ thuật."
 }

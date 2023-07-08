@@ -1,16 +1,18 @@
 {
-  "dateOfBirth": "…",
-  "dateOfDeath": "Ất Mùi 1775",
-  "hometown": "Không rõ",
-  "occupation": "Danh tướng, nhà doanh điền thời chúa Thượng.",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Vua",
+  "workTenure" : "950—965",
+  "fatherName" : {
+    "Ngô Quyền" : 1285
   },
-  "id": 2826,
-  "entityName": "Nguyễn Cửu Đàm",
-  "aliases": [],
-  "overview": "Xuất thân là võ tướng con trai của Chánh thống cai cơ Nguyễn Cửu Vân, làm quan tướng đến chức Hữu quân phó tiết chế cai cơ thời Thượng vương. Năm 1770-1772 quân Xiêm xâm lấn đất Hà Tiên, triều đình cử ông làm khâm sai thống suất đốc chiến, cùng tham tướng Trần Phúc Thành lãnh quân Thủy bộ cùng 30 chiếc thuyền từ sông Tiền Giang, Hậu Giang tiến đánh quân Xiêm (Thái Lan ngày nay), phá tan được giặc, quân Xiêm phải xin hòa và bình định được đất Chân Lạp yên ổn. Từ đó (1772) công việc bình định đất Hà Tiên, Chân Lạp xong, ông đem quân về Gia Định. Trong thời gian này ông cho xây lũy Bán Bích (Tân Hòa) bao quanh đồn trại phía tây lị sở phủ Tân Bình đề phòng sự bất trắc có thể xảy ra. Đến mùa xuân năm Ất mùi (1775) ông chết trận, sau này được vua Gia Long liệt thờ vào miếu Trung tiết công thần tại Huế."
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Ngô và Dương Tam Kha" : 25
+  },
+  "id" : 2826,
+  "entityName" : "Nam Tấn Vương",
+  "aliases" : [ ],
+  "overview" : "Ngô Xương Văn (chữ Hán: 吳昌文; 934 – 965) là một vị vua nhà Ngô trong lịch sử Việt Nam. Ông trị vì từ 950 đến 965, trong đó khoảng từ 951 – 954 ông trị vì cùng với anh trai là Ngô Xương Ngập. Sử gọi chung đó là thời Hậu Ngô Vương."
 }

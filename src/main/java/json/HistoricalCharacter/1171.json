@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Kỉ Mão 1759",
-  "dateOfDeath": "Quí Mùi 1823",
-  "hometown": "quê ở thôn Đại Hành",
-  "occupation": "Danh sĩ cuối đời Hậu Lê",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Quê xã Lục Dương, huyện Chí Linh, tỉnh Hải Dương",
+  "occupation" : "Danh thần đời Mạc",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nam - Bắc Triều" : 19
   },
-  "id": 1171,
-  "entityName": "Nguyễn Bá Xuyến",
-  "aliases": [],
-  "overview": "Ông mồ côi cha từ bé, lưu lạc nhiều nơi, có chí cầu học, nổi tiếng văn chương. Năm 34 tuổi (Quí sửu 1793) ông vào Gia Định theo giúp Nguyễn Ánh, được làm Khâm sai chưởng cơ, rồi làm An phủ sứ phủ Hoài Đức, tước Xuyến Ngọc Hầu. Năm Quí mùi 1823, ông mất, thọ 64 tuổi. Còn để lại bộ Xuyến Ngọc Hầu thi văn tập gồm hơn 50 bài thơ quốc âm và nhiều bài văn tế (tạp chí Nam Phong có sao lục, đăng từ số 117 đến 126) Nay còn truyền một bản Công thần Nguyễn An phủ sứ truyện."
+  "id" : 1171,
+  "entityName" : "Dương Tốn",
+  "aliases" : [ ],
+  "overview" : "Ông cũng tinh thông khoa thuật số, địa lý, binh pháp. Danh tiếng ông vang khắp xa gần. Các học trò ông thành đạt, về sau đều nhớ công đức đào tạo của ông. Về thơ văn, ông nổi tiếng vào bậc thầy ông lại sở trường nhất về thể phú, nên đương thời có câu truyền tụng: \"Dịu dàng như phú Dương Tốn\". Cả đến các quan học sĩ trong triều cũng đánh giá cao tập phú của ông nhan đề: Phụ nhân đồng tử giai tri kì danh nghĩa là: Đàn bà con nít cũng đều biết tiếng. Con ông là Dương Phổ cũng nổi danh về từ phú."
 }

@@ -1,16 +1,19 @@
 {
-  "dateOfBirth": "924",
-  "dateOfDeath": "963",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Đường": null
+  "dateOfBirth" : "1916 Gia Lâm, Bắc Ninh\n----------------------------------------------\nĐinh Tị 1917",
+  "dateOfDeath" : "1963\n----------------------------------------------\nTân Hợi 1971",
+  "hometown" : "quê tỉnh Hà Đông, (nay thuộc TP",
+  "occupation" : "Thủ lãnh, sáng lập viên đảng Dân chủ Việt Nam",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "cụ Dương Đức Hiệp công chức Sở Lao động thời Pháp thuộc ở Hà Nội" : null
   },
-  "id": 2586,
-  "entityName": "Kinh Nam",
-  "aliases": [],
-  "overview": "Kinh Nam (荆南) (924–963) hay còn gọi là Nam Bình (南平), Bắc Sở (北楚), là một trong mười nước tại miền Trung Nam Trung Quốc, được thành lập sau năm 907, khi nhà Đường sụp đổ, đánh dấu sự khởi đầu của thời kỳ Ngũ đại Thập quốc tại Trung Quốc (907-960)."
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
+  },
+  "id" : 2586,
+  "entityName" : "Dương Đức Hiền",
+  "aliases" : [ ],
+  "overview" : "Dương Đức Hiền (1916 - 1963 ), là một nhà hoạt động chính trị Việt Nam. Ông là người sáng lập và là Tổng bí thư đầu tiên của Đảng Dân chủ Việt Nam.\n----------------------------------------------\nThuở nhỏ ông là học sinh truờng Bưởi, cựu sinh viên Luật khoa Đông Dương, nhưng năm 40 tốt nghiệp cử nhân luật. Khi còn là sinh viên luật, ông phụ trách Tổng hội sinh viên, thủ lãnh nhóm sinh viên yêu nước Đại học Hà Nội. Những năm 1939 - 1945 là cộng tác viên của báo Thanh Nghị. Năm 1945 rút vào hoạt động bí mật, ủng hộ phong trào Việt Minh, rồi cùng nhóm thành lập đảng Dân chủ Việt Nam. Thời kì còn hoạt động bí mật cho đến cuộc kháng chiến chống Pháp ông đại diện đảng Dân chủ trong Chính phủ lâm thời. Trong Quốc dân đại hội họp ở Tân Trào, ông là Ủy viên Ủy ban Dân tộc giải phóng (7-8-1945), rồi giữ chức Bộ trưởng Bộ Thanh niên trong chính phủ lâm thời (2-9-1945), Đại biểu Quốc hội khóa 1 (1946) đơn vị tỉnh Bắc Ninh, ủy viên chính thức Ban Thường trực Quốc hội và ông cũng là đồng tác giả soạn thảo hiến pháp năm 1946. Trong kháng chiến chống Pháp ông làm việc ở chiến khu Việt Bắc. Hòa bình lập lại ông công tác ở Hà Nội. Ông mất năm 1971 tại Hà Nội, thọ 64 tuổi."
 }

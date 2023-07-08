@@ -1,17 +1,17 @@
 {
-  "dateOfBirth": "1390 Sơn Đông, Lập Thạch, Vĩnh Phúc\n----------------------------------------------\n…",
-  "dateOfDeath": "1429 Sơn Đông, Lập Thạch, Vĩnh Phúc\n----------------------------------------------\nKỉ Dậu 1429",
-  "hometown": "quê huyện Lập Thạch, phủ Vĩnh Tường, tỉnh Sơn Tây (nay thuộc tỉnh Hà Tây)",
-  "occupation": "Thuộc\n----------------------------------------------\nDanh tướng đời Lê Thái tổ",
-  "workTenure": "1420–1429\n----------------------------------------------\nKhông rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Minh, Nhà Lê sơ": null,
-    "Triều Lê Sơ": 7
+  "dateOfBirth" : "1434\n----------------------------------------------\nGiáp Dần 1434",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Thái Nguyên",
+  "occupation" : "Danh thần, thuở trẻ có tên là Viễn",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "nhà Lê" : null,
+    "Triều Lê Sơ" : 7
   },
-  "id": 2103,
-  "entityName": "Trần Nguyên Hãn",
-  "aliases": [],
-  "overview": "Trần Nguyên Hãn (chữ Hán: 陳元扞, 1390 - 1429) là võ tướng nổi tiếng thời Lê sơ, ông được biết đến là công thần hàng đầu có nhiều đóng góp đánh thắng quân Minh trong khởi nghĩa Lam Sơn.\n----------------------------------------------\nÔng vốn dòng dõi Tư Đồ Trần Nguyên Đán đời nhà Trần. Sau đó nhà Trần suy vi, Hồ Quí Ly lên làm vua, quân Minh sang cướp nước ta, ông theo giúp Lê Lợi kháng chiến cứu nước. Trong các trận ông lập được nhiều chiến công, thăng đến chức Tư Đồ. Ông từng chỉ huy các trận đánh lớn ở Nghệ An (1425), Đông Đô (1426) do đó danh tiếng ông lừng lẫy. Năm Đinh mùi 1427, ông được phong Thái úy, khởi nghĩa Lam Sơn thành công (1428) ông giữ chức Tả tưởng, được cho theo họ vua nên cũng gọi là Lê Hãn. Ông quyền cao chức trọng, nhưng nhận xét tướng mạo của Lê Thái tổ giống như Việt vương Câu Tiễn thời Chiến quốc, chỉ có thể ăn ở với nhau trong khi hoạn nạn, mà không thể gần nhau lúc an nhàn, nên không bao lâu ông xin về dưỡng lão. Vua Lê chấp thuận. Sau đó, có người gièm pha với nhà vua rằng ông có ý mưu phản, ông bị bắt. Trên đường giải về kinh đô, đến bến đò xã Thượng Đông, thuộc tỉnh Sơn Tây ông bị chết đuối khi thuyền bị sóng nhận chìm, vào khoảng tháng 2 năm Ki dậu 1429. Lại có người cho rằng việc đắm thuyền là do ông gây ra, vua Lê càng tức giận, ra lịnh bắt hết vợ con ông, tịch thu tất cả tài sản. Đến đời Lê Nhân tông (năm Ất hợi 1455) mới phục hồi danh dự và trả lại tài sản cho con cháu ông. Nhà Mạc có truy tặng ông là Tả tướng quân Trung liệt đại vương."
+  "id" : 2103,
+  "entityName" : "Đỗ Cận",
+  "aliases" : [ "Viễn", "Cận", "Hữu Khác", "Phổ Sơn" ],
+  "overview" : "Đỗ Cận (1434-?), trước tên là Viễn, sau được vua Lê Thánh Tông đổi lại là Cận, tự: Hữu Khác, hiệu: Phổ Sơn; là danh thần nhà Lê sơ trong lịch sử Việt Nam.\n----------------------------------------------\nTự là Hữu Khác, hiệu Phổ Sơn, quê ở xã Thông Thượng, huyện Phổ Yên, tỉnh Thái Nguyên. Năm Mậu tuất 1478, ông đỗ Tam giáp đồng tiến sĩ, làm thượng thư. Khoảng năm Quí mão 1483, ông đi sứ Minh, có soạn tập Kinh Lăng kí, tả phong tục và phong cảnh Thủ đô Kim Lăng của Trung Quốc."
 }

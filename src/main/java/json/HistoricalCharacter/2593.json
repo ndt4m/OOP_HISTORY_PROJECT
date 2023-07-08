@@ -1,16 +1,18 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Quê xã Hiếu Phạm, huyện Văn Giang, xứ Kinh Bắc, tỉnh Bắc Ninh (nay thuộc tỉnh Bắc Ninh), sau con cháu dời sang cư ngụ ở huyện Đường Hào, tỉnh Hải Dương",
-  "occupation": "Danh thần đời Lê Chân tông ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "11 tháng 6, 1733",
+  "dateOfDeath" : "24 tháng 10, 1765 (32 tuổi) Phú Xuân, Đàng Trong, Đại Việt",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "Nguyễn Phúc Khoát" : 2086
   },
-  "id": 2593,
-  "entityName": "Lê Công Nẫm",
-  "aliases": [],
-  "overview": "Ông làm quan với nhà Lê, có quân công được phong Kim tử vinh lộc đại phu, Thái thường tự Thiếu Khanh, tước Thiên Hào Tử. Con ông là Lê Công Vị cũng là bậc nhân tài của đất nước. Công Vị sinh Doãn Nghi chính là thân sinh của Đoàn Trác Luân và Đoàn Thị Điểm. Tương truyền bởi Doãn Nghi mộng thấy thần nhân ban cho họ Đoàn nên mới đổi họ Lê ra họ Đoàn từ đấy. Từ xưa nơi nhà thờ dòng dõi Lê Công Nẫm có câu đối: \"Vũ liệt văn khôi quang thế phả; Lê tiên Đoàn hậu chấn gia phong\"."
+  "motherName" : {
+    "Trương Thị Dung" : null
+  },
+  "eraName" : { },
+  "id" : 2593,
+  "entityName" : "Nguyễn Phúc Côn",
+  "aliases" : [ "Hưng Tổ (兴祖)", "Nguyễn Hưng Tổ", "Nhân Minh Cẩn Hậu Khoan Dụ Ôn Hòa Hiếu Khang Hoàng đế (仁明谨厚宽裕温和孝康皇帝)" ],
+  "overview" : "Nguyễn Phúc Luân (chữ Hán: 阮福㫻, 11 tháng 6 năm 1733 - 24 tháng 10 năm 1765), còn gọi là Nguyễn Hưng Tổ (阮興祖), là một vương tử ở Đàng Trong, được di chiếu sẽ lên ngôi chúa Nguyễn ở Đàng Trong nhưng không thành. Ông bị quyền thần ngoại thích là Trương Phúc Loan sát hại."
 }

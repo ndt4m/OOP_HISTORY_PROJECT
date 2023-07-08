@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "17 tháng 3, 1913 Vinh, Nghệ An, Liên bang Đông Dương",
-  "dateOfDeath": "1 tháng 7, 2006 (93 tuổi) Hà Nội, Việt Nam",
-  "hometown": "Không rõ",
-  "occupation": "Thuộc",
-  "workTenure": "1945–1986",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 2265,
-  "entityName": "Chu Huy Mân",
-  "aliases": [],
-  "overview": "Chu Huy Mân (1913–2006) là một chính khách và tướng lĩnh Quân đội Nhân dân Việt Nam, hàm Đại tướng. Ông từng giữ chức Ủy viên Bộ Chính trị, Phó Chủ tịch Hội đồng Nhà nước, Chủ nhiệm Tổng cục Chính trị Quân đội Nhân dân Việt Nam."
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Ất Mão 1735",
+  "hometown" : "Không rõ",
+  "occupation" : "Vua nhà Hậu Lê",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
+  "id" : 2265,
+  "entityName" : "Lê Duy Phương",
+  "aliases" : [ "Duy Phường" ],
+  "overview" : "Ông lên ngôi năm Kỉ dậu 1729, đến tháng 8 năm Nhâm tí 1732 ông bị Uy Nam vương Trinh Giang vu cho tư thông với vợ Trịnh Cương, giáng xuống làm Hôn Đức Công. Năm Ất mão 1735, ông lại bị Trịnh Giang giết, táng bằng sô tượng tại làng Kim Lữ, huyện Thanh Trì, Hà Nội. Ông ở ngôi 4 năm, hiệu năm là Vĩnh Khánh: tháng 4 Kỉ dậu 1729 - tháng 8 Nhâm tí 1732."
 }

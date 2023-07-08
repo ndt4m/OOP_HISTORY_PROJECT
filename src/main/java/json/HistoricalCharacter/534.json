@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê ở Hải Thanh, họ Nguyễn nên gọi là Nguyễn Giác Hải",
-  "occupation": "Thiền sư đời Lý Nhân tông, không rõ năm sinh, năm mất",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Lý": 14
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Quí Tị 1773",
+  "hometown" : "huyện Bình Sơn, tỉnh Quảng Ngãi (nay thuộc tỉnh Quảng Ngãi)",
+  "occupation" : "Cao tăng đời chúa Nguyễn Phúc Thuần, không rõ năm sinh",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
   },
-  "id": 534,
-  "entityName": "Giác Hải",
-  "aliases": [
-    "Giác Hải"
-  ],
-  "overview": "Ông cùng quê với sư Không Lộ, thuở trẻ làm nghề chài cá, đến năm 25 tuổi mới đi tu. Về sau được truyền tâm ấn, đứng vào thế hệ thứ 10 dòng thiền Quan Bích. Các vua nhà Lý rất trọng vọng ông, Lý Nhân tông có thơ tán tụng ông và sư Thông Huyền. Đời ông có nhiều truyền thuyết hoang đường như sư Từ Lộ (Đạo Hạnh). Đời Lý Thân tông, nhà vua nhiều lần vời ông vào triều ông lấy cớ già yếu để từ chối. Tác phẩm của ông gồm một số bài kệ và thơ nay chỉ còn lại vài bài, như: Hoa điệp Xuân lai hoa điệp thiện tri thì, Hoa điệp ủng tu cộng ứng kì. Hoa điệp bản lai giai thi huyển, Mạc tu hoa điệp hướng tâm tri. Bản dịch: Xuân sang hoa bướm khéo quen thì, Bướm lượn hoa cười vẫn đúng kì. Nên biết bưóm hoa đều huyền ảo Thấy hoa mặc bướm để lòng chi."
+  "id" : 534,
+  "entityName" : "Bùi Đăng Tường",
+  "aliases" : [ "Long Kì" ],
+  "overview" : "Năm 20 tuổi ông vào tu ở chùa Phổ Phúc, đạo hạnh được mọi người trọng vọng. Chúa Nguyễn phong cho ông là hòa thượng và ban hiệu là Long Kì đại sư. Khoảng năm Quí tị 1773, khi trong nước có nhiều biến loạn ông chịu mật chỉ của chúa Nguyễn tập hợp tăng đồ và dân chúng lo việc bảo an, nhận tước phong là Khâm sai vệ quốc súy. Không bao lâu, ông chết trong trận đánh nhau với Tây Sơn ở Quảng Nam."
 }

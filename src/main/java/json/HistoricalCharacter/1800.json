@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Quê làng Bối Khê, huyện Thanh Oai, tỉnh Hà Đông (nay thuộc tỉnh Hà Tây)",
-  "occupation": "Danh sĩ, con trai Nguyên Trãi, mẹ là Phạm Thị Mẫn, vợ thứ Nguyễn Trãi",
-  "workTenure": "Không rõ",
-  "fatherName": {
-    "Nguyên Trãi": null
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê ở Hải Thanh, họ Nguyễn nên gọi là Nguyễn Giác Hải",
+  "occupation" : "Thiền sư đời Lý Nhân tông, không rõ năm sinh, năm mất",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Lý" : 14
   },
-  "motherName": {},
-  "eraName": {
-    "Triều Lê Sơ": 7
-  },
-  "id": 1800,
-  "entityName": "Nguyễn Anh Võ",
-  "aliases": [],
-  "overview": "Sau khi Lê Thái tông mất, gây ra vạ cả nhà Nguyễn Trãi bị thảm sát, một số thân quyến trốn thoát được trong đó có Anh Vũ. Nguyên Nguyễn Trãi và vợ chánh là Trần Thị Thành sinh được 3 trai: Hồng Tiệm, Hồng Lục và Hồng Quì đều bị thảm sát. Vợ thứ Nguyễn Trãi là Phạm Thị Mẫn nguời làng Thụy Tú (sau đổi là Thụy Phú), huyện Phú Xuyên, tỉnh Hà Đông. Khi gặp nạn bà đang có thai Anh Võ mới 3 tháng, bà vội vã trốn không kịp đem người con gái lớn là Nguyễn Thị Đào theo, lẩn tránh ở vùng Sơn Nam, rồi sinh ra Anh Vũ, đổi là họ Phạm trốn ở vùng Bồn Man. Sau ông lớn lên, về nương náu nhà họ ngoại ở làng Bối Khê, huyện Thanh Oai, tỉnh Hà Đông, năm 19 tuổi thi đỗ Sinh đồ (Tú tài). Năm Giáp thân 1464, vua Lê Thánh tông xuống chiếu tẩy oan cho Nguyễn Trãi và lục dụng con cháu còn sống sót. Anh Vũ ra khai nhận lấy lại họ Nguyễn, được bổ làm Tri huyện Tây Châu (sau là huyện Nam Trực, tỉnh Nam Định) và được cấp ruộng tế tự. Ông làm quan đến chức Tham chính, có hai con là Nguyễn Tô Giám và Nguyễn Tô Kiên đều đỗ Tiến sĩ."
+  "id" : 1800,
+  "entityName" : "Giác Hải",
+  "aliases" : [ "Giác Hải" ],
+  "overview" : "Ông cùng quê với sư Không Lộ, thuở trẻ làm nghề chài cá, đến năm 25 tuổi mới đi tu. Về sau được truyền tâm ấn, đứng vào thế hệ thứ 10 dòng thiền Quan Bích. Các vua nhà Lý rất trọng vọng ông, Lý Nhân tông có thơ tán tụng ông và sư Thông Huyền. Đời ông có nhiều truyền thuyết hoang đường như sư Từ Lộ (Đạo Hạnh). Đời Lý Thân tông, nhà vua nhiều lần vời ông vào triều ông lấy cớ già yếu để từ chối. Tác phẩm của ông gồm một số bài kệ và thơ nay chỉ còn lại vài bài, như: Hoa điệp Xuân lai hoa điệp thiện tri thì, Hoa điệp ủng tu cộng ứng kì. Hoa điệp bản lai giai thi huyển, Mạc tu hoa điệp hướng tâm tri. Bản dịch: Xuân sang hoa bướm khéo quen thì, Bướm lượn hoa cười vẫn đúng kì. Nên biết bưóm hoa đều huyền ảo Thấy hoa mặc bướm để lòng chi."
 }

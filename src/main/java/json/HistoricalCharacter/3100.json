@@ -1,16 +1,22 @@
 {
-  "dateOfBirth": "Kỉ Dậu 1789",
-  "dateOfDeath": "Kỉ Hợi 1839",
-  "hometown": "Quê ở Cát Động, huyện Thanh Oai, tỉnh Hà Đông (nay thuộc TP",
-  "occupation": "Có sách chép là Hà Quyền, Danh sĩ đời Minh Mạng",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "tháng 4, năm 1255 Thăng Long, Đại Việt\n----------------------------------------------\nẤt Mão 1255",
+  "dateOfDeath" : "1330 Thăng Long, Đại Việt\n----------------------------------------------\nTân Mùi 1331",
+  "hometown" : "Không rõ",
+  "occupation" : "Tể tướng Đại Việt\n----------------------------------------------\nDanh tướng đời Trần Nhân tông con thứ sáu Trần Thái tông, tước Chiêu văn vương. Người anh hùng trong trận Hàm Tử đuổi giặc Nguyên Mông xâm lược.",
+  "workTenure" : "1302 – 1330\n----------------------------------------------\nKhông rõ",
+  "fatherName" : {
+    "Trần Thái tông" : null,
+    "Trần Thái Tông" : 1286
   },
-  "id": 3100,
-  "entityName": "Hà Tông Quyền",
-  "aliases": [],
-  "overview": "Năm Nhâm ngọ 1822, ông đỗ Tiến sĩ, làm đến Tham tri bộ Lại. Lúc ở nội các, lúc ở viện Cơ mật, ông hết lòng lo liệu việc dân việc nước. Ông nổi tiếng văn chương đương thời. Năm Nhâm thìn 1822, ông đi công cán ở nước ngoài, tại Ba Lăng (Bali thuộc xứ Nam Dương). Khi về, bao nhiêu thơ sáng tác trong lúc xa nước xa quê, ông gom thành một tập đề là Mộng dương, các thơ văn khác gom vào bộ Tốn Phủ thi văn tập Vua Minh Mạng khen tài ông: Kiện tiệp tài tử. Năm Kỉ hợi 1839, ông mất, hưởng dương 50 tuổi, được truy tặng là Thượng thư bộ Lại. Phan Thanh Giản có đôi câu đối điếu ông: \"Khai khoa sự nghiệp suy tiền bối; Tuyệt thế văn chương tất đại gia\". Văn chương ông, hầu hết sĩ phu đều ca ngợi. Lúc hay tin bị đưa đi xa, ông bùi ngùi. Thập tải trì khu bất cố gia, Hữu danh vô thực nại ngô hà! Quốc dân nhân vị quyên ai báo, Thân sự duy ưng oán ngoại đa. Thiên hữu đông xuân khan vãng phục, Đia phi giang hải diệc phong ba Tâm đài đãn nguyện thao trì định. Vận khoảnh thương mang nhất hạo ca. Bản dịch: Dong ruổi mười năm chằng ngó nhà, Có danh không thực thế này a! Liều mình chưa dễ đền ân nước, Chác oán thôi rành bởi chuyện ta! Trời có xuân đông rồi chuyển vận, Đất không sông biển cũng phong ba. Lòng riêng giữ vững tay chèo lái. Man mác muôn trùng một tiếng ca. Ông còn để lại các tác phẩm: - Tốn Phủ thi tập - Mộng dương thi tập - Liễu đường văn tập - Hà Tốn Phủ thi tập - Thăng Long tam thập vịnh - Nguyễn triều tấu biểu - Minh Mệnh chánh yếu - Vịnh Kiều tam thập thủ..."
+  "motherName" : {
+    "Vũ Thái phi" : null
+  },
+  "eraName" : {
+    "Nhà Trần" : 15,
+    "Vương triều nhà Trần" : null
+  },
+  "id" : 3100,
+  "entityName" : "Trần Nhật Duật",
+  "aliases" : [ "Trần Quang Khải", "Chiêu Văn vương Chiêu Văn Đại vương" ],
+  "overview" : "Trần Nhật Duật (chữ Hán: 陳日燏, 1255 – 1330), được biết qua tước hiệu Chiêu Văn vương (昭文王) hay Chiêu Văn đại vương (昭文大王), là một nhà chính trị, quân sự Đại Việt thời Trần. Ông là con trai thứ sáu của Trần Thái Tông và là một danh tướng của vương triều nhà Trần trong lịch sử Việt Nam. Ông là người có công trong cuộc kháng chiến chống quân Nguyên Mông lần thứ hai và thứ ba, đặc biệt là chiến thắng Hàm Tử, công lao hiển hách không thua kém Trần Quốc Tuấn hay Trần Quang Khải.\n----------------------------------------------\nÔng giỏi việc chính trị, quân sự, thông thạo ngôn ngữ và phong tục tập quán của các sắc dân trong và ngoài nước. Sử cũ chép rằng khi ông sinh ra trên cánh tay có mấy chữ \"Chiêu Văn đồng tử\" nên về sau ông được phong tước Chiêu Văn vương. Năm Canh thìn 1280 Tù trưởng ở đạo Đà Giang là Trịnh Giác Mật nổi lên chống triều đình, nghe tin ông nhận lệnh đi đánh dẹp, sai người đến thách ông: \"Mật không dám trái mệnh nếu ân chúa một mình một ngựa đến thì Mật xin hàng\". Ông chấp nhận, chỉ đem theo 6 tiểu đồng mỗi người một ngựa thẳng tới cổng giặc. Trịnh Giác Mật thấy ông dũng cảm lại thông thạo ngôn ngữ các sắc tộc ít người, đem lòng cảm phục chịu qui hàng. Năm Ất dậu 1285, quân Nguyên sang xâm lược, ông đánh thắng trận Hàm Tử (Khoái Châu, tỉnh Hưng Yên) danh tiếng ông càng lừng lẫy. Năm 1302 ông được phong làm Thái úy Quốc Công, rồi thăng Tá Thánh Thái sư, sau được phong Đại vương vào năm 1329. Ông từng phục vụ 4 triều vua (Nhân tông, Anh tông, Minh tông và Hiến tông) có nhiều công lao xây dựng xứ sở, đem lại an lành cho nhân dân. Ông chẳng những giỏi chính trị, quân sự, lại thông thạo ngôn ngữ các dân tộc ít người, mà còn là nhà sáng tác âm nhạc nổi tiếng ở cung đình, văn sĩ có danh tiếng đương thời. Năm Tân mùi 1331, ông mất, thọ 76 tuổi. Ông là tác giả sách: Lĩnh Nam dật sử."
 }

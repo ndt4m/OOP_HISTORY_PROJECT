@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Giáp Tuất 1514",
-  "dateOfDeath": "Tân Mão 1591",
-  "hometown": "quê xã Truy Lộc, huyện Lâm Thủy, tỉnh Quảng Bình, ngụ ở xã Phù Diễn, huyệnTừ Liêm, tỉnh Hà Đông (nay là Hà Nội)",
-  "occupation": "Danh sĩ nhà Mạc",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nam - Bắc Triều": 19
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Đinh Mùi 1787",
+  "hometown" : "quê làng Ngọc Điền, huyện Thanh Chương, tỉnh Nghệ An (nay là tỉnh Nghệ An)",
+  "occupation" : "Có sách chép là Trần Danh Bích",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
   },
-  "id": 1078,
-  "entityName": "Dương Văn An",
-  "aliases": [],
-  "overview": "Năm Đinh mùi 1547, đời Mạc Phúc Nguyên ông 33 tuổi, đỗ tam giáp tiến sĩ, nổi tiếng văn học, làm Lại khoa đô cấp sự trung, rồi thăng dần đến Tả thị lang bộ Lại, tước Sùng Nham Bá. Sau làm đến Thượng thư, tước Sùng Nham Hầu. Năm Tân mão 1591, ông mất, thọ 77 tuổi, được tặng tước Tuấn Quận Công. Ông có soạn bộ Ô châu cận lục 6 quyển. Viết từ năm Cảnh Lịch 6 (Quí sửu 1553), sửa chữa và ấn hành vào năm Quang Bảo 2 (Ất mão 1555) đời Mạc Phúc Nguyên, đến nay đã hơn 400 năm. Sách viết về núi sông, thành trì, phong tục, danh nhân miền Thuận Hóa từ khi mới khai khẩn đến giai đoạn Nam tiến của nhân dân ta."
+  "id" : 1078,
+  "entityName" : "Trần Phương Bính",
+  "aliases" : [ "Trần Danh Bích", "Trần Danh Nhuế", "Chiêu Cày" ],
+  "overview" : "Ông là con tiến sĩ Trần Danh Tố. Khi nghĩa quân Tây Sơn ra Bắc, ông âm mưu chống lại nhà Tây Sơn, nhưng Trần Quang Diệu mến tài tha cho. Sau ông dấy binh với danh nghĩa phù Lê, nhưng bị nhà Tây Sơn tiêu diệt."
 }

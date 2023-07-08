@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Chúa",
-  "workTenure": "1613—1635",
-  "fatherName": {
-    "Chúa Tiên": null
+  "dateOfBirth" : "Ất Sửu 1925",
+  "dateOfDeath" : "Kỉ Tị 1989",
+  "hometown" : "Quê TP",
+  "occupation" : "Nhà văn ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nước Việt Nam mới" : 29
   },
-  "motherName": {},
-  "eraName": {
-    "Đàng Trong - Chúa Nguyễn": 5
-  },
-  "id": 1980,
-  "entityName": "Sãi Vương Phật Vương",
-  "aliases": [],
-  "overview": "Nguyễn Phúc Nguyên (chữ Hán: 阮福源; 16 tháng 8 năm 1563 – 19 tháng 11 năm 1635) hay Nguyễn Hy Tông, Nguyễn Tuyên Tổ, là vị chúa Nguyễn thứ hai của chính quyền Đàng Trong trong lịch sử Việt Nam (ở ngôi từ 1613 đến 1635) sau chúa Tiên Nguyễn Hoàng. Trong thời gian ở ngôi chúa, ông đã xây dựng một vương triều độc lập ở Đàng Trong, từng bước ly khai khỏi chính quyền Lê – Trịnh ở Đàng Ngoài. Ông được dân chúng gọi là chúa Sãi, chúa Bụt hay Phật chúa."
+  "id" : 1980,
+  "entityName" : "Đoàn Giỏi",
+  "aliases" : [ "Nguyễn Phú Lễ", "Huyền Tư", "Nguyễn Hoài" ],
+  "overview" : "Thuở nhỏ học tại Mĩ Tho, Sài Gòn; viết văn, làm thơ từ trước Cách mạng tháng Tám năm 1945. Trong kháng chiến chống Pháp có lúc ông phụ trách công tác tuyên huấn, rồi phục vụ trong ngành an ninh. Năm 1954 tập kết ra Bắc, từng là ủy viên Ban Chấp hành Hội Nhà văn Việt Nam. Sau năm 1975 về công tác tại TP. Hồ Chí Minh, ông mất năm 1989. Các tác phẩm: - Những dòng chữ máu Nam Kì 1940 (1948) - Người Nam thà chết chứ không hàng (1948) - Đường về gia hương (1949) - Cá bống mú (1956) - Trần Văn Ơn, (1955) - Đất rừng phương Nam (1957) - Những chuyên lạ về cá (1981) - Tê giác giữa ngàn xanh (1982)..."
 }

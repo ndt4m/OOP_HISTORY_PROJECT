@@ -84,7 +84,16 @@ public abstract class Entity
         return false;
     }
 
-    public boolean isMatch(String name){
+    public boolean searchName(String name){
+        Set<String> lowercaseAliases = new HashSet<>();
+        for (String alias : getAliases()) {
+            lowercaseAliases.add(alias.toLowerCase());
+        }
+        for (String alias : getAliases()) {
+            if (alias.toLowerCase().contains(name.toLowerCase())) {
+                return true;
+            }
+        }
         if (this.getEntityName() != null){
             return this.getEntityName().toLowerCase().contains(name.toLowerCase());
         }

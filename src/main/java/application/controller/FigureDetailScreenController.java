@@ -14,6 +14,7 @@ import javafx.scene.Scene;
 import javafx.scene.layout.FlowPane;
 import javafx.scene.paint.Color;
 import javafx.scene.text.Text;
+import javafx.scene.text.TextFlow;
 import javafx.stage.Stage;
 
 import java.io.IOException;
@@ -50,7 +51,7 @@ public class FigureDetailScreenController {
     private Text motherText;
 
     @FXML
-    private FlowPane aliasFlowPane;
+    private TextFlow aliasTextFlow;
 
     @FXML
     private TopBarController topBarController = new TopBarController();
@@ -83,11 +84,11 @@ public class FigureDetailScreenController {
 
         if (!character.getAliases().isEmpty()){
             for (String alias : character.getAliases()) {
-                Text aliasText = new Text(alias);
-                aliasFlowPane.getChildren().add(aliasText);
+                Text aliasText = new Text(alias + '\n');
+                aliasTextFlow.getChildren().add(aliasText);
             }
         }else{
-            aliasFlowPane.getChildren().add(new Text("Không rõ"));
+            aliasTextFlow.getChildren().add(new Text("Không rõ"));
         }
 
         dateOfBirthText.setText(character.getDateOfBirth());

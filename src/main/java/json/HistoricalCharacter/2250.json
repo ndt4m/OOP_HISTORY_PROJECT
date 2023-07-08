@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "Giáp Thìn 1904",
-  "dateOfDeath": "Giáp Thìn 1964",
-  "hometown": "quê ở xã Hà Mô, huyện Nông Cống, tỉnh Thanh Hóa, đến đời sau về Hà Nội",
-  "occupation": "Nữ sĩ ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Văn thần đời Lý Nhân tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Lý" : 14
   },
-  "id": 2250,
-  "entityName": "Đào Thị Nguyệt Minh",
-  "aliases": [
-    "Vân Đài"
-  ],
-  "overview": "Lập gia đình chẳng bao lâu, chồng mất. Mãn tang chồng bà trở về Bắc sinh sống, và sau tái giá với kĩ sư viễn thông Nguyễn Văn Tường. Bà là một nữ sĩ nổi tiếng, làm thơ nhiều và từng cộng tác với các báo trong Nam, ngoài Bắc. Toàn quốc kháng chiến, bà có mặt ở chiến khu Việt Bắc. Từng làm Hội trưởng Hội Dục anh, chăm sóc hàng trăm trẻ mồ côi. Nhiệt tình yêu nước, bà tích cực đóng góp vào công cuộc cứu nước và giữ nước. Năm Giáp thìn 1964, bà mất thọ 60 tuổi. Những tác phẩm đã xuất bản: 1. Hương Xuân (tập thơ in chung với Hằng Phương, Anh Thơ và Mộng Tuyết, Nhà xuất bản Nguyễn Du 1943). 2. Thanh lịch 3. Làm bếp giỏi 4. Mùa hái quả (thơ, Hà Nội, 1964). Các em gái là Đào Phi Phụng, Đào Lan Anh cũng đều là phụ nữ tài hoa, có danh tiếng trong giới văn nghệ."
+  "id" : 2250,
+  "entityName" : "Lý Thừa Ân",
+  "aliases" : [ ],
+  "overview" : "Khoảng năm Đinh hợi 1107, Thái phó Hà Hưng Tông (từng được vinh phong Tả võ vệ đại tướng quân, kiêm Tử quang lộc đại phu, Thượng trụ quốc) cùng với các trưởng lão đi chọn địa điểm để xây dựng chùa Bảo Ninh Sùng Thúc. Chùa dựng xong, Lý Thừa Ân được giao cho việc soạn văn bia, ông lãnh ý, hoàn thành nhiệm vụ. Toàn văn khá dài, cuối cùng đoạn văn bia, lời minh kết thúc ca ngợi công đức Hà Hưng Tông: \"...Vĩ tai hà thị Chiếu hồ lệnh danh, Tiên tổ du vãng Hậu cơn tái canh.... Trong Việt sử lược, chép tên họ ông là Nguyễn Thừa Ân (vì đời Trần kiêng húy ông tổ là Trần Lý, nên họ Lý đều đổi ra họ Nguyễn)."
 }

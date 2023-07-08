@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "…",
-  "dateOfDeath": "Bính Tí 1936",
-  "hometown": "Quê làng Phước Bình, huyện Quế Sơn, tỉnh Quảng Nam",
-  "occupation": "Nhà yêu nước",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "xã Mạc Xá (Danh sách trạng nguyên chép là Lương Xá), huyện Chương Đức, phủ Ứng Thiên (nay là huyện Chương Mỹ, Hà Nội) sau chuyển sang ở xã Đan Khê, huyện Thanh Oai, phủ Ứng Thiên (nay là làng Đa Sĩ, phường Kiến Hưng, quận Hà Đông, thành phố Hà Nội) .\n----------------------------------------------\nquê làng Mạc Xá, huyện Chương Đức, tỉnh Hà Đông",
+  "occupation" : "Văn thần đời Lê Tương Dực",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
   },
-  "id": 2060,
-  "entityName": "Trần Hoành",
-  "aliases": [
-    "Phước Bình",
-    "Cửu Cai"
-  ],
-  "overview": "Năm 1904, phong trào Duy tân phát động có qui mô ở Quảng Nam, ông là một trong các nhân vật thực hành duy tân ở các địa phương. Ông vừa là giáo sư tiếng Pháp vừa là giáo sư thế dục (dạy võ) của phong trào cải cách. Năm 1908 phong trào Duy tân lên mạnh mà đỉnh cao là các cuộc biều tình đòi giảm thuế, miễn sưu bùng nổ. Thực dân và triều đình tay sai đổ tội cho các nhà yêu nước trong đó có ông, nên ông bị lùng bắt, nhưng ông trốn thoát. Đến khi nổ ra cuộc khởi nghĩa do vua Duy Tân lãnh đạo năm 1916, ông là một trong các nhân vật chủ chốt về quân sự ở Quảng Nam. Cuộc khởi nghĩa thất bại, ông bị bắt đày Côn Đảo. Ra Côn Đảo một thời gian (1918) ông cùng Nguyễn Hi Cao, Nguyễn Kim Đài thả bè vượt ngục. Vừa về tới Sài Gòn thì bị bắt và phải đày ra Côn Đảo lần nữa. Khoảng năm 1925, ông được trả tự do. Trở về Huế, ông trở thành nhân viên đắc lực cho Huỳnh Thúc Kháng trong tòa soạn báo Tiếng Dân (1927-1943). Năm 1927, ông tham gia vào việc tổ chức thành lập Đảng Phục Việt (sau đổi là Tân Việt) hoạt động tại Huế và các tỉnh phía Nam Thừa Thiên. Tại đây ông bị thực dân Pháp theo dõi rất gắt. Đến năm 1936 ông mất tại Huế."
+  "id" : 2060,
+  "entityName" : "Hoàng Nghĩa Phú",
+  "aliases" : [ ],
+  "overview" : "Hoàng Nghĩa Phú (chữ Hán: 黃義富, 1479 hay 1480 - ?), người xã Mạc Xá (Danh sách trạng nguyên chép là Lương Xá), huyện Chương Đức, phủ Ứng Thiên (nay là huyện Chương Mỹ, Hà Nội) sau chuyển sang ở xã Đan Khê, huyện Thanh Oai, phủ Ứng Thiên (nay là làng Đa Sĩ, phường Kiến Hưng, quận Hà Đông, thành phố Hà Nội) .\n----------------------------------------------\nTrong nước loạn lạc, ông có công lo việc trị bình. Ông đỗ đầu nhất giáp tiến sĩ khoa Tân mùi 1511, làm đến Tham tri chính sự kiêm Ngự sử. Ông là thân phụ Hoàng Tế Mĩ, Hoàng Khắc Ninh đều là bậc hiền tài có danh tiếng đời Hậu Lê."
 }

@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "…",
-  "dateOfDeath": "Bính Ngọ 1786",
-  "hometown": "Quê làng Trảo Nha, huyện Thạch Hà, tỉnh Hà Tĩnh",
-  "occupation": "Danh tướng đời Lê Hiển tông, Dòng dõi danh tướng Ngô Cảnh Hựu đời Lê Trang tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Triền Dương, huyện Chí Linh, tỉnh Hải Dương (nay thuộc tỉnh Hải Dương)",
+  "occupation" : "Danh sĩ đời Mạc",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nam - Bắc Triều" : 19
   },
-  "id": 1246,
-  "entityName": "Ngô Cảnh Hoàn",
-  "aliases": [],
-  "overview": "Ông làm đến Tổng binh chỉ huy sứ, Quản đội Tiền Trạch nên đời sau vẫn thường gọi là ông Tiền Trạch. Năm Bính ngọ 1786 Tây Sơn cử binh đánh, ông và hai người con trai cầm quân chống cự quyết liệt trên sông Thúy Ái. Thua to, ông cùng hai con đều tử trận. Vợ ông là Phan Thị Thuấn hay tin, sau đó cũng gieo mình xuống sông Thúy Ái tử tiết."
+  "id" : 1246,
+  "entityName" : "Đồng Đắc",
+  "aliases" : [ ],
+  "overview" : "Anh ông là Đồng Hãng, đỗ Hoàng giáp, ông thì đỗ cử nhân. Tương truyền; gặp ngày kị tổ, vợ ông cùng ngồi một chiếu với chị dâu; có người trong họ nói: \"Vợ ông Cử lại được ngồi cùng chiếu với vợ ông Hoàng giáp à?\" Vợ ông tức giận bỏ về, từ ấy nằng nặc giục chồng phải gắng thi cho đỗ tiến sĩ để khỏi bị người cười chê ông bèn đến hỏi ý với anh: - Anh xem tài em có đỗ tiến sĩ được. không? Người anh giận: - Chú thấy ta đỗ Hoàng giáp, nên ngờ vực phải không? - Không phải thế, anh liệu tài em đỗ được thì em sẽ cố gắng để vợ em cũng được mở mặt. Nguời anh cười nói: - Tiến sĩ như anh đây thì ít có lắm, còn các người ở trong triều thì sàng sàng như chú cả, có học hành gì bao nhiêu. Ông nghe anh nói, hởn hở về bảo vợ: - Được rồi, tôi sẽ đỗ tiến sĩ cho mà hãnh diện. Thế rồi khoa sau ông đỗ tiến sĩ."
 }

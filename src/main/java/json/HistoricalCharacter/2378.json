@@ -1,17 +1,16 @@
 {
-  "dateOfBirth": "…",
-  "dateOfDeath": "Quí Mùi 1883",
-  "hometown": "quê làng Động Trung, huyện Kiến Xương, tỉnh Thái Bình",
-  "occupation": "Chí sĩ yêu nước kháng Pháp",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Kỉ Tị 1809",
+  "hometown" : "quê ở Mỗ Son, trại Huống Thượng, không rõ năm sinh",
+  "occupation" : "Phiên thần trấn Thái Nguyên, quê ở Mỗ Son, trại Huống Thượng",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 2378,
-  "entityName": "Nguyễnn Hữu Bản",
-  "aliases": [],
-  "overview": "Năm Quí dậu 1873, quân Pháp đánh cướp thành Hà Nội, hoành hành ở miền Bắc, ông cùng với cha là Nguyễn Mậu Kiến và em là Nguyễn Hữu Cương mộ quân chống giặc, tích cực hoạt động quân sự, liên kết với các văn thân yêu nước ở các địa phương kế cận. Năm Qui mùi 1883, ông hi sinh trong lúc cố thủ thành Nam Định."
+  "id" : 2378,
+  "entityName" : "Ma Danh Cúc",
+  "aliases" : [ ],
+  "overview" : "Từ năm Quí hợi 1803, đời Gia Long ông lợi dụng địa thế hiểm trở, chiêu tập các thổ binh ở đất Cao Lan và San Bạn, tích trữ lương thực, đặt phủ thành tàng trữ của cải ở động Bắc Cấn, mưu việc chống lại nhà cầm quyền đương thời. Năm Giáp tí 1804, tháng 3 âm lịch ông tự xưng Quận Công, cùng vói mưu sĩ tên Phượng, chỉ huy tên Vân, Đô đốc tên Mạnh dấy binh xâm phạm huyện Hữu Lang và huyện Bảo Lộc trong tỉnh Bắc Ninh. Quan quân trấn Kinh Bắc đóng đồn ở Mục Sơn ngăn chặn bọn ông, quan quân Bắc thành thì theo đường từ trấn Thái Nguyên đến đánh phía sau, bắt được mẹ và vợ Cúc, rồi sai người khuyên dỗ Cúc đầu hàng. Cúc bảo sứ giả: \"Triều đình có nghìn binh muôn ngựa, còn ta có nghìn khe muôn suối. Hãy đợi ta đánh vài trận nữa rồi sẽ biết hàng hay không hàng. Ta tha không giết người, để ngươi trở về nói cho họ rõ ý ta. Nếu còn ai đến dụ hàng, ta sẽ chém đầu\". Sau đó, Ma Danh Cúc kéo quân đánh trấn Sơn Tây. Từ đấy ông duy trì binh lực hơn 25 năm. Mãi đến Kỉ tị 1809 quan quân triều đình Huể mới đàn áp được lực lượng của ông."
 }

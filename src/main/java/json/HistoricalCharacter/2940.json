@@ -1,20 +1,16 @@
 {
-  "dateOfBirth": "Mậu Dần 1878",
-  "dateOfDeath": "Nhâm Thân 1932",
-  "hometown": "tại làng Bình Tây, tỉnh Chợ Lớn (nay thuộc Q",
-  "occupation": "Giáo tông đạo Cao Đài, tín đồ đạo Cao Đài đầu tiên, tục danh là Phủ Chiêu ",
-  "workTenure": "Không rõ",
-  "fatherName": {
-    "Ngô Văn Xuân": null
+  "dateOfBirth" : "Giáp Dần 1614",
+  "dateOfDeath" : "Canh Ngọ 1690",
+  "hometown" : "quê ở Đông Lao, huyện Hoài Đức, Hà Đông (nay thuộc tỉnh Hà Tây)",
+  "occupation" : "Võ tướng đời Lê Trung Hưng",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
   },
-  "motherName": {
-    "Lâm Thị Quí": null
-  },
-  "eraName": {
-    "Pháp đô hộ": 11
-  },
-  "id": 2940,
-  "entityName": "Ngô Văn Chiêu",
-  "aliases": [],
-  "overview": "Ông sinh trưởng trong một gia đình nghèo, cha mẹ ông phải đi làm công tại nhà máy xay lúa Bình Tây. Tuổi trẻ ông rất thông minh lại nhà nghèo nên được cấp học bổng vào học tại Trường Trung học Nguyễn Đình Chiểu ở Mĩ Tho. Năm 1899 tốt nghiệp bằng Thành chung được bổ làm việc tại Sở Tân đáo Sài Gòn, nhưng đến năm 1931 thì xin thôi việc \"nhà nước\" dốc lòng vào việc tu thiền theo pháp môn Cao Đài. Ông là người khai sáng ra phái tu Chiếu minh chuyên sâu về nội tu của đạo Cao Đài. Từ năm 1930, đạo Cao Đài có khuynh hướng về chính trị và nội bộ đạo phân hóa thành nhiều hệ phái. Ông mất năm 1932 thọ 54 tuổi. Ông là tác giả một số bài thơ về giáo lí đạo Cao Đài."
+  "id" : 2940,
+  "entityName" : "Nguyễn Công Triều",
+  "aliases" : [ ],
+  "overview" : "Ông xuất thân trong gia đình nông dân nghèo ở làng Kè Sau thuộc thôn Đông Lao, xã Đông La. Thuở bé có lúc ông tu ở chùa Bi trong làng một thời gian, rồi ra Thăng Long. Thời biến loạn, ông tòng quân. Từ một nguời lính huấn luyện đàn voi chiến, ông trở thành viên tướng chỉ huy tượng binh. Ông có công bình định ở vùng biên giới, dẹp nhóm loạn Mạc Kính Khoan, Võ Công Trấn (giặc Bầu) ở Tuyên Quang, Hưng Hóa. Lúc ngoài 60 tuổi, ông xuất ngũ, rồi chăm lo đời sống cho nhân dân vùng quê ông. Cùng với dân làng ra sức đào kênh, làm đình, xây dựng lại chùa Bi và hai chùa Hưng Phước, Thọ Vực, mở chợ, đào giếng, đắp đường, ông tích cực tận tụy phục vụ nhân dân địa phương. Năm Canh ngọ 1690, ngày 29-5 ông mất tại trấn Sơn Tây, thọ 76 tuổi. Nay tại Đông Lao còn lăng mộ, đền thờ ông, nơi chùa Bi cũng còn di tích."
 }

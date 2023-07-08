@@ -1,25 +1,17 @@
 {
-  "dateOfBirth": "6 tháng 3, 1361 Thăng Long",
-  "dateOfDeath": "6 tháng 12, 1388 (27 tuổi) Thăng Long",
-  "hometown": "Không rõ",
-  "occupation": "Hoàng đế Đại Việt",
-  "workTenure": "13 tháng 5, 1377 – 6 tháng 12, 1388 (11 năm, 207 ngày)",
-  "fatherName": {
-    "Trần Duệ Tông": 467
+  "dateOfBirth" : "Bính Thìn 1916",
+  "dateOfDeath" : "Bính Thìn 1976",
+  "hometown" : "quê ở Nam Định, sinh sống và trưởng thành ở Hà Nội",
+  "occupation" : "Nhà thơ ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "motherName": {
-    "Gia Từ hoàng hậu": null
-  },
-  "eraName": {
-    "Nhà Trần": 15
-  },
-  "id": 2509,
-  "entityName": "Trần Giản Hoàng",
-  "aliases": [
-    "Linh Đức đại vương 靈德大王",
-    "Xương Phù (昌符)",
-    "Xương Phù Đế",
-    "Trần Hiện (陳晛) hoặc Trần Nhật Vĩ (陳日煒)"
-  ],
-  "overview": "Trần Phế Đế (chữ Hán: 陳廢帝, 6 tháng 3, 1361 - 6 tháng 12, 1388), còn gọi là Xương Phù Đế (昌符帝) hay Trần Giản Hoàng (陳簡皇), là vị hoàng đế thứ 10 của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1377 đến khi bị phế vào năm 1388, tổng cộng hơn 10 năm trị vì."
+  "id" : 2509,
+  "entityName" : "Vũ Hoàng Chương",
+  "aliases" : [ ],
+  "overview" : "Thuở nhỏ ông học tại Trường Albert Sarraut (Hà Nội), rồi Đại học Luật khoa Hà Nội, đang học tại trường, ông bỏ đi làm việc ở Sở Hỏa xa Bắc Kì. Trong thời gian này ông làm nhiều thơ đăng trên các báo ở Hà Nội. Năm 1941 ông thôi việc ở Sở Hỏa xa (xe lửa), đi dạy học tư và theo học tại Trường Đại học Khoa học Hà Nội. Thời gian này ông sáng tác nhiều thơ và kịch thơ bắt đầu có tiếng trên làng kịch Việt Nam. Năm 1946, ông tản cư ra vùng tự do một thời gian, rồi hồi cư về Hà Nội tiếp tục làm thơ và dạy học. Năm 1954, ông di cư vào Nam tham gia hoạt động văn nghệ tại Sài Gòn, năm 1959, ông đi dự hội nghị về thơ ca thế giới tổ chức ở Bỉ, và dạy học ở Sài Gòn làm kế sinh nhai. Năm 1976, ông mất tại Sài Gòn thọ 60 tuổi. Các tác phẩm: - Thơ say (Công Lực, 1940) - Mây (Đời Nay, 1943) - Thơ lửa (1947) - Rừng phong (Sài Gòn, 1954) - Hoa đăng (Sài Gòn, 1959) - Cảm thông (Sài Gòn, 1960) - Tâm sự kẻ sang Tần (1961) - Tâm tình người đẹp (1961) - Trời một phương (1962) - Lửa Từ bi (1963) - Thi tuyển (1963) - Bút nở hoa đàm (1967) - Ánh trăng đạo (1966) - Cành mai trắng mộng (1968) - Loạn trong bút (1969) - Ta đợi em từ ba mươi năm (1971) - Tân thi (1972) Ngoài các tập thơ đã xuất bản, ông còn là kịch tác gia với các vở kịch thơ: - Trương Chi - Vân Muội - Hồng Điệp Và tập Hồi kí có tên: Ta đã làm chi đời ta (1973). Thơ và kịch thơ Vũ Hoàng Chương mang nhiều âm hưởng lãng mạn của văn học Tây phương ảnh hưởng vào văn học Việt Nam rất đậm nét mà cũng hoành tráng, như bài sau: Nhớ về Hà Nội vàng son (1947) Ôi ngày mười chín ngày oanh liệt! Sáng đỏ hoa vàng khắp bốn phương Hà Nội tiếng reo hò bất tuyệt Vang vang bờ nọ Thái Bình Dương Ba mươi sáu phố phường ngày hôm ấy. Ôi ngày mười chín ngày oanh liệt! Vạn ước mong dồn một nước mong Ôi mùa thu ấy mùa tin tưởng! Một tấm lòng mang vạn tấm lòng."
 }

@@ -1,14 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "người làng Phù Đổng, huyện Tiên Du, phủ Từ Sơn, trấn Kinh Bắc (nay thuộc xã Phù Đổng, huyện Gia Lâm, Hà Nội).",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 1033,
-  "entityName": "Đặng Công Chất",
-  "aliases": [],
-  "overview": "Đặng Công Chất (chữ Hán: 鄧公質, 1621 hay 1622 - 1683), người làng Phù Đổng, huyện Tiên Du, phủ Từ Sơn, trấn Kinh Bắc (nay thuộc xã Phù Đổng, huyện Gia Lâm, Hà Nội). Nguyên quán của ông là xã Thái Bát, huyện Bất Bạt (nay thuộc xã Tòng Bạt, huyện Ba Vì, thành phố Hà Nội) . Đỗ trạng nguyên khoa Tân Sửu, niên hiệu Vĩnh Thọ thứ 4 (1661) thời vua Lê Thần Tông ."
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "722 Hà Tĩnh\n----------------------------------------------\nQuí Hợi 723",
+  "hometown" : "xã Mai Phụ, huyện Thiên Lộc, phủ Đức Thọ, tỉnh Hà Tĩnh",
+  "occupation" : "Anh hùng dân tộc chống cuộc đô hộ nhà Đường",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Bắc thuộc lần lần 3" : 1,
+    "nhà Đường" : null
+  },
+  "id" : 1033,
+  "entityName" : "Mai Thúc Loan",
+  "aliases" : [ "Mai Thúc Loan Mai Thúc Yên Mai Lập Thành", "Chân Lạp", "Mai Thúc Loan", "Hắc Đế (黑帝)" ],
+  "overview" : "Mai Hắc Đế (chữ Hán: 梅黑帝; ?–722), tên thật là Mai Thúc Loan (梅叔鸞) là vị vua người Việt thời Bắc thuộc, anh hùng dân tộc, người lãnh đạo cuộc khởi nghĩa chống lại sự chiếm đóng của nhà Đường ở Việt Nam vào đầu thế kỉ thứ 8.\n----------------------------------------------\nÔng giữ vùng hiểm yếu Sa Nam (Nam Đàn) làm căn cứ chính, đóng bản doanh ở núi Vệ, dựng điện phủ đặt tên là Vạn An. Quan đô hộ nhà Đường xin binh tiếp cứu, vua Đường Huyền tông cử Nội thị tả giám môn vệ tướng quân là Dương Tư Húc đem quân sang đàn áp. Trước sức tiến công của địch, thế cô, Mai Thúc Loan rút quân chạy về đóng giữ ở núi Vệ, chẳng bao lâu ông bị bệnh mất đột ngột vào năm Quí hợi 723. Nay ở núi Vệ, huyện Nam Đàn, tỉnh Nghệ An cũ còn di tích cổ thành của Mai Hắc đế, và ở xã Hương Lãm, huyện Nam Đàn có đền thờ Mai Hắc đế và Mai Thúc Huy. Về sau, các triều đại nối tiếp vẫn truy phong và liệt thờ cha con ông nơi miếu Lịch đại đế vương."
 }

@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 2125,
-  "entityName": "Kinh Sơn",
-  "aliases": [],
-  "overview": "Kinh Sơn (chữ Hán giản thể: 京山县) là một huyện thuộc địa cấp thị Kinh Môn, tỉnh Hồ Bắc, Cộng hòa Nhân dân Trung Hoa. Huyện này có diện tích 3520 ki-lô-mét vuông, dân số năm 2002 là 636.100 người. Mã số bưu chính là 431800. Mã vùng điện thoại là 0724. Về mặt hành chính, huyện này được chia thành 14 trấn: Tân Thị, Vĩnh Hưng, Tào Vũ, La Điếm, Tống Hà, Bình Bá, Tam Dương, Lục Lâm, Dương Tập, Tôn Kiều, Thạch Long, Vĩnh Long, Nhạ Môn Khẩu, Tiền Trường."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng An Đồng, huyện La Sơn, tỉnh Hà Tĩnh (nay thuộc tỉnh Hà Tĩnh), không rõ năm sinh, năm mất",
+  "occupation" : "Danh sĩ đời Lê Hiển tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
+  "id" : 2125,
+  "entityName" : "Bùi Bật Trực",
+  "aliases" : [ "Hàng Khê" ],
+  "overview" : "Ông đỗ Hương cống, nổi tiếng văn học, giao du rất thân thiết với La Sơn phu tử Nguyễn Thiếp. Làm quan đến Thái bộc tự khanh. Khi Tây Sơn dấy lên, ông vâng mạng vua Lê làm Tham tán quân vụ, chống nhau ở Hương Giang và Nam Đường, rồi bi bắt, tử tiết. Ông có bài thơ tặng Nguyễn Thiếp: \"Thái bình biệt chiếm nhất giang san, Lão phố yên hà mấn dục ban. Tứ hải ngưỡng cao Thiên Nhận đính, Cửu trùng vọng trọng Lục Niên quan. Lai tư phúc hỉ quần tranh đổ, Cẩu giả khai chi bỉ tự khoan. Đại tiểu chỉ hoàn ngô ẩn cuộc, Dĩ do an xữ nhậm nhân khan. \" Ông và Hoàng Khê Nguyễn Khuê, cùng danh sĩ Tùng Dương cũng có hợp soạn một bài thơ khác tặng Nguyễn Thiếp"
 }

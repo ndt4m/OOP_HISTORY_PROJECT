@@ -1,17 +1,17 @@
 {
-  "dateOfBirth": "398",
-  "dateOfDeath": "445",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 2280,
-  "entityName": "Phạm Diệp",
-  "aliases": [
-    "Hưng Chiết Giang",
-    "Úy Tông"
-  ],
-  "overview": "Phạm Diệp (chữ Hán giản thể: 范晔; chữ Hán phồn thể: 范曄; bính âm: Fan Ye) (398 – 445) tự Úy Tông, là nhà chính trị, nhà sử học, nhà văn thời Lưu Tống Nam Triều (Trung Quốc), tác giả bộ chính sử Hậu Hán thư, tổ tiên xuất thân từ Thuận Dương (nay thuộc Tích Xuyên, Hà Nam), sinh tại Sơn Âm (nay thuộc Thiệu Hưng Chiết Giang)."
+  "dateOfBirth" : "Kỉ Hợi 1839",
+  "dateOfDeath" : "Đinh Hợi 1887",
+  "hometown" : "quê làng Tân Lược (hay Tân Lộc) huyện Hà Đông, tỉnh Quảng Nam (nay thuộc xã Tam Giang, huyện Núi Thành, tỉnh Quảng Nam)",
+  "occupation" : "Nhà yêu nước ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nhà Nguyễn độc lập" : 30
+  },
+  "id" : 2280,
+  "entityName" : "Phan Bá Phiến",
+  "aliases" : [ "Tân Lộc", "Dương Nhân" ],
+  "overview" : "Thuở nhỏ nhà nghèo nhưng thông minh, hiếu học, được bà nội nuôi cho ăn học đến đỗ cử nhân khoa Mậu ngọ (1858), được bổ làm Tri huyện huyện Phù Cát, tỉnh Bình Định. Năm Quí mùi 1883, giặc Pháp gây hấn và chiếm Trung Kì, vua Hàm Nghi bỏ kinh thành ra lập chiến khu ở Tân Sở (Quảng Tri) xuống hịch Cần vương, ông bỏ quan về quê cùng với Nguyễn Duy Hiệu, Trần Văn Dư thành lập nghĩa hội đặt cơ sở ở Sơn Phòng Dương Yên (thuộc huyện Tam Kỳ) và tân tỉnh tại làng Trung Phước (thuộc huyện Quế Sơn) tỉnh Quảng Nam lãnh đạo nhân dân các tỉnh Quảng Nam, Quảng Ngãi chống Pháp xâm lược. Từ năm 1885-1887 lực lượng nghĩa quân tiêu hao rất nhiều binh lực địch. Sau khi bị Pháp và đội quân tay sai Nguyễn Thân đánh úp ở căn cứ Phước Sơn (thuộc Tiên Phước), ông và Nguyễn Duy Hiệu thoát được nhưng thế cùng, Nguyễn Duy Hiệu bàn với ông: \"Việc đã không thể làm thì chỉ chết mà thôi. Nhưng chúng ta cùng chết một lúc là vô ích. Vậy ông nên chết trước, còn tôi sẽ giải tán đảng rồi đem thân cho Pháp bắt\". Phan Bá Phiến khảng khái vâng theo, bèn mang đai, đội mũ hướng về kinh đô lạy 5 lạy, rồi quay sang Nguyễn Duy Hiệu lạy 2 lạy nói: \"Ông hãy gắng sức, tôi xin đi\". Rồi uống thuốc độc chết trước mặt nghĩa quân. Ông mất ngày 21-9-1887 (5-8 âm lịch), rồi 10 ngày sau Nguyễn Duy Hiệu cũng tự đem thân cho Pháp bắt ở vùng Bắc Quảng Nam như đã hứa với ông. Cảm về cái chết của Phan Bá Phiến, Phan Bội Châu có viết rõ hành trạng ông trong sách Việt Nam vong quốc sư. Đề mộ ông, Phan Bội Châu viết: \"Sống hiếu, chết trung. Vì nước sống tốt đẹp, vì dân chết oanh liệt. Ông quả đủ có hai đức sáng và trung kiên \""
 }

@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Đồng Tháp",
-  "occupation": "Tục danh là Lãnh",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Giáp Ngọ 1834",
+  "hometown" : "quê huyện Phú Vang, tỉnh Thừa Thiên",
+  "occupation" : "Võ tướng đời Minh Mạng",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 2808,
-  "entityName": "Đỗ Công Tường",
-  "aliases": [],
-  "overview": "Ông tính công minh, chính trực, được cử làm chức Câu đương, phân xử những vụ tố tụng trong làng. Ông đứng ra lập làng, cất chợ mưu lợi ích cho nhân dân. Năm Canh thìn 1820, nạn dịch tả hoành hành, ông hết lòng thương xót dân chúng, một mặt ra sức chạy chữa cứu giúp dân, một mặt ăn chay cầu nguyện xin chết thay dân chúng để dân được yên. Vài ngày sau, đến mùng 9-6, vợ ông mất, đêm sau ông cũng qua đời. Tương truyền, chôn cất vợ chồng ông xong, bệnh thời khí dứt luôn. Dân chúng bình yên, cảm niệm đức độ ông, mới đặt tên chợ Vườn Quít khi ấy là chợ Câu Lãnh (câu là chức Câu đương của ông, Lãnh là tên tục của ông. Lâu ngày gọi trại là Cao Lãnh). Khoảng năm 1936, triều đình Huế sắc phong làm Dực bảo Trung lương thành hoàng chi thần. Hàng năm tế lễ vào ngày 9, 10 tháng 6 âm lịch. Người sau truy niệm: Muôn miệng như nhau đã nói rành, Câu Đương là chức, Lãnh là danh. Lập làng khó nhọc, công vừa dứt Cất chợ chăm nom, việc mới thành. Dân đụng giặc trờì cam thọ tử, Cụ đền nợ nước, quyết hi sinh. Thoát nàn, bá tánh lo thờ phụng. Miếu đó nghìn thu rạng tiếng lành. Trong năm 1943, sân vận động ở Cao Lãnh được mang tên ông: Vận động trường Đỗ Công Tường."
+  "id" : 2808,
+  "entityName" : "Bạch Doãn Dụ",
+  "aliases" : [ ],
+  "overview" : "Xuất thân làm cai đội, ông chỉ huy nhiều cuộc hành quân trấn áp các cuộc nổi dậy chống triều đình. Năm Nhâm ngọ 1834, ông nhận lệnh đem quân đi trấn áp khởi nghĩa ở Thái Nguyên, bị chết trận được vua Minh Mạng truy tặng Quản Cơ."
 }

@@ -1,23 +1,18 @@
 {
-  "dateOfBirth": "259 TCN",
-  "dateOfDeath": "210 TCN Trung Quốc",
-  "hometown": "Không rõ",
-  "occupation": "Vua nước Tần",
-  "workTenure": "7 tháng 6 năm 247 TCN – 221 TCN",
-  "fatherName": {
-    "Tần Trang Tương vương": null
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Vua",
+  "workTenure" : "939—944",
+  "fatherName" : {
+    "Dương Đình Nghệ" : 2021
   },
-  "motherName": {
-    "Đế thái hậu Triệu Cơ": null
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Ngô và Dương Tam Kha" : 25
   },
-  "eraName": {
-    "Nhà Tần": null
-  },
-  "id": 1735,
-  "entityName": "Tần Thủy Hoàng",
-  "aliases": [
-    "Doanh Chính (嬴政)",
-    "Doanh Chính"
-  ],
-  "overview": "Tần Thủy Hoàng (tiếng Hán: 秦始皇)(tháng 1 hoặc tháng 12, 259 TCN – 10 tháng 9, 210 TCN) , tên thật là Doanh Chính (嬴政), còn có tên khác là Triệu Chính (趙政), là vị vua thứ 36 của nước Tần ở Trung Quốc từ năm 246 TCN đến 221 TCN trong thời kỳ Chiến Quốc và trở thành vị Hoàng đế sáng lập ra nhà Tần, đồng thời là hoàng đế đầu tiên của Trung Quốc thống nhất vào năm 221 TCN sau khi tiêu diệt các nước chư hầu khác. Ông cai trị cho đến khi qua đời vào năm 210 TCN ở tuổi 49."
+  "id" : 1735,
+  "entityName" : "Tiền Ngô Vương",
+  "aliases" : [ ],
+  "overview" : "Ngô Quyền (chữ Hán: 吳權; 17 tháng 4 năm 898 – 14 tháng 2 năm 944), còn được biết đến với tên gọi Tiền Ngô Vương ( 前吳王) là vị vua đầu tiên của nhà Ngô trong lịch sử Việt Nam. Năm 938, ông là người lãnh đạo nhân dân đánh bại quân Nam Hán trong trận Bạch Đằng, chính thức kết thúc gần một ngàn năm Bắc thuộc, mở ra một thời kì độc lập lâu dài của Việt Nam. Sau chiến thắng này, ông lên ngôi vua, lập ra nhà Ngô, trị vì từ năm 939 đến năm 944."
 }

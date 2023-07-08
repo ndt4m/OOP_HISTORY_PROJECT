@@ -1,19 +1,18 @@
 {
-  "dateOfBirth": "Nhâm Thân 1872",
-  "dateOfDeath": "Tân Tị 1941",
-  "hometown": "quê làng Châu Me, xã Bình Châu, huyện Bình Sơn, tỉnh Quảng Ngãi",
-  "occupation": "Nhà yêu nước ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Quí Mùi 1763",
+  "dateOfDeath" : "Tân Mão 1831",
+  "hometown" : "Quê làng Kiêm Toàn tỉnh Thừa Thiên, sau vào định cư ở làng Tòng Sơn, huyện Vĩnh An, phủ Tân Thành tỉnh An Giang (nay là làng Mĩ An Hưng, huyện Thạnh Hưng, tỉnh Sa Đéc - Đồng Tháp)",
+  "occupation" : "Danh thần, triều Nguyễn, tục gọi là Bảo hộ Tuyên, tước Tuyên Đức hầu nguyên họ Phan, vì có công với dân nước nên được triều đình ban Quốc tính là Nguyễn Văn Tuyên",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34,
+    "Nhà Tây Sơn" : 21,
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 36,
-  "entityName": "Trần Kì Phong",
-  "aliases": [
-    "Tú Trần"
-  ],
-  "overview": "Ông đỗ tú tài năm 18 tuổi, sau đó tham gia phong trào Duy tân, tích cực vận động cứu nước. Năm 1908, phong trào Duy tân lên cao, ông bị Pháp bắt lưu đày Côn Đảo. Ông bị giam ở Côn Lôn đến năm 1921 mới được trả tự do. Sau khi ra tù ông tham gia hoạt động bí mật trong việc thành lập Đảng Tân Việt, Việt Nam Thanh niên Cách mạng đồng chí hội ở Quảng Ngãi. Năm 1941, ông mất, thọ 69 tuổi. Thơ văn ông còn truyền tụng khá nhiều. Loạt thơ Đường cảm nghĩ về tổ chức Việt Nam Thanh niên Cách mạng đồng chí hội nói lên được hoài bão của ông trước nạn vong quốc. Đặc biệt nhất là bài XOAY TRỜI LẠI nói lên được nỗi lòng ông đối với đất nước và xã hội: Bốn biển năm châu cũng một trời, Làm chi chia rẽ hỡi ai ơi! Cuộc cờ đế quốc tranh cao thấp, Ngọn sóng nhân quyền chảy ngược xuôi. Trên đám bụi hồng chim đớp liệng, Dưới dòng nước nóng cá đua bơi. Thay ông Bàn Cổ xoay trời lại, Chớ bác trời này thật khó chơi."
+  "id" : 36,
+  "entityName" : "Phan Văn Tuyên",
+  "aliases" : [ "Nguyễn Văn Tuyên" ],
+  "overview" : "Năm 1788, ông đầu quân đánh giặc thắng lớn được thăng Phó Vệ úy Vệ hổ uy quân Thần sách, năm sau 1789 thăng Vệ úy vệ kinh uy doanh Tiền quân. Đường quân ngũ của ông mỗi ngày mỗi thăng tiến, đến năm Gia Long thứ 15 (1816) được thăng Thống chế. Năm Kỉ mão 1819, ông được lệnh cùng với Thoại Ngọc Hầu chỉ huy đào kinh Vĩnh Tế. Công trình sau 5 năm (1819-1824) mới hoàn thành, ông được một phần vinh dự trong công tác thủy lợi này. Tiếp theo năm 1822 ông giữ chức Trấn thủ Biên Hòa, năm 1824 làm Trấn thủ Vĩnh Thanh. Năm Kỉ sửu 1829 được mệnh vua thay Nguyễn Văn Thoại mang ấn sang bảo hộ Chân Lạp kiêm giữ đồn Châu Đốc. Ông tại chức hơn một năm, năm 1831 ông bệnh qua đời ngày 28 tháng 5 âm lịch năm Tân mão (1831), thọ 68 tuổi, an táng tại Tòng Sơn, Sa Đéc. Hiện nay tại xã Mĩ An Hưng, huyện Thạnh Hưng vẫn còn đền thờ ông."
 }

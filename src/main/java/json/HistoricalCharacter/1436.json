@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Canh Tuất 1910",
-  "dateOfDeath": "Nhâm Ngọ 1942",
-  "hometown": "quê làng Tân Thời Nhứt, huyện Hóc Môn (nay là quận 12 TP",
-  "occupation": "Liệt sĩ hiện đại",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "Bính Ngọ 1846",
+  "dateOfDeath" : "Bính Tuất 1886",
+  "hometown" : "quê làng Đông Thái, huyện La Sơn (nay là huyện Đức Thọ), tỉnh Hà Tĩnh",
+  "occupation" : "Nhà yêu nước ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 1436,
-  "entityName": "Bùi Văn Ngữ",
-  "aliases": [],
-  "overview": "Thuở nhỏ đi học tại quê nhà, năm 1927 - 1928 tham gia Hội kín Nguyễn An Ninh, năm 1930 gia nhập đảng CSĐD. Năm 1931 là tỉnh ủy viên Gia Định, rồi làm Bí thư tỉnh ủy Gia Định, xứ ủy viên xứ ủy Nam Kì. Năm 1940, ông bị Pháp bắt cùng với các đồng chí của mình là Nguyễn Văn Nghi, Nguyên Văn Cừ, Phạm Văn Đồng... Trong tù ông bị tra tấn rất da man, nhưng ông vẫn khẳng khái không khai báo, nên một số cơ sở đăng ở Hóc Môn vãn giữ được bí mật cách mạng. Năm 1941 ông bị lưu đày Côn Đảo cùng với các ông Lê Hồng Phong, Lê Duẩn, Bùi Văn Thủ, Dương Bạch Mai, Nguyễn Văn Tạo... Tại đảo ông bị hành hạ dã man và hi sinh vào năm 1942 cùng với anh ruột là Bùi Văn Thủ, lúc mới 32 tuổi."
+  "id" : 1436,
+  "entityName" : "Phan Cát Tưu",
+  "aliases" : [ ],
+  "overview" : "Năm Ất dậu 1885 ông đỗ Cử nhân. Nước mất, ông theo Tôn Thất Thuyết phò vua Hàm Nghi ra Sơn Phòng Quảng Trị, rồi về quê mộ binh cùng các văn thân khởi nghĩa tích cực kháng chiến chống Pháp. Năm Bính tuất 1886, trong một trận càn ác liệt, ông, con ông đều hi sinh ở sông Ốc thuộc huyện Hương Sơn (Hà Tĩnh), hưởng dương 40 tuổi. Trong sách Bài ngoại liệt truyện có ghi một bài thơ của một nhân sĩ ĐẬU THUYỀN CHỖ PHAN CÁT TƯU CHẾT TRẬN, cảm tác viếng ông: \"Thập tải cố nhân thanh thảo địa, Lưỡng hàng huyết lệ bạch vân lâu. Hùng tâm hảo đối song sơn trĩ, Vãng sự không thành nhất thủy lưu. Đỗ vũ sổ thinh đề lạc nguyệt, Tàn huỳnh kỉ điểm nhập thâm thu. Lân quần vị thức Đường thừa tướng, Thệ bất bình Hoài tử bất hưu. Bản dịch: Bạn cũ mười năm nắm cò hoang, Tước Hầu mây trắng lê đôi hàng. Tấm lòng hùng mạnh non cao ngất. Việc nước tan tành nước cháy băng. Khắc khoải cuốc kêu vầng nguyệt xế, Lập lòe đom đóm tiết thu sang. Tiếc ông chưa biết Đường thừa tướng, Thề chẳng bình Hoài chết chẳng đang."
 }

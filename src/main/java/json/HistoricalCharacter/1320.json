@@ -1,19 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "1802\n----------------------------------------------\nKhông rõ",
-  "hometown": "người thôn Phú Phong, huyện Tuy Viễn (Bình Khê) (nay thuộc huyện Tây Sơn), tỉnh Bình Định",
-  "occupation": "Võ tướng nhà Tây Sơn",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Tây Sơn": 21,
-    "nhà Tây Sơn": null
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Quê xã Ngọc Đường, huyện Kim Động, tỉnh Hưng Yên",
+  "occupation" : "Danh tướng cuối đời nhà Ngô",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Ngô" : 25,
+    "nhà Ngô" : null
   },
-  "id": 1320,
-  "entityName": "Võ Văn Dũng",
-  "aliases": [
-    "Võ Văn Dũng"
-  ],
-  "overview": "Vũ Văn Dũng hay Võ Văn Dũng (chữ Hán: 武文勇) (?-1802) , là một danh tướng của nhà Tây Sơn, đứng đầu trong Tây Sơn thất hổ tướng. Ông là người được vua Quang Trung cử đi sứ vào những thời điểm quan trọng nhất, ông cũng là một trong những tướng lĩnh trung thành cuối cùng đã chiến đấu để bảo vệ sự tồn tại của vương triều Tây Sơn trong lịch sử Việt Nam.\n----------------------------------------------\nKhi nghĩa quân Tây Sơn mới dấy lên đã có ông trong hàng ngũ vì ông với Nguyễn Nhạc là bạn cố giao. Năm 1786 ông làm Tư khấu dưới quyền Bắc Bình vương Nguyễn Huệ, lần thăng đến Đô đốc được phong tước Chiêu Vũ Hầu. Ông là một trong các nhân vật chỉ huy trận chiến thắng lớn diệt hơn 20 vạn quân Thanh ở Đống Đa trong năm Kỉ dậu. Năm Nhâm tí 1792 ông thăng Đại tư đồ tước Võ Quốc Công, và tháng tư năm này ông cùng Nguyễn Quang Thùy, Phan Huy Ích, Võ Huy Tấn đưa giả vương Phạm Công Trị sang Yên Kinh gặp vua nhà Thanh. Theo sử nhà Nguyễn ghi thì ngày 2-11-1802 ông bị Nguyễn Ánh giết cùng với các cận thần của vua Quang Trung. Gần đây, theo tác giả sách Nhà Tây Sơn thì Võ Văn Dũng đã thoát khỏi nanh vuốt của Gia Long. Sau khi thoát nạn, ông về Phú Long, rồi lên ở An Khê chiêu mộ các sắc dân miền Thượng chống lại nhà Nguyễn mãi đến thời Thiệu Trị (1841-1847) ông mới mất, thọ trên 90 tuổi. Đến đời Thành Thái (1907) con cháu đem hài cốt về chôn ở Phú Phong."
+  "id" : 1320,
+  "entityName" : "Phạm Bạch Hổ",
+  "aliases" : [ "Phòng Át" ],
+  "overview" : "Phạm Bạch Hổ (chữ Hán: 范白虎; 910 - 972 ) tên xưng Phạm Phòng Át (范防遏), là võ tướng các triều nhà Ngô, nhà Đinh và là một sứ quân trong loạn 12 sứ quân cuối thời nhà Ngô trong lịch sử Việt Nam. Ông là người gốc Nam Sách, Hải Dương nhưng được sinh ra và lớn lên ở Đằng Châu, Hưng Yên. Ngày nay, ông được thờ ở nhiều nơi thuộc vùng châu thổ sông Hồng.\n----------------------------------------------\nÔng là một trong 12 Sứ quân trong thời Ngô suy vong (968), chiếm giữ đất Đằng Châu. Khi Đinh Bộ Lĩnh đánh dẹp loạn Sứ quân, ông qui thuận nhà Đinh, làm Thân vệ đại tướng quân, có công nhiều trong cuộc thống nhất đất nước hồi ấy. Sau, ông mất ở xã Ngọc Đường, an táng tại đồng xã này. Vua Đinh sắc phong cho các xã Ngọc Đường, Đằng Châu thờ phụng ông. Đền Đằng Châu tục gọi đền Đức Thánh Mây hãy còn di tích. Các đời Lý, Trần, Lê đều có sắc phong ông làm Thượng đẳng Phúc thần. Cuối đời Hậu Lê, Đoan nam vương Trịnh Khải có đề 3 bài thơ nơi đền ông: \"Hộ quốc an dân hách quyết thinh, Lịch triều bao tặng cổn hoa vinh, Lâm liền Đằng thủy chung linh tú, Thập nhị đô kì đệ nhất doanh. Bán giang tình vũ tam quân tráng, Bát diệp hầu vương nhất mộng thành. Thiên vị Sứ quân lưu chính khí, Sinh vi anh giả tử vi linh. Cung doanh thử địa cổ Đằng Châu, Thập nhị sơn hà đệ nhất châu. Tối thị anh hùng lưu bất tử, Đường Lâm nhi hậu kỉ xuân thu. Bản dịch: Thần thiêng hộ nước lại an dân, Vua chúa truy phong biết mấy lần. Trước mặt sông Đằng linh khí đúc Doanh kì thứ nhất rõ mười phân. Nửa sông mưa tạnh: ba quân mạnh, Tám vị hầu vương một giấc liền. Trời khiến Sứ quân phù đất Việt, Sống làm danh tướng thác thần thiêng. Mở mang doanh lũy chốn Đằng Châu, Sông núi mười hai dải đứng đầu, Khí phách anh hùng còn mãi mãi, Đường Lâm từng trải mấy xuân thu."
 }

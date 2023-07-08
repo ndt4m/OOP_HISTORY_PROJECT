@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "907",
-  "dateOfDeath": "960",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 1965,
-  "entityName": "Ngô Việt",
-  "aliases": [],
-  "overview": "Ngô Việt (tiếng Trung phồn thể: 吳越國; giản thể: 吴越国, bính âm: Wúyuè Guó), 907-978, là một vương quốc nhỏ độc lập, nằm ven biển, được thành lập trong thời kỳ Ngũ đại Thập quốc (907-960) trong lịch sử Trung Quốc. Nhà nước này do dòng họ Tiền cai trị, các dấu tích còn lại của nhà nước này vẫn còn khá phổ biến trong lãnh thổ trước đây của Vương quốc."
+  "dateOfBirth" : "1236",
+  "dateOfDeath" : "1285",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "nhà Nguyên" : null
+  },
+  "id" : 1965,
+  "entityName" : "Lý Hằng",
+  "aliases" : [ "Đức Khanh" ],
+  "overview" : "Lý Hằng (chữ Hán: 李恒), tự là Đức Khanh (德卿), (1236 – 1285), người Đảng Hạng, là một trong những tướng lĩnh xuất sắc của nhà Nguyên. Lý Hằng mất vì trúng tên độc khi xâm lăng Đại Việt."
 }

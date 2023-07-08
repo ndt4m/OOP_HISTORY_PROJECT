@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "Mậu Tuất 1898",
-  "dateOfDeath": "Đinh Tị 1977",
-  "hometown": "Quảng Nam",
-  "occupation": "Nghệ sĩ, có tên riêng là Tảo, các nghệ nhân, đồng chí gọi thân mật là Anh Tảo.",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Đường An, tỉnh Hải Dương",
+  "occupation" : "Nhân sĩ đời Gia Long",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 1180,
-  "entityName": "Nguyễn Nho Túy",
-  "aliases": [
-    "Anh Tảo"
-  ],
-  "overview": "Quê làng Phú Hanh, huyện Duy Xuyên, tỉnh Quảng Nam. Ông mê hát từ thuở bé, nhờ có vốn văn hóa khá, thông hiểu cả chữ Hán. Đầu tiên ông theo gánh hát của cụ Nguyễn Hiền Dĩnh - nhà soạn tuồng nổi tiếng ở miền Trung. Sau Cách mạng tháng Tám ông tham gia kháng chiến, sinh hoạt trong đoàn tuồng Liên khu 5. Suốt ba mươi năm ông tiếp tục phục vụ trên cương vị nghệ sĩ tuồng, nổi bật trong các vai đặc sắc. Ngoài việc trình diễn, chỉ đạo nghệ thuật cho các đồng nghiệp, ông cũng có biên soạn quyển 55 năm trên sân khấu tuồng. Ông cũng từng được cử làm: ủy viên Ban Chấp hành Hội Liên hiệp Văn học Nghệ thuật Việt Nam, Đại biểu Quốc hội khóa 3. Được khen thưởng: Huân chương Lao động hạng ba, Huân chương Lao động hạng nhì. Năm Đinh tị 1977, ngày 30-6 Dương lịch ông mất tại Đà Nẵng, thọ 79 tuổi."
+  "id" : 1180,
+  "entityName" : "Phạm Hội",
+  "aliases" : [ "Dưỡng Am" ],
+  "overview" : "Ông đỗ cử nhân, có tiếng thơ văn, có khí tiết được sĩ phu trọng vọng. Ông vốn là học trò danh sĩ Phạm Quý Thích. Làm giáo thụ phủ Ánh Sơn ít lâu, ông xin nghỉ, về quê sống cuộc đời ẩn dật. Ông mồ côi cha sớm, thờ mẹ rất hiếu, nhà thanh bạch, ông ngồi dạy học, gần xa yêu chuộng. Ông có câu đối hán ở bàn viết: \"Thị thành khỉ bất hoài nông nghiệp, Văn tự hà năng hệ sĩ phong\". Em trai ông hiệu Khiêm Trai cũng có tính hiền hiếu. Phạm Quỳnh - chủ bút tạp chí Nam Phong - là huyền tôn của ông Phạm Xuân Khôi có thơ vịnh về lòng hiếu của ông: Này ông Phạm Hội Hải Dương ta, Theo mẹ cùng lên học tỉnh Hà. Hai chị nuôi em nên quá lứa, Môt mình kính mẹ cũng như cha. Nước Hồ Tây sạch thường đi lấy, Tình nẹ già nay chẳng ngại xa Me khuất, hiển vinh về dưỡng chị Khen thay! hiếu hạnh vẹn hòa ba."
 }

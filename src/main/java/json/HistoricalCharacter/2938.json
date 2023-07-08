@@ -1,17 +1,16 @@
 {
-  "dateOfBirth": "Bính Tí 1916",
-  "dateOfDeath": "Canh Ngọ 1990",
-  "hometown": "quê xã Đông Mĩ, huyện Thanh Trì, tỉnh Hà Đông (nay thuộc TP",
-  "occupation": "Kĩ sư cầu cống",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Hiền Lộc, tổng Chiên Đàn trung, huyện Lệ Dương sau đổi là phủ Tam Kì, tỉnh Quảng Nam, sau cư ngụ làng A Vó, tổng Đức Hòa, huyện Tam Kì, tỉnh Quảng Nam (nay thuộc xã Tam Xuân, huyện Núi Thành, tỉnh Quảng Nam)",
+  "occupation" : "Danh tướng triều Tây Sơn, không rõ năm sinh năm mất",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Tây Sơn" : 21
   },
-  "id": 2938,
-  "entityName": "Lê Khắc",
-  "aliases": [],
-  "overview": "Ông tốt nghiệp kĩ sư cầu cống từ năm 1944, sau cách mạng tháng 8 năm 1945 được chính quyền cách mạng cử giữ chức Giám đốc Nha Giao thông công chánh TP. Huế, phụ trách Sở Hỏa Xa Hà Nội. Từ năm 1946 nhập ngũ làm việc ở cục Quân giới, đến năm 1947 là cục trưởng cục quân giới Bộ Quốc phòng, Cục Công binh, năm 1951 bí thư đảng ủy Trung đoàn 151. Đây là trung đoàn công binh đầu tiên của QĐNDVN, đến năm 1953- 1958 ông chuyển ngành làm Phó Giám đốc Nha giao thông Bộ Giao thông công chánh, rồi chủ nhiệm Tổng cục Đường sắt Việt Nam. Đến năm 1958 giữ chức Bộ trưởng, chủ nhiệm ủy ban Khoa học và Kĩ thuật, thành viên Hội đồng Bộ trưởng, Phó chủ tịch kiêm Tổng thư kí Liên hiệp các Hội khoa học kĩ thuật Việt Nam. Đại biểu Quốc hội khóa VII... Ông được Nhà nước Việt Nam tặng thưởng nhiều huân chương cao quí trong đó có Huân chương Độc lập hạng nhì. Ông mất trong năm 1990 tại Hà Nội, thọ 74 tuổi."
+  "id" : 2938,
+  "entityName" : "Đống Công Tuờng",
+  "aliases" : [ ],
+  "overview" : "Thuở trẻ ông đầu quân dưới cờ nghĩa quân Tây Sơn, sau theo Bắc Bình vương Nguyễn Huệ bình định Thuận Hóa và cả đất Bắc Hà. Ông là một trong các tướng góp công lớn trong trận chiến thắng Đống Đa mùa xuân Kỉ dậu 1789, được giữ chức Cai cơ, Tả Đồng nghị, tước Miên Trường hầu. Lúc ở quê, ông tòng quân theo anh em nhà Tây Sơn, gia đình đơn chiếc chỉ còn mẹ già ở xã Hiền Lộc. Ông đem thân mẫu đến gởi người bạn tên Trần Toản (1731-1808) là ông nội của tiến sĩ Trần Văn Dư - người thủ hội phong trào Nghĩa hội năm 1885 ở Quảng Nam. Thân mẫu ông lúc còn sống được người bạn nuôi dưỡng chu đáo, đến lúc bà qua đời được chôn cất với đủ quan quách, nghi lễ trọng vọng. Lúc Nguyễn Huệ lên ngôi hoàng ôế, ông được vua Quang Trung ban sắc phong vào ngày 21 tháng 12 năm Quang Trung thứ 2. Sau khi được ân thưởng, về quê cũ xây lại mộ mẹ, rồi ông đem một cân vàng ra thành Tây mua hai áo quan lõi vàng để báo đền công ơn của người bạn từng nuôi dưỡng thân mẫu lúc ông theo nghĩa quân Tây Sơn. Mộ ông nay hãy còn ở thôn Thạch Kiều (gân làng A Vó) xã Tam Xuân, huyện Núi Thành tỉnh Quảng Nam ngày nay."
 }

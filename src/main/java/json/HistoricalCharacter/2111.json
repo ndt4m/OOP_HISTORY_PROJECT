@@ -1,18 +1,18 @@
 {
-  "dateOfBirth": "1884\n----------------------------------------------\nGiáp Thân 1884",
-  "dateOfDeath": "12 tháng 4 năm 1943\n----------------------------------------------\nNhâm Ngọ 1942",
-  "hometown": "quê làng Quỳnh Đôi, huyện Quỳnh Lưu, tỉnh Nghệ An",
-  "occupation": "Chí sĩ cận đại",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Thủ lĩnh",
+  "workTenure" : "791—791",
+  "fatherName" : {
+    "Phùng Hưng" : 2349
   },
-  "id": 2111,
-  "entityName": "Hồ Học Lãm",
-  "aliases": [
-    "Hinh Sơn"
-  ],
-  "overview": "Hồ Học Lãm (chữ Hán: 胡學覽; 1884 – 12 tháng 4 năm 1943 ); tự Hinh Sơn, là một chí sĩ Việt Nam thời cận đại.\n----------------------------------------------\nÔng nhiệt tình yêu nước, từ năm 1906 hướng ứng phong trào Đông du, Duy tân sang Nhật Bản học tập. Ít lâu sau, du học sinh ở Nhật bị giải tán và trục xuất, ông sang Trung Quốc, ngụ ở Bắc Kinh đưa thư trình đô thống Lục quân là Đoàn Kì Thụy và được vào học trường võ bị Bắc Kinh. Tốt nghiệp trường võ bị, ông trở thành một sĩ quan trong quân đội Trung Quốc nhưng lòng ông bao giờ cũng hướng về Tổ quốc, căn nhà ông ở là một cơ sở tiếp đón các đồng chí Việt Nam đến sinh hoạt. Ông là ủy viên huấn luyện cho Việt Nam Quang phục hội của Phan Bội Châu. Đời ông được hầu hết các sĩ phu quí trọng thương mến. Ông có bài thơ trường thiên cảm tác về nỗi xót xa của người dân mất nước dưới ách thống trị của bọn cướp nước. Ông mất tại Quế Lâm (Trưng Quốc) năm 1942."
+  "motherName" : { },
+  "eraName" : {
+    "Họ Phùng" : 4
+  },
+  "id" : 2111,
+  "entityName" : "Phùng An",
+  "aliases" : [ ],
+  "overview" : "Phùng An là vua Việt Nam trong thời thuộc Đường đầu thế kỷ thứ 9."
 }

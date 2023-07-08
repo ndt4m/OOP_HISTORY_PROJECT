@@ -1,17 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "huyện Thọ Xương thuộc kinh thành Thăng Long, là một đại thần dưới triều Lê Trung hưng, đã từng đảm nhiệm chức vụ Tư nghiệp trường Quốc Tử Giám. Ông đỗ Đệ nhị giáp Tiến sĩ xuất thân (Hoàng giáp)",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 2065,
-  "entityName": "Nguyễn Trù",
-  "aliases": [
-    "Trung Lượng",
-    "Loại Phủ"
-  ],
-  "overview": "Nguyễn Trù (chữ Hán:阮 儔 1668-1738), tự Trung Lượng , hiệu Loại Phủ, Loại Am, người phường Đông Tác (Trung Tự), huyện Thọ Xương thuộc kinh thành Thăng Long, là một đại thần dưới triều Lê Trung hưng, đã từng đảm nhiệm chức vụ Tư nghiệp trường Quốc Tử Giám. Ông đỗ Đệ nhị giáp Tiến sĩ xuất thân (Hoàng giáp) khoa thi năm 1697."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê ở vùng Hồ Tây (Hà Nội)",
+  "occupation" : "Danh thần đời Lý Nhân tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Lý" : 14
+  },
+  "id" : 2065,
+  "entityName" : "Mục Thận",
+  "aliases" : [ ],
+  "overview" : "Ông xuất thân làm nghề chài lưới, giỏi võ nghệ. Khoảng năm Bính tí 1096, nhờ công cứu vua Lý Nhân tông thoát khỏi sự mưu hại của Thái sư Lê VănThịnh tại Tây Hồ, nên ông được phong hàm Đô úy và được ban cho đất Dâm Đàm (vùng Tây Hồ) làm thực ấp. Khi ông mất dân chúng lập đền thờ. Đến đời Trần, ông còn được truy tặng là Thái úy, thụy là Trung Duệ, tước Võ Lượng Công. Vua Tự Đức đề vịnh: \"Yên ba cửu dĩ kí bình tung, Cự liệu quân vương giải cấu phùng. Võng lí vô ngư hoàn hữu hổ. Tây hồ hà loạn thiểu ngư long\" Bản dịch: Dấu bèo côi cút bấy lâu nay. Ai ngỡ quân vương gặp gỡ đây. Trong lưới cá không, nhưng có cọp Lo gì cá hiếm ở Hồ Tây."
 }

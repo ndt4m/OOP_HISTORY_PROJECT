@@ -1,10 +1,6 @@
 
 M
 src/main/java/entity/Era.java,0\9\09a83d9a5347af5571608bd0c50875434a62e5e2
-S
-#src/main/java/crawling/Crawler.java,2\d\2d2ebff8e9fccc163becbbab0f5ef40cd47e8e04
-U
-%src/main/java/utils/MergingUtils.java,3\c\3c928c4640560d9324425c6b6474ea8d37a802f1
 f
 6src/main/java/collection/HistoricalSiteCollection.java,d\f\df02d09726c3c3eb1c5f58667300292a0b09564c
 Z
@@ -33,9 +29,33 @@ P
  src/main/java/gui/eraScreen.java,1\e\1e16fc7a9661b9824a90ae3afc2b77e5b587cbef
 T
 $src/main/java/gui/eraScreenTest.java,a\8\a820369dcb285481bb7b1e069acb38ee92513f06
-^
-.src/main/java/collection/EntityCollection.java,7\8\78d428802f9dbd8c72b11e026bf552447bf1ce5a
 [
 +src/main/java/collection/EraCollection.java,a\4\a482e402c9bff5a4893918a9ad8e2e1b3167d7c4
 ]
 -src/main/java/collection/EventCollection.java,a\4\a4d0ab6bceda1346567730fa189195a609f82e6c
+m
+=src/main/java/application/controller/SearchBarController.java,c\2\c24295388b7c8f6740b7006838a7d3280a24a6e2
+`
+0src/main/java/crawling/era/CrawlEraFromWiki.java,3\0\3005e49f8f49ee30106a8d06bf1ab9259e5f2f8e
+`
+0src/main/java/json/HistoricalCharacter/1523.json,7\d\7d7761b1dd795175823aa47517878aea251f31df
+`
+0src/main/java/json/HistoricalCharacter/3141.json,5\3\53573ed6edccd71f8d66754ceacfc1542c924fe2
+j
+:src/main/java/application/controller/TopBarController.java,6\9\690bd08f83faad62177a4bab8c43b3419c3b5ec3
+u
+Esrc/main/java/application/controller/EventDetailScreenController.java,3\3\3340f8ab8af773661a6eaadb41207044fb77b72d
+n
+>src/main/java/application/controller/SiteScreenController.java,d\e\de50afb26339d02bec091838b1aef5298ee15e18
+t
+Dsrc/main/java/application/controller/SiteDetailScreenController.java,2\9\299edc07ab081502fd4986a71e45354adc77e623
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+`
+0src/main/java/json/HistoricalCharacter/3148.json,6\2\62b042eb05c8679ac1e0ce8c296e83b09826b26c
+S
+#src/main/java/crawling/Crawler.java,2\d\2d2ebff8e9fccc163becbbab0f5ef40cd47e8e04
+`
+0src/main/java/json/HistoricalCharacter/3172.json,5\2\52c880501d11a34ddb20cc36b9e5869d148a3cce
+R
+"src/main/java/json/Festival/1.json,2\8\28cff7b607f5650b5f868fd28c19ac5c6a0ea063

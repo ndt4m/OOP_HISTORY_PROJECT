@@ -1,20 +1,17 @@
 {
-  "dateOfBirth": "1839\n----------------------------------------------\nTâm Sửu 1841",
-  "dateOfDeath": "1878\n----------------------------------------------\nMật Dần 1878",
-  "hometown": "quê làng Trình Phổ, tổng An Hồi, huyện Trực Định, thuộc Kiến Xương, tỉnh Nam Định",
-  "occupation": "Danh sĩ đời ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Mậu Tí 1948",
+  "hometown" : "quê làng Tây Tựu, huyện Hoài Đức, tỉnh Hà Đông cũ (nay thuộc ngoại thành Hà Nội)",
+  "occupation" : "Nhà văn",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 2668,
-  "entityName": "Bùi Viện",
-  "aliases": [
-    "Mạnh Dục",
-    "Mạnh Dực",
-    "Đức"
-  ],
-  "overview": "Bùi Viện (1839 - 1878), hiệu Mạnh Dực, là một nhà cải cách, nhà ngoại giao của Việt Nam cuối thế kỷ 19, làm quan dưới triều nhà Nguyễn.\n----------------------------------------------\nNăm Bính thìn 1856, có ân khoa, ông đỗ cử nhân, Ất mão 1855 trước năm ông thi đỗ Quốc tử giám tế tửu là Vô Duy Thanh biết tài ông, tiến cử ông với Tham tri bộ Lễ là Lê Tuấn trong việc bình định các nhóm Cờ đen, Cờ vàng khuấy rối ở miền Bắc. Doanh điền sứ Doãn Tuấn nghe tiếng ông, mời ông cộng sự mở mang bến Ninh Hải thành cửa bể Hải Phòng ngày nay. Hoàn thành công tác, ông lại đảm nhận trách vụ dẹp loạn quân Tề tức Quảng Văn Tế phát động ở Quảng Yên. Có lòng yêu nước, ông cùng Hoàng Phan Thái, Nguyễn Tư Giản, Đặng Đức Thuận, Nguyễn Trường Tộ lập Tân đảng, chủ ý khuyến cáo triều đình nên duy tân cải cách chính trị, quân sự, văn hóa... Lòng bất vụ lợi và yêu quí của ông, được chứng tỏ trong mấy lời ưu ái của vua Tự Đức ban khen ông: \"Trăm ư tử vị hữu thâm ân nghĩa, tử nãi dĩ quốc an, nãi bảo gia an, thâm đồ viễn lự, quỉ thần đương diệc giám chi\". Nghĩa: Trẫm đối về ngươi chưa có ân nghĩa gì mà người đã coi việc nước như việc nhà, không quản xa xôi lo lắng, quỉ thôi ắt cũng chứng cho. Chính ông là nhân vật xuất ngoại đầu tiên vận động bang giao với nước Mĩ, ông lên đường trong năm Quí dậu 1873 (có sách ghi năm Quí hợi 1863 - không đúng). Đến Hoa Thịnh Đốn, ông được Tổng thống Abraham Lincoln tiếp kiến; nhưng vì ông không có quốc thư để chứng minh đành phải trở về. Nhưng khi có quốc thư trong tay, sang Mĩ lần thứ 2, chính tình nước Mĩ đã đổi, Tổng thống Lincoln đã bị ám sát. Vị Tổng thống mới là Ulysse Simpson Grant bận đối phó với lắm cuộc nội biến, ông lại đành trở về không. Đã thế về đến Hoành Tân (Nhật) ông được tin mẹ mất, xúc động, ngậm ngùi, ông có làm bài văn tế cực kì thống thiết. Vua Tự Đức vẫn trọng dụng ông, bổ làm Tham tri, rồi đổi làm Tham chính thương biện, cùng với Nguyễn Tăng Doãn coi về việc quan thuế ở Bắc Kì. Ít lâu đổi làm Chánh quản đốc Nha tuần tải, ông bèn thực thi kế hoạch chỉnh đốn hải quân, thành lập đội tuần dương quân đặt dưới quyền chỉ huy trực tiếp của ông. Đến Mậu dần 1878, ngày 1 tháng 11 âm lịch, ông mất. Triều đình và dân chúng đều thương tiếc. Danh sĩ đươngthời là N0guyễn Tư Giản có đôi liễn điếu ông. \"Tha sinh nhược vị vong gia quốc Tráng chí không lân phó hải sơn\". Nghĩa: Kiếp sau chùa dứt niềm nhà nước Chí lớn đành đem gởì biển non."
+  "id" : 2668,
+  "entityName" : "Nguyễn Phan Lãng",
+  "aliases" : [ "Đàm Xuyên" ],
+  "overview" : "Những năm 1907 ông tham gia giảng dạy tại trường Đông Kinh nghĩa thục, soạn bài Thiết tiền ca đả kích chế độ tiền tệ của thực dân Pháp. Năm 1908, nhà trường bị đóng cửa, ông ra làm báo, viết cho Nam phong nhưng vì không chịu vào hùa với một số nguời trong tòa soạn nên lại thôi không cộng tác nữa. Năm 1925, ông viết bài Tiếng cuốc kêu và bài Mơ tổ mắng, nội dung nói lên lòng yêu nước của ông; được người đương thời để ý. Tác phẩm: - Thiết tiền ca (bài ca tiền sắt). Đông Kinh nghĩa thục, 1908. - Tiếng cuốc kêu. Hà Nội, Chân Phương, 1926. - Mơ Tổ mắng. 1926. - Hoàng Lê nhất thống chí (sách dịch). Cát Thành xuất bản. - Loại sách bình dân: Trạng Quỳnh, Trạng Lợn, Long thành tang hải lục... Bản Thiết tiền ca (Bài ca tiền sắt) của Nguyễn Phan Lãng có ảnh hưởng rất lớn lúc đương thời, phá cả một chính sách kinh tế của thực dân, bị thực dân cấm, nên rất ít người biết. Nay chúng tôi chép lại đây trọn bài vì nghĩ tài liệu đó rất nên phổ biến, có thể trích giảng trong các sách giáo khoa: Tiền với bạc đó là máu mủ, Không có tiền no đủ được sao? Một ngày là một tiêu hao. Máu rơi của hết sống sao được mà! Trời đất hỡi! Dân ta khốn khổ, Đi trăm đường thuế nọ thuế kia, Lưới vây chài quét trăm bề, Róc xương róc thịt, còn gì nữa đâu? Chợt lại thấy bắt tiêu tiền sắt, Thoạt tai nghe bần bật khúc lòng. Trời ơi có khổ hay không? Khổ gì bằng khổ mắc trong cường quyền. Họ khinh lũ đầu đen không biết, Lấy mẹo lừa giết hết chúng ta. Bạc vào đem sắt đổ ra, Bạc kia thu hết sắt mà làm chi? Họ tính lại suy đi đã kiệt, Trói chân tay để chết người mình. Anh em thử nghĩ cho tinh, Sẽ đem soi xét tâm tình họ xem. Họ không muốn người Nam buôn bán, Để một ngày một cạn của đi, Còn trơ đống sắt đen sì, Bạc kia không có lấy gì thông thương? Dầu có muốn xuất dương thương mại, Đem sắt đi ai dại với mình; Rồi ra luẩn quẩn loanh quanh, Vốn kia không có, lợi sinh được nào? Nó lại thấy lưng cao muốn chết, Sợ người mình thấy thiệt thì kêu, Nó đưa tiền sắt cho tiêu, Tuy rằng không chiết mà hao thiệt nhiều. Ấy nó nghĩ mưu cao dường thế, Chỉ tìm đường làm tệ nước ta. Làm cho kẻ xót người xa, Làm cho nhớn bé trẻ già bỏ nhau, Làm cho muốn cất đầu không được, Làm cho đi một bước không xong, Thế mà ta vẫn ngay lòng, Tưởng làm như thế cũng không hề gì!"
 }

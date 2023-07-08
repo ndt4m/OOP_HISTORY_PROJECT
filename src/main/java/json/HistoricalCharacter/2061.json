@@ -1,26 +1,23 @@
 {
-  "dateOfBirth": "4 tháng 9, 1300 Thăng Long\n----------------------------------------------\nCanh Tí 1300\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath": "10/3/1357.Hưởng dương 57 tuổi Cung Bảo Nguyên, Thăng Long\n----------------------------------------------\nĐinh Dậu 1357\n----------------------------------------------\nKhông rõ",
-  "hometown": "quê làng Tức Mặc, phủ Thiên Trường tỉnh Nam Định\n----------------------------------------------\nKhông rõ",
-  "occupation": "Hoàng đế Đại Việt\n----------------------------------------------\nVua thứ năm nhà Trần miếu \n----------------------------------------------\nVua",
-  "workTenure": "1314 – 1329\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1314—1329",
-  "fatherName": {
-    "Trần Anh Tông": 2018
+  "dateOfBirth" : "22 tháng 9 năm 1829 Huế, Việt Nam\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "19 tháng 7, 1883 (53 tuổi) Huế, Đại Nam\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Hà Nội",
+  "occupation" : "Hoàng đế Đại Nam\n----------------------------------------------\nDòng dõi Thượng thư bộ Binh đời Lê Hiển tông là Cao Bá Hiên, thân phụ Cao Bá Quát",
+  "workTenure" : "5 tháng 10 năm 1847 – 19 tháng 7 năm 1883 (35 năm, 287 ngày)\n----------------------------------------------\nKhông rõ",
+  "fatherName" : {
+    "Thiệu Trị" : 164
   },
-  "motherName": {
-    "Chiêu Từ hoàng hậu": null
+  "motherName" : {
+    "Nghi Thiên Chương hoàng hậu" : null
   },
-  "eraName": {
-    "Nhà Trần": 15
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34,
+    "Nhà Tây Sơn" : 21,
+    "Nhà Nguyễn" : null,
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 2061,
-  "entityName": "Trần Minh Tông",
-  "aliases": [
-    "Trần Minh Tông",
-    "Đại Khánh (1314 – 1323) Khai Thái (1324 – 1329)",
-    "Thể Thiên Sùng Hóa Khâm Minh Duệ Hiếu Hoàng Đế",
-    "Minh Tông (明宗)",
-    "Trần Mạnh (陳奣)"
-  ],
-  "overview": "Trần Minh Tông (chữ Hán: 陳明宗, 4 tháng 9 năm 1300 – 10 tháng 3 năm 1357), là vị hoàng đế thứ năm của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ tháng 4 năm 1314 đến tháng 3 năm 1329, sau đó làm Thái thượng hoàng từ năm 1329 đến khi qua đời.\n----------------------------------------------\nNăm Giáp dần 1314 ông lên ngôi, triều đại ông cũng tốt đẹp về văn hóa, chính trị, tôn giáo. Về nông nghiệp cũng phát triển thuận lợi, qua chính sách kêu gọi các vương hầu trả lại ruộng tư hữu đã lấn chiếm, giúp nông dân có ruộng cày. Ông ở ngôi 15 năm (1314-1329), sau nhường ngôi cho con, làm Thái Thượng hoàng như các vua trước từng làm. Ngày 19-2 Đinh dậu (10-3-1357) ông mất, hưởng dương 57 tuổi. Ông có soạn tập thơ Minh tông thi tập nay đã mất, chỉ còn lại 25 bài chép ở Toàn Việt thi lục.\n----------------------------------------------\nTrần Minh Tông (chữ Hán: 陳明宗 4 tháng 10 năm 1300 – 10 tháng 3 năm 1357) tên thật là Trần Mạnh (陳奣), là vị hoàng đế thứ năm của Hoàng triều Trần nước Đại Việt. Ông giữ ngôi từ ngày 3 tháng 4 năm 1314 đến ngày 15 tháng 3 năm 1329, sau đó làm Thái thượng hoàng đến khi qua đời. Thời kỳ của ông và cha ông được mệnh danh là thời kỳ hưng thịnh của vương triều nhà Trần, được sử gia xưng tụng là Anh Minh Thịnh Thế."
+  "id" : 2061,
+  "entityName" : "Cao Cửu Chiếu",
+  "aliases" : [ "Nguyễn Phúc Thì", "Nguyễn Dực Tông", "Anh Hoàng đế (英皇帝)", "Tự Đức (嗣德)", "Dực Tông (翼宗)", "Đức", "Nguyễn Phúc Hồng Nhậm (阮福洪任)" ],
+  "overview" : "Tự Đức (chữ Hán: 嗣德; 22 tháng 9 năm 1829 – 19 tháng 7 năm 1883), tên thật là Nguyễn Phúc Thì (阮福時) hoặc Nguyễn Phúc Hồng Nhậm (阮福洪任), là vị Hoàng đế thứ tư của triều Nguyễn. Ông là vị vua có thời gian trị vì lâu dài nhất của nhà Nguyễn, trị vì từ năm 1847 đến 1883, ông được truy tôn miếu hiệu là Nguyễn Dực Tông (阮翼宗).\n----------------------------------------------\nGặp hồi loạn lạc cuối Lê, ông không ra thi cử, ở ẩn quê nhà. Đến đời Gia Long, ông làm Giáo thụ ở huyện Gia Định (sau đổi là Gia Bình, tỉnh Bắc Ninh; nay thuộc Bắc Ninh), được đương thời khen ngợi là người có đạo đức, giỏi văn chương. Khi thấy vợ sinh đôi hai con là Bá Đạt và Bá Quát có tài văn xuất chúng, ông có lời khuyên sáng suốt: Văn của Bá Đạt hơn về khuôn phép nhưng kém về tài tứ; văn của Bá Quát hơn về tài tứ nhưng kém về khuôn phép. Đem cái tài tứ của Bá Quát hợp cái khuôn phép của Bá Đạt, sẽ có thể trở nên bậc có văn tài hoàn toàn. Ông mất, mọi người đều thương mến, nhắc nhở."
 }

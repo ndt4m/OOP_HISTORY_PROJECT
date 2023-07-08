@@ -1,23 +1,14 @@
 {
-  "dateOfBirth": "117 TCN",
-  "dateOfDeath": "112 TCN Nam Việt",
-  "hometown": "Không rõ",
-  "occupation": "Hoàng đế Nam Việt",
-  "workTenure": "113 TCN – 112 TCN",
-  "fatherName": {
-    "Triệu Minh Vương": 1844
-  },
-  "motherName": {
-    "Cù hậu": null
-  },
-  "eraName": {
-    "Nhà Triệu": 16
-  },
-  "id": 2327,
-  "entityName": "Triệu Hưng",
-  "aliases": [
-    "Ai Vương (哀王)",
-    "Triệu Hưng (趙興)"
-  ],
-  "overview": "Triệu Ai Vương (chữ Hán: 趙哀王; 117 TCN-112 TCN) tên thật là Triệu Hưng (趙興), là vua thứ 4 nhà Triệu nước Nam Việt, trị vì từ năm 113 TCN - 112 TCN, tức chỉ 1 năm."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 2327,
+  "entityName" : "Trần Khuê",
+  "aliases" : [ ],
+  "overview" : "Trần Khuê (chữ Hán: 陳珪; bính âm: Chen Gui), tự là hanyu, là một viên quân sư phục vụ dưới trướng của lãnh chúa Lã Bố trong thời kỳ Tam Quốc của lịch sử Trung Quốc. Trần Khuê là cha của Trần Đăng cũng là một vị quân sư dưới trướng Lã Bố. Trần Khuê tuy phục vụ dưới tay Lã Bố nhưng ông cùng với con không đồng tình với sự lãnh đạo của Lã Bố nên đã lên kế hoạch thông đồng với Tào Tháo để phản bội lại Lã Bố, Trần Khuê đã làm mội ứng cho quân của Lưu Bị và Tào Tháo đánh bại quân Lã Bố. Sau khi Lã Bố bị Tào Tháo đánh bại và bị treo cổ chết tại Bạch Môn lầu, Trần Khuê cùng con là Trần Đăng chuyển sang đầu quân cho Tào tháo."
 }

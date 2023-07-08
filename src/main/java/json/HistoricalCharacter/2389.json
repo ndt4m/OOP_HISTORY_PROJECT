@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "Nhâm Tí 1912",
-  "dateOfDeath": "Quí Hợi 1983",
-  "hometown": "tại làng Bích Trâm, xã Điện Hòa, huyện Điện Bàn, tỉnh Quảng Nam",
-  "occupation": "Nhà hoạt động cách mạng",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "1403",
+  "dateOfDeath" : "1451",
+  "hometown" : "người làng Kim Bôi (nay là làng Giang Đông), huyện Vĩnh Lộc , Thanh Hoá, Việt Nam.",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "nhà Lê" : null
   },
-  "id": 2389,
-  "entityName": "Nguyễn Xuân Nhí",
-  "aliases": [
-    "Nguyễn Công Tâm"
-  ],
-  "overview": "Xuất thân trong một gia đình Nho học yêu nước, (thân phụ là cử nhân Nguyễn Nhự (1865-1922) từng tham gia phong trào Duy tân năm 1908, có chân trong cuộc khởi nghĩa Duy Tân năm 1916 ở Quảng Nam, bị Pháp bắt giam tại nhà lao Hội An, năm 1919 bị bệnh nặng được trả tự do, đến năm 1922 mất tại bản quán). Thuở nhỏ học ở Hội An, cựu học sinh Trường Quốc học ở Huế. Ông giác ngộ cách mạng khi còn ngồi trên ghế nhà trường, năm 1930 bị địch bắt giam ở Huế, đến năm 1933 được trả tự do; từ đó ông vẫn tiếp tục hoạt động bí mật, năm 1939 là tỉnh ủy viên tỉnh ủy Quảng Nam. Tháng 7 năm 1939 ông bị địch bắt lại một lần nữa bị giam tại các nhà lao Quảng Nam, năm 1940 đày đi Lao Bảo (Quảng Trị) năm 1942 đày lên Ban Mê Thuột (Đắc Lắc). Sau ngày Nhật đảo chính Pháp (3-1945) ông ra tù, được điều về làm chủ tịch UBND anh Quảng Nam kiêm Bí thư tỉnh ủy Quảng Nam - Đà Nẵng. Năm 1946 đắc cử Đại biếu Quốc hội đơn vị tỉnh Quảng Nam, vẫn giữ các chức vụ trên. Đến năm 1949-1951 là Trưởng phòng dân quân công tác tại Tây Nguyên, giữ chức Bí thư tỉnh ủy Kontum, Phó ban tổ chức tỉnh ủy Liên khu 5. Năm 1951 ông sang Trung Quốc học lớp chủ nghĩa Mác - Lênin ở Trung Quốc, năm 1953 về nước tham gia cải cách ruộng đất, đấu tố địa chủ... ở miền Bắc, đến năm 1954 tham gia tiếp quản thủ đô (Hà Nội) giữ chức Trưởng ban Kiểm tra Đảng. Đến năm 1955 ông vào miền Nam, được cử làm khu ủy viên phụ trách liên tỉnh Bình Định - Phú Yên kiêm Bí thư tỉnh ủy Bình Định. Năm 1960 là Thường vụ khu ủy khu V, trưởng ban Tổ chức khu V, trưởng ban an ninh cho đến ngày 30-4-1975. Trong kì bầu cử Quốc hội khóa VI, ông đắc cử Đại biểu Quốc hội đơn vị tỉnh Nghĩa Bình, sau đó được Quốc hội đề cử chức ủy viên ủy ban Thường vụ Quốc hội khóa VI. Cuối năm 1976-1977 ông bị bệnh nặng đi chữa ở nước ngoài (Liên Xô, Đức) nhưng bệnh tình quá nặng (mổ ung thư vòm miệng 4 lần vẫn không kết quả) phải chịu đau đớn mãi cho đến ngày 15-9-1983 thì mất. Thọ 71 tuổi. Trong quá trình hoạt động, ông được Đảng Nhà nước Việt Nam tặng nhiều huân chương cao quí, trong đó có Huân chương Hồ Chí Minh (1991). Anh ruột ông là Nguyễn Đóa, Phó chủ tịch chính phủ CMLTMNVN, các em ruột ông là Nguyễn Xuân Trang là Phó chủ nhiệm UBKHNN, Nguyễn Xuân Vân (1918-1968) là liệt sĩ hi sinh trong kháng chiến chống Mĩ ở Quảng Nam..."
+  "id" : 2389,
+  "entityName" : "Lê Khả",
+  "aliases" : [ ],
+  "overview" : "Trịnh Khả (Chữ Hán: 鄭可, 1403-1451) là công thần khai quốc nhà Lê sơ trong lịch sử Việt Nam, người làng Kim Bôi (nay là làng Giang Đông), huyện Vĩnh Lộc , Thanh Hoá, Việt Nam."
 }

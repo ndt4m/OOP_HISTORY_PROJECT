@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "Canh Tuất 1910",
-  "dateOfDeath": "Đinh Mão 1987",
-  "hometown": "quê ở Mĩ Tho (nay thuộc tỉnh Tiền Giang)",
-  "occupation": "Nữ sĩ hiện đại",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Canh Ngọ 1870",
+  "dateOfDeath" : "Mậu Dần 1938",
+  "hometown" : "quê làng Cót, xã Yên Quyết, huyện Từ Liêm, tỉnh Hà Đông (nay thuộc Hà Nội)",
+  "occupation" : "Danh sĩ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 529,
-  "entityName": "Mai Huỳnh Hoa",
-  "aliases": [
-    "Mai Kim Ba"
-  ],
-  "overview": "Bà vốn là cháu ngoại nữ sĩ Sương Nguyệt Ánh Nguyễn Ngọc Khuê (con gái Nguyễn Đình Chiểu). Bà có tiếng thơ văn, có tinh thần yêu nước hết lòng giúp đỡ chồng con trên đường sự nghiệp. Những lúc chồng (Phan Văn Hùm) ngồi tù ra nước ngoài, hoặc bị đày Côn Đảo, bà cùng vợ Nguyễn An Ninh vẫn một lòng khảng khái thờ chồng nuôi con, giúp đỡ các nhà yêu nựớc trong thời vong quốc. Khi chồng mất, bà có mấy vần thơ truy niệm: Kể từ ngộ biến đến giờ, Xuân qua thu lại có thừa đau thương. Khóc người tử táng hà phương, Lòng tôi là huyệt ủ hương hồn người. Bà cũng là một cây bút sáng giá trên các tạp chí, tập san tại Sài Gòn trước đây. Năm Đinh mão 1987, ngày 25-7 bà mất tại thành phố Hồ Chí Minh, thọ 77 tuổi an táng tại nghĩa địa họ Phan ở thị xã Thủ Dầu Một, tỉnh Bình Dương."
+  "id" : 529,
+  "entityName" : "Hoàng Thúc Hội",
+  "aliases" : [ "Gia Phủ", "Cúc Hương" ],
+  "overview" : "Ông nổi tiếng văn chương, có tài đưc được sĩ phu trọng vọng. Ông có bài thơ dự thi trong cuộc thi thơ đề vịnh Trưng vương, được giải nhất và được khắc vào bia đá nơi đền thờ Hai Bà Trưng: Ngụa Gióng đã lên không, Rừng Thanh voi chửa lồng. Nẩy chồi hoa lưu Lạc, Mở mặt nước non Hồng. Trăng dọc gương hồ Bạc, Mây tan dấu cột đồng, Nén hương lòng cố quốc, Xin khấn một lời chung. Ông cũng soạn và xuất bản quyển Trưng vương lịch sử có giá trị. Con ông là Hoàng Thúc Trâm là một nhà nghiên cứu văn học cổ đại có tiếng của nước ta. Tác phẩm của ông gồm: - An Sơn tùy bút tập (3 quyển) - Sài Sơn thực lục - Hà đê đối sách - Đàm Phật lục..."
 }

@@ -1,18 +1,14 @@
 {
-  "dateOfBirth": "Giáp Thìn 1724",
-  "dateOfDeath": "Kỉ Dậu 1789",
-  "hometown": "Quê huyện Hương Trà, tỉnh Thừa Thiên",
-  "occupation": "Cũng gọi là Nguyễn Khoa Thuyên, Võ tướng đời chúa Duệ tông, con Nội tán Nguyễn Khoa Đăng",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
-  },
-  "id": 1918,
-  "entityName": "Nguyễn Khoa Toàn",
-  "aliases": [
-    "Nguyễn Khoa Thuyên"
-  ],
-  "overview": "Ông xuất thân làm Cai bạ ở Long Hồ. Năm Giáp ngọ 1774 nghĩa quân Tây Sơn đánh vùng Khánh Hòa, Bình Thuận, ông cùng Lưu thủ Tống Phước Hiệp cầm quân chống cự, đóng chốt ở Vân Phong. Năm Ất mùi 1775, Duệ tông chạy vào Nam, ông hộ giá vào Gia Định. Được thăng làm Thanh chính, gồm coi bộ Hộ và bộ Binh. Khi về hưu, ông bệnh mất trong năm Kỉ dậu 1789, thọ 65 tuổi, được tặng Võ tích Thượng khanh. Con là Ngụyễn Khoa Kiên cũng có danh vọng to, tử trận lúc ông vào Gia Định."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "xã Thọ Khê (còn gọi là Phúc Khê, tên tục gọi là Làng Nét), huyện Đông Ngàn, phủ Từ Sơn, trấn Kinh Bắc (nay là thôn Thọ Khê, xã Đông Thọ, huyện Yên Phong, tỉnh Bắc Ninh), là thượng thư bộ Lễ, đỗ thám hoa khoa thi năm 1508 dưới triều Lê Uy Mục.",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 1918,
+  "entityName" : "Nguyễn Hữu Nghiêm",
+  "aliases" : [ "Phúc Khê" ],
+  "overview" : "Nguyễn Hữu Nghiêm (chữ Hán: 阮有嚴) (1491 – tháng 1 năm 1525), người xã Thọ Khê (còn gọi là Phúc Khê, tên tục gọi là Làng Nét), huyện Đông Ngàn, phủ Từ Sơn, trấn Kinh Bắc (nay là thôn Thọ Khê, xã Đông Thọ, huyện Yên Phong, tỉnh Bắc Ninh), là thượng thư bộ Lễ, đỗ thám hoa khoa thi năm 1508 dưới triều Lê Uy Mục."
 }

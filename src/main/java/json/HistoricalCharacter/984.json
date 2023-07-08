@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "502",
-  "dateOfDeath": "557",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 984,
-  "entityName": "nhà Lương",
-  "aliases": [],
-  "overview": "Nhà Lương (tiếng Trung: 梁朝; bính âm: Liáng cháo) (502-557), còn gọi là nhà Nam Lương (南梁), là triều đại thứ ba của Nam triều trong thời kỳ Nam-Bắc triều ở Trung Quốc, sau thời kỳ của triều đại Nam Tề và trước thời kỳ của triều đại Trần. Kinh đô đặt tại Kiến Khang (nay là Nam Kinh)."
+  "dateOfBirth" : "Kỉ Mùi 1859",
+  "dateOfDeath" : "Đinh Hợi 1887",
+  "hometown" : "quê làng Bái Giao, huyện Đông Sơn, tỉnh Thanh Hóa",
+  "occupation" : "Nhân sĩ yêu nước",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
+  },
+  "id" : 984,
+  "entityName" : "Lê Khắc Tháo",
+  "aliases" : [ "Tăng Trai" ],
+  "overview" : "Giặc Pháp xâm lăng, ông tham gia phong trào Cần vương chống giặc, được nghĩa quân cử làm Tán tương. Ông có công lớn trong việc xây dựng cứ điểm Ba Đình của Đinh Công Tráng. Sau khi Ba Đình thất thủ, ông rút quân lên miền núi, nhưng giữa đường thì bệnh mất trong năm Đinh hợi 1887, hưởng dương 28 tuổi."
 }

@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Tân Sửu 1121",
-  "dateOfDeath": "Quí Dậu 1213",
-  "hometown": "quê làng Cẩm Hương, tỉnh Nghệ An",
-  "occupation": "Thiền sư đời Lý Anh tông, không rõ tên thật",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Lý": 14
+  "dateOfBirth" : "Kỉ Tị 1809",
+  "dateOfDeath" : "Giáp Dần 1854",
+  "hometown" : "quê làng Phú Thị huyện Gia Lâm, xứ Kinh Bắc tức tỉnh Bắc Ninh (nay thuộc xã Quyết Chiến, huyện Gia tâm, ngoại thành Hà Nội)",
+  "occupation" : "Danh thần triều Nguyễn",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 2982,
-  "entityName": "Nguyễn Y Sơn",
-  "aliases": [
-    "Y Sơn"
-  ],
-  "overview": "Ông có tài văn học, biện thuyết giỏi, xuất gia từ năm 30 tuổi, học trò của sư Viên Thông, về sau được truyền tâm ấn đứng vào hàng thế hệ thứ 19 dòng thiền Nam Phương. Năm Quí dậu 1213 (ngày 18-8 âm lịch) ông viên tịch hưởng thọ 92 tuổi. Trong bài văn Khuyến tu làm theo thể biền ngẫu có những đoạn được đời truyền tụng. \"Điếu danh thi lợi, giai như thủy thương phù âu; Thực phúc chủng duyên, tận thị hung trung hoài bão\". Nghĩa: Chuốc lợi cất danh, thảy như bọt nổi trên nước, Gây duyên truyền phúc ấy là của báu trong lòng. Ngoài ra ông có hai bài kệ đã trở thành danh tác. Bài thứ nhất \"Chân thân thành vạn tượng, Vạn tượng tức chân thân. Nguyệt điện vinh đan quế, Đan quế tại nhất luân.\" Nghĩa: Thân ta thành muôn tượng, Muôn tượng tức thân ta. Cung t,ăng cây quế tốt, Cây quế trong gương nga. Bài thứ hai \"Như Lai thành chánh giác, Nhất thiết lượng đẳng thân. Hồi hổ bất hồi hổ Nhãn tình đồng tử thành\" Nghĩa: Khi Đức Như Lai thành chánh quả Muôn thân bỗng hóa lượng bằng nhau. Như trong ánh mắt thằng con trẻ. Khúc khuất bao nhiêu cũng sạch làu"
+  "id" : 2982,
+  "entityName" : "Cao Bá Đạt",
+  "aliases" : [ ],
+  "overview" : "Năm Giáp ngọ 1834, ông đỗ cử nhân, làm Tri huyện Nông Cống, tỉnh Thanh Hóa, thanh liêm mẫn cán được dân chúng kính mến. Sau khi Cao Bá Quát phù Lê Duy Cự khởi nghĩa chống nhà Nguyễn (Giáp dần 1854) ở Mĩ Lương, rồi bị giết, ông đang ngồi chức Tri huyện cũng bị bắt giải về kinh. Dọc đường, ông làm một tờ trần tình rồi dùng dao đâm cổ tự vẫn. Con ông là Cao Bá Nhạ trốn thoát, nhưng 8 năm sau bị người tố cáo mà thọ hại luôn (X. Cao Bá Nhạ). Nguyễn Văn Siêu có đôi câu đối truy điệu anh em ông rất thâm trầm: \"Ta tai! Quán cổ tài danh nan đệ nan huynh, bất thế ngẫu sinh hoàn ngẫu tử. Dĩ hĩ! Đáo đầu sự thế, khả liên khả ố, hồn trân lưu xú diệc lưu phương\". Bản dịch: Thương thay! Tài diệu tót vời, khó anh khó em, một cặp cùng sinh lại cùng thác. Thôi nhỉ! Sự cơ đến vậy, đáng thương đáng ghét, nghìn năm ghi xấu cũng ghi thơm."
 }

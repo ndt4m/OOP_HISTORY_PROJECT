@@ -1,18 +1,14 @@
 {
-  "dateOfBirth": "…",
-  "dateOfDeath": "Tân Dậu 1921",
-  "hometown": "Quê làng Đông Thái, huyện La Sơn, tỉnh Hà Tĩnh",
-  "occupation": "Con út Phan Đình Phùng",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
-  },
-  "id": 3116,
-  "entityName": "Phan Đình Cừ",
-  "aliases": [
-    "Phan Bá Ngọc"
-  ],
-  "overview": "Năm Bính thân 1896, học ở Nhật ít lâu, ông sang Trung Quốc. Tại Hàng Châu, ông vẫn thường liên lạc với các chiến sĩ lão thành: Phan Bội Châu, Nguyễn Thượng Hiền. Về sau, Phan bị giặc Pháp và tay sai mua chuộc đến nỗi thân bại danh liệt. Những hành vi mờ ám của Phan khiến các nhà hoạt động cách mạng nghi ngờ không tín nhiệm nữa. Năm Tân dậu 1921, khoảng tháng giêng âm lịch, Phan bị Võ Tân Anh tức Lê Văn Phan bắn chết tại Hàng Châu vì tội làm mật thám cho Pháp."
+  "dateOfBirth" : "1918",
+  "dateOfDeath" : "2016",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 3116,
+  "entityName" : "Nguyễn Đôn",
+  "aliases" : [ "Nguyễn Khâm" ],
+  "overview" : "Nguyễn Đôn (1918–2016), tên thật là Nguyễn Khâm, là một Trung tướng Quân đội Nhân dân Việt Nam, nguyên Thứ trưởng Bộ Quốc phòng, Tư lệnh đầu tiên Quân khu 4, Bí thư Đảng ủy kiêm Chính ủy và Tư lệnh Quân khu 5, nguyên Chính trị viên đội du kích Ba Tơ."
 }

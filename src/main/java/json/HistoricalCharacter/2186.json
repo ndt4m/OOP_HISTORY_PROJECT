@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Quí Sửu 1913",
-  "hometown": "Không rõ",
-  "occupation": "Chí sĩ cận đại, nặng lòng yêu nước, lìa gia đình trốn ra nước ngoài, vào học các trường võ bị để mưu tổ chức quân đội giải phóng nước nhà.",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Trảo Nha, huyện Thạch Hà, tỉnh Hà Tĩnh",
+  "occupation" : "Danh tướng đời Lê Trang tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nam - Bắc Triều" : 19,
+    "nhà Lê" : null
   },
-  "id": 2186,
-  "entityName": "Đặng Hữu Bảng",
-  "aliases": [],
-  "overview": "Ông học tập xuất sắc, không bao lâu ra hoạt động trong quân ngũ Trung Quốc, thăng đến Thiếu tá, phụ trách huấn luyện trong đạo quân của Lục Á Sâm ở Trung Quốc. Về sau, ông từng góp sức cùng các đồng chí hoạt động cứu quốc. Khoảng năm 1913, nhân đưọc Tổng đốc Quảng Đông giao cho giữ vùng biên cảnh Long Châu, ông thừa dịp dấy binh đánh Pháp. Nhưng chí lớn không thành, ôm hận nơi đất khách cho đến ngày nhắm mắt."
+  "id" : 2186,
+  "entityName" : "Ngô Cảnh Hựu",
+  "aliases" : [ ],
+  "overview" : "Ngô Cảnh Hựu (chữ Hán: 吳景祐) là đại thần có công giúp nhà Lê trung hưng thời chiến tranh Lê-Mạc trong lịch sử Việt Nam.\n----------------------------------------------\nNăm Đinh hợi 1527, Mạc Đăng Dung cướp quyền vua. Ông không phục tùng nhà Mạc, lui về quê nhà tập họp dân chúng, lập dinh trại, chứa lương thực khí giới, quyết kế chống cự. Khi nghe tin Trang tông nhà Lê lên ngôi, mưu đồ khôi phục cơ nghiệp, ông nhiệt liệt hưởng ứng. Sau nhiều lần lập công to, ông được phong Chinh Tây đại tướng, tước Thể Quận Công."
 }

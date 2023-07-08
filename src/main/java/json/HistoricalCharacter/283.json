@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 283,
-  "entityName": "Huỳnh Đắc Hương",
-  "aliases": [],
-  "overview": "Huỳnh Đắc Hương (sinh 1922) là một sĩ quan cấp cao trong Quân đội Nhân dân Việt Nam, hàm Thiếu tướng, nguyên: Trưởng đoàn chuyên gia kiêm Chính ủy Quân tình nguyện Việt Nam tại Lào; Cục trưởng Cục Tổ chức Tổng cục Chính trị; Thứ trưởng Bộ thương binh và xã hội"
+  "dateOfBirth" : "1445",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Tả thị lang bộ Lại (khi sống) Thượng thư bộ Lễ (truy tặng)",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Lê sơ" : null
+  },
+  "id" : 283,
+  "entityName" : "Trần Năng",
+  "aliases" : [ ],
+  "overview" : "Trần Năng (sinh 1445) là tả thị lang bộ Lại thời Lê sơ đậu hoàng giáp năm 1493. Ông được truy tặng thượng thư bộ Lễ sau khi qua đời."
 }

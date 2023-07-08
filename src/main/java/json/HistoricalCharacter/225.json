@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Kỉ Mão 1939",
-  "dateOfDeath": "Đinh Mùi 1967",
-  "hometown": "quê làng Phú Thọ Hòa, quận Tân Bình, tỉnh Gia Định (nay là quận Tân Bình, TP",
-  "occupation": "Liệt sĩ hiện đại, Anh hùng lực lượng vũ trang",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Giáp Thìn 1604",
+  "dateOfDeath" : "Mậu Ngọ 1678",
+  "hometown" : "quê làng Mộ Trạch, huyện Đường An, tỉnh Hải Dương",
+  "occupation" : "Danh thần đời Lê Thần tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
   },
-  "id": 225,
-  "entityName": "Nguyễn Công Thành",
-  "aliases": [
-    "Đồng Đen"
-  ],
-  "overview": "Ông tham gia cách mạng từ những năm 60, vào lực lượng võ trang biệt động thành, tham dự nhiều trận đánh ở nội thành Sài Gòn. Nổi danh nhất là trận đột nhập sân bay Tân Sơn Nhất và địa đạo ở quận Tân Bình. Ông hi sinh ngày 26 tháng 9 năm 1967 ở đường Địa Đạo quận Tân Bình."
+  "id" : 225,
+  "entityName" : "Võ Duy Chí",
+  "aliases" : [ ],
+  "overview" : "Ông là em Hoàng Giáp Võ Bạt Tụy, nổi tiếng văn thơ, có cơ mưu, được chúa Trịnh Tạc ưu ái trọng dụng, làm đến Thượng thư bộ Lại, tước Phương Quận Công. Sau ông cùng với Trần Đăng Tuyền vào làm Tham tụng ở phủ chúa Trịnh. Năm Bính thìn 1676 ông về hưu, được thăng Thượng thư bộ Lại, Quốc lão Thiếu phó, chúa Trịnh mừng câu đối thêu vào lá cờ: \"Nhất đại tông thần Tiêu Tướng quốc, Lưỡng triều nguyên lão Triệu Hàn vương.\" Nghĩa: Làm quan đầu triều một đời như Tướng quốc Tiêu Hà nhà Hán; Trải chức nguyên lão hai triều như Hàn vương Triệu Phổ thời Tống. Năm Mậu ngọ 1678 ông mất, thọ 74 tuổi được truy thăng Thái Phó, con ông là Tiến sĩ Võ Bật Hài cũng là nhân tài, làm quan đồng triều với ông."
 }

@@ -1,16 +1,18 @@
 {
-  "dateOfBirth": "Canh Ngọ 1870",
-  "dateOfDeath": "Ất Hợi 1935",
-  "hometown": "quê ở Bu N\u0027Trang, huyện Đắc Nông, tỉnh Đắk Lắk (Ban Mê Thuột) Cao nguyên Trung phần Việt Nam",
-  "occupation": "Nhà yêu nước thuộc dân tộc Mơ Nông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Chúa",
+  "workTenure" : "1558—1613",
+  "fatherName" : {
+    "Nguyễn Kim" : 2836
   },
-  "id": 2221,
-  "entityName": "Nơ Trang Long",
-  "aliases": [],
-  "overview": "Ông xuất thân trong một gia đình nông dân là Tù trưởng một bộ lạc sống ở Bu N\u0027Trang giàu lòng yêu nước, căm thù giặc Pháp xâm chiếm nước ta. Ông đã đứng lên lãnh đạo các dân tộc Tây Nguyên như Mơ Nông, Stieng, Mạ, vũ trang chống Pháp năm 1929. Ông biết lợi dụng địa thế hiểm trở của vùng Tây Nguyên, tổ chức đánh du kích, gây cho quân Pháp nhiều thiệt hại trong hơn 20 năm liền. Ngày 23-5-1935, ông chỉ huy chống một trấn càn của lực lượng thực dân khá đông. Ông hi sinh trong lúc chiến đấu vào ngày 25-6-1935, thọ 65 tuổi."
+  "motherName" : { },
+  "eraName" : {
+    "Đàng Trong - Chúa Nguyễn" : 5
+  },
+  "id" : 2221,
+  "entityName" : "Tiên Vương",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Hoàng (chữ Hán: 阮潢; 28 tháng 8, 1524 – 20 tháng 7 năm 1613) hay Nguyễn Thái Tổ, Chúa Tiên, là vị chúa Nguyễn đầu tiên, người đặt nền móng cho vương triều Nguyễn (1802 - 1945). Ông quê ở Gia Miêu Ngoại trang, huyện Tống Sơn, phủ Hà Trung, xứ Thanh Hoa, ngày nay thuộc địa phận xã Hà Long, huyện Hà Trung, tỉnh Thanh Hóa. Ông nội (Nguyễn Hoằng Dụ) và cha ông (Nguyễn Kim) là những trọng thần của triều đình nhà Hậu Lê. Sau cái chết của cha ông là Nguyễn Kim, người anh rể là chúa Trịnh Kiểm nắm giữ quyền hành đã giết chết anh trai ông là Nguyễn Uông, Nguyễn Hoàng nhờ chị gái Nguyễn Thị Ngọc Bảo xin Trịnh Kiểm cho mình vào trấn thủ Thuận Hóa, Trịnh Kiểm chấp thuận."
 }

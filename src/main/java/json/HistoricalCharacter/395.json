@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Bắc Ninh",
-  "occupation": "Có sách chép là Dương Hải",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Triều Lê Sơ": 7
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "không rõ quê quán",
+  "occupation" : "Võ tướng",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Thuộc Minh" : 33
   },
-  "id": 395,
-  "entityName": "Dương Tôn Hải",
-  "aliases": [],
-  "overview": "Danh thần đời Lê Nhân tông. Quê xã Mai Sơn, huyện Thủy Đường; ngụ ở xã Ninh Sơn, huyện Đông Ngạn, tỉnh Bắc Ninh. Năm Mậu thìn 1448, ông đỗ nhị giáp tiến sĩ Giáp thân 1464, ông sung Phó sứ sang Minh với phải đoàn do Phạm Bá Khuê cầm đầu. Về nước được thăng chức Thiêm đô ngự sử. Đinh hợi 1467, thăng Đô cấp sự trung, quyền Thượng bảo tự khanh. Đức độ và tài năng ông, khiến các sĩ phu trọng vọng. Nhà vua cũng từng ủy cho ông và Khiếu Nhân Thọ dạy Thái tử."
+  "id" : 395,
+  "entityName" : "Lê Lăng",
+  "aliases" : [ ],
+  "overview" : "Ông tận tụy hi sinh, hăng say chống địch, trăm trận xem thường sống chết, được Lê Lợi trọng vọng, phong tước là Tư Quận Công. Con ông là Lê Ngang cũng là viên dũng tướng, lừng danh trong các chiến dịch đánh thành Cổ Lộng, Nghệ An."
 }

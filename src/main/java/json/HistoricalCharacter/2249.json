@@ -1,20 +1,20 @@
 {
-  "dateOfBirth": "1853\n----------------------------------------------\nQuí Sửu 1853",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê làng Tả Thanh Oai, huyện Thanh Oai, tỉnh Hà Đông cũ (nay thuộc ngoại thành Hà Nội)",
-  "occupation": "Danh sĩ, sử gia đời Thành Thái",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "Lê Đại Hành" : 2974
   },
-  "id": 2249,
-  "entityName": "Ngô Giáp Đậu",
-  "aliases": [
-    "Sự Sự Trai",
-    "Sự Trai",
-    "Tam Thanh"
-  ],
-  "overview": "Ngô Giáp Đậu (1853-?), hiệu Tam Thanh, biệt hiệu Sự Sự Trai, là nhà văn, nhà giáo và là sử gia đời vua Thành Thái trong lịch sử Việt Nam.\n----------------------------------------------\nÔng thuộc dòng dõi Ngô Thời Sĩ, thi đỗ cử nhân khoa Tân mão năm 1891 tại trường thi Hà Nam (tức trường Hà Nội, Nam Định hơp thi ). Sơ bổ hành tẩu, sau chuyển sang ngạch học quan đến chức Đốc học. Ông là nguời suốt đời tận tụy với nghề dạy học và viết sử. Các tác phẩm chính của ông: - Trung học Việt sử toát yếu. - Trung học Việt sử biên niên toát yếu. - Đại Nam Quốc túy - Hoàng Việt hưng long chí - Mạnh học Trung cao đẳng giáo khoa thư - Hiện kim Bắc Kì địa dư - Thanh Oai Ngô gia thế phả Bộ Thanh Oai Ngô gia thế phả là một bộ phả quan trọng của Ngô gia văn phái nên xin ghi lại tường tận để độc giả biết rõ các nhân vật trong văn phái này đã làm rạng rõ cho tộc Ngô mà cũng là một văn phái lớn của nước ta (các mục từ có ghi riêng và tên tác phẩm)..."
+  "motherName" : {
+    "Dương Vân Nga" : 677
+  },
+  "eraName" : {
+    "Nhà Lý" : 14
+  },
+  "id" : 2249,
+  "entityName" : "Lê Thị Phất Ngân",
+  "aliases" : [ "Trinh Minh hoàng hậu Hoàng thái hậu", "Linh Hiển hoàng hậu 靈顯皇后" ],
+  "overview" : "Lê Thị Phất Ngân (chữ Hán: 黎氏佛銀) là một trong những Hoàng hậu đầu tiên của triều đại nhà Lý trong lịch sử Việt Nam. Bà nguyên là công chúa con vua Lê Đại Hành, sau là vợ vua Lý Thái Tổ và trở thành mẹ vua Lý Thái Tông."
 }

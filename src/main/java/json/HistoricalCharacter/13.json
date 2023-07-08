@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Giáp Dần 1854",
-  "dateOfDeath": "Ất Dậu 1885",
-  "hometown": "quê làng Bác Vọng, huyện Phong Điền, tỉnh Thừa Thiên (nay thuộc tỉnhThừaThiênHuế)",
-  "occupation": "Liệt sĩ cận đại, có sách chép là Đặng Văn Phổ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Giáp Thìn 1724",
+  "dateOfDeath" : "Kỉ Dậu 1789",
+  "hometown" : "Quê huyện Hương Trà, tỉnh Thừa Thiên",
+  "occupation" : "Cũng gọi là Nguyễn Khoa Thuyên, Võ tướng đời chúa Duệ tông, con Nội tán Nguyễn Khoa Đăng",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
   },
-  "id": 13,
-  "entityName": "Đặng Hữu Phổ",
-  "aliases": [],
-  "overview": "Ông đỗ cử nhân, làm quan đến Thị độc nội các. Năm Ất dậu 1885, ông tham gia kháng chiến chống giặc Pháp. Chẳng dè người cùng họ phản bội, bắt ông nộp cho giặc. Triều đình Đồng Khánh và thực dân biết ông là con công chúa Huệ Phố cố ý mua chuộc ông hàng phục, để lung lạc sĩ phu và nhân dân. Ông bất khuất, chỉ xin tha cho cha, còn ông thì chịu chết. Quân Pháp tra tấn, ông không cung khai gì cả. Chúng đem ông xử chém. Ra pháp trường ông có bài thơ lưu lại: \"Tuyệt đại tài hoa tín thử thân. Nhất sinh trung hiếu khuất nhi thân. Nhi kim chính khí hoàn thiên địa, Tinh phách thường tùy quân dữ thân\". Bản dịch: Tài hoa rất mực tự tin, Trọn đời trung hiếu kinh quyền dám sai. Trả chính khí lại đất trời, Mà tinh phách vẫn theo hoài vua cha."
+  "id" : 13,
+  "entityName" : "Nguyễn Khoa Toàn",
+  "aliases" : [ "Nguyễn Khoa Thuyên" ],
+  "overview" : "Ông xuất thân làm Cai bạ ở Long Hồ. Năm Giáp ngọ 1774 nghĩa quân Tây Sơn đánh vùng Khánh Hòa, Bình Thuận, ông cùng Lưu thủ Tống Phước Hiệp cầm quân chống cự, đóng chốt ở Vân Phong. Năm Ất mùi 1775, Duệ tông chạy vào Nam, ông hộ giá vào Gia Định. Được thăng làm Thanh chính, gồm coi bộ Hộ và bộ Binh. Khi về hưu, ông bệnh mất trong năm Kỉ dậu 1789, thọ 65 tuổi, được tặng Võ tích Thượng khanh. Con là Ngụyễn Khoa Kiên cũng có danh vọng to, tử trận lúc ông vào Gia Định."
 }

@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "Bính Thìn 1676",
-  "dateOfDeath": "Không rõ",
-  "hometown": "người làng Thanh Tuyền, huyện Nam Đàn, tỉnh Nghệ An (nay thuộc tỉnh Nghệ An)",
-  "occupation": "Danh thần đời Lê Hi tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "Canh Dần 1890",
+  "dateOfDeath" : "Đinh Tị 1977",
+  "hometown" : "quê xã Văn Lâm, huyện Đức Thọ, tỉnh Hà Tĩnh (nay là xã Đức Thủy tỉnh Hà Tĩnh)",
+  "occupation" : "Nhà văn, nhà yêu nước",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 1013,
-  "entityName": "Bùi Hữu Nhậm",
-  "aliases": [],
-  "overview": "Năm Chính Hòa 21 (Canh thìn 1700), ông đỗ tiến sĩ, lúc 24 tuổi, làm đến Cấp sự trung, khi mất được tặng là Thanh chính. Ông tính cương trực, làm việc theo công tâm, pháp lí, khiến những kẻ quyền thế cường hào không thề giở ngón áp bức dân lành. Ông thường đi qua trấn Cao Bằng, thấy trong hạt có ngôi đền thờ yêu quái được nhiều người sùng tín, ông giải thích cho dân chúng rõ điều mê muội phải bài trừ rồi ra lệnh thiêu hủy đền ấy."
+  "id" : 1013,
+  "entityName" : "Võ Oanh",
+  "aliases" : [ ],
+  "overview" : "Ông sinh trong một gia đình nghèo, nhưng có truyền thống yêu nước, thông Hán văn, Pháp văn, nhưng không thi cử đỗ đạt gì. Năm 1908 ông tham gia tích cực vào cuộc chống sưu thuế ở Nghệ Tĩnh nên bị Pháp bắt giam một thời gian. Ra tù, ông tiếp tục hoạt động chống Pháp trong lĩnh vực văn hóa, báo chí. Từ năm 1928-1929, ông là thành viên của tổ chức Tân Việt Cách mạng đảng. Năm 1941 ông bị thực dân Pháp bắt giam, đày ra Côn Đảo. Cách mạng tháng Tám thành công, ông ra khỏi tù, nhưng đến năm 1946 ông lại bị Pháp bắt đày ra Côn Đảo lần thứ hai, đến 1949 mới được trả tự do, ông vẫn tiếp tục hoạt động yêu nước trong lòng đô thị, sinh nhai với nghề viết báo ở Sài Gòn. Năm 1966, ông ra vùng giải phóng, được cử làm Ủy viên Ủy ban Trung ương Mặt trận dân tộc giải phóng miền Nam Việt Nam, Ủy viên Hội đồng cố vấn chính phủ cách mạng lâm thời miền Nam Việt Nam. Ông được chính phủ Việt Nam tặng nhiều Huân chương cao quí. Ngày 18-11-1977 ông mất tại Thành phố Hồ Chí Minh. hưởng thọ 87 tuổi."
 }

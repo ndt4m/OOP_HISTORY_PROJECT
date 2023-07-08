@@ -1,14 +1,14 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 737,
-  "entityName": "Lý Mật",
-  "aliases": [],
-  "overview": "Lý Mật (李密) có thể đề cập đến:"
+  "dateOfBirth" : "1918",
+  "dateOfDeath" : "1996",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 737,
+  "entityName" : "Hoàng Văn Đức",
+  "aliases" : [ ],
+  "overview" : "Kỹ sư Hoàng Văn Đức (1918 - 1996) là đại biểu Quốc hội Việt Nam khóa đầu tiên, thuộc đoàn đại biểu Hà Nội. Sau khi trúng cử ông được bầu làm ủy viên Ban Thường vụ Quốc hội."
 }

@@ -1,16 +1,14 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 2295,
-  "entityName": "Đặng Chi",
-  "aliases": [
-    "Dèng Zhī"
-  ],
-  "overview": "Đặng Chi (chữ Hán: 鄧芝; Phiên âm: Dèng Zhī; 178–251 ) là một đại thần, tướng lĩnh nhà Thục Hán thời kỳ Tam Quốc trong lịch sử Trung Quốc."
+  "dateOfBirth" : "12 tháng 6, 1955 (62 tuổi) Thái Bình, Việt Nam Dân chủ Cộng hòa",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê quán: Thái Bình) là một Tiến sĩ và chính khách Việt Nam.",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 2295,
+  "entityName" : "Nguyễn Quân",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Quân (sinh ngày 12 tháng 6 năm 1955, quê quán: Thái Bình) là một Tiến sĩ và chính khách Việt Nam. Ông nguyên là Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa XI, Bộ trưởng Bộ Khoa học và Công nghệ (Việt Nam)."
 }

@@ -1,18 +1,14 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "1427",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Minh": null
-  },
-  "id": 2770,
-  "entityName": "Lý Khánh",
-  "aliases": [
-    "Đức Phu"
-  ],
-  "overview": "Lý Khánh (chữ Hán: 李庆, ? – 1427), tên tự là Đức Phu, người huyện Thuận Nghĩa , là quan viên nhà Minh, mất khi trấn áp khởi nghĩa Lam Sơn tại Việt Nam."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "xã thuộc huyện Thanh Thuỷ, tỉnh Phú Thọ, Việt Nam.",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 2770,
+  "entityName" : "Hoàng Xá",
+  "aliases" : [ ],
+  "overview" : "Hoàng Xá là một xã thuộc huyện Thanh Thuỷ, tỉnh Phú Thọ, Việt Nam."
 }

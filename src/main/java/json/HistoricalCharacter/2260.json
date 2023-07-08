@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "huyện Lưu Đình Lễ mở mang trong vùng, được dân chúng nhớ ơn",
-  "occupation": "Vị tiền hiền ở vùng Hóc Môn, Gò Vấp, tỉnh Gia Định (nay thuộc thành phố Hồ Chí Minh), không rõ năm sinh, năm mất",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Ất Dậu 1825",
+  "dateOfDeath" : "Đinh Sửu 1877",
+  "hometown" : "quê làng Bình Dương, phủ Tân Bình, tỉnh Gia Định (nay thuộc thành phố Hồ Chí Minh)",
+  "occupation" : "Nhà thơ, tay chân Pháp xâm lược",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 2260,
-  "entityName": "Đặng Thúc Vịnh",
-  "aliases": [],
-  "overview": "Ông đôn đốc chiêu dân lập làng, lập ấp không bao lâu vùng Hóc Môn trở nên phồn thịnh. Nhưng đến năm Kỉ tị 1859 quân Pháp hạ thành Sài Gòn rồi kéo lên chiếm luôn Hóc Môn, tri huyện Lưu Đình Lễ rút lui về Vĩnh Long, còn ông ẩn tích luôn từ đấy."
+  "id" : 2260,
+  "entityName" : "Tôn Thọ Tường",
+  "aliases" : [ ],
+  "overview" : "Tôn Thọ Tường xuất thân trong một gia đình khoa hoạn, thân phụ là Tôn Thọ Đức đỗ cử nhân, làm quan dưới triều Thiệu Trị, Tự Đức, thuở nhỏ ông học ở Huế, nổi tiếng văn hay chữ tốt. Năm 1840 thân phụ ông qua đời nên việc học dở dang, đến năm 30 tuổi vẫn chưa đỗ đạt gì. Năm 1855, ông được tập ấm làm quan, nhưng chỉ là một chức quan nhỏ, bất mãn vì việc đó, Tường bỏ về quê. Lại nữa, trong một kì thi, vì gian lận nên bị tội, vua Tự Đức xét đến tổ tiên và thân phụ từng làm quan lâu đời nên Tường được tha tội. Năm 1862, thực dân Pháp chiếm 3 tỉnh miền Đông, Tường ra làm việc với Pháp. Từ đó trở nên một nhân viên đắc lực một lòng phục vụ quan thầy Pháp về hành chánh và văn hóa. Có lúc, Tường có chân trong phái đoàn của Phan Thanh Giản đi chuộc 3 tỉnh miền Đông. Sau khi về nước Tường đứng hẳn về phía thực dân Pháp. Sau đó, được thăng chức Đốc phủ sứ, chủ quận Vũng Liêm, tỉnh Vĩnh Long và nhiều lần làm \"chim mồi đi dụ hàng các nhà yêu nước Phan Tôn, Phan Liêm ở Bến Tre, rồi dạy Hán văn ở trường Thông ngôn Nam Kì... Năm 1875 ông làm việc dưới quyền Lãnh sự Pháp De Kergaradec ở Bắc Kì. Trên đường làm việc phục vụ quan thầy, ông bệnh chết năm 1877. Ngoài một quan lại, Tôn Thọ Tường còn là một nhà thơ có thi tài được thể hiện qua một số bài thơ có hình tượng nghệ thuật như Đĩ già đi tu, Từ Thứ qui Tào, Cám cảnh chùa cây mai... nổi tiếng đương thời. Đời Tôn Thọ Tường, đương thời đã bị các nhà nho yêu nước tố cáo, lên án; nhất là với loạt mười bài Cảm hoài đã bị nhà thơ yêu nước Phan Văn Trị vạch mặt chỉ tên nghiêm khắc. Ngoài số thơ Đường luật tỏ chí và họa đối với các văn hữu, ông còn là dịch giả bài tưrờng thiên Tây phù nhật kí của Phạm Phú Thứ. Tây phù nhật kí, nguyên của Phạm Phú Thứ làm phó sứ đi Pháp năm 1863 nhan đề là Sứ trình nhật kí kể chuyện về chuyến công cán cùng năm trên. Tôn Thọ Tường diễn ra quốc âm có nhan đề là Tây phù nhật kí theo thể lục bát dài 676 câu kể rõ chuyến đi từ khi rời đất Gia Định đến lúc đến Y Pha Nho sau chuyến nghị hòa. Đoạn kết có câu: Từ đây kình lặng bốn phương Binh gia khóa cửa chiến trường thâu quân Tín thành hai chữ chuân chuân Phú Cường sau hãy lần lần nối thêm Nghị hòa mấy khúc dò êm Vững yên đất Bắc im lìm biển Nam."
 }

@@ -1,16 +1,14 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Canh Thìn 1530",
-  "hometown": "Quê huyện Yên Phong, tỉnh Bắc Ninh",
-  "occupation": "Văn thần đời Lê Chiêu tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Triều Lê Sơ": 7
-  },
-  "id": 2503,
-  "entityName": "Nghiêm Bá Ký",
-  "aliases": [],
-  "overview": "Ông có tài đức, từng giữ chức vụ cao trong triều, tước Bình Minh Bá. Năm Đinh hợi 1527, Mạc Đăng Dung cướp quyền vua Lê, ông vẫn trung thành với nhà Hậu Lê. Năm Quang Thiệu 5 (Canh thân 1530) ông lãnh mật chiếu Cần vương, phát động quân sĩ chống nhà Mạc. Thất trận, thua to, ông chạy đến châu Văn Uyên, tỉnh Lạng Sơn, rút gươm tự tử sau khi chết được xưng tụng tiết nghĩa."
+  "dateOfBirth" : "15 tháng 1 năm 1930 (87 tuổi) Quảng Trị, Việt Nam",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Thuộc",
+  "workTenure" : "1950-1975",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 2503,
+  "entityName" : "Trần Văn Cẩm",
+  "aliases" : [ ],
+  "overview" : "Trần Văn Cẩm (1930), nguyên là một tướng lĩnh gốc Pháo binh của Quân lực Việt Nam Cộng hòa, cấp bậc Chuẩn tướng. Ông xuất thân từ khóa đầu tiên ở trường Võ bị Địa phương Trung Việt, sau đó ông học tiếp tại trường Võ bị Liên quân tại nam Cao nguyên Trung phần. Ra trường ông được chọn về Binh chủng Pháo binh và đã phục vụ ở ngành chuyên môn này một thời gian dài. Năm 1966, ông chuyển nhiệm vụ sang đơn vị Bộ binh."
 }

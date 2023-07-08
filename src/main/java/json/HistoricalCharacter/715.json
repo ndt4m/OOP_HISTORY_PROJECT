@@ -1,14 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 715,
-  "entityName": "Hoàng Văn Đồng",
-  "aliases": [],
-  "overview": "Hoàng Văn Đồng là một sĩ quan cấp cao trong Quân đội Nhân dân Việt Nam, hàm Trung tướng, hiện là Chính ủy Bộ Tư lệnh Cảnh sát biển Việt Nam."
+  "dateOfBirth" : "1403\n----------------------------------------------\nKỉ Mão 1399",
+  "dateOfDeath" : "1451\n----------------------------------------------\nTân Mùi 1451",
+  "hometown" : "người làng Kim Bôi (nay là làng Giang Đông), huyện Vĩnh Lộc , Thanh Hoá, Việt Nam.\n----------------------------------------------\nquê xã Sóc Sơn huyện Vĩnh Ninh (nay thuộc xã Vĩnh Hòa, huyện Vĩnh Lộc, tỉnh Thanh Hóa)",
+  "occupation" : "Danh tướng đời LêThái tổ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "nhà Lê" : null,
+    "Triều Lê Sơ" : 7
+  },
+  "id" : 715,
+  "entityName" : "Trịnh Khả",
+  "aliases" : [ ],
+  "overview" : "Trịnh Khả (Chữ Hán: 鄭可, 1403-1451) là công thần khai quốc nhà Lê sơ trong lịch sử Việt Nam, người làng Kim Bôi (nay là làng Giang Đông), huyện Vĩnh Lộc , Thanh Hoá, Việt Nam.\n----------------------------------------------\nTổ tiên làm quan triều Trần, có công trong cuộc kháng chiến chống quân Nguyên - Mông. Ông dày công giúp Lê Thái tổ nên được mang họ vua gọi là Lê Khả. Cha là Quyện bị giặc Minh giết. Ông căm thù giặc; gia nhập khởi nghĩa Lam Sơn từ năm 1416, tham dự hội thề Lũng Nhai, chỉ huy đội quân thiết đột. Vì ông thông thạo tiếng Lào (Ai Lao) nên từng làm sứ giả sang Lào. Ông lập được nhiều chiến công đánh quân xâm lược, nổi tiếng trong các trận đánh lớn ở Trà Lân, Khả Lưu, giải phóng vùng Tam Giang, Thao Giang, Gia Hưng, Quy Hóa (Lâm Thao, tỉnh Vĩnh Phú). Ông cùng Phạm Văn Xảo, Nguyễn Chính bao vây Đông Quan, đánh tan viện binh của Mộc Thạnh ở đèo Lê Hoa năm 1427. Năm Mậu thân 1427, kháng chiến thành công, ông được phong Kim Tử Vinh Lộc đại phu, Vệ tướng quân, Kị đô úy. Sau đó, ông được giao phụ trách công việc dân sự và quân sự đạo Hải Tây (từ Thanh Hóa đến Quảng Nam) rồi đổi làm Tổng quản Lạng Sơn. Năm 1437, ông giữ chức Thiếu bảo, rồi gia thăng Thiếu úy, ít lâu thăng Tư mã. Năm Quí hợi 1443, ông được thăng tước Quận Thượng Hầu. Năm 1446 quân Chiêm Thành quấy phá vùng đất phía Nam, ông cùng Lê Thụ đem quân dẹp tan, được phong tước Quốc Thượng Hầu. Năm Tân mùi 1451, nịnh thần dèm ông và con là Trịnh Bá Quát ngầm mưu phản, cha con ông đều bị giết hại, cùng nhiều người trong gia tộc. Đến đời Lê Thánh tông mới phục hồi danh dự cho ông, truy phong là Thiếu phó, tước Liệt Quốc Công, rồi gia phong là Hiển Khánh vương trong năm Giáp thìn 1484. Ông có 22 người con, 13 trai, 9 gái. Con trai lớn là Trịnh Bá Quát bị giết hại còn 9 người con trai khác đều là bậc công hầu của nhà Lê: 1. Đoan Võ Hầu Trịnh Công Lộ 2. Định Công Hầu Công Đán 3. Thuần Mĩ Hầu Công Tá 4. Đoan Quận Công Công Khản 5. Tùng Lãnh Hầu Công Phú 6. Dương Đường Hầu Công Ngô 7. Diên Phúc Bá Quí Địch 8. Bảo Quốc Công Công Diễn 9. Thọ Quận Công Quí Hữu."
 }

@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Thủ lĩnh dân tộc miền núi",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Trần": 15
+  "dateOfBirth" : "1060\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Quê làng Lũng Động, huyện Chí linh, tỉnh Hải Dương, không rõ năm sinh, năm mất",
+  "occupation" : "Danh sĩ đời Lý Nhân tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Lý" : 14
   },
-  "id": 2207,
-  "entityName": "Hà Đặc",
-  "aliases": [],
-  "overview": "Năm Kỉ mão 1279, giặc Nguyên sang xâm lược, vượt sông Thiên Mạc, tiến binh đến huyện Phù Ninh. Ông đem dân binh lên núi Trĩ cố thủ, quân Nguyên đóng đồn ở động Cự Đà ông làm kế nghi binh để cầm chân giặc rồi bện tre làm bù nhìn cho mặc áo quần giống như người thật, hằng đêm dàn đám bù nhìn ấy ra. Giặc Minh nghi không dám giao chiến. Chẳng bao lâu quân tiếp viện kéo đến, ông hiệp sức đánh phá, giặc tan vỡ. Ông đuổi theo đến vùng A Lạc, rồi bắc cầu nổi sang sông, đánh đuổi cho kì quân địch tan vỡ mới thôi. Em ông là Hà Chương cũng nổi danh anh hùng liệt sĩ kháng Nguyên."
+  "id" : 2207,
+  "entityName" : "Mạc Hiển Tích",
+  "aliases" : [ ],
+  "overview" : "Mạc Hiển Tích (chữ Hán: 莫顯績, 1060 -?), là người đỗ đầu tại khoa thi năm Quảng Hựu thứ 2 (Bính Dần, 1086) thời vua Lý Nhân Tông .\n----------------------------------------------\nNăm Bính dần 1086 ông đỗ Trạng nguyên, em ông là Mạc Kiến Quan cũng trúng tuyển, anh em đều làm đến Thượng thư ở triều đình. Ông là tổ xa đời của Trạng nguyên Mạc Đĩnh Chi đời nhà Trần và Mạc Đăng Dung cũng thuộc dòng dõi ông. Trong Việt sử chí, truyện Lý Cao tông, có chép một đoạn về Mạc Hiển Tích: Năm Mậu thân 1188, đời Lý Cao tông, Mạc Hiển Tích làm chức Thiếu sư, bị một nhóm người có danh vọng và uy tín chỉ trích hành vi lạm quyền, phi pháp. Vụ tranh chấp kiện cáo dằng co gay gắt. Đầu năm Kỉ dậu 1189 vua Lý Cao giao vụ kiện cho Thái phó Ngô Lý Tín, Đô quan lang trung Lê Năng Trường xét xử. Nhưng cả Thái phó và Đô quan đều sợ Hiển Tích nên không dám truy cứu. Vì lúc bấy giờ, vua còn nhỏ tuổi, Hiển Tích tư thông với thái hậu, khiến nguời đương thời sợ Hiển Tích. Trong dân gian có câu ca châm biếm: \"Ngô phụ quốc thị Lan, Lê đô quan thị Kính. Án nhất tụng Mạc Tích, Đàn cục tích nhi di.\" Nghĩa: Phụ quốc Ngô là Lan, Đô quan Lê là Kính. Xử việc kiện Mạc Tích, Chỉ sợ hãi mà thôi! Đem Thái phó Ngô Lý Tín và Lang trung Lê Năng Trường sánh với tên Lan tên Kính là hai thằng điên thuở ấy thật là sự giễu cợt ngạo mạn, tố cáo rõ nét triều chính nhà Lý suy đồi, dẫn đến cảnh sụp đổ là lẽ tất nhiên."
 }

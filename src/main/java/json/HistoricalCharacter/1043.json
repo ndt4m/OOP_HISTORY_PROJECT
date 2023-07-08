@@ -1,19 +1,21 @@
 {
-  "dateOfBirth": "? xã An Thuận Thượng, huyện Đại Từ, tỉnh Thái Nguyên, Việt Nam\n----------------------------------------------\n…",
-  "dateOfDeath": "1433 Đông Kinh, Đại Việt\n----------------------------------------------\nQuí Sửu 1433",
-  "hometown": "quê xã An Thạch, huyện Đại Từ, tỉnh Thái Nguyên",
-  "occupation": "Thuộc\n----------------------------------------------\nDanh tướng đời Lê Thái tổ, được ban theo họ vua",
-  "workTenure": "1418-1433\n----------------------------------------------\nKhông rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Lê": null,
-    "Triều Lê Sơ": 7
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Hùng Vương\n----------------------------------------------\nNhân vật dã sử, theo cổ sử Việt Nam, cách nay hơn 4 nghìn năm, theo truyền thuyết vua Đế Minh là cháu ba đời của Viêm Đế họ Thần Nông đi tuần du phương Nam, lấy con gái Vũ Tiên, sinh ra Kinh Dương Vương được vua cha cho làm vua phương Nam gọi là nước Xích Quỷ lập ra họ Hồng Bàng\n----------------------------------------------\nVua",
+  "workTenure" : "? - Thế kỷ VII TCN\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n2525 TCN–2253 TCN",
+  "fatherName" : {
+    "Kinh Dương Vương" : 180
   },
-  "id": 1043,
-  "entityName": "Lưu Nhân Chú",
-  "aliases": [
-    "Lê Nhân Chú"
-  ],
-  "overview": "Lưu Nhân Chú (chữ Hán: 劉仁澍, ?-1433), hay Lê Nhân Chú, là công thần khai quốc nhà Lê sơ trong lịch sử Việt Nam, người xã An Thuận Thượng, huyện Đại Từ, tỉnh Thái Nguyên, Việt Nam\n----------------------------------------------\nÔng theo giúp Lê Lợi trong cuộc khởi nghĩa cứu nước, dày công lao trận mạc, đến năm Đinh mùi 1427, ông làm Hành đế quân đốc quản, Nhập nội đại tư mã và được ban một cây táng. Mậu thân 1428, ông được phong Sung trung tán trị hiệp mưu vương võ công thần, đứng vào hàng thứ năm (Lê Sát thứ hai), trong 53 công thần được khắc biển biểu dương. Rồi được phong tước Á Phượng hầu, chuyển làm Nhập nội tư khấu. Quí tị 1433, Thái tổ mất. Thái tông nối ngôi còn nhỏ, ông bị Đại Tư đồ Lê Sát ganh ghét, mưu giết chết ông bằng rượu độc. Mãi đến đời Thánh tông, ông được truy tặng Thái phó, Vinh Quận Công."
+  "motherName" : {
+    "Long Mẫu Thần Long" : null
+  },
+  "eraName" : {
+    "Hồng Bàng" : 17,
+    "Dựng nước" : 31
+  },
+  "id" : 1043,
+  "entityName" : "Lạc Long Quân",
+  "aliases" : [ "Sùng Lãm", "Hùng Hiền Vương", "Lạc Long Quân" ],
+  "overview" : "Lạc Long Quân (khoảng thế kỷ 8-7 TCN) (chữ Hán: 貉龍君 ) tên húy là Sùng Lãm (崇纜), là nhân vật truyền thuyết Việt Nam.\n----------------------------------------------\nLạc Long Quân lấy bà Âu Cơ sinh ra trăm con, bèn chia đôi, 50 con theo mẹ lên miền núi, 50 con theo cha xuống miền biển. Con trưởng nối ngôi gọi là Hùng Vương, đặt tên nước là Văn Lang. Các vua kế tiếp vẫn gọi là Hùng Vương. Sau nước Văn Lang bị vua Thục chiếm. Họ Hồng Bàng ở ngôi được 2.622 năm.\n----------------------------------------------\nLạc Long Quân (chữ Hán: 貉龍君, 2825 TCN - 2524 TCN), tên húy là Sùng Lãm (崇纜), là một vị vua truyền thuyết của lịch sử Việt Nam. Theo Đại Việt Sử ký Toàn thư thì cha ông là Kinh Dương Vương Lộc Tục và mẹ ông là là Thần Long - con gái của Động Đình Quân. Lạc Long Quân được xem là vị vua của nhà nước sơ khai Xích Quỷ trước nhà nước Văn Lang. Lạc Long Quân và Âu Cơ được xem là thủy tổ sinh ra dân tộc Việt Nam theo truyền thuyết \"bọc trăm trứng\". Lạc Long Quân có thể là danh hiệu truyền lại trong dã sử của một tù trưởng đã có công trong việc đi đến thống nhất các bộ tộc người Lạc Việt. Con trai ông là tù trưởng bộ lạc Văn Lang đã thống nhất thành công 15 bộ lạc, thành lập nhà nước Văn Lang, xưng hiệu Hùng Vương thứ nhất."
 }

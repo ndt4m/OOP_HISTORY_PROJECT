@@ -1,24 +1,16 @@
 {
-  "dateOfBirth": "26 tháng 7, 1507 Đông Kinh",
-  "dateOfDeath": "15 tháng 6, 1527 (19 tuổi) Tây cung, Đông Kinh, Đại Việt",
-  "hometown": "Không rõ",
-  "occupation": "Hoàng đế Đại Việt",
-  "workTenure": "22 tháng 7 năm 1522 – 15 tháng 6 năm 1527 (4 năm, 328 ngày)",
-  "fatherName": {
-    "Lê Minh Tông": null
+  "dateOfBirth" : "Nhâm Tuất 1862",
+  "dateOfDeath" : "Canh Thân 1920",
+  "hometown" : "quê làng An Thái Đông, huyện Lễ Dương, phủ Thăng Bình (nay thuộc Xã Bình Quí, huyện Thăng Bình, tỉnh Quảng Nam)",
+  "occupation" : "Chiến sĩ phong trào Duy tân",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "motherName": {
-    "Trịnh Thị Loan": null
-  },
-  "eraName": {
-    "Nhà Lê sơ": null
-  },
-  "id": 974,
-  "entityName": "Lê Hoàng Đệ Xuân",
-  "aliases": [
-    "Lê Xuân (黎椿)",
-    "Cung Hoàng đế (恭皇帝)",
-    "Thống Nguyên (統元)"
-  ],
-  "overview": "Lê Cung Hoàng (chữ Hán: 黎恭皇; 26 tháng 7, 1507 – 15 tháng 6, 1527), là vị hoàng đế thứ 11 của nhà Hậu Lê, ở ngôi từ năm 1522 đến 1527, tổng cộng 5 năm. Ông là vị hoàng đế cuối cùng của nhà Lê sơ."
+  "id" : 974,
+  "entityName" : "Võ Hữu Kiền",
+  "aliases" : [ ],
+  "overview" : "Xuất thân trong một gia đình truyền thống nho học, cựu học sinh trường huấn Thăng Bình, tường Đốc Quảng Nam. Ông học vấn uyên bác, từng đỗ hai khoa Tú tài, trước sau sống với nghề dạy học. Năm 1902-1908 ông có chân trong phong trào Duy tân, ông cùng các đồng hảo tham gia thực hành công tác cải cách. Ông phụ trách các lớp tân học ở Thăng Bình và các vùng lân cận. Phong trào bị thực dân và Nam triều khủng bố trắng. Ông bị bắt giam tại nhà lao Hội An đến năm 1912 mới được trả tự do. Đến năm 1916, ông lại có mặt trong cuộc khởi nghĩa Duy tân ở Quảng Nam. Cuộc khởi nghĩa bị Pháp dìm trong máu, ông bị Pháp bắt lần nữa, Nam triều kết án bảy năm tù giam. Nhưng đến ngày 24-7-1920 ông mất trong nhà tù Hội An, thọ 58 tuổi."
 }

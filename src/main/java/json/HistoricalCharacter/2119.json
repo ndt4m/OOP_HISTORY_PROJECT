@@ -1,19 +1,14 @@
 {
-  "dateOfBirth": "Giáp Dần 1854",
-  "dateOfDeath": "Nhâm Tí 1912",
-  "hometown": "Quê xã Đông Sàng, huyện Phúc Thọ, tỉnh Sơn Tây (nay là tỉnh Hà Tây)",
-  "occupation": "Danh sĩ, ông còn có tên khác nữa là Kiều Dực",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
-  },
-  "id": 2119,
-  "entityName": "Kiều Oánh Mậu",
-  "aliases": [
-    "Kiều Dực",
-    "Kiều Cung"
-  ],
-  "overview": "Ông có tài văn thơ, tự là Tử Yến, hiệu Giá Sơn, đỗ cử nhân năm Kỉ mão 1879, và năm sau Canh thìn 1880, đỗ phó bảng. Ông được bổ làm Tri phủ, ít lâu bị giáng làm Tri huyện. Ông đã ngồi trấn nhậm nhiều nơi, rồi bỏ ấn từ quan, ra giúp việc tại tòa soạn báo Đồng Văn ở Hà Nội. Ngoài việc xuất bản cuốn Đoạn trường tân thanh, ông còn soạn truyện Tì bà, làm thêm hai bản án thổ quan và ngư phủ nối sau tập Kim Vân Kiều án của Nguyễn Văn Thắng. Ông cũng có đề tựa sách Tang thương ngẫu lục, duyệt lại sách Bút toán chỉ nam và soạn sách Bản triều bạn nghịch liệt truyện nói về các vụ khởi nghĩa chống nhà Nguyễn. Năm Nhâm tí 1912, ông mất, thọ 58 tuổi."
+  "dateOfBirth" : "20 tháng 7, 1954 (64 tuổi) Quế Sơn, Quảng Nam, Quốc gia Việt Nam",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Hà Nội",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 2119,
+  "entityName" : "Nguyễn Xuân Phúc",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Xuân Phúc (sinh 20 tháng 7 năm 1954) là đương kim Thủ tướng Chính phủ nước Cộng hoà Xã hội Chủ nghĩa Việt Nam. Ông còn là đại biểu quốc hội Việt Nam khóa XIV nhiệm kì 2016-2021 thuộc đoàn đại biểu thành phố Hải Phòng. Ông từng là Đại biểu Quốc hội Việt Nam khóa XIII nhiệm kì 2011-2016, thuộc đoàn đại biểu tỉnh Quảng Nam. Trong Đảng Cộng sản Việt Nam, ông hiện giữ chức Ủy viên Bộ Chính trị Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa XII, Bí thư Ban Cán sự Đảng Chính phủ."
 }

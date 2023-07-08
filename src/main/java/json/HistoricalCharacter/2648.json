@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "936",
-  "dateOfDeath": "947",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 2648,
-  "entityName": "Nhà Hậu Tấn",
-  "aliases": [],
-  "overview": "Nhà Hậu Tấn (936-947) là một trong năm triều đại, gọi là Ngũ đại trong thời Ngũ đại Thập quốc (907-960) ở Trung Quốc."
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Canh Thìn 1360",
+  "hometown" : "Quê ở Trà Hương, tỉnh Hải Dương (nay là Ninh Thanh, tỉnh Hải Dương)",
+  "occupation" : "Lãnh tụ cuộc khởi nghĩa nông dân lớn nhất đời Trần",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Lý" : 14
+  },
+  "id" : 2648,
+  "entityName" : "Ngộ Bệ",
+  "aliases" : [ ],
+  "overview" : "Khoảng năm 1343-1344, xã hội thời Trần suy kém, nhân dân đói khổ, loạn lạc khắp nơi. Ông tụ họp dân phiêu tán ở vùng núi Yên Phụ (Hải Dương) dựng cờ lớn ở trên đỉnh núi, yết bảng \"Chẩn cứu dân nghèo\", chống lại quan lại, địa chủ. Nghĩa quân phát động càng lâu càng mạnh thế, ông chỉ huy đánh chiếm cả một vùng rộng lớn từ xã Thiên Liêu đến huyện Chí Linh. Triều đình sai tướng đem binh đàn áp. Ông câm quân chống cự ráo riết. Năm Canh thân 1360, binh triều đại cử tấn công, đàn áp dữ dội, ông bị bắt đưa về kinh hành hình, nghĩa quân tan vỡ."
 }

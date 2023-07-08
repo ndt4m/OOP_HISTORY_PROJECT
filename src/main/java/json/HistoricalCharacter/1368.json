@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "Giáp Thân 1944",
-  "dateOfDeath": "Mậu Thân 1968",
-  "hometown": "quê xã Đoàn Hùng huyện Duyên Hà, tỉnh Thái Bình (nay vẫn thuộc tỉnh Thái Bình)",
-  "occupation": "Nhà văn, Liệt sĩ hiện đại, cựu sinh viên tranh đấu Sài Gòn",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Mậu Thân 1848",
+  "dateOfDeath" : "Ất Tị 1905",
+  "hometown" : "quê làng Phú Mĩ, huyện Duy Xuyên, tỉnh Quảng Nam (nay là thôn Phú Mĩ, xã Lộc Hoà, huyện Đại Lộc, tỉnh Quảng Nam)",
+  "occupation" : "Đại thần cuối triều Nguyễn ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 1368,
-  "entityName": "Trần Triệu Luật",
-  "aliases": [],
-  "overview": "Năm 1954 ông theo gia đình di cư vào sinh sống ở Sài Gòn, cựu học sinh trường Chu Văn An (Sài Gòn) cựu sinh viên Đại học luật khoa Sài Gòn. Ông từng tham gia và là thành viên của Ban chấp hành Tổng hội sinh viên Sài Gòn (1963-1968). Ông là một trong các \"lãnh tụ\" sinh viên tổ chức hướng dẫn các cuộc biểu tình chống Mĩ và các thế lực phản động Sài Gòn một thời vang vọng. Các năm 1967, 1968 ông có chân trong Liên minh các lực lượng dân tộc, dân chủ và hòa bình miền Nam Việt Nam. Lúc viết văn, làm báo ông cộng tác với các báo và tạp chí: Bách khoa, Hành trình, Đất nước Đối diện... là những báo có uu tín ở miền Nam Việt Nam vào thời điểm trên. Sau Tổng tiến công Mậu thân (1968) ông thoát li ra vùng Giải phóng và hi sinh trên đường công tác ở Tây Ninh ngày 11-10-1968 cùng địa điểm với thi sĩ, liệt sĩ Trần Quang Long (1941-1968). Các tác phẩm của ông hầu hết là các chuyên đề đăng trong các tạp chí vừa dẫn ở trên."
+  "id" : 1368,
+  "entityName" : "Hồ Lệ",
+  "aliases" : [ "Trạch Hữu", "Kim Khanh", "Song Mĩ" ],
+  "overview" : "Xuất thân trong một gia đình Nho học, năm hai mươi tuổi (1868) đậu Tú tài, năm 1870 đậu Cử nhân (khoa Canh ngọ, Tự Đức thứ 23). Năm 1875 thi Hội trung cách nhưng bị lỗi \"khiếm trang\" (dùng chữ thiếu trang trọng với nhà vua) nên bị đánh hỏng Tiến sĩ, tuy vậy vẫn được bổ Tư vụ Bộ lại, rồi Hành tẩu cơ mật viện, năm Tự Đức thứ 32 (1879) giữ chức Lang trung bộ Hộ. Năm 1883 giữ chức Biện lí bộ Hộ kiêm Thương bạc sự vụ. Tiếp theo đó giữ chức Bố chánh Phú Yên, Tổng đốc Quảng Nam, Nghệ An... một thời gian. Năm 1895 vì ông bất phục Nguyễn Thân lúc Thân kéo quân ra Hà Tĩnh đàn áp nghĩa quân Phan Đình Phùng, ông xin triều đình cho về quê dưỡng bệnh. Đến năm 1902 khi tay sai Nguyễn Thân bị Pháp thải hồi ông và Nguyễn Thuật được vua Thành Thái vời ra lãnh chức Thượng thư bộ Binh thay Nguyễn Thân (trước đó Thân từng bức hại con trai trưởng ông ở Nghệ An). Nguyễn Thuật thay chức Hoàng Cao Khải. Tại triều ông từng ám trợ tinh thần cho chí sĩ Phan Bội Châu quảng bá các tác phẩm của Sào Nam tiên sinh nhất là cuốn Lưu cầu huyệt lệ tâm thư (X. Phan Bội Châu). Trong thời gian này nhiều lần ông được triều đình cử làm chủ khảo các kì thi Hương, thi Hội tại Huế. Lúc đương chức ông là một vị quan thanh liêm trong mọi lĩnh vực từ hành chành, thi cử... Ông mất ngày mồng 4 tháng giêng năm Ất hợi (1905) đang lúc tại chức (Thượng thư bộ Binh) ở Huế, thọ 58 tuổi. Con trai, cháu nội ông là những trí thức lớn ở địa phương được nhân dân trọng vọng."
 }

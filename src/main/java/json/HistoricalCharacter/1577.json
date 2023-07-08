@@ -1,16 +1,18 @@
 {
-  "dateOfBirth": "Kỉ Dậu 1909",
-  "dateOfDeath": "Kỉ Mùi 1979",
-  "hometown": "tại Thái Bình",
-  "occupation": "Nhà văn hiện đại",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "589",
+  "dateOfDeath" : "626 (36 – 37 tuổi)",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng thái tử Đại Đường",
+  "workTenure" : "618 - 626",
+  "fatherName" : {
+    "Đường Cao Tổ" : null
   },
-  "id": 1577,
-  "entityName": "Đỗ Đúc Thu",
-  "aliases": [],
-  "overview": "Ông xuất thân làm công chức Sở khí tượng Hà Nội. Tác phẩm đầu tay của ông tựa là \"Ba \", được giải thưởng khuyến khích của Tự Lực văn đoàn. Về sau ông gia nhập Văn đoàn Tự Lực, viết nhiều truyên ngắn đăng trên báo Ngày Nay. Ông mất ngày 5-3-1979 tại Tân Định, thành phố Hồ Chí Minh, thọ 70 tuổi. Ông còn để lại các tác phẩm: - Vỡ lòng (tiểu thuyết), NXB Đời Nay, Hà Nội. - Bốc đồng (tiểu thuyết), NXB Nguyễn Du, Hà Nội 1942. - Nhà bên kia (tập truyện ngắn), NXB Công Lực, Hà Nội, 1943. - Đứa con (tiểu thuyết), NXB Đời Nay, Hà Nội 1943, truyện dài này trước có đăng ở tạp chí Thanh Nghị tại Hà Nội năm 1941, 1942."
+  "motherName" : {
+    "Thái Mục hoàng hậu" : null
+  },
+  "eraName" : { },
+  "id" : 1577,
+  "entityName" : "Lý Kiến Thành",
+  "aliases" : [ "Thụy hiệu Ẩn Thái tử (隱太子)", "Tỳ Sa Môn" ],
+  "overview" : "Lý Kiến Thành (chữ Hán: 李建成, 589 – 2 tháng 7, năm 626), biểu tự Tỳ Sa Môn (毗沙門), là một Thái tử nhà Đường. Ông là con trưởng của hoàng đế khai quốc Đường Cao Tổ Lý Uyên, được phong làm Thái tử sau khi triều đại thành lập vào năm 618."
 }

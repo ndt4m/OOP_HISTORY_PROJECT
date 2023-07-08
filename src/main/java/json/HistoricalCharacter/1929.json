@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "1533 hoặc 1534 Thượng Cốc, huyện Lôi Dương (Thanh Hóa)",
-  "dateOfDeath": "1609 (74–75 tuổi) hoặc 1609 (75–76 tuổi)",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Lê trung hưng": null
+  "dateOfBirth" : "Giáp Ngọ 1414",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê xã Tiên Triều, huyện Vĩnh Ninh (sau đổi là Vĩnh Lộc), tỉnh Thanh Hóa",
+  "occupation" : "Danh sĩ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Triều Lê Sơ" : 7
   },
-  "id": 1929,
-  "entityName": "Lê Trạc Tú",
-  "aliases": [],
-  "overview": "Lê Trạc Tú (chữ Hán: 黎擢秀) (1533 hoặc 1534-1609) là một tể tướng và thượng thư thời Lê trung hưng."
+  "id" : 1929,
+  "entityName" : "Hoàng Sằn Phu",
+  "aliases" : [ "Hoàng Tâm Phu" ],
+  "overview" : "Năm Nhâm tuất 1442, ông đỗ tiến sĩ làm đến Hoàng môn thị lang, từng dự việc chép sử. Ông có soạn bộ Quần hiền phú tập 6q. Sưu tập các bài phú khoảng cuối đời Trần, đầu đời Lê. Có bài tựa của Nguyễn ThiênTúng đề năm Đinh sửu 1457, Kính Văn Huy phê bình, Nguyễn Duy Tác duyệt lại."
 }

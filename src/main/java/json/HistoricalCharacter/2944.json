@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "…",
-  "dateOfDeath": "1787\n----------------------------------------------\nBính Ngọ 1786",
-  "hometown": "quê ở Vân Cốc tỉnh Sơn Tây (nay là tỉnh Hà Tây)",
-  "occupation": "Danh tướng đời Lê Hiển tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "1787\n----------------------------------------------\nĐinh Mùi 1787",
+  "hometown" : "xã Phúc Thọ, huyện Nghi Lộc, Nghệ An, Việt Nam.\n----------------------------------------------\nquê làng Cổ Đan, xã Đông Hải, huyện Chân Phúc, trấn Nghệ An (nay thuộc tỉnh Nghệ An), con nhà phú thương Nguyễn Mẫn",
+  "occupation" : "Danh tướng cuối đời Hậu Lê",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34,
+    "Nhà Tây Sơn" : 21
   },
-  "id": 2944,
-  "entityName": "Hoàng Phùng Cơ",
-  "aliases": [],
-  "overview": "Hoàng Phùng Cơ (chữ Hán: 黄馮基; ?-1787), còn gọi là quận Thạc (từ chữ Thạc quận công 碩郡公), là tướng thời Lê Mạt trong lịch sử Việt Nam. Ông tham gia phò tá và dự cuộc chiến khôi phục chính quyền Lê-Trịnh cuối thế kỷ 18 nhưng cuối cùng thất bại.\n----------------------------------------------\nTrước ông theo Nguyễn Tuyển, Nguyễn Cừ hoạt động ở vùng Hải Dương, sau hàng nhà Lê, dần dần làm đến Đốc trấn Sơn Tây, Tuyên Quang. Năm Giáp ngọ 1774, ông xin trấn giữ phương Nam, để ngừa cuộc biến loạn có thể dấy lên, không được chấp thuận, ông cùng các quan lui về ở Khán Sơn. Nghĩa quân Tây Sơn ra Bắc, tiến khỏi Vị Hoàng. Chúa Trịnh phải sai sứ triệu ông, tặng cho một đầu hươu tươi và một lạng phục quế. Ông đã già lại bệnh, vẫn ra lãnh nhiệm vụ cùng với 8 người con và một người rể đem binh đi chống giữ. Đôi bên cầm cự ít lâu, Tây Sơn rút binh. Ông được phong làm Tư Không, tước Thạch Quận Công, trấn thủ ở Sơn Tây. Năm Bính ngọ 178 6, Tây Sơn tiến binh mạnh, 6 người con ông chết trận, chỉ còn 2 người lui chạy, bị Nguyễn Hữu Chỉnh bắt sống. Tây Sơn khêp ông vào tội chém đầu nhưng giảm cho tự vận. Ông uống thuốc độc chết vào năm Bính ngọ 1786."
+  "id" : 2944,
+  "entityName" : "Nguyễn Hữu Chỉnh",
+  "aliases" : [ "Quận Bằng" ],
+  "overview" : "Nguyễn Hữu Chỉnh (chữ Hán: 阮有整, ? - 1787), biệt hiệu Quận Bằng (鵬郡), là tướng thời Lê trung hưng và Tây Sơn trong thế kỷ 18. Ông là người huyện Chân Phúc, phủ Đức Quang, Trấn Nghệ An nay là xã Phúc Thọ, huyện Nghi Lộc, Nghệ An, Việt Nam.\n----------------------------------------------\nNăm 16 tuổi đỗ Hương cống, 18 tuổi thi đỗ Tam trường, ông có cơ trí và có tài biện bác, giỏi văn thơ. Trước theo Hoàng Ngũ Phúc đánh chúa Nguyễn ở Thuận Hóa. Khi Hoàng Ngũ Phúc mất, ông dựa vào Hoàng Đình Bảo, lúc kiêu binh nổi lên giết Hoàng Đình Bảo, ông chạy vào Nghệ An, rồi theo Tây Sơn đánh chúa Trịnh. Nhưng Tây Sơn không tin ông, chẳng bao lâu ông lại dựa vào vua Lê, đánh dẹp nhóm Trịnh Bồng, được phong làm Đại Tư Đồ, giữ việc quân quốc trọng yếu, tước Bằng Trung Công, rồi thăng Bằng Quận Công. Có thế lực, ông xui vua Lê đòi Tây Sơn trả đất Nghệ An, và xúi giục Nguyễn Văn Duệ chống lại Tây Sơn. Khoảng cuối năm Đinh mùi 1787, Nguyễn Huệ sai Vũ Văn Nhậm đánh bắt ông, rồi giết đi bằng cực hình bốn ngựa phân thây. Các tác phẩm của ông đều viết bằng cha Nôm, gồm có: - Ngôn âm thi tập - Văn tế chị (người chị có chồng là danh sĩ Phạm Nguyễn Du tức Phạm Khiêm Ích) - Phú Trương Lưu Hầu - Phú Quách Tử Nghi"
 }

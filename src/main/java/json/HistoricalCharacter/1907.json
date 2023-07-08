@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "…",
-  "dateOfDeath": "Giáp Dần 1854",
-  "hometown": "quê làng Phù Chánh, huyện Lệ Thủy, tỉnh Quảng Bình, không rõ năm sinh",
-  "occupation": "Danh thần triều Nguyễn",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Mậu Ngọ 1858",
+  "hometown" : "quê huyện Phong Lộc, tỉnh Quảng Bình",
+  "occupation" : "Danh thần đời Gia Long, thân phụ Hoàng Kế Viêm",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 1907,
-  "entityName": "Nguyễn Đăng Giai",
-  "aliases": [
-    "Toản Phu"
-  ],
-  "overview": "Xuất thân trong một gia đình vọng tộc con trai Hiệp biện đại học sĩ Ngụyễn Đăng Tuân, thân phụ Tiến sĩ Nguyễn Đăng Hoành đều là đại thần triều Nguyễn. Thuở nhỏ theo học với thân phụ, cha ông thấy có tướng lạ đoán là sau sẽ lập thân sớm và có tài kinh bang tế thế. Năm Ất dậu 1825 đỗ cử nhân tại trường thi Thừa Thiên, vinh qui được sơ bổ Hàn lâm, rồi thăng Lang trung bộ Hộ, Hiệp trấn Nam Định. Năm 1881 sung chức khảo thí trường thi Nghệ An, rồi Bố chánh sứ Thanh Hóa. Từ đó hoạn lộ ông ngày càng thăng tiến: Tổng đốc Hà Ninh (Hà Nội - Bắc Ninh), Thượng thư bộ Hình, Hiệp biện đại học sĩ, Kinh lược sứ Bắc Kì... Trong đời làm quan dù ở chức vụ gì ông cũng hoàn thành sứ mạng một cách vẻ vang, nên được cả 2 vua Thiệu Trị và Tự Đức hết lời khen ngợi, và tặng ông bốn cha \"liêm bình cần cán\". Năm Giáp dần 1854 khi đang lãnh chức kinh lược sứ Bắc Kì, gặp lúc Thanh phỉ là Tống... sang quấy nhiễu, cướp bóc ở Cao Bằng, ông thân chỉ huy đánh dẹp. Đang ở trận địa ông bị bệnh phải về Hà Nội điều trị, đến mùa thu ông qua đời ở Hà Nội. Sau khi mất được tặng hàm Thiếu bảo, tên thụy là Văn ý, đến năm 1858 cho liệt thờ ở đền Hiền Lương. Vua Tự Đức có dụ rằng: \"Nguyễn Đăng Giai đã từng thờ 3 triều trung cần một tiết (...) Huống chi là kẻ thế thần, đời đời làm quan trong nước, trọn lòng với trẫm, thực nên hậu gia điển chương khen thưởng đề nêu người trung tiết, tuy bề tôi có danh tiếng đời xưa cũng không hơn được\". Nguyễn Đăng Giai là một đại thần hết lòng giúp vua trị nước, không những chuyên tâm phát triển cái học Nho gia mà đối với Phật học ông cũng hết lòng ngưỡng mộ. Trong hành trình sống và tu dưỡng đạo đức, ông đă luôn luôn dung hòa cái học Nho Thích trong việc hành xử của mình. Chính vì vậy mà Quốc sử quán triều Nguyễn nhận xét về cái học dung hòa Nho Thích của ông đã viết: \"Tiếc vì Đăng Giai tôn chuộng đạo Thích, dựng chùa thờ Phật, luôn mê hoặc nguời, phí của thật nhiều (vào việc dâng chùa), chưa khỏi làm lụy cho thịnh đức\"."
+  "id" : 1907,
+  "entityName" : "Hoàng Kim Xán",
+  "aliases" : [ ],
+  "overview" : "Ông xuất thân làm Tri huyện Lệ Thủy, rồi thăng lần đến Thượng thư bộ Hình; sung Kinh lược Đại sứ Nam Định. Khi làm Tổng đốc Định An thì mất tại chức, được tặng Hiệp biện đại học sĩ. Đến đời Tự Đức, khoảng năm Mậu ngọ 1858 được liệt thờ ở đền Hiền lương. Con trưởng ông là Thản, được ấn thụ viên ngoại lang, con thứ hai là Hoàng Kế Viêm cháu là Vĩ làm đến Hiệp biện đại học sĩ."
 }

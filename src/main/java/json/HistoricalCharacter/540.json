@@ -1,19 +1,18 @@
 {
-  "dateOfBirth": "Quí Sửu 1913",
-  "dateOfDeath": "Mậu Thìn 1988",
-  "hometown": "tại làng Vân Canh, huyện Hoài Đức, tỉnh Hà Đông (nay thuộc tỉnh Hà Tây)",
-  "occupation": "Giáo sư sử học",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Đinh Dậu 1897",
+  "dateOfDeath" : "Tân Mùi 1931",
+  "hometown" : "quê làng Hải Côn, huyện Nghi Lộc, tỉnh Nghệ An",
+  "occupation" : "Liệt sĩ cách mạng",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "Đặng Thái Thân" : 790
   },
-  "id": 540,
-  "entityName": "Trần Đức Sắc",
-  "aliases": [
-    "Văn Tân"
-  ],
-  "overview": "Xuất thân trong một gia đình Nho học truyền thống, tham gia hoạt động cách mạng từ hồi còn trẻ tuổi. Từ năm 1930 bị Pháp bắt kết án tù treo và bị quản thúc tại quê nhà, nhưng ông vẫn tham gia hoạt động bí mật chống Pháp. Năm 1932 bị bắt và kết án tù giam tại nhà lao Hỏa Lỏ (Hà Nội). Năm 1937 ông được trả tự do, nhưng vừa ra khỏi nhà tù ông tiếp tục tham gia viết báo công khai của ĐCSĐD. Trong chiến tranh thế giới lần II, ông bị bắt lại và đày lên Sơn La, đến năm 1944 ông vượt ngục tham gia các đội quân du kích chống Nhật. Sau cách mạng tháng 8 ông về Hà Nội phụ trách báo Cứu quốc. Trong kháng chiến chống Pháp, ông dạy học ở khu học xá Việt Nam tại Nam Ninh (Tr.Q) một thời gian. Sau hiệp định Genève ông về làm việc ở Viện Sử học cho đến ngày nghỉ hưu. Các tác phẩm chính: - Cách mạng Tây Sơn - Lịch sử Việt Nam sơ giản - Nguyễn Huệ con người và sự nghiệp - Từ điển Trung-Việt - Từ điển tiếng Việt Ông mất năm 1988 tại Hà Nội."
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
+  },
+  "id" : 540,
+  "entityName" : "Đặng Thái Thuyên",
+  "aliases" : [ "Canh Tân" ],
+  "overview" : "Thân sinh ông tuẫn tiết năm 1910, ông được bà con và nhóm đồng chí của Phan Bội Châu nuôi ăn học, lúc ấy mới 13 tuổi. Khoảng năm 1919-1920 ông toan xuất dương làm cách mạng, nhưng mãi đến năm 1926, sau khi vào Việt Nam thanh niên Cách mạng đồng chí hội ông mới được chọn đưa sang Quảng Châu (Trung Quốc) tham dự lớp huấn luyện chính trị do Nguyễn Ái Quốc hướng dẫn. Sau lúc bế mạc lớp học ở Quảng Châu, ông được cử về hoạt động ở Thái Lan. Trong một chuyến về nước công tác, ông bị địch bắt giam ở nhà lao Kon Tum. Giữ vững tinh thần bất khuất, ông bị giết năm Tân mùi 1931, hưởng dương 34 tuổi."
 }

@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "người làng Lương Xá, huyện Chương Đức, tỉnh Hà Đông (nay thuộc tỉnh Hà Tây)",
-  "occupation": "Danh thần đời Lê Thái tông, con Nghĩa quận công Đặng Huấn",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Triều Lê Sơ": 7
+  "dateOfBirth" : "Mậu Ngọ 1918",
+  "dateOfDeath" : "Đinh Tị 1977",
+  "hometown" : "sinh quán tỉnh Bạc Liêu (nay vẫn là Bạc Liêu), ông là nhà văn của đồng ruộng miền Nam, nổi tiếng qua các tác phẩm viết về nông thôn",
+  "occupation" : "Nhà văn hiện đại Việt Nam",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 806,
-  "entityName": "Đặng Tiến Vinh",
-  "aliases": [],
-  "overview": "Ông có chiến công được phong làm Tả Tư không, tước Hà Quận công. Ông có 7 nguời con, nổi bật nhất là Đặng Thế Tài và Đặng Thế Khoa, chức vi kiêm cả tướng võ, tướng văn, một nhà danh tuớng, ít ai sánh bằng."
+  "id" : 806,
+  "entityName" : "Lâm Thế Nhơn",
+  "aliases" : [ "Phi Vân" ],
+  "overview" : "Ngày 1 1-1-1977 ông mất tại Thành phố Hồ Chí Minh, hưởng dương 59 tuổi. Còn để lại các tác phẩm: - Đồng quê (1943) - Dân quê (1968) - Tình quê (1970) Trong hai cuộc kháng chiến chống Pháp, Mĩ, ông sống tại Sài Gòn với nghề cầm bút với lương tri của một người trí thức"
 }

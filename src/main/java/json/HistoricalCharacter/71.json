@@ -1,14 +1,14 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 71,
-  "entityName": "Lý Tả Xa",
-  "aliases": [],
-  "overview": "Lý Tả Xa (chữ Hán: 李左车), năm sinh năm mất không rõ, người Bách Nhân , mưu sĩ nước Triệu cuối đời Tần, từng khuyên tướng Hán là Hàn Tín chiêu dụ thay vì phát binh tiến đánh 2 nước Yên, Tề, kết quả thành công."
+  "dateOfBirth" : "907",
+  "dateOfDeath" : "960",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 71,
+  "entityName" : "Ngô Việt",
+  "aliases" : [ ],
+  "overview" : "Ngô Việt (tiếng Trung phồn thể: 吳越國; giản thể: 吴越国, bính âm: Wúyuè Guó), 907-978, là một vương quốc nhỏ độc lập, nằm ven biển, được thành lập trong thời kỳ Ngũ đại Thập quốc (907-960) trong lịch sử Trung Quốc. Nhà nước này do dòng họ Tiền cai trị, các dấu tích còn lại của nhà nước này vẫn còn khá phổ biến trong lãnh thổ trước đây của Vương quốc."
 }

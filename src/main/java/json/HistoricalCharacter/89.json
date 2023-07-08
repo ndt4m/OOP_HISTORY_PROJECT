@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Người đời Lê Nhân tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Triều Lê Sơ": 7
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Tân Dậu 180 Trcn",
+  "hometown" : "quê quán tại xã Cao Đức, huyện Gia Bình, tỉnh Bắc Ninh ngày nay.\n----------------------------------------------\nKhông rõ",
+  "occupation" : "Có sách chép là Cao Lỗ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Thục" : 27
   },
-  "id": 89,
-  "entityName": "Đào Biểu",
-  "aliases": [],
-  "overview": "Trong tập thơ vịnh sử Lê triều khiếu vịnh thi tập Hà Nhậm Đại có bài vịnh về ông: \"Cung trung truyền mệnh nhất hoàng môn, Túc dạ vô vong báo chủ ân. Quốc điền tinh trung danh bất hủ, Nghi Dân nghịch tặc kỉ hà tồn? \" Bản dịch: Hoàng môn nhậm chức quan hầu cận Khuya sớm ơn vua báo nghĩa sâu. Lệ ruớc tôi trung truyền bất hủ, Nghi Dân loại giặc hỏi còn bao?"
+  "id" : 89,
+  "entityName" : "Cao Thông",
+  "aliases" : [ "Đại Than Đô Lỗ Thạch Thần", "Cao Lỗ", "Cao Nỗ" ],
+  "overview" : "Cao Lỗ (? - 179 trước Công nguyên) (còn gọi là Cao Nỗ, Cao Thông, Đô Lỗ , Thạch Thần, hay Đại Than Đô Lỗ Thạch Thần) là một tướng tài của Thục Phán An Dương Vương, quê quán tại xã Cao Đức, huyện Gia Bình, tỉnh Bắc Ninh ngày nay.\n----------------------------------------------\nÔng có sáng chế nỏ thần, và là vai chủ yếu trong sự sắp đặt kĩ thuật quân sự giúp cho nhà Thục hưng lên. Năm Đinh hợi 214 tr. Công nguyên, Tần Thủy Hoàng phái quân đánh Âu Lạc. Tướng Tần là Đồ Thư cầm quân 5 đạo, trước thắng nhưng sau bị quân dân Âu Lạc trường kì kháng chiến giết chết. Cao thông chỉ huy quân kháng chiến sử dụng cung nỏ thần tình do ông sáng chế. Khi Triệu Đà đánh Thục, Cao Thông dàn quân ngăn chống. Triệu Đà thua to, dùng kế phản gián, khiến vua tôi nhà Thục nghi ngờ nhau, đồng thời cho con trai là Trọng Thủy đến cầu hôn con gái vua Thục là Mị Châu rồi xin ở rể để do thám tình hình. Thục An Dương vương mắc kế, đuổi Cao Thông đi. Từ ấy nhà Thục suy sụp rồi đất nước lọt vào tay Triệu Đà. Dân chúng có lập đền thờ Cao Thông ở địa phương."
 }

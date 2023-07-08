@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Quí Tị 1833",
-  "hometown": "TP Hồ Chí Minh",
-  "occupation": "Bố chánh đầu tiên ở tỉnh Gia Định (nay thuộc TP. Hồ Chí Minh) trong năm Nhâm thìn 1832, sau khi Lê Văn Duyệt mất và Minh Mạng bãi bỏ chức Tổng trấn thành Gia Định, chia Gia Định thành 6 tỉnh.",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Kỉ Tị 1929",
+  "dateOfDeath" : "Ất Mão 1975",
+  "hometown" : "quê ở Gò Me, tỉnh Gò Công (nay thuộc tỉnh Tiền Giang)",
+  "occupation" : "Nhà thơ tham gia kháng chiến chống Pháp cứu nước",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nước Việt Nam mới" : 29
   },
-  "id": 717,
-  "entityName": "Bạch Xuân Nguyên",
-  "aliases": [],
-  "overview": "Ông là kẻ hối mại quyền thế, làm nhiều điều mất lòng dân. Chính ông đã tạo nên vụ án Lê Văn Duyệt, bắt giam Lê Văn Khôi. Trong ngục, Lê Văn Khôi khéo lo lót vận động nên ngầm liên lạc được với bên ngoài, sắp đặt cuộc khởi nghĩa. Năm Quí tị 1833, đêm 18 tháng 5 âm lịch, cuộc khởi nghĩa nổ ra. Bạch Xuân Nguyên bị Lê Văn Khôi bắt và đem quấn thành bó đuốc tầm dầu, thiêu sống làm lễ tế Lê Văn Duyệt ngay trong đêm ấy. Tổng đốc Nguyễn Văn Quế cùng các con đều bị giết. án sát Nguyễn Chương Đạt bỏ thành trốn. Theo sách Thoái thực kí văn, trước vài ngày Lê Văn Khôi dấy binh, có cai đội Đỗ Văn Thanh biết chuyện, tố cáo với Tổng đốc Nguyễn Văn Quế. Tổng đốc họp bàn với Bố chánh Bạch Xuân Nguyên, nhưng họ Bạch ngạo mạn không lưu tâm, rồi phải đền tội trước quân lính của Lê Văn Khôi vào năm 1833."
+  "id" : 717,
+  "entityName" : "Hoàng Tố Nguyên",
+  "aliases" : [ ],
+  "overview" : "Ông từng hoạt động tại Sài Gòn, hoàn thành những công tác mật, rồi lên Biên Hòa lãnh công tác thông tin, văn nghệ thuộc miền Đông Nam Bộ. Từ cuối năm 1954 tập kết ra Bắc, ông lần lượt công tác tại báo Văn nghệ, Độc lập, Ti Thông tin Văn hóa Hà Tây và Hội văn nghệ Thái Bình. Năm 1975, khoảng tháng 6, ông mất tại Thái Bình sau một cơn bạo bệnh đột ngột. Ông còn để lại đời 6 tập thơ đã xuất bản. - Đất nước - Gò Me (1957) - Quê chung (1962) - Gởi chiến trường chống Mĩ - Hậu phương không ngủ - Trên quê hương. Hoàng Tố Nguyên là một trong các nhà thơ sáng giá của Nam Bộ trong những ngày đầu kháng chiến chống Pháp."
 }

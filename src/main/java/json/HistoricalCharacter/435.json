@@ -1,14 +1,20 @@
 {
-  "dateOfBirth": "4 tháng 2, 1925 Hương Sơn, Hà Tĩnh",
-  "dateOfDeath": "25 tháng 1, 2017 (91 tuổi) Hà Nội",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 435,
-  "entityName": "Đinh Xuân Lâm",
-  "aliases": [],
-  "overview": "Đinh Xuân Lâm (4 tháng 2 năm 1925 - 25 tháng 1 năm 2017) là một trong những người góp công đầu xây dựng Bộ môn Lịch sử cận – hiện đại Việt Nam, phó chủ tịch Hội Khoa học Lịch sử Việt Nam khóa IV, Chủ tịch Hội đồng khoa học Trung tâm UNESCO Thông tin tư liệu lịch sử và văn hóa Việt Nam ."
+  "dateOfBirth" : "26 tháng 12 năm 1867 làng Đan Nhiễm, xã Nam Hòa, huyện Nam Đàn, tỉnh Nghệ An.",
+  "dateOfDeath" : "29 tháng 10, 1940 (72 tuổi) Huế",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "Phan Văn Phổ" : null
+  },
+  "motherName" : {
+    "Nguyễn Thị Nhàn" : null
+  },
+  "eraName" : {
+    "nhà Nguyễn - Liên bang Đông Dương" : null
+  },
+  "id" : 435,
+  "entityName" : "Phan Sào Nam",
+  "aliases" : [ "Thị Hán, Phan Giải San, Sào Nam Tử, Hạo Sinh, Hiếu Hán" ],
+  "overview" : "Phan Bội Châu (chữ Hán: 潘佩珠; 1867 – 1940) là một danh sĩ và là nhà cách mạng Việt Nam, hoạt động trong thời kỳ Pháp thuộc."
 }

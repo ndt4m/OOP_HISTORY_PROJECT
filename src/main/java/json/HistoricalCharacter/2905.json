@@ -1,16 +1,18 @@
 {
-  "dateOfBirth": "Kỉ Dậu 1909",
-  "dateOfDeath": "Không rõ",
-  "hometown": "tại làng Đông Ngạc, huyện Thường Tín, tỉnh Hà Đông (nay thuộc tỉnh Hà Tây), không rõ năm mất",
-  "occupation": "Bác sĩ y khoa",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "Giáp Dần 1854",
+  "dateOfDeath" : "Quí Mùi 1943",
+  "hometown" : "tại quê nhà ở Rạch Giá (nay là tỉnh Kiên Giang)",
+  "occupation" : "Nhân sĩ, thi gia có danh vọng, con trai danh sĩ Tuần phủ Huỳnh Mẫn Đạt, ông sinh ở Chợ Lớn (TP",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "danh sĩ Tuần phủ Huỳnh Mẫn Đạt" : null
   },
-  "id": 2905,
-  "entityName": "Hoàng Cơ Bình",
-  "aliases": [],
-  "overview": "Xuất thân trong một gia đình quan lại, con trai Tổng đốc Hoàng Huấn Trung, thuở nhỏ du học Pháp tốt nghiệp bác sĩ. Sau khi tốt nghiệp về nước làm bác sĩ điều trị ở bệnh viện Bố Hạ, Hà Nội... Từng là hội viên, giám đốc bệnh viện Bố Hạ. Cách mạng tháng Tám rồi toàn quốc kháng chiến ông tản cư ra tự do một thời gian đến năm 1949 hồi cư về Hà Nội. Sau hiệp định Genève 1954 ông di cư vào sống và làm việc tại Sài Gòn, mở bệnh viện tư ở đường Pasteur Sài Gòn gọi là Dưỡng đường Hoàng Cơ Bình. Những năm 60-70 ông từng ra tranh cử tổng thống với Nguyễn Văn Thiệu - Nguyễn Cao Kỳ với liên danh Hoàng Cơ Bình - Liêu Quang Khình nhưng thất bại trước sự gian lận của \"liên danh Thiệu Kỳ\". Sau năm 1972, ông sống ở nước ngoài và chết năm nào không rõ."
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
+  },
+  "id" : 2905,
+  "entityName" : "Hoàng Thúc Mại",
+  "aliases" : [ ],
+  "overview" : "Ông có tiếng văn học, được sĩ phu trọng vọng. Tính ông hào hiệp, nhân hậu, hay giúp đỡ kẻ cô thế, nghèo khó. Tuy sống trong thời mất nước, nhưng không xu phụ ngoại nhân, noi gương thân phụ suốt đời sống cảnh thanh bần, đạm bạc. Năm Quí mùi 1943, ông mất thọ 89 tuổi. Thơ ông còn được truyền tụng khá nhiều, cũng có lắm bài hay. Như bài Ngày xuân nhở bạn. Xuân về gió mát dựa hiên mai Nhớ bạn vào ra bước chẳng dài Ngoảnh mặt thọ vân thêm bát ngát, Chạnh lòng thương nguyệt không nguôi ngoai. Lưu Linh rượu uống thời nhiều khách, Lý Bạch ngâm thơ có mấy ai ? Ngàn dặm non sông khôn trở gót, Nôm na ít vận tỏ tình hoài."
 }

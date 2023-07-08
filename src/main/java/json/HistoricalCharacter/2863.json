@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Nhâm Dần 1902",
-  "dateOfDeath": "Bính Thìn 1976",
-  "hometown": "Không rõ",
-  "occupation": "Giám mục Thiên chúa giáo",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Hà Tĩnh",
+  "occupation" : "Chiến sỹ Cần Vương. Em ruột liệt sĩ Cao Thắng.",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 2863,
-  "entityName": "Trần Thanh Khâm",
-  "aliases": [
-    "P"
-  ],
-  "overview": "Ông được thụ phong linh mục ngày 5-4-1930, đến ngày 6-1-1966 được tòa thánh La Ma tấn phong Giám mục với chức vụ Giám mục, phụ tá Tổng giám mục Nguyễn Văn Bình (1910-1995) tại Tòa Tổng giám mục Sài Gòn. Ông mất ngày 2-10-1976 tại TP. Hồ Chí Minh, thọ 74 tuổi."
+  "id" : 2863,
+  "entityName" : "Cao Nữu",
+  "aliases" : [ ],
+  "overview" : "Hai anh em ông tận tụy dưới cờ khởi nghĩa do Phan Đình Phùng lãnh đạo kháng Pháp. Ông đã tận tâm giúp việc tổ chức các bộ đội xung kích. Và sau khi anh ông hi sinh, ông càng hết lòng kháng chiến đến thế cùng lực kiệt. Không thành công thì thành nhân, ông cương quyết không đầu phục ngoại bang, tuyệt tích nơi rừng núi."
 }

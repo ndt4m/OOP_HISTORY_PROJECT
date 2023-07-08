@@ -1,18 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Vua",
-  "workTenure": "TK VII TCN–?",
-  "fatherName": {
-    "Lạc Long Quân": 2768
+  "dateOfBirth" : "Canh Thân 1920",
+  "dateOfDeath" : "Canh Dần 1950",
+  "hometown" : "quê xã Long Thuận, tỉnh Gò Công cũ (nay là huyện Gò Công Đông, tỉnh Tiền Giang)",
+  "occupation" : "Liệt sĩ hiện đại ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "motherName": {},
-  "eraName": {
-    "Hồng Bàng": 17
-  },
-  "id": 524,
-  "entityName": "Hùng Vương thứ nhất",
-  "aliases": [],
-  "overview": "Hùng Vương thứ I là một vị vua truyền thuyết trong lịch sử Việt Nam. Ông là người có công thành lập nước Văn Lang."
+  "id" : 524,
+  "entityName" : "Huỳnh Đình Hai",
+  "aliases" : [ "Hai Râu" ],
+  "overview" : "Xuất thân trong một gia đình nông nghiệp, lên Sài Gòn làm công nhân, tham gia hoạt động cách mạng trong tổ chức công đoàn, tích cực hoạt động cướp chính quyền tại Sài Gòn ngày 24- 8-1945. Tiếp đến cuộc kháng chiến chống Pháp, ông được tổ chức giao nhiều chức vụ quan trọng như Tham mưu trưởng lực lượng công đoàn xung phong, ủy viên ủy ban kháng chiến đâu tiên của thành phố, Thành đội trưởng Thành đội dân quân Sài Gòn. Ông hi sinh ngày 10-3-1950 tại Thủ Đức."
 }

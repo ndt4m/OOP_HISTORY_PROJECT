@@ -1,31 +1,18 @@
 {
-  "dateOfBirth": "22 tháng 9 năm 1829 Huế, Việt Nam\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath": "19 tháng 7, 1883 (53 tuổi) Huế, Đại Nam\n----------------------------------------------\nKhông rõ",
-  "hometown": "Hà Nội",
-  "occupation": "Hoàng đế Đại Nam\n----------------------------------------------\nDòng dõi Thượng thư bộ Binh đời Lê Hiển tông là Cao Bá Hiên, thân phụ Cao Bá Quát",
-  "workTenure": "5 tháng 10 năm 1847 – 19 tháng 7 năm 1883 (35 năm, 287 ngày)\n----------------------------------------------\nKhông rõ",
-  "fatherName": {
-    "Thiệu Trị": 164
+  "dateOfBirth" : "Phan Châu Trinh phủ Tam Kỳ, tỉnh Quảng Nam, Đại Nam\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "Sài Gòn, Đông Dương thuộc Pháp\n----------------------------------------------\nKhông rõ",
+  "hometown" : "quê làng Phú Diễn, huyện Từ Liêm, tỉnh Hà Đông (nay thuộc Hà Nội)",
+  "occupation" : "nhà thơ, nhà văn, nhà hoạt động chính trị\n----------------------------------------------\nVăn thần",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "Phan Văn Bình (cha) Lê Thị Chung (mẹ)" : null
   },
-  "motherName": {
-    "Nghi Thiên Chương hoàng hậu": null
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "eraName": {
-    "Trịnh - Nguyễn": 34,
-    "Nhà Tây Sơn": 21,
-    "Nhà Nguyễn": null,
-    "Nhà Nguyễn độc lập": 30
-  },
-  "id": 749,
-  "entityName": "Cao Cửu Chiếu",
-  "aliases": [
-    "Nguyễn Phúc Thì",
-    "Nguyễn Dực Tông",
-    "Anh Hoàng đế (英皇帝)",
-    "Tự Đức (嗣德)",
-    "Dực Tông (翼宗)",
-    "Đức",
-    "Nguyễn Phúc Hồng Nhậm (阮福洪任)"
-  ],
-  "overview": "Tự Đức (chữ Hán: 嗣德; 22 tháng 9 năm 1829 – 19 tháng 7 năm 1883), tên thật là Nguyễn Phúc Thì (阮福時) hoặc Nguyễn Phúc Hồng Nhậm (阮福洪任), là vị Hoàng đế thứ tư của triều Nguyễn. Ông là vị vua có thời gian trị vì lâu dài nhất của nhà Nguyễn, trị vì từ năm 1847 đến 1883, ông được truy tôn miếu hiệu là Nguyễn Dực Tông (阮翼宗).\n----------------------------------------------\nGặp hồi loạn lạc cuối Lê, ông không ra thi cử, ở ẩn quê nhà. Đến đời Gia Long, ông làm Giáo thụ ở huyện Gia Định (sau đổi là Gia Bình, tỉnh Bắc Ninh; nay thuộc Bắc Ninh), được đương thời khen ngợi là người có đạo đức, giỏi văn chương. Khi thấy vợ sinh đôi hai con là Bá Đạt và Bá Quát có tài văn xuất chúng, ông có lời khuyên sáng suốt: Văn của Bá Đạt hơn về khuôn phép nhưng kém về tài tứ; văn của Bá Quát hơn về tài tứ nhưng kém về khuôn phép. Đem cái tài tứ của Bá Quát hợp cái khuôn phép của Bá Đạt, sẽ có thể trở nên bậc có văn tài hoàn toàn. Ông mất, mọi người đều thương mến, nhắc nhở."
+  "id" : 749,
+  "entityName" : "Vương Duy Trinh",
+  "aliases" : [ "Hương Trì", "Tử Cán", "Đạm Trai", "Phan Tây Hồ", "Tây Hồ" ],
+  "overview" : "Phan Châu Trinh (còn được gọi Phan Chu Trinh; 1872–1926), hiệu là Tây Hồ, Hy Mã, tự là Tử Cán. Ông là nhà thơ, nhà văn, và là nhà hoạt động chính trị thời cận đại trong lịch sử Việt Nam.\n----------------------------------------------\nNăm Canh ngọ 1870 ông đỗ cử nhân, làm Bố chánh, sau thăng đến Tổng đốc Thanh Hóa. Ông có đề tựa bộ Thi tấu hợp biên và soạn các sách: - Thanh Hóa kỉ thắng - Thanh Hóa quan phong - Thi tấu hợp biên Thanh Hóa kỉ thắng (1 quyển) do ông biên soạn, Phạm hữu Nguyên viết lời Dẫn. Thanh Hóa kỉ thắng là một bộ sách ghi chép các thắng tích, về lịch sử, diên cách, các núi, sông, hang động, đền, chùa, và các nhân vật lịch sử danh nhân tỉnh Thanh Hóa. Thanh Hóa quan phong (1 quyển) cũng do ông biên soạn, sưu tập về phong tục thơ ca dân gian của tỉnh Thanh Hóa. Sách giúp độc giả ngày nay thêm hiểu văn học và văn hóa dân gian Thanh Hóa."
 }

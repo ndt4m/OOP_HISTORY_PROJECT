@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Bính Tuất 1886",
-  "dateOfDeath": "Mậu Thìn 1928",
-  "hometown": "quê làng Hữu Thanh Oai, huyện Thanh Oai, tỉnh Hà Đông cũ (nay thuộc TP",
-  "occupation": "Nhà văn, dịch giả",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "1408",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "nhà Trần" : null
   },
-  "id": 2916,
-  "entityName": "Đoàn Tư Thuật",
-  "aliases": [
-    "Mai Nhạc"
-  ],
-  "overview": "Xuất thân trong một gia đình Nho học truyền thống, thuở nhỏ theo Nho học, từng tham gia phong trào Duy tân tại trường Đông Kinh nghĩa thục ở Hà Nội trong các năm 1907-1908. Khi phong trào bị khủng bố, ông bỏ thi cử, từ đó chuyên tâm vào việc trước tác văn chương. Thơ văn của ông không được biên chép lại, chỉ còn một số tác phẩm trong các bản dịch Tựa tập vịnh Kiều của Chu Mạnh Trinh đã đăng trong Nam phong và kí tên là Đoàn Quì; bản dịch Tuyết Hồng lệ sử cũng đăng trong tạp chí Nam phong và in thành sách. Tác phẩm có: - Tì bà kí (bản dịch thuật cùng soạn với Nguyễn Khắc Hiếu). Nhà in Kim Đức Giang, 1923. - Tựa tập vịnh Kiều của Chu Mạnh Trinh. - Tuyết Hồng lệ sử (tạp chí Nam hồng)"
+  "id" : 2916,
+  "entityName" : "Phạm Thế Căng",
+  "aliases" : [ ],
+  "overview" : "Phạm Thế Căng (chữ Hán: 范世矜; ?-1408) là tướng nhà Trần và nhà Hồ trong lịch sử Việt Nam. Ông đã cộng tác với quân Minh khi nhà Hồ mất và sau bị nhà Hậu Trần tiêu diệt."
 }

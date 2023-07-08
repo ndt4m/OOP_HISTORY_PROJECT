@@ -1,18 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Vua",
-  "workTenure": "1546–1561",
-  "fatherName": {
-    "Mạc Hiến Tông": 2965
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Ất Mão 1015",
+  "hometown" : "quê quán",
+  "occupation" : "Đại thần nhà tiền Lê",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Lý" : 14,
+    "Nhà Tiền Lê" : 8
   },
-  "motherName": {},
-  "eraName": {
-    "Bắc triều – Nhà Mạc  và thời kỳ Cao Bằng": null
-  },
-  "id": 878,
-  "entityName": "Mạc Tuyên Tông",
-  "aliases": [],
-  "overview": "Mạc Tuyên Tông (chữ Hán: 莫宣宗 1535 - 1561) tên thật là Mạc Phúc Nguyên (莫福源), là hoàng đế thứ tư nhà Mạc trong lịch sử Việt Nam, ở ngôi từ năm 1546 đến 1561, trị vì 15 năm. Ông là người xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách), tỉnh Hải Dương."
+  "id" : 878,
+  "entityName" : "Đào Cam Mộc",
+  "aliases" : [ ],
+  "overview" : ""
 }

@@ -1,16 +1,18 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Hậu Lê": null
+  "dateOfBirth" : "1377",
+  "dateOfDeath" : "tháng 4, 1399",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Đại Việt",
+  "workTenure" : "27 tháng 12, 1388 - 15 tháng 3, 1398 (9 năm, 78 ngày)",
+  "fatherName" : {
+    "Trần Nghệ Tông" : 2791
   },
-  "id": 461,
-  "entityName": "Lê Lễ",
-  "aliases": [],
-  "overview": "Lê Lễ (1368, 4/4/1449) là khai quốc công thần nhà Hậu Lê, nối đời làm gia thần cho vua Lê Thái Tổ, làm đến Nhập nội thị trung, tước Đình thượng hầu."
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Trần" : 15
+  },
+  "id" : 461,
+  "entityName" : "Trần Ngung",
+  "aliases" : [ "Trần Ngung (陳顒)", "Thuận Tông (順宗)", "Quang Thái (光泰)" ],
+  "overview" : "Trần Thuận Tông (chữ Hán: 陳順宗, 1377 – tháng 4, 1399), là vị hoàng đế thứ 11 của triều đại nhà Trần trong lịch sử Việt Nam. Ông trị vì từ năm 1388 đến khi bị ép nhường ngôi năm 1398."
 }

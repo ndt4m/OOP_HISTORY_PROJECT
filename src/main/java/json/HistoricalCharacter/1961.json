@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Người làng Trung Cần, huyện Thanh Chương, tỉnh Nghệ An",
-  "occupation": "Danh sĩ đời Gia Long",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Mậu Dần 1518",
+  "hometown" : "quê xã Thủy Chú, huyện Lôi Dương, tỉnh Thanh Hóa",
+  "occupation" : "Võ tướng đời Lê Tương Dực, cháu nội Thái úy Trịnh Khả, ngoại thích của vua Tương Dực",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Triều Lê Sơ" : 7
   },
-  "id": 1961,
-  "entityName": "Lê Nguyên Trung",
-  "aliases": [
-    "Lê Nguyên Huệ"
-  ],
-  "overview": "Năm Quí dậu 1813, ông đỗ Hương cống, khoa này đỗ Hương cống 12 người. Giám thí Trưởng Nghệ là Phạm Quí Thích. Đầu bài Văn sách là Công đức như thiên sinh vạn vật. Bài làm của ông có câu: \"Nguy nhiên thần võ thánh văn chi thịnh mĩ, cửu công thất đức bất tận hình dung; Uyển nhược thái hòa nguyên khí chi lưu hành thứ loại vạn ban hàm tư phát dục\". Nghĩa: Lớn lao vậy võ thần văn thánh chín công bảy đức không đủ hình dung, Lưu hành nhưng uyên khí thái hòa, muôn vật mọi loài đều nhờ sinh dục. Đoạn văn trên đây được Phạm Quí Thích khen ngợi: \"Từ khí người này hơn cả\". Trong ĐNNTC tỉnh Nghệ An có ghi về ông: tính lỗi lạc, có khí tiết, trải thờ 4 triều làm quan khắp trong ngoài, có tiếng là một người thanh cần. Sau làm đến Tuần phủ, Hộ lí Tổng đốc tỉnh Bình Định, rồi mất tại chức. Con ông là Lê Nguyên Thứ, đỗ cử nhân, cháu là Lê Bá Đồn đỗ Giải nguyên, tằng tôn là Lê Bá Hoan đỗ Tiến sĩ đều là những danh sĩ đương thời."
+  "id" : 1961,
+  "entityName" : "Trịnh Duy Sản",
+  "aliases" : [ ],
+  "overview" : "Nhờ công ông phù tá, vua Tương Dực lên ngôi (1509) phong tước cho ông là Mĩ Huệ Hầu. Khi Trần Tuân nổi dậy ở Sơn Tây (1511), ông cùng Nguyễn Văn Lung đánh dẹp được. Ông được tấn phong tước Nguyên Quận Công, Chưởng Cấn y vệ. Năm Ất hợi 1515, ông làm đô tướng dẹp tan nhóm Phùng Chương ở núi Tam Đảo. Do nhiều công lao và sẵn nắm binh quyền trong tay, nhận thấy vua Tương Dực hoang dâm, xa xỉ, bỏ bê việc nước lại hay khi dễ triều thần, ông bèn giết chết rồi giết luôn quan Thừa chỉ là Nguyễn Võ. Sau đó, ông cùng Lê Nghĩa Chiêu và các thuộc hạ lập Lê Chiêu tông lên ngôi trong năm 1516. Năm Mậu dần 1518, tháng 11, ông cùng Nguyễn Hoằng Dũ cùng các tướng Minh Võ Hầu Trịnh Củng, Quảng Nghĩa Bá Nguyễn Khắc Nhượng đi đánh dẹp nhóm Trần Cao dấy loạn ở xã Châu Sơn huyện Chí Linh. Thất trận ở Nam Giản, ông bị Trần Cao bắt đem về Vạn Kiếp giết chết trong năm 1518."
 }

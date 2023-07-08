@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "12 tháng 10, 1946 (74 tuổi) Xã Hành Tín, huyện Nghĩa Hành, tỉnh Quảng Ngãi",
-  "dateOfDeath": "Không rõ",
-  "hometown": "xã Sơn Tây và các huyện Ba Vì, Phúc Thọ và Thạch Thất.",
-  "occupation": "sĩ quan, chính trị gia",
-  "workTenure": "1962–2011",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 1409,
-  "entityName": "Nguyễn Văn Được",
-  "aliases": [],
-  "overview": "Nguyễn Văn Được (sinh ngày 10 tháng 12 năm 1946) là Thượng tướng Quân đội nhân dân Việt Nam và chính trị gia người Việt Nam. Chủ tịch Hội Cựu chiến binh Việt Nam, đại biểu quốc hội Việt Nam khóa XIV nhiệm kì 2016-2021, thuộc đoàn đại biểu thành phố Hà Nội đại diện cho thị xã Sơn Tây và các huyện Ba Vì, Phúc Thọ và Thạch Thất. Ông từng được phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân. Nguyên Ủy viên Trung ương Đảng khóa VIII, IX, X. Nguyên Thứ trưởng Bộ Quốc phòng (1998 – 2011), Tư lệnh Quân khu 5."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Mộ Trạch, huyện Đường An (huyện Bình Giang) tỉnh Hải Dương cũ, nay thuộc tỉnh Hải Dương",
+  "occupation" : "Danh sĩ, tác giả đời nhà Hồ ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Hồ" : 9
+  },
+  "id" : 1409,
+  "entityName" : "Lê Cảnh Tuân",
+  "aliases" : [ "Tử Mưu" ],
+  "overview" : "Lê Cảnh Tuân (chữ Hán: 黎景詢; 1350-1416? ), tự là Tử Mưu (字謀), là một nho sĩ sống vào khoảng thời gian cuối đời Trần, trải qua đời Hồ và đầu thời Minh thuộc trong lịch sử Việt Nam.\n----------------------------------------------\nÔng đỗ Thái học sinh đời Hồ Quí Ly (1400-1402). Nhà Hồ mất, ông có làm Vạn ngôn thư khuyên Bùi Bá Kì (lúc ấy ra làm quan với nhà Minh) xin với nhà Minh, lập con cháu nhà Trần. Quân Minh biết việc này, bắt ông đưa về Yên Kinh. Vua Minh hỏi: \"Người khuyên Bá Kì âm mưu làm trái phép?\" ông nói: \"Người nước Nam, chỉ ở nước Nam, chớ không bao giờ cắn chủ, còn hỏi làm gì?\" Vua Minh tức giận, sai giam ông vào ngục sáu năm. Ông bị bệnh và chết trong ngục ở Yên Kinh. Các tác phẩm: - Vạn ngôn thư - 12 bài thơ in trong Toàn Việt thi lục. - 2 bài thơ làm trong khi bị giam ở Yên Kinh (T.Q)"
 }

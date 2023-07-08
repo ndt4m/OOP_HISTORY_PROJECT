@@ -1,24 +1,14 @@
 {
-  "dateOfBirth": "5 tháng 5, 1488 Đông Kinh",
-  "dateOfDeath": "1 tháng 12, 1509 (21 tuổi) cửa Lệ Cảnh, Đông Kinh",
-  "hometown": "Không rõ",
-  "occupation": "Hoàng đế Đại Việt",
-  "workTenure": "1504 - 1509",
-  "fatherName": {
-    "Lê Hiến Tông": 585
-  },
-  "motherName": {
-    "Chiêu Nhân Duệ hoàng hậu": null
-  },
-  "eraName": {
-    "Nhà Lê sơ": null
-  },
-  "id": 2483,
-  "entityName": "Lê Uy Mục Đế",
-  "aliases": [
-    "Lê Tuấn (黎濬) Lê Huyên (黎諠) Lê Nghị (黎誼)",
-    "Đoan Khánh (端慶)",
-    "Mẫn Lệ công (愍厲公) Uy Mục hoàng đế (威穆皇帝)"
-  ],
-  "overview": "Lê Uy Mục (chữ Hán: 黎威穆; 5 tháng 5, 1488 – 1 tháng 12, 1509), đôi khi còn gọi là Mẫn Lệ công (愍厲公), là vị hoàng đế thứ tám của nhà Lê sơ trong lịch sử Việt Nam. Ông được xem là một vị Hoàng đế tàn bạo và hoang dâm, nổi tiếng là một bạo chúa, người đời gọi là Quỷ vương (鬼王)."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 2483,
+  "entityName" : "Triệu Vân",
+  "aliases" : [ "Tử Long" ],
+  "overview" : "Triệu Vân (chữ Hán: 趙雲, bính âm: Zhao Yun. 168?-229 ), tên tự là Tử Long (子龍), người vùng Thường Sơn, là danh tướng thời kỳ cuối nhà Đông Hán và thời Tam Quốc ở trong lịch sử Trung Quốc. Ông là người đã góp công lớn vào việc thành lập nhà Thục Hán. Ông cũng được Lưu Bị xem như \"người anh em thứ tư\" tiếp theo trong 3 anh em kết nghĩa tại vườn đào."
 }

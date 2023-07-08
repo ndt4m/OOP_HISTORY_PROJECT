@@ -1,20 +1,16 @@
 {
-  "dateOfBirth": "719 Tứ Xuyên, Trung Quốc",
-  "dateOfDeath": "15 tháng 8, 756 (38 tuổi) Mã Ngôi Dịch, Hàm Dương",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {
-    "Dương Huyền Diễm": null
+  "dateOfBirth" : "? Miền Bắc\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "?\n----------------------------------------------\nKhông rõ",
+  "hometown" : "quê ở làng La Khê, phủ Hoài Đức, tỉnh Hà Đông, nay thuộc xã Đông La, huyện Hoài Đức, tỉnh Hà Tây",
+  "occupation" : "Nhạc sĩ\n----------------------------------------------\nTổ nghề dệt gấm Việt Nam cận đại ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "motherName": {},
-  "eraName": {},
-  "id": 100,
-  "entityName": "Dương Ngọc Hoàn",
-  "aliases": [
-    "[Thọ vương phi; 壽王妃] [Thái Chân đạo sĩ; 太真道士] [Quý phi; 貴妃]",
-    "Dương Thái Chân",
-    "Tên đầy đủ Không ghi lại Tên tự Ngọc Hoàn (玉環), hoặc Ngọc Nô (玉奴) Tên hiệu Thái Chân (太真)"
-  ],
-  "overview": "Dương Quý phi (chữ Hán: 楊貴妃, 719 – 756), còn gọi là Dương Ngọc Hoàn (楊玉環) hay Dương Thái Chân (楊太真), là một phi tần rất được sủng ái của Đường Huyền Tông Lý Long Cơ. Trong văn hóa Trung Hoa, bà được xếp vào một trong Tứ đại mỹ nhân của lịch sử Trung Quốc, có sắc đẹp được ví là Tu hoa (羞花), khiến hoa thu mình lại vì hổ thẹn."
+  "id" : 100,
+  "entityName" : "Trần Quý",
+  "aliases" : [ ],
+  "overview" : "Hồng Vân (Trần Quý) là một nhạc sĩ Việt Nam. Ông là tác giả bài \"Đồi thông hai mộ\" nổi tiếng và nhiều ca khúc dành cho tầng lớp bình dân tại Sài Gòn trước 1975.\n----------------------------------------------\nÔng sống vào thời Minh Mạng, tham gia việc quân, được đi đây đi đó nhiều nơi, tiếp xúc nhiều thương nhân người Hoa buôn bán hàng gấm. Ông tìm hiểu cách dệt gấm, khi giải ngũ về quê truyền dạy cho dân làng. Nhờ đó mà làng La Khê nổi tiếng về hàng gấm gọi là gấm La Khê. Sau khi ông mất, dân làng tôn thờ ông là tổ nghề dệt gấm."
 }

@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Giáp Thân 1824",
-  "hometown": "Không rõ",
-  "occupation": "Nhân sĩ yêu nước vào thời Gia Long",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Đinh Mùi 1907",
+  "dateOfDeath" : "Ất Sửu 1985",
+  "hometown" : "Không rõ",
+  "occupation" : "Hòa thượng Phật giáo, chiến sĩ vận động hòa bình, dân chủ. Người sáng lập Hội Lục Hòa tăng Nam phần.",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 414,
-  "entityName": "Dương Đình Cúc",
-  "aliases": [],
-  "overview": "Khi họ Nguyễn Phúc chống nhà Tây Sơn nhất là sau này với hành động trả thù và truy nã ráo riết những người thuộc nghĩa quân Tây Sơn, ông tổ chức quần chúng võ trang khởi nghĩa chống lại chính quyền nhà Nguyễn. Cuộc khởi nghĩa của ông kéo dài 18 năm (1806-1824), lấy vùng rừng núi Thái Nguyên làm căn cứ chính. Cuối cùng quân nhà Nguyễn đã dẹp được cuộc khởi nghĩa này."
+  "id" : 414,
+  "entityName" : "Thích Minh Nguyệt",
+  "aliases" : [ ],
+  "overview" : "Ông là vị giáo phẩm của Phật giáo đóng góp nhiều cho sự nghiệp Cách mạng giải phóng dân tộc và xây dựng Tổ quốc Việt Nam. Sau Cách mạng Tháng Tám từng giữ chức Hội trưởng Phật giáo cứu quốc Nam Bộ, ủy viên Mặt trận Việt Minh khu Sài Gòn Gia Định và Nam Bộ. Năm 1960 bị bắt đày Côn Đảo đến năm 1974 mới được trao trả. Sau 30 tháng 04 năm 1975 là Chủ tịch ủy ban liên lạc Phật giáo yêu nước Thành phố Hồ Chi Minh, dự Hội nghị Phật giáo thế giới tại Matxcơva và Mông Cổ, Phó Pháp chủ giáo Hội Phật giáo Việt Nam. Ông mất trong năm 1985, thọ 78 tuổi."
 }

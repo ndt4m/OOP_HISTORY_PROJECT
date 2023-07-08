@@ -1,21 +1,16 @@
 {
-  "dateOfBirth": "Nhâm Tí 1852",
-  "dateOfDeath": "Ất Mùi 1895",
-  "hometown": "quê làng Kế Môn, huyện Phong Điền, tỉnh Thừa Thiên",
-  "occupation": "Chí sĩ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Vua",
+  "workTenure" : "1409—1414",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Hậu Trần" : 23
   },
-  "id": 2899,
-  "entityName": "Nguyễn Lộ Trạch",
-  "aliases": [
-    "Kì Am",
-    "Hà Nhân",
-    "Quì Ưu"
-  ],
-  "overview": "Ông là con Tuần phủ Nguyễn Quốc Uy rể đại thần Trần Tiễn Thành, ông học rộng biết nhiều, nhưng không thi cử chỉ lưu tâm về đường thực dụng. Năm Đinh sửu 1877, nhân một kì thi Đình có đề ra nói về thời sự, ông dâng một bản Thời vụ sách, nhưng không được triều đình quan tâm đến. Vì trong Thời vụ sách, ông nêu lên những yêu cầu bức thiết về thời cuộc nước nhà. Năm Nhâm ngọ 1882, giặc Pháp đánh thành Hà Nội lần thứ hai, ông lại dâng bản Thời vụ sách II, nêu lên sách lược cứu nước khẩn trương: Nội dung Thời vụ sách II gồm mấy điều chủ yếu: 1. Dời đô về Thanh Hóa lấy chỗ địa thế hiểm yếu để giữ vững gốc nước. 2. Lập đồn điền ở các nơi. 3. Luyện binh và sắm vũ khí mới. 4. Học cơ khí phương Tây. 5. Ngoại giao, thông thương rộng với các nước trên thế giới. Triều đình vẫn không quan tâm những điều ông trình bày. Đến năm Nhâm thìn 1892, nhân kì thi Đình có ra đề hỏi về \"đại thế toàn cầu \". Ông thừa dịp thảo bản Thiên hạ đại thế luận dâng trình. Nhưng vẫn bị bỏ qua. Tuy vậy, ông vẫn chẳng nản lòng, giao du rộng với các chí sĩ như Nguyễn Thượng Hiền, Phan Bội Châu, Vũ Phạm Hàm, Trương Gia Mô đàm luận về việc cứu nước. Từ đó ông ngao du khắp nơi nhằm trao đổi quan điểm, lập trường với các chí sĩ. Trên đường du lịch, ông bệnh mất tại Bình Định, vào năm Ất mùi 1895, hưởng dương 43 tuổi. Nguyễn Lộ Trạch tuy không xuất thân bằng con đường khoa cử, nhưng ông có một sức học uyên thâm với tinh thần thực dụng, và một tầm nhìn sâu sắc nên được giới sĩ phu yêu nước đương thời kính phục. Phan Châu Trinh, Trần Quí Cáp... rất hâm mộ con người và thơ văn ông. Chính Huỳnh Thúc Kháng đã gọi ông là một \"văn hào \" của nền văn hóa Vlệt Nam."
+  "id" : 2899,
+  "entityName" : "Trùng Quang Đế",
+  "aliases" : [ ],
+  "overview" : "Trùng Quang Đế (chữ Hán: 重光帝 ? – 14 tháng 4 năm 1414) là vị hoàng đế thứ hai của nhà Hậu Trần, một triều đại được dựng lên ở miền nam Đại Việt để chống lại sự đô hộ của đế quốc Minh sau năm 1407. Ông có tên húy là Trần Quý Khoáng (陳季擴) hay Trần Quý Khoách, là cháu nội của Trần Nghệ Tông. Khi chú ông là Giản Định Đế dựng nhà Hậu Trần (1407), ông giữ chức Nhập nội thị trung. Năm 1408, các tướng Đặng Dung và Nguyễn Cảnh Dị bất bình với Giản Định Đế mới vào Nghệ An lập Trần Quý Khoáng lên ngôi vua. Trần Quý Khoáng tôn Giản Định Đế làm Thái thượng hoàng, cùng tiến quân ra bắc đánh Minh, đến năm 1409, Thượng hoàng bị địch bắt giết."
 }

@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "…",
-  "dateOfDeath": "Ất Mão 1915",
-  "hometown": "quê xã Cẩm Trương, tỉnh Nghệ An",
-  "occupation": "Liệt sĩ cận đại",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "1324\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "1381\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Võ tướng đời Trần Duệ tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Trần" : 15,
+    "nhà Trần" : null
   },
-  "id": 1902,
-  "entityName": "Nguyễn Đức Công",
-  "aliases": [],
-  "overview": "Ông xuất thân khoa cử, từng đỗ đầu các kì thi hạch trường tỉnh Nghệ An. Ông còn có tên là Hoàng Trọng Mậu, một nhân vật cột trụ của phong trào Đông du và Việt Nam Quang phục hội ở nước ngoài. Năm 1905, ông cùng các đồng chí theo Phan Bội Châu ra nước ngoài tham gia phong trào Đông du. Năm 1906 ông vào trường võ bị Chấn Võ. Khi ông đang học tại trường này (năm 1908) Pháp và Nhật cấu kết nhau trục xuất tất cả du học sinh và các nhà hoạt động cách mạng Việt Nam ra khỏi Nhật. Năm đó ông về Trung Quốc rồi tham gia và lực lượng cách mạng của tổ chức Việt Nam Quang phục hội. Trong thời gian này ông thường qua lại Trung Quốc, Hương Cảng, liên lạc với các nhà cách mạng. Ông tinh thông binh pháp, sau khi thành lập Việt Nam Quang phục hội, ông là tác giả các sách về chiến lược quân sự của tổ chức này. Năm 1915 ông cùng các chiến hữu đột nhập về Lạng Sơn tiến công chiếm đồn Tà Lùng. Cuộc tấn công thất bại. Ông trốn sang Trung Quốc, đến ngày 28-5-1915 ông bị mật thám bắt ở Hương Cảng. Sau đó chúng đưa ông về xử chém cùng với Nguyễn Thức Đường tại Bạch Mai (ngoại ô Hà Nội). Theo hồ sơ sở mật thám Pháp thì ông được vua Duy tân kí một sắc chỉ đề ngày 5 5-1915 cử ông làm Tổng tư lệnh của Việt Nam quân chính phủ trong cuộc khởi nghĩa của vua Duy tân năm 1916."
+  "id" : 1902,
+  "entityName" : "Đỗ Tử Bình",
+  "aliases" : [ ],
+  "overview" : "Đỗ Tử Bình (1324-1381) là tướng nhà Trần trong lịch sử Việt Nam. Sự nghiệp của ông gắn liền với cuộc chiến giữa Đại Việt và Chiêm Thành cuối thế kỷ 14.\n----------------------------------------------\nÔng giữ nhiệm vụ trấn giữ ở Hóa Châu, để ngăn ngừa Chiêm Thành khuấy rối. Người Chiêm đem vàng dâng vua Tầẫn, Đỗ dấu vàng ấy làm của riêng, lại tâu với vua rằng người Chiêm vô lễ, cần đánh họ, Trần Duệ tông nghe theo, thân chinh đánh Chiêm Thành. Đại thần Đỗ Lê can ngăn không được, treo mũ áo từ quan. Kết quả Duệ tông bị quân Chiêm phục kích tử trận. Đỗ Tử Bình thống lãnh toán hậu quân không ứng cứu, chạy thoát lấy thân. Hồ Quí Li đốc vận lương, được tin, trốn về nước. Triều đình bắt tội, Đỗ bị giáng xuống làm lính. Năm Mậu ngọ 1378, quân Chiêm tràn vào đánh phá, Đỗ đem quân chống cự. Quan quân tự tan vỡ, quân giặc thừa thế tiến đến kinh đô khiến Lê Giác tử tiết, nhưng nhờ có Trần Khắc Chân đánh đuổi được quân giặc. Sau đó quân Chiêm lại xâm phạm Diễn Châu, ông thống lĩnh lục quân, hiệp với Hồ Quí Li thống lĩnh thủy quân, ra sức đánh dẹp. Chiêm vương Chế Bồng Nga thua trận trốn chạy. Ngay khi trở về triều, ông dâng sớ cáo bệnh, xin giải binh quyền rồi chẳng mấy ngày thì mất."
 }

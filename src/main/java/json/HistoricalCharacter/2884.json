@@ -1,17 +1,14 @@
 {
-  "dateOfBirth": "23 tháng 1 năm 1368",
-  "dateOfDeath": "25 tháng 4 năm 1644",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 2884,
-  "entityName": "nhà Minh",
-  "aliases": [
-    "Chu Minh",
-    "Đại Minh"
-  ],
-  "overview": "Nhà Minh (chữ Hán: 明朝, Hán Việt: Minh triều; 23 tháng 1 năm 1368 - 25 tháng 4 năm 1644 ) là triều đại cuối cùng do người Hán kiến lập trong lịch sử Trung Quốc. Năm 1368, Chu Nguyên Chương sau khi tiêu diệt các thế lực quần hùng, tại phủ Ứng Thiên đăng cơ, quốc hiệu Đại Minh, do hoàng thất họ Chu, nên còn được gọi là Chu Minh . Đầu thời kiến quốc, Minh Thái Tổ Chu Nguyên Chương định đô tại phủ Ứng Thiên (nay là Nam Kinh), đến năm Vĩnh Lạc thứ 19 (1421), Minh Thành Tổ Chu Đệ dời đô đến phủ Thuận Thiên (nay là Bắc Kinh), kinh sư cũ đổi thành Nam Kinh ."
+  "dateOfBirth" : "1525",
+  "dateOfDeath" : "1582 (57 tuổi)",
+  "hometown" : "Không rõ",
+  "occupation" : "Thủ phủ Nội các thứ 48 của nhà Minh",
+  "workTenure" : "1572-1582",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 2884,
+  "entityName" : "Trương Cư Chính",
+  "aliases" : [ "Thái Nhạc", "Thúc Đại" ],
+  "overview" : "Trương Cư Chính (giản thể: 张居正; phồn thể: 張居正; bính âm: Zhāng Jūzhèng, còn được phiên âm là Chang Chü-cheng, 1525-1582), tự Thúc Đại (叔大), hiệu Thái Nhạc (太岳), là một nhà chính trị và học giả Trung Quốc thời nhà Minh. Là quan to dưới triều Minh Mục Tông, ông được giao trọng trách làm phụ chính đại thần cho Minh Thần Tông trong thời gian hoàng đế còn nhỏ tuổi. Trong giai đoạn này, Trương Cư Chính đã đưa ra nhiều biện phải cải cách sâu rộng về chính trị và kinh tế giúp cho triều đình nhà Minh phát triển cực thịnh. Tuy nhiên sau khi Trương Cử Chính qua đời năm 1582, phần lớn cải cách của ông đã bị Minh Thần tông xóa bỏ, danh tiếng của ông bị hủy hoại trong khi gia đình Trương Cư Chính bị hoàng đế ra lệnh tịch thu gia sản. Phải hơn nửa thế kỷ sau vị trí thực sự của Trương Cư Chính cũng được phục hồi, tuy nhiên khi đó nhà Minh đã bắt đầu suy sụp và không bao giờ còn đạt được trạng thái thịnh vượng như thời Trương Cư Chính là phụ chính."
 }

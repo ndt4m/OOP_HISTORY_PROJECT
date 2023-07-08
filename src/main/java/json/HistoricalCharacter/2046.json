@@ -1,19 +1,17 @@
 {
-  "dateOfBirth": "Đinh Tị 1917",
-  "dateOfDeath": "Canh Dần 1950",
-  "hometown": "quê tỉnh Bình Định vào Nam sinh sống, hành nghề báo chí tại Sài Gòn, tên thật là Nguyễn Văn Sinh",
-  "occupation": "Liệt sĩ, Nhà báo, quê tỉnh Bình Định vào Nam sinh sống, hành nghề báo chí tại Sài Gòn",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Kỉ Mão 1818",
+  "dateOfDeath" : "Ất Tị 1905",
+  "hometown" : "quê xã Quỳnh Đôi, huyện Quỳnh Lưu, tỉnh Nghệ An",
+  "occupation" : "Danh sĩ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 2046,
-  "entityName": "Nguyễn Văn Sinh",
-  "aliases": [
-    "Nam Quốc Cang"
-  ],
-  "overview": "Sau Cách mạng tháng 8 ông viết cho tờ Tin Điển, nổi tiếng chống thực dân Pháp tái chiếm Việt Nam, chống chủ trương chia rẽ Nam Bắc của bọn li khai Nam Kì quốc. Bọn thực dân cùng tay sai rất căm ghét ông, ra lệnh cho bọn mật thâm ám sát ông tại góc đường hẻm Frère Louis (nay là đường Nguyễn Trãi) - năm 1950. (Theo dư luận thì ông bị các 1ực lượng nội thành giết lầm, ông bị tai nạn là đúng hơn. Vì đơn vị biệt động đánh vào một nhóm phân li, lúc đó ông đang đứng (ngồi) gần nơi nổ súng)."
+  "id" : 2046,
+  "entityName" : "Phạm Đình Toái",
+  "aliases" : [ "Song Quỳnh", "Thiếu Du" ],
+  "overview" : "Năm Nhâm dần 1842, ông đỗ cử nhân, sơ bổ Tri huyện, rồi trải qua các chức: Tri phủ Lâm Thao (1866), Bố chánh Sơn Tây, Án sát Sơn Tây. Ông có tiếng thanh cần, chính trực. Có lúc ông phạm lỗi bị ngưng chức, sau vẫn được phục hồi, làm đến Hồng lô tự khanh, rồi về hưu (Canh ngọ 1870) ngụ ở Hà Nội. Các tác phẩm của ông: - Quỳnh Lưu tiết phụ truyện - Hán Đường Tân thi ca diễn âm - Trung dung diễn ca - Dịch quái diễn ca Ông cũng có khảo đính lại bộ Đại Nam quốc sử diễn ca của Lê Ngô Cát, trong năm 1873, rồi cho khắc ván in ở Nghệ An. Đoạn nói về Hai bà Trưng như sau: Bà Trưng quê ở Châu Phong Giận người tham bạo thù chồng chẳng quên. Chị em nặng một lời nguyền, Phất cờ nương tử thay quyền tướng quân Ngàn tây nổi áng phong trần Ầm ầm binh mã xuống gần Long Biên. Hồng quần nhẹ bước chinh yên. Đuổi thằng Tô Định dẹn tan biên thành."
 }

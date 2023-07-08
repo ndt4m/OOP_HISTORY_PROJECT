@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê huyện Đông Triều, tỉnh Hải Dương",
-  "occupation": "Nghĩa sĩ đời Trần Thái tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Trần": 15
+  "dateOfBirth" : "Đinh Mùi 1847",
+  "dateOfDeath" : "Đinh Hợi 1887",
+  "hometown" : "Quảng Nam",
+  "occupation" : "Có sách ghi là Nguyễn Hiệu, tục gọi Hường Hiệu",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 1166,
-  "entityName": "Phạm Cư Sĩ",
-  "aliases": [],
-  "overview": "Trần Thủ Độ sau khi giúp Trần Cảnh chiếm ngôi vua của Lý Chiêu Hoàng, đã có nhiều hành động tàn bạo đối với dòng họ Lý. Trung thành với nhà Lý, ông bàn mưu với Đoàn Thượng chống Trần Thủ Độ nhưng không chống nổi, thua quân ở làng Yên Nhân. Ông cũng tự cầm quân chống với tướng của Trần Thủ Độ là Nguyễn Nộn nơi Cẩm Giàng, bị tử thương chạy đến làng Hoạch Trạch thì chết. Tại làng Hoạch Trạch và làng quê của Đoàn Thượng là Hồng Thị đều có đền thờ ông và Đoàn Thượng. Hai nơi ấy hãy còn di tích. Trong Vũ trung tùy bút, Phạm Đình Hổ có lời bình luận: \"Trần Thủ Độ âm mưu tuyệt hết tông chi làng Cổ Pháp (nơi phát tích nhà Lý), chiếm lấy bà Thiên Cực công chúa làm vợ, đem gả bà Chiêu Hoàng cho đi lấy chồng, người như thế thật nhẫn tâm lắm. Thế mà những di thần đời Lý đều bó tay cúi đầu theo làm thần thiếp, duy có họ Đoàn họ Phạm là kẻ bầy tôi xa xôi, mà hay cắt giữ lấy một châu, liều chết chống giữ, thật đáng là liệt sĩ, trượng phu. Tuy rằng hưng vong vốn có định số, sức người không thể chuyển đi được, nhưng cái khí hạo nhiên vẫn trường tồn ở trong khoảng trời đất vậy\"."
+  "id" : 1166,
+  "entityName" : "Nguyễn Duy Hiệu",
+  "aliases" : [ "Hường Hiệu" ],
+  "overview" : "Chí sĩ yêu nước, quê làng Thanh Hà, huyện Duyên Phúc, tỉnh Quảng Nam (nay là xã Cẩm Hà, Thị xã Hội An, tỉnh Quảng Nam). Năm Bính tí 1876 ông đỗ cử nhân, năm Kỉ mão 1879 đỗ phó bảng, lúc 32 tuổi. Giặc Pháp xâm lược, ông từ quan về làng lập nghĩa hội, chuẩn bị kháng chiến. Từ 1885, ông cùng Trần Văn Dư, Phan Bá Phiến, Nguyễn Hàm phát động khởi nghĩa lập tân tỉnh tại huyện Quế Sơn hưởng ứng hịch Cần vương của vua Hàm Nghi, rồi hợp cùng nghĩa quân chống Nguyễn Thân tay sai giặc Pháp. Năm Đinh hợi 1887, tháng 8 ông tự nộp mình cho giặc Pháp ở núi Non Nước, bị giải về Huế, chúng dụ hàng, nhưng ông vẫn bất khuất, bị giết trong năm ấy, hưởng dương 40 tuổi. Lúc lâm hình ông có hai bài thơ tỏ chí, có bài: \"Tây nam vô địch xích đồng tri. Tảo cập kim thời thế khả vi. Nhược sử gian phong vô áo điện, Hà nan trung đính thát cường di. Hàn sơn kỉ đắc cô tùng cán, Đại hạ yên năng nhất mộc chi. Hảo bả đan tâm triều liệt thánh, Trung thu minh nguyệt bạn ngô qui\" Bản dịch: Vô địch Tây Nam biết đã thừa, Thời cơ như thế lẽ ngồi trơ. Dáo như không trở tay giàn kín, Giặc khó gì hơn gộp lưỡi bừa. Núi lạnh, tùng côi xơ xác đứng, Nhà to cột một khó khăn ngừa. Về chầu liệt thánh lòng son đấy, Tháng tám trăng rằm sẵn nhịp đưa."
 }

@@ -1,17 +1,14 @@
 {
-  "dateOfBirth": "852",
-  "dateOfDeath": "24 tháng 12 năm 905",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 2497,
-  "entityName": "Dương Hành Mật",
-  "aliases": [
-    "Dương Hành Mẫn",
-    "Hóa Nguyên"
-  ],
-  "overview": "Dương Hành Mật (giản thể: 杨行密; phồn thể: 楊行密; bính âm: Yáng Xíngmì, 852 – 24 tháng 12 năm 905), nguyên danh Dương Hành Mẫn (楊行愍, đổi tên năm 886), tên tự Hóa Nguyên (化源) là người giữ chức Hoài Nam tiết độ sứ vào cuối thời nhà Đường. Ông cai quản Hoài Nam và một vài quân lân cận, lãnh thổ mà ông cùng gia tộc mình cai quản sau đó trở thành nước Ngô thời Ngũ Đại Thập Quốc."
+  "dateOfBirth" : "tháng 10 năm 1913",
+  "dateOfDeath" : "28 tháng 12 năm 1995",
+  "hometown" : "huyện Tiền Hải, tỉnh Thái Bình)",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 2497,
+  "entityName" : "Bùi Quang Tạo",
+  "aliases" : [ "Bùi Nhật" ],
+  "overview" : "Bùi Quang Tạo (tháng 10 năm 1913 - 28 tháng 12 năm 1995; huyện Tiền Hải, tỉnh Thái Bình) hay Bùi Nhật là nhà hoạt động cách mạng, nhà chính khách Việt Nam. Ông nguyên là Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa II, khóa III, khóa IV, khóa V, đã từng giữ các chức vụ Bí thư Khu ủy Tây Bắc, Bộ trưởng Bộ Xây dựng Việt Nam đầu tiên, Phó Trưởng Ban Tổ chức Trung ương Đảng Cộng sản Việt Nam, Bí thư Thành ủy Hải Phòng, Chủ nhiệm Ủy ban Thanh tra Nhà nước."
 }

@@ -1,14 +1,14 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "ngày 30",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 110,
-  "entityName": "Vũ Đăng Toàn",
-  "aliases": [],
-  "overview": "Vũ Đăng Toàn là một đại úy Quân đội Nhân dân Việt Nam, là người chỉ huy chiếc xe tăng T-54 mang số hiệu 390 đã húc đổ cánh cửa Dinh Độc Lập trong ngày 30 tháng 4 năm 1975."
+  "dateOfBirth" : "12 tháng 3, 1922 xã Bình Phú, huyện Cai Lậy, tỉnh Tiền Giang, Liên bang Đông Dương",
+  "dateOfDeath" : "22 tháng 6, 2014 (92 tuổi) Thành phố Mỹ Tho, tỉnh Tiền Giang, Việt Nam",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 110,
+  "entityName" : "Nguyễn Công Bình",
+  "aliases" : [ "Nguyễn Văn Mè" ],
+  "overview" : "Nguyễn Công Bình tên thật là Nguyễn Văn Mè (12 tháng 3 năm 1922 – 22 tháng 6 năm 2014) là một nhà cách mạng, chính khách Việt Nam, nguyên Phó Bí thư Tỉnh ủy, Chủ tịch Ủy ban nhân dân tỉnh Tiền Giang, Trưởng đoàn Đại biểu Quốc hội khóa VI, VII đơn vị tỉnh Tiền Giang."
 }

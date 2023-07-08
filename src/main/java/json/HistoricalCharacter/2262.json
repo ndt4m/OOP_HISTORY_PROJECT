@@ -1,20 +1,14 @@
 {
-  "dateOfBirth": "1811\n----------------------------------------------\nNhâm Thân 1812",
-  "dateOfDeath": "1863\n----------------------------------------------\nKhông rõ",
-  "hometown": "quê xã Trung Cần, tổng Trung Cần, huyện Thanh Chương, tỉnh Nghệ An",
-  "occupation": "Danh sĩ đời ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
-  },
-  "id": 2262,
-  "entityName": "Nguyễn Văn Giao",
-  "aliases": [
-    "Quất Lâm",
-    "Đức",
-    "Đạm Như"
-  ],
-  "overview": "Nguyễn Văn Giao (chữ Hán: 阮文交; 1811-1863), hiệu Quất Lâm (橘林), tự là Đạm Như, là một danh sĩ Việt Nam thế kỷ 19.\n----------------------------------------------\nNăm Nhâm tí 1852 đỗ cử nhân. Quí sửu 1853 đỗ Thám hoa lúc 41 tuổi. Làm quan đến Tham biện Nội các và viện Hàn lâm, ông được vua yêu mến, sĩ phu trọng vọng. Các tác phẩm: - Sử luận tập - Tam khôi bị lục - Thập tam kinh thành cú - Quất lâm thi văn - Điệp tư vân - Sách học tân tuyển - Vạn sử vinh sứ..."
+  "dateOfBirth" : "1923 huyện Gia Khánh, phủ Trường An, Đại Nam",
+  "dateOfDeath" : "1988 ?",
+  "hometown" : "Không rõ",
+  "occupation" : "Phục vụ",
+  "workTenure" : "1945-1977",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 2262,
+  "entityName" : "Nguyễn Mạnh Quân",
+  "aliases" : [ ],
+  "overview" : "Đại tá Nguyễn Mạnh Quân (1923-1988) là một sĩ quan chỉ huy của Quân đội Nhân dân Việt Nam. Ông là một trong những chỉ huy chiến trường quan trọng trong suốt thời kỳ Chiến tranh Việt Nam (1945-1975), là một trong chỉ huy trực tiếp của Mặt trận Tây Nguyên trong Chiến dịch Bắc Tây Nguyên 1972."
 }

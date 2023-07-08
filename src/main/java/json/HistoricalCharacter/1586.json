@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "24 tháng 7 năm 1930 Hà Nội, Liên bang Đông Dương",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê ta ơi\", \"Tôi là người thợ lò\",.",
-  "occupation": "Nhạc sĩ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 1586,
-  "entityName": "Hoàng Vân",
-  "aliases": [
-    "Lê Văn Ngọ"
-  ],
-  "overview": "Hoàng Vân (tên khai sinh: Lê Văn Ngọ, sinh 24 tháng 7 năm 1930) là một nhạc sĩ nhạc đỏ Việt Nam, người được coi là có nhiều nhất sáng tác về các ngành và các bài hát của ông đều trở thành bài truyền thống. Ông nổi tiếng với hàng loạt ca khúc như \"Bài ca xây dựng\", \"Hò kéo pháo\", \"Người chiến sĩ ấy\", \"Quảng Bình quê ta ơi\", \"Tôi là người thợ lò\",... Ông còn có bút danh là Y - Na (tức \"Yêu Ngọc Anh\" - Ngọc Anh là người bạn đời của ông)."
+  "dateOfBirth" : "1367",
+  "dateOfDeath" : "1454",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "nhà Lê" : null
+  },
+  "id" : 1586,
+  "entityName" : "Phạm Cuống",
+  "aliases" : [ ],
+  "overview" : "Phạm Cuống (1367-1454) là một công thần khai quốc nhà Lê sơ trong lịch sử Việt Nam."
 }

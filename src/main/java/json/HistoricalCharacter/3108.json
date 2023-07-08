@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Đinh Mão 1807",
-  "dateOfDeath": "Bính Dần 1866",
-  "hometown": "quê xã Văn Lư",
-  "occupation": "Văn thần đời Minh Mạng",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Ất Hợi 1935",
+  "dateOfDeath" : "Mậu Thân 1968",
+  "hometown" : "quê xã Tân Mĩ, huyện Đức Hòa, tỉnh Long An",
+  "occupation" : "Liệt sĩ, anh hùng lực lượng võ trang",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nước Việt Nam mới" : 29
   },
-  "id": 3108,
-  "entityName": "Đỗ Quang",
-  "aliases": [
-    "Đỗ Tông Quang"
-  ],
-  "overview": "Năm Nhâm thìn 1832, ông đỗ Tam giáp đồng tiến sĩ lúc 25 tuổi, ông nổi tiếng thơ văn, làm Tuần phủ tỉnh Định Tường trong Nam vào đời Tự Đức. Gặp cơn biến loạn giặc Pháp sang xâm lược, đánh phá miền Nam, ông dời về Tân Hòa, cùng Trương Định tiếp tục chống giặc. Cuộc điếu tế các nghĩa sĩ Cần Giuộc, chính ông đã chủ trương nung nấu ý chí căm thù quân cướp nước, đôn đốc nhân dân cứu nước. Năm 1862, triều đình Huế kí hàng ước với giặc ông bị triệu về kinh, bổ làm Tuần phủ tỉnh Nam Định, ông dâng sớ kiên quyết từ chối, bỏ về nghỉ tại quê nhà. Năm sau, triều đình lại triệu ông vào Huế làm Tham tri, ông càng từ chối. Năm 1864, miền Hải Dương, Quảng Yên bị nạn hải phỉ quấy nhiễu, dân tình khổ cực, ông đành phái ra làm Tham tán Hải An để góp phần ổn định lại tình hình trong tỉnh. Công việc hoàn thành ông lại cáo quan về ở ẩn. Năm Bính dần 1866, ông mất, thọ 59 tuổi."
+  "id" : 3108,
+  "entityName" : "Lê Minh Xuân",
+  "aliases" : [ ],
+  "overview" : "Năm 1963, ông nhập ngũ vào quân đội Giải Phóng, từng chỉ huy từ Tiểu đội trưởng đến Trung đoàn phó, Tư lệnh phó quân khu 2. Từ 1964 đến 1967 ông chỉ huy Tiểu đoàn 6 bám trụ, tiêu diệt nhiều địch, giữ vững căn cứ kháng chiến. Trong cuộc tổng tấn công tết Mậu Thân 1968, tiểu đoàn của ông đánh vào phía tây Sài Gòn, chiếm nhiều mục tiêu quan trọng và trụ lại trong thành phố lâu nhất. Sau khi đơn vị rút ra vùng ven, vẫn tìm cách đánh trả đich. Năm 1968 trong một trận Mậu thân đợt 2, tấn công vào Chợ Lớn, ông hi sinh ở cầu Bình Tân và được truy phong anh hùng lực lượng vũ trang QĐNDVN."
 }

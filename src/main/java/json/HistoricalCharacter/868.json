@@ -1,25 +1,16 @@
 {
-  "dateOfBirth": "22 tháng 2, 1066 Du Thiền các, Thăng Long",
-  "dateOfDeath": "15 tháng 1, 1128 (61 tuổi) Điện Vĩnh Quang, Thăng Long",
-  "hometown": "Không rõ",
-  "occupation": "Hoàng đế Đại Việt",
-  "workTenure": "1072 – 1128",
-  "fatherName": {
-    "Lý Thánh Tông": 2991
+  "dateOfBirth" : "1750\n----------------------------------------------\nCanh Ngọ 1750",
+  "dateOfDeath" : "1805\n----------------------------------------------\nẤt Sửu 1805",
+  "hometown" : "quê làng Đại Mao, huyện Siêu Loại, tỉnh Bắc Ninh",
+  "occupation" : "Đồng binh chương sự\n----------------------------------------------\nCận thần đời Lê Hiển tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
   },
-  "motherName": {
-    "Linh Nhân hoàng hậu": null
-  },
-  "eraName": {
-    "Nhà Lý": 14
-  },
-  "id": 868,
-  "entityName": "Lý Càn Đức",
-  "aliases": [
-    "Lý Càn Đức (李乾德)",
-    "Hiếu Thiên Thể Đạo Thánh Văn Thần Vũ Sùng Nhân Ý Nghĩa Hiếu Từ Thuần Thành Minh Hiếu Hoàng Đế",
-    "Thái Ninh (1072-1076) Anh Vũ Chiêu Thắng (1076-1084) Quảng Hựu (1085-1092) Hội Phong (1092-1100) Long Phù (1101-1109) Hội Tường Đại Khánh (1110-1119) Thiên Phù Duệ Vũ (1120-1126) Thiên Phù Khánh Thọ (1127-1127)",
-    "Nhân Tông (仁宗)"
-  ],
-  "overview": "Lý Nhân Tông (chữ Hán: 李仁宗; 22 tháng 2 năm 1066 – 15 tháng 1 năm 1128) là vị hoàng đế thứ tư của nhà Lý nước Đại Việt. Ông trị vì từ năm 1072 đến năm 1128, tổng cộng 55 năm. Ông được xem là vị vua có thời gian ở ngôi lâu nhất trong lịch sử Việt Nam."
+  "id" : 868,
+  "entityName" : "Lê Quýnh",
+  "aliases" : [ "Lê Doãn Hựu" ],
+  "overview" : "Lê Quýnh (tiếng Trung: 黎烱, Nôm: 黎侗; 1750 - 1805) là một võ quan triều Lê trung hưng.\n----------------------------------------------\nÔng còn có tên khác là Lê Doãn Hựu, con trưởng của Tả thị lang Đại Nhan Hầu Lê Doãn Giản. Năm 21 tuổi ông là Nho sinh ở Chiêu văn quán, về sau cha mất, ông lui về quê ít lâu rồi theo hầu Lê Chiêu Thống. Năm Mậu thân 1788, nghĩa quân Tây Sơn ra Thăng Long diệt Thanh, Lê Chiêu Thống chạy ra vùng Lạng Giang, Lê Quýnh cùng Lê Trực theo hộ tống được phong tước Tư Ốc Bá, rồi tiến phong Trường Phái Hầu. Năm Kỉ dậu 1789, Chiêu Thống chạy theo đám tàn quân Thanh sang Trung Quốc, ít lâu ông cũng chạy theo, bị nhà Thanh an trí ở Minh Giang. Phúc An Khang buộc ông và các người tòng vong phải gióc tóc theo lối nhà Thanh, ông phản đối: \"Đầu ta có thể chặt đuợc, nhưng tóc ta không thể gột được! Da ta có thể lột được, nhưng áo ta không thể thay được\". Mãi 15 năm sau (1804) ông và các tòng thần còn sống sót mới được vua Thanh cho đem hài cốt Chiêu Thống về nước. Chôn hài cốt Chiêu Thống xong, ông từ chối không ra làm quan với Gia Long, về quê sống cuộc đời tu sĩ. Ông có câu thơ tỏ chí: \"Phật tổ di lai huấn tử đệ, Hoàng thiên hứa các cựu nhàn dân\" Nghĩa: Phật tổ dành lại dạy đệ tử, Hoàng thiên cho làm nhàn dân xưa. Ngày 16-9 âm lịch Ất sửu (1805) ông mất hưởng dương 55 tuổi. Tác phẩm của ông còn lưu lại là tập Bắc hành tung kí có giá trị sử học, văn học."
 }

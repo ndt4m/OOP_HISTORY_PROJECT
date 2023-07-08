@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Danh thần đời Minh Mạng ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Bính Dần 1866",
+  "dateOfDeath" : "Mậu Tí 1888",
+  "hometown" : "sinh quán tại thành phố Huế, tỉnh Thừa Thiên",
+  "occupation" : "Nhà yêu nước con Phụ chánh Tôn Thất Thuyết, anh Tôn Thất Thiệp",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 1350,
-  "entityName": "Bùi Mậu Tiên",
-  "aliases": [],
-  "overview": "Ông làm đến Giám sát ngự sử, tính thanh liêm mẫn cán, chính trực vô tư. Tài đức ông được sĩ phu và nhân dân yêu mến. Khoảng năm Bính thân 1836, ông dâng sớ tâu: \"Các làng ở ngoài Bắc thành nhiều kẻ hào cường trái phép, mà dân thì biếng nhác chỉ cờ bạc rượu chè. Việc tế lễ quỉ thần thì hay dùng cách xa xỉ, việc cúng tế thì chuộng đường xa hoa, thậm chí có kẻ bán sạch cả nhà cửa cơ nghiệp để đền nợ miệng, thật là trái với nghĩa tương hảo, tương lân\". Vua Minh Mạng chấp sớ, quở trách các quan địa phương, sửa sang phong tục lại Trước sau ông là một vị quan thanh liêm có khả năng hành chánh."
+  "id" : 1350,
+  "entityName" : "Tôn Thất Đạm",
+  "aliases" : [ ],
+  "overview" : "Ông tuy còn trẻ tuổi, nhưng có chí lớn. Khi kinh thành Huế thất thủ (1885) vua Hàm Nghi ra Sơn phòng Quảng Trị kháng chiến, ông và em cũng theo cha trong đoàn cận vệ nhà vua. Năm 1886, ông nhận chức vụ Khâm sai Tái lí quân vụ, đóng quân ở vùng cao tỉnh Hà Tĩnh, ông giữ việc liên lạc giữa vua Hàm Nghi và các lực lượng nghĩa quân thuộc khu vực Nghệ Tĩnh Bình. Sau đó, thân phụ ông sang Trung Quốc cầu viện, trách nhiệm chính của anh em ông là lo việc bảo vệ vua Hàm Nghi và chỉ huy các cuộc phản công đánh trả quân Pháp trên các trận tuyến thuộc Sơn phòng Quảng Bình, Hà Tĩnh. Khi nghe tin vua Hàm Nghi bị bắt trong đêm 1-11-1888 tại Tá Bào, em ông Tôn Thất Thiệp hi sinh tại trận, ông đau đớn trong niềm uất hận gần nửa tháng đến ngày 15-11-1888 (12-10 Mậu tí) ông uống thuốc tự tử, hưởng dương 22 tuổi. Trước khi mất ông để lại hai bức thư một gởi vua Hàm Nghi để nhận tội bất lực, một gởi cho sĩ quan Pháp chỉ huy đồn Thuận Bài là Thiếu tá Dabat nói về việc tuẫn tiết của mình và yêu cầu viên sĩ quan này giữ lễ nghi với nhà vua."
 }

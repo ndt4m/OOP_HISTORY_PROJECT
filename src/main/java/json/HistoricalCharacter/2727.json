@@ -1,19 +1,18 @@
 {
-  "dateOfBirth": "Giáp Dần 1914",
-  "dateOfDeath": "Đinh Mão 1987",
-  "hometown": "nguyên quán làng Tùng Ảnh, huyện La Sơn, tỉnh Hà Tĩnh, cư ngụ ở Hà Nội, con trai thứ dật sĩ Phan Điện, em ruột luật sư Phan Anh (1912-1990)",
-  "occupation": "Luật sư, nhà hoạt động chính trị, nguyên quán làng Tùng Ảnh, huyện La Sơn, tỉnh Hà Tĩnh, cư ngụ ở Hà Nội, con trai thứ dật sĩ Phan Điện, em ruột luật sư Phan Anh ",
-  "workTenure": "Không rõ",
-  "fatherName": {
-    "thứ dật sĩ Phan Điện": null
+  "dateOfBirth" : "Ất Mùi 1895",
+  "dateOfDeath" : "Ất Dậu 1945",
+  "hometown" : "Quê làng Đại Phong, huyện Lệ Thủy tỉnh Quảng Bình (nay vẫn thuộc tỉnh Quảng Bình)",
+  "occupation" : "Cựu tổng đốc [Quảng Nam], con trai trưởng Phụ chánh Ngô Đình Khả ",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "trưởng Phụ chánh Ngô Đình Khả" : null
   },
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 2727,
-  "entityName": "Phan Mỹ",
-  "aliases": [],
-  "overview": "Phan Mỹ có thể là tên của:\n----------------------------------------------\nXuất thân trong một gia đình Nho học truyền thống, cựu sinh viên Đại học luật Hà Nội. Năm 1939 tốt nghiệp cử nhân luật, Giáo sư tại trường Thăng Long. Khi còn là sinh viên ông hoạt động đắc lực cho Tổng hội sinh viên yêu nước (có khuynh hướng Việt Minh), tham gia các tổ chức hoạt động xã hội. Cộng tác viên báo Thanh Nghị của nhóm Vũ Đình Hòe, Vũ Văn Hiền, Phan Anh... Sau năm 1945 tham gia kháng chiến chống Pháp, giữ chức Chánh văn phòng chủ tịch chính phủ, đến những. năm 60. Sau đó giữ chức Thứ trưởng Bộ thủy lợi rồi về hưu trong những năm 70. Ông mất năm 1987 tại Hà Nội."
+  "id" : 2727,
+  "entityName" : "Ngô Đình Khôi",
+  "aliases" : [ ],
+  "overview" : "Làm quan từ tri huyện Phù Cát, Bình Định (1917), tri phủ Tuy An tỉnh Phú Yên, năm 1919 thăng án sát tỉnh Phú Yên, năm 1926 Bố chánh Bình Định rồi tuần vũ Quảng Ngãi. Đến năm 1930 làm Tổng đốc Quảng Nam cho đến năm 1945. Sau cách mạng tháng Tám năm 1945 ông bị các lực lượng cách mạng giết cùng một lần với con trai là Ngô Đình Huân và Phạm Quỳnh tại ngoại ô TP. Huế."
 }

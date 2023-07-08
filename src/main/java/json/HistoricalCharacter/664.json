@@ -1,19 +1,17 @@
 {
-  "dateOfBirth": "Mậu Ngọ 1918",
-  "dateOfDeath": "Mậu Thân 1968",
-  "hometown": "quê làng Sơn Tịnh, huyện Hương Sơn tỉnh Hà Tĩnh",
-  "occupation": "Liệt sĩ hiện đại",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "1849\n----------------------------------------------\nKỉ Dậu 1849",
+  "dateOfDeath" : "1923\n----------------------------------------------\nQuí Hợi 1923",
+  "hometown" : "quê làng Thọ Hạc huyện Đông Sơn, tỉnh Thanh Hóa",
+  "occupation" : "Nhà yêu nước ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 664,
-  "entityName": "Trần Văn Kiểu",
-  "aliases": [
-    "Chín Ca"
-  ],
-  "overview": "Những năm 40, ông vào Nam Bộ làm công nhân ở đồn điền cao su Phú Mĩ Hưng ở Xuân Lộc. Tại đây, ông tham gia hoạt động cách mạng chống Pháp, gia nhập đảng cộng sản Đông Dương hoạt động bí mật tại các công trường cao su của người Pháp. Sau Cách mạng tháng Tám, ông vào bộ đội đánh Pháp tại mặt trận miền Đông Nam Bộ. Năm 1954 ông ở lại miền Nam hoạt động bí mật, lãnh đạo công tác công vận, được bầu làm ủy viên Ban Công Vận Trung ương cục miền Nam, đặc trách phong trào công nhân cao su. Trong cuộc nổi dậy năm Mậu thân 1968, ông hi sinh tại mặt trận Chợ Lớn hưởng dương 50 tuổi."
+  "id" : 664,
+  "entityName" : "Trần Xuân Soạn",
+  "aliases" : [ ],
+  "overview" : "Trần Xuân Soạn (陳春撰, 1849-1923), là tướng nhà Nguyễn trong lịch sử Việt Nam. Đầu tháng 4 năm 1885, thời vua Hàm Nghi, ông cùng tướng Tôn Thất Thuyết đánh Pháp đóng ở đồn Mang Cá trong trận Kinh thành Huế. Sau khi thất bại, ông lãnh nhiệm vụ tổ chức phong trào Cần vương kháng Pháp ở Thanh Hóa.\n----------------------------------------------\nÔng sinh trong gia đình nông dân nghèo, tòng quân thay cho con một phú hào trong làng để lấy tiền nuôi gia đình. Trong quân ngũ, ông lập được nhiều chiến công, được thăng Đề đốc. Năm Ất dậu 1885, kinh thành thất thủ ông cùng Tôn Thất Thuyết đem vua Hàm Nghi ra Sơn phòng Hà Tĩnh, rồi về Thanh Hóa, chỉ đạo cuộc kháng chiến. Ông tích cực hoạt động ở nhiều vùng, liên lạc với nghĩa quân các nơi. Đến khi tình thế suy yếu, ông sang Trung Quốc tìm gặp Tôn Thất Thuyết ở Long Châu nhằm tổ chức các toán quân kéo về hoạt động ở biên giới. Năm Quí hợi 1923 ông mất tại Long Châu, thọ 74 tuổi. Khi ông kháng chiến ở Thanh Hóa quân địch đào mồ lấy cốt thân phụ ông xếp ở giữa đường để thiêu hủy, cốt lung lạc để ông về đầu thú, nhưng ông vẫn bất khuất. Em ông là Trần Xuân Huấn cũng hi sinh trong cuộc kháng chiến, con trai thứ hai của ông là Trần Xuân Kháng cũng hi sinh vì nước. Lúc ở trong quân, ông có bài THUẬT HOÀI. \"Li hương khứ quốc thậm quai kì, Nam Bắc lương hồi thảo mộc tri. Biến tính cảm ngôn thiên quỉ quyệt. Thu tông tạm dĩ tị tiềm nghi. Hiền thê mạc quái phu tình bạc, Hiếu tử hưu đàm phụ đạo khuy. Tận phó biệt hoài đồng thủy khứ, Hậu tiên lưu lạc nhất tâm ti (tư).\" Bản dịch: Dời nhà xa nước trót sai kì, Nam Bắc hai phen cây cỏ ghi. Đổi họ dám đâu rằng dối trá, Náu mình tạm để lánh hiềm nghi. Vợ hiền chớ trách chồng đen bạc, Con hiếu đừng chê bố lỗi nghì. Trút sách nhớ thương dòng biển cả Trước sau lưu lạc một tâm tư."
 }

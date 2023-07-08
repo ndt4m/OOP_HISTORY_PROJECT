@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "Đinh Mùi 1907",
-  "dateOfDeath": "Mậu Dần 1938",
-  "hometown": "tại thị xã Hải Dương (nay thuộc tỉnh Hải Dương), trong một gia đình công chức",
-  "occupation": "Liệt sĩ cách mạng",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "Đinh Dậu 1837",
+  "dateOfDeath" : "Nhâm Thìn 1892",
+  "hometown" : "quê xã Đông Biện, huyện Vĩnh Lộc, tỉnh Thanh Hóa",
+  "occupation" : "Nhà yêu nước cận đại ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 1621,
-  "entityName": "Đỗ Ngọc Du",
-  "aliases": [],
-  "overview": "Thuở nhỏ học tại Hải Dương, Hà Nội. Năm 1926, tham gia phong trào bãi khóa đòi ân xá chí sĩ Phan Bội Châu và truy điệu Phan Châu Trinh, nên bị bọn thực dân đuổi học. Sau đó (1926) ông tham gia tổ chức Việt Nam Thanh niên Cách mạng đồng chí hội và được cử đi dự lớp huấn luyện tại Trung Quốc do Nguyễn Ái Quốc tổ chức. Từ năm 1929, ông cùng các đồng chí khác thành lập chi bộ cộng sản đầu tiên ở Hà Nội và được cử làm ủy viên chấp hành lâm thời phụ trách về tài chính. Năm 1930, tổ chức bị lộ, nhưng liền khi ấy ông được tổ chức phái đi Trung Quốc công tác. Năm 1931, khi đang công tác tại Thượng Hải ông bị mật thám bắt đưa về nước và bị bọn chúng kết án khổ sai chung thân. Từ đó ông bị đày Sơn La, Hỏa Lò (Hà Nội) rồi Côn Đảo. Năm 1936, ông được trả tự do, nhưng vì bị chế độ nhà tù thực dân đày đọa nên ông mất vì bệnh lao phổi (1938)."
+  "id" : 1621,
+  "entityName" : "Tống Duy Tân",
+  "aliases" : [ ],
+  "overview" : "Năm Canh ngọ 1870 đỗ cử nhân, năm 1875 đỗ tiến sĩ. Bước đầu làm Tri phủ Vĩnh Tường, rồi Đốc học Thanh Hóa. Về sau, làm Thương biện Tỉnh vụ, đổi sang Chánh sứ Sơn phòng tỉnh Thanh Hóa. Từ năm 1885, ông hưởng ứng phong trào Cần vương tham gia khởi nghĩa chống Pháp, trở thành vị thủ lĩnh kháng chiến tỉnh Thanh Hóa. Năm Nhâm thìn 1892, tháng 9 âm lịch ông rút quân về hang Nhâm Kỉ (xã Thiết Ống, huyện Bá Thước, tỉnh Thanh Hóa) được một thời gian thì bị học trò cũng là cháu ruột ông là Cao Ngọc Lễ báo cho Pháp vây bắt ông. Chúng kết án tử hình và giết ông ngày 5-10 âm lịch năm 1892 hưởng dương 55 tuổi. Trước ngày mất, ông có đôi câu đối: \"Nhi kim thủy liễu tiên sinh trái Tự cổ do truyền bất tử danh\". Nghĩa: Món nợ tiên sinh nay mới trả Cái danh bất tử trước còn truyền. Khi ông hi sinh, thân sĩ tỉnh Thanh Hóa điếu ông: \"Tự cổ anh hùng, thiết thạch can trường nan tận tả; Đáo đầu sự thế, xuyên hà huyết lệ hạt năng lưu.\" Nghĩa: Từ trước anh hùng, dạ sắt gan vàng khôn xiết tả Đến cùng sự thế, máu sông lệ suối chảy sao trôi!"
 }

@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 2331,
-  "entityName": "Trịnh Châu",
-  "aliases": [
-    "Trung Châu"
-  ],
-  "overview": "Trịnh Châu (giản thể: 郑州; phồn thể: 鄭州; bính âm: Zhèngzhōu), trước đây gọi là Dự Châu hay Trung Châu, là một địa cấp thị và là tỉnh lỵ tỉnh Hà Nam, Trung Quốc. Địa cấp thị này tọa lạc ngay phía bắc của miền trung tỉnh Hà Nam và phía nam sông Hoàng Hà. Thành phố này giáp giới với Lạc Dương về phía tây, Tiêu Tác về phía tây bắc, Tân Hương về phía đông bắc, Khai Phong về phía đông, Hứa Xương về phía đông nam và Bình Đỉnh Sơn về phía tây nam."
+  "dateOfBirth" : "Giáp Ngọ 1714",
+  "dateOfDeath" : "Kỉ Sửu 1765",
+  "hometown" : "Không rõ",
+  "occupation" : "Ông là vị chúa thứ 8, thời Nguyễn khai sáng, con đầu của Túc tông, sinh năm Giáp ngọ đời vua Vĩnh Thịnh Lê Dụ tông (1714), lúc chưa lên ngôi được phong Chưởng dinh Tiền thủy.",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
+  "id" : 2331,
+  "entityName" : "Nguyễn Phúc Khoát",
+  "aliases" : [ "Võ Vương" ],
+  "overview" : "Vũ Vương (chữ Hán: 武王) hay Võ Vương, là thụy hiệu của một số vị quân chủ.\n----------------------------------------------\nNăm Mậu ngọ 1738 ông nối ngôi chúa được các quan triều tôn làm Thái bảo, Hiền Quận Công, hiệu là Từ tế Đạo nhân, đương thời gọi là Võ vương. Ông thông minh, cương nghị, cả quyết, việc gì đã làm thì nhất quyết làm cho bằng được, nên đôi khi đến tàn nhẫn. Trong đời ông khéo xử sự với Xiêm La (Thái Lan) Chân Lạp, và đã mở rộng đất đai đến toàn vùng đất Nam Bộ ngày nay. Trong đời mình, ông được nhiều nhân tài phù tá, nhất là Nguyễn Cư Trinh nhờ đó việc nội trị, ngoại giao đều tốt đẹp. Năm Cảnh Hưng thứ 26 (1765) ông mất, hưởng dương 52 tuổi ở ngôi được 27 năm, được truy tôn là Thế tông Hiếu võ Hoàng đế, an táng ở núi La Khê (tỉnh Thừa Thiên), lăng gọi là Trưởng Thái, vợ được truy tôn là Võ Hoàng hậu, lăng gọi là Vĩnh Thái."
 }

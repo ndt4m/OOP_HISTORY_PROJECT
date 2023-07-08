@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Giáp Dần 1914",
-  "hometown": "tại Trung Quốc công cử ông cùng Lâm Đức Mậu làm ủy viên giao tế trong ban chỉ đạo Hội",
-  "occupation": "Nhân sĩ cận đại, ông có lòng yêu nước",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Thiền sư đời Lý Nhân tông, không rõ tên, họ Kiều",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Lý" : 14
   },
-  "id": 1234,
-  "entityName": "Đặng Bỉnh Thành",
-  "aliases": [],
-  "overview": "Khoảng tháng 6-1913, Kỳ Ngoại hầu Cường Để về nước, lưu trú tại nhà ông, nhà Trần Chánh Chiếu và khách sạn Lục tỉnh do bà Năm Long làm quản lí. Thời gian này, chính ông đã cấp giấy thuế thân giả cho Cường Để, mang tên một nông dân thường, để tiện đi các tỉnh Vĩnh Long, Cần Thơ, Châu Đốc, vận động đồng bào chống Pháp. Ông tận tụy hi sinh cho công cuộc cứu quốc. Về sau việc bại lộ ông trốn sang Hương Cảng chịu khốn đốn nhiều bề, vẫn kiên trung một lòng vì nước. Khoảng năm 1914, ông bị bắt và mất trong ngục."
+  "id" : 1234,
+  "entityName" : "Kiều Trí Huyền",
+  "aliases" : [ "Trí Huyền" ],
+  "overview" : "Ông có kiến thức sâu rộng, chuyên tâm nghiên cứu kinh điển Phật học. Từng mở trường dạy học ở Thái Bình, thuộc lộ Hải Đông, phủ Tân Hưng, tỉnh Thái Bình. Có lần sư Đạo Hạnh (Từ Lộ) đến thăm ông và đàm đạo về Thiền học. Sư Đạo Hạnh đọc một bài thơ hỏi ông về chân tâm: \"Cửu hỗn phàm trần vị thức câm (kim) Bất trí hà xứ thị chơn tâm Nguyện thùy chỉ địch khai phương tiện, Liễu kiến như như đoạn khổ tầm.\" Bản dịch: Lâu nay vẫn đám hồng trần, Vàng còn chẳng biết, biết chân tâm nào Xin cho trò bảo làm sao? Cho tìm thấy rõ kẻo nao núng lòng. Nghe sư Đạo Hạnh hỏi bằng mấy vần thơ, ông cũng đáp ngay: \"Ngọc lí bi thanh diễn diệu âm, Cá trung mãn mục lộ thiền tâm. Hà sa cảnh thí Bồ đề cảnh, Nghĩ hướng Bồ đề cách vạn tầm.\" Bản dịch: Rộn vang minh ngọc âm huyền diệu, Phơi rõ lòng Thiền ngợp mắt trông. Khắc cõi hà sa đâu cũng Phật Mà như ta Phật cách muôn trùng."
 }

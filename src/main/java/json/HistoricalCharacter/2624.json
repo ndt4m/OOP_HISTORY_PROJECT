@@ -1,19 +1,17 @@
 {
-  "dateOfBirth": "19 tháng 8 năm 1917 Bordeaux, Pháp\n----------------------------------------------\nĐinh Tị 1917",
-  "dateOfDeath": "1998 (81 tuổi) Arkansas, Hoa Kỳ\n----------------------------------------------\nKỉ Mão 1999",
-  "hometown": "nguyên quán tỉnh Quảng Ngãi sinh tại Sài Gòn, quốc tịch Pháp, con trai Bác sĩ Louis Trần Văn Đôn, bác sĩ điều trị tại Bệnh viện La Lung (Chợ Rẫy, Chợ Lớn)",
-  "occupation": "Thuộc\n----------------------------------------------\nTrung tướng quân đội Sài Gòn ",
-  "workTenure": "1939-1965\n----------------------------------------------\nKhông rõ",
-  "fatherName": {
-    "Bác sĩ Louis Trần Văn Đôn": null
+  "dateOfBirth" : "Đinh Mùi 1727",
+  "dateOfDeath" : "Canh Thân 1800",
+  "hometown" : "quê làng Thanh Quít, huyện Diên Phước, phủ Điện Bàn, tỉnh Quảng Nam (nay là thị trấn Thanh Quít, huyện Điện Bàn, tỉnh Quảng Nam)",
+  "occupation" : "Danh thần nhà Tây Sơn",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34,
+    "Nhà Tây Sơn" : 21
   },
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
-  },
-  "id": 2624,
-  "entityName": "Trần Văn Đôn",
-  "aliases": [],
-  "overview": "Trần Văn Đôn (1917- 1998), nguyên là một cựu tướng lĩnh của Quân đội Việt Nam Cộng hòa, cấp bậc Trung tướng. Ông xuất thân từ trường Sĩ quan Trừ bị ở Pháp, sau đó được thụ huấn tiếp ở trường Võ bị của Quân đội thuộc địa Pháp mở ra ở miền Bắc Việt Nam. Ông còn là một cựu chính khách của Việt Nam Cộng hòa. Là một trong những nhân vật chủ chốt trong cuộc Đảo chính ngày 1 tháng 11 năm 1963 lật đổ chính quyền Tổng thống Ngô Đình Diệm. Ông cũng là Phó Thủ tướng và Bộ trưởng Quốc phòng của nền Đệ Nhị Cộng hòa Việt Nam (1967-1975).\n----------------------------------------------\nTừ năm 1945 - 1946 làm phụ tá cho tướng Leclerc ở Đông Dương, các năm 1950, 1951 phục vụ trong quân đội Bảo Đại (Nguyễn Phúc Vĩnh Thụy). Đến năm 1954 phục vụ quân đội Sài Gòn giữ chức Tổng tham mưu trưởng. Năm 1963 được sự đồng tình của Mĩ ông là thành viên của \"Hội đồng quân nhân cách mạng\" đảo chính lật đổ chế độ Ngô Đình Diệm giữ chức Bộ trưởng Bộ quốc phòng, năm 1964 bị tướng Nguyễn Khánh \"chỉnh lí\" bắt giam cùng với Dương Văn Minh, Tôn Thất Đính Lê Văn Kim... Từ năm 1966 ông ra khỏi quân đội Sài Gòn, ứng cử vào Thượng viện Quốc hội, giữ chức chủ tịch Mặt trận cứu nguy dân tộc (1968), Ủy ban Quốc phòng Thượng nghị viện. Sau năm 1975 sống lưu vong ở Mĩ rồi chết bên ấy."
+  "id" : 2624,
+  "entityName" : "Trương Công Hi",
+  "aliases" : [ ],
+  "overview" : "Ông xuất thân hương cống thời chúa Thế tông Nguyễn Phước Khoát (1738-1756), làm quan đời Thái Đức Nguyễn Nhạc với chức tri phủ Điện Bàn. Trong triều Quang Trung (1788-1792), ông từng làm Binh bộ, Hình bộ, thượng thư tước Thùy Ân hầu, khâm sai đại thần tỉnh Quảng Nam cho đến khi qua đời. Hiện nay tại địa phương còn bia mộ ông."
 }

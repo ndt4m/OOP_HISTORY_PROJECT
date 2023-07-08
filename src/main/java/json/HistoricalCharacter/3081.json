@@ -1,24 +1,17 @@
 {
-  "dateOfBirth": "?\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath": "1 tháng 12, năm 1370 phường Giang Khẩu, Thăng Long\n----------------------------------------------\nKhông rõ",
-  "hometown": "Không rõ",
-  "occupation": "Hoàng đế Đại Việt\n----------------------------------------------\nThái tử con thứ Cung Túc Vương Trần Dục, không rõ năm sinh, năm mất",
-  "workTenure": "18 tháng 7 năm 1369 - 1 tháng 12 năm 1370 (1 năm, 136 ngày)\n----------------------------------------------\nKhông rõ",
-  "fatherName": {
-    "Trần Nguyên Dục": null
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê huyện Sơn Vi, tỉnh Sơn Tây (nay thuộc xã Xuân Lũng, huyện Phong Châu, tỉnh Phú Thọ)",
+  "occupation" : "Cao sĩ đời hậu Trần",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Hậu Trần" : null,
+    "Nhà Hồ" : 9
   },
-  "motherName": {
-    "Vương Mẫu": null
-  },
-  "eraName": {
-    "Nhà Trần": 15
-  },
-  "id": 3081,
-  "entityName": "Dương Nhật Lễ",
-  "aliases": [
-    "Trần Nhật Lễ (陳日煃)",
-    "Đại Định (大定)",
-    "Hôn Đức công (昏德公)"
-  ],
-  "overview": "Dương Nhật Lễ (chữ Hán: 楊日禮; ? - 1 tháng 12, 1370), tên khác Trần Nhật Kiên (陳日熞), còn gọi Hôn Đức công (昏德公), là một vị hoàng đế nhà Trần, là người kế vị Trần Dụ Tông. Ông ở ngôi từ ngày 15 tháng 6 năm Kỷ Dậu (tức 18 tháng 7 năm 1369) đến ngày 13 tháng 11 năm Canh Tuất (tức 1 tháng 12 năm 1370).\n----------------------------------------------\nNhật Lễ không phải là người hoàng tộc; ông vốn là con người hát chèo tên Dương Khương. Khi thân mẫu ông đóng vai trong tuồng hát \"Tây vương mẫu hiến đào\" lúc ấy đang có thai, bà ta nhan sắc diễm kiều, nên được Cung Túc Vương Trần Dục say mê lấy làm vợ, đến khi sinh, nhận ông làm con. Nhật Lễ ở ngôi vua, nhiều người không phục. Có kẻ tâu với Hiến Từ Thái hậu về lai lịch của ông, nên Thái hậu hối hận. Vì việc ấy, Nhật Lễ đánh thuốc độc giết chết Hiến Từ Thái hậu. Thái tể Trần Nguyên Trác cùng Thiên Ninh công chúa đang đêm đưa các tôn thất vào thành quyết giết ông. Nhật Lễ trèo tường trốn thoát, sáng hôm sau Nhật Lễ trở lại cung lùng bắt 18 người chủ mưu, trong đó có Trần Nguyên Trác đem giết cả. Thiên Ninh công chúa lại mật mưu với Cung Định Vương Trần Chân sắp đặt việc lật đổ Nhật Lễ. Trần Chân và em là Trần Kính dấy quân ở Thanh Hóa, tuyên bố tội trạng Dương Nhật Lễ. Dương Nhật Lễ cùng thuộc hạ thân tín là Ngô Lang đi dẹp, nhưng Ngô Lang lại theo Trần Chân, nên Nhật Lễ bị bắt và bị giết. Cung Định Vương Trần Chân thành công lên ngôi vua tức Nghệ tông."
+  "id" : 3081,
+  "entityName" : "Bùi Ứng Đấu",
+  "aliases" : [ "Bùi Ứng Thập" ],
+  "overview" : "Sách Lịch triều đăng khoa lục chép là Bùi Ứng Thập, có lẽ lầm chứ Đấu ra chữ Thập chăng? Nhà Hồ, năm Thánh Nguyên I (Canh thìn 1400), ông đỗ Thái học sinh, đồng khoa với Nguyễn Trãi, Lý Tử Tấn, Võ Mộng Nguyên. Sau khi thi đỗ ra giúp nhà hậu Trần, làm Giám thư khố và từng làm tân khách của thái tử đến khoảng 50 tuổi, ông cáo quan về hưu. Khi quân Minh sang cướp nước, ông hết lòng giúp nhà hậu Trần chống cự. Bấy giờ, tướng giặc là Trương Phụ cho tìm kiếm những nhà ẩn dật ở sơn lâm, những người giỏi văn học, có tài đức, để đưa sang Kim Lăng, ban thưởng phẩm hàm, rồi cho trở vẻ làm quan phủ, quan châu Một số người xu thời bán nước cầu vinh chạy theo quân giặc. Duy chỉ có Bùi Ứng Đấu, Lý Tử Cấu và Võ Mộng Nguyên giữ tròn tiết tháo, chống quân cướp nước và tay sai đến cùng."
 }

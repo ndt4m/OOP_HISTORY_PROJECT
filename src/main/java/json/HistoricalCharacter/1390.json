@@ -1,17 +1,16 @@
 {
-  "dateOfBirth": "Canh Tí 1900",
-  "dateOfDeath": "Quí Sửu 1973",
-  "hometown": "quê xã Võ Liệt, huyện Thanh Chương tỉnh Nghệ An",
-  "occupation": "Nhà hoạt động cách mạng",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Tân Hợi 1791",
+  "dateOfDeath" : "Bính Thìn 1856",
+  "hometown" : "quê làng Bác Vọng sau ngu làng Thanh Lương, huyện Quảng Điền, tỉnh Thừa Thiên",
+  "occupation" : "Đại thần triều Nguyễn",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 1390,
-  "entityName": "Tôn Quang Phiệt",
-  "aliases": [],
-  "overview": "Thuở nhỏ ông học ở Vinh, năm 1923 ra Hà Nội học tại Trường Cao đẳng Sư phạm Đông Dương. Tại đây ông tham gia vận động tổ chức đảng Phục Việt (sau đổi là Tân Việt, tiền thân cúa Đông Dương cộng sản liên đoàn). Ông lãnh nhiệm vụ thành lập tại Hà Nội một chi bộ đầu tiên. Năm 1926, ông đang học năm thứ hai thì bị tình nghi nên bị đuổi học. Tháng 6-1926 ông cùng các ông Trần Phú, Vương Thúc Oánh... sang Trung Quốc gặp các nhân vật trong Việt Nam Cách mạng đảng. Phái đoàn vừa đến Móng Cái thì bị bắt, một số người trốn được, ông bị Pháp đem về giam ở Hà Nội. Một thời gian sau ông được trả tự do vẫn hoạt động bí mật cho đảng (một bộ phận của đảng này sau trở thành thành viên Đảng Cộng sản Đông Dương) và dạy tại trường trung học tư thục Thăng Long. Năm 1935, ông được đảng bí mật phái vào Huế hoạt động. Tại đây ông dạy tại trường Thuận Hóa và dùng trường này làm nơi liên lạc của cách mạng. Cách mạng tháng Tám, rồi toàn quốc kháng chiến, ông làm Đại biểu Quốc hội Tổng thư kí ủy ban thường vụ Quốc hội. Sau năm 1954, ông chuyên công tác văn hóa, giáo dục, ông là tác giả nhiều sách nghiên cứu, dịch thuật về văn học cổ cận đại Việt Nam. Ông được nhà nước tặng nhiều Huân chương. Ngày 1-12-1973, ông mất tại Hà Nội thọ 73 tuổi. Ông là tác giả nhiều sách về sử học cổ, cận đại Việt Nam: - Lịch sử Việt Nam - Phan Bộ Châu và một giai đoạn chống Pháp của nhân dân Việt Nam (Văn hóa, 1957) - Việt Nam nghĩa liệt sử (dịch, 1957) - Phan Bội Châu niên biểu (cùng dịch, 1957) …"
+  "id" : 1390,
+  "entityName" : "Đặng Văn Hòa",
+  "aliases" : [ "Đặng Văn Thiêm" ],
+  "overview" : "Năm Quí dậu 1813 đỗ cử nhân, sơ bổ tri huyện Hà Đông (thuộc tỉnh Quảng Nam) rồi thăng Lang trung bộ Binh, ít lâu sau làm Tham hiệp ở Thanh Hóa, Tả Thị lang bộ Binh, thăng Tham tri kiêm Hộ tào Bắc thành. Ông từng giữ chức Tổng đốc các tỉnh Nam Định, Hà Nội, Bình Định, rồi vào Gia Định, sau thăng Hiệp biện Đại học sĩ gia hàm Thái Bảo, từng làm Chủ khảo các kì thi Hội. Đời Tự Đức (1853) ông làm Thượng thư bộ Hình, ít lâu sau thăng Văn minh điện Đại học sĩ, lãnh Thượng thư bộ Hộ, sung cơ mật viện Đại thần. Năm 1856, ông bệnh mất tại chức, thọ 65 tuổi, được truy tặng Văn Minh Đại học sĩ, năm 1858 được liệt thờ vào đền Hiền lương ở triều đình. Ông là thông gia với vua Minh Mạng (con trai ông lấy công chúa thứ 34 tên Tĩnh Hòa). Sách Thoái thực kí văn có ghi một số tư liệu về đời làm quan của ông và sự tích về sắc thần thờ công chúa Liễu Hạnh ở Thanh Hóa có nhiều điều kì diệu."
 }

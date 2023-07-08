@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "Ất Tị 1905",
-  "dateOfDeath": "Ất Hợi 1935",
-  "hometown": "quê ở huyện Đại Lộc, tỉnh Quảng Nam",
-  "occupation": "Liệt sĩ hiện đại",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "Kỉ Tị 1919",
+  "dateOfDeath" : "Ất Dậu 2005",
+  "hometown" : "tại làng Ân Phú (nay là xã Ân Phú), huyện Hương Sơn, tỉnh Hà Tĩnh",
+  "occupation" : "Nhà thơ lãng mạn, nhà hoạt động cách mạng",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 1068,
-  "entityName": "Lê Quang Sung",
-  "aliases": [],
-  "overview": "Năm 1927 ông vào Sài Gòn - Chợ Lớn sinh sống và tham gia cách mạng. Năm 1929 gia nhập tổ chức An Nam cộng sản đảng tại chi bộ của hãng Faci ở Khánh Hội do ông Phạm Ký làm Bí thư. Sau khi ba tổ chức Cộng sản được thống nhất thành Đảng cộng sản Đông Dương, ông được bầu làm Bí thư đầu tiên của Tỉnh ủy Chợ Lớn. Ngày 4-6-1930 ông đã cùng với Châu Văn Liêm lãnh đạo cuộc biểu tình của nông dân quận Đức Hòa. Năm 1931 ông bị địch bắt và đày ra Côn Đảo. Năm 1935 ông đã cùng với Ngô Gia Tự vượt ngục bằng đường biển và bị mất tích vì sóng gió ngoài biển khơi."
+  "id" : 1068,
+  "entityName" : "Cù Huy Cận",
+  "aliases" : [ "Huy Cận" ],
+  "overview" : "Thuở nhỏ ông học ở Hà Tĩnh lớn lên vào Huế học trường Quốc học, đậu Tú tài Pháp Việt, tiếp đến ra Hà Nội học Trường Đại học Nông lâm. Thời gian học trung học, Đại học ông tham gia hoạt động văn học và có thơ đăng trên các báo trong Nam, ngoài Bắc: Tràng An, Sông Hương, Ngày Nay, Thanh niên Từ những năm 40 ông vừa học Đại học vừa tham gia hoạt động cách mạng bí mật; đồng thời viết văn làm thơ trong sinh hoạt văn học công khai ở Huế, Hà Nội, Sài Gòn. Năm 1945, ông được cử tham dự Quốc dân Đại hội Tân Trào và được bầu vào ủy ban dân tộc giải phóng toàn quốc. Trong cách mạng tháng 8 năm 1945 ông được sự phân công của Tổng bộ Việt Minh vào Huế (cùng với Trần Huy Liệu, Nguyễn Lương Bằng) nhận sự thoái vị của vua Bảo Đại. Sau đó giữ chức Bộ trường Canh nông và Thanh tra đặc biệt của chính phủ lâm thời (1945), năm 1946 là Thứ trường bộ nội vụ. Sau ngày toàn quốc kháng chiến (19- 12-1946) giữ chức Thứ trưởng Bộ canh nông (1946-1947) rồi Thứ trưởng Bộ kinh tế (1947-1949). Từ năm 1949-1955 là Tổng thư kí Hội đồng chính phủ, rồi giữ chức Thứ trưởng Bộ văn hóa, (1956- 1984), Bộ trưởng Đặc trách công tác văn hóa Thông tin tại văn phòng Hội đồng Bộ trưởng kiêm chủ tịch ủy ban Trung ương Văn học Nghệ thuật Việt Nam, Phó chủ tịch Ủy ban toàn quốc Liên hiệp các Hội văn học nghệ thuật Việt Nam (2004). Các tác phẩm chính: - Lửa Thiêng (thơ, 1940) - Kinh cầu tự (văn, 1942) - Vũ trụ ca (văn, 1942) - Trời mỗi ngày lại sáng (thơ, 1958) - Bài thơ cuộc đời (thơ, 1963) - Phù Đổng thiên vương (thơ, 1968) - Cô gái Mèo (thơ, 1972) - Chiến trường gần đến chiến trường xa (thơ, 1973) - Những người mẹ, những người vợ (thơ, 1974) - Ngày hằng sống, ngày hằng thơ (thơ, 1975) - Sơn Tinh, Thủy Tinh, (thơ, 1976) - Hạt lại gieo (thơ, 1984) - Văn hóa và chính sách văn hóa ở CHCNVN (Pháp ngữ, 1985) - Nước thủy triều Đông (1994) - Hồi kí song đôi (1997) - Tính chất dân tộc trong văn nghệ (1958). - Đất nở hoa (thơ, 1960) - Hai bàn tay em (thơ, 1967) - Những năm sáu mươi (thơ, 1968) - Thiếu niên anh hùng họp mặt (thơ, 1973) - Ngôi nhà giữa nắng (1978) - Tuyển tập thơ (1986) Ông được tặng Giải thưởng Hồ Chí Minh về Văn học - Nghệ thuật Ông mất ngày 19-2-2005 tại Hà Nội, thọ 86 tuổi."
 }

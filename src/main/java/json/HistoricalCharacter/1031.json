@@ -1,19 +1,17 @@
 {
-  "dateOfBirth": "1943 Gò Công,\n----------------------------------------------\nGiáp Tí 1924",
-  "dateOfDeath": "19 tháng 10 năm 2002 Tiền Giang\n----------------------------------------------\nTân Mùi 2001",
-  "hometown": "quê hương tha thiết.\n----------------------------------------------\nquê làng Cổ Am, huyện Vĩnh Bảo, tỉnh Hải Dương (nay là xã Vĩnh Bảo, huyện Vĩnh Bảo, TP",
-  "occupation": "nhạc sĩ\n----------------------------------------------\nTướng lĩnh ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "1496\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "1568\n----------------------------------------------\nMậu Thìn 1568",
+  "hometown" : "quê ở Hoan Châu, Nghệ An (nay thuộc tỉnh Nghệ An)",
+  "occupation" : "Võ tướng đời Hậu Lê",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nam - Bắc Triều" : 19,
+    "nhà Hậu Lê" : null
   },
-  "id": 1031,
-  "entityName": "Hoàng Đình Tí",
-  "aliases": [
-    "Hoàng Phương",
-    "Nguyễn Kim Hoàng"
-  ],
-  "overview": "Hoàng Phương, tên thật Nguyễn Kim Hoàng (1943 – 19 tháng 10 năm 2002) là một nhạc sĩ nhạc vàng tại miền Nam Việt Nam trước năm 1975 và có cả sáng tác sau thời gian này. Những sáng tác của ông chủ yếu viết về tình yêu đôi lứa, tình yêu quê hương tha thiết. Hoàng Phương là tác giả của bài hát nổi tiếng Hoa sứ nhà nàng, bài hát nhạc vàng duy nhất được chính quyền mới cho phép lưu hành sau ngày 30 tháng 4 năm 1975. Ngoài ra ông cũng là chủ của Băng nhạc Gò Công nổi tiếng thập niên 1980-1990. Về cuối đời, Hoàng Phương sống trong cảnh nghèo khổ và mất vì bạo bệnh năm 2002.\n----------------------------------------------\nÔng tham gia cách mạng từ năm 1945 hoạt động trong Đoàn Thanh niên cứu quốc rồi gia nhập Vệ Quốc đoàn chiến đấu ở các chiến trường Bắc Bộ. Từng giữ các chức vụ tham mưu trưởng, chính ủy trung đoàn pháo binh, chủ nhiệm chính trị trường Trung cao cấp quân sự, Phó tổng biên tập rồi Tổng biên tập tạp chí Quân đội nhân dân, Chủ nhiệm chính trị Học viện quân chính, Phó viện trưởng rồi Viện trưởng Viện lịch sử quân sự Bộ Quốc phòng, Đại biểu Quốc hội... Trong suốt hai cuộc kháng chiến chống Pháp, Mĩ ông được tặng thưởng nhiều huân chương cao quí trong đó có hai huân chương quân công hạng nhất. Ông mất trong năm 2001, thọ 77 tuổi."
+  "id" : 1031,
+  "entityName" : "Bùi Tá Hán",
+  "aliases" : [ ],
+  "overview" : "Bùi Tá Hán (1496-1568) , là một danh tướng có công khôi phục nhà Hậu Lê (thời Lê Trung Hưng, 1533-1789) trong lịch sử Việt Nam.\n----------------------------------------------\nĐời Lê Anh tông, khoảng năm Chính Trị (1558-1571), ông được phong làm Bắc quân đô đốc, Thiếu bảo, Trần Quan Công phụng chỉ vào trấn thủ dinh Quảng Nam. Tại đấy, ông và người con trai trưởng là Bùi Tá Thế dày công khai hoang lập ấp, dẹp yên trộm cướp, giữ vững trật tự xã hội. Chính ông đã đã đốc suất dân quân xây đắp lũy dài \"Tịnh Mao\" cao 2 thước, chạy dài từ huyện Tư Nghĩa đến Mộ Đức, tỉnh Quảng Ngãi và lũy Sơn Thành ở An Tân (Quảng Nam án ngự lị sở Thừa Tuyên). Sau, vì khinh địch ông bị quan Chiêm Thành bắt giết tại khu rừng Lăng. Dân chúng chôn cất ông ngay tại khu rừng này. Khi ông mất, được truy tặng Thái bảo. Người con thứ của ông là Bùi Phụ Phang, làm đến Bố chánh tỉnh Sơn Tây, trong đời Thiệu Trị. Năm Minh Mạng 13 (Nhâm thìn 1832), gia phong là Khuông quốc Tịnh biên Thọ phục thượng đẳng thần. Đời Tự Đức, các quan địa phương có dựng bia bên mộ ông, khắc mấy chữ: \"Cố Lê đô đốc Trần Quận Công chi mộ \". Tại Thu Phổ, huyện Tư nghĩa, tỉnh Quảng Ngãi còn có mộ và miếu thờ ông."
 }

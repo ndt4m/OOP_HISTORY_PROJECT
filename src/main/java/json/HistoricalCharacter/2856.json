@@ -1,17 +1,16 @@
 {
-  "dateOfBirth": "Giáp Dần 1914",
-  "dateOfDeath": "Quí Dậu 1993",
-  "hometown": "tại thị xã Hội An, tỉnh Quảng Nam",
-  "occupation": "Giáo sư, nhà nghiên cứu văn học",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "805",
+  "dateOfDeath" : "820",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "nhà Đường" : null
   },
-  "id": 2856,
-  "entityName": "Huỳnh Lý",
-  "aliases": [],
-  "overview": "Thuở nhỏ học ở Hội An, Hà Nội, tốt nghiệp tú tài ông đi làm công chức, rồi dạy học và nghiên cứu văn học cho đến cuối đời. Ông tham gia kháng chiến từ năm 1945, phụ trách ngành Giáo dục, rồi chuyển về dạy học tại Trường Trung học Phan Châu Trinh ngay quê hương của nhà thơ Tây Hồ ở Cẩm Khê (Tam Kì). Sau về phụ trâch Ban Tu thư Nha Giáo dục Liên khu 5 ở Bình Định. Sau hiệp định Genève ông tập kết ra Bắc làm việc ở Ban Tu thư Bộ Giáo dục, tham gia soạn thảo chương trình môn Quốc văn ở trường Trung học và đặt nền móng chương trình văn học tại khoa Văn các Đại học ở Hà Nội. Ông từng là chủ nhiệm (Khoa trưởng) Khoa Văn Trường Đại học Sư phạm Hà Nội, Khoa Văn Trường Đại học Sư phạm Vinh và giáo sư văn học tại các trường trên. Các tác phẩm của ông: Biên khảo - Lược thảo lịch sử văn học Việt Nam (1957-1958) - Mấy bài sử ca trong giai đoạn chống xâm lăng (1958) - Chèo và tuồng (1958) - Hợp tuyển thơ văn (thế kỉ XVII - đầu thế kỉ XX) - Thơ văn Phan Châu Trinh (1983) - Phan Châu Tnnh thân thế và sự nghiệp (1992) Dịch - Bản án chế độ thực dân Pháp (dịch của Nguyễn Ái Quốc) - Những người khốn khổ (dịch của Victor Hugo) - Không gia đình (dịch của Hector Malot) - Grăngđê (dịch của Banzac) - Buồn ơi (dịch của François Sagan) Ông được nhà nước tặng nhiều huân chương cao quí và mất trong năm 1993 tại TP.HCM."
+  "id" : 2856,
+  "entityName" : "Ngô Nguyên Tế",
+  "aliases" : [ ],
+  "overview" : "Ngô Nguyên Tế (chữ Hán: 吳元濟, bính âm: Wu Yuanji, 783 - 12 tháng 12 năm 817 ), là Tiết độ sứ tự xưng tại Chương Nghĩa dưới thời nhà Đường trong lịch sử Trung Quốc. Sau cái chết của cha là Ngô Thiếu Dương năm 814, Ngô Nguyên Tế tự đảm nhận công việc tại Hoài Tây nhưng không được chính quyền trung ương công nhận và bị Đường Hiến Tông (805 - 820) cử quân thảo phạt. Cuối cùng Ngô Nguyên Tế thất bại và bị xử tử năm 817, trấn Hoài Tây trở về sự kiểm soát của triều đình nhà Đường."
 }

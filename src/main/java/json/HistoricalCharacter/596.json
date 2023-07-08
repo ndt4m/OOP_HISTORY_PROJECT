@@ -1,21 +1,14 @@
 {
-  "dateOfBirth": "?",
-  "dateOfDeath": "1000, Hoa Lư, Ninh Bình",
-  "hometown": "Không rõ",
-  "occupation": "Thái tử nhà Tiền Lê",
-  "workTenure": "? - 1000",
-  "fatherName": {
-    "Lê Đại Hành": 2974
-  },
-  "motherName": {},
-  "eraName": {
-    "Nhà Tiền Lê": 8
-  },
-  "id": 596,
-  "entityName": "Lê Long Thâu",
-  "aliases": [
-    "Kình Thiên Vương",
-    "Lê Long Thâu"
-  ],
-  "overview": "Lê Long Thâu (chữ Hán: 黎龍鍮, ? - 1000) là một hoàng tử của nhà Tiền Lê trong lịch sử Việt Nam."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "xã thuộc thị xã Tân Châu, tỉnh An Giang, đồng bằng sông Cửu Long, Việt Nam.",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 596,
+  "entityName" : "Lê Chánh",
+  "aliases" : [ ],
+  "overview" : "Lê Chánh là một xã thuộc thị xã Tân Châu, tỉnh An Giang, đồng bằng sông Cửu Long, Việt Nam."
 }

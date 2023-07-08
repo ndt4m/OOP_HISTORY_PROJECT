@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "1 tháng 7 năm 1915 Hà Nội, Liên bang Đông Dương\n----------------------------------------------\nẤt Hợi 1815",
-  "dateOfDeath": "27 tháng 4, 1998 (82 tuổi) TP. Hồ Chí Minh, Việt Nam\n----------------------------------------------\nTân Dậu 1861",
-  "hometown": "quê làng Mĩ Ngãi, Cao Lãnh (nay thuộc tỉnh Đồng Tháp)",
-  "occupation": "Liệt sĩ cận đại",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Giáp Tuất 1814",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Quê thôn Tiến Lộc, huyện An Phước, tỉnh Ninh Thuận",
+  "occupation" : "Danh sĩ đời ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 2395,
-  "entityName": "Nguyễn Văn Linh",
-  "aliases": [
-    "N"
-  ],
-  "overview": "Nguyễn Văn Linh (1 tháng 7 năm 1915 – 27 tháng 4 năm 1998) là Tổng Bí thư Đảng Cộng sản Việt Nam từ 1986 đến 1991. Thời kỳ là Tổng Bí thư, ông nổi tiếng với bút danh N.V.L. (sau này ông cho biết đó là \"Nói Và Làm\") với một loạt những bài báo trong chuyên mục Những việc cần làm ngay trên báo Nhân dân bàn về những việc cần phải chấn chỉnh trong xã hội. Ông được xem là người mở đường và có công lớn trong công cuộc đổi mới nền kinh tế Việt Nam.\n----------------------------------------------\nBị nội phản ông sa vào tay giặc, chúng dụ hàng, ông bất khuất bị giết trong năm Tân dậu, hưởng dương 46 tuổi. Tương truyền ông có mấy câu cảm khái: Rất tiếc thù chung chưa trả đặng, Sụt sùt chín suối dễ nào nguôi. Mộ ông nay còn tại Mĩ Ngãi, tên ông được dùng đề đặt tên chợ gọi là Chợ Thống Linh, Ngã tư Thống Linh. Người sau có thơ truy niệm ông: Lịch sử đáng nêu cụ Thông Linh. Trung cang vì nước đã quên mình. Giận người sống mất suy ra nhục, Thương kẻ thác còn nghĩ lại vinh. Bao tiếng ngọt ngon lòng chẳng núng, Lắm lần hăm dọa chí không kinh. Ngâm thơ li hận cười người phản, Quốc vận từ đây phú hậu sinh."
+  "id" : 2395,
+  "entityName" : "Phan Cư Chánh",
+  "aliases" : [ "Tử Đan", "Phan Trung", "Phan Chánh", "Bút Phong" ],
+  "overview" : "Năm Tân sửu, ông đỗ cử nhân làm tri huyện Tôn Thạch, sau bị cách. Khi giặc Pháp xâm chiếm Gia Định (1859) ông cùng Trương Định mộ nghĩa binh đánh Pháp. Ít lâu sau ông cho rút quân về Giao Loan tiếp tục kháng chiến. Sau đó triều đình Huế cử giữ chức Điển nông sứ Khánh Hòa. Tại đây ông lo liệu việc tiếp tế quân lương, quân khí cho các nhóm nghĩa quân ở Thuận Khánh, nhất là che chở cho những nhà yêu nước bị tay sai Trần Bá Lộc truy nã. Ông là bạn tâm giao và đồng triều với Nguyễn Thông, Trưởng Gia Hội, Trần Thiện Chánh ở Gia Đinh."
 }

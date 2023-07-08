@@ -1,16 +1,19 @@
 {
-  "dateOfBirth": "1060\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Quê làng Lũng Động, huyện Chí linh, tỉnh Hải Dương, không rõ năm sinh, năm mất",
-  "occupation": "Danh sĩ đời Lý Nhân tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Lý": 14
+  "dateOfBirth" : "19 tháng 8 năm 1917 Bordeaux, Pháp\n----------------------------------------------\nĐinh Tị 1917",
+  "dateOfDeath" : "1998 (81 tuổi) Arkansas, Hoa Kỳ\n----------------------------------------------\nKỉ Mão 1999",
+  "hometown" : "nguyên quán tỉnh Quảng Ngãi sinh tại Sài Gòn, quốc tịch Pháp, con trai Bác sĩ Louis Trần Văn Đôn, bác sĩ điều trị tại Bệnh viện La Lung (Chợ Rẫy, Chợ Lớn)",
+  "occupation" : "Thuộc\n----------------------------------------------\nTrung tướng quân đội Sài Gòn ",
+  "workTenure" : "1939-1965\n----------------------------------------------\nKhông rõ",
+  "fatherName" : {
+    "Bác sĩ Louis Trần Văn Đôn" : null
   },
-  "id": 870,
-  "entityName": "Mạc Hiển Tích",
-  "aliases": [],
-  "overview": "Mạc Hiển Tích (chữ Hán: 莫顯績, 1060 -?), là người đỗ đầu tại khoa thi năm Quảng Hựu thứ 2 (Bính Dần, 1086) thời vua Lý Nhân Tông .\n----------------------------------------------\nNăm Bính dần 1086 ông đỗ Trạng nguyên, em ông là Mạc Kiến Quan cũng trúng tuyển, anh em đều làm đến Thượng thư ở triều đình. Ông là tổ xa đời của Trạng nguyên Mạc Đĩnh Chi đời nhà Trần và Mạc Đăng Dung cũng thuộc dòng dõi ông. Trong Việt sử chí, truyện Lý Cao tông, có chép một đoạn về Mạc Hiển Tích: Năm Mậu thân 1188, đời Lý Cao tông, Mạc Hiển Tích làm chức Thiếu sư, bị một nhóm người có danh vọng và uy tín chỉ trích hành vi lạm quyền, phi pháp. Vụ tranh chấp kiện cáo dằng co gay gắt. Đầu năm Kỉ dậu 1189 vua Lý Cao giao vụ kiện cho Thái phó Ngô Lý Tín, Đô quan lang trung Lê Năng Trường xét xử. Nhưng cả Thái phó và Đô quan đều sợ Hiển Tích nên không dám truy cứu. Vì lúc bấy giờ, vua còn nhỏ tuổi, Hiển Tích tư thông với thái hậu, khiến nguời đương thời sợ Hiển Tích. Trong dân gian có câu ca châm biếm: \"Ngô phụ quốc thị Lan, Lê đô quan thị Kính. Án nhất tụng Mạc Tích, Đàn cục tích nhi di.\" Nghĩa: Phụ quốc Ngô là Lan, Đô quan Lê là Kính. Xử việc kiện Mạc Tích, Chỉ sợ hãi mà thôi! Đem Thái phó Ngô Lý Tín và Lang trung Lê Năng Trường sánh với tên Lan tên Kính là hai thằng điên thuở ấy thật là sự giễu cợt ngạo mạn, tố cáo rõ nét triều chính nhà Lý suy đồi, dẫn đến cảnh sụp đổ là lẽ tất nhiên."
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
+  },
+  "id" : 870,
+  "entityName" : "Trần Văn Đôn",
+  "aliases" : [ ],
+  "overview" : "Trần Văn Đôn (1917- 1998), nguyên là một cựu tướng lĩnh của Quân đội Việt Nam Cộng hòa, cấp bậc Trung tướng. Ông xuất thân từ trường Sĩ quan Trừ bị ở Pháp, sau đó được thụ huấn tiếp ở trường Võ bị của Quân đội thuộc địa Pháp mở ra ở miền Bắc Việt Nam. Ông còn là một cựu chính khách của Việt Nam Cộng hòa. Là một trong những nhân vật chủ chốt trong cuộc Đảo chính ngày 1 tháng 11 năm 1963 lật đổ chính quyền Tổng thống Ngô Đình Diệm. Ông cũng là Phó Thủ tướng và Bộ trưởng Quốc phòng của nền Đệ Nhị Cộng hòa Việt Nam (1967-1975).\n----------------------------------------------\nTừ năm 1945 - 1946 làm phụ tá cho tướng Leclerc ở Đông Dương, các năm 1950, 1951 phục vụ trong quân đội Bảo Đại (Nguyễn Phúc Vĩnh Thụy). Đến năm 1954 phục vụ quân đội Sài Gòn giữ chức Tổng tham mưu trưởng. Năm 1963 được sự đồng tình của Mĩ ông là thành viên của \"Hội đồng quân nhân cách mạng\" đảo chính lật đổ chế độ Ngô Đình Diệm giữ chức Bộ trưởng Bộ quốc phòng, năm 1964 bị tướng Nguyễn Khánh \"chỉnh lí\" bắt giam cùng với Dương Văn Minh, Tôn Thất Đính Lê Văn Kim... Từ năm 1966 ông ra khỏi quân đội Sài Gòn, ứng cử vào Thượng viện Quốc hội, giữ chức chủ tịch Mặt trận cứu nguy dân tộc (1968), Ủy ban Quốc phòng Thượng nghị viện. Sau năm 1975 sống lưu vong ở Mĩ rồi chết bên ấy."
 }

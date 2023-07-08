@@ -1,14 +1,17 @@
 {
-  "dateOfBirth": "1740",
-  "dateOfDeath": "1810",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 206,
-  "entityName": "Nguyễn Văn Trương",
-  "aliases": [],
-  "overview": "Nguyễn Văn Trương (chữ Hán: 阮文張; 1740 - 1810), là một trong Ngũ hổ tướng Gia Định, và là một danh tướng của chúa Nguyễn Phúc Ánh trong lịch sử Việt Nam."
+  "dateOfBirth" : "Bính Thìn 1856",
+  "dateOfDeath" : "Mậu Thân 1908",
+  "hometown" : "người làng Minh Hương, huyện Điện Bàn, tỉnh Quảng Nam (nay thuộc thị xã Hội An, tỉnh Quảng Nam)",
+  "occupation" : "Nhà yêu nước",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nhà Nguyễn độc lập" : 30
+  },
+  "id" : 206,
+  "entityName" : "Châu Thuợng Văn",
+  "aliases" : [ "Thơ Đồng" ],
+  "overview" : "Ông nhiệt thành yêu nước, cùng các đồng chí tâm giao hăng say tích cực hoạt động cứu nước. Năm Mậu thân 1908, nhân vụ kháng sưu chống thuế ông bị bắt giam. Ngay từ ngày vào ngục, ông tuyệt thực, chỉ uống nước trà cầm hơi. Trên 20 ngày, nhà cầm quyền vẫn thản nhiên, lại đưa ông đi đày Lao Bảo. Nhưng đến Huế thì ông mất trong lao Phủ Thừa. Khi ông vào ngục, gặp các đồng chí, lúc ấy sức khỏe ông đã suy giảm lắm rồi, gượng bảo cùng Hoàng Thúc Kháng: \"Tôi tuyệt thực chết đi vẫn là làm việc dễ; còn phần khó xin các anh em cố gắng thành toàn công cuộc cứu nước\". Hoàng Thúc Kháng bình phẩm về ông: \"Bị giam trong ngục mà nhịn ăn, từ thánh Cam địa (Gandhi) Ấn Độ về sau, nhiều nơi bắt chước đã thành việc cơm bữa không lạ gì. Nhưng Châu quân lại trước Cam địa và nhất định tuyệt thực đến chết, cao hơn thánh hùng Cam địa một bậc nhỉ\"."
 }

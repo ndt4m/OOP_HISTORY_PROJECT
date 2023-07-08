@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Tân Tị 1041",
-  "dateOfDeath": "Quí Tị 1113",
-  "hometown": "Quê làng Phù Đổng, huyện Tiên Du, Bắc Ninh (nay thuộc tỉnh Bắc Ninh)",
-  "occupation": "Nữ thiền gia",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Lý": 14
+  "dateOfBirth" : "Mậu Ngọ 1678",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Bật Viễn, huyện Nghi Xuân, tỉnh Hà tĩnh",
+  "occupation" : "Dật sĩ đời Lê Dụ tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
   },
-  "id": 184,
-  "entityName": "Diệu Nhàn",
-  "aliases": [],
-  "overview": "Bà được Lý Thánh tông nuôi dạy ở trong cung từ bé, đến trưởng thành, vua gả bà cho người họ Lê làm Châu mục Châu Đăng (vùng Tam Nông, Hưng Hóa, nay thuộc tỉnh Vĩnh Phú). Không bao lâu chồng mất, bà xuống tóc đi tu, đem hết của cải bố thí. Sư Chân Không (Vương Hải Thiềm) thuyết giáo và đặt pháp danh cho bà là Ni sư Diệu Nhàn. Về sau, bà nối truyền đứng vào thế hệ thứ 17 dòng thiền Nam phương. Ngày 1-6 ÂL, Quí tị (15-7-1113) bà mất, thọ 72 tuổi. Ngày nay còn lưu truyền một bài kệ của bà. \"Sinh lão bệnh tử, Tự cổ thường nhiên, Dục cầu xuất lí, Giải phược thiêm triền. Mê chi cầu Phật, Hoặc chi cầu thiên, Thiên Phật bất cầu Uổng khẩu vô ngôn.\" Bản dịch: Sinh, lão, bệnh, tử, Lẽ thường tự nhiên, Muốn cảnh siêu thoát, Càng trói buộc thêm. Mê, phải cầu Phật, Hoặc, phải cầu Thiên. Chẳng cần Thiên, Phật, Mím miệng ngồi yên."
+  "id" : 184,
+  "entityName" : "Đặng Thái Phương",
+  "aliases" : [ ],
+  "overview" : "Ông đỗ khoa Hoành từ năm 22 tuổi, sơ bổ Tri phủ Giáp Sơn, rồi đổi sang phủ Đông Trạch. Chán công danh, ông xin về hưu. Trong 18 năm không giao du với ai cả, chuyên tâm đọc sách, đặc biệt nghiên cứu Kinh Dịch. Năm Quí hợi 1743, tuổi ông đã gần 70 mà triều đình vẫn còn yêu dùng, bổ ông làm Tham nghị tại Sơn Nam. Ông còn để lại tác phẩm Châu dịch quốc âm giải nghĩa 2 quyển. Có bài tựa của Hạo Hiệp Nguyễn Kiều và tựa của Di Trai Võ Khâm Lân."
 }

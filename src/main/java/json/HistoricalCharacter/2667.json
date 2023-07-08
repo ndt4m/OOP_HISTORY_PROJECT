@@ -1,20 +1,17 @@
 {
-  "dateOfBirth": "1265\n----------------------------------------------\nẤt Sửu 1265",
-  "dateOfDeath": "1326\n----------------------------------------------\nBính Dần 1326",
-  "hometown": "quê làng Tri Lai, tổng Tri Lai, Đại Việt (nay thuộc xã Phú Xuân – Thành phố Thái Bình, tỉnh Thái Bình, Việt Nam);\n----------------------------------------------\nquê ở Hoàng Giang",
-  "occupation": "Văn thần đời Trần Anh tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Trần": 15,
-    "nhà Trần": null
+  "dateOfBirth" : "1452\n----------------------------------------------\nCanh Ngọ 1450",
+  "dateOfDeath" : "1516\n----------------------------------------------\nĐinh Mão 1497",
+  "hometown" : "quê xã Mộ Trạch, huyện Đường An, phủ Bình Giang, tỉnh Hải Dương (nay là xã Tân Hồng, tỉnh Hải Dương)",
+  "occupation" : "Danh sĩ đời Lê Thánh tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "nhà Lê" : null,
+    "Triều Lê Sơ" : 7
   },
-  "id": 2667,
-  "entityName": "Bùi Mộc Đạc",
-  "aliases": [
-    "Phí Mộc Lạc",
-    "Minh Đạo"
-  ],
-  "overview": "Bùi Mộc Đạc (chữ Hán: 裴木鐸, 1265-1326), quê làng Tri Lai, tổng Tri Lai, Đại Việt (nay thuộc xã Phú Xuân – Thành phố Thái Bình, tỉnh Thái Bình, Việt Nam); là một quan văn nhà Trần.\n----------------------------------------------\nÔng làm quan đến Trung thứ thị lang, Tri thẩm hình viện sự, Thị trung đại phu. Năm Bính ngọ 1306, ông cùng Hàn Lâm học sĩ Lê Tông Nguyên đi sứ sang nhà Nguyên đáp lễ. Tính người cẩn thận cung kính, văn chất khả quan, từng làm quan qua 3 triều. Khi Thượng hoàng Trần Anh tông sắp mất, dặn lại Minh tông phải cất nhắc ông, đối xử cho khéo. Minh tông bèn sai vẽ chân dung ông cất ở kho sách, và có ý sẽ dùng ông vào chức lớn. Nhưng đến năm Bính dần 1326, tháng 3, chưa kịp được thăng thưởng thì ông mất, thọ 61 tuổi."
+  "id" : 2667,
+  "entityName" : "Võ Quỳnh",
+  "aliases" : [ "Thủ Phác", "Yến Xương", "Vũ Quỳnh", "Đốc Trai", "Viên Ôn" ],
+  "overview" : "Vũ Quỳnh (武瓊, 1452-1516) là một vị quan nhà Lê sơ và đồng thời cũng là một trong những người đóng góp xây dựng bộ quốc sử Việt Nam, bộ Đại Việt sử ký toàn thư.\n----------------------------------------------\nNăm Mậu tuất 1478 ông đỗ Hoàng giáp, phục vụ 5 triều vua, làm đến Thượng thư bộ Lễ, bộ Công, bộ Binh kiêm Tư nghiệp Quốc tử giảm, vào giảng sách ở tòa Kinh Diên kiêm Tổng tài Quốc sử quán... Năm Đinh mão 1497 ông mất, hưởng dương 47 tuổi. Các tác phẩm chính của ông: - Đại Việt thông giám thông khảo (từ Hồng Bàng đến Lê Thải tổ, 26 quyển). - Tham bổ Lĩnh Nam chích quái (ông và Kiều Phú hiệu chính và đề tựa năm 1492). - Tố cầm tập (sách dạy đàn) - Đại thành toán pháp Con ông là Võ Cán cũng là bậc danh sĩ."
 }

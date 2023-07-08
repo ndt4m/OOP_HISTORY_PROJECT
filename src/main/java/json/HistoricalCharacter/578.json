@@ -1,14 +1,19 @@
 {
-  "dateOfBirth": "sinh năm 1920",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 578,
-  "entityName": "Đặng Văn Việt",
-  "aliases": [],
-  "overview": "Đặng Văn Việt (sinh năm 1920) là một cựu trung tá Quân đội Nhân dân Việt Nam. Ông nguyên là trung đoàn trưởng đầu tiên của Trung đoàn 174 - một trong 3 trung đoàn chủ lực đầu tiên của Quân đội Nhân dân Việt Nam. Ông từng được người Pháp mệnh danh là \"Con hùm xám đường số 4\" do thành tích chỉ huy đơn vị mình trong Chiến dịch Biên giới thu đông 1950, bắt sống cả hai chỉ huy binh đoàn Pháp là các Trung tá Marcel Lepage và Pierre Charton."
+  "dateOfBirth" : "1740 ?\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "13 tháng 2, 1791 (50–51 tuổi) Ai Lao\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Trịnh Vương\n----------------------------------------------\nChúa thứ mười đời Lê mạt",
+  "workTenure" : "tháng 9 năm 1786 – tháng 9 năm 1787\n----------------------------------------------\nKhông rõ",
+  "fatherName" : {
+    "Uy Nam Vương Trịnh Giang" : null
+  },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34,
+    "Chúa Trịnh" : 26
+  },
+  "id" : 578,
+  "entityName" : "Trịnh Bồng",
+  "aliases" : [ "Trịnh Bồng (鄭槰)", "Án Đồ Vương", "Côn Quận Công Án Đô Vương" ],
+  "overview" : "Án Đô Vương Trịnh Bồng (chữ Hán: 鄭槰; 1740? - 13 tháng 2, 1791), là vị chúa Trịnh thứ 11 thời Lê Trung Hưng và cũng là vị chúa cuối cùng trong lịch sử Việt Nam. Nguyên quán Trịnh Bồng ở làng Sóc Sơn, huyện Vĩnh Lộc, Thanh Hóa, Việt Nam.\n----------------------------------------------\nKhi nghĩa quân Tây Sơn ra Bắc phù Lê diệt Trịnh, diệt xong đồ đảng họ Trịnh rồi rút về Nam, một nhóm cánh họ Trịnh đưa ông lên làm chúa. Lúc ấy, Vua Chiêu Thống phải gọi Nguyễn Hữu Chỉnh ra đánh dẹp. Tay chân ông không chống cự nổi, bỏ chạy lên miền ngược. Ông cô thế chán đời bỏ đi tu và mất năm nào không rõ. Kể từ đó (1788) họ Trịnh chấm dứt vai trò lịch sử."
 }

@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 2842,
-  "entityName": "Nguyễn Thị Bích",
-  "aliases": [],
-  "overview": "Nguyễn Thị Bích có thể là"
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Đồng Qui, nay thuộc xã Nam Tiến, huyện Nam Ninh, tỉnh Hà Nam",
+  "occupation" : "Người đời Lê Anh tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Triều Lê Sơ" : 7
+  },
+  "id" : 2842,
+  "entityName" : "Nguyễn Mlnh Trí",
+  "aliases" : [ ],
+  "overview" : "Ông xuất thân là thợ đúc đồng, giữa lúc nhà Mạc và vua Lê tranh hùng ông sung quân giúp nhà Lê, đóng đồn ở An Tây. Năm Kỉ mùi 1559, quân Minh (Trung Quốc) vượt biên xâm chiếm vùng biên giới, tướng chỉ huy đồn An Tây bị giết, quân sĩ vỡ chạy. Bấy giờ Nguyễn Minh Trí là Ngũ trưởng, chỉ huy đội hỏa đầu quân 11 người. Tình thế nguy ngập, ông liều mình cùng 11 quân hỏa đầu võ trang xông vào đánh liều với giặc. Ông dùng toàn lực chém đứt đuôi một con voi trận của tướng giặc. Voi lồng tháo chạy, hất ngã quản tượng, quân giặc kinh hoàng tan vỡ. Quân ta thấy thế quay trở lại, đánh đuổi được giặc. Được tin báo cáo, Lê Anh tông phong thưởng cho ông làm tướng, và về sau phong tước Nghĩa thành Quận Công. Nhà vua có bài thơ khen ngợi: \"Biên đình thập tướng đổng nguyên nhung, Nhật trận phong ba độc nhữ hùng. Tượng vĩ nhất huy truyền bảo kiếm, Mã đề độc tẩu đoạt kì công.\" Dịch: Chỉ huy mười tướng chức nguyên nhung, Gặp trận phong ba tỏ sức hùng. Bảo kiếm vung lên đuôi tượng đứt Một mình ruỗi ngựa lập công công."
 }

@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "…",
-  "dateOfDeath": "Canh Tuất 1910",
-  "hometown": "quê làng Yên Hội, phủ Đức Thọ, tỉnh Hà Tĩnh (nay là xã Tùng Ninh, huyện Đức Thọ, tỉnh Hà Tĩnh)",
-  "occupation": "Nhà yêu nước ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Bính Tí 1516",
+  "hometown" : "huyện Văn Lang, tỉnh Bắc Ninh",
+  "occupation" : "Vợ của Lê Tương Dực, con gái Đại phu Nguyễn Quản Lĩnh",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Triều Lê Sơ" : 7
   },
-  "id": 2572,
-  "entityName": "Phạm Văn Ngôn",
-  "aliases": [
-    "Tùng Nham"
-  ],
-  "overview": "Ông đỗ tú tài Hán học nên thường gọi là Tú Nghệ. Những năm 1900 ông tích cực hoạt động cùng với Đặng Thái Thân. Em trai ông là Phạm Văn Thản và Phạm Dương Nhân đều nhiệt tình yêu nước. Năm 1905 Phan Bội Châu sang Nhật, ông cho em là Phạm Dương Nhân cùng đi theo, còn ông thì hoạt động trên vùng thượng du miền Bắc và các vùng núi Nghệ Tĩnh. Tại đây ông liên kết với Hoàng Hoa Thám lập một đồn gần Phồn Xương thuộc Yên Thế, gọi là đồn Tú Nghệ. Trước sau ông cương quyết chủ trương phải bạo động vũ trang, chiến đấu trực tiếp với quân thù để hỗ trợ cho các cuộc vận động cứu nước khác mới mong giành được độc lập. Năm 1909, trong một đêm tháng 4 ông về hoạt động ở Nghệ An, bị lộ rồi bị bắt giam, đày ra Côn Đào. Năm 1910 ông mất tại Côn Đảo, thầy dạy của ông là Đặng Nguyên Cấn xót xa khóc ông: Đen vàng chưa định, đời chưa hiếm tài dùng, đã dậy mà ngã ấy ai ư? đã ngã mà lại dậy ấy ai ư? đặt ta giữa góc biển chân trời, cầu khắp muôn hồn đồng cứu nước; Lừa lọc vô tình, trời xem ra say quýt, nọ nên chết sao sống nhăn kia vậy, nọ đáng sống sao lại chết tươi như vậy, xót người chỉ tay không mặt trắng, ruỗi dong một kiếp hẳn quên nhà."
+  "id" : 2572,
+  "entityName" : "Khâm Đức",
+  "aliases" : [ ],
+  "overview" : "Bà hiền hậu, đảm đang, được Tương Dực đế lập làm Hoàng hậu sinh được 3 gái. Năm Bính tí 1516, Tương Dực bị Trịnh Duy Sản giết. Bà nghe biến cố xảy ra, bàng hoàng tự nghĩ không tham sống nữa, bèn đến điện Tân Thanh, tự thiêu mà chết. Sau, được truy dâng tôn thụy là \"Khâm Đức Trinh liệt đôn tiết hoàng hậu\"."
 }

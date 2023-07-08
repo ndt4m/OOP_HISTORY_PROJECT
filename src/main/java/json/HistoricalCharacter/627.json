@@ -1,17 +1,16 @@
 {
-  "dateOfBirth": "912\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath": "967\n----------------------------------------------\nKhông rõ",
-  "hometown": "Không rõ",
-  "occupation": "Danh tướng nhà Ngô, có công giúp Ngô Xương Văn trở về đoạt lại chính quyền trong tay Dương Tam Kha vào năm Canh tuất 950. Do công ấy, ông được trọng dụng.",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Ngô": 25,
-    "nhà Ngô": null
+  "dateOfBirth" : "Ất Dậu 1885",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "tại Hà Nội (nay vẫn thuộc TP",
+  "occupation" : "Tổng đốc, Nhà doanh điền cuối triều Nguyễn",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 627,
-  "entityName": "Đỗ Cảnh Thạc",
-  "aliases": [],
-  "overview": "Đỗ Cảnh Thạc (chữ Hán: 杜景碩; 912 - 967) là tướng nhà Ngô, sau trở thành một thủ lĩnh thời loạn 12 sứ quân trong lịch sử Việt Nam. Ông là tướng quân được biết đến với đặc điểm chỉ còn một tai, tức Độc nhĩ đại vương. Xuất thân là tướng nhà Ngô, khi Ngô Xương Văn chết, các tướng là Lã Xử Bình, Kiều Tri Hựu, Dương Huy và Đỗ Cảnh Thạc cùng tranh giành ngôi Vua, nước Việt (khi đó là Tĩnh Hải quân) bị rơi vào thời loạn loạn lạc. Sau ông kéo quân về chiếm đóng căn cứ Đỗ Động Giang, mở mang và cai quản một vùng rộng lớn phía Tây Nam Hà Nội ngày nay. Sau hơn một năm giao tranh, ông bị lực lượng của Đinh Bộ Lĩnh đánh dẹp năm 967 trong quá trình thống nhất đất nước Đại Cồ Việt.\n----------------------------------------------\nNăm Ất sửu 965, Nam Tấn vương Ngô Xương Văn mất, con là Xương Xí lên ngôi. Nhà Ngô suy, ông nhân thời cơ nổi lên tranh giành với đám quần hùng, gây nên loạn sứ quân vào thời ấy. Ông chiếm cứ vùng Đỗ Động Giang (nay là làng Bảo Đà, huyện Thanh Oai) danh ông oanh liệt một thời. Đến Mậu thìn 968, ông bị tướng của Vạn Thắng vương Đinh Bộ Lĩnh là Trần Ứng Long dẹp tan. Ông chính là vị sứ quân cuối cùng trong cuộc bình định của nhà Đinh."
+  "id" : 627,
+  "entityName" : "Bùi Thiện Căn",
+  "aliases" : [ ],
+  "overview" : "Xuất thân trong một gia đình quan lại, con trai ông Bùi Khánh Diễn, cựu cố vấn Tòa Thượng thẩm Hà Nội, anh trai Tổng đốc Hải Dương Bùi Thiện Cơ và là thân phụ luật sư Bùi Tường Chiểu (luật sư Tòa Thượng thẩm Hà Nội), kĩ sư Bùi Tường Viên (kĩ sư ngành gốm sứ cao cấp ở Trường Mĩ thuật) và ông Bùi Tường Hách (Thanh tra sở Thủy lâm). Khi làm quan ở Ninh Bình, ông có công cho xây một con đê ngăn nước mặn ở Kim Sơn và lấn biền lập các làng mới ở tổng Tuy Lộc, huyện Kim Sơn. Khi ở Ninh Giang (Hải Dương), ông cũng cho đào một con kênh dài hơn 1 km để đem nước ngọt vào tưới ruộng cho tổng Văn Hội giúp nông dân có điều kiện canh tác. Lúc trấn nhiệm ở tỉnh Phú Thọ, ông cho thiết lập hơn 700 khu tá canh nhỏ ở các địa phương trong tỉnh và khuyến khích công cuộc mở đồn điền trồng chè và góp công vào việc xây dựng đường sá giúp cho việc giao thông thuận lợi. Nhờ vậy sản lượng chè Phú Thọ lên rất cao và nổi tiếng trên thị trường chè Đông Dương. Ông được Nam triều và chính phủ Pháp tặng nhiều bội tinh."
 }

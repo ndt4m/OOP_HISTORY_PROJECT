@@ -1,16 +1,20 @@
 {
-  "dateOfBirth": "…",
-  "dateOfDeath": "Bính Dần 546",
-  "hometown": "Không rõ",
-  "occupation": "Quốc sư triều Lý Nam Đế (Lý Bôn).",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Tiền Lý, Triệu": null
+  "dateOfBirth" : "1320",
+  "dateOfDeath" : "3 tháng 10, 1363 Hồ Bà Dương",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Đại Hán",
+  "workTenure" : "1360 - 1363",
+  "fatherName" : {
+    "Trần Phổ Tài" : null
   },
-  "id": 1562,
-  "entityName": "Tinh Thiều",
-  "aliases": [],
-  "overview": "Ông giỏi việc chính sự, giàu mưu lược. Khi nhà Lương cai trị nước ta, có lần họ mở cuộc chọn người bản xứ ra giúp việc nước, ông ra thi được trúng tuyển. Thượng thư bộ Lại nhà Lương là Thái bổ ông làm Quảng Dương môn lang (một chức phủ thuộc hàng thư lại). Ông lấy làm xấu hổ, bỏ về làng ẩn cư không hợp tác với nước ngoài. Khi nghe tiếng Lý Bôn khởi nghĩa chống quận Lương có ý giành quyền tự chủ cho dân nước, ông hăng hái ra giúp sức. Bộ tham mưu do ông điều khiển rất đắc lực; lo tuyên truyền, vận động dân chúng cùng chống giặc Lương, cự Lâm Ấp nhằm giành độc lập tự chủ cho dân tộc. Năm Tân dậu 541 cuộc khởi nghĩa thành công ông là một tướng văn được Lý Nam Đế hết mực trọng vọng, xem như bậc Quốc sư. Ông hết lòng sửa sang việc chính trị, giúp nhà Lý thu phục lòng dân, giữ yên mối nước, xây nền độc lập dân tộc. Năm Ất sửu 545, giặc Lương lại kéo sang xâm lăng nước ta lần nữa. Ông bệnh mất trong cơn loạn lạc vào năm Bính dần 546. Sau đó Lý Nam Đế ở động Khuất Liêu (548), Triệu Quang Phục thay Lý Nam Đế nắm binh quyền tiếp tục kháng chiến đến thắng lợi cuối cùng."
+  "motherName" : {
+    "?" : null
+  },
+  "eraName" : {
+    "Đại Hán (大漢)" : null
+  },
+  "id" : 1562,
+  "entityName" : "Trần Hữu Lượng",
+  "aliases" : [ "Trần Hữu Lượng", "không", "Cao Tổ (高祖)", "Đại Nghĩa 1360 Đại Định 1361-1363" ],
+  "overview" : "Trần Hữu Lượng (chữ Hán: 陳友諒; sinh năm 1320, mất ngày 3 tháng 10 năm 1363) là một thủ lĩnh quân phiệt thời \"Nguyên mạt Minh sơ\" trong lịch sử Trung Quốc, là người Miện Dương, Hồ Bắc . Ông nguyên họ Tạ, nhưng vì tổ tiên ở rể nhà họ Trần, nên sau này lấy theo họ đó."
 }

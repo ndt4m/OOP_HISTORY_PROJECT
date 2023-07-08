@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "17 tháng 7 năm 1952 Hàng Bồ, Hà Nội",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 2975,
-  "entityName": "Lê Uyên",
-  "aliases": [],
-  "overview": "Lê Uyên là một nữ ca sĩ người Việt thành danh ở Sài Gòn vào thập niên 1970. Tiếng hát Lê Uyên luôn gắn liền với âm nhạc của chồng cô, nhạc sĩ Lê Uyên Phương."
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Giáp Tí 1804",
+  "hometown" : "quê huyện Nam Đàn, tỉnh Nghệ An",
+  "occupation" : "Văn thần đời Lê Hiển tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
+  "id" : 2975,
+  "entityName" : "Lê Hân",
+  "aliases" : [ ],
+  "overview" : "Ông ở Trung Quốc suốt 14 năm, làm thầy thuốc trị bệnh có tiếng, được quan Thái thú họ Lưu gả con gái cho. Đến Giáp tí 1804, ông theo phò hài cốt Chiêu Thống về nước. Khi về đến Thăng Long, ông bệnh mất được chôn ở bên lăng Chiêu Thống."
 }

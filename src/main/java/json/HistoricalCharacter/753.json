@@ -1,17 +1,17 @@
 {
-  "dateOfBirth": "Canh Tuất 1850",
-  "dateOfDeath": "Bính Dần 1926",
-  "hometown": "quê làng Hiền Lương (tục gọi làng Rèn), huyện Quảng Điền, tỉnh Thừa Thiên, nhạc phụ Phụng Hóa Công (vua Khải Định)",
-  "occupation": "Phụ chánh đại thần triều Thành Thái Duy Tân",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "1795\n----------------------------------------------\nẤt Mão 1795",
+  "hometown" : "Không rõ",
+  "occupation" : "Danh tướng nhà Tây Sơn, lừng danh trong trận đánh đuổi quân Thanh trong năm Kỉ dậu 1789.",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Tây Sơn" : 21,
+    "nhà Tây Sơn" : null
   },
-  "id": 753,
-  "entityName": "Trương Như Cương",
-  "aliases": [],
-  "overview": "Năm 1873 đỗ Cử nhân, sơ bổ Thừa biện tàng thư, tiếp theo được thăng Tư vụ, Viên ngoại, rồi Tri phủ, Án sát tỉnh Hưng Yên, Bố chánh Quảng Bình, rồi về triều giữ chức Thị lang Bộ Binh. Năm 1885, kinh thành thất thủ, tiếp sau Nguyễn Phúc Ưng Ki lên ngôi (tức Vua Đồng Khánh) ông được bổ làm Phủ doãn Thừa Thiên; Tuần vũ, Tổng đốc Thanh Hóa. Sau đó về triều giữ chức Thượng thư Bộ Công sung Cơ mật viện đại thần, Võ hiển Đại học sĩ rồi giữ chức Phụ chánh đại thần tước Hiền Lương bá, đến đời vua Duy tân được tấn phong Hiền Lương hầu. Ông là người giữ chức Phụ chánh đại thần qua các triều Đồng Khánh, Thành Thái, Duy Tân. Tương truyền khi vua Đồng Khánh mới lên ngôi, vua đến đền Ngọc Trản (điện Hòn Chén - là ngôi đền thờ Tiên Thiên thánh mẫu rất linh ứng lúc bấy giờ ở Huế) xin xăm, Thánh mẫu bút phê \"Trương Như Cương\" nên ông được bổ làm Phủ doãn Thừa Thiên bất chấp lệ triều đình không bổ người bản quân làm quan đứng đầu tỉnh Thừa Thiên. Kế tiếp giữ chức Tổng đốc Thanh Hóa cũng là một ngoại lệ vì triều Nguyễn không bao giờ bổ người \"bách tính\" giữ chức vụ này ở bản quán của Nguyễn triều (chúa và vua Nguyễn gốc tỉnh Thanh Hóa). Dư luận đương thời cho rằng ông là người có mối quan hệ chặt chẽ với người Pháp nên mới được giữ những chức vụ quan trọng trong hoạn lộ của mình. Năm Bính dân 1926, ông mất thọ 76 tuổi được tấn phong Văn minh điện đại học sĩ ."
+  "id" : 753,
+  "entityName" : "Ngô Văn Sở",
+  "aliases" : [ "Ngô Hồng Chấn" ],
+  "overview" : "Ngô Văn Sở (chữ Hán: 吳文楚, ? - 1795), còn có tên là Ngô Hồng Chấn, Ngô Văn Tàng; là một danh tướng của nhà Tây Sơn trong lịch sử Việt Nam.\n----------------------------------------------\nÔng theo giúp Tây Sơn, rất dày công trận Năm Đinh mùi 1787, ông được cử làm Tham tán quân vụ, cùng Võ Văn Nhậm trấn thủ Thăng Long. Về sau Võ Văn Nhậm sinh lòng phản trắc nên bị Bắc Bình vương Nguyễn Huệ giết (Nhậm là con rể của Nhạc) ông được cử thay Nhậm làm Đại tư mã, lãnh Trấn thủ Thăng Long. Năm Mậu thân 1788, tháng 11 âm lịch, trước sức tấn công của 80.000 quân Thanh do Tôn Sĩ Nghị chỉ huy tràn sang xâm lược nước ta dưới chiêu bài cứu nguy cho Lê Chiêu Thống. Ông nghe theo mưu của Ngô Thì Nhậm rút quân về đóng giữ ở núi Tam Điệp, rồi cấp cáo với Bắc Bình vương. Được tin, để thúc giục lòng dân quân, Bắc Bình vương làm lễ đăng quang tức vua Quang Trung, hạ lệnh cho ông và Phan Văn Lân đem quân đi tiên phong tiến đánh giặc Thanh. Ông cùng các tướng dưới quyền chỉ huy của vua Quang Trung dẹp tan quân giặc vang lừng chiến thắng trận Hạ Hồi, Bình Vọng, Đống Đa. Ông mất năm 1795."
 }

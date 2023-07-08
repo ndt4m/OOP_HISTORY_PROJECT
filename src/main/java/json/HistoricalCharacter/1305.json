@@ -1,21 +1,14 @@
 {
-  "dateOfBirth": "Giáp Tuất 1814",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Quê thôn Tiến Lộc, huyện An Phước, tỉnh Ninh Thuận",
-  "occupation": "Danh sĩ đời ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
-  },
-  "id": 1305,
-  "entityName": "Phan Cư Chánh",
-  "aliases": [
-    "Tử Đan",
-    "Phan Trung",
-    "Phan Chánh",
-    "Bút Phong"
-  ],
-  "overview": "Năm Tân sửu, ông đỗ cử nhân làm tri huyện Tôn Thạch, sau bị cách. Khi giặc Pháp xâm chiếm Gia Định (1859) ông cùng Trương Định mộ nghĩa binh đánh Pháp. Ít lâu sau ông cho rút quân về Giao Loan tiếp tục kháng chiến. Sau đó triều đình Huế cử giữ chức Điển nông sứ Khánh Hòa. Tại đây ông lo liệu việc tiếp tế quân lương, quân khí cho các nhóm nghĩa quân ở Thuận Khánh, nhất là che chở cho những nhà yêu nước bị tay sai Trần Bá Lộc truy nã. Ông là bạn tâm giao và đồng triều với Nguyễn Thông, Trưởng Gia Hội, Trần Thiện Chánh ở Gia Đinh."
+  "dateOfBirth" : "18 tháng 8, 1945 (75 tuổi) xã Bình Ân, huyện Gò Công Đông, tỉnh Tiền Giang, Việt Nam",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Thành phố Hồ Chí Minh",
+  "occupation" : "chính trị gia",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 1305,
+  "entityName" : "Trương Mỹ Hoa",
+  "aliases" : [ "Bảy Thư" ],
+  "overview" : "Trương Mỹ Hoa (tên thường gọi Bảy Thư, sinh ngày 18 tháng 8 năm 1945) là một nữ chính trị gia người Việt Nam. Bà từng là Bí thư Trung ương Đảng, Phó Chủ tịch nước Cộng hòa Xã hội Chủ nghĩa Việt Nam nhiệm kì 2002-2007, Phó Chủ tịch Quốc hội nước Cộng hòa Xã hội Chủ nghĩa Việt Nam, Chủ tịch Hội Liên hiệp phụ nữ Việt Nam, đại biểu Quốc hội Việt Nam khóa X nhiệm kì 2002-2007 thuộc đoàn đại biểu tỉnh Tiền Giang. Hiện bà đang là Chủ tịch Hội đồng quản lý Quỹ học bổng Vừ A Dính."
 }

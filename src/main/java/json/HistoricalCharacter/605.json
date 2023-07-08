@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "21 tháng 1, 1949 (70 tuổi) Đức Hòa, Long An, Quốc gia Việt Nam",
-  "dateOfDeath": "2016",
-  "hometown": "Thành phố Hồ Chí Minh",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 605,
-  "entityName": "Trương Tấn Sang",
-  "aliases": [],
-  "overview": "Trương Tấn Sang (sinh 21 tháng 1 năm 1949) là Chủ tịch nước thứ 7 của nước Cộng hòa xã hội chủ nghĩa Việt Nam (nhiệm kỳ từ 25 tháng 7 năm 2011 cho đến 2 tháng 4 năm 2016), là Đại biểu Quốc hội Việt Nam (khoá IX, X, XI, XIII), Ủy viên Bộ Chính trị Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam (khóa VIII, IX, X, XI), Trưởng ban Ban Chỉ đạo Cải cách Tư pháp Trung ương (2011-2016), Thường trực Ban Bí thư Trung ương Đảng khóa X, Trưởng ban Ban Kinh tế Trung ương (2000-2006), Bí thư Thành ủy Thành phố Hồ Chí Minh (1996-2000) và Chủ tịch Ủy ban Nhân dân Thành phố Hồ Chí Minh (1992-1996)."
+  "dateOfBirth" : "Kỉ Tỵ 1449",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Cao Xá, huyện Đông Thành, tỉnh Nghệ An",
+  "occupation" : "Danh thần đời Lê Thánh tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Triều Lê Sơ" : 7
+  },
+  "id" : 605,
+  "entityName" : "Cao Quýnh",
+  "aliases" : [ ],
+  "overview" : "Nguyên trước tên là Lô, sau nhà vua đổi tên là Quýnh. Ông 26 tuổi làm đến Đông các đại học sĩ. Ông giỏi văn học mà cũng giỏi thuật số, khi ông mất, tên tuổi vẫn thường được đời nhắc nhở. Mãi đến nhà Nguyễn, các triều đại vẫn còn truy phong ông Thượng đẳng phúc thần."
 }

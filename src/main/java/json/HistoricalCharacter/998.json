@@ -1,16 +1,20 @@
 {
-  "dateOfBirth": "34",
-  "dateOfDeath": "156",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 998,
-  "entityName": "Trương Đạo Lăng",
-  "aliases": [
-    "Phụ Hán"
-  ],
-  "overview": "Trương Lăng (chữ Hán: 張陵; 34 – 156), biểu tự Phụ Hán (輔漢), được xem là người đã sáng lập ra giáo phái Ngũ Đấu Mễ Đạo cùng Chính Nhất Đạo trong Đạo giáo Trung Quốc."
+  "dateOfBirth" : "12 tháng 6, 1107",
+  "dateOfDeath" : "9 tháng 11, 1187 (80 tuổi) Trung Quốc",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Đại Tống",
+  "workTenure" : "12 tháng 6 năm 1127 – 24 tháng 7 năm 1162 (35 năm, 42 ngày)",
+  "fatherName" : {
+    "Tống Huy Tông" : null
+  },
+  "motherName" : {
+    "Vi Hiền phi" : null
+  },
+  "eraName" : {
+    "Nhà Nam Tống" : null
+  },
+  "id" : 998,
+  "entityName" : "Triệu Cấu",
+  "aliases" : [ "Cao Tông (高宗)", "Triệu Cấu (趙構)", "Đức Cơ", "Thụ Mệnh Trung Hưng Toàn Công Chí Đức Thánh Thần Vũ Văn Chiêu Nhân Hiến Hiếu Hoàng đế (受命中兴全功至德圣神武文昭仁宪孝皇帝)", "Tĩnh Viêm (靖炎) hay Kiến Viêm (建炎) (1127 - 1130) Thiệu Hưng (紹興; 1130 - 1162)" ],
+  "overview" : "Tống Cao Tông (chữ Hán: 宋高宗, 12 tháng 6 năm 1107 - 9 tháng 11 năm 1187), tên húy là Triệu Cấu (chữ Hán: 趙構), tên tự là Đức Cơ (德基), là vị hoàng đế thứ 10 của triều đại nhà Tống trong lịch sử Trung Quốc, đồng thời là vị vua đầu tiên của thời Nam Tống (1127 - 1279)."
 }

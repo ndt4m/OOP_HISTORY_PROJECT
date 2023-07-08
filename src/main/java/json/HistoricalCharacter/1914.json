@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê huyện Thụy Nguyên, tỉnh Thanh Hóa",
-  "occupation": "Võ tướng đời Lê Thái tổ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Triều Lê Sơ": 7
+  "dateOfBirth" : "912\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "967\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Danh tướng nhà Ngô, có công giúp Ngô Xương Văn trở về đoạt lại chính quyền trong tay Dương Tam Kha vào năm Canh tuất 950. Do công ấy, ông được trọng dụng.",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Ngô" : 25,
+    "nhà Ngô" : null
   },
-  "id": 1914,
-  "entityName": "Nguyễn Lí",
-  "aliases": [],
-  "overview": "Năm Canh tuất 1430, ông được phong tước Hương Thượng Hầu, nhưng đến đời Thái tông, bị Lê Sát chèn ép, ông phải ra làm Đô thống quản ở lộ Thanh Hoa. Sau được triệu về triều làm Thái úy, kiêm Tây đạo chư vệ quân, được ít lâu thì mất tại chức. Đến đời Thánh tông (1497) được truy tặng là Thái sư, tước Dũ Quốc Công. Đời nhà Nguyễn, vua Gia Long liệt ông vào hàng công thần đệ nhị triều Lê, cho người trong họ ông giữ việc tế tự."
+  "id" : 1914,
+  "entityName" : "Đỗ Cảnh Thạc",
+  "aliases" : [ ],
+  "overview" : "Đỗ Cảnh Thạc (chữ Hán: 杜景碩; 912 - 967) là tướng nhà Ngô, sau trở thành một thủ lĩnh thời loạn 12 sứ quân trong lịch sử Việt Nam. Ông là tướng quân được biết đến với đặc điểm chỉ còn một tai, tức Độc nhĩ đại vương. Xuất thân là tướng nhà Ngô, khi Ngô Xương Văn chết, các tướng là Lã Xử Bình, Kiều Tri Hựu, Dương Huy và Đỗ Cảnh Thạc cùng tranh giành ngôi Vua, nước Việt (khi đó là Tĩnh Hải quân) bị rơi vào thời loạn loạn lạc. Sau ông kéo quân về chiếm đóng căn cứ Đỗ Động Giang, mở mang và cai quản một vùng rộng lớn phía Tây Nam Hà Nội ngày nay. Sau hơn một năm giao tranh, ông bị lực lượng của Đinh Bộ Lĩnh đánh dẹp năm 967 trong quá trình thống nhất đất nước Đại Cồ Việt.\n----------------------------------------------\nNăm Ất sửu 965, Nam Tấn vương Ngô Xương Văn mất, con là Xương Xí lên ngôi. Nhà Ngô suy, ông nhân thời cơ nổi lên tranh giành với đám quần hùng, gây nên loạn sứ quân vào thời ấy. Ông chiếm cứ vùng Đỗ Động Giang (nay là làng Bảo Đà, huyện Thanh Oai) danh ông oanh liệt một thời. Đến Mậu thìn 968, ông bị tướng của Vạn Thắng vương Đinh Bộ Lĩnh là Trần Ứng Long dẹp tan. Ông chính là vị sứ quân cuối cùng trong cuộc bình định của nhà Đinh."
 }

@@ -1,18 +1,14 @@
 {
-  "dateOfBirth": "Tân Dậu 1921",
-  "dateOfDeath": "Bính Tí 1999",
-  "hometown": "tại xã Thái Bình, huyện Châu Thành, tỉnh Tây Ninh",
-  "occupation": "Tướng lãnh QĐNDVN",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nước Việt Nam mới": 29
-  },
-  "id": 755,
-  "entityName": "Nguyễn Minh Châu",
-  "aliases": [
-    "Năm Ngà"
-  ],
-  "overview": "Ông tham gia cách mạng từ sau năm 1945, nhập ngũ vào quân đội và lên hàm Thượng tướng. Từng kinh qua và giữ nhiều chức vụ chỉ huy trọng yếu trong quân ngũ trong suốt hai cuộc kháng chiến chống Pháp (1946-1954) và chống Mĩ (1955-1975). Ông được Đảng và Nhà nước Việt Nam tặng nhiều huy chương, huân chương trong đó có Huân chương Hồ Chí Minh. Ông mất trong năm 1999, thọ 78 tuổi."
+  "dateOfBirth" : "1813",
+  "dateOfDeath" : "1892",
+  "hometown" : "quê là xã Yên Đồng, tổng Việt Yên, huyện La Sơn, phủ Đức Thọ, tỉnh Hà Tĩnh (nay thuộc xã Châu Phong, huyện Đức Thọ tỉnh Hà Tĩnh).",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 755,
+  "entityName" : "Bùi Thức Kiên",
+  "aliases" : [ ],
+  "overview" : "Bùi Thức Kiên (1813-1892) là một nhà nho. Ông ơớ quê là xã Yên Đồng, tổng Việt Yên, huyện La Sơn, phủ Đức Thọ, tỉnh Hà Tĩnh (nay thuộc xã Châu Phong, huyện Đức Thọ tỉnh Hà Tĩnh). Bùi Thức Kiên đỗ Cử nhân năm Canh Tý 1840 (niên hiệu Minh Mạng thứ 21), sau đỗ Hoàng giáp vào năm Tự Đức thứ 2 1848. Ông giữ các chức quan: Đốc học Bình Định, Phủ thừa phủ Thừa Thiên, Biện lý Lễ bộ, Tuần phủ Hưng Yên, Tham tri Lễ bộ, Tham tri Lại bộ và Tham tri Hình bộ, Thượng thư Lễ bộ, Tổng đốc Hà Ninh. Vì để thành Hà Nội thất thủ, ông bị cách chức và bị đục tên ở bia Tiến sĩ ở Huế. Sau khi mất, ông được truy phục hàm Thị lang và cho khắc lại tên ở bia Tiến sĩ ."
 }

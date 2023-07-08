@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Nhâm Tí 1792",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê làng Bồ Điền, tổng Phù Ninh, huyện Phong Điền, tỉnh Thừa Thiên",
-  "occupation": "Văn thần đời Minh Mạng",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "Tân Tị 1821",
+  "dateOfDeath" : "Tân Mùi 1871",
+  "hometown" : "quê làng Tân Sơn Nhì (Bà Quẹo) huyện Tân Bình, tỉnh Gia Định (nay thuộc quận Tân Phú, Thành phố Hồ Chí Minh)",
+  "occupation" : "Liệt sĩ Cần vương chống Pháp",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 1244,
-  "entityName": "Nguyễn Đình Huy",
-  "aliases": [
-    "Dương Minh Phủ"
-  ],
-  "overview": "Năm 1820 ông làm thư lại dưới quyền Tổng trấn Lê Văn Duyệt ở Gia Định (trông cả 5 trấn: Phiên An, Biên Hòa, Vĩnh Thanh, Định Tường, Hà Tiên), làm việc ở ti Văn hàn. Tại Huế, ông đã có một đời vợ là Phan Thị Hữu, sinh hai con là Nguyễn Đình Lân, Nguyễn Thị Thu. Vào Nam ông cưới vợ hai là Trương Thị Thiệt, người làng Tân Thới, huyện Bình Dương, phủ Tân Bình, tỉnh Gia Định (nay thuộc Thành phố Hồ Chí Minh). Năm Quí tị 1833, Lê Văn Khôi khởi nghĩa chống triều đình Huế, chiếm thành Gia Định, bắt giết Tổng đốc Nguyễn Văn Quế và Bố chính Bạch Xuân Nguyên, rửa hận cho Lê Văn Duyệt. Bấy giờ ông trốn về Huế, bị cách hết chức tước ông bèn trở vào Nam, đem Nguyễn Đình Chiểu về Huế học tập. Ít lâu, ông mất ngoài miền Trung."
+  "id" : 1244,
+  "entityName" : "Nguyễn Ảnh Thủ",
+  "aliases" : [ ],
+  "overview" : "Xuất thân trong một gia đình nông nghiệp tại Gia Định, khi Pháp chiếm ba tỉnh miền Đông Nam Kì; ông hưởng ứng, tham gia chống Pháp dưới cờ nghĩa quân Trương Định ở mặt trận Thuận Kiều (Gia Định). Năm Nhâm tuất 1862, triều đình Huế cắt 3 tỉnh miền Đông cho Pháp, lực lượng nghĩa quân bị tổn thất nặng. Trương Định rút quân về Gò Công tử thủ thì đồn Kì Hòa ở Gia Định cũng thất thủ. Nguyễn Ảnh Thủ bèn tìm cách trá hàng Pháp, do đó Pháp cho ông làm thôn trưởng Tân Sơn Nhì nên một số đồng sự khỏi bị khủng bố. Thời gian làm thôn trưởng, ông lấy số tiền thuế gởi giúp nghĩa quân. Việc bị phát giác ông bỏ trốn xuống Gò Công một thời gian. Năm Giáp tí 1864, từ Gò Công ông về Tân Sơn Nhì định tập hơp lại nghĩa quân liền bị Pháp bắt kết án 5 năm tù cùng thời điểm lãnh tụ Trương Định bị Huỳnh Tấn phản bội giết tại mặt trận. Năm Mậu thìn 1868 mãn án tù, ông đưa gia đình về thôn Tân Hưng (nay thuộc xã Đông Hưng Thuận, huyện Hóc Môn) sinh sống. Tại đây ông liên lạc được với các nhóm nghĩa quân cũ cùng thân hào, dân địa phương khởi nghĩa chống Pháp một lần nữa. Năm Tân mùi 1871 nghĩa quân do ông chỉ huy chiếm được làng Bà Điểm, làm chủ đồn Thuận Kiều, giết được tên trưởng đồn người Pháp (Trung úy). Sau đó quân Pháp tấn công tái chiếm các vùng do nghĩa quân kiểm soát. Ông bị Pháp bắt giết trong năm 1871. Hiện nay ở địa phương hãy còn đền thờ ông tại đường Nguyễn Văn Quá, Quận 12. Thành phố Hồ Chí Minh."
 }

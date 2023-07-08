@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "xã Phạm Triền, huyện Thanh Miện, phủ Hạ Hồng (nay là thôn Phạm Lý, xã Ngô Quyền, huyện Thanh Miện, tỉnh Hải Dương), đỗ Kinh trạng nguyên khoa Bính Dần, năm Thiệu Long thứ 9 (1266), đời Trần Thánh Tông , cùng khoa với Trại trạng nguyên Bạch Liêu.",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 1653,
-  "entityName": "Trần Cố",
-  "aliases": [],
-  "overview": "Trần Cố (chữ Hán: 陳固, ? - ?), người xã Phạm Triền, huyện Thanh Miện, phủ Hạ Hồng (nay là thôn Phạm Lý, xã Ngô Quyền, huyện Thanh Miện, tỉnh Hải Dương), đỗ Kinh trạng nguyên khoa Bính Dần, năm Thiệu Long thứ 9 (1266), đời Trần Thánh Tông , cùng khoa với Trại trạng nguyên Bạch Liêu. Ông làm quan đến chức Hiến sát sứ ."
+  "dateOfBirth" : "1875",
+  "dateOfDeath" : "1913",
+  "hometown" : "quê quán và sinh ra ở làng Vân, xã Tiểu Hoa Lâm, tổng Đặng Xá, huyện Đông Ngàn, phủ Từ Sơn, tỉnh Bắc Ninh, trấn Kinh Bắc, nay là thôn Yên Viên, xã Yên Viên thuộc huyện Gia Lâm, thành phố Hà Nội.",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "nhà Nho" : null
+  },
+  "id" : 1653,
+  "entityName" : "Nguyễn Khắc Cần",
+  "aliases" : [ "Tiểu Lâm" ],
+  "overview" : "Nguyễn Khắc Cần (1875 - 1913) tên chữ là Tiểu Lâm, là một nhà Nho yêu nước, quê quán và sinh ra ở làng Vân, xã Tiểu Hoa Lâm, tổng Đặng Xá, huyện Đông Ngàn, phủ Từ Sơn, tỉnh Bắc Ninh, trấn Kinh Bắc, nay là thôn Yên Viên, xã Yên Viên thuộc huyện Gia Lâm, thành phố Hà Nội."
 }

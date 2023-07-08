@@ -1,19 +1,17 @@
 {
-  "dateOfBirth": "Canh Thân 1920",
-  "dateOfDeath": "Đinh Mùi 1967",
-  "hometown": "tại làng Trung Phụng, ngoại thành Hà Nội, nguyên quán làng Phượng Dực, tỉnh Hà Đông",
-  "occupation": "Nhà thơ bút ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "sinh quán tỉnh Bến Tre, không rõ năm sinh, năm mất",
+  "occupation" : "Nhà văn ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 2650,
-  "entityName": "Đinh Hùng",
-  "aliases": [
-    "Hoài ĐiệpThứ Lang",
-    "Thần Đăng"
-  ],
-  "overview": "Thời tuổi trẻ ông học tại Hà Nội, từng cộng tác với các báo Ngày nay, Tiểu thuyết thứ năm... (Hà Nội) và sáng tác thơ ca đăng trên các báo và tạp chí. Sau toàn quốc kháng chiến ông tản cư một thời gian rồi về thành, sau hiệp định Genève ông di cư vào Sài Gòn. Từ đây ông bắt đầu viết truyện, phụ trách chương trình thơ ca (Tao đàn) trên Đài phát thanh Sài Gòn một thời gian dài. Ngày 24-8-1967 ông mất vì bệnh ung thư tại Sài Gòn. Các tác phẩm: - Mê hồn ca (1954) - Đường vào tình sử (1961) - Ngày đó có em (1967) - Đốt lò hương cũ (1971) Và một số truyện dã sử. Thơ Đinh Hùng dạt dào tình cảm, giàu âm thanh, diễn tả được tâm trạng tuổi trẻ một cách thiết tha về cuộc sống nhân sinh mang nhiều hệ lụy. Các đoản văn và tiều thuyết của ông có giọng réo rắt du dương như những tiếng đàn khoan nhặt, bổng trầm của một bản hợp tấu."
+  "id" : 2650,
+  "entityName" : "Dương Minh Đạt",
+  "aliases" : [ "Lầu" ],
+  "overview" : "Thuở nhỏ học ở Bến Tre, Sài Gòn, những năm 30 của thế kỉ XX ông viết văn, làm báo tại Sài Gòn. Từng cộng tác với các báo: Nông cổ mín đàn, Lục tỉnh tân văn, Công luận... và các nhà xuất bản Xưa Nay, Bảo Tồn, Đức Lưu Phương ở Sài Gòn. Các tác phẩm chính: - Tính kế nhiệm màu (Xưa Nay, 1926) - Anh hùng ba mặt tức Bí mật phi thường (nt, 1927) - Bình vỡ gương tan (Xưa Nay, 1927) - Hồng Hoàng Gia Cát (Xưa Nay, 1927) - Anh hùng hội đào duyên (Bảo Tồn, 1928) - Trường tình bí mật (Đức Lưu Phương, 1929) - Khối tình mầu nhiệm (Đức Lưu Phương, 1930)"
 }

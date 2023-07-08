@@ -1,17 +1,18 @@
 {
-  "dateOfBirth": "Nhâm Thìn 1892",
-  "dateOfDeath": "Ất Sửu 1985",
-  "hometown": "quê ở thị xã Vĩnh Long",
-  "occupation": "Nhà yêu nước ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Quê huyện Hương Trà, tỉnh Thừa Thiên",
+  "occupation" : "Danh thần, con xử sĩ Hoàng Quang",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "Hoàng Quang" : 1511
   },
-  "id": 646,
-  "entityName": "Phan Văn Chương",
-  "aliases": [],
-  "overview": "Năm 1912, ông tốt nghiệp trường Chasseloup Laubat với hạng tối ưu, được bổ làm việc ở dinh Phó soái Nam Kì. Ông từng làm chủ quận ở tỉnh Sóc Trăng, Cần Giuộc, Tân Uyên. Đến năm 1947 ông được cử giữ chức Đô trưởng Sài Gòn - Chợ Lớn với hàm Đốc phủ sứ. Nhưng đến đây thì ông rẽ ngoặt cuộc đời theo tiếng gọi của lương tâm và tinh thần yêu nước, vào chiến khu chống Pháp. Ông bỏ lại tất cả, khẳng định phẩm giá con người qua mấy lời trong bức thư đề lại: \"Người Pháp từng bị mất nước trong thế chiến chắc chắn hiểu rõ thế nào là cái nhục mất nước. Tự do của một quốc gia phải được giành lại bằng máu của biết bao người... Để giành lại tự do cho đất nước chỉ có kháng chiến và phải kháng chiến. Tôi hi vọng rằng sẽ gặp tại các ông vào một ngày gần đây với tư thế khác.\" Trong kháng chiến chống Pháp, ông từng giữ các chức vụ: Cố vấn ủy ban Kháng chiến hành chánh Nam Bộ, Chủ tịch ủy ban kháng chiến hành chánh tỉnh Rạch Giá, Giám đốc sở ngân khố Nam Bộ, ủy viên ủy ban Mặt trận tổ quốc Việt Nam. Do công lao của mình, ông được nhà nước tặng nhiều huân chương cao quí. Ngày 3-6-1985 ông mất tại thành phố Hồ Chí Minh, thọ 93 tuổi."
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
+  },
+  "id" : 646,
+  "entityName" : "Hoàng Kim Hoán",
+  "aliases" : [ ],
+  "overview" : "Đời Gia Long, ông làm việc ở Viện Hàn lâm, rồi đổi làm Thiêm sự bộ Binh. Ít lâu làm Kí lục trấn Quảng Bình và Quảng Trị. Đời Minh Mạng, ông làm Chánh sứ sang Trung Quốc, khi vầ lãnh chức Tả tham tri, rồi ra làm Hiệp trấn Thanh Hóa. Ông cực lực bài trừ tham nhũng, trừng trị cường hào ác bá. Do đấy, chúng cấu kết với bọn quyền gian trong triều, khiến ông phải bị cách chức, phát vãng vào Cam Lộ hiệu lực. Do nhân dân bênh vực ông, triều đình xét lại, phục chức cho ông. Về sau ông thăng chức Tham hiệp Lạng Sơn, nhưng chưa đi nhậm chức thì mất."
 }

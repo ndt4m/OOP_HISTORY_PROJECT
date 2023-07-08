@@ -1,28 +1,17 @@
 {
-  "dateOfBirth": "9 tháng 2, 1739\n----------------------------------------------\nKỉ Mùi 1729\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath": "13 tháng 9, 1782 (43 tuổi) Đông Kinh, Đàng Ngoài, Đại Việt\n----------------------------------------------\nNhâm Dần 1782\n----------------------------------------------\nKhông rõ",
-  "hometown": "người làng Sóc Sơn, huyện Vĩnh Lộc, Thanh Hoá, Việt Nam.\n----------------------------------------------\nKhông rõ\n----------------------------------------------\nKhông rõ",
-  "occupation": "Trịnh Vương\n----------------------------------------------\nChúa thứ tám của họ Trịnh\n----------------------------------------------\nTước hiệu",
-  "workTenure": "1767 – 1782\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1767—1782",
-  "fatherName": {
-    "Trịnh Doanh": null
+  "dateOfBirth" : "Bính Tí 1876",
+  "dateOfDeath" : "Quí Tị 1953",
+  "hometown" : "quê làng Thạnh Hòa, huyện Thốt Nốt, tỉnh Long Xuyên (nay thuộc tỉnh Cần Thơ)",
+  "occupation" : "Nhà soạn tuồng cải lương",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "motherName": {
-    "Nguyễn Thị Ngọc Diễm": null
-  },
-  "eraName": {
-    "Trịnh - Nguyễn": 34,
-    "Chúa Trịnh": 26,
-    "Đàng Ngoài - Chúa Trịnh": 26
-  },
-  "id": 1236,
-  "entityName": "Tĩnh Đô Vương",
-  "aliases": [
-    "Trịnh Sâm (鄭森)",
-    "Thánh Tổ (聖祖)",
-    "Thịnh Vương (盛王)",
-    "Tĩnh Đô Vương",
-    "Tĩnh Đô Vương (靖都王)"
-  ],
-  "overview": "Tĩnh Đô vương Trịnh Sâm (chữ Hán: 靖都王鄭森, 9 tháng 2 năm 1739 - 13 tháng 9 năm 1782), thụy hiệu Thánh Tổ Thịnh vương (聖祖盛王), là vị chúa Trịnh thứ 8 thời Lê Trung Hưng trong lịch sử Việt Nam, cai trị từ năm 1767 đến 1782. Ông người làng Sóc Sơn, huyện Vĩnh Lộc, Thanh Hoá, Việt Nam.\n----------------------------------------------\nNăm Mậu dân 1758, ông được phong làm Tiết chế Thủy bộ chư quân, Thái úy, tước Tĩnh Quốc Công. Năm 1767 Trịnh Doanh mất, ông được nối ngôi tự xưng là Nguyên soái Tổng quốc chính Tĩnh Đô vương, hai năm sau lại tự phong là Nguyên soái Tổng quốc chính, Thượng sư Tĩnh vương. Năm Canh dần, 1770 ông còn thêm tôn hiệu là Thượng phụ Duệ đoán Văn công Võ đức Tĩnh vương. Trong đời ông cầm quyền, có hai việc gây tai tiếng trong phủ chúa đưa đến sụp đổ cơ nghiệp họ Trịnh: phế Hoàng thái tử Lê Duy Vĩ rồi giết đi, truất con lớn là Trịnh Khải (Tông) để lập con nhỏ là Trịnh Cán làm Thế tử (Cán là con ông và ái phi Đặng Thị Huệ). Năm Nhâm dần ông mất hưởng dương 43 tuổi, được truy phong là Thánh tổ Thịnh vương. Sau khi ông mất, quân Tam phủ (Kiêu binh) nổi loạn phế Trịnh Cán, lập Trinh Khải lên làm chúa. Từ ấy cơ nghiệp chúa Trịnh suy vi, đổ nát, mở đường cho Nguyễn Huệ ra Bắc diệt nốt họ Trịnh. Ông còn là nhà thơ có tài, các tác phẩm chính của ông gồm: - Tâm thanh tồn duy thi tập - Nam tuần kí trình - Bình Hưng thực lục - Tây tuần kí trinh thi - Bính Ninh thực lục - Danh từ thực lục\n----------------------------------------------\nTrịnh Sâm (chữ Hán: 鄭森, 9 tháng 2 năm 1739 – 13 tháng 9 năm 1782), thụy hiệu Thánh Tổ Thịnh vương (聖祖盛王), là vị chúa thứ 8 của vương tộc Trịnh cầm quyền ở miền Bắc Đại Việt thời nhà Lê trung hưng. Ông nắm quyền cai trị từ năm 1767 đến khi qua đời năm 1782."
+  "id" : 1236,
+  "entityName" : "Nguyễn Trọng Quyền",
+  "aliases" : [ "Mộc Quán" ],
+  "overview" : "Tuổi trẻ ông học ở Thốt Nốt, Cần Thơ, rồi gia nhập làng báo, cộng tác cùng các cây bút nổi tiếng thời bấy giờ như Trần Chánh Chiếu, Lương Khắc Ninh, Nguyễn Chánh Sắt… trên các báo Nông Cổ mín đàm, Lục tỉnh tân văn... Từ năm 1920, khi nghệ thuật sân khấu cải lương phát triển ông trở thành nhà soạn tuồng sáng giá của các gánh hát lớn đương thời. Ngoài các bài báo và sách biên khảo như Phu thê nghị luận, ông là tác giả trên 50 vở tuồng nổi tiếng như Phụng Nghi Đình, Giọt lệ chung tình, Tình duyên phấn lạt... Những năm trước Thế chiến ở miền Nam ông là một trong hai nhà soạn giả cải lương (người thứ hai là Trương Duy Toản) có nhiều tác phẩm nhất và cũng được đã số khán giả mến mộ. Ông mất năm Quí tị 1953, thọ 77 tuổi."
 }

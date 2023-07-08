@@ -1,16 +1,21 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 77,
-  "entityName": "Trưng Nữ Vương",
-  "aliases": [
-    "Trưng Nhị"
-  ],
-  "overview": "Hai Bà Trưng (chữ Nôm: ?婆徵) là thời kỳ xen giữa Bắc thuộc lần 1 và Bắc thuộc lần 2 trong lịch sử Việt Nam. Đây là tên gọi chung của hai chị em Trưng Trắc (chữ Hán: 徵側) và Trưng Nhị (徵貳), là anh hùng dân tộc của người Việt, những thủ lĩnh khởi binh chống lại nhà Đông Hán của Trung Quốc, lập ra một quốc gia với kinh đô tại Mê Linh và tự phong là Nữ vương."
+  "dateOfBirth" : "16 tháng 8, 1563\n----------------------------------------------\nQuí Hợi 1563",
+  "dateOfDeath" : "19 tháng 11, 1635 (72 tuổi) Đàng Trong, Đại Việt\n----------------------------------------------\nẤt Hợi 1635",
+  "hometown" : "quê gốc làng Gia Miêu, tỉnh Thanh Hóa, sinh năm Quỉ hợi đời Lê Anh tông năm Chính Trị thứ 6 (1563)",
+  "occupation" : "Chúa Nguyễn\n----------------------------------------------\nNguyên tên là Nguyễn Nguyên, sau khi lên ngôi",
+  "workTenure" : "1613 - 1635\n----------------------------------------------\nKhông rõ",
+  "fatherName" : {
+    "Nguyễn Hoàng" : 2912
+  },
+  "motherName" : {
+    "Nguyễn Thị phu nhân" : null
+  },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34,
+    "Họ Nguyễn" : null
+  },
+  "id" : 77,
+  "entityName" : "Nguyễn Phúc Nguyên",
+  "aliases" : [ "Hiển Mô Quang Liệt Ôn Cung Minh Duệ Dực Thiện Tuy Du Hiếu Văn Hoàng đế (顯謨光烈溫恭明睿翼善綏猷孝文皇帝) Ngắn: Hiếu Văn hoàng đế (孝文皇帝)", "Sãi Vương", "Nguyễn Phúc Nguyên (阮福源)", "Hy Tông (僖宗)" ],
+  "overview" : "Nguyễn Phước Nguyên (chữ Hán: 阮福源; 16 tháng 8 năm 1563 – 19 tháng 11 năm 1635) là vị chúa Nguyễn thứ hai của chính quyền Đàng Trong trong lịch sử Việt Nam (ở ngôi từ 1613 đến 1635) sau chúa Tiên Nguyễn Hoàng. Trong thời gian ở ngôi chúa, ông đã xây dựng một vương triều độc lập ở Đàng Trong, từng bước ly khai khỏi chính quyền Lê-Trịnh ở Đàng Ngoài. Ông được dân chúng gọi là chúa Sãi, chúa Bụt hay Phật chúa.\n----------------------------------------------\nTuổi nhỏ, ông đã theo cha lập nhiều chiến công đưọc phong tước Quận Công. Năm Ất dậu 1585, ông có công diệt được thuyền nước ngoài vào quấy phá ở Cửa Việt (thuộc tỉnh Quảng Trị), năm Nhâm dần 1602 được chúa Tiên Nguyễn Hoàng bổ làm trấn thủ dinh Quảng Nam. Lúc bấy giờ, các anh của ông đã chết, người anh kế là Nguyễn Phúc Hải bị làm con tin ở phủ chúa Trịnh nên Nguyễn Nguyên được nối ngôi. Năm Giáp dần 1614 ông lên ngôi chúa được vua Lê cho kế nghiệp cha làm trấn thủ hai xứ Thuận Quảng, hàm Thái bảo, tước Quận Công. Từ đó ông lo việc phòng thủ, sửa thành lũy đắp quan ải trị an xa gần được nhân dân mến phục nên gọi là chúa Phật, chúa Sãi hoặc Sãi vương. Đời ông nhân dân ấm no, ông lại được các bề tôi có thực tài hết lòng phục vụ như Nguyễn Hữu Dật, Nguyễn Hữu Tiến, nhất là Đào Duy Từ... Năm Bính dần (1626) phần lớn việc triều chính trong nước ông giao lại cho người em là Nguyễn Phúc Khê (em thứ 101 và người thân cận trong phủ chúa là Đào Duy Từ quyết định. Năm Giáp tuất 1634 Đào Duy Từ bệnh mất, rồi năm sau Ất hợi 1635 ông cũng lâm bệnh mà qua đời, ở ngôị được 22 năm, thọ 73 tuổi, táng ở núi Quảng Điền, sau cải táng ở núi phường Hải Cát, huyện Hương Trà, tỉnh Thừa Thiên, miếu hiệu là Hi tông, lăng gọi là Trường Diễn."
 }

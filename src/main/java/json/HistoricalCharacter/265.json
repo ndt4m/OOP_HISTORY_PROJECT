@@ -1,14 +1,17 @@
 {
-  "dateOfBirth": "25 tháng 8 năm 1947 Diễn Châu, Nghệ An",
-  "dateOfDeath": "7 tháng 1, 2019 (71 tuổi) Bệnh viện Bạch Mai, Hà Nội",
-  "hometown": "quê tôi\", \"Khúc hát sông quê\", \"Đôi mắt đò ngang\", tác giả Biểu tượng Ngày thơ Việt Nam, Cờ thơ.",
-  "occupation": "Nhạc sĩ, Nhà thơ, Nhà báo, Họa sĩ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 265,
-  "entityName": "Nguyễn Trọng Tạo",
-  "aliases": [],
-  "overview": "Nguyễn Trọng Tạo (sinh ngày 25 tháng 8 năm 1947, mất ngày 7 tháng 1 năm 2019) là nhà thơ, nhạc sĩ, nhà báo, họa sĩ vẽ bìa sách Việt Nam; nguyên Trưởng ban biên tập báo Thơ thuộc Báo Văn nghệ, (Hội Nhà văn Việt Nam, 2003-2004) và là tác giả của những tập thơ, trường ca như Đồng dao cho người lớn, Nương Thân, Thế giới không còn trăng, Con đường của những vì sao (Trường ca Đồng Lộc), những bài hát \"Làng Quan Họ quê tôi\", \"Khúc hát sông quê\", \"Đôi mắt đò ngang\", tác giả Biểu tượng Ngày thơ Việt Nam, Cờ thơ."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Danh tướng nhà Ngô",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Ngô" : 25,
+    "nhà Ngô" : null
+  },
+  "id" : 265,
+  "entityName" : "Dương Cát Lợi",
+  "aliases" : [ ],
+  "overview" : "Dương Cát Lợi (?-?) là tướng lĩnh nhà Ngô trong lịch sử Việt Nam.\n----------------------------------------------\nNăm Giáp thìn 944, Ngô vương Quyền mất, Dương Tam Kha chiếm ngôi báu, Dương Cát Lợi bất bình, chống đối âm thầm, chờ thời cơ. Năm Canh tuất 950, có dân ở hai thôn Thái Bình, thuộc tỉnh Sơn Tây dấy loạn. Dương Tam Kha sai Ngô Xương Văn cùng Dương Cát Lợi, Đỗ Cảnh Thạc đi đánh dẹp. Dương Cát Lợi đã sẵn có ý riêng, lãnh mạng đi ngay. Dọc đường ông dò xem Xương Văn hành động ra sao, rồi sẽ tùy cơ bày tỏ lòng mình. Đi đến Từ Liêm, Xương Văn xúc động bày tỏ tâm sự về nỗi bị truất phế, xin ông và Đỗ Cảnh Thạc liệu giúp. Ông và Đỗ Cảnh Thạc đồng ý ủng hộ Ngô Xương Văn, cất quân trở về bắt Dương Tam Kha, khôi phục nghiệp cũ. Cơ nghiệp nhà Ngô còn vững thêm được một thời gian chính là nhờ công ông."
 }

@@ -1,18 +1,14 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê quán, pháp danh Khánh Long",
-  "occupation": "Thiền sư đời Gia Long, không rõ tên họ, quê quán",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
-  },
-  "id": 846,
-  "entityName": "Khánh Long",
-  "aliases": [
-    "Khánh Long"
-  ],
-  "overview": "Ông xuất gia trụ trì ở chùa Hội Sơn trên núi Châu Thới thuộc phủ Long Trung, huyện Long Thành, tỉnh Biên Hòa (nay thuộc tỉnh Đồng Nai). Sau, ông tự dựng một cảnh chùa ở Gò Quít, thuộc huyện Phước Chánh. Thiện nam tín nữ kính mộ đạo hạnh của ông, lấy pháp danh ông mà gọi tên chùa là Khánh Long. Một du khách xưa viếng cảnh có thơ đề: \"Tiêu sơ lãnh thụ quải tà dương. Bộ nhập khê nhan phỏng đạo trường. Chữ mính vô yên sào hạc tịnh Khả liên thiền vị chính thê lương. Bản dịch: Hoang vu chùa quạnh bóng tà dương, Dấn bước bờ khe viếng đạo trường. Hiu hắt khói trà vương cảnh tịnh, Cửa Thiền ngùi ngậm vẻ thê lương."
+  "dateOfBirth" : "585 Đỗ Lăng Kinh Triệu (nay là Trường An thành phố Tây An Thiểm Tây)",
+  "dateOfDeath" : "Ngày mùng 6 tháng 5 năm 630 (46 tuổi) Trường An (nay là thành phố Tây An Thiểm Tây)",
+  "hometown" : "huyện Đỗ Lăng quận Kinh Triệu (nay là Trường An khu Tây An thị tỉnh Thiểm Tây, Trung Quốc)",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 846,
+  "entityName" : "Đỗ Như Hối",
+  "aliases" : [ "Khắc Minh" ],
+  "overview" : "Đỗ Như Hối (585 - 6 tháng 5 năm 630), tên chữ Khắc Minh, người huyện Đỗ Lăng quận Kinh Triệu (nay là Trường An khu Tây An thị tỉnh Thiểm Tây, Trung Quốc), là đại thần thời Đường sơ. Ông là một trong những mưu thần chủ yếu phò Lý Thế Dân cướp đoạt chính quyền, khai sáng Trinh Quán chi trị, được Lý Thế Dân trọng dụng. Cùng Phòng Huyền Linh được mọi người xưng tụng \"Phòng mưu đỗ đoạn\" ."
 }

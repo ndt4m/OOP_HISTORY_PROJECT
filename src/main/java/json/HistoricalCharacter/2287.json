@@ -1,16 +1,18 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Chu": null
+  "dateOfBirth" : "Canh Dần 1890",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Hòa An, huyện Cao Lãnh, tỉnh Kiến Phong (nay thuộc tỉnh Đồng Tháp)",
+  "occupation" : "Liệt sĩ cận đại",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "Lê Chánh Đáng quê làng Hòa An" : null
   },
-  "id": 2287,
-  "entityName": "nhà Tần",
-  "aliases": [],
-  "overview": "Nhà Tần 秦朝 (221 TCN - 206 TCN) là triều đại kế tục nhà Chu và trước nhà Hán trong lịch sử Trung Quốc. Tần (Qín, tạm đọc là Chin), có thể là một nguồn gốc của từ \"China\" trong các ngôn ngữ Tây phương. Việc thống nhất Trung Quốc năm 221 TCN dưới thời Tần Thuỷ Hoàng đã đánh dấu sự khởi đầu của đế quốc Trung Quốc, một giai đoạn chỉ chấm dứt cùng với sự kết thúc của nhà Thanh năm 1912. Nhà Tần đã để lại một di sản trung ương tập quyền và một hệ thống quan liêu sẽ được áp dụng vào những triều đại kế tiếp sau này. Tuy nhiên nhà Tần cũng chấm dứt truyền thống tự do tư tưởng có từ thời Xuân Thu - Chiến Quốc bằng việc áp dụng các biện pháp cai trị của Pháp gia và đàn áp tất cả các trường phái tư tưởng khác."
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
+  },
+  "id" : 2287,
+  "entityName" : "Lê Văn Sao",
+  "aliases" : [ ],
+  "overview" : "Năm 1907, hưởng ứng phong trào Đông Du của Phan Bội Châu, ông theo cha ra nước ngoài hoạt động cùng các nhà yêu nước khác. Đến Trung Quốc, ông ở lại Quảng Tây, sau đó ông cùng thân phụ (Lê Chánh Đáng) sang Nhật. Tại đây ông được Phan Bội Châu giới thiệu vào học trường Chấn Võ, tốt nghiệp ông trở về Trung Quốc hoạt động một thời gian. Khoảng năm 1911-1916, ông sang Pháp tham gia hoạt động của Hội Việt kiều tại Pháp cùng với Phan Châu Trinh, Nguyễn Thế Truyền, Phan Văn Trường, Nguyễn Ái Quốc... Ở đây ông cùng các đồng chí tổ chức nhiều cuộc họp phản kháng chế độ thực dân ở Đông Dương. Tại Pháp ông bị mật thám ghép vào tội phá rối cuộc an ninh tại Việt Nam như Phan Châu Trinh, Phan Văn Trường và các đồng chí khác. Năm 1929 ông về nước hoạt động một thời gian sau đó lại sang Trung Quốc, ông bị bệnh mất ở Quảng Châu (không rõ ngày và năm mất)."
 }

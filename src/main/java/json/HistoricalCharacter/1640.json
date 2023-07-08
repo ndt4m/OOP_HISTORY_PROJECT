@@ -1,17 +1,17 @@
 {
-  "dateOfBirth": "982?\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath": "1059?\n----------------------------------------------\nKhông rõ",
-  "hometown": "quê làng Băng Sơn, Châu Ái (tức làng Dương Sơn, huyện Hoằng Hóa, tỉnh Thanh Hóa)",
-  "occupation": "Danh thần đời Lý Thái tổ, không rõ năm sinh, năm mất, quê làng Băng Sơn, Châu Ái ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Lý": 14,
-    "nhà Lý": null
+  "dateOfBirth" : "1763\n----------------------------------------------\nQuí Mùi 1763",
+  "dateOfDeath" : "1818\n----------------------------------------------\nMậu Dần 1818",
+  "hometown" : "quê làng Tiên Điền, huyện Nghi Xuân, tỉnh Hà Tĩnh",
+  "occupation" : "Danh sĩ cuối đời Hậu Lê",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34,
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 1640,
-  "entityName": "Lê Phụng Hiểu",
-  "aliases": [],
-  "overview": "Lê Phụng Hiểu (chữ Hán: 黎奉曉, 982? - 1059?) là một đại tướng nhà Lý, phụng sự ba triều vua đầu tiên của nhà Lý đó là vua Lý Thái Tổ, Lý Thái Tông và Lý Thánh Tông. Ông là người có công rất lớn trong việc phò vua Lý Thái Tông tức Lý Phật Mã lên ngôi.\n----------------------------------------------\nÔng là người giỏi võ, thuở trẻ từng một mình áp đảo đa số trai tráng làng Đàm Xá, khiến họ khuất phục và nghe theo sự sắp đặt của ông. Lý Thái tổ nghe tiếng ông, vời ra trọng dụng, phong làm Võ vệ tuớng quân. Khi vua mất, ba người con là Đông Chinh, Dực Thánh và Võ Đức vương phục binh gây biến để giành ngôi. Ông đem vệ sĩ ra đánh dẹp, giết Võ Đức vương và đuổi tan các nhóm binh biến, đưa Thái tông lên nối nghiệp. Thái tông khen ngợi ông, ví ông như Uất Trì Kính Đức (Uất Trì Cung) đời Đường, rồi phong ông làm Đô thống Thượng tướng quân, tước Hầu. Ông cũng có công dẹp loạn ở nhiều nơi. Nhà vua luận công phong thưởng, ông ngỏ ý: \"Tôi không muốn quan tước, chỉ xin đứng trên núi Băng Sơn ném cây đao lớn ra xa, đao rơi tới đâu thì được lấy ruộng đất trong khoảng đó\". Vua chuẩn nhận và chiếu theo chỗ ngọn đao ông ném, cấp cho ông hơn 1000 mẫu đất để biểu dương công trạng. Sau khi ông mất, dân chúng lập đền thờ, nhà vua truy phong ông làm phúc thần."
+  "id" : 1640,
+  "entityName" : "Nguyễn Thiện",
+  "aliases" : [ "Khả Dục", "Thích Hiên" ],
+  "overview" : "Nguyễn Thiện (1763-1818), tự: Khả Dục, hiệu: 'Thích Hiên', là một nhà thơ Việt Nam thời Lê trung hưng và thời Nguyễn.\n----------------------------------------------\nNăm Nhâm dần 1782, ông đỗ Hương Cống, sống ẩn dật không ra làm quan. Ông là người nhuận sắc truyện Hoa Tiên của Nguyễn Huy Tự. Ngoài ra ông còn có các tác phẩm: Đông phủ thi tập, Huyền cơ đạo thuật bí thư. Năm Mậu dần 1818 ông mất hưởng dương 55 tuổi."
 }

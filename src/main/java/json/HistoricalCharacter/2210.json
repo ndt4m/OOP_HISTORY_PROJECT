@@ -1,17 +1,16 @@
 {
-  "dateOfBirth": "Ất Dậu 1885",
-  "dateOfDeath": "Nhâm Tí 1972",
-  "hometown": "quê xã Hải Lộc, huyện Hậu Lộc, tỉnh Thanh Hóa",
-  "occupation": "Chí sĩ hiện đại",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Canh Thìn 1880",
+  "hometown" : "quê làng Gia Miêu, huyện Tống Sơn, tỉnh Thanh Hóa (nay là huyện Hà Trung, tỉnh Thanh Hóa)",
+  "occupation" : "Danh sĩ đời Nguyễn",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 2210,
-  "entityName": "Đinh Chương Dương",
-  "aliases": [],
-  "overview": "Ông tham gia cách mạng từ khi còn trẻ, từng xuất dương hoạt động nhiều năm ở Trung Quốc, bị giặc bắt tù đày nhiều lần, ông vẫn kiên trung bất khuất. Sau ngày Cách mạng Tháng Tám 1945, ông được bầu làm Đại biểu Quốc hội khóa I. Đến năm 1954, vì già yếu, ông về an dương tại Hà Đông và mất năm 1972, thọ 87 tuổi. Ông sáng tác nhiều thơ văn yêu nước và cách mạng. Năm 1946, có lục đăng một số trên tờ báo Tiến, cơ quan của Tỉnh bộ Việt Minh tỉnh Thanh Hóa. Ông có bài tự thuật: Tang bồng nghĩa dặm chí nam nhi Tai mắt cùng nhau chẳng khác chi. Sương tuyết chạy qua cầu thệ thủy, Gió mưa ngồi rủ điếm tà huy. ô hay! Tạo cũng cay chua lắm, Không lẽ mình xưa tội vạ gì! Nuớc có ta, thì ta có nước, Nước non ước hẹn cứ đi đi."
+  "id" : 2210,
+  "entityName" : "Nguyễn Tĩnh",
+  "aliases" : [ "Nông Hà", "Hành Đạo" ],
+  "overview" : "Năm Giáp dần 1854 sau khi thi đậu, được bổ Hàn lâm trước tác, tri huyện Thọ Xương (Hà Nội) thăng đến Tổng đốc Thanh Hóa. Đời làm quan ông thanh liêm, cương trực được nhân dân yêu mến, sĩ phu trọng vọng. Ông còn là một nhà thơ, một nhà y học nổi tiếng. Lúc làm quan ông có lập nhà chữa bệnh cho nhân dân. Ông chuyên nghiên cứu về y học. Tác phẩm chính của ông còn lại: - Thế nhân dược liệu - Nông hà thi văn sao - Sĩ học trát kí - Hà đê tấu tập (công trình thủy lợi). Ông mất năm Canh thìn 1880."
 }

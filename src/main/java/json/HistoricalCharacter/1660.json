@@ -1,14 +1,18 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 1660,
-  "entityName": "Nguyễn Tấn",
-  "aliases": [],
-  "overview": "Nguyễn Văn Tấn, hay Nguyễn Tấn, là một tên người Việt. Một số nhân vật nổi bật cùng tên như:"
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Quí Hợi 1803",
+  "hometown" : "quê huyện Bảo An, tỉnh Vĩnh Long (nay thuộc huyện Giồng Trôm, tỉnh Bến Tre)",
+  "occupation" : "Võ tướng đời chúa Nguyễn Phúc Ánh ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34,
+    "Nhà Tây Sơn" : 21,
+    "Nhà Nguyễn độc lập" : 30
+  },
+  "id" : 1660,
+  "entityName" : "Phan Văn Triệu",
+  "aliases" : [ ],
+  "overview" : "Ông giỏi việc binh, theo giúp Nguyễn Ánh từ năm Quí mão 1783. Nghĩa quân Tây Sơn thắng thế, chúa Nguyễn chạy sang Xiêm ẩn náu ở quê nhà. Tây Sơn biết chuyện, bắt giam mẹ ông để lung lạc ông, liệu khó tránh, ông ra hàng cứu mẹ. Ít lâu ông trốn khỏi quân đội Tây Sơn lại theo Nguyễn Ánh như cũ. Từ năm Định tị 1787, ông làm Cai cơ dưới quyền chỉ huy của Tôn Thất Huy, được Nguyễn Ánh khen là \"Triệu Tử Long\" và gả em hoàng hậu là Tống Thị Bích cho ông phong ông làm Phó Vệ úy. Năm Đinh tị 1797, Nguyễn Ánh cử binh tiến ra Quảng Nam, ông lãnh quân ba Vệ đánh phá ở Đà Nẵng và được thăng làm Thần sách quân Tiền đồn Chánh tướng. Đến năm Canh thân 1800, làm tiền dinh Đô thống chế, thay Tiền quân Nguyễn Văn Thành tiến công ở Thị Giả ông bị thương nặng. Đến khi Nguyễn Ánh lên ngôi vua (tức Gia Long), ông vẫn được trọng đãi. Năm Quí hợi 1803, ông cáo quan về quê rồi mất tại quê nhà."
 }

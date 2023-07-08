@@ -1,18 +1,17 @@
 {
-  "dateOfBirth": "Canh Dần 1890",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê làng Hòa An, huyện Cao Lãnh, tỉnh Kiến Phong (nay thuộc tỉnh Đồng Tháp)",
-  "occupation": "Liệt sĩ cận đại",
-  "workTenure": "Không rõ",
-  "fatherName": {
-    "Lê Chánh Đáng quê làng Hòa An": null
+  "dateOfBirth" : "Lam Sơn, huyện Thọ Xuân, Thanh Hóa\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "1421\n----------------------------------------------\nKhông rõ",
+  "hometown" : "quê ở Lam Sơn, tỉnh Thanh Hóa, không rõ năm sinh, năm mất ông là cháu Lê Lợi (gọi Lê Lợi bằng chú) tham gia khởi nghĩa chống quân Minh ngay từ những ngày đầu, dũng lược hơn người, đánh đâu được đấy, khéo nuôi sĩ tốt, lúc ra trận bao giờ cũng đi trước Gặp lúc Ai Lao đem ba vạn quân sang giả danh giúp để đánh úp quân ta",
+  "occupation" : "Thuộc\n----------------------------------------------\nDanh tướng, của Bình Định vương Lê Lợi quê ở Lam Sơn, tỉnh Thanh Hóa",
+  "workTenure" : "1418-1421\n----------------------------------------------\nKhông rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "nhà Hậu Lê" : null,
+    "Triều Lê Sơ" : 7
   },
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
-  },
-  "id": 934,
-  "entityName": "Lê Văn Sao",
-  "aliases": [],
-  "overview": "Năm 1907, hưởng ứng phong trào Đông Du của Phan Bội Châu, ông theo cha ra nước ngoài hoạt động cùng các nhà yêu nước khác. Đến Trung Quốc, ông ở lại Quảng Tây, sau đó ông cùng thân phụ (Lê Chánh Đáng) sang Nhật. Tại đây ông được Phan Bội Châu giới thiệu vào học trường Chấn Võ, tốt nghiệp ông trở về Trung Quốc hoạt động một thời gian. Khoảng năm 1911-1916, ông sang Pháp tham gia hoạt động của Hội Việt kiều tại Pháp cùng với Phan Châu Trinh, Nguyễn Thế Truyền, Phan Văn Trường, Nguyễn Ái Quốc... Ở đây ông cùng các đồng chí tổ chức nhiều cuộc họp phản kháng chế độ thực dân ở Đông Dương. Tại Pháp ông bị mật thám ghép vào tội phá rối cuộc an ninh tại Việt Nam như Phan Châu Trinh, Phan Văn Trường và các đồng chí khác. Năm 1929 ông về nước hoạt động một thời gian sau đó lại sang Trung Quốc, ông bị bệnh mất ở Quảng Châu (không rõ ngày và năm mất)."
+  "id" : 934,
+  "entityName" : "Lê Thạch",
+  "aliases" : [ ],
+  "overview" : "Lê Thạch (chữ Hán: 黎石, ? - 1421), là công thần khai quốc nhà Hậu Lê . Ông là con của anh trai cả của Lê Lợi, tham gia khởi nghĩa Lam Sơn từ buổi ban đầu, được Lê Lợi phong làm Tướng quốc. Lê Thạch vì ham lập công giết địch, mà tử trận trong trận chiến với quân Ai Lao vào năm 1421.\n----------------------------------------------\n"
 }

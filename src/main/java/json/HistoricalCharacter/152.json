@@ -1,18 +1,17 @@
 {
-  "dateOfBirth": "Đinh Hợi 1527",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê làng Lương Xá, huyện Lang Tài, tỉnh Bắc Ninh (nay thuộc huyện Gia Lương, tỉnh Bắc Ninh) (Tên ông có sách chép Võ Cẩn là sai",
-  "occupation": "Danh sĩ đời Mạc Mậu Hợp",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nam - Bắc Triều": 19
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Quí Sửu 1793",
+  "hometown" : "Hà Tĩnh",
+  "occupation" : "Con Khuê Phong Hầu Phan Huy Cẩn, em thứ năm Thụy Nham Hầu Phan Huy Ích.",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34,
+    "Nhà Tây Sơn" : 21
   },
-  "id": 152,
-  "entityName": "Võ Cận",
-  "aliases": [
-    "Vũ Cận"
-  ],
-  "overview": "Năm Bính thìn 1556 ông đỗ tam giáp đồng tiến sĩ. Làm Tả thị lang bộ Hộ, rồi thăng dần đến Thượng thư, tước Xuân Giang Hầu, từng đi sứ nhà Minh trong năm 1580. Ông có soạn tập thơ Tĩnh Thiều kỉ hành, còn đưọc truyền tụng hàng trăm bài. Em ruột ông là Võ Cảnh đỗ Hoàng giáp, cháu gọi ông bằng chú ruột là Võ Giới về sau đỗ Trạng nguyên, đều là bậc có danh vọng trong lịch sử khoa cử nước nhà."
+  "id" : 152,
+  "entityName" : "Phan Huy Trấn",
+  "aliases" : [ ],
+  "overview" : "Ông không tán thành việc hợp tác với triều Tây Sơn. Năm Tân hợi 1791, ông dấy quân chống lại nhà Tây Sơn. Khi đi sứ nhà Thanh (Canh tuất 1790) về, Phan Huy Ích nghe chuyện ông nổi loạn, bèn dâng biểu tạ tội. Vua Quang Trung phê vào tở biểu: \"Tính người ta thiện, ác khác nhau, cha còn chả được vừa lòng với con, huống chi anh đối với em, việc không dính líu đến thì có hiềm nghi gì\". Cuộc khởi binh thất bại, ông trốn thoát vào rừng. Đến mùa hè năm Quí sửu 1793, ông bị quân trấn thủ Nghệ An lùng bắt được đem hành hình. Thương tiếc ông, Phan Huy Ích có bài ĐỀ GIA QUÁN, LÂM NGŨ ĐỆ MỘ HỮU CẢM (bản dịch): Tham nhà lối trúc đã tan hoang, Thơ \"Tích linh\" ngâm bội cảm thương Nghìn thuở danh gia ghi phúc trạch, Một gươm dũng sĩ tỏ can tràng. Bởi lời giáo hối lâu xa cách, Nên khí hiên ngang vụng giữ giàng. Chín suối biết em còn nuốt hận. Chưa nên oanh liệt cuộc phi thường."
 }

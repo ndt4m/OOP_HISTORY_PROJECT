@@ -1,25 +1,14 @@
 {
-  "dateOfBirth": "23 tháng 12, 968",
-  "dateOfDeath": "23 tháng 3, 1022 (53 tuổi) Khai Phong, Trung Quốc",
-  "hometown": "Không rõ",
-  "occupation": "Hoàng đế Đại Tống",
-  "workTenure": "10 tháng 5 năm 997 – 23 tháng 3 năm 1022 (24 năm, 317 ngày)",
-  "fatherName": {
-    "Tống Thái Tông": null
-  },
-  "motherName": {
-    "Nguyên Đức hoàng hậu": null
-  },
-  "eraName": {
-    "Nhà Bắc Tống": null
-  },
-  "id": 2820,
-  "entityName": "Triệu Hằng",
-  "aliases": [
-    "Chân Tông (真宗)",
-    "Triệu Đức Xương (趙德昌) Triệu Nguyên Hưu (趙元休) Triệu Nguyên Khản (趙元侃) Triệu Hằng (趙恆)",
-    "Niên hiệu Hàm Bình (咸平: 998 - 1003) Cảnh Đức (景德: 1004 - 1007) Đại Trung Tường Phù (大中祥符: 1008 - 1016) Thiên Hi (天禧) hay Nguyên Hi (元禧: 1017 - 1021) Càn Hưng (乾興: 1022)",
-    "Ưng Phù Kê Cổ Thần Công Nhượng Đức Văn Minh Vũ Định Chương Thánh Nguyên Hiếu hoàng đế (膺符稽古神功讓德文明武定章聖元孝皇帝)"
-  ],
-  "overview": "Tống Chân Tông (chữ Hán: 宋真宗, 23 tháng 12 năm 968 - 23 tháng 3 năm 1022), là vị Hoàng đế thứ ba của triều đại Bắc Tống trong lịch sử Trung Quốc, trị vì từ năm 997 đến năm 1022, tổng cộng 25 năm."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 2820,
+  "entityName" : "Kinh Châu",
+  "aliases" : [ ],
+  "overview" : "Kinh Châu (giản thể: 荆州, phồn thể: 荊州; bính âm: Jīngzhōu) là một thành phố (địa cấp thị) thuộc tỉnh Hồ Bắc của Trung Quốc, nằm bên sông Dương Tử với dân số 6,3 triệu người, trong đó dân nội thành 5,56 triệu người."
 }

@@ -1,16 +1,20 @@
 {
-  "dateOfBirth": "Giáp Tuất 1934",
-  "dateOfDeath": "Kỉ Mão 1999",
-  "hometown": "tại Đô Lương, tỉnh Nghệ An (06 tháng chạp năm Quí dậu âm lịch)",
-  "occupation": "Nhà nghiên cứu phê bình mĩ thuật",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "4 tháng 9, 1300 Thăng Long\n----------------------------------------------\nCanh Tí 1300\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "10/3/1357.Hưởng dương 57 tuổi Cung Bảo Nguyên, Thăng Long\n----------------------------------------------\nĐinh Dậu 1357\n----------------------------------------------\nKhông rõ",
+  "hometown" : "quê làng Tức Mặc, phủ Thiên Trường tỉnh Nam Định\n----------------------------------------------\nKhông rõ",
+  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua thứ năm nhà Trần miếu \n----------------------------------------------\nVua",
+  "workTenure" : "1314 – 1329\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1314—1329",
+  "fatherName" : {
+    "Trần Anh Tông" : 2018
   },
-  "id": 188,
-  "entityName": "Thái Bá Vân",
-  "aliases": [],
-  "overview": "Thuở nhỏ học ở quê nhà, sau Toàn quốc kháng chiến ông tham gia kháng chiến chống Pháp, hòa bình tái lập, năm 1954 ông về Hà Nội. Trong năm 1955 ông du học tại Đại học Karlova Universita - Tiệp Khắc (cũ) đến năm 1961 tốt nghiệp khoa lịch sử Mĩ thuật tại trường Đại học này. Từ năm 1962 ông về nước làm việc tại Viện Mĩ thuật Việt Nam và giảng dạy môn lịch sử mĩ thuật tại Đại học Mĩ thuật Hà Nội và các Đại học Mĩ thuật khác. Năm 1985 ông là thực tập viên ưu tú của viện Hàn lâm khoa học Slovaki và của Đại học Mĩ thuật Bratislava (Tiệp Khắc cũ). Từ khi về nước, ông vừa làm việc \"theo phận sự, từ việc thấp kém nhất đến việc danh giá nhất như mọi người\". Kể từ đó ông \"xuất hiện trên bục giảng Đại học lần đầu là năm 1968 tại trường Mĩ thuật Việt nam do giáo sư Trần Đình Thọ tiến cử và trên báo chí cũng năm đó ở nội san Mĩ thuật của viện. Sau khi đất nước thống nhất và nhất là sau thời \"Đổi mới\" ông có mặt thêm ở sách báo nước ngoài: Pháp, Mĩ, Canada, Đức, Australia, Thái Lan, Hồng Kông... cũng như ở các hội thảo nghệ thuật quốc tế. Kể từ đó, sự hiện diện của ông trên sinh hoạt mĩ thuật Việt Nam ngày thêm khởi sắc. Có thể nói ông là nhà nghiên cứu, phê bình mĩ thuật sâu sắc, độc đáo đầy nghệ thuật như bản chất của bộ môn này. Những bài giới thiệu tranh, nghiên cứu phê bình nghệ thuật nói chung, hội họa nói riêng của ông không đi vào đường mòn. Ngòi bút ông đã tự vạch cho mình một hướng đi độc đáo, đặc thù, không trừu tượng, khô khan như những bài phê bình nghệ thuật kinh điển, chẳng khác gì những bức tranh thuộc trường phái trừu tượng khiến người đọc cũng như người xem tranh... chẳng biết ni mô?... Các tác phẩm của ông: - Thuật ngữ mĩ thuật (cùngviết, 1969) - Hội họa sĩ lưu động Nga (NXB Mĩ Thuật 1987) - Tự điển bách khoa Việt Nam (cùng viết, 1992). - Bùi Xuân Phái (NXB Mĩ thuật, 1992) - Lịch sử mĩ thuật Việt Nam (cùng viết, 1994) - Nguyễn Tư Nghiêm (1994) - Bùi Xuân Phái vẽ Kiều (1995) - Hội họa Việt Nam đương đại (1995) - Nguyễn Gia Trí, Tô Ngọc Vân Nguyễn Sáng (1996) - Tiếp xúc với nghệ thuật (1997) Ông mất vào ngày 11 tháng 4 năm 1999 tại nhà riêng ở Hà Nội, thọ 65 tuổi. Do công lao và tài năng mình, ông được nhà nước Việt Nam tặng một số huân chương, trong đó các huy chương: - Huy chương chiến sĩ văn hóa - Huy chương vì sự nghiệp phát triển Mĩ thuật - Huy chương vì sự nghiệp phát triển khoa học"
+  "motherName" : {
+    "Chiêu Từ hoàng hậu" : null
+  },
+  "eraName" : {
+    "Nhà Trần" : 15
+  },
+  "id" : 188,
+  "entityName" : "Trần Minh Tông",
+  "aliases" : [ "Trần Minh Tông", "Đại Khánh (1314 – 1323) Khai Thái (1324 – 1329)", "Thể Thiên Sùng Hóa Khâm Minh Duệ Hiếu Hoàng Đế", "Minh Tông (明宗)", "Trần Mạnh (陳奣)" ],
+  "overview" : "Trần Minh Tông (chữ Hán: 陳明宗, 4 tháng 9 năm 1300 – 10 tháng 3 năm 1357), là vị hoàng đế thứ năm của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ tháng 4 năm 1314 đến tháng 3 năm 1329, sau đó làm Thái thượng hoàng từ năm 1329 đến khi qua đời.\n----------------------------------------------\nNăm Giáp dần 1314 ông lên ngôi, triều đại ông cũng tốt đẹp về văn hóa, chính trị, tôn giáo. Về nông nghiệp cũng phát triển thuận lợi, qua chính sách kêu gọi các vương hầu trả lại ruộng tư hữu đã lấn chiếm, giúp nông dân có ruộng cày. Ông ở ngôi 15 năm (1314-1329), sau nhường ngôi cho con, làm Thái Thượng hoàng như các vua trước từng làm. Ngày 19-2 Đinh dậu (10-3-1357) ông mất, hưởng dương 57 tuổi. Ông có soạn tập thơ Minh tông thi tập nay đã mất, chỉ còn lại 25 bài chép ở Toàn Việt thi lục.\n----------------------------------------------\nTrần Minh Tông (chữ Hán: 陳明宗 4 tháng 10 năm 1300 – 10 tháng 3 năm 1357) tên thật là Trần Mạnh (陳奣), là vị hoàng đế thứ năm của Hoàng triều Trần nước Đại Việt. Ông giữ ngôi từ ngày 3 tháng 4 năm 1314 đến ngày 15 tháng 3 năm 1329, sau đó làm Thái thượng hoàng đến khi qua đời. Thời kỳ của ông và cha ông được mệnh danh là thời kỳ hưng thịnh của vương triều nhà Trần, được sử gia xưng tụng là Anh Minh Thịnh Thế."
 }

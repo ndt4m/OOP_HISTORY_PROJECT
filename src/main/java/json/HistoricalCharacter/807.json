@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "…",
-  "dateOfDeath": "23 tháng 7 năm 907 Thành Đại La, Hà Nội\n----------------------------------------------\nĐinh Mão 907",
-  "hometown": "Quê ở Hồng Châu (thuộc vùng Bình Giang và Ninh Giang tỉnh Hải Dương)",
-  "occupation": "Tĩnh Hải Quân Tiết độ sứ (Tiết độ sứ Giao Chỉ thời kỳ Tự chủ)\n----------------------------------------------\nNgười đã từng một thời trị nước an dân",
-  "workTenure": "905 - 907\n----------------------------------------------\nKhông rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Xây nền tự chủ": 12
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Canh Tuất 1910",
+  "hometown" : "quê làng Yên Hội, phủ Đức Thọ, tỉnh Hà Tĩnh (nay là xã Tùng Ninh, huyện Đức Thọ, tỉnh Hà Tĩnh)",
+  "occupation" : "Nhà yêu nước ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 807,
-  "entityName": "Khúc Thừa Dụ",
-  "aliases": [
-    "Khúc Thừa Dụ",
-    "Tiên Chủ"
-  ],
-  "overview": "Khúc Thừa Dụ (chữ Hán: 曲承裕; trị vì: 905 - 907) được suy tôn là Khúc Tiên Chủ (曲先主), là người đặt cơ sở cho nền độc lập dân tộc Việt sau gần 1000 năm bị các triều đại Trung Hoa đô hộ.\n----------------------------------------------\nÔng vốn con nhà hào phú. Hồi bấy giờ nước ta bị nhà Đường đô hộ, nhưng thế nhà Đường đã suy, các hào kiệt dấy binh chống lại. Khúc Thừa Dụ được suy tôn làm lãnh tụ. Ông lãnh đạo thành công việc đánh đuổi bọn quan lại đô hộ rồi nắm chính quyền vào năm Bính dần 906, nhưng vẫn xưng là Tĩnh Hải tiết độ sứ. Năm sau, Đinh mão 907, ông mất. Con là Khúc Hạo thay nắm quyền."
+  "id" : 807,
+  "entityName" : "Phạm Văn Ngôn",
+  "aliases" : [ "Tùng Nham" ],
+  "overview" : "Ông đỗ tú tài Hán học nên thường gọi là Tú Nghệ. Những năm 1900 ông tích cực hoạt động cùng với Đặng Thái Thân. Em trai ông là Phạm Văn Thản và Phạm Dương Nhân đều nhiệt tình yêu nước. Năm 1905 Phan Bội Châu sang Nhật, ông cho em là Phạm Dương Nhân cùng đi theo, còn ông thì hoạt động trên vùng thượng du miền Bắc và các vùng núi Nghệ Tĩnh. Tại đây ông liên kết với Hoàng Hoa Thám lập một đồn gần Phồn Xương thuộc Yên Thế, gọi là đồn Tú Nghệ. Trước sau ông cương quyết chủ trương phải bạo động vũ trang, chiến đấu trực tiếp với quân thù để hỗ trợ cho các cuộc vận động cứu nước khác mới mong giành được độc lập. Năm 1909, trong một đêm tháng 4 ông về hoạt động ở Nghệ An, bị lộ rồi bị bắt giam, đày ra Côn Đào. Năm 1910 ông mất tại Côn Đảo, thầy dạy của ông là Đặng Nguyên Cấn xót xa khóc ông: Đen vàng chưa định, đời chưa hiếm tài dùng, đã dậy mà ngã ấy ai ư? đã ngã mà lại dậy ấy ai ư? đặt ta giữa góc biển chân trời, cầu khắp muôn hồn đồng cứu nước; Lừa lọc vô tình, trời xem ra say quýt, nọ nên chết sao sống nhăn kia vậy, nọ đáng sống sao lại chết tươi như vậy, xót người chỉ tay không mặt trắng, ruỗi dong một kiếp hẳn quên nhà."
 }

@@ -1,17 +1,14 @@
 {
-  "dateOfBirth": "Tân Dậu 1921",
-  "dateOfDeath": "Mậu Thìn 1988",
-  "hometown": "quê làng Kim Hoàng, tỉnh Hà Đông (nay thuộc Hà Tây)",
-  "occupation": "Họa sĩ sơn dầu nổi tiếng",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
-  },
-  "id": 6,
-  "entityName": "Bùi Xuân Phái",
-  "aliases": [],
-  "overview": "Thuở nhỏ học Trung học ở Hà Nội, tốt nghiệp trưởng cao Đẳng Mĩ thuật Đông Dương năm 1945, chuyên về sơn dầu với các đề tài về phố phường. Chính các đề tài ông thực hiện đã trở thành một trường phái của hội họa Việt Nam, gọi là Phố Phái. Các tranh về phố phường của ông đều có nét đặc biệt và mang màu sắc dân tộc như các tranh: Ô quan Chưởng, Văn Miếu, Cánh võng, Phố cổ Hội An... đều được giới am tường nghệ thuật tạo hình đánh giá cao. Ông mất năm 1988 tại Hà Nội."
+  "dateOfBirth" : "10 tháng 1, 1986 (31 tuổi) Hàm Đan, Hà Bắc, Trung Quốc",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 6,
+  "entityName" : "Trần Kim",
+  "aliases" : [ ],
+  "overview" : "Trần Kim (chữ Hán: 陈金, phồn thể: 陳金, bính âm: Chén Jīn; sinh 10 tháng 1 năm 1986 tại Hàm Đan, Hà Bắc, Trung Quốc) là một nam vận động viên cầu lông Trung Quốc. Anh là nhà vô địch cầu lông thế giới năm 2010, sau khi thắng Taufik Hidayat trong trận chung kết Giải vô địch cầu lông thế giới 2010 tại Paris."
 }

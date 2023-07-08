@@ -1,20 +1,17 @@
 {
-  "dateOfBirth": "Tân Mùi 1751",
-  "dateOfDeath": "Quí Hợi 1803",
-  "hometown": "quê làng Hàm Giang, huyện Cẩm Giàng, tỉnh Hải Dương, con trưởng quan Tư không Đinh Công Phục và quận phu nhân Nguyễn Thị",
-  "occupation": "Võ tuớng đời Lê Hiển tông",
-  "workTenure": "Không rõ",
-  "fatherName": {
-    "quan Tư không Đinh Công Phục": null
+  "dateOfBirth" : "Mậu Ngọ 1918",
+  "dateOfDeath" : "Nhâm Thân 1992",
+  "hometown" : "quê TP",
+  "occupation" : "Kịch tác giả, đạo diễn kịch, tên đầy đủ là Nguyễn Phúc Bửu Tiến",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "motherName": {
-    "quận phu nhân Nguyễn Thị": null
-  },
-  "eraName": {
-    "Trịnh - Nguyễn": 34
-  },
-  "id": 62,
-  "entityName": "Đinh Nhạ Hành",
-  "aliases": [],
-  "overview": "Ông thông minh, hiếu học. Thời loạn lạc đành xếp bút nghiên theo việc quân sự làm đến án trấn đất Hưng Hóa. Năm Bính ngọ 1786, tháng 5, Nguyễn Hữu Chỉnh dẫn quân Tây Sơn ra Bắc Hà, biến loạn bộc khởi nhiều nơi, riêng tại Hưng Hóa, Đinh Nhạ Hành chống giữ oanh liệt. Nguyễn Huệ nghe danh ông, lấy sắc mạng vua Lê triệu ông, ông từ chối không đến. Kịp khi Nguyễn Huệ trở về Qui Nhơn, ông về Thăng Long yết vua Lê, được thăng Hiệp trấn Hải Dương. Ông không ưa Nguyễn Hữu Chỉnh, Chỉnh thì kiềng ông, lờ đi. Năm Đinh vị 1787, tháng 10, ông chống nhau với Võ Văn Nhậm tại Võ Xuyên (thuộc huyện Ý Yên). Ông được trao chức Sơn Nam đạo Bình khấu đại tướng quân, tước Hàm Quận Công, đăng đàn bái tướng tại bờ Thuận Giang. Tây Sơn đại thắng, Chiêu Thống sai Trần Danh Án sang cầu viện nhà Thanh. Ông vẫn ra sức chống cự. Em ông là Đinh Thận Võ khuyên nên lui về quê, ông dứt khoát liều chết. Chiêu Thống ẩn náu ở Lạng Giang, sai sứ giả phong ông làm Đông đạo thống lãnh thủy bộ chư dinh Bình khấu đại tướng quân và ủy cho ông tiện đường sang Khâm Châu đón quân Thanh. Năm Mậu thân 1788, tháng 9 ông sang Liêm Châu, Tổng đốc Lưỡng Quảng là Tôn Sĩ Nghị bảo ông về trước. Quân Thanh sang, Tôn Sĩ Nghị phong ông làm Đại tướng, ông nghi ngờ quân Thanh, khuyên Chiêu Thống phải dè dặt. Chiêu Thống không quan tâm đến lời ông, ông dâng sớ xin cáo quan về làng. Chiêu Thống phải an ủi lưu ông ở lại. Nhưng từ đấy ông không tin Tôn Sĩ Nghị và quân Thanh, mọi việc đều lo liệu lấy. Có lần phẫn chí thái quá, ông gieo mình xuống sông tự vẫn, các thuộc hạ vớt lên, ông không ngớt buồn phiền. Năm Kỉ dậu 1789, Lê Chiêu Thống chạy theo đám tàn quân Thanh sang Trung Quốc, ông cũng theo phò, ngậm đắng nuốt cay trước thái độ bạc đãi của triều đình Mãn Thanh. Năm Quí hợi 1803, mùa xuân, nghe tin Gia Long thống nhất đất nước, ông cùng Lê Quýnh dâng biểu xin về nước ca. Vua Thanh không cho, bảo là chờ có sứ ta sang cầu phong sẽ liệu sau. Đến tháng 7 ông bệnh nặng rồi mất, hưởng dương 52 tuổi, lưu lạc ở Trung Quốc 14 năm. Sau, con ông rước linh cữu ông theo hài cốt Lê Chiêu Thống về chôn cất tại quê nhà. Đến đời Tự Đức, mộ phần ông được trùng tu lại."
+  "id" : 62,
+  "entityName" : "Nguyễn Phúc Bửu Tiến",
+  "aliases" : [ "Bửu Tiến" ],
+  "overview" : "Xuất thân trong gia đình hoàng tộc, thuở nhỏ học ở Huế, Hà Nội. đỗ Tú tài Pháp, ra trường ông làm nghề dạy học, diễn kịch. Các tác phẩm: - Giáo sư Hoàng (1960) - Bom hay con; Trâu, Heo, Voi; các anh đã về (bộ ba kịch, 1955) - Trên nớ (1971) - Trinh (1976) - Đề Thám (1974) Từ những năm trước 1942, lưu diễn nhiều năm ở miền Trung. Trong cách mạng tháng Tám năm 1945, ông tham gia Hội Văn hóa cứu quốc tại Huế. Năm 1946 mặt trận Huế vỡ, ông tản cư ra Thanh Hóa lập đoàn kịch phục vụ kháng chiến chống Pháp ở vùng Tự do Liên khu IV. Sau hiệp định Genève ông về Hà Nội tham gia Ban kịch của Hội Văn nghệ Việt Nam, rồi Nhà hát kịch cho đến ngày nghỉ hưu. Ngày 3 tháng 8 năm 1992, ông mất tại Hà Nội, thọ 74 tuổi. Các tác phẩm: Theo sách Nhà văn Hiện đại Việt Nam (NXB Hội Nhà văn, 1997 Hà Nội) thì Bửu Tiến đã sáng tác trên 100 vở kịch. Trong đó có các tác phẩm đã xuất bản.: - Ba con Huyền (1954) - Việt ơi! (1955)"
 }

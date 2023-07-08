@@ -1,22 +1,14 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Vua",
-  "workTenure": "965\n----------------------------------------------\n965—966",
-  "fatherName": {
-    "Thiên Sách Vương": 335,
-    "Ngô Xương Ngập": 612
-  },
-  "motherName": {},
-  "eraName": {
-    "Nhà Ngô": 25,
-    "Nhà Ngô và Dương Tam Kha": 25
-  },
-  "id": 246,
-  "entityName": "Ngô Sứ Quân",
-  "aliases": [
-    "Ngô Xương Xí (吳昌熾)"
-  ],
-  "overview": "Ngô Xương Xí (chữ Hán: 吳昌熾), còn gọi Ngô Sứ Quân (吳使君), là con trai của Thiên Sách Vương Ngô Xương Ngập, tức là cháu nội của Ngô Tiên chúa Ngô Quyền. Sử không ghi rõ năm sinh và năm mất của Ngô Xương Xí, nhưng căn cứ vào hành trạng của Ngô Xương Ngập thì ông sinh khoảng từ năm 944 đến trước năm 950.\n----------------------------------------------\nNgô Xương Xí (chữ Hán: 吳昌熾), còn gọi là Ngô sứ quân (吳使君), được chính sử ghi nhận là một trong những thủ lĩnh thời 12 sứ quân thế kỷ X. Nhiều tài liệu cho biết ông là con trai của Thiên Sách Vương Ngô Xương Ngập, tức là cháu nội của Ngô Tiên chúa Ngô Quyền. Sử không ghi rõ năm sinh và năm mất của Ngô Xương Xí, nhưng căn cứ vào hành trạng của Ngô Xương Ngập thì ông sinh khoảng từ năm 944 đến trước năm 950."
+  "dateOfBirth" : "907",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 246,
+  "entityName" : "Hồ Hưng Dật",
+  "aliases" : [ ],
+  "overview" : "Hồ Hưng Dật (胡興逸, 907 -?) là thái thú Diễn Châu đời Hậu Hán. Ông là tổ tiên của Hồ Quý Ly - vị vua khai quốc của vương triều Hồ."
 }

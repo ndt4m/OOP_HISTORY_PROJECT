@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "Đinh Dậu 1537",
-  "dateOfDeath": "Mậu Thìn 1628",
-  "hometown": "quê làng Lý Trai, huyện Đông Thành, tỉnh Nghệ An",
-  "occupation": "Văn thần thời Lê Trung hưng",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "Nhâm Tí 1912",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê xã phú Thị huyện Gia Lâm, Hà Nội (huyện Siêu Loại, tỉnh Bắc Ninh cũ)",
+  "occupation" : "Tên khai sinh: Cao Bá Thao",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 1451,
-  "entityName": "Ngô Trí Tri",
-  "aliases": [],
-  "overview": "Năm Nhâm thìn 1592, ông mất, thọ 91 tuổi, được truy tặng Thiếu bảo, tước Diễn Khanh Bá. Ông học vấn uyên thâm, có tài đức. Con ông là Trí Hòa, đỗ hoàng giáp cùng khoa với ông. Cháu ông là Sĩ Vinh, Công Trạc, Hưng Giáo cũng đều là bậc. đại khoa. Nhà ông ba đời nối nghiệp khoa giáp, mở đầu dòng dõi thơ hương ở Nghệ An."
+  "id" : 1451,
+  "entityName" : "Cao Bá Thao",
+  "aliases" : [ "Thao Thao" ],
+  "overview" : "Thao Thao có thơ in từ năm 1935. Tập thơ đầu tiên của ông là tập Dưới trăng (1935) gồm toàn thơ 8 chữ. Ngoài làm thơ ông còn viết báo, viết kịch thơ. Năm 1957 ông tham dự Đại hội thành lập Hội Nhà văn Việt Nam. Các tác phẩm chính: - Dưới trăng (thơ, 1935) - Bờ suối (thơ, 1935) - Thuyền mở (thơ, 1936) - Ải Bắc (thơ, 1942) - Trăng nước (thơ, 1943) - Quán biên thuỳ (Kịch thơ, 1943)."
 }

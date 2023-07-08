@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "Bính Thân 1476",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê làng Lệ Xá huyện Nghi Dương, tỉnh Hải Dương",
-  "occupation": "Văn thần đời Lê Uy Mục",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Triều Lê Sơ": 7
+  "dateOfBirth" : "Nhâm Dần 1902",
+  "dateOfDeath" : "Ất Sửu 1985",
+  "hometown" : "quê tỉnh Quảng Ngãi (em ruột của thi sĩ Bút Trà)",
+  "occupation" : "Nhà báo",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 576,
-  "entityName": "Phạm Gia Mô",
-  "aliases": [],
-  "overview": "Ông vốn dòng dõi danh sĩ Phạm Tông Mại, đời Trần, nguyên quán ở Quỳnh Khê, Kim Thành. Ông nổi tiếng thông minh hiếu học từ thuở trẻ. Năm Ất sửu 1505 ông đỗ đồng tiến sĩ lúc 29 tuổi. Giỏi việc chính trị, nhiều mưu lược, dần dần ông làm đến Thượng thư bộ Lễ, tước án Lễ Hầu. Bấy giờ Mạc Đăng Dung đang lộng quyền, nuôi ý đồ lật đổ nhà Lê, ông bèn kết thông gia với Đặng Dung, và thường ngầm giúp đỡ những hành động chuyên chính của Đăng Dung. Đến khi Đăng Dung đảo chính lập nhà Mạc (Đinh hợi 1527) ông được Đăng Dung phọng là Hoằng Lễ Hầu, giao cho coi sóc việc triều chính từ năm Mậu tí 1528. Sau nhà Mạc lấy lễ bậc thầy mà đối đãi, phong ông làm đến Khai phủ bình chương quân quốc trọng sư, Thái sư, Hải Quốc Công."
+  "id" : 576,
+  "entityName" : "Nguyễn Đức Huy (Ii)",
+  "aliases" : [ "Hồng Tiêu" ],
+  "overview" : "Ông vào Nam sinh hoạt trong làng văn, làng báo, cộng tác và từng làm chủ bút nhiều tờ báo hàng ngày, hàng tuần: Trung Lập, Công Luận, Đuốc Nhà Nam, Đông Pháp, Thần Chung... Về sau, ông cùng anh là Bút Trà Nguyễn Đức Nhuận chủ trương tờ nhật báo Sài Gòn Mới càng nổi tiếng. Thơ văn ông còn được truyền tụng nhiều. Vợ ông cũng là một nhà văn, Tùng Long Lê Thị Vân (cũng gọi là Lê Thị Bạch Vân). Năm Ất sửu 1985 ngày 26-3 Dương lịch ông mất tại TP. Hồ Chí Minh, thọ 83 tuổi, an táng tại Gò Dưa, Thủ Đức."
 }

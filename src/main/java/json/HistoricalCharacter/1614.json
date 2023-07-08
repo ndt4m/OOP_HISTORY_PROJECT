@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "25 tháng 12 năm 1959 xã Duy Trinh, huyện Duy Xuyên, Quảng Nam, Việt Nam Cộng Hoà",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 1614,
-  "entityName": "Đặng Thị Ngọc Thịnh",
-  "aliases": [],
-  "overview": "Đặng Thị Ngọc Thịnh (sinh ngày 25 tháng 12 năm 1959) là một nữ chính khách Việt Nam. Bà hiện là ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa XII, Phó Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam, đồng thời là Đại biểu Quốc hội Việt Nam khóa XIV nhiệm kì 2016-2021 thuộc đoàn đại biểu tỉnh Vĩnh Long."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Hoàng Vân, huyện Kim Động, tỉnh Hưng Yên (nay vẫn là Hưng Yên)",
+  "occupation" : "Danh tướng đời Lê Chiêu tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
+  "id" : 1614,
+  "entityName" : "Hoàng Nghĩa Kiều",
+  "aliases" : [ ],
+  "overview" : "Nhà Lê trung hưng, có công lao đóng góp của ông nhiều, được phong Thái phó, tước Hồng Quốc Công, từng phục vụ dưới quyền Thái sư Trịnh Kiểm. Ông là tằng tổ của Đông Quận Công Hoàng Nghĩa Giao; con cháu về sau đều là bậc tướng giỏi, hầu hết là Quận Công và nhiều nguời khi mất được phong Phúc thần. Con ông là Chiêu Quận Công Nghĩa Thân, Phú Quận Công Nghĩa Lãng, cháu nội là Lan Quận Công Nghĩa Phì đều lỗi lạc. Vợ ông là công chúa Mĩ Thạnh (Lê Thị Ngọc Tiếng)."
 }

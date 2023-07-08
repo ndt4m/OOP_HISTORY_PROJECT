@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "…",
-  "dateOfDeath": "Tân Dậu 1801",
-  "hometown": "quê làng Thái Dương, huyện Hương Trà, tỉnh Thừa Thiên",
-  "occupation": "Xử sĩ thời Nguyễn sơ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Nhâm Thân 1872",
+  "hometown" : "Vĩnh Long",
+  "occupation" : "Liệt sĩ cận đại, người tỉnh Vĩnh Long.",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 1511,
-  "entityName": "Hoàng Quang",
-  "aliases": [],
-  "overview": "Ông học thức uyên bác, có lần Nguyễn Huệ vời ra, ông từ chối. Họ Nguyễn Phúc muốn dùng ông, ông cũng tạ từ, ở ẩn không màng danh lợi. Ông mất khoảng năm Tân dậu 1801, văn chương ông còn được truyền tụng: Hoài Nam ca khúc (Khúc ngâm Hành Nam) dài 670 câu lục bát, thêm nhiều bài thơ Đường luật, một bài văn tế, một bài văn cáo gồm trong ca khúc ấy, và một bản dịch Chức cẩm Hồi văn của Tô Huệ. Khúc Hoài Nam được con gái Nguyễn Phúc Khoát là Ngọc Huyên sao ra truyền vào Nam. Đây là áng văn chương xuất sắc vào thời kì văn học lịch triều đang phát triển. Con ông là Hoàng Hoán được vua Gia Long vời làm quan đến chức Hữu Tham tri bộ Lại. Các hậu duệ ông đều làm quan các triều kế tiếp."
+  "id" : 1511,
+  "entityName" : "Nguyễn Giao",
+  "aliases" : [ ],
+  "overview" : "Ông nhiệt thành yêu nước, cùng Lê Cần lãnh đạo cuộc khởi nghĩa kháng Pháp trong năm 1872, căn cứ của nhóm ông lập tại vùng Vũng Liêm, tỉnh Vĩnh Long. Dưới sự chỉ huy của ông và Đốc binh Lê Cẩn, nghĩa quân đã tiến hành trận đánh quận lị Vũng Liêm, giết viên chủ quận Thục. Sau đó lại phục kích giết viên Tham biện Pháp Alix Salicetti tại Cầu Vong, Lê Cẩn hi sinh trong trận phục kích này. Tổng đốc Trần Bá Lộc đem lính đi càn ráp, khủng bố dân chúng vùng Cầu Vồng. Căm thù giặc Pháp và bọn tay sai, ông tập hợp nghĩa quân ngăn cản, đánh một trận quyết liệt, và hi sinh tại ven sông Cổ Chiên vào cuối năm Nhâm thân 1872."
 }

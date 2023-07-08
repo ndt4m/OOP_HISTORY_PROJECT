@@ -1,14 +1,20 @@
 {
-  "dateOfBirth": "1 tháng 1, 1920 Triệu Phong, Quảng Trị, Liên bang Đông Dương",
-  "dateOfDeath": "7 tháng 10, 2005 (85 tuổi) Hà Nội, Việt Nam",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 119,
-  "entityName": "Trần Quỳnh",
-  "aliases": [],
-  "overview": "Trần Quỳnh (1920 - 2005); nguyên Đại biểu Quốc hội từ khóa I đến khóa VII, Phó Chủ tịch Hội đồng Bộ trưởng, Chủ nhiệm Ủy ban Khoa học và Kỹ thuật Nhà nước nước Cộng hòa Xã hội Chủ nghĩa Việt Nam; nguyên Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa IV, V."
+  "dateOfBirth" : "1736 làng Minh Linh, phủ Thừa Thiên",
+  "dateOfDeath" : "30 tháng 10 năm 1811 Phú Xuân, Đại Nam",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng thái hậu nhà Nguyễn",
+  "workTenure" : "1806 - 1811",
+  "fatherName" : {
+    "Nguyễn Phúc Trung" : null
+  },
+  "motherName" : {
+    "Phùng phu nhân" : null
+  },
+  "eraName" : {
+    "nhà Nguyễn" : null
+  },
+  "id" : 119,
+  "entityName" : "Nguyễn Thị Hoàn",
+  "aliases" : [ "Phu nhân Vương Thái hậu Hoàng Thái hậu", "Ý Tĩnh Huệ Cung An Trinh Từ Hiến Hiếu Khang hoàng hậu 懿靜惠恭安貞慈獻孝康皇后", "Nguyễn Thị Hoàn (阮氏環)" ],
+  "overview" : "Ý Tĩnh Khang hoàng hậu (chữ Hán: 懿靜康皇后, 1736 - 30 tháng 10 năm 1811), hay Hiếu Khang hoàng hậu (孝康皇后), là chính thất phu nhân của Nguyễn Phúc Luân, mẹ đẻ của vua Gia Long. Sau khi lên ngôi, Gia Long tôn bà làm Hoàng thái hậu, trở thành Hoàng thái hậu đầu tiên của nhà Nguyễn."
 }

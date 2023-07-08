@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "1400?",
-  "dateOfDeath": "1470?",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Lê": null
+  "dateOfBirth" : "Canh Dần 1830",
+  "dateOfDeath" : "Nhâm Ngọ 1882",
+  "hometown" : "Thừa Thiên-Huế",
+  "occupation" : "Nữ sĩ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 880,
-  "entityName": "Nguyễn Thiên Tích",
-  "aliases": [],
-  "overview": "Nguyễn Thiên Tích (chữ Hán: 阮天錫; 1400? - 1470?) là nhà ngoại giao, danh thần nhà Lê sơ trong lịch sử Việt Nam."
+  "id" : 880,
+  "entityName" : "Nguyễn Phúc Tĩnh Hòa",
+  "aliases" : [ "Quí Khanh", "Diễm Chi", "Huệ Phố", "Thường Sơn" ],
+  "overview" : "Vào những năm cuối đời Minh Mạng bà theo hầu mẹ tại phủ riêng với anh ruột ở phường Liêm Năng, phía đông lục bộ trong kinh thành. Bà cùng với chị là Mai Am, Qui Đức nổi tiếng là Tam Khanh lỗi lạc văn chương trong giới nữ lưu - cả nam giới ở kinh thành Huế một thời thuở ấy. Cả ba chị em bà đều thụ giáo văn học nơi anh ruột mình là Miên Thẩm. Năm 1851 bà hạ giá lấy ông Đặng Văn Cát con trai Văn Minh Đại học sĩ Đặng Văn Hòa (phó Tổng tài Quốc sử quán) người huyện Quảng Điền, tỉnh Thừa Thiên. Bà cùng với chị (Mai Am) sáng tác nhiều (10 bài) ca khúc mà giới nghệ thuật ở Huế hồi đó gọi là 10 bản Tàu. Đó là Phẩm tuyết, Nguyên tiêu, Hồ quảng, Liên hoàn, Bình bái, Tây Mai, Kim tien, Xuân phong, Long hổ, Tẩu mã. Thơ từ của bà hầu hết được in ra có tên là Huệ Phố thi tập do Tùng Thiện Vương viết tựa. Thơ bà là tiếng lòng cá nhân mà cũng là nỗi lòng muôn thuở của phái đẹp, như trong bài: Thuật hoài \"Thực trúc di hoa cường tự khoan, Giác vô ngôn xứ thế nan can. Thương tâm tối thị đình tiền nguyệt, Bất tỉ đoàn viên cựu nhật khan\". Bản dịch: Cắm trúc dời hoa gắng tự an, Lặng tiếng im hơi lệ chứa chan. Tưởng nhớ những khi san trăng tỏa, Ngày trước đoàn viên nhớ muôn vàn. Chồng bà - Đặng Văn Cát, cùng là một người nổi tiếng thơ văn, con trai bà là liệt sĩ cử nhân Đặng Hữu Phổ (1854-1885) hi sinh trong khi đang đánh Pháp xâm lược."
 }

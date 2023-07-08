@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Vua",
-  "workTenure": "?–?",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Hồng Bàng": 17
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Giáp Ngo 1834",
+  "hometown" : "Không rõ",
+  "occupation" : "Nguời đời Minh Mạng, nổi tiếng võ dũng, cận vệ của Tả quân Lê Văn Duyệt. Ông xuất thân theo làm cận vệ Tả quân Lê Văn Duyệt, rất được tin cẩn. Chịu ân tri ngộ ấy nên sau khi Lê Văn Duyệt mất, bọn gian toa rập nhau làm án Lê Văn Duyệt, ông bèn cùng Lê Văn Khôi và các đồng chí dấy binh khởi nghĩa, Quí tị 1833. Hơn một năm chống cự với binh triều, ông tử trận, cuộc chiến cũng dần dần tan rã.",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 1324,
-  "entityName": "Hùng Vương thứ ba",
-  "aliases": [],
-  "overview": "Hùng Vương (chữ Hán: 雄王) hay vua Hùng (chữ Nôm: 𤤰雄) là cách gọi dành cho các vị vua nước Văn Lang của người Lạc Việt, tồn tại vào khoảng thế kỷ 7 tới thế kỷ 2 trước công nguyên."
+  "id" : 1324,
+  "entityName" : "Đàm Vĩnh Ưng",
+  "aliases" : [ ],
+  "overview" : ""
 }

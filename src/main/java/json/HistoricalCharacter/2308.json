@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê xã Phúc Lộc, huyện Lệ Thủy, tỉnh Quảng Bình",
-  "occupation": "Văn thần đời Mạc",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nam - Bắc Triều": 19
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê ở tỉnh Trà Vinh",
+  "occupation" : "Chiến sĩ Văn thân",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 2308,
-  "entityName": "Giáp Cống",
-  "aliases": [],
-  "overview": "Xuất thân giám sinh, gặp hồi địa phương rối loạn, ông một niềm trung nghĩa, giúp vua trị nước, được quan địa phương lưu ý khen ngợi, định bổ dụng làm quan. Không ngờ đang lúc chờ lệnh đi trấn nhậm, một hôm ông ngồi thuyền về quê nhà thăm mẹ, gặp trận bão nhận chìm thuyền chết đuối. Dân chúng đều thương tiếc."
+  "id" : 2308,
+  "entityName" : "Trần Bình",
+  "aliases" : [ ],
+  "overview" : "Trần Bình (giản thể: 陈平; phồn thể: 陳平, ? - 178 TCN), nguyên quán ở làng Hội Dũ, huyện Hương Vũ , là nhân vật chính trị thời Hán Sở và Tây Hán trong lịch sử Trung Quốc, từng giữ chức thừa tướng triều Hán. Ông là người thông minh tuyệt đỉnh, trí tuệ siêu phàm. Người đời sau có câu ví: Bày mưu ngang Phạm Lãi, lập mẹo tựa Trần Bình.\n----------------------------------------------\nNăm 1875, lúc Pháp xâm chiếm xong 6 tỉnh Nam Kì, ông cùng bạn là chí sĩ Nguyễn Hữu Huân, Lê Quang Quan (Tân Kế) hợp sức nhau đánh Pháp ở tỉnh Trà Vinh. Căn cứ nghĩa quân đóng tại địa bàn thuộc Ba Động huyện Càng Long tỉnh Trà Vinh. Tại địa phương ông chỉ huy nghĩa quân đánh phá, tiêu hao nhiều lực lượng địch. Tuy nhiên, chẳng bao lâu vì lực lượng nghĩa quân còn non yếu không địch nổi với các đạo quân xâm lược và tay sai được trang bị vũ khí tối tân. Nghĩa quân thất bại nhiều trận, ông hi sinh tại chiến trường."
 }

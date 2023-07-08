@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê xã Hoàng Hậu, huyện Quỳnh Lưu, tỉnh Nghệ An, không rõ năm sinh, năm mất",
-  "occupation": "Liệt phụ đời Lê Hiển tông, quê xã Hoàng Hậu, huyện Quỳnh Lưu, tỉnh Nghệ An",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "Đinh Tị 1917",
+  "dateOfDeath" : "Ất Sửu 1985",
+  "hometown" : "tại Hà Nội",
+  "occupation" : "Nhà văn ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 2693,
-  "entityName": "Châu Thị Bát",
-  "aliases": [],
-  "overview": "Chồng bà là Thượng thư bộ Binh Hồ Phi Tích, sau khi chồng mất, bà giữ tiết. Khi Nguyễn Hữu Cầu kẻo quân đánh đến xóm làng bà cư ngu,Cầu ngỏ ý muốn kết hôn với bà. Bà nói: \"Xin cho tôi bái biệt vong linh chồng tôi rồi sẽ theo\". Nguyễn Hữu Cầu chấp thuận. Bà than khóc vái lạy trước bàn thờ chồng, rồi lấy dao đã dấu sẵn, đâm cổ tự vẫn chết. Cảm cái chết ấy, vua Tự Đức vịnh: \"Nhất tiếu khuynh thành túy tắc tâm, Ứng cơ thiện đãi thục năng xâm Phu từ bái biệt tương an thích, Tư hữn long tuyền dĩ tại khâm. Bản dịch: Một cười nghiêng nước giặc say lòng! Xử cảnh khéo tùy ai dễ mong. Bái biệt vong linh chồng đã tốt, Gươm thiêng dẫn dấu áo bên trong."
+  "id" : 2693,
+  "entityName" : "Nguyễn Đình Thạc",
+  "aliases" : [ "Như Phong" ],
+  "overview" : "Ông hoạt động văn học tích cực. Trước Cách mạng tháng Tám, ông từng viết truyện, Lý luận văn học ở các báo Tiểu thuyết thứ bảy, Ích Hữu, Thời vụ mới... Năm 1937 ông tham gia hoạt động bí mật, rồi từ năm 1942 vận động thành lập Hội Văn hóa Cứu quốc (còn trong vòng bí mật) và được bầu vào ban Chấp hành hội. Về sau, lần lượt làm nhiệm vụ: Ủy viên Đảng đoàn Hội Văn nghệ Việt Nam, ủy viên ban Biên tập Báo Nhân dân, ủy viên Thường vụ Hội Nhà văn Việt Nam, Phó chủ bút báo Cứu quốc trung ương, Giám đốc Nhà xuất bản Văn học. Ông được khen thưởng: Huân chương kháng chiến hạng nhất, Huân chương chống Mỹ cứu nước hạng nhất. Ngày 1-2-1985 ông bệnh mất, thọ 68 tuổi. Các tác phẩm: Thơ văn Trần Mai Ninh và nhiều tiểu phẩm giá trị. Nguyễn Đình Thạc là nhà phê bình và Lý luận văn học với một ngòi bút sắc nét."
 }

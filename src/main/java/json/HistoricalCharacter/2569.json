@@ -1,17 +1,16 @@
 {
-  "dateOfBirth": "Đinh Dậu 1897",
-  "dateOfDeath": "Không rõ",
-  "hometown": "tại làng Tân Bình, tỉnh Trà Vinh, có sách ghi năm sinh: 1893, không rõ năm mất",
-  "occupation": "Giáo sư luật học",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Canh Dần 1830",
+  "dateOfDeath" : "Canh Dần 1890",
+  "hometown" : "huyện Tri Tôn, tỉnh Châu Đốc (nay thuộc tỉnh An Giang)",
+  "occupation" : "Tu sĩ, tổ dòng Tứ ân Hiếu Nghĩa ở miền núi Thất Sơn",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 2569,
-  "entityName": "Nguyễn Khắc Vệ",
-  "aliases": [],
-  "overview": "Thuở nhỏ du học Pháp, học tại trường Trung học ở Pyrénées (1916) tốt nghiệp Tú tài, rồi vào học tại Trường Đại học luật khoa Paris (1919) năm 1921 đỗ Tiến sĩ luật, Thạc sĩ công pháp và tốt nghiệp Trường Khoa học kinh tế chính trị Paris năm 1922. Năm 1923 về nước làm biện lí tại tòa án Sài Gòn, các năm sau làm Thẩm phán tại tòa Thượng thẩm Sài Gòn. Từ năm 1931-1937 1àm việc tại các tòa án Phnom- Pênh, Hải Phòng và mãi đến năm 1941 về làm Thẩm phán thượng hạng tại tòa Thượng thẩm Sài Gòn. Ông từng được chính phủ Nam triều tặng Huân chương Long tinh Đại Nam năm 1941. Sau năm 1946 ông sang Pháp hành nghề luật, làm giáo sư luật tại Đại học Paris. Năm 1954 ông là thành viên cùng với Nguyễn Quốc Định tham gia phái đoàn \"Quốc gia Việt Nam\" do Trần Văn Đỗ dẫn đầu. Từ năm 1954 ông sống và dạy học tại Pháp cho đến ngày mất."
+  "id" : 2569,
+  "entityName" : "Ngô Lợi",
+  "aliases" : [ ],
+  "overview" : "Ông lấy đạo Phật làm gốc tín ngưỡng và đem đức Hiếu Nghĩa làm phương châm ở đời mà truyền dạy tín đồ. Ông tổ chức một đoàn thể kháng Pháp, có tiếng vang trong vùng Long Châu Hà (Long Xuyên, Châu Đốc, Hà Tiên). Về sau liệu tình thế không ổn định được, lại bị giặc Pháp theo dõi khủng bố, ông lẩn tránh nơi núi sâu vùng Thất Sơn lập làng, khai khẩn đất hoang nhằm giúp đỡ chúng sinh và dân nghèo... Khoảng năm Mậu tí 1888, sau khi vua Hàm Nghi bị hai tên nội phản là Trương Quang Ngọc và Nguyễn Định Tính bắt nộp giặc Pháp, có một vài cận thần chạy vào Nam. Có người nghe tiếng tu sĩ Ngô Lợi giàu lòng yêu nước, đến núi Tượng ở Châu Đốc tìm gặp ông liên hệ việc chống Pháp. Năm Canh dần 1890, ông mất tại núi Dài (thuộc huyện Tri Tôn) thọ 60 tuổi. Ông là tác giả một số kinh và kệ của dòng Tứ ân hiếu nghĩa, như: - Cúng dường kinh - Khai kệ kinh - Cứu khổ sanh kinh - Thái dương kinh dùng làm tài liệu tu học của môn phái này."
 }

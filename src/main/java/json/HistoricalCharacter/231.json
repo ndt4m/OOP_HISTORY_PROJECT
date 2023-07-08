@@ -1,16 +1,14 @@
 {
-  "dateOfBirth": "Quí Hợi 1683",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê làng Hoa Cầu, huyện Văn Giang, tỉnh Bắc Ninh",
-  "occupation": "Văn thần đời vua Vĩnh Khánh ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
-  },
-  "id": 231,
-  "entityName": "Quản Đình Du",
-  "aliases": [],
-  "overview": "Năm Tân hợi 1731, đỗ Hoàng giáp lúc 28 tuổi. Khoa này Nguyễn Nghiễm (thân phụ nhà thơ Nguyễn Du) cũng đỗ Hoàng giáp. (Đây là khoa thi duy nhất đời vua Vĩnh Khánh. Vì chúa Trịnh buộc Lê Dũ tông thoái vị, đưa Thái tử Duy Phường lên ngôi, đặt hiệu năm là Vĩnh Khánh, nhưng sau bị chúa Trịnh Giang truất phế nên đời vua này không có tôn hiệu, lấy hiệu năm mà gọi là Vĩnh Khánh đế). Ông tuổi trẻ tài cao, nổi tiếng văn chương, giỏi việc chính trị. Lúc đầu làm Đãi chế ở Viện Hàn lâm, về sau nhờ Nguyễn Nghiễm và anh em Trần Danh Ninh, Trần Danh Lâm ủng hộ, ông cũng có danh vọng một thời. Ông làm đến Hữu tham tri, tước Hầu, rồi về hưu."
+  "dateOfBirth" : "Năm 225 Yên Định, Thanh Hóa",
+  "dateOfDeath" : "Năm 248 Hậu Lộc, Thanh Hóa",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 231,
+  "entityName" : "Bà Triệu",
+  "aliases" : [ "Triệu Ẩu", "Triệu Trinh Nương, Triệu Thị Trinh, Triệu Quốc Trinh" ],
+  "overview" : "Bà Triệu (chữ Hán: 趙婆), còn được gọi là Triệu Ẩu (趙嫗), Triệu Trinh Nương (趙貞娘), Triệu Thị Trinh (趙氏貞), Triệu Quốc Trinh (225–248), là một trong những vị anh hùng dân tộc trong lịch sử Việt Nam."
 }

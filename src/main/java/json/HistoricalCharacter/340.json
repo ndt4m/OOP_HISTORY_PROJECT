@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 340,
-  "entityName": "Dương Bộc",
-  "aliases": [],
-  "overview": "Dương Bộc (chữ Hán phồn thể: 楊僕; chữ Hán giản thể: 杨仆, ? - ?) là tướng lĩnh thời Tây Hán, người huyện Nghi Dương."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Quí Sửu 1913",
+  "hometown" : "Không rõ",
+  "occupation" : "Chí sĩ cận đại, nặng lòng yêu nước, lìa gia đình trốn ra nước ngoài, vào học các trường võ bị để mưu tổ chức quân đội giải phóng nước nhà.",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
+  },
+  "id" : 340,
+  "entityName" : "Đặng Hữu Bảng",
+  "aliases" : [ ],
+  "overview" : "Ông học tập xuất sắc, không bao lâu ra hoạt động trong quân ngũ Trung Quốc, thăng đến Thiếu tá, phụ trách huấn luyện trong đạo quân của Lục Á Sâm ở Trung Quốc. Về sau, ông từng góp sức cùng các đồng chí hoạt động cứu quốc. Khoảng năm 1913, nhân đưọc Tổng đốc Quảng Đông giao cho giữ vùng biên cảnh Long Châu, ông thừa dịp dấy binh đánh Pháp. Nhưng chí lớn không thành, ôm hận nơi đất khách cho đến ngày nhắm mắt."
 }

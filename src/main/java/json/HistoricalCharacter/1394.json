@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "15 tháng 1 năm 1930 (87 tuổi) Quảng Trị, Việt Nam",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Thuộc",
-  "workTenure": "1950-1975",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 1394,
-  "entityName": "Trần Văn Cẩm",
-  "aliases": [],
-  "overview": "Trần Văn Cẩm (1930), nguyên là một tướng lĩnh gốc Pháo binh của Quân lực Việt Nam Cộng hòa, cấp bậc Chuẩn tướng. Ông xuất thân từ khóa đầu tiên ở trường Võ bị Địa phương Trung Việt, sau đó ông học tiếp tại trường Võ bị Liên quân tại nam Cao nguyên Trung phần. Ra trường ông được chọn về Binh chủng Pháo binh và đã phục vụ ở ngành chuyên môn này một thời gian dài. Năm 1966, ông chuyển nhiệm vụ sang đơn vị Bộ binh."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê huyện Cư Phong, quận Cửu Chân (Thanh Hóa)",
+  "occupation" : "Liệt sĩ trong thời Bắc thuộc",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Bắc thuộc lần 1" : 6
+  },
+  "id" : 1394,
+  "entityName" : "Châu Đạt",
+  "aliases" : [ ],
+  "overview" : "Canh tí 160, ông khởi nghĩa chống quân Hán. Đầu tiên ông chỉ huy dân quân tiêu diệt viên huyện lịnh tàn ác ở huyện Cư Phong, rồi tiến đánh khắp nơi trong quận Cửu Chân, giết chết thái thú là Nghê Thức. Đô úy giặc là Nguy Lãng chống không nổi bỏ chạy, ông tiến chiếm luôn vùng quần Nhật Nam. Hán hoàng đế sai Hạ Phương sang làm thứ sử. Hạ Phương dẫn quân sang, đàn áp hung bạo và mua chuộc đám tay sai. Thế yếu, lực lượng kháng chiến của Châu Đạt dần dần bị tiêu hao, tan rã. Dù thế, trong bản ghi tên những hào kiệt chống xâm lăng, Châu Đạt vẫn đáng được muôn đời tưởng niệm."
 }

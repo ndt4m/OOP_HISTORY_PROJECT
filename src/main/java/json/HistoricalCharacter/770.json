@@ -1,20 +1,17 @@
 {
-  "dateOfBirth": "1832\n----------------------------------------------\nNhâm Thìn 1832",
-  "dateOfDeath": "1890\n----------------------------------------------\nCanh Dần 1890",
-  "hometown": "Quê làng Trình Phố, huyện Trực Định, phủ Kiến Xương nay thuộc tỉnh Thái Bình",
-  "occupation": "Chí sĩ cận đại, nguyên họ Ngô, sau đổi ra họ Nguyễn",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "ngày 12/12/1942 Khoái Châu - Hưng Yên\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "xã Tân Châu, huyện Khoái Châu - Hưng Yên, là một nhà văn Việt Nam, thành viên của Hội nhà văn Việt Nam từ năm 1974, chuyên về tiểu thuyết và truyện ngắn, tiêu biểu là Thời xa vắng đã được đạo diễn Hồ Quang Minh của Hãng phim Giải Phóng dựng thành phim truyện nhựa và ra mắt công chúng năm 2004.\n----------------------------------------------\nQuê xã Lỗ Tự, huyện Thụy Nguyên (nay thuộc huyện Thiệu Hóa, tỉnhThanh Hóa) được theo họ vua Lê, nên cũng gọi là Lê Lựu",
+  "occupation" : "nhà văn\n----------------------------------------------\nDanh tướng trong cuộc khởi nghĩa Lam Sơn, không rõ năm sinh năm mất. Con nghĩa sĩ Trần Lượng đời Hậu Trần",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Thuộc Minh" : 33,
+    "Triều Lê Sơ" : 7
   },
-  "id": 770,
-  "entityName": "Nguyễn Quang Bích",
-  "aliases": [
-    "Ngô Quang Bích",
-    "Hàm Huy",
-    "Ngư Phong"
-  ],
-  "overview": "Nguyễn Quang Bích (chữ Hán: 阮光碧, 1832 – 1890), còn có tên là Ngô Quang Bích, tự Hàm Huy, hiệu Ngư Phong; là quan nhà Nguyễn, nhà thơ và là lãnh tụ cuộc khởi nghĩa chống Pháp tại vùng Tây Bắc (Việt Nam).\n----------------------------------------------\nÔng sinh ngày 8-4 năm Nhâm thìn (7-5-1832), năm Mậu ngọ 1858 đỗ tú tài, đến năm 1861 đỗ cử nhân, được bổ làm giáo thọ phủ Trường Khánh, tỉnh Ninh Bình. Năm Kỉ tị 1869, ông đỗ Hoàng giáp, rồi được bổ làm Tri phủ Diên Khánh, tỉnh Khánh Hòa. Lần lượt trải các chức vụ: Án sát Sơn Tây, Tế tửu Quốc tử giám, Án sát Bình Định, rồi làm Chánh sứ Sơn Phòng kiêm Tuần phủ Hưng Hóa. Khi làm quan, ông chăm lo phúc lợi cho nhân dân, nên được dân chúng kính yêu. Năm 1884 Pháp tấn công Hưng Hóa, ông anh dũng chỉ huy binh lính giữ thành. Khi thành mất ông rút lên vùng Tây Bắc lập căn cứ chống Pháp lâu dài, không chịu tuân theo lệnh bãi binh của triều đình đổi về Huế nhậm chức. Năm 1885, Hàm Nghi xuất bôn kêu gọi nhân dân chống Pháp. Hưởng ứng phong trào Cần vương, ông trở thành một trong những người lãnh đạo phong trào kháng chiến ở Bắc Kì, được phong là Lễ bộ Thượng thư, sung hiệp thống Bắc Kì quân vụ. Ông từng hai lần nhận lãnh quốc thư sang Trung Quốc cầu viện. Trên đường sang Trung Quốc ông được Tôn Thất Thuyết tiếp đón niềm nở và tỏ lòng cảm phục, có tặng thơ văn ông trên đường công cán. Năm 1889 ông bệnh nặng mất tại bản doanh của nghĩa quân thuộc châu Yên Lập, hưởng dương 58 tuổi. Khi bệnh nặng, nghĩa quân và con cháu đến thăm, ông dặn \"Ta đem thân hứa quốc, không cần người đi lại thăm nom vô ích. Sau này nếu có ai nhớ đến ta, cứ lấy ngày thành Hưng Hóa thất thủ làm ngày giỗ ta\" Thơ văn ông lưu lại khá nhiều gồm trong bộ Ngư Phong thi văn tập. Khi ông mất, một sĩ phu điếu ông: \"Bất hủ giả danh, tại thiên hạ tại hậu thế; Hà đoạt chi tốc, thử quốc bộ thử nhân tâm\". Nghĩa: Tiếng để lâu truyền, khiến thiên hạ biết mãi, đời sau biết mãi; Trời sao vội dứt, lúc vận nước thế này, lòng người thế này Tác phẩm của ông có: - Ngư Phong thi văn tập - Thư trả lời dụ hàng của Pháp"
+  "id" : 770,
+  "entityName" : "Trần Lựu",
+  "aliases" : [ "Hóa", "Lê Lựu" ],
+  "overview" : "Nhà văn Lê Lựu sinh ngày 12 tháng 12 năm 1942 tại xã Tân Châu, huyện Khoái Châu - Hưng Yên, là một nhà văn Việt Nam, thành viên của Hội nhà văn Việt Nam từ năm 1974, chuyên về tiểu thuyết và truyện ngắn, tiêu biểu là Thời xa vắng đã được đạo diễn Hồ Quang Minh của Hãng phim Giải Phóng dựng thành phim truyện nhựa và ra mắt công chúng năm 2004. Ông hiện nay đang đảm nhiệm chức Giám đốc của Trung tâm Văn hóa Doanh nhân tại Hà Nội.\n----------------------------------------------\nCha ông giúp vua Trần Trùng Quang chống giặc Minh và hi sinh. Về sau ông tham gia khởi nghĩa Lam Sơn ngay từ buổi đầu hội thề ở Lũng Nhai. Ông chỉ huy đội quân thiết, đội hoạt động ở Nghệ An, nổi tiếng trong nhiều trận đánh lớn. Cuối năm 1426, ông cùng Lê Bôi, Trịnh Khả, giải phóng các vùng Hồng Châu Bắc Giang, Lạng Giang, Lạng Sơn, rồi được phong làm Tổng tri Hồng Châu kiêm tri An Bang (1427). Sau đó, ông nhận lệnh điều động quân sĩ chặn viện binh của Liễu Thăng nơi Lạng Giang. Ông đưa quân đi, một mặt giả thua để nhử Liễu Thăng đuổi theo, một mặt phục binh nơi Chi Lăng, kết liễu cuộc đời tướng giặc tại đấy trong ngày 20-9 âm lịch Đinh mùi 1427, lập nên kì tích Chi Lăng. Khởi nghĩa thành công, năm 1426, ông được dự vào bậc công thần đệ nhất phong làm Trấn viễn đại tướng quân tước Thượng Trí Tự. Khi ông mất, được truy phong Trung Dũng Hầu. Tại xã Lỗ Tự có đền thờ ông."
 }

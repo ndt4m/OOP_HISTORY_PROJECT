@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Tân Dậu 1861",
-  "dateOfDeath": "Đinh Mùi 1907",
-  "hometown": "quê làng Thượng Phán, huyện Quỳnh Côi, tỉnh Thái Bình, tên cũ là Đào Văn Mại",
-  "occupation": "Danh sĩ cận đại",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Đinh Dậu 1597",
+  "hometown" : "quê huyện Tống Sơn, tỉnh Thanh Hóa (nay thuộc tỉnh Thanh Hóa)",
+  "occupation" : "Võ tuớng đời Lê Anh tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nam - Bắc Triều" : 19
   },
-  "id": 2179,
-  "entityName": "Đào Nguyên Phổ",
-  "aliases": [
-    "Đào Văn Mại"
-  ],
-  "overview": "Năm Mậu tuất 1898, ông đỗ Đình nguyên (hoàng giáp) năm 37 tuổi, thụ chức Hàn lâm thừa chỉ. Làm quan mới một năm, ông từ chức, rồi ra làm báo Đăng cổ tùng báo ở Hà Nội. Đây là tờ báo viết chữ Quốc ngữ đầu tiên ở Hà Nội. Năm Ất tị 1905, ông làm chủ bút tạp chí Đại Việt tân báo. Đào Nguyên Phổ là một nhà nho tiếp thu tư tưởng tư sản dân quyền đầu tiên ở nước ta khi ông làm quan tại Huế. Nhà ông là nơi có nhiều sách tân học nhất ở Việt Nam thời ấy. Trong phong trào Duy tân (1905-1908) ông tuy không trực tlếp tham gia phong trào, nhưng đã ủng hộ và có chân trong ban giảng huấn của trường Đông Kinh nghĩa thục ở Hà Nội. Khi phong trào Duy tân lên cao (trường Đông Kinh nghĩa thục hoạt động mạnh), ông vẫn không trực tiếp tham gia được vì nghiện thuốc phiện, nên có lần ông tâm sự với các thân hữu: \"Ai cũng biết Duy tân, sao tôi còn thủ cựu, chẳng khiếp nhược lắm ư? \" Rồi ông đập bàn đèn. Thuốc phiện hành ông dữ, ông đau ốm cả tháng. Nhiều người ái ngại, khuyên ông hút lại, ông giận và bảo: \"Tử sinh hữu mạng! Con đĩ phù dung dám làm ma bắt tôi sao? \". Năm Đinh vị 1907, ông mất, hưởng dương 46 tuổi. Ông là thân phụ học giả Quán Chi Đào Trinh Nhất. Đào Nguyên Phổ là nhà báo đầu tiên viết chữ Quốc ngữ khởi sắc nhất của Việt Nam (ở miền Bắc) vào thời đó."
+  "id" : 2179,
+  "entityName" : "Lại Thế Khanh",
+  "aliases" : [ ],
+  "overview" : "Khoảng năm Chính Trị 1558-1571, ông cùng Võ Sư Thước đem binh chia trấn các cửa biển, khiến thủy quân nhà Mạc và bọn cướp biến đều sợ oai, ông xông pha trận mạc hàng trăm phen. Ít lâu được lệnh rút quân về đóng giữ phủ An Trường. Được phong tước An Quận Công chức Thái phó vào năm Tân mùi 1571. Năm Đinh dậu 1597 ông mất, được truy tặng là Khiêm Quốc Công."
 }

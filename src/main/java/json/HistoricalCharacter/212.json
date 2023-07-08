@@ -1,18 +1,14 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "1788",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Tây Sơn": null
-  },
-  "id": 212,
-  "entityName": "Vũ Văn Nhậm",
-  "aliases": [
-    "Võ Văn Nhậm"
-  ],
-  "overview": "Vũ Văn Nhậm (chữ Hán: 武文任, ? - 1788) hay Võ Văn Nhậm, là một danh tướng nhà Tây Sơn trong lịch sử Việt Nam."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "1862",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 212,
+  "entityName" : "Trần Xuân Hòa",
+  "aliases" : [ ],
+  "overview" : "Trần Xuân Hòa (? - 1862), là quan nhà Nguyễn trong lịch sử Việt Nam. Năm 1862, ông bị quân Pháp bắt được khi đang cầm quân trấn giữ Định Tường, sau đó ông đã cắn lưỡi mà chết."
 }

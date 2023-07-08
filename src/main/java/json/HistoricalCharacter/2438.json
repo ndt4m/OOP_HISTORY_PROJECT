@@ -1,24 +1,16 @@
 {
-  "dateOfBirth": "974\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath": "1001 (26–27 tuổi)\n----------------------------------------------\nKhông rõ",
-  "hometown": "Không rõ",
-  "occupation": "Hoàng đế Đại Cồ Việt\n----------------------------------------------\nVua",
-  "workTenure": "979 – 980\n----------------------------------------------\n979—980",
-  "fatherName": {
-    "Đinh Tiên Hoàng": 2346
+  "dateOfBirth" : "? Làng Bái Đôi, huyện Lôi Dương,Thanh Hoá, Việt Nam",
+  "dateOfDeath" : "1427",
+  "hometown" : "người làng Bái Đôi, huyện Lôi Dương,Thanh Hoá, Việt Nam.",
+  "occupation" : "Thuộc",
+  "workTenure" : "1418-1427",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "nhà Lê" : null
   },
-  "motherName": {
-    "Dương Vân Nga": 677
-  },
-  "eraName": {
-    "Nhà Đinh": 35
-  },
-  "id": 2438,
-  "entityName": "Đinh Phế Đế",
-  "aliases": [
-    "Đinh Đế Toàn",
-    "Phế Đế (廢帝)",
-    "Đinh Toàn (丁璿) Đinh Tuệ (丁穗)"
-  ],
-  "overview": "Đinh Phế Đế (chữ Hán: 丁廢帝; 974 – 1001) còn gọi là Đinh Đế Toàn, là vị hoàng đế thứ hai và cũng là vị hoàng đế cuối cùng của triều đại nhà Đinh, trong lịch sử Việt Nam. Khi ngôi Vua về với nhà Tiền Lê, ông trở thành Vệ Vương trong kinh thành Hoa Lư suốt 20 năm rồi hy sinh khi đi dẹp loạn ở tuổi 27.\n----------------------------------------------\nĐinh Phế Đế (chữ Hán: 丁廢帝 974 – 1001) hay Đinh Thiếu Đế (chữ Hán: 丁少帝), còn gọi là Đinh Đế Toàn, là vị hoàng đế thứ hai và cũng là vị hoàng đế cuối cùng của triều đại nhà Đinh trong lịch sử Việt Nam. Vua trị vì được 8 tháng thì thái hậu Dương Vân Nga nhường ngôi cho Lê Hoàn lập ra nhà nhà Tiền Lê. Từ đó Đinh Toàn trở thành Vệ vương trong kinh thành Hoa Lư suốt 20 năm rồi hy sinh khi đi dẹp loạn ở tuổi 27."
+  "id" : 2438,
+  "entityName" : "Lê Triện",
+  "aliases" : [ ],
+  "overview" : "Lý Triện (?-1427) là công thần khai quốc nhà Lê sơ trong lịch sử Việt Nam, người làng Bái Đôi, huyện Lôi Dương,Thanh Hoá, Việt Nam. Với chiến tích ở trận Tốt Động, Chúc Động, sử gia Ngô Sỹ Liên cho rằng ông cùng với Đinh Lễ đứng đầu trong các tướng giỏi của nghĩa quân Lam Sơn."
 }

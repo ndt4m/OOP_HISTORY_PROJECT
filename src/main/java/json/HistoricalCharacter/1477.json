@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "Đinh Sửu 1877",
-  "dateOfDeath": "Nhâm Ngọ 1942",
-  "hometown": "huyện Thạch Hà, tỉnh Hà Tĩnh hiệu Nghiêu Giang, con Thám hoa Đặng Văn Kiều, đỗ cử nhân năm 1900 nên thường gọi là Cử Đặng",
-  "occupation": "Chí sĩ cận đại, người huyện Thạch Hà",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "Canh Thân 1740",
+  "dateOfDeath" : "Canh Thân 1800",
+  "hometown" : "quê huyện Kì Hoa (nay là huyện Cẩm Xuyên, Kì Anh) tỉnh Nghệ An",
+  "occupation" : "Văn thần nhà Tây Sơn, dòng dõi Lê Công Triều",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Tây Sơn" : 21
   },
-  "id": 1477,
-  "entityName": "Đặng Văn Bá",
-  "aliases": [
-    "Nghiêu Giang",
-    "Cử Đặng"
-  ],
-  "overview": "Tính ông cứng cỏi, ít phục người khác. Ông nhiệt thành yêu nước, hoạt động cứu nước hăng say, tích cực, bịi đày Côn Đảo năm Mậu thân 1908. Năm 1921 ông được trả tự do, sống ở Sài Gòn một thời gian ngắn, sau đó về Huế sống với Phan Bội Châu, rồi về quê mất ở Hà Tĩnh. Khi sống ở quê, nhân cái chết của Phan Châu Trinh ở Sài Gòn, ông có làm hai bài thơ về \"sống\", \"chết\". Đặng Văn Bá giữ khí tiết cho đến ngày lìa đời, các đồng chí đều thương tiếc."
+  "id" : 1477,
+  "entityName" : "Lê Công Miễn",
+  "aliases" : [ ],
+  "overview" : "Ông sinh ngày 19-5-1740, cha là Lê Công An, mẹ họ Đỗ. Thuở trẻ ông cùng anh vào Phú Xuân học, ngụ nơi nhà viên Thái giám Liêu Thẩm Hầu Nguyễn Quang Vĩnh là một nhà có rất nhiều sách. Nhờ vậy ông học rất giỏi, nhưng ba lần đi thi đều không đỗ. Khi quân chúa Trịnh chiếm Thuận Hóa (1775), có cho người mời ông ra làm quan nhưng ông từ chối rồi lánh về quê. Đến khi nghĩa quân Tây Sơn phát triển mạnh, Nguyễn Nhạc cho mời ông một cách ân cần, ông nhận lời. Từ đó ông làm Hàn lâm thị độc rồi thăng Thị lang bộ Lễ. Năm 1795, ông vào Phú Xuân giúp vua Cảnh Thịnh, giữ chức Đô ngự sử Đô sát viện. Ít lâu, thăng hàm Thượng thư bộ Hình. Ngày 24-12 năm 1800 ông mất, thọ 60 tuổi."
 }

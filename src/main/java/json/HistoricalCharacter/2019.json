@@ -1,17 +1,16 @@
 {
-  "dateOfBirth": "Ất Tị 1905",
-  "dateOfDeath": "Kỉ Hợi 1959",
-  "hometown": "quê xã Hòa An, huyện Cao Lãnh, tỉnh Sa Đéc (nay thuộc tỉnh Đồng Tháp)",
-  "occupation": "Nhà hoạt động cách mạng ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Mậu Thân 1428",
+  "hometown" : "quê xã Ma Lộng, huyện Chí Linh, tỉnh Hải Dương",
+  "occupation" : "Tay sai giặc Minh đời hậu Trần",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Hậu Trần" : null
   },
-  "id": 2019,
-  "entityName": "Phạm Hữu Lầu",
-  "aliases": [],
-  "overview": "Năm 1928, ông gia nhập Việt Nam Thanh niên cách mạng Đồng chí hội ở Cao Lãnh, năm 1929 vào ĐCS Đông Dương. Tại Hội nghị hợp nhất 3 đảng cộng sản ở Cửu Long (Trung Quốc) ông được bầu là 1 trong 9 thành viên BCH Trung ương Lâm thời của Đảng CS Đông Dương. Trong giai đoạn 1938-1939 ông phụ trách và viết bài cho báo Dân chúng ở Sài Gòn, cổ vũ cho phong trào cách mạng Việt Nam và thế giới, thường kí tên Racosi. Ông bị bắt đày Côn Đảo 2 lần (1930, 1939). Sau CMT8, từ Côn Đảo về từng được giao nhiệm vụ Bí thư tỉnh đảng bộ Sa Đéc, Bí thư tỉnh ủy Mỹ Tho, Phó Bí Thư khu ủy 8, có chân trong Thường vụ xứ ủy kiêm Giám đốc Công an Nam bộ. Sau hiệp định Genève, 1954 ông được phân công ở lại miền Nam, lãnh nhiệm vụ Bí thư xứ ủy Nam bộ và là ủy viên BCH Trung ương Đảng. Ngày 16-10-1959, do làm việc cật lực, bệnh cũ do hậu quả những năm tháng bị tra tấn, tù đày ở Côn Đảo tái phát, ông từ trần ở Campuchia."
+  "id" : 2019,
+  "entityName" : "Trần Phong",
+  "aliases" : [ ],
+  "overview" : "Trần Phong có thể là một trong những nhân vật sau:\n----------------------------------------------\nKhi quân Minh sang xâm lược nước ta, ông ta đem bộ thuộc hàng giặc được phong chức chỉ huy Đồng Tri, Hữu Vệ. Ông từng báo cáo, chỉ điểm giết hại nhiều nhà yêu nước, phá vỡ các phong trào khởi nghĩa gây nhiều nợ máu với nhân dân. Năm 1412 ông giữ chức Đô chỉ huy cùng với Lương Nhữ Hốt là hai tên tàn hại nhiều đồng bào ta. Đến lúc cuộc khởi nghĩa Lam Sơn đến hồi quyết định, bọn Vương Thông xin hòa và rút quân về, ông và Lương Nhữ Hốt xin qui thuận Lê Lợi. Nhưng sau đó ông và Lương Nhữ Hốt lại kết bè đảng âm mưu làm gián điệp cho giặc Minh. Việc bại lộ, do tướng trấn thủ Thái Nguyên là Hoàng Nguyên Ý khám phá được một số mật thư của ông gởi cho tướng Minh ở biên giới xúi giục tướng Minh sang gây hấn, bọn ông sẽ làm nội ứng. Tội ác của ông bị phơi bày, vào khoảng cuối năm Mậu thân 1428, ông và đồng bọn bị đền tội."
 }

@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Ngô": null
+  "dateOfBirth" : "Quí Hợi 1923",
+  "dateOfDeath" : "Bính Tuất 1946",
+  "hometown" : "quê xã An Lạc, quận Bình Chánh tỉnh Gia Định (nay thuộc huyện Bình Chánh, TP",
+  "occupation" : "Liệt sĩ hiện đại",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 3029,
-  "entityName": "Phạm Phòng Át",
-  "aliases": [],
-  "overview": "Phạm Bạch Hổ (chữ Hán: 范白虎; 910 - 972 ) tên xưng Phạm Phòng Át (范防遏), là võ tướng các triều nhà Ngô, nhà Đinh và là một sứ quân trong loạn 12 sứ quân cuối thời nhà Ngô trong lịch sử Việt Nam. Ông là người gốc Nam Sách, Hải Dương nhưng được sinh ra và lớn lên ở Đằng Châu, Hưng Yên. Ngày nay, ông được thờ ở nhiều nơi thuộc vùng châu thổ sông Hồng."
+  "id" : 3029,
+  "entityName" : "Lê Tấn Bê",
+  "aliases" : [ ],
+  "overview" : "Ông tham gia cách mạng từ trước năm 1945, sau ngày Nam Bộ kháng chiến ông làm đại đội trưởng Đại đội An Lạc, là lực lượng chủ công của mặt trận Bình Điền dưới quyền chỉ huy của Giám đốc Quốc gia tự vệ cuộc Sài Gòn - Gia Định Nguyễn Văn Trấn (Bảy Trấn). Năm 1946, quân Pháp đóng 4 đồn ở Bình Điền, bị quân kháng chiến do ông chỉ huy bao vây đồn và diệt nhiều tên địch. Cuối năm 1946, đơn vị ông được tăng cường cho chi đội 4 đánh Pháp trên liên tỉnh lộ 10. Trước hỏa lực hùng hậu của địch đánh vào xã Vĩnh Lộc, ông hi sinh tại mặt trận lúc mới 23 tuổi."
 }

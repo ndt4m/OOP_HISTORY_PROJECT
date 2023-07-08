@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Tây Sơn": null
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Một trong năm cao sĩ đời Trần ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Trần" : 15
   },
-  "id": 1352,
-  "entityName": "Phạm Công Hưng",
-  "aliases": [],
-  "overview": "Phạm Công Hưng (范公興) hay còn gọi là Phạm Văn Hưng (范文興), một danh tướng, trụ cột của nhà Tây Sơn."
+  "id" : 1352,
+  "entityName" : "Đặng Tảo",
+  "aliases" : [ ],
+  "overview" : "Ông nổi tiếng thơ văn, nhưng ông cho sủng lộc làm cay đắng khó chịu cho nguời nên chẳng cầu tiến thân, cam tâm ở chốn ruộng vườn. Các vua Trần rất kính mến khí tiết ông, vẫn thường cho nguời lui tới, thăm viếng và những khi có việc nước quan trọng đều hỏi ý kiến ông. Ông nghiễm nhiên đóng vai trò cố vấn nhưng cương quyết từ chối tất cả bổng lộc của triều đình. Ông tình nguyện làm người thắp hương và coi sócThái lăng (lăng vua Trần Anh tông) ở núi An Sinh. Mỗi khi Trần Minh tông (con Anh tông) lên thăm lăng, ông thường lánh mặt. Nhà vua cảm nghĩa ông, ban cho 20 mẫu ruộng. Nhưng ruộng đó trước kia vua đã cho bà thứ phi là Thiên Xuân. Ông cũng không đòi để lấy lại như vua đã ban. Bạn ca của ông là Lê Trung rất cảm nghĩa ông, bán hết cả nhà cửa ruộng đất rồi đem gia quyến đến ở với ông tại núi An Sinh. Sau cả hai đều mất ở đấy. Vua Trần Nghệ tông sắc tứ hai chữ \"Trung tiết\" đề ở ngôi nhà của hai ông."
 }

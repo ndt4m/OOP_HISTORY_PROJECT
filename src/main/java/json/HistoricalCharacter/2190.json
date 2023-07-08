@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "…",
-  "dateOfDeath": "Tân Hợi 1911",
-  "hometown": "nguyên quán làng Bình Thạnh, huyện Tân Thạnh, tỉnh Gia Định (nay thuộc tỉnh Long An), sau ngụ tại Thị xã Phan Thiết, tỉnh Bình Thuận",
-  "occupation": "Nhân sĩ cận đại ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "1803\n----------------------------------------------\nQuí Hợi 1803",
+  "dateOfDeath" : "1861\n----------------------------------------------\nTân Dậu 1861",
+  "hometown" : "quê xã Luyến Khuyết, huyện Đông Quan, tỉnh Nam Định",
+  "occupation" : "Danh thần đời Minh Mạng",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 2190,
-  "entityName": "Nguyễn Trọng Lợi",
-  "aliases": [
-    "Trọng Canh"
-  ],
-  "overview": "Thuở nhỏ ông theo cha ra \"ti địa\" tại Phan Thiết rồi lập nghiệp ở đây. Khoảng năm 1905, Phan Châu Trinh trên đường vào Nam cổ động phong trào Duy tân, lấy nhà ông ở Phan Thiết làm nơi tụ tập các nhà cải cách lúc ấy. Tại đây, ông đứng ra thành lập Hội thanh niên thể dục lấy tên là Dục Thanh và từ đó trường Dục Thanh trở thành một trường học dạy theo lối mới của phong trào Duy tân. Nhân đó ông cùng 5 vị khác (Nguyễn Quí Anh, Nguyễn Hiệt Chi, Hồ Tá Bang, Trần Lệ Chất, Ngô Văn Nhượng) thành lập công ti Liên Thành chuyên trách sản xuất nước mắm và kinh doanh công nghiệp nhằm phục vụ lợi ích cho quốc dân. Công ti Liên Thành và Trường Dục Thanh là hai cơ sở hợp pháp duy nhất của phong trào Duy tân năm 1908 được gắn liền với tên tuổi ông. Ông mất năm 1911 và an táng tại Phan Thiết."
+  "id" : 2190,
+  "entityName" : "Phạm Thế Hiển",
+  "aliases" : [ ],
+  "overview" : "Phạm Thế Hiển (范世顯, 1803–1861) là một danh thần đời Minh Mạng, chết trong trận Pháp công phá đại đồn Chí Hòa năm 1861. Ông là anh ruột Phó bảng Phạm Thế Húc.\n----------------------------------------------\nNăm Mậu tí 1828, đỗ cử nhân, năm sau Kỉ sửu 1829 đỗ tam giáp đồng tiến sĩ. Ông làm quan nổi tiếng cương trực, từng giữ chức Tham tri bộ Binh, bộ Hình... Khi giặc Pháp xâm lược miền Nam, ông cùng vào Nam với Tổng thống quân vụ Nguyễn Tri Phương, ra sức chống giữ đại đồn Kì Hòa (cũng gọi là Chí Hòa) trong năm Canh thân 1860. Đến cuối năm Tân dậu 1861, giặc Pháp tấn công ác liệt, đánh chiếm được Gia Định. Nguyễn Tri Phương lui binh về giữ Biên Hòa, ông tử trận, hi sinh khi đại đồn thất thủ, hưởng dương 58 tuổi."
 }

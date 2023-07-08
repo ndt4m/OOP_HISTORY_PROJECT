@@ -1,22 +1,16 @@
 {
-  "dateOfBirth": "1237",
-  "dateOfDeath": "1300 (62–63 tuổi)",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {
-    "Trần Thái Tông (trên danh nghĩa)": null
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Bắc Ninh",
+  "occupation" : "Nhân vật dã sử chiến sĩ chống ngoại xâm.",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Dựng nước" : 31
   },
-  "motherName": {
-    "Hiển Từ Thuận Thiên hoàng hậu": null
-  },
-  "eraName": {
-    "nhà Trần": null
-  },
-  "id": 1406,
-  "entityName": "Trần Quốc Khang",
-  "aliases": [
-    "Tĩnh Quốc Đại vương 靖國大王"
-  ],
-  "overview": "Trần Quốc Khang (chữ Hán: 陳國康, 1237 – 1300), được biết đến qua phong hiệu Tĩnh Quốc vương (靖國王) hay Tĩnh Quốc đại vương (靖國大王), là một hoàng tử nhà Trần trong lịch sử Việt Nam. Ông được nhắc tới nhiều do thân thế rất đặc biệt, trên danh nghĩa là con trưởng của Trần Thái Tông nhưng thực ra là con của Khâm Minh đại vương Trần Liễu, anh trai của Thái Tông."
+  "id" : 1406,
+  "entityName" : "Phù Đổng Thiên Vương",
+  "aliases" : [ ],
+  "overview" : "Vào đời Hùng Vương thứ 6 có bọn giặc Ân sang xâm chiếm nước ta. Quân lực của chúng rất mạnh, không ai đánh được. Nhà vua bèn sai sứ đi rao khắp nước, kêu gọi nhân tài ra đánh giặc cứu nước. Bấy giờ tại làng Phù Đổng, lộ Võ Ninh, (nay là huyện Quế Võ), tỉnh Hà Bắc, có một trẻ ba tuổi tình nguyện xin đi yêu cầu sứ giả về tâu vua đúc một con ngựa sắt và cây roi sắt đem đến. Đứa trẻ vươn vai thành người lớn, nhảy lên lưng ngựa sắt, cầm roi sắt xông ra trận đánh quân giặc thua chạy tan tành giải phóng đất nước. Ông phi ngựa đến núi Sóc Sơn thì biến mất. Vua cho lập đền thờ và phong là Phù Đổng Thiên Vương vì cho rằng ông là vua trời ở làng Phù Đổng có công dẹp giặc xâm lược nước nhà."
 }

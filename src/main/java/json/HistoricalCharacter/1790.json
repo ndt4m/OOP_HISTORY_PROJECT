@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "Tân Mão 1891",
-  "dateOfDeath": "Mậu Tuất 1958",
-  "hometown": "quê làng Nam Thanh, huyện Hương Trà, tỉnh Thừa Thiên",
-  "occupation": "Nhà báo",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Đinh Mão 1807",
+  "dateOfDeath" : "Bính Thìn 1856",
+  "hometown" : "Quê làng Cẩm Phô, huyện Diên Phước, tỉnh Quảng Nam (nay thuộc thị xã Hội An, tỉnh Quảng Nam)",
+  "occupation" : "Danh thần, triều Nguyễn",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 1790,
-  "entityName": "Lê Cương Phụng",
-  "aliases": [
-    "Tùng Lâm"
-  ],
-  "overview": "Khoảng năm 1929-1930, ông vào Nam viết báo. Công trình đóng góp của ông vào nền văn hóa dân tộc rất đa dạng: dịch truyện Trung Quốc, sáng tác văn học, khảo cứu lịch sử ông là cây bút chính của các báo Đông Pháp thời báo, Công luận, Thần chung, Thời cuộc... Ông mất ngày 9-3-1958, tại nhà nêng ở Sài Gòn, thọ 67 tuổi. Trước khi mất ông có làm một câu đối tự điếu: \"Bể trầm luân theo chúng lội ra khơi, sáu mươi năm nào cười nào khóc, nào giận nào thương, lăn lóc vở tuồng trên vũ trụ; Cuộc phiền não khiến mình qua đủ cửa, ba thước đất hết dại hết khôn, hết ngu hết trí, rõ ràng hạt bụi giữa tang thương.\""
+  "id" : 1790,
+  "entityName" : "Nguyễn Tường Phổ",
+  "aliases" : [ "Thứ Trai", "Quản Thúc" ],
+  "overview" : "Ông xuất thân trong một gia đình vọng tộc, thân phụ từng theo Nguyễn Ánh lúc còn trôi nổi ở miền Nam, có lúc sang Vọng Các (Thái Lan) lập được nhiều chiến công, nên được Nguyễn Ánh sắc ban ân tứ họ Nguyễn Tường thay vì Nguyễn Văn. Tuổi trẻ ông, thông minh có khí thức, lại học rộng nghe nhiều; ngoài kinh sử ra ông còn thông \"cả kiếm thư cầm phả không nghề gì là không kiêm thông\". Năm Tân sửu 1841, đỗ cử nhân, năm sau Nhâm dần (1842) đỗ Tiến sĩ lúc đã 35 tuổi. Sau khi vinh qui được bổ Hàn lâm viện biên tu ở Nội các, rồi thăng tri phủ Hoằng An (Bến Tre), tri phủ Tân An (Gia Định). Một thời gian sau ông cáo bệnh xin về quê. Năm 1846 lại bổ làm Giáo thọ Điện Bàn tỉnh Quảng Nam, rồi chuyển về trông coi nhà in ở phủ Học Chánh sau đó thăng Quyền Đốc học tỉnh Hải Dương. Theo các sử liệu cũ, Nguyễn Tường Phổ làm quan nổi tiếng liêm chính, công bằng, tính tình cao thượng, yêu người nghèo khổ... Bọn nịnh thần không hợp ý ông nên đường quan chức không thăng tiến. Ông nổi tiếng văn chương, chuyên tâm về việc giáo dục \"dạy người không mệt, trước chăm lo về nghĩa lí, học thuật, sau mới để lòng vào văn chương nghệ thuật để di dưỡng tâm hồn, Cao Xuân Dục trong Quốc triều đăng khoa lục và Quốc sử quán triều Nguyễn đều cho Nguyễn Tường Phổ là \"Người có khí tiết, không a dua, không thiết gì về sự thăng quan tiến chức, chỉ lấy câu thơ chén rượu làm vui. Người bấy giờ ví ông với Đào Tiềm\". Chính ông, cũng tự bạch về mình: \"Ta bình sinh không hay khoan thứ cho người, nên đặt hiệu là Thứ Trai mà tự là Quản Thúc. Đó là muốn châm biếm cái tính thiên lệch mà chưa được\". Năm Bính thìn 1856, ông mất tại chức, hưởng dương 49 tuổi. Con cháu ông sau này phần lớn nổi danh trong lịch sử văn học, báo chí Việt Nam như Nguyễn Tường Tam, Nguyễn Tường Bách, Nguyễn Tường Long..."
 }

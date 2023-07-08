@@ -1,18 +1,18 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê tỉnh Thuận Hóa (Huế)",
-  "occupation": "Liệt sĩ cận đại",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Thanh Hóa",
+  "occupation" : "Võ tướng đời Lê Thánh tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "Tĩnh Quốc Công Lê Niệm" : null
   },
-  "id": 3092,
-  "entityName": "Đinh Phu Nhân",
-  "aliases": [
-    "Đinh Thị Thoán"
-  ],
-  "overview": "Bà nhiệt thành yêu nước, hoạt động cho phong trào Đông du và gia nhập Việt Nam Quang phục hội. Bà phụ tá Đặng Thái Thân trong việc hộ tống cán bộ và làm giao liên từ Quảng Nam ra Hà Nội, Hải Phòng. Sau bà bị mật thám Pháp theo dõi bắt giam ở lao Thừa Phủ (Huế), bị tra tấn dã man, bà thắt cổ chết trong tù. Sách Việt Nam nghĩa liệt sử ghi nhiều chi tiết rõ hơn: Bà là người tỉnh Thừa Thiên chứ không phải ở Thanh Hóa. Chồng bà là Đốc học tỉnh Quảng Trị, mất lúc bà chưa đến 40 tuổi. Từ năm Bính ngọ 1906, bà liên lạc vớì Đặng Thái Thân tích cực hoạt động cách mạng, giết giặc cứu nước. Đến năm Mậu thân 1908 bà bị bắt. Tên tay sai đắc lực của Pháp lúc ấy là Trương Như Cương dùng đủ mọi cách tra tấn, lung lạc bà nhưng không khuất phục được bà. Khi bà tử tiết, lưu lại 3 bài thơ máu đề trên tường. Về sau, Phan Bội Châu có nêu nữ liệt sĩ Lê Thị Đàn hiệu Ấu Triệu (biệt hiệu do ông đặt cho). Thân thế và tinh thần yêu nước của Lê Thị Đàn, kể cả gia thế, quê quán cũng đều giống như Đinh phu nhân (Lê Thị Đàn quê ở Thế Lại Thượng, tỉnh Thừa Thiên). Do đấy, nhiều học giả ngờ Đinh phu nhân và Lê Thị Đàn là một. Vậy Đinh phu nhân chính tên là Đinh Thị Thoán, hay là vợ của một vị quan võ họ Đinh mà chính tên là Lê Thị Đàn?"
+  "motherName" : { },
+  "eraName" : {
+    "Triều Lê Sơ" : 7
+  },
+  "id" : 3092,
+  "entityName" : "Lê Khủng",
+  "aliases" : [ ],
+  "overview" : "Trong chiến dịch bình định Chiêm Thành, ông cùng với anh là Lê Chí đã đóng góp rất nhiều công lao. Tận tụy với chức vụ, ông hăng say điều động tướng sĩ xông trận, tử thương ở Chiêm Thành, sau được truy tặng là Thái Bảo, tước Thuần Quận Công. Anh ông là Lê Chí cũng được trọng vọng."
 }

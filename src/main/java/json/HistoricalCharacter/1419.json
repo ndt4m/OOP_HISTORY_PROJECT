@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Vua",
-  "workTenure": "722—723",
-  "fatherName": {
-    "Mai Hắc Đế": 2852
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Tiết độ sứ",
+  "workTenure" : "905—907",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Họ Khúc  hoặc" : null
   },
-  "motherName": {},
-  "eraName": {
-    "Họ Mai": 3
-  },
-  "id": 1419,
-  "entityName": "Mai Thiếu Đế",
-  "aliases": [],
-  "overview": "Mai Thiếu Đế (chữ Hán: 梅少帝; ? – 723?) là một vị vua truyền thuyết Việt Nam. Tương truyền, ông là người kế vị vua Mai Hắc Đế trong lịch sử Việt Nam."
+  "id" : 1419,
+  "entityName" : "Khúc Tiên Chủ",
+  "aliases" : [ ],
+  "overview" : "Khúc Thừa Dụ (chữ Hán: 曲承裕; 830 – 907) được suy tôn là Khúc Tiên Chủ (曲先主), là tiết độ sứ người bản địa đầu tiên của Tĩnh Hải quân, đồng thời là người đặt cơ sở cho nền độc lập của dân tộc Việt sau hơn 1.000 năm thuộc Trung Quốc."
 }

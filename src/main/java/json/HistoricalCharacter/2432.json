@@ -1,16 +1,14 @@
 {
-  "dateOfBirth": "Kỉ Mão 1639",
-  "dateOfDeath": "Bính Thìn 1716",
-  "hometown": "quê làng Phú Hào, huyện Lôi Dương, tỉnh Thanh Hóa, ông cùng với anh là Lê Thì Kinh giúp vua Lê, chúa Trịnh trong việc chống với chúa Nguyễn",
-  "occupation": "Danh tướng đời Lê Gia tông, con Hầu Quận Công Lê Thì Hiến",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
-  },
-  "id": 2432,
-  "entityName": "Lê Thì Hải",
-  "aliases": [],
-  "overview": "Năm Bính thìn 1716 ông mất, thọ 77 tuổi."
+  "dateOfBirth" : "25 tháng 12, 1967 (49 tuổi) xã Thường Phước 2, huyện Hồng Ngự, tỉnh Đồng Tháp, Việt Nam Cộng hòa",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 2432,
+  "entityName" : "Phan Văn Thắng",
+  "aliases" : [ ],
+  "overview" : "Phan Văn Thắng (sinh năm 1967) là một chính khách Việt Nam. Ông hiện là Chủ tịch Hội đồng nhân dân tỉnh Đồng Tháp khóa IX, nhiệm kỳ 2016–2021."
 }

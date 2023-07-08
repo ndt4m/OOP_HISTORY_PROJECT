@@ -1,18 +1,14 @@
 {
-  "dateOfBirth": "Ất Dậu 1885",
-  "dateOfDeath": "Kỉ Mùi 1919",
-  "hometown": "quê làng Thanh Lâm (Cây Cốc, nay là xã Tiên Thọ) huyện Tiên Phước, tỉnh Quảng Nam",
-  "occupation": "Nữ chiến sĩ phong trào Duy tân, Đông du năm 1908",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
-  },
-  "id": 523,
-  "entityName": "Hoàng Thị Tòng",
-  "aliases": [
-    "Tùng Thoại"
-  ],
-  "overview": "Xuất thân trong một gia đình Nho học, đến tuổi trưởng thành bà kết hôn với ông Lê Quí Liên (thứ nam Phó bảng Lê Vĩnh Khanh: 1819 - 1884) người làng Thạnh Bình, huyện Hà Đông (sau tách ra thành huyện nên Phước) tỉnh Quảng Nam. Những năm đầu thế kỉ XX, chồng bà tham gia phong trào Duy tân, Đông du. Năm 1906 chồng bà (Lê Quí Liên) lẻn sang Nhật học tập theo lời \"Khuyến học\" của Phan Bội Châu, nên sau đó bà theo chồng sang Nhật. Năm 1908 Pháp toa rập với chính quyền Nhật Bản trục xuất tất cả các nhà yêu nước và du học sinh tại Tokyo. Từ đó bà cùng chồng và các chiến hữu khác, phải rời Nhật Bản lưu cư ở các nước Nhật, Pháp, Đức... Năm 1916 chồng bà là thành viên của tổ chức Việt Nam Quang phục hội có chân bí mật trong bộ tham mưu ở nước ngoài (Đức) của cuộc khởi nghĩa Duy Tân năm 1919. Bà mất trong năm 1916, anh em con cháu bên nhà chồng bà là các ông: Lê Vĩnh Huy, Lê Ngọc Cẩn, Lê Duyên, Lê Liễn... đều hi sinh vì nước. Bà là tác giả tập kí tường thuật về việc thất bại của cuộc khởi nghĩa Duy Tân năm 1916 có tên Nhật kí Duy Tân khởi nghĩa là một sử liệu quí hiếm giúp các nhà nghiên cứu sử rõ thêm về cuộc khởi nghĩa Duy Tân năm 1916."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 523,
+  "entityName" : "Triệu Sóc",
+  "aliases" : [ ],
+  "overview" : "Triệu Sóc (chữ Hán: 趙朔, ?-597 TCN), tức Triệu Trang tử (趙莊子), là vị tông chủ thứ năm của họ Triệu, một trong Lục khanh nước Tấn thời Xuân Thu trong lịch sử Trung Quốc."
 }

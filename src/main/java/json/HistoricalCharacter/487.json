@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê ở Hải Phòng",
-  "occupation": "Nhà yêu nước ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê xã Phúc Lộc, huyện Lệ Thủy, tỉnh Quảng Bình",
+  "occupation" : "Văn thần đời Mạc",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nam - Bắc Triều" : 19
   },
-  "id": 487,
-  "entityName": "Nguyễn Hữu Tuệ",
-  "aliases": [
-    "Lý Tuệ"
-  ],
-  "overview": "Ông rất có công với phong trào cách mạng hồi đầu thế kỉ XX. Nguời thấp bé, mắt sáng, làm bồi tàu nhưng lòng nhiệt thành yêu nước, ông thường che chở giúp đỡ các nhà cách mạng và học sinh xuất ngoại. Có lần ông bị Pháp bắt giam, ông tuyệt thực phản đối không chịu khai gì cả chúng phải thả ông ra vì thiếu bằng cớ buộc tội. Phan Bội Châu từng được ông tán trợ, rất có cảm tình với ông. Năm Mậu dần 1938 ông mất. Nghe tin, Phan Bội Châu làm thơ truy niệm ông: Ai ngờ đầu bếp được như ngươi, Giữa mặt trần gian khó thấy người. Nô lệ xác nhưng thần thánh óc, Hạ tầng đất vẫn thượng lưu trời. Liều cùng mưa nắng thi gan sắt, Thề với non sông trả nợ đời. Tức tối mình đây còn vậy vậy, Tượng đồng bia đá sẽ rồi ai."
+  "id" : 487,
+  "entityName" : "Giáp Cống",
+  "aliases" : [ ],
+  "overview" : "Xuất thân giám sinh, gặp hồi địa phương rối loạn, ông một niềm trung nghĩa, giúp vua trị nước, được quan địa phương lưu ý khen ngợi, định bổ dụng làm quan. Không ngờ đang lúc chờ lệnh đi trấn nhậm, một hôm ông ngồi thuyền về quê nhà thăm mẹ, gặp trận bão nhận chìm thuyền chết đuối. Dân chúng đều thương tiếc."
 }

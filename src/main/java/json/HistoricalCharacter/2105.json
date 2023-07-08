@@ -1,22 +1,18 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "965\n----------------------------------------------\nẤt Sửu 965",
-  "hometown": "Hà Tây",
-  "occupation": "Con thứ hai Ngô Quyền, khi Ngô Quyền lập nhà Ngô, sử gọi là Ngô Tiên Chúa, đến khi Xương Văn nối nghiệp túc Ngô Hậu chúa.",
-  "workTenure": "950 – 965\n----------------------------------------------\nKhông rõ",
-  "fatherName": {
-    "Ngô Quyền": 1285
+  "dateOfBirth" : "1799\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "1872\n----------------------------------------------\nKhông rõ",
+  "hometown" : "quê làng Thịnh Trường huyện Chân Phúc, tỉnh Nghệ An",
+  "occupation" : "Văn thần đời Gia Long, không rõ năm sinh, năm mất",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "Nguyễn Văn Chúc" : null
   },
-  "motherName": {
-    "Dương hậu": null
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "eraName": {
-    "Nhà Ngô": 25
-  },
-  "id": 2105,
-  "entityName": "Ngô Xương Văn",
-  "aliases": [
-    "Ngô Xương Văn (吳昌文)"
-  ],
-  "overview": "Ngô Xương Văn (chữ Hán: 吳昌文; ? – 965) là một vị vua nhà Ngô, trị vì từ 950 đến 965. Trong đó khoảng 951 – 954 cùng với anh trai là Ngô Xương Ngập. Sử gọi chung đó là thời Hậu Ngô Vương.\n----------------------------------------------\nNgô Quyền mất, Xương Văn bị cậu là Dương Tam Kha cướp quyền và bắt ông làm con nuôi. Được 6 năm, nhân hai thôn Thái Bình (thuộc tỉnh Sơn Tây) nổi loạn, ông vâng lệnh Tam Kha điều binh cùng hai tướng Dương Kiết Lợi và Đỗ Cảnh Thạch đi đánh dẹp. Đến Từ Liêm, ông hợp bàn mưu kế với hai tướng ấy, rồi trở về lật đổ Tam Kha, phục nghiệp vào năm Tân hợi 951. Lên ngôi, ông xưng là Nam Tấn vương, giáng Tam Kha làm Trương Dương Công. Bấy giờ, anh ông là Xương Ngập đã bỏ trốn ở làng Trà Hương từ trước, nhờ Phạm Lịnh Công nuôi giấu. Ông cho rước anh về cùng trị nước. Anh ông xưng là Thiên Sách vương. Đến năm Giáp dần 954, Xương Ngập mất, ông toàn quyền cai trị, nhưng trong nước thường có loạn. Ất sửu 965, khi đi dẹp loạn ở thôn Thái Bình, ông bị giặc bắn chết tại trận. Con Xương Ngập nối ngôi là Ngô Xương Xí, chỉ còn là một sứ quân trong thời loạn."
+  "id" : 2105,
+  "entityName" : "Nguyễn Năng Tĩnh",
+  "aliases" : [ "Tốn Ban", "Án Sát Siêu", "Phương Đình", "Siêu", "Mai Hoa Đường" ],
+  "overview" : "Nguyễn Văn Siêu (chữ Hán: 阮文超, 1799 - 1872), ban đầu tên là Định, sau đổi là Siêu,Còn gọi là Án Sát Siêu, tự: Tốn Ban, hiệu: Phương Đình ; là nhà thơ, nhà nghiên cứu văn hóa Việt Nam ở thế kỷ 19 . Ông thường được gọi là Nguyễn Siêu - trùng tên với một sứ tướng thời loạn 12 sứ quân.\n----------------------------------------------\nNăm Canh ngọ 1810 ông đỗ cử nhân, đồng khoa với Nguyễn Công Trứ, làm Ngự sử một thời gian rồi cáo về. Ông cùng Ngô Thế Vinh đề tựa sách Ức Trai di tập do Dương Bá Cung biên soạn và có phê bình tập thơ của Nguyễn Trãi trong sách ấy. Đây là bộ sách đầu tiên công bố một số lớn thơ văn của Nguyễn Trãi. Bộ Ức Trai di tập có 3 bài tựa, một của Dương Bá Cung, một của Ngô Thế Vinh và một của ông đề năm Quí tị (1833) năm Minh Mạng thứ 14."
 }

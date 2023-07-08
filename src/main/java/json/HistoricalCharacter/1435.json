@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "26 tháng 5, 1927 (90 tuổi) Sa Đéc, Đông Dương thuộc Pháp",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 1435,
-  "entityName": "Nguyễn Thị Bình",
-  "aliases": [],
-  "overview": "Nguyễn Thị Bình (sinh năm 1927) là một nữ chính trị gia nổi tiếng của Việt Nam. Bà nổi tiếng trên thế giới khi giữ cương vị Trưởng phái đoàn Mặt trận Dân tộc Giải phóng miền Nam Việt Nam, rồi Chính phủ Cách mạng lâm thời Cộng hòa Miền Nam Việt Nam tham gia Hội nghị 4 bên về hòa bình cho Việt Nam tại Paris trong giai đoạn 1968-1973. Bà là một trong những người đại diện các bên ký hiệp định Paris năm 1973 và là người phụ nữ duy nhất đặt bút ký vào Hiệp định. Bà cũng từng giữ chức vụ Phó Chủ tịch nước Việt Nam từ 1992 đến 2002."
+  "dateOfBirth" : "Mậu Dần 1818",
+  "dateOfDeath" : "Nhâm Tuất 1862",
+  "hometown" : "quê ở La Châu, huyện Hòa Vang, phủ Điện Bàn, tỉnh Quảng Nam",
+  "occupation" : "Danh sĩ đời ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
+  },
+  "id" : 1435,
+  "entityName" : "Đỗ Thúc Tịnh",
+  "aliases" : [ ],
+  "overview" : "Năm Mậu thân 1848, ông đỗ tiến sĩ, lúc 32 tuổi (đỗ Cử nhân trong khoa Bính ngọ 1846). Sơ bổ Tri phủ Thiệu Hóa, kế đổi vào phủ Diên Khánh. Ông mộ dân lập ấp, khai khấn ruộng hoang, dân đều thương mến. Sau thăng án sát tỉnh Khánh Hòa, kế lên Hồng lô tự khanh, lãnh Bố chính sứ, rồi lại được triệu về làm Biện lí bộ Binh tại kinh đô Huế. Ông nhiệt thành yêu nước, chủ trương phải chiến đấu chống quân Pháp xâm lược. Nhất là sau khi quân Pháp chiếm ba tỉnh miền Đông Nam Kì, ông cũng phẫn uất, liền dâng sớ tình nguyện xin vào Nam chiến đấu. Ông nhận chức Khâm sai quân vụ tại các tỉnh miền Nam, hằng hiệu triệu quân dân đoàn kết cứu nước. Phong trào kháng Pháp cứu nước ở trong Nam phát triển mạnh, chính ông đã đóng góp rầt nhiều tâm huyết vào đót Nhưng chí lớn chưa thành thì ông nhuốm bệnh rồi mất, được triều đình truy tặng là Tuần phủ Định Tường, nhân dân hết lòng hâm mộ."
 }

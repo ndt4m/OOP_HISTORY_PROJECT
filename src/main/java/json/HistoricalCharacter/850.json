@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "Phước Lễ, Bà Rịa\n----------------------------------------------\nGiáp Thìn 1904",
-  "dateOfDeath": "Hà Nội\n----------------------------------------------\nGiáp Thìn 1964",
-  "hometown": "quê ở tỉnh Bà Rịa",
-  "occupation": "Chính trị gia\n----------------------------------------------\nNhà hoạt động chính trị",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Giáp Tí 1924",
+  "dateOfDeath" : "Canh Ngọ 1990",
+  "hometown" : "tại xã Hải Phú, huyện Hải Hậu, tỉnh Nam Định",
+  "occupation" : "Kịch tác gia",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nước Việt Nam mới" : 29
   },
-  "id": 850,
-  "entityName": "Dương Bạch Mai",
-  "aliases": [
-    "Bourov"
-  ],
-  "overview": "Dương Bạch Mai (1904-1964) là một nhà hoạt động cách mạng dân tộc, nhà chính trị, ngoại giao Việt Nam, đảng viên Đảng Cộng sản Việt Nam, đại biểu Quốc hội Việt Nam khóa 2.\n----------------------------------------------\nThuở nhỏ ông học ở quê nhà, Sài Gòn, sau du học tại Pháp. Thời gian học ở Paris, ông tham gia Đảng Việt Nam độc lập do một số nhà yêu nước Việt Nam sáng lập tại Pháp. Sau đó, ông gia nhập Đảng Cộng sản Pháp, cùng hoạt động với Nguyễn Văn Tạo. Năm 1928, trong một cuộc xô xát có đổ máu tại khu Đại học La tinh (Paris) giữa một nhóm sinh viên tiến bộ và nhóm sinh viên cực hữu, ông bị bắt giam một thời gian ngắn. Khoảng năm 1929, ông sang Mạc Tư Khoa liên lạc với Đảng Cộng sản Liên Xô, rồi vào học Trường Đại học Đông phương Staline cùng khóa với Bùi Văn Thủ, Hà Huy Tập, Trần Ngọc Danh... sau đó ông trở về Pháp. Năm 1932, ông về nước, sống và hoạt động tại Sài Gòn. Thời gian này ông cộng tác với các báo La Clockefelée, La Lutte, Mai, Dân quyền với Nguyễn Văn Tạo, Nguyễn An Ninh, Tạ Thu Thâu, Phan Văn Hùm... Năm 1936, 1937 ông đứng chung \"Sổ Lao động\" của báo La lutte cùng với Phan Văn Hùm,Tạ Thu Thâu,Trần Văn Thạch, Nguyễn Văn Tạo ứng cử vào Hội đồng Thành phố Sài Gòn nhân danh Mặt trận vô sản, thống nhất và đắc cử vẻ vang. Cùng thời gian này ông và các đồng viện cùng các tổ chức yêu nước khác tổ chức phong trào Đông Dương Đại hội nhằm vận động dân sinh và dân chủ. Cuối cùng phong trào tan rã do sự lật lọng của chính quyền thực dân và các đảng thân Pháp. Pháp khủng bố, ông và các đồng viện khác bị bắt đưa ra tòa. rồi bị cưỡng bức lưu trú ở Cần Thơ (nay thuộc tỉnh Hậu Giang). Một thời gian sau ông được trả tự do. Năm 1939, nhân chiến tranh thế giới thứ hai bùng nổ, thực dân Pháp vin vào tình trạng chiến tranh, bắt ông đày đi Côn Đảo một lần với Bùi Văn Thủ, Nguyễn Văn Tạo, Lê Hồng Phong, Lê Duẩn, Nguyễn An Ninh... Đến năm 1943, ông mới được trả tự do, nhưng vẫn bi quản thúc tại Tân Uyên (Biên Hòa). Đến năm 1945, ông là một trong nhĩmg người lănh đạo cướp chính quyền tại Sài Gòn. Cách mạng tháng Tám thành công rồi Toàn quốc kháng chiến, ông phụ trách công tác an ninh trong Lâm ủy Nam bộ. Năm 1946, ông là Thành viên của Phái đoàn Việt Nam đi dự Hội nghị trù bị Đà Lạt... Tại Hội nghị này ông nổi tiếng là nhân vật có những ý kiến rất thẳng thừng tranh luận với các thành viên người Pháp. Sau khi dự Hội nghị Đà Lạt về Fontainbleau (Paris) ông bi Pháp bắt đày lên Kontum. Tại đây ông được các chiến sĩ quân báo liên khu 5 giải thoát về Bình Định. Sau đó ông được điều ra công tác ở Trung ương. Sau hòa binh lập lại (1954), ông vẫn làm việc ở Hà Nộí. Năm 1964, ông mất ở Hà Nội, hưởng dương 60 tuổi."
+  "id" : 850,
+  "entityName" : "Cao Mạnh Tường",
+  "aliases" : [ "Đào Hồng Cẩm" ],
+  "overview" : "Trước năm 1945, ông học tập và hoạt động ở Nam Định, sau Toàn quốc kháng chiến ông nhập ngũ phụ trách công tác văn nghệ trong quân đội tại các đơn vị Đại đoàn 308, tổng cục chính trị QĐNDVN, Giám đốc nhà hát quân đội. Từ năm 1960-1975, ông tham gia Ban chấp hành Hôi Nghệ sĩ sân khấu Việt Nam, Đại biểu quốc hội khóa VII được phong quân hàm Đại tá, Nghệ sĩ ưu tú. Ông qua đời tại Hà Nội ngày 16 tháng 1 năm 1990, thọ 66 tuổi. Các tác phẩm chính: - Đại đội trưởng của tôi (kịch, 1974). - Chị Nhàn (kịch 1964) - Nổi gió (kịch, 1964). - Tổ quốc (kịch, 1976). - Bước theo anh (1966). - Một người mẹ (1978). - Đêm và ngày (1980). - Nghị hụt (1957). - Trước giờ chiến thắng (1960). - Ông cháu (1965)."
 }

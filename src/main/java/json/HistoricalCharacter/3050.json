@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê ở làng Từ Lâm, huyện Từ Liêm, tỉnh Hà Đông (nay thuộc thành phố Hà Nội)",
-  "occupation": "Liệt phụ họ Nguyễn",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Danh thần đời Trần Thánh tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Trần" : 15
   },
-  "id": 3050,
-  "entityName": "Cổ Trâu Liệt Phụ",
-  "aliases": [],
-  "overview": "Năm 16 tuổi, bà kết duyên với người học trò cũng họ Nguyễn quê ở làng Cổ Trâu, bà sống với cha mẹ chồng rất hiếu thảo, ở với họ hàng hòa thuận, kính yêu. Năm Kỉ dậu 1729, cuối đời Lê Dụ tông, chồng mất, bà khóc ngất, ở luôn bên mồ. Nhà chồng sai cô em gái chồng ra đưa bà phải về. Bà gượng gạo ăn uống và bảo nhỏ cô em: \"Xin cô chịu khó khéo hầu hạ ông bà. Tôi phải đi theo anh mà thôi\". Người nhà biết chuyện, khuyên giải và cố ý canh chừng bà, không đề bà liều mình. Nhưng bà đã quyết định, nên mấy hôm sau, một đêm bà tắm gội sạch sẽ, thay áo chỉnh tề, rồi thắt cổ chết theo chồng. Dân kính trọng lòng tiết liệt, có dựng bia ghi rõ sự tích, gọi bà là Cổ Trâu liệt phụ (người liệt phụ ở làng Cổ Trâu)."
+  "id" : 3050,
+  "entityName" : "Đào Thế Quang",
+  "aliases" : [ ],
+  "overview" : "Ông từng lãnh nhiệm vụ trinh sát, theo dõi hành động quân xâm lược Mông- Nguyên để báo cáo lên triều đình hầu kịp thời đối phó với giặc ngoại xâm. Có lần Đào Thế Quang lên đường giả dạng là người thầy thuốc đi tìm mua thuốc Bắc. Ông thẳng sang Long Châu, dọ thám tình hình bên Nguyên. Chính nhờ công lao ông mà bờ coi được yên vì ta biết trước động tĩnh của đối phương nên đã phòng bị đâu vào đấy, và khi động binh thì nắm thế tất thắng."
 }

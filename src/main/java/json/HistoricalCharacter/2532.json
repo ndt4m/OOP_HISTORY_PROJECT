@@ -1,19 +1,17 @@
 {
-  "dateOfBirth": "1247\n----------------------------------------------\n…",
-  "dateOfDeath": "1330\n----------------------------------------------\nCanh Ngọ 1330",
-  "hometown": "quê ở Anh Sơn (có sách chép Giáp Sơn), tỉnh Hải Dương)",
-  "occupation": "Võ tướng đời Trần Anh tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Trần": 15,
-    "nhà Trần": null
+  "dateOfBirth" : "1842\n----------------------------------------------\nNhâm Dần 1842",
+  "dateOfDeath" : "1887\n----------------------------------------------\nĐinh Hợi 1887",
+  "hometown" : "huyện Nga Sơn, tỉnh Thanh Hoá)\n----------------------------------------------\nquê làng Tráng Xá, huyện Thanh Liêm, tỉnh Hà Nam lừng danh với chiến lũy Ba Đình",
+  "occupation" : "Chiến sĩ Cần vương kháng Pháp",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 2532,
-  "entityName": "Đỗ Khắc Chung",
-  "aliases": [
-    "Trần Khắc Chung"
-  ],
-  "overview": "Trần Khắc Chung (chữ Hán: 陳克終, 1247–1330) là một nhân vật lịch sử đời nhà Trần.\n----------------------------------------------\nÔng xuất thân là Chi hậu cục thủ, một chức nhỏ, nhưng có tài. Năm Bính tuất 1286, quân Nguyên đóng ở Đông Bộ đầu, Hưng Đạo vương cố thủ ở mé bờ Nam. Trần Nhân tông muốn sai người đi dọ thám tình hình giặc, Đỗ Khắc Chung xin đi, Nhân tông khen: \"Ngờ đâu xe muối mà có ngựa kì ngựa kí như thế\", rồi trao thư cho ông đi đến trại quân Nguyên xin hòa, làm chước hoãn binh. Hoàn thành sứ mạng, ông được trọng dụng. Về sau làm đến Ngự sử đại phu, ít lâu thăng Đại hành khiển. Và được cho theo họ vua, nên cũng gọi là Trần Khắc Chung, rồi thăng làm Thượng thư Tả bộc xạ. Đến đời Trần Anh tông, chính ông đã sang Chiêm Thành cứu Huyền Trân công chúa khỏi phải lên hỏa đàn. Đương thời, ông bị nhiều người chê trách cho là ông có tâm địa xấu. Như khi Huệ Võ vương Trần Quốc Điền bị Văn Hiến Hầu vu làm phản đang giam trong ngục, Trần Minh tông hỏi ý kiến ông xem nên xử thế nào. Ông vốn cùng phe với Văn Hiến Hầu, thản nhiên nói: \"trói cọp dễ, thả cọp khó\". Quốc Điền do đó bị hại. Đến năm Canh ngọ 1330, ông mất được tặng hàm Thiếu sư. Sau đó, bị gia nô của Quốc Điền là Thiếu Võ đào mả lên lấy thây chật đầu và nghiền xương để trả thù cho chủ."
+  "id" : 2532,
+  "entityName" : "Đinh Công Tráng",
+  "aliases" : [ ],
+  "overview" : "Đinh Công Tráng (1842 - 1887) là lãnh tụ chính của khởi nghĩa Ba Đình (tên cứ điểm ở huyện Nga Sơn, tỉnh Thanh Hoá) trong phong trào Cần Vương chống Pháp ở cuối thế kỷ 19 tại Việt Nam.\n----------------------------------------------\nÔng hùng cứ nơi chiến khu Ba Đình, chống nhau với quân Pháp suốt ba năm. Hai tướng Metzinger và Doddo đến đánh đều bị quân ông đẩy lui. Đến đầu năm 1887, đại tá Brissand thống lãnh 76 sĩ quan và 3. 500 quân tinh nhuệ, đánh luôn mấy ngày và tổn thất nặng nề mới phá được. Thành Ba Đình do ông đóng giữ rộng 400 thước, dài 1200 thước, bao bọc 3 làng Mậu Tịnh, Mĩ Khê, Thượng Thọ, chống giữ từ tháng 4-1885 đến 20-1-1887. Thành vỡ, ông chạy về Nghệ An và bị bắn chết trong đêm 5-10-1887 tại làng Trung Yên, trên bờ sông Cả. Tướng Pháp Mason nhận định về Đinh Công Tráng: \"Người có trật tự, trọng kỉ luật, cương trực, hay nghiêm trị những thủ hạ quấy nhiễu dân; có chí nhẫn nại, biết mình, biết người, không bao giờ hành binh cẩu thả, giỏi lập trận thế\""
 }

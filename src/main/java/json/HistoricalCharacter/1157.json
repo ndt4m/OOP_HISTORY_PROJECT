@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "585 Đỗ Lăng Kinh Triệu (nay là Trường An thành phố Tây An Thiểm Tây)",
-  "dateOfDeath": "Ngày mùng 6 tháng 5 năm 630 (46 tuổi) Trường An (nay là thành phố Tây An Thiểm Tây)",
-  "hometown": "huyện Đỗ Lăng quận Kinh Triệu (nay là Trường An khu Tây An thị tỉnh Thiểm Tây, Trung Quốc)",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 1157,
-  "entityName": "Đỗ Như Hối",
-  "aliases": [
-    "Khắc Minh"
-  ],
-  "overview": "Đỗ Như Hối (585 - 6 tháng 5 năm 630), tên chữ Khắc Minh, người huyện Đỗ Lăng quận Kinh Triệu (nay là Trường An khu Tây An thị tỉnh Thiểm Tây, Trung Quốc), là đại thần thời Đường sơ. Ông là một trong những mưu thần chủ yếu phò Lý Thế Dân cướp đoạt chính quyền, khai sáng Trinh Quán chi trị, được Lý Thế Dân trọng dụng. Cùng Phòng Huyền Linh được mọi người xưng tụng \"Phòng mưu đỗ đoạn\" ."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Người đời chúa Nguyễn Phúc Thuần ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
+  "id" : 1157,
+  "entityName" : "Đặng Đại Độ",
+  "aliases" : [ ],
+  "overview" : "Ông đỗ Hương tiến, thân phụ ông là Đặng Đại Lược phò tá Võ vương Nguyễn Phúc Khoát. Thời biến loạn, ông cũng theo nhà Nguyễn Phúc chống lại Tây Sơn. Ông làm kí lục dinh Bình Khương và dinh Trấn Phiên, ông giữ lòng trung nghĩa và thanh cần. Một khi có người trong nhà chúa làm điều trái quấy, nhiễu hại lương dân, ông chiếu phép công bắt trị tội rồi tự mình đến kinh biện bạch. Chúa Nguyễn khen ông chính trực, chẳng bách hại gì đến ông. Ít lâu ông thăng Tuần phủ Gia Định, rồi mất tại nhiệm sở."
 }

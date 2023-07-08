@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê làngThổ Thành, phủ Diễn Châu, tỉnh Nghệ An, sang cư ngụ xã Vô Ngại, huyện Đường Hào (sau là phủ Mĩ Hào) tỉnh Hưng Yên (nay vẫn là tỉnh Hưng Yên)",
-  "occupation": "Danh sĩ đời Trần Duệ tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Trần": 15
+  "dateOfBirth" : "Ất Dậu 1825",
+  "dateOfDeath" : "Kỉ Hợi 1899",
+  "hometown" : "Quê làng Mĩ Quán, tỉnh Thanh Hóa",
+  "occupation" : "Linh mục Thiên chúa giáo, thụ phong Linh mục, tục gọi Cha Sáu",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 598,
-  "entityName": "Hồ Tông Thốc",
-  "aliases": [],
-  "overview": "Hồ Tông Thốc(胡宗簇) là một vị quan, nhà sử học của Việt Nam vào thời vua Trần Nghệ Tông. Ông làm quan cho triều Trần tới chức Hàn Lâm học sĩ phụng chỉ kiêm Thẩm hình viện sứ, soạn các bộ sách sử như Việt Nam thế chí (1 bộ); Việt sử cương mục (1 bộ), nay đã thất lạc, mất năm 80 tuổi.\n----------------------------------------------\nNăm Nhâm tí 1372, ông đỗ Thái học sinh làm An phủ sứ, ông có sang sứ nhà Minh. Năm Bính dần 1386, làm Học sĩ Viện Hàn lâm, kiêm chức Thẩm hình viện sự. Đến khi Hồ Quí Ly truất phế Trần Thiếu đế, ông cáo quan lui về, hơn 80 tuổi mới mất, còn để lại các sách: - Thảo nhàn hiệu tần tập - Việt sử cương mục. - Việt Nam thế chí - Phú học chỉ nam Ông còn có nhiều bài thơ được truyền tụng như: Qua miếu Hạng Võ, Tặng Nuyễn Phi Khanh. Ông cũng có soạn bài văn Bia chùa Báo ân. Con cháu ông như Hồ Sĩ Dương, Hồ Sĩ Đống đều là bậc danh sĩ đương thời."
+  "id" : 598,
+  "entityName" : "Trần Lục",
+  "aliases" : [ "Cha Sáu" ],
+  "overview" : "Ông thông thạo các ngôn ngữ La tinh Pháp, Hán; có tên thánh là Phêrô (Pierre). Trong triều Minh Mạng vì có lệnh cấm đạo nên ông bị bắt giam từ ngày 13-7-1858 cho đến năm 1860 mới được thả. Sang triều Tự Đức khi thực dân Pháp đánh chiếm nước ta, ông góp sức lo việc giao thiệp giữa triều đình Huế và Pháp vào giai đoạn đầu Pháp chiếm nước ta. Cuối năm 1860, ông được thụ phong linh mục tại Lạng Sơn, năm 1865 ông đổi về giáo xứ Phát Diệm. Tại đây, ông là người thiết kế xây cất nhà thờ Rosarie (tức nhà thờ Phát Diệm) công trình hoàn thành trong năm 1891 được kể là một kì công kiến trúc Việt Nam thời bấy giờ. Ngày 6-7-1899 ông mất, thọ 74 tuổi."
 }

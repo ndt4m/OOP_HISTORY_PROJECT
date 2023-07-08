@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "Nhâm Dần 1902",
-  "dateOfDeath": "Ất Sửu 1985",
-  "hometown": "quê tỉnh Quảng Ngãi (em ruột của thi sĩ Bút Trà)",
-  "occupation": "Nhà báo",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "sinh năm 1963",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà nước Việt Nam" : null
   },
-  "id": 2381,
-  "entityName": "Nguyễn Đức Huy (Ii)",
-  "aliases": [
-    "Hồng Tiêu"
-  ],
-  "overview": "Ông vào Nam sinh hoạt trong làng văn, làng báo, cộng tác và từng làm chủ bút nhiều tờ báo hàng ngày, hàng tuần: Trung Lập, Công Luận, Đuốc Nhà Nam, Đông Pháp, Thần Chung... Về sau, ông cùng anh là Bút Trà Nguyễn Đức Nhuận chủ trương tờ nhật báo Sài Gòn Mới càng nổi tiếng. Thơ văn ông còn được truyền tụng nhiều. Vợ ông cũng là một nhà văn, Tùng Long Lê Thị Vân (cũng gọi là Lê Thị Bạch Vân). Năm Ất sửu 1985 ngày 26-3 Dương lịch ông mất tại TP. Hồ Chí Minh, thọ 83 tuổi, an táng tại Gò Dưa, Thủ Đức."
+  "id" : 2381,
+  "entityName" : "Trần Lực",
+  "aliases" : [ ],
+  "overview" : "Trần Lực (sinh năm 1963) là một diễn viên và đạo diễn điện ảnh Việt Nam. Anh đã được trao tặng danh hiệu \"Nghệ sĩ ưu tú\" của Nhà nước Việt Nam."
 }

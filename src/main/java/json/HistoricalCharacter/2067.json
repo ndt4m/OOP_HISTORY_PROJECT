@@ -1,18 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Vua",
-  "workTenure": "1214—1216",
-  "fatherName": {
-    "Lý Anh Tông": 2394
+  "dateOfBirth" : "1896\n----------------------------------------------\nĐinh Dậu 1897",
+  "dateOfDeath" : "1967\n----------------------------------------------\nĐinh Mùi 1967",
+  "hometown" : "Quảng Trị\n----------------------------------------------\ntại Nam Định",
+  "occupation" : "Giám mục",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "motherName": {},
-  "eraName": {
-    "Nhà Lý": 14
-  },
-  "id": 2067,
-  "entityName": "Lý Nguyên Vương",
-  "aliases": [],
-  "overview": "Lý Nguyên Hoàng (tiếng Trung: 李元皇; ? – 1221), hay Nguyên vương (元王) là một vị vua nhà Lý trong lịch sử Việt Nam."
+  "id" : 2067,
+  "entityName" : "Lê Hữu Từ",
+  "aliases" : [ "Tađêô" ],
+  "overview" : "Tađêô Lê Hữu Từ (1896 - 1967) là một giám mục Công giáo của Việt Nam, với khẩu hiệu giám mục là \"Tiếng kêu trong hoang địa\" (\"Vox Clamantis\" Mt 3:3). Ông từng là Giám mục Đại diện Tông Tòa giáo phận Phát Diệm, được xem là người thành lập và lãnh đạo lực lượng Tự vệ Công giáo chống Cộng tại Bùi Chu - Phát Diệm trong giai đoạn 1950-1954. Ông cũng được xem là lãnh đạo tinh thần của những người Công giáo di cư vào miền Nam trong suốt giai đoạn 1954-1967.\n----------------------------------------------\nNăm 1928 ông được giáo hội Thiên chúa giáo Việt Nam phong linh mục vào ngày 23 tháng 12 năm 1928, Tòa thánh Vatican phong linh mục ngày 28-10-1945 tại Phát Diệm. Sau năm 1954 ông cùng một số giáo dân di cư vào Sài Gòn với chức vụ Giám mục thuộc giáo phận Phát Diệm. Ông mất ngày 24 tháng 4 năm 1967, thọ 70 tuổi."
 }

@@ -1,18 +1,17 @@
 {
-  "dateOfBirth": "Giáp Tuất 1874",
-  "dateOfDeath": "Canh Tuất 1910",
-  "hometown": "quê làng Hải Côn, tỉnh Nghệ An",
-  "occupation": "Chí sĩ cận đại",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Bính Ngọ 1786",
+  "hometown" : "Không rõ",
+  "occupation" : "Võ tướng nhà Trịnh, tước Tạo Quận Công. Ông được Lê Hiển tông và Trịnh Sâm rất tín nhiệm, thường giao cho những công vụ quan trọng.",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34,
+    "nhà Lê" : null
   },
-  "id": 790,
-  "entityName": "Đặng Thái Thân",
-  "aliases": [
-    "Ngư Hải"
-  ],
-  "overview": "Ông đỗ đầu xứ nên gọi là đầu xứ Đặng là học trò và đồng chí của Phan Bội Châu. Năm 1904, ông cùng với Phan Bội Châu và một số nhà yêu nước khác lập ra hội Duy tân, xướng xuất phong trào Đông du. Cũng như Tiểu La, ông là cảnh tay đắc lực của Phan Bội Châu, lo công việc của hội Duy tân từ Huế ra như bố trí cho người xuất dương. Năm Mậu thân 1908, ông rút vào núi tạm lánh. Một đêm ông lẻn về làng Phan Thôn (nay là xâ Nghi Kim, huyện Nghi Lộc). Có kẻ đi báo. Ông bị giặc Pháp bao vây, liệu không thoát, ông trở súng tự sát sau khi bắn chết tên tay sai Một Độ và thủ tiêu hết tài hệu bí mật. Ông mất đi đề lại lòng xót thương vô hạn cho đồng chí, đồng bào. Các đồng chí của ông làm rất nhiều thơ, liễn, đối truy niệm ông. Phan Bội Châu ghi về ông: \"Đặng quân vốn người hăng hái gan dạ, nhân phẩm lại cao, trải mười năm vừa là thầy vừa là bạn tôi\" (Ngục Trung Thư). Huỳnh Thúc Kháng đề cao ông: \"Người khảng khái, trầm tĩnh, học vấn uyên bác, đởm thức hơn người; cái năng lực gánh nặng đi đường xa không lộ ra ngoài, không phải là người đồng chí tâm giao thì không ai biết là người thế nào. Cụ Sào Nam ở ngoài, sau Tây Hồ và Tiểu La bị đày, mà trong khoảng vài năm phong trào Đông học còn ảnh hưởng lừng lẫy không dứt, chính nhờ sức Ngư Hải. Trong miền Nam thì có Sơn Tẩu (Đỗ Đăng Tuyển) và Nam Xương (Thái Phiên). Từ khi Ngư Hải mất, cụ Sào Nam như mất cánh tay, cái dây liên lạc trong ngoài bị đứt đoạn\" (Thi tù tùng thoại)."
+  "id" : 790,
+  "entityName" : "Phạm Ngô Cầu",
+  "aliases" : [ ],
+  "overview" : "Phạm Ngô Cầu(chữ Hán: 范吳俅) tức Tạo Quận công là một tướng nhà Lê trung hưng, thời chúa Trịnh Sâm trong lịch sử Việt Nam.\n----------------------------------------------\nÔng có tài dùng binh, khi làm Trấn thủ Thuận Hóa phải đối đầu với nghĩa quân Tây Sơn. Năm 1786, vì mắc kế phản gián của nhà Tây Sơn ông bị chiếm mất thành, phải tự trói mình đầu hàng. Các tướng Tây Sơn giải ông về Qui Nhơn rồi xử tử hình cùng năm."
 }

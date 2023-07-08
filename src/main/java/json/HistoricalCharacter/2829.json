@@ -1,18 +1,14 @@
 {
-  "dateOfBirth": "Tân Mùi 1691",
-  "dateOfDeath": "Canh Thìn 1760",
-  "hometown": "quê xã Liêu Xá, huyện Đường Hào, tỉnh Hải Dương",
-  "occupation": "Có sách chép là Lê Hữu Khánh, Danh thần đời Lê Dụ tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
-  },
-  "id": 2829,
-  "entityName": "Lê Hữu Kiều",
-  "aliases": [
-    "Lê Hữu Khánh"
-  ],
-  "overview": "Ông là con thứ 10 (út) của Hoàng giáp Lê Hữu Danh, em tiến sĩ Hữu Hỷ, tiến sĩ Hữu Mưu, và là chú ruột Y sư Lê Hữu Huân tức Lê Hữu Trác. Năm 18 tuổi, ông đỗ hương giải một lượt với anh là Hữu Mưu. Năm 25 tuổi đỗ khoa hoành từ, 27 tuổi (Mậu tuất 1718) đỗ đồng tiến sĩ. Trải làm các chức: Giám sát ở Thanh Hóa, Hiến sát ở Kinh Bắc, Tham khổn ở Thái Nguyên và Cao Bằng, Phó đô ngự sử tại triều ông được sĩ phu trọng vọng vì tính khảng khái liêm chính. Năm Đinh tị 1737, đi sứ nhà Thanh, khi về được thăng chức làm việc ở bộ Công, tước Liêu Đình Bá. Năm Canh thân 1740 thăng Đô đài ngự sử, rồi có huân công, lại được thăng tước Hầu. Sau đó, ông nhận lệnh vua cùng với Hà Tông Huân đi thanh tra khắp cơ sở quân dân chính. Năm Giáp tí 1744, ông làm Đốc trấn Thái Nguyên, đến năm Nhâm thân 1752, thăng Thượng thư bộ Binh. Năm Ất vị 1755, ông đã 64 tuổi, trí sĩ, được truy thăng Thượng thư bộ lễ. Suốt 40 năm vào tướng văn ra tướng võ, ông có danh tiếng lớn, hầu hết sĩ phu và nhân dân đều trọng nể, mến yêu. Năm Canh thìn 1760, ông mất, thọ 69 tuổi, được truy tặng Thiếu phó, Quận Công. Lê Quí Đôn bạn ông vẫn thường tỏ niềm trọng tài đức của ông hơn đời. Ông có soạn bộ sách Bắc sứ hiệu tần thi (khoảng 1735-39) thơ cảm hứng khi đi sứ. Con thứ 6 của ông là Hữu Dung đỗ đồng tiến sĩ khoa Ất mùi cũng là bậc tài danh đương thời. Bắc sứ hiệu tần thi là một thi tập do ông sáng tác, biên soạn lúc ông đi sứ Trung Quốc (phó sứ) trong đời Vĩnh Hựu. Ngoài ra ông còn một số thơ chép trong Văn Xá Lê tộc thế phả do Lê Hữu Mưu soạn vào đời Lê."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 2829,
+  "entityName" : "Ngô Khởi",
+  "aliases" : [ ],
+  "overview" : "Ngô Khởi (chữ Hán: 吴起; 440 TCN - 381 TCN) là người nước Vệ, sống trong thời Chiến Quốc, sau Ngũ Tử Tư và Tôn Vũ, từng làm đại tướng ở hai nước là Lỗ và Nguỵ, làm tướng quốc ở Sở. Ông là một nhà quân sự nổi tiếng, nhà chính trị, nhà cải cách lớn thời Chiến quốc."
 }

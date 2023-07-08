@@ -1,16 +1,14 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Thành hoàng làng Đình Lạp",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Bắc thuộc lần lần 3": 1
-  },
-  "id": 1687,
-  "entityName": "Đặng Cao",
-  "aliases": [],
-  "overview": "Nguyên thân phụ ông là một vị tù trưởng thuộc miền thượng du nước ta, có lòng yêu nước nên dấy quân chống xâm lăng, bị giặc giết chết. Ông nối chí cha, báo thù nhà đền nợ nước, gióng trống phất cờ khởi nghĩa. Nhưng thế cô, ông cũng hi sinh, nhân dân thương tiếc và lập đền thờ. Sau được truy phong thành hoàng làng Đình Lạp tại quê hương."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 1687,
+  "entityName" : "Dương Vương",
+  "aliases" : [ ],
+  "overview" : "Dương Vương (chữ Hán: 陽王) là thụy hiệu của một số vị quân chủ."
 }

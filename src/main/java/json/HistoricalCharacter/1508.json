@@ -1,21 +1,16 @@
 {
-  "dateOfBirth": "1648\n----------------------------------------------\nMậu Tí 1648",
-  "dateOfDeath": "1720\n----------------------------------------------\nCanh Tí 1720",
-  "hometown": "quê làng Thiên Mễ, huyện Từ Liêm, tỉnh Hà Đông (nay thuộc TP",
-  "occupation": "Nhà giáo, Nhà thơ, Nhà sử học\n----------------------------------------------\nDanh sĩ đời Lê Hi tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "Ất Mão 1675",
+  "dateOfDeath" : "Quí Sửu 1733",
+  "hometown" : "quê làng MinhTảo,huyện Từ Liêm, tỉnh Hà Đông (nay là Hà Nội)",
+  "occupation" : "Danh thần đời Lê Hi tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
   },
-  "id": 1508,
-  "entityName": "Nguyễn Quí Đức",
-  "aliases": [
-    "Đường Hiên",
-    "Tộ",
-    "Thể Nhận",
-    "Bản Nhân"
-  ],
-  "overview": "Nguyễn Quý Đức (chữ Hán: 阮貴德, 1648 -1720), húy là Tộ (祚), tự Bản Nhân (体仁) hiệu Đường Hiên (堂軒); là nhà thơ, nhà giáo, nhà sử học, nhà chính trị Việt Nam thời Lê trung hưng\n----------------------------------------------\nNăm Bính thìn 1676 ông đỗ thám hoa lúc 28 tuổi. Năm Canh ngọ 1690 ông sung chức Chánh sứ sang Trung Quốc, khi về làm Tả thị lang bộ Lễ, rồi thăng làm Bồi tụng trong phủ chúa Trịnh, tước Liêm Đường Bá (Giáp tuất 1694). Năm sau 1695 thăng Đô ngự sử, rồi có lúc phạm lỗi, bị giáng làm Tả thị lang bộ Binh, nhưng vẫn giữ chức Bồi tụng. Năm Nhâm dần 1698 đổi làm Tả thị lang bộ Lại, năm Mậu tí 1708 thăng Thượng thư bộ Binh, Tham tụng, tước Liêm Quận Công, gia phong Tá lí công thần, Đại học sĩ Đông các. Năm Canh tí 1720 ông mất, thọ 72 tuổi. Khi làm Tể tướng, ông cấm việc phiền hà nhũng nhiễu dân, tha cho người trốn tránh vì thiếu thuế, bớt sưu dịch, thương giúp nhà nông nên được nhân dân cảm phục, mến yêu. Sau khi về hưu, ông dạo xem thắng cảnh, dựng đình Lạc Thư ở bờ sông, họp bạn xướng họa thơ văn. Lúc đi sứ với Nguyễn Đình Sách (1690) ông có soạn bộ Hoa Châu tập. Ông hợp tác với Lê Hi xem xét và sửa chữa bộ sử cũ, rồi viết nối từ đời Lê Huyền tông đến Gia tông (1663-1675) bổ sung bộ Đại Việt sử kí bản kỉ tục biên."
+  "id" : 1508,
+  "entityName" : "Nguyễn Công Cơ",
+  "aliases" : [ ],
+  "overview" : "Năm Đinh sửu 1697 ông đỗ tiến sĩ lúc 22 tuổi, ông là người trẻ tuổi nhất và tài giỏi nhất khoa này. Ông được bổ Hiệu thảo Viện Hàn lâm, rồi thăng Tả thị lang bộ Công (Giáp thân 1704). Năm Ất mùi 1715 ông làm chánh sứ sang Trung Quốc, khi đi sứ về thăng Thượng thư bộ binh. Đến Canh tí 1720, xét thưởng quan lại có thành tích trong 10 năm, ông đứng đầu danh sách được khen thưởng, phong tước Cảo Quận Công hợp cùng Lê Anh Tuấn, Nguyễn Công Hãng vào làm Tham tụng. Sau ông xin đổi sang hàng quan võ, làm đến Thiếu bảo (Đinh mùi 1727). Đến Quí sửu 1733 ông mất, hưởng dương 58 tuối. Tuy làm nên quí hiển, nhưng ông không lập cơ nghiệp riêng gì, nên nổi tiếng thanh bần, được triều đình tặng Thiếu phó."
 }

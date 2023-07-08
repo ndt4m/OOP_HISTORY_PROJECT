@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Vua",
-  "workTenure": "112—111TCN",
-  "fatherName": {
-    "Triệu Anh Tề": 771
+  "dateOfBirth" : "1504",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "xã Lại Ốc, huyện Tế Giang, phủ Thuận An, Kinh Bắc (nay thuộc xã Long Hưng, huyện Văn Giang, tỉnh Hưng Yên) .",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "nhà Mạc" : null
   },
-  "motherName": {},
-  "eraName": {
-    "Nhà Triệu": 16
-  },
-  "id": 876,
-  "entityName": "Triệu Dương Vương",
-  "aliases": [],
-  "overview": "Triệu Dương Vương (趙陽王), hay Triệu Thuật Dương Vương (趙術陽王), Triệu Vệ Dương Vương (趙衛陽王), tên họ thật là Triệu Kiến Đức (趙建德), trị vì từ năm 112 TCN – 111 TCN, là vị vua cuối cùng của nhà Triệu nước Nam Việt trong lịch sử Việt Nam."
+  "id" : 876,
+  "entityName" : "Đỗ Tống",
+  "aliases" : [ ],
+  "overview" : "Đỗ Tống (chữ Hán: 杜綜, 1504 - ?), người xã Lại Ốc, huyện Tế Giang, phủ Thuận An, Kinh Bắc (nay thuộc xã Long Hưng, huyện Văn Giang, tỉnh Hưng Yên) . Ông đỗ trạng nguyên khoa Kỷ Sửu, niên hiệu Minh Đức thứ 3 (1529) đời Mạc Thái Tổ . Ông làm quan cho nhà Mạc, giữ các chức quan như như Tả Thị lang Bộ Hình, Đông các Đại học sĩ ."
 }

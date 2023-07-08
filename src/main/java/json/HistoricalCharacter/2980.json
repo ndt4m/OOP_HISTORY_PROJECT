@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "1460",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Lê": null
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "1781\n----------------------------------------------\nTân Sửu 1781",
+  "hometown" : "huyện Hương Trà, tỉnh Thừa Thiên",
+  "occupation" : "Võ tướng thời họ Nguyễn sáng nghiệp, ông vốn người Minh hương",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
   },
-  "id": 2980,
-  "entityName": "Lê Thụ",
-  "aliases": [],
-  "overview": "Lê Thụ (?-1460), là một tướng lĩnh, khai quốc công thần nhà Lê sở trong lịch sử Việt Nam. Lê Thụ phục vụ dưới bốn triều vua Lê Thái Tổ, Lê Thái Tông, Lê Nhân Tông, Lê Nghi Dân, làm quan đến chức Thái úy."
+  "id" : 2980,
+  "entityName" : "Đỗ Thanh Nhân",
+  "aliases" : [ ],
+  "overview" : "Đỗ Thanh Nhơn (? - 1781) là một danh tướng Việt Nam cuối thế kỷ 18 dưới thời chúa Nguyễn Phúc Ánh. Cùng với Võ Tánh, Châu Văn Tiếp, ông được người đương thời xưng tụng là \"Gia Ðịnh tam hùng\".\n----------------------------------------------\nÔng xuất thân trong thời loạn, thành lập một đội quân nghĩa dũng 3.000 nguời đóng ở Ba Giồng, gọi là binh Đông Sơn, tự xưng Phương Danh hầu, kéo cờ chống Tây Sơn. Năm Bính thân 1776, ông và Nguyễn Huỳnh Đức bảo vệ Định vương Nguyễn Phúc Thuần, sau Định vương bị Tây Sơn giết, ông cùng các thuộc hạ phù tá Nguyễn Ánh. Năm Mậu tuất 1778, ông và Lê Văn Quân giết Tư Khấu Oai ở sông Bến Nghé, rồi cùng Hồ Văn Lân đi dẹp loạn ở Chân Lạp. Ông giết Nặc Ông Vinh, tôn con của Nặc Ông Vinh là Nặc Ấn lên ngôi Chân Lạp, để Hồ Văn Lân ở lại bảo hộ, còn ông thì kéo quân về Gia Định. Năm Canh tí 1780, Nguyễn Ánh xưng vương, chính ông đã trù liệu mọi việc, tổ chức hoàn hảo cuộc lễ đăng quang, được phong chức Ngoại hữu phụ chính Thượng tướng quân, tước Quận Công. Tính ông cương trực, khí khái nên bị ganh ghét. Nhân vụ ông giết Tri huyện Đặng Hữu Tâm, chưởng cơ Huỳnh Thiên Lộc gièm với Nguyễn Ánh rằng ông lộng quyền sau này sẽ khó trị. Do đó ông bị Nguyễn Ánh giết ngày 23-3 năm Ất sửu 1781. Thuộc hạ ông là Võ Nhàn và Đỗ Bảng chôn cất ông xong, rút quân Đông Sơn về đất cũ Ba Giồng, không phục Nguyễn Ánh nữa, bắt được Huỳnh Thiên Lộc giết đi trả thù cho chủ tướng."
 }

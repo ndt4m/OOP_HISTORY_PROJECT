@@ -1,25 +1,21 @@
 {
-  "dateOfBirth": "1560\n----------------------------------------------\nQuí Hợi 1563",
-  "dateOfDeath": "Tháng 12, 1592 Việt Nam\n----------------------------------------------\nNhân Thìn 1592",
-  "hometown": "Không rõ",
-  "occupation": "Hoàng đế Đại Việt\n----------------------------------------------\nVua đời thứ năm nhà Mạc, con trưởng Mạc Phúc Nguyên.",
-  "workTenure": "1562 - 1592\n----------------------------------------------\nKhông rõ",
-  "fatherName": {
-    "Mạc Tuyên Tông": 878,
-    "Mạc Phúc Nguyên": 1216
+  "dateOfBirth" : "22 tháng 10, 1913 Huế, Đại Nam, Liên bang Đông Dương\n----------------------------------------------\nQuí Sửu 1913\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "31 tháng 7, 1997 (83 tuổi) Val-de-Grâce, Paris, Pháp\n----------------------------------------------\nĐinh Sửu 1997\n----------------------------------------------\nKhông rõ",
+  "hometown" : "tại Huế, con Nguyễn Phúc Bửu Đảo (tức vua Khải Định) và Đoan huy Hoàng Thái hậu\n----------------------------------------------\nKhông rõ",
+  "occupation" : "Hoàng đế Đại Nam\n----------------------------------------------\nVua cuối cùng triều Nguyễn (1802- 1945), cựu Quốc trưởng chính phủ Quốc gia Việt Nam (1949-1955), sinh ngày 22 tháng 8 năm 1913 tại Huế, con Nguyễn Phúc Bửu Đảo \n----------------------------------------------\nHoàng đế",
+  "workTenure" : "6 tháng 11 năm 1925 – 30 tháng 8 năm 1945 (19 năm, 297 ngày)\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1925–1945",
+  "fatherName" : {
+    "Khải Định" : 1267
   },
-  "motherName": {},
-  "eraName": {
-    "Nhà Mạc": 18,
-    "Nam - Bắc Triều": 19
+  "motherName" : {
+    "Từ Cung Hoàng thái hậu" : null
   },
-  "id": 3064,
-  "entityName": "Mạc Mậu Hợp",
-  "aliases": [
-    "Thuần Phúc (淳福: 1562 - 1565) Sùng Khang (崇康: 1566 - 1577) Diên Thành (延成: 1578 - 1585) Đoan Thái (端泰: 1586 - 1587) Hưng Trị (興治: 1588 - 1590) Hồng Ninh (洪寧: 1591 - 1592)",
-    "Mạc Mậu Hợp (莫茂洽)",
-    "Tĩnh Hoàng đế (靜皇帝)",
-    "Anh Tổ"
-  ],
-  "overview": "Mạc Mậu Hợp (chữ Hán: 莫茂洽, 1560 – 1592) là vị Hoàng đế Đại Việt thứ năm của nhà Mạc thời Nam Bắc triều trong lịch sử Việt Nam. Ông được sử gọi là Thuần Phúc Đế (淳福帝) vì niên hiệu đầu tiên của ông. Ông lên ngôi năm 1562 lúc mới 2 tuổi và qua đó trở thành vua lên ngôi trẻ thứ hai lúc lên ngôi. Ông trị vì cho đến khi truyền ngôi cho con là Mạc Toàn năm 1592, tổng 30 năm.\n----------------------------------------------\nNăm Giáp tí 1564 tháng 2 âm lịch, ông được đưa lên nối ngôi cha. mới 2 tuổi, có hai ông chú Khiêm vương Kính Điển và Ứng vương Đôn Nhượng phụ tá. Chính nhờ hai ông chú này kiên cường chiến đấu trên các chiến trường với quân nhà Lê nên ông mới ở yên được trên ngôi cho tới lúc trưởng thành. Năm Canh thìn 1580, tháng 10 âm lịch Kính Điển mất, Đôn Nhượng thay thống lãnh binh quyền, lúc này ông đã được 17 tuổi biết cùng ông chú toan lo mọi việc. Nhưng tình thế vẫn gay go, lắm lúc bị quân Lê đánh phá dữ dội, ông phải bỏ kinh thành mà lẩn tránh vất vả nhiều nơi. Đến năm Nhâm thìn 1592 quân Lê bắt đầu tổng tấn công, quân Mạc thua to rút lui tháo chạy liên miên, ông lánh thân nơi huyện Phượng Nhãn (nay là huyện Yên Dũng, tỉnh Bắc Ninh) cắt tóc giả làm sư, vào chùa Mô Khuê ẩn náu. Quân Lê truy lùng râo riết, phát giác được ông giả làm sư, lập tức bao vây chùa bắt ông giải về đại bản dinh. Ông tuyệt vọng than dài, nhưng trước mặt các tướng nhà Lê, ông vẫn anh dũng không khuất phục. Năm Nhâm thìn 1592, trung tuần tháng 1 âm lịch ông bị chém đầu tại bãi cát Bồ Đề, hưởng dương 29 tuổi, ở ngôi 28 năm, đổi hiệu năm 3 1ần, Thuần Phúc, Quang Hưng, Hồng Ninh. Con ông là Mạc Toàn nối ngôi xưng hiệu Vũ An cũng bị bắt giết tại Bến Cỏ (Thảo Tân). Nhà Mạc đến đây là hết thời oanh liệt, con cháu về sau kế tiếp hùng cứ vùng Cao Bằng chỉ còn là những bóng mờ trong lịch sử."
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nhà Nguyễn" : null
+  },
+  "id" : 3064,
+  "entityName" : "Nguyễn Phúc Vĩnh Thụy",
+  "aliases" : [ "Bảo Đại", "Nguyễn Phúc Vĩnh Thụy", "Nguyễn Phúc Vĩnh Thụy (阮福永瑞)", "Bảo Đại (保大)" ],
+  "overview" : "Bảo Đại (chữ Hán: 保大; 22 tháng 10 năm 1913 – 31 tháng 7 năm 1997), tên khai sinh: Nguyễn Phúc Vĩnh Thụy (阮福永瑞), là vị hoàng đế thứ 13 và là vị vua cuối cùng của triều đại nhà Nguyễn nói riêng và của chế độ quân chủ trong lịch sử Việt Nam nói chung.\n----------------------------------------------\nThuở nhỏ học chữ Hán với Phụ đạo Hiệp tá đại học sĩ Lê Nha Lâm (1881-1963), năm 1922 du học Pháp hơn 10 năm dưới sự đỡ đầu của cựu khâm sứ Charles và Toàn quyền Pasquier. Năm 1925 Khải Định từ trần, ông được Pháp và triều đình Huế đưa về nước lên ngôi vua, kế nghiệp Khải Định (ngày 8-1-1926) hiệu năm là Bảo Đại, nên cũng gọi là vua Bảo Đại. Sau đó giao việc nước lại cho Hội đồng Phụ chánh và Khâm sứ Trung Kì, ông sang Pháp tiếp tục học. Tháng 8 năm 1932 ông về nước lấy danh nghĩa trực tiếp cầm quyền, tháng 3 năm 1933 ra Dụ thành lập Hội đồng cải cách và thành lập nội các gồm các quan lại trẻ trông coi việc nước. Sau ngày Nhật đảo chính Pháp, ông tuyên bố hủy bỏ hiệp ước bất bình đẳng mà Việt Nam đã kí với Pháp từ trước. Cùng thời điểm này ông vời Trần Trọng Kim thành lập một nội các gồm các trí thức và chuyên gia trẻ. Ngày 25-8-1945 trước trào Cách mạng, ông tự nguyện thoái vị và ra tuyên cáo: \"Từ nay trẫm lấy làm vui được làm dân một nước độc lập, quyết không để ai lợi dụng\" rồi giao chính quyền lại cho Cách mạng. Sau đó được chính phủ cử làm Cố vấn tối cao cho chính phủ lâm thời Việt Nam. Năm 1946 đắc cử Đại biểu Quốc hội khóa I đơn vị tỉnh Thanh Hóa, cùng năm dẫn đầu phái đoàn Việt Nam sang thăm Trung Hoa. Từ đó ông lưu vong sang Hồng Kông, Pháp. Năm 1949 ông kí với tổng thống Pháp Vincent Auriol thỏa hiệp Elysée về vấn đề độc lập Việt Nam dưới danh xưng \"Quốc gia Việt Nam\", đến năm 1954 chính quyền \"Quốc gia\" (đối kháng với kháng chiến) sau nhiều lần thay đổi nội các. Tháng 7 năm 1954 ông cử Ngô Đình Diệm làm Thủ tướng, nhưng đến cuối năm 1955 Ngô Đình Diệm lại \"truất phế\" ông. Sau đó ông định cư luôn tại Pháp cho đến ngày mất (1997). Ông qua đời ngày 31 tháng 7 năm 1997 tại Pháp, an táng ngày 6-8-1997, thọ 84 tuổi.\n----------------------------------------------\nBảo Đại (chữ Hán: 保大, 22 tháng 10 năm 1913 – 31 tháng 7 năm 1997), tên khai sinh: Nguyễn Phúc Vĩnh Thụy (阮福永瑞), là vị hoàng đế thứ 13 và là vị vua cuối cùng của triều đại nhà Nguyễn, cũng là vị hoàng đế cuối cùng của chế độ quân chủ trong lịch sử Việt Nam."
 }

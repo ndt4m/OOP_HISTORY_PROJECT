@@ -1,16 +1,14 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Giáp Tuất 1874",
-  "hometown": "Nghệ An",
-  "occupation": "Liệt sĩ cận đại, lãnh tụ kháng chiến thời Pháp thuộc, nguời tỉnh Nghệ An.",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
-  },
-  "id": 350,
-  "entityName": "Đặng Như Mai",
-  "aliases": [],
-  "overview": "Ông nhiệt thành yêu nước, đứng lên cùng Tú tài Trần Tấn chỉ đạo cuộc kháng chiến, lập chiến khu ở vùng Nghệ Tĩnh. Nghĩa quân Văn thân dưới sự đièu khiển của ông, thanh thế lừng lẫy. Ông truyền hịch Bình Tây sát tả, đốt phá những làng dân công giáo theo giặc Pháp. Nam triều cấu kết với giặc Pháp cử Khâm sai Nguyễn Văn Tường và tổng thống quân vụ Lê Bá Thận đem quân hội với quân Pháp vây đánh. Chống nhau suốt sáu tháng, dần dần nghĩa quân tan rã. Ông tử tiết trong năm Giáp tuất 1874."
+  "dateOfBirth" : "1934 Quốc Oai, Hà Tây, Liên bang Đông Dương",
+  "dateOfDeath" : "2019",
+  "hometown" : "Không rõ",
+  "occupation" : "Thuộc",
+  "workTenure" : "1950–2002",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 350,
+  "entityName" : "Trương Khánh Châu",
+  "aliases" : [ ],
+  "overview" : "Trương Khánh Châu (1934–2019), là một sĩ quan cấp cao trong Quân đội nhân dân Việt Nam, hàm Trung tướng, Phó Giáo sư, Tiến sĩ, nguyên Thứ trưởng Bộ Quốc phòng kiêm Giám đốc Trung tâm Khoa học và Công nghệ Quân sự, Chủ nhiệm kiêm Bí thư Đảng ủy Tổng cục Kỹ thuật Bộ Quốc phòng, Phó Tư lệnh Quân chủng Không quân kiêm Viện trưởng Viện Kỹ thuật Không quân."
 }

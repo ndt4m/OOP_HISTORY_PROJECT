@@ -1,19 +1,22 @@
 {
-  "dateOfBirth": "Mậu Ngọ 1918",
-  "dateOfDeath": "Bính Thân 1956",
-  "hometown": "quê ở huyện Giồng Trôm, tỉnh Bến Tre",
-  "occupation": "Nhà văn, nhà báo",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "1699\n----------------------------------------------\nKỉ Mão 1699\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "1735 Việt Nam\n----------------------------------------------\nẤt Mão 1735\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua nhà Hậu Lê\n----------------------------------------------\nVua",
+  "workTenure" : "1732 - 1735\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1619–1643",
+  "fatherName" : {
+    "Lê Kính Tông" : 2612,
+    "Lê Dụ tông" : null,
+    "Lê Dụ Tông" : 2219
   },
-  "id": 39,
-  "entityName": "Dương Tử Giang",
-  "aliases": [
-    "Nguyễn Tấn Sĩ"
-  ],
-  "overview": "Ông vốn là công chức ở sở quan thuế Bến Tre. Có lòng yêu nước, ông dứt khoát bỏ sở, tích cực hoạt động báo chí, với tinh thần chống thực dân đế quốc. Lận đận gian khổ đủ mọi điều, ông vẫn giữ vững ý chí, tiết tháo. Nhiều lần bị nhà cầm quyền bắt giam (1947-1948). Từ 1950 ông ra khu kháng chiến ở miền Tây Nam Bộ, cùng với nhà văn Thiếu Sơn làm báo Cứu Quốc. Ít lâu, ông trở vào thành, công tác nội thành Sài Gòn -Chợ Lớn. Đến ngày 8-10-1955 ông bị mật vụ của Ngô Đình Diệm bắt giam ở bót Catinat, rồi đưa lên giam ở Biên Hòa. Ngày 2-12-1956 ông hi sinh trong trận nổi dậy của tù nhân chính trị phá lao Tân Hiệp, Biên Hòa, hưởng dương 38 tuổi. Bài thơ Giữ dạ sắt đinh của ông cảm tác trong năm 1947, biểu lộ rõ nét tâm hồn ông: Tàn bạo nào ngăn đươc bất bình, Một dòng máu đỏ, một niềm tin. Khảo tra không nhụt lòng gang thép. Lừa mị đâu mềm dạ sắt đinh. Máu lệ dẫu chan hòa ngục thất. Tâm hồn vẫn rực lửa bình minh. Con đường tranh đấu con đường sống, Mãi mãi bên nhau vẹn nghĩa tình. Các tác phẩm của ông: - Một vũ trụ sụp đổ (1949, Sài Gòn) - Tranh đấu (1949, Sài Gòn) - Duyên hay nợ (1942, Sài Gòn)"
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34,
+    "Nhà Lê trung hưng" : null,
+    "Nam triều – Nhà Hậu Lê – giai đoạn Lê Trung hưng" : 28
+  },
+  "id" : 39,
+  "entityName" : "Lê Thuần Tông",
+  "aliases" : [ "Long Đức (龍德)", "Lê Duy Tường", "Lê Thần Tông", "Thuần Tông (純宗)", "Giản Hoàng đế" ],
+  "overview" : "Lê Thuần Tông (chữ Hán: 黎純宗, 1699 – 1735) tên thật là Lê Duy Tường (黎維祥, 黎維祜) là vị hoàng đế thứ 13 thời Lê trung hưng trong lịch sử Việt Nam.\n----------------------------------------------\nTrước ông đã được lập làm Thái tử, nhưng bị chúaTrịnh (An Đô vương Trịnh Cương) bỏ, lập Duy Phương. Chẳng bao lâu Uy Nam vương Trịnh Giang vu cho Lê đế Duy Phương tư thông với vợ Trịnh Cương, bỏ Duy Phương đi. Do đó ông mới được đưa lên ngôi và Uy Nam vương Trịnh Giang phụ chính. Ông lên ngôi vào tháng 8 Nhâm tí 1732, đến tháng 4 Ất mão 1735 thì mất, hưởng dương 36 tuổi, táng tại Bình Ngô lăng, làng Bình Ngô, huyện Thụy Nguyên, tỉnh Thanh Hóa. Ở ngôi 4 năm, hiệu nãm là Long Đức. Tháng 5 năm ấy Duy Phương đã bị giáng làm Hôn Đức Công bị Trịnh Tùng giết. Em ông là Duy Thìn lên nối ngôi tức Ý tông.\n----------------------------------------------\nLê Thần Tông (chữ Hán: 黎神宗 1607 – 2 tháng 11 năm 1662) tên húy là Lê Duy Kỳ (黎維祺), là vị hoàng đế thứ sáu của nhà Lê Trung hưng và thứ 17 của nhà Hậu Lê trong lịch sử Việt Nam. Ông cũng là vị Vua Việt Nam duy nhất hai lần lên ngôi, có đến 4 người con đều làm vua và là vị vua Việt Nam đầu tiên lấy vợ phương Tây cũng như là vua có nhiều vợ là người các dân tộc khác."
 }

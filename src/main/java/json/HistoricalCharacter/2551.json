@@ -1,20 +1,16 @@
 {
-  "dateOfBirth": "Kỉ Hợi 1779",
-  "dateOfDeath": "Canh Thân 1801",
-  "hometown": "Không rõ",
-  "occupation": "Đông cung, con trưởng Nguyễn Phúc Ánh ",
-  "workTenure": "Không rõ",
-  "fatherName": {
-    "Nguyễn Phúc Ánh": 1894
+  "dateOfBirth" : "Nhâm Thìn 1892",
+  "dateOfDeath" : "Nhâm Ngọ 1942",
+  "hometown" : "Quê xã Long Hiệp, tổng Long Hưng Hạ, Chợ Lớn (nay thuộc tỉnh Long An)",
+  "occupation" : "Nhân sĩ yêu nước ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "motherName": {},
-  "eraName": {
-    "Nhà Tây Sơn": 21
-  },
-  "id": 2551,
-  "entityName": "Nguyễn Phúc Cảnh",
-  "aliases": [
-    "Hoàng Tử Cảnh"
-  ],
-  "overview": "Ngày 15-4 năm Giáp thìn (25-11-1784) Nguyễn Ánh giao ông cho giám mục Bá Đa Lộc (Pigneau de Béhaine tục gọi là Cha Cả) đem sang Pháp làm con tin để cầu viện Pháp hoàng giúp đỡ chống lại nhà Tây Sơn. Năm 1788, ông và phái đoàn trở về nước với một hiệp ước có nhiều điều khoản bất lợi cho Việt Nam. Sau đó bị Tây Sơn đánh bại, ông chạy theo đám tàn quân sang Xiêm ẩn náu. Đến khi nhà Tây Sơn suy sụp, ông cùng Nguyễn Ánh chiếm lại đất Gia Định nhờ một số chiến cụ của Pháp giúp. Tháng 7-1789 (6 - Kỉ dậu), ông cùng Bá Đa Lộc về đến Sài Gòn, cùng chuyến tàu này có một số người Pháp đi theo như Philippe Vannier (tên Việt là Nguyễn Văn Chấn), Jean Baptiste Chaigneau (tên Việt là Nguyễn Văn Thắng), Jean Baptiste Guillon (tên Việt là Oai Dũng Hầu) và bác sĩ Despiaux... Chính nhờ số vũ khí và số quân nhân Pháp đánh thuê này giúp cha con Nguyẫn Ánh lấn chiếm được các khu vực do nhà Tây Sơn trấn giữ. Trong thời gian theo cha cầm quân, ông được phong tước Đông cung Nguyên soái giữ thành Gia Định. Năm 1794, ông ra trấn giữ Diên Khánh (Khánh Hòa). Tháng 2 năm Tân dậu (1801) ông bị bệnh đậu mùa chết trong quân, hưởng dương 22 tuổi. Năm Ất sửu 1805, được truy phong là Anh duệ Hoàng thái tử."
+  "id" : 2551,
+  "entityName" : "Võ Công Tồn",
+  "aliases" : [ ],
+  "overview" : "Tính ông khảng khái, hào hiệp, thường giúp đỡ bạn nghèo khó. Năm 24 tuổi ra làm Hương hào, rồi làm Xã trưởng. Ít lâu nhờ có uy tín trong giới trí thức, ông đắc cử hội đồng Quản hạt. Danh tiếng Hội đồng Tồn vang khắp gần xa, nhất là từ lúc ông được gặp Nguyễn An Ninh, tấm lòng yêu nước được khêu động mạnh, ông bắt đầu sinh hoạt chính trị, thường đem tài sản hỗ trợ cho những người yêu nước hoạt động. Những lúc Nguyễn An Ninh xuống Bến Lức, hoặc khi tránh lưới mật thám, đều được chính ông nuôi giấu. Năm 1927 ông thành lập chi nhánh Khuyến học hội tại Gò Đen. Cuối năm ấy ông sang Pháp, Bỉ, Đức để học hỏi, quan sát tình trạng chính trị xã hội nước ngoài. Năm 1929 ông bị bắt giam tại Hà Tiên 18 tháng. Ra tù, bị mật thám thường theo dõi, ông đành ngưng hoạt động, nhưng vẫn ngằm giúp đỡ tài chánh cho các anh em, nổi tiếng Mạnh Thường Quân trong lĩnh vực văn hóa, chính trị, xã hội. Năm Canh thìn 1940 trong đợt khủng bố trắng của thực dân Pháp, ông bị bắt giam một lượt với số đông người yêu nước gồm có Nguyễn An Ninh, Phan Văn Hùm, Lê Văn Thử. Rồi đưa đi đày Côn Đảo. Năm Nhâm ngọ 1942, ông mất trên đảo trước Nguyễn An Ninh một năm, hưởng dương 50 tuổi. Đời ông mãi mãi gắn bó với Nguyễn An Ninh và những người yêu nước đã đi vào lịch sử cách mạng cứu quốc."
 }

@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "Mậu Thân 1908",
-  "dateOfDeath": "Tân Mão 1951",
-  "hometown": "quê xã Tây Nỗ, huyện Hoài Đức, ngoại thành Hà Nội, tham gia hoạt động cách mạng lúc còn trẻ tuổi",
-  "occupation": "Nhà hoạt động cách mạng",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê ở Đông Ngạn, tỉnh Bắc Ninh",
+  "occupation" : "Võ tướng đời Lê Hiển tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Triều Lê Sơ" : 7
   },
-  "id": 339,
-  "entityName": "Trịnh Đình Trọng",
-  "aliases": [
-    "Nguyễn Hữu Phú"
-  ],
-  "overview": "Đầu năm 1941 ông bị Pháp bắt xử tù chung thân đày đi Sơn La, đến năm 1944 đày ra Côn Đảo. Sau CMT8 ông và các đồng chí được đón về đất liền phục vụ trong quân đội rồi làm bí thư Thành ủy Thành phố Sài Gòn - Chợ Lớn. Năm 1947 ông làm phó giám đốc sở Thông tin Nam bộ, rồi làm việc ở Ban Tuyên huấn xứ ủy Nam Kì. Ông mất vì bệnh nặng ngày 25-7-1951 tại Bạc Liêu."
+  "id" : 339,
+  "entityName" : "Nghiêm Hiến",
+  "aliases" : [ ],
+  "overview" : "Ông làm quan Điền bạ, có nghĩa khí, tiết tháo hơn người. Ông cùng với quan Chấp Kim ngô là Phương Đình Pháp đều là thị thần của vua Lê. Năm Bính ngọ 1786, một hôm có vị Thượng công - em chúa Trịnh - đến hầu, mặc giáp đeo gươm mà vào, ai cũng cho là nguy hiểm, có vẻ lo sợ. Khi đó quanh vua chỉ có ông và Phương Đình Pháp bảo vệ ông cùng Phương ung dung cầm gươm vàng bước xuống thềm tuyên mạng: - Đây là thềm son chỗ thiên tử ngự! Xin tướng quân cởi giáp. Thượng công theo lời bỏ gươm, rồi mới lên thềm bái yết. Tâu trình xong, khi ra khỏi điện Thượng công rất trọng phong cách Nghiêm, Phương, cho rằng triều đình còn có người."
 }

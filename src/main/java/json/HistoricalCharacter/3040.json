@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Vua",
-  "workTenure": "40—43",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trưng Nữ Vương": 10
+  "dateOfBirth" : "Tân Tị 1041",
+  "dateOfDeath" : "Quí Tị 1113",
+  "hometown" : "Quê làng Phù Đổng, huyện Tiên Du, Bắc Ninh (nay thuộc tỉnh Bắc Ninh)",
+  "occupation" : "Nữ thiền gia",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Lý" : 14
   },
-  "id": 3040,
-  "entityName": "Trưng Vương",
-  "aliases": [
-    "Trưng Nhị"
-  ],
-  "overview": "Hai Bà Trưng (chữ Nôm: ?婆徵) là thời kỳ xen giữa Bắc thuộc lần 1 và Bắc thuộc lần 2 trong lịch sử Việt Nam. Đây là tên gọi chung của hai chị em Trưng Trắc (chữ Hán: 徵側) và Trưng Nhị (徵貳), là anh hùng dân tộc của người Việt, những thủ lĩnh khởi binh chống lại nhà Đông Hán của Trung Quốc, lập ra một quốc gia với kinh đô tại Mê Linh và tự phong là Nữ vương.\n----------------------------------------------\nHai Bà Trưng (13 tháng 9 năm 14 – 5 tháng 3 năm 43) là tên chỉ chung hai chị em Trưng Trắc (徵側) và Trưng Nhị (徵貳), hai người phụ nữ được đánh giá là anh hùng dân tộc của người Việt. Trong sử sách, hai bà được biết đến như là những thủ lĩnh khởi binh chống lại chính quyền đô hộ của Đông Hán, lập ra một quốc gia với kinh đô tại Mê Linh và Trưng Trắc tự phong là Nữ vương. Thời kì của hai Bà xen giữa thời kỳ Bắc thuộc lần 1 và Bắc thuộc lần 2 trong lịch sử Việt Nam. Đại Việt sử ký toàn thư coi Trưng Trắc là một vị vua trong lịch sử, với tên gọi Trưng Nữ vương (徵女王)."
+  "id" : 3040,
+  "entityName" : "Diệu Nhàn",
+  "aliases" : [ ],
+  "overview" : "Bà được Lý Thánh tông nuôi dạy ở trong cung từ bé, đến trưởng thành, vua gả bà cho người họ Lê làm Châu mục Châu Đăng (vùng Tam Nông, Hưng Hóa, nay thuộc tỉnh Vĩnh Phú). Không bao lâu chồng mất, bà xuống tóc đi tu, đem hết của cải bố thí. Sư Chân Không (Vương Hải Thiềm) thuyết giáo và đặt pháp danh cho bà là Ni sư Diệu Nhàn. Về sau, bà nối truyền đứng vào thế hệ thứ 17 dòng thiền Nam phương. Ngày 1-6 ÂL, Quí tị (15-7-1113) bà mất, thọ 72 tuổi. Ngày nay còn lưu truyền một bài kệ của bà. \"Sinh lão bệnh tử, Tự cổ thường nhiên, Dục cầu xuất lí, Giải phược thiêm triền. Mê chi cầu Phật, Hoặc chi cầu thiên, Thiên Phật bất cầu Uổng khẩu vô ngôn.\" Bản dịch: Sinh, lão, bệnh, tử, Lẽ thường tự nhiên, Muốn cảnh siêu thoát, Càng trói buộc thêm. Mê, phải cầu Phật, Hoặc, phải cầu Thiên. Chẳng cần Thiên, Phật, Mím miệng ngồi yên."
 }

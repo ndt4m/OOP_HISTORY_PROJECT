@@ -1,16 +1,20 @@
 {
-  "dateOfBirth": "Bính Ngọ 1726",
-  "dateOfDeath": "Canh Thân 1800",
-  "hometown": "Quê xã Giai Phạm, huyện Yên Mĩ, tỉnh Hưng Yên",
-  "occupation": "Nữ sĩ đời Lê Ý tông, con gái lớn của Đoàn Doãn Luân",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "Mậu Tí 1648\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "Tân Mùi 1691\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Chúa thứ năm thời Nguyễn sáng nghiệp, con thứ hai của chúa Nguyễn Phúc Tần. Vì anh ruột là Công tử Nguyễn Phúc Diễm mất sớm nên ông được phong làm Tả thủy dinh phó tướng Hoằng Ân hầu, tước Hoằng Quốc Công.\n----------------------------------------------\nChúa",
+  "workTenure" : "1687—1691",
+  "fatherName" : {
+    "chúa Nguyễn Phúc Tần" : null,
+    "Chúa Hiền" : null
   },
-  "id": 3121,
-  "entityName": "Đoàn Lệnh Khương",
-  "aliases": [],
-  "overview": "Năm lên 9 tuổi cha mất, bà nhờ cô nuôi dạy thành tài, lại cũng nhờ ông thúc tổ bên ngoại là Liên Đình Hầu Lê Hữu Kiều bảo dưỡng cho, nên cuộc sống cũng an ổn. Đến tuổi trưởng thành bà nổi danh tài sắc. Nhiều nơi quyền quí cầu hôn, nhưng tình duyên dở dang. Đến năm bà 31 tuổi, tiếp nhận bức thơ cầu hôn của Đốc đồng Sơn Nam là Nguyễn Xuân Huy, góa vợ, tuổi đã trên 40, bà ngần ngại, sau cũng chấp thuận. Bà sinh được một gái, nhưng mới được hai tuổi thì con mất. Rồi chỉ được non bảy năm thì chồng mất (Canh thìn 1760). Từ ấy bà sống cảnh đơn côi góa bụa, lên kinh đô dạy học tại tư gia, được xa gần gọi là Nữ học sư. Đến ngoài 60 tuổi, bà về quê hương nhờ em ruột là Đoàn Doãn Y. Tháng giêng năm Canh thân 1800 bà mất, thọ 74 tuổi."
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34,
+    "Đàng Trong - Chúa Nguyễn" : 5
+  },
+  "id" : 3121,
+  "entityName" : "Nguyễn Phúc Trăn",
+  "aliases" : [ "Nghĩa Vương" ],
+  "overview" : "Năm Đinh mão 1687 Nguyễn Phúc Tần mất, ông kế vị, khi ấy ông đã 39 tuổi nên mọi việc triều chính đều do ông trông coi cả. Sử chép ông là người khoan hòa, yêu kẻ sĩ, khi lên ngôi thì nhẹ hình phạt và xâu thuế nên nhân dân đương thời gọi là Nghĩa vương hay chúa Ngãi. Tháng 7 năm Đinh mão 1687, sau khi kế vị, ông cho dời phủ chúa sang làng Phú Xuân (Huế) lấy hòn núi phía trước làm án (tức núi Ngự Bình) đắp trường thành, xây cung điện thành một nơi danh thắng, còn phủ cũ (ở Kim Long) thì dùng làm miếu thờ Thái tông và các tiên chúa. Năm Mậu thìn 1688, quân Chân lạp sang cướp phá miền Nam và không triều cống, ông cho quân sĩ sang đánh, vua Chân Lạp thua phải triều cống như xưa. Năm Kỉ tị 1689, ông cho mở các khoa thi Chính đồ, Hoa văn nhằm kén chọn nhân tài cho đất nước. Đời ông công việc khai khẩn và phủ dụ ở miền Nam ngày càng mở rộng. Năm Tân mùi 1691, ông bệnh nặng qua đời, làm chúa được 4 năm, hưởng dương 43 tuổi. Sau khi mất được triều đình dâng thụy hiệu là Đại Nguyên súy tổng quốc chính Hoằng Nghĩa vương, truy tôn là Anh tông Hiếu nghĩa hoàng đế, an táng ở núi Kim Ngọc (xã Định Môn, huyện Hương Trà), truy tôn vợ là Từ Tiết tĩnh mục Hiến phi.\n----------------------------------------------\nNguyễn Phúc Thái (chữ Hán: 阮福溙, 1649 - 1691), trước bị gọi nhầm thành Nguyễn Phúc Trăn, là Chúa Nguyễn thứ 5 của chính quyền Đàng Trong trong lịch sử Việt Nam (ở ngôi 1687-1691), nối ngôi Chúa Hiền Nguyễn Phúc Tần."
 }

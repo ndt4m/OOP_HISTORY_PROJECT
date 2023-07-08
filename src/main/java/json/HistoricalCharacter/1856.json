@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Mậu Tí 1648",
-  "dateOfDeath": "Kỉ Dậu 1715",
-  "hometown": "huyện Trinh Hương, Phủ Triều Châu, tỉnh Quảng Đông (Trung Quốc)",
-  "occupation": "Thiền sư, tục danh là TạThọ Tôn",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "Canh Thìn 1880",
+  "dateOfDeath" : "Bính Tí 1936",
+  "hometown" : "tại làng Giạ Lê thượng, huyện Hương Thủy, tỉnh Thừa Thiên",
+  "occupation" : "Cao tăng Phật giáo cận đại",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 1856,
-  "entityName": "Tạ Nguyễn Thiều",
-  "aliases": [
-    "Hoán Bích"
-  ],
-  "overview": "Năm 19 tuổi, ông xuất gia đầu Phật là đệ tử của Khoán Viên hòa thượng ở chùa Bảo Tư (Trung Quốc). Năm Ất tị 1665, ông theo thuyền buôn đến Quảng Nam, rồi vào lưu lại huyện Qui Ninh (thuộc tỉnh Bình Định), sau dựng chùa Thập Tháp Di Đà (cũng thuộc tỉnh Bình Định) giảng truyền đạo Phật, sau đó được chúa Nguyễn cung thỉnh ra Phú Xuân (Huế) giảng đạo, tại đây ông là người đầu tiên xây dựng chùa Quốc Ân. Trong thời gian này ông vâng mạng chúa Nguyễn Phúc Chu về Trung Quốc cung thỉnh Hòa thượng Thạch Liêm (tức hòa thượng Thích Đại Sán tác giả sách Hải ngoại kỉ sự đến Việt Nam giảng đạo. Hòa thượng Nguyên Thiều (Hoán Bích) tuy là người Trung Quốc nhưng hơn hai phần ba đời người ông đã ở Việt Nam và hóa đạo ở đây làm rạng rỡ cho lịch sử Phật giáo Việt Nam. Tên tuổi Nguyên Thiều bao giờ cũng gắn liền với danh tiếng Phật học viện Nguyên Thiều, chùa Thập Tháp và chùa Quốc Ân của nước ta. Năm Kỉ dậu 1729 ông viên tịch, thọ 81 tuổi an táng tại khuôn viên chùa Quốc Ân (Huế) và được truy tặng là Hạnh Đoan Thiền sư. Ông là tác giả một số kinh sách Phật giáo."
+  "id" : 1856,
+  "entityName" : "Nguyễn Giác Tiên",
+  "aliases" : [ "Giác Tiên" ],
+  "overview" : "Năm 1895, ông xuất gia tu học tại chùa Từ Hiếu, năm 1901 thụ giới Sa Di, làm đệ tử thiền sư Tâm Tịnh, năm 1904 hòa thượng Tâm Tịnh về dựng am Thiếu Lâm gần chùa Tây Thiên để tỉnh tu, ông theo sư phụ về tu học ở đây. Năm 1908 đại giới đàn được tổ chức tại chùa Phước Lâm ở Quảng Nam, ông được thọ cụ túc giới và được chọn là Thủ chúng Sa di tại chùa này. Năm 1913, ông được cung thỉnh về Huế làm trụ trì chùa Trúc Lâm do ni sư Diên Trường vừa xây dựng xong. Năm 1923, ông tổ chức giới đàn tại chùa Từ Hiếu, đệ tử ông là Thiền sư Mật Khế được bổn sư của ông là Hòa thượng Tâm Tịnh truyền giới. Năm 1925, ông được sắc chỉ của triều đình thỉnh về trú trì Diệu Đế quốc tự. Năm 1929 ông cho mở Phật học đường Trúc Lâm giảng dạy tăng sĩ. Nơi đây trở thành một trung tâm đào tạo tăng tài lớn của Phật giáo Trung Kì mà ông là người khởi xướng đầu tiên. Trong số những học tăng, Phật tử theo học tại thiền viện Trúc Lâm, nổi danh nhất là các thiền sư Mật Khế, Mật Nguyện, Mật Thế... nhất là cư sĩ Tâm Minh Lê Đình Thám đã góp công lớn cho việc hình thành An Nam Phật học hội (Hội Phật giáo Trung Kì) nhằm chấn hưng Phật giáo miền Trung, chính ông là người khai sơn phá thạch buổi đầu. Ông mất vào ngày mồng bốn tháng mười âm lịch năm Bính tí (17-11-1936) lúc đang giữ chức trụ trì hai chùa Diệu Đế và Trúc Lâm, hưởng thọ 56 tuổi. Lúc sinh thời hòa thượng Giác Tiên được thầy bổn sư Thích Tâm Tịnh trao cho ông bài kệ đắc pháp sau: \"Giác đạo kiếp không tiền, Không không bát nhã thuyền. Quả nhân phù hạnh giải, Xứ xứ đắc an nhiên.\" Nghĩa: Đường Giác trước không kiếp Thuyền Bát nhã không không Hạnh giải hợp nhân quả, Ở đâu cũng thung dung."
 }

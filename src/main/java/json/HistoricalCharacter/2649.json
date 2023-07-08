@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "…",
-  "dateOfDeath": "1130\n----------------------------------------------\nKỉ Dậu 1129",
-  "hometown": "Không rõ",
-  "occupation": "Thái sư\n----------------------------------------------\nDanh thần đời Lý Nhân tông, có lúc nhà vua đổi họ cho ông là họ Trương.",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Lý": 14
+  "dateOfBirth" : "1457\n----------------------------------------------\nẤt Hợi 1455",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê xã Hải Trào, huyện Ngự Thiên, tỉnh Thái Bình",
+  "occupation" : "Văn thần đời Lê Thánh tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Triều Lê Sơ" : 7
   },
-  "id": 2649,
-  "entityName": "Lê Bá Ngọc",
-  "aliases": [
-    "Trương Bá Ngọc 張伯玉",
-    "Trương Bá Ngọc"
-  ],
-  "overview": "Lê Bá Ngọc (chữ Hán: 黎伯玉) hay Trương Bá Ngọc (chữ Hán: 張伯玉) (mất 1130) là thái sư và quan văn thời nhà Lý. Ông còn là một danh thần và là một nhà Nho.\n----------------------------------------------\nTài gồm văn võ được vua Lê trọng dụng, làm Hầu thị lang bộ Lễ. Nhưng cũng có lúc bị thất sủng, giáng chức, rồi phục chức lại như cũ. Năm Bính ngọ 1126, có nhóm Mạc Hiến tụ tập nơi châu Quảng Nguyên, dấy lên phản loạn, chống lại triều đình. Ông nhận nhiệm vụ đem quân đi đánh dẹp. Lúc sắp ra quân, ông truyền tập họp ngoài cửa Thái Hưng, tuyên đọc quân lệnh, khí thế lừng lẫy. Bọn Mạc Hiến 7 người trốn vào đất Tống, Lý Nhân tông đưa thư sang Tống, nên nhà Tống nghiên cứu bắt trả bọn Mạc Hiến cho nước ta. Năm Đinh mùi 1127, Lý Nhân tông bệnh nặng sắp mất, truyền di chiếu tín nhiệm ông và Lưu Khánh Đàm. Vua mất, Thần tông lên ngôi, ông tuân di chiếu hết lòng phù tá vua mới, được thăng hàm Thái úy tước là Đại liêu ban. Nhà vua lại cho đổi họ của ông là họ Trương. Năm Mậu thân 1128, ông được gia phong Thái sư, năm sau Kỉ dậu 1129, khoảng cuối năm ông mất."
+  "id" : 2649,
+  "entityName" : "Phạm Đôn Lễ",
+  "aliases" : [ "Lê Khanh", "Lư Khanh" ],
+  "overview" : "Phạm Đôn Lễ (chữ Hán: 范敦禮, 1457 - ?), tự là Lư Khanh, là Trạng nguyên khoa Tân Sửu (1481), niên hiệu Hồng Đức 12, đời vua Lê Thánh Tông. Vì có công dạy dân làng dệt chiếu cói nên còn gọi là Trạng Chiếu hay Tam nguyên Đôn Lễ. . Ông làm quan đến các chức Tả thị lang, rồi Thượng Thư.\n----------------------------------------------\nNăm Tân sửu 1481 ông đỗ Trạng nguyên lúc 26 tuổi, từ thi Hương đến thi Đình ông đều đỗ đầu, nghiễm nhiên là vị Tam nguyên đầu tiên trong khoa cử nước ta. Ngày vinh qui, ông được vua ban ngựa tốt để tỏ lòng ưu ái, từ khoa sau thành lệ. Ông nổi tiếng văn chương, lại giỏi về chính trị, kinh tế, làm đến Tả thị lang. Khi ông mất, được truy tặng Thương thư. Tương truyền ông là người đã dạy cho dân ở miền Duyên Hải (Nam Định, Ninh Bình, Thái Bình) cách trồng cói và đan chiếu. Nguyên có lần ông đi sứ nhà Minh (Trung Quốc), đến Ngọc Hồ thuộc châu Quế Lâm (nay thuộc tỉnh Quảng Tây) thấy dân trong vùng chuyên sống về nghề dệt chiếu, ông lưu tâm khảo sát. Khi về nước, ông truyền bá cách trồng cói, dệt chiếu, đem lại nguồn lợi quan trọng cho đất nước."
 }

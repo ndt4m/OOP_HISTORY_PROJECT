@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê làng Châu Diên, quận Giao Chỉ",
-  "occupation": "Lão tướng đời Trưng vương",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trưng Nữ Vương": 10
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê huyện Nga Sơn, tỉnh Thanh Hóa",
+  "occupation" : "Danh sĩ đời Lê Hiển tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
   },
-  "id": 872,
-  "entityName": "Đô Dương",
-  "aliases": [],
-  "overview": "Năm Kỉ hợi, Thi Sách bị Thái thú Tô Định giết, ông hiệp binh với nhà họ Trưng khởi nghĩa. Năm Quí mão 43, sau khi chị em Trưng vương thất trận tự vẫn ở sông Hát Giang, ông vẫn cố thủ huyện Cư Phong, thuộc quận Cửu Chân, toan liên kết với quân Lâm Ấp và Tây Đồ Di để tiếp tục cuộc kháng chiến chống quân xâm lược Hán. Mã Viện tiến quân đến chỗ sông Mã hợp lưu với Lương Giang, rồi chia làm hai đạo, một đạo đi ngược dòng Lương Giang thẳng tới Cư Phong, một đạo theo dòng sông Mã xuống đến Vô Biên. Toán quân Hán đánh Cư Phong, đêm ngày vây chặt. Ông chống không nổi, quân dân chết rất nhiều nên đành ra hàng để bảo toàn lực lượng. Trận đánh Cư Phong này là trận cuối cùng, quân Hán giết của ta nhiều tướng và rất nhiều binh sĩ, đoạn đem nhiều gia đình các tướng phát vãng sang Linh Lăng ở miền Nam Trung Quốc."
+  "id" : 872,
+  "entityName" : "Mai Thế Châu",
+  "aliases" : [ ],
+  "overview" : "Ông có tài văn võ, dày công sửa sang chính trị, mở mang văn hóa giáo dục, từng có công yên dân ở nhiều nơi, được nhân dân xưng tụng nhiều công đức. Vua Lê rất trọng vọng ông, phong tước là Toàn Quận Công, lãnh chức Đốc trấn Nghệ An. Con ông là Mai Thế Uông cũng là một nhân tài đương thời, đỗ hương cống, làm quan đến Trấn thủ Hưng Hóa. Khi nghĩa quân Tây Sơn ra Bắc, Lê Mẫn đế (Chiêu Thống) bỏ ngai vàng tháo chạy sang Trung Quốc, Thế Uông mù quáng chạy theo, tập hợp một số quân sĩ ở mạn ngược quanh vùng sông Đà, sông Mã chống nhau với Tây Sơn, đến lúc cùng thì tự sát"
 }

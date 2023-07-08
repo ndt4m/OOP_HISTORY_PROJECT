@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "sinh năm 602",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 2591,
-  "entityName": "Lý Thuần Phong",
-  "aliases": [],
-  "overview": "Lý Thuần Phong (Trung văn giản thể: 李淳风; Chữ Hán phồn thể: 李淳風 - sinh năm 602 mất năm 670) là người đời Đường. Ông là người học rộng tài cao tinh thông thiên văn, địa lý và có tài lập luận phá án. Ông là một Gia Cát Lượng thứ 2 có cảm tình với Phất Vân Quận Chúa nhưng phải xa cách vì Sa Đà của nước Tây Đột Quyết đã dồn đại Đường vào bước đường cùng."
+  "dateOfBirth" : "Bính Tí 1516",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Thù Sơn, huyện Hiệp Hòa, tỉnh Bắc Giang",
+  "occupation" : "Danh thần đời Lê Trang tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
+  "id" : 2591,
+  "entityName" : "Hoàng Sấm",
+  "aliases" : [ ],
+  "overview" : "Ông vốn con nhà nông, mồ côi cha sớm, năm 19 tuổi vẫn còn dốt đặc. Năm ấy có Thượng thư nhà Mạc là Nguyễn Doãn Địch, người cùng làng, cáo lão về hưu. Ông bị bắt khiêng võng cho con gái út quan Thượng. Chẳng ngờ ông đem lòng tơ tưởng cô ấy, quan Thượng biết chuyện, không giận, lại buộc ông lập công danh rồi sẽ hay. Ông quyết chí học. Trong 3 năm, đỗ khoa thi khảo ở huyện, rồi thi Hương đỗ thủ khoa. Ông nhờ người làng cầm thư về báo tin và xin quan Thượng nhớ lời đã hứa. Đoạn ở luôn kinh đô chuyên cần học tập. Năm Mậu tuất 1538, ông đỗ Thám hoa, mới 22 tuổi. Sau đó cưới được cô con gái của quan Thượng. ông làm quan đến Thượng thư, nổi tiếng việc chính trị, được phong tước Hoàng Phúc Bá."
 }

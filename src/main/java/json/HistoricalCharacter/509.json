@@ -1,19 +1,20 @@
 {
-  "dateOfBirth": "Giáp Tí 1864",
-  "dateOfDeath": "Bính Ngọ 1906",
-  "hometown": "Quê xã Đôn Thư, huyện Thanh Oai, tỉnh Hà Đông (nay là Hà Tây)",
-  "occupation": "Danh sĩ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "117 TCN",
+  "dateOfDeath" : "112 TCN Nam Việt",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Nam Việt",
+  "workTenure" : "113 TCN – 112 TCN",
+  "fatherName" : {
+    "Triệu Minh Vương" : 1844
   },
-  "id": 509,
-  "entityName": "Vũ Phạm Hàm",
-  "aliases": [
-    "Thư Trì",
-    "Mộng Hải"
-  ],
-  "overview": "Năm Giáp thân 1884 đỗ Giải nguyên. Năm Nhâm thìn 1892 đỗ Hoàng giáp (Tam nguyên). Làm Giáo thọ phủ Kiến Thụy, rồi lãnh chức Đốc học Hà Nội, kiêm sung quán Đông Văn, hàm Quang lộc tự thiếu khanh. Đương thời giới trí thức rất hâm mộ tài học và đức độ của ông. Năm Bính ngọ 1906 ông mất, hưởng dương 42 tuổi. Các tác phẩm của ông: - Kinh sử thi tập - Tập đường thuật hoài - Mộng Hồ gia tập - Hưng hóa phú - Thư Tri thi tập - Thám hoa văn tập - Cầu Đơ tỉnh nhân đinh phong tục tổng sách Thơ văn ông còn truyền tụng nhiều vì nội dung, nghệ thuật sâu sắc, có nhiều hình tượng nghệ thuật mà giới yêu thơ thán phục. Bài đề vịnh Mã Yên sơn lăng (lăng Đinh Tiên Hoàng ở núi Mã Yên) được nhiều người tán thưởng: \"Phủ hám hoàng long khóa thạch lương, Hoa Lư thành nội tối cao cương. Bán không thiên vụ trì thiên cổ, Nhị đế thần hnh giá bất hoàng. Kỉ kiếm dư uy không thảo thụ, Kim ngân cố chỉ biến tinh sương Thánh triều hậu ý siêu tiền triệt, Đặc kiến phong bi biểu tích vương\" Bản dịch: Dưới sập đá rồng quanh quất, Thành Hoa Lư cao ngất nghìn trùng. Khói mù, mù mịt trên không, Là nơi nhị đế vẫy vùng ngày xưa. Cờ với kiếm còn trơ cây cỏ, Nền kim ngân mấy độ tang thương. Thánh triều ôn ý khác thường, Chép vào bia đá biểu dương tiên triều. Mộng Hổ gia tập (1 quyển) do ông soạn về gia phả nhà họ Vũ Phạm ở Đôn Thư, phủ ứng Hòa, tỉnh Hà Đông, tên sách là Mộng Hồ gia tập, đến dòng chữ \"Hà Nội tỉnh, Ứng Hòa phủ, Thanh Oai huyện, Phương Trung tổng, Đôn Thư Phạm Vũ thị phả đồ tức là gia phả nhà họ Phạm Vũ ở Đôn Thư, nay thuộc Hà Tây."
+  "motherName" : {
+    "Cù hậu" : null
+  },
+  "eraName" : {
+    "Nhà Triệu" : 16
+  },
+  "id" : 509,
+  "entityName" : "Triệu Hưng",
+  "aliases" : [ "Ai Vương (哀王)", "Triệu Hưng (趙興)" ],
+  "overview" : "Triệu Ai Vương (chữ Hán: 趙哀王; 117 TCN-112 TCN) tên thật là Triệu Hưng (趙興), là vua thứ 4 nhà Triệu nước Nam Việt, trị vì từ năm 113 TCN - 112 TCN, tức chỉ 1 năm."
 }

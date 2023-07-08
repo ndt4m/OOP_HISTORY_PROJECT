@@ -1,18 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Tiết độ sứ",
-  "workTenure": "907—917",
-  "fatherName": {
-    "Khúc Thừa Dụ": 807
+  "dateOfBirth" : "Nhâm/ Thìn 1892",
+  "dateOfDeath" : "Bình Thìn 1976",
+  "hometown" : "xã Thuận Lễ (nay là Thuận Mĩ), tỉnh Tân An (nay thuộc tỉnh Long An)",
+  "occupation" : "Nhạc sĩ cổ nhạc",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "motherName": {},
-  "eraName": {
-    "Họ Khúc  hoặc": null
-  },
-  "id": 989,
-  "entityName": "Khúc Trung Chủ",
-  "aliases": [],
-  "overview": "Khúc Hạo (chữ Hán: 曲顥; 860 - 917) hoặc Khúc Thừa Hạo, được suy tôn là Khúc Trung Chủ, là con của Khúc Thừa Dụ. Quê hương của cha con Khúc Thừa Dụ, Khúc Hạo nay được cho là làng Cúc Bồ, xã Kiến Quốc, huyện Ninh Giang, tỉnh Hải Dương."
+  "id" : 989,
+  "entityName" : "Cao Văn Lầu",
+  "aliases" : [ "Sáu Lầu" ],
+  "overview" : "Ông là một trong những môn đệ giỏi của Hai Khị về nhạc lễ. Năm 1912, ông bắt đầu đi hát với Sáu Thìn và cô Phấn với bài ca Tứ đại oán Bùi Kiệm thi rớt trở về. Năm 1918, ông sáng tác bài Dạ cổ hoài lang (tức nghe tiếng trống đêm nhớ người tình) sau trở thành bài Vọng cổ, bây giờ đã được phát triển âm điệu ngày càng khởi sắc. Cách mạng tháng Tám thành công ông tham gia công tác Mặt trận Liên Việt ở ấp Vĩnh Phước, xã Vĩnh Lợi, tỉnh Bạc Liêu. Năm 1947, ông được chính quyền Bạc Liêu giao cho công tác đặc biệt cứu một số cán bộ bị giặc bắt. Ông hoàn thành nhiệm vụ xuất sắc. Suốt cuộc đời, ông thà chịu nghèo quyết không phục vụ quân cướp nước và các thế lực vọng ngoại. Đến năm Bính thìn 1976, ông mất lúc 13 giờ ngày 13-8-1976 tại TP. Hồ Chí Minh, thọ 84 tuổi. Ông có 2 người con trai hiện đang công tác trong quân đội nhân dân và ngành ngoại giao. Ông là tác giả ban vọng cổ Dạ cổ hoài lang mở đầu cho loại hình cải lương Việt Nam. Dạ cổ hoài lang tức là nghe tiếng trống đêm nhớ người tình. Bản Dạ cổ hoài lang ban đầu chỉ là bài hát có nhịp tư đến nhị tám, nhịp mười sáu, nhịp ba mươi hai và cuối cùng chuyền dẫn đến nhịp sáu mươi bốn như sau này. Từ là từ phu tướng, Bửu kiếm sắcphong lên đàng, Vào ra luống trông tin chàng, Đêm năm canh mơ màng, Trông ngóng trông tin nhàn. Gan vàng thêm đau, Lòng dân xa ong bướm, Xin đó đừng phụ nghĩa tào khang, Trông luống trông tin bạn, Ngày mỏi mòn nhưđá vọng phu Vọng phu vọng luống trông tin chàng Năm canh mơ màng. Chàng là chàng có hay? Đêm thiếp nằm luống những sầu tây, Bao thuở đó đây sum vầy, Duyên sắc cầm tình thương ý y. Là nguyện cho chúng! Đậm chữ bình an Mau trở lại gia đàng Cho thiếp cùng chàng hiệp nhau. Đó là bài ca diễn tả tâm trạng của một chinh phụ nhớ chồng nhân đêm đến vọng tiếng trống canh vắng vẳng bên tai. Bài ca này ra đời vượt cả các bản Tứ đại oán vì Tứ đại oán không dài hơi, dài nhịp, dài lời như đã nói ở trên."
 }

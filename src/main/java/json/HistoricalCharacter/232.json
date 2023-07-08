@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Chúa",
-  "workTenure": "1738—1765",
-  "fatherName": {
-    "Chúa Ninh": null
+  "dateOfBirth" : "727",
+  "dateOfDeath" : "793",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "nhà Đường" : null
   },
-  "motherName": {},
-  "eraName": {
-    "Đàng Trong - Chúa Nguyễn": 5
-  },
-  "id": 232,
-  "entityName": "Vũ Vương",
-  "aliases": [],
-  "overview": "Nguyễn Phúc Khoát (chữ Hán: 阮福濶), hay Nguyễn Thế Tông, húy là Hiểu (chữ Hán: 曉), còn gọi là Chúa Võ, hiệu Vũ vương hay Võ vương (1714–1765) là vị chúa Nguyễn thứ 8 của chính quyền Đàng Trong trong lịch sử Việt Nam, ở ngôi từ năm 1738 đến năm 1765."
+  "id" : 232,
+  "entityName" : "Lý Thạnh",
+  "aliases" : [ "Lương Khí" ],
+  "overview" : "Lý Thạnh (chữ Hán: 李晟, 727 – 793), tên tự là Lương Khí, người Lâm Đàm, Thao Châu , là tướng lĩnh trung kỳ nhà Đường trong lịch sử Trung Quốc. Ông tham gia trấn áp các phiên trấn nổi loạn, có công giành lại kinh thành Trường An từ tay tướng nổi dậy Chu Thử, trở thành đệ nhất công thần thời Đường Đức Tông."
 }

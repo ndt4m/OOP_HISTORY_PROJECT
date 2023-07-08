@@ -1,16 +1,18 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Lý": null
+  "dateOfBirth" : "1468\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "xã Đa Ngưu, huyện Tế Giang.\n----------------------------------------------\nKhông rõ",
+  "occupation" : "Vua",
+  "workTenure" : "1509–1516",
+  "fatherName" : {
+    "Lê Đức Tông" : 223
   },
-  "id": 12,
-  "entityName": "Lý Bồ",
-  "aliases": [],
-  "overview": "Lý Long Bồ (chữ Hán: 李龍菩, ? - ?) là một hoàng tử của nhà Lý trong lịch sử Việt Nam. Ông là con trai thứ của Vua Lý Thái Tổ. Sinh tại kinh đô Hoa Lư, Ninh Bình, Việt Nam. Ông được vua phong tước Khai Quốc Vương năm 1013, đóng tại phủ Trường Yên, tức vùng đất kinh đô Hoa Lư trước thời Lý. Khi vua Thái Tổ mất, Lý Thái Tông chuẩn bị lên ngôi, các hoàng tử khác kéo quân về gây nên loạn tam vương sử sách ghi nhận ông là người ngoài cuộc, vì thế mà sau này ông được Lý Thái Tông giao trấn thủ đô cũ Hoa Lư đến hết cuộc đời."
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Hậu Lê – giai đoạn Lê sơ" : 20
+  },
+  "id" : 12,
+  "entityName" : "Nguyễn Thì Ung",
+  "aliases" : [ "Lê Tương Dực" ],
+  "overview" : "Nguyễn Thì Ung (1468-?). Người xã Đa Ngưu, huyện Tế Giang. Nay là xã Tân Tiến, huyện Văn Giang, tỉnh Hưng Yên. 26 tuổi đỗ đệ tam giáp đồng tiến sĩ xuất thân khoa Qúy Sửu, niên hiệu Hồng Đức 24 (1493) đời Lê Thánh Tông. Cuối đời Lê Uy Mục khi làm Tham Chính (Thanh Hoa). Nguyễn Thì Ung đem thuộc hạ theo Nguyễn Văn Lang tôn phò Giản Tu Công Lê Oanh. Sau Lê Oanh, lên ngôi (tức Lê Tương Dực), Nguyễn Thì Ung được phong tước Lương Văn Bá sau thăng Phụng trực đại phu Thượng Thư (1510). Đầu đời Chiêu Tông thăng tước Lương Văn Hầu. Ông có hai con gái một người làm cung phi của vua Thống Nguyên (Cung Hoàng), một người gả cho Mạc Đăng Dung. Sau khi Mạc Đăng Dung lên ngôi ông được phong Thiếu Bảo tước Thông Quận Công, sau khi mất được tặng tước Quốc Công.\n----------------------------------------------\nLê Tương Dực (chữ Hán: 黎襄翼 16 tháng 7 năm 1495 – 8 tháng 5 năm 1516) tên thật là Lê Oanh (黎瀠), là vị hoàng đế thứ chín của Hoàng triều Lê sơ nước Đại Việt. Ông cai trị từ năm 1509 đến năm 1516 với niên hiệu Hồng Thuận (洪順), ở ngôi tổng cộng 7 năm."
 }

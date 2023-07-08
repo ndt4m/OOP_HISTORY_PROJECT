@@ -1,18 +1,14 @@
 {
-  "dateOfBirth": "Canh Tuất 1250",
-  "dateOfDeath": "Bính Tuất 1286",
-  "hometown": "Không rõ",
-  "occupation": "Thành hoàng làng Yên Phụ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Trần": 15
-  },
-  "id": 1414,
-  "entityName": "Uy Linh Lang",
-  "aliases": [
-    "Uy Đô"
-  ],
-  "overview": "Tương truyền ông là con của Trần Thánh tông, nhưng không thích sống đời sống vương giả. Học thức ông uyên thâm, lại chuyên tâm nghiên cứu đạo Phật. Khi quân Nguyên - Mông xâm lăng nước ta, chính ông chỉ huy một đạo quân mà thành phần chủ yếu là các nhà sư gọi là Thiên tử quân góp sức đắc lực vào công cuộc đuổi giặc cứu nước. Ngày 8-8 năm Bính tuất (1286) ông mất mới 36 tuổi. Sau khi mất được phong là Dâm Đàm đại vương. Đời Trần Nghệ tông truy phong là Dực chính hiển ứng phu hựu đại vương."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 1414,
+  "entityName" : "Nguyễn Tiến Hưng",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Tiến Hưng (sinh 1935) là một tiến sĩ kinh tế, nguyên là Tổng trưởng Kế hoạch của Chính phủ Việt Nam Cộng hòa kiêm cố vấn của tổng thống Nguyễn Văn Thiệu, hiện là giáo sư tại Đại học Howard (Washington, D.C., Hoa Kỳ). Ông cũng là tác giả ba cuốn sách thuộc loại bán chạy nhất (best seller) là Hồ sơ mật Dinh Độc Lập (The Palace File, 1986), Khi đồng minh tháo chạy (2005) và Tâm tư tổng thống Thiệu (2010)."
 }

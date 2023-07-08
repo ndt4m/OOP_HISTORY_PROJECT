@@ -1,20 +1,20 @@
 {
-  "dateOfBirth": "Mậu Ngọ 1918",
-  "dateOfDeath": "Bính Tuất 1946",
-  "hometown": "tại làng Tân Thạnh, huyện Chợ Mới, tỉnh An Giang",
-  "occupation": "Thi sĩ ",
-  "workTenure": "Không rõ",
-  "fatherName": {
-    "Nguyễn Côn": 1239
+  "dateOfBirth" : "Canh Thìn 1940",
+  "dateOfDeath" : "Quí Mão 1963",
+  "hometown" : "quê làng Long Tĩnh, xã Liên Hương, quận Tuy Phong, tỉnh Bình Thuận",
+  "occupation" : "Tu sĩ Phật giáo",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "Hoàng Thân" : null
   },
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "motherName" : {
+    "Trương Thị Sang" : null
   },
-  "id": 689,
-  "entityName": "Nguyễn Xuân Thiếp",
-  "aliases": [
-    "Việt Châu"
-  ],
-  "overview": "Thuở nhỏ ông học ở Long Xuyên, đậu Tiểu học rổi nghỉ ở nhà học chữ Hán và Đông y. Những năm 1944-1945 vì giao tình thơ văn mà thân với Huỳnh Phú Sổ (đạo Hòa Hảo). Năm 1946, ông làm trung gian hòa giải các cuộc tranh chấp nội bộ giữa Việt Minh và Hòa Hảo nên bị liên lụy và chết ở Cần Thơ cùng một lần với tướng Hòa Hảo Trần Văn Soái. Ông có thơ đăng trên báo Mai của Đào Trinh Nhất ở Sài Gòn, Gió Mùa, Dân báo... trong phần phụ trương văn chương của báo Lục tỉnh tân văn. Tại Đốc Vàng thượng (quê nhà) ông lập Văn đàn Đốc Vàng thượng. Ông là một thi sĩ xuất thân trong một gia đình nhà Nho yêu nước, làm thơ từ hồi còn rất trẻ (10-15 tuổi). Lúc mới 16 tuổi đã có thơ xuất bản và đến năm 26 tuổi (1944) đã có 4 tập thơ đến với độc giả trong toàn quốc. Trong 4 tập thơ vừa nói có tập Hải Đường hoa rụng và Lông ngỗng gieo tình (Truyện Mị Châu - Trọng Thủy) được đa số độc giả yêu thơ tán thưởng. Lông ngỗng gieo tình là một cuốn tiểu thuyết dã sử bằng thơ viết về sự tích Trọng Thủy - Mị Châu trong truyền thống lịch sử và văn chương truyền khẩu Việt. Thơ Việt Châu bóng bảy, trôi chảy như giòng sông bất tận xuôi về biển cả như phần đông các nhà thơ lãng mạn thời tiền chiến. Đánh giá về thi tài Việt Châu, Vũ Ngọc Phan cho rằng: \"Lời kể chuyện bằng thơ là một lối rất khó, xưa nay cũng chỉ mới có tập Kim Vân Kiều là quán tuyệt cổ kim, vậy mà ông Việt Châu đã viết tập Lông ngỗng gieo tình được như thế, nhất là lại dùng lối song thất lục bát là lối nay hình như các thi sĩ không dùng đến...\" (Vũ Ngọc Phan - Hà Nội 14-11-1942). Các tác phẩm của ông đã xuất bản: - Xuân xanh (1934) - Tình thơ (1942) - Lông ngỗng gieo tình (1942) - Hải Đường hoa rụng (1944) - Tráng sĩ ca (1945)"
+  "eraName" : {
+    "Nước Việt Nam mới" : 29
+  },
+  "id" : 689,
+  "entityName" : "Hoàng Văn Lễ",
+  "aliases" : [ "Nguyên Hương" ],
+  "overview" : "Năm lên 6 tuổi, ông xuất gia học đạo với thượng tọa Quảng Chí ở chùa Linh Bửu. Về sau, ông theo học tại chùa Linh Quang (Huế), Phật Quang (Phan Thiết). Năm 18 tuổi ông thọ giới với thượng tọa Viên Trí ở chùa Bửu Tính thuộc quận Hòa Đa, tỉnh Bình Thuận. Năm 1963 ông phản đối chính quyền Ngô Đình Diệm đàn áp nhân dân và Phật giáo, ông tuyệt thực từ ngày 2-8-1963, đến ngày 4-8 ông tự thiêu trước quảng trường thị xã Phan Thiết. Ông hi sinh vào lúc 12 giờ trưa ngày 4-8-1963. Sau này giáo hội Phật giáo Việt Nam lấy tên ông đật tên cho một ngôi chùa tại đường Nguyễn Đình Chiểu thuộc Quận 3 thành phố Hồ Chí Minh."
 }

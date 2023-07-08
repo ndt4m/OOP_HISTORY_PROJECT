@@ -1,16 +1,23 @@
 {
-  "dateOfBirth": "Đinh Dậu 1897",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê làng Chánh Hưng, tỉnh Chợ Lớn",
-  "occupation": "Bác sĩ, tác giả. Bác sĩ điều trị bệnh viện Sài Gòn, quê làng Chánh Hưng, tỉnh Chợ Lớn",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "14 tháng 9, 1503 Thôn Hổ, xã Vệ Quốc, huyện Yên Định, Thanh Hóa\n----------------------------------------------\nBính Tuất 1502\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "24 tháng 3, 1570 (66 tuổi)\n----------------------------------------------\nCanh Ngọ 1570\n----------------------------------------------\nKhông rõ",
+  "hometown" : "quê làng Sóc Sơn, huyện Vĩnh Phước (sau đổi là Vĩnh Lộc) tỉnh Thanh Hóa\n----------------------------------------------\nKhông rõ",
+  "occupation" : "Chúa Trịnh\n----------------------------------------------\nVõ tướng, Thái sư của vua Lê Trang tông (1533-1548) tước Minh Khang Thái vương, quê làng Sóc Sơn, huyện Vĩnh Phước \n----------------------------------------------\nTước hiệu",
+  "workTenure" : "1545 – 1570\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1545—1570",
+  "fatherName" : {
+    "Nguyễn Kim" : 2836,
+    "Trịnh Lâu" : null
   },
-  "id": 738,
-  "entityName": "Nguyễn Văn Tung",
-  "aliases": [],
-  "overview": "Năm 1923 tốt nghiệp Học viện Y học Thuộc địa Paris, năm 1925 tốt nghiệp Bác sĩ y khoa. Từng là hội viên Hội Da bệnh học và Giang mai học Pháp quốc, hội viên sáng lập công đoàn quốc gia Da bệnh học, Hoa liễu học thuộc cộng đồng sử dụng tiếng Pháp. Năm 1926 giữ chức Viện trưởng Viện Y tế Dự phòng Sài Gòn cho đến năm 1944. Năm 1945 ông tham gia hoạt động xã hội, có mặt trong các tổ chức chống Pháp tại Sài Gòn. Ông từng khẳng định: \"Pháp phải nhìn nhận Việt Nam độc lập, Việt Nam sẽ là một nước hội viên của Liên hiệp Pháp\" (Le Trait d\u0027union). Năm 1946 ông tham gia hội nghị Trù bị Pháp Việt tại Đà Lạt trong thành phần cố vấn, nhưng sau đó bị Pháp bắt trục xuất về Sài Gòn trước sự công phẫn của phái đoàn Việt Nam. Ông là tác giả nhiều công trình nghiên cứu y học và xã hội học. Các tác phẩm của ông hầu hết được viết bằng tiếng Pháp và có giá trị khoa học cao, riêng về y khoa có hơn 90 chuyên đề."
+  "motherName" : {
+    "Hoàng Thị Dốc" : null
+  },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34,
+    "Nam - Bắc Triều" : 19,
+    "Đàng Ngoài - Chúa Trịnh" : 26
+  },
+  "id" : 738,
+  "entityName" : "Trịnh Kiểm",
+  "aliases" : [ "Minh Khang Thál Vương", "Minh Khang Thái Vương (明康太王)", "Trịnh Kiểm (鄭檢)", "Thế Tổ (世祖)" ],
+  "overview" : "Trịnh Kiểm (chữ Hán: 鄭檢, 14 tháng 9 năm 1503 – 24 tháng 3 năm 1570), tên thụy Thế Tổ Minh Khang Thái vương (世祖明康太王), là nhà chính trị, quân sự có ảnh hưởng của Đại Việt thời Nam-Bắc triều. Trên danh nghĩa tôn phò các vua Lê trung hưng, ông là nhà lãnh đạo trên thực tế của phe Nam triều từ năm 1545 tới khi qua đời. Dù tước hiệu cao nhất của ông khi còn sống là Thái quốc công, ông được đời sau truy tôn làm Thế Tổ Minh Khang Thái Vương và được xem là vị chúa đầu tiên của họ Trịnh – gia tộc nắm thực quyền cai trị Đại Việt hơn 200 năm từ giữa thế kỷ 16 đến cuối thế kỷ 18.\n----------------------------------------------\nNăm 1533, nhân Nguyễn Kim theo giúp vua Lê Trang tông đang hành quân ở Thanh Hóa, ông đến ra mắt được Nguyễn Kìm tin dùng trong quân ngũ. Ông giỏi việc quân sự, nhiều mưu lược lập được nhiều chiến công được Nguyễn Kim cho trông coi chức \"Mã quân\", rôi được vua phong cho làm \"Tướng quân\". Từ đó ông trở thành cánh tay đắc lực của Thái sư Nguyễn Kim và được Nguyễn Kim gả con gái trưởng là Ngọc Bảo cho ông. Năm 1545, Nguyễn Kim bị Dương Chấp Nhất đầu độc chết, mọi quyền hành bấy giờ đều do ông nắm giữ, vua Lê phong ông làm Đô tướng giữ chức Hữu tướng, gia phong là Lượng Quốc Công làm Thái sư. Từ khi nắm binh quyền, ông đã hãm hại rồi bức tử em vợ là Nguyễn Uông, nên Nguyễn Hoàng tìm cách xin vào trấn thủ đất Thuận Hóa để tránh hậu hoạn. Năm Mậu thân 1548, vua Trang tông mất, ông lập Thái tử Duy Huyên lên làm vua, nhưng chỉ được 8 năm thì chết. Duy Huyên (tức Lê Trung tông) không có con, từ đó mọi quyền hành trong nước đều ở trong tay ông, nhưng ông vân chưa dứt được họ Mạc. Thời ông cầm quyền đóng đô ở Thanh Hóa (gọi là Nam Triều) còn đất Thăng Long dưới quyền họ Mạc (gọi là Bắc Triều). Năm 1570 (tháng 2 âm lịch) ông mất trao quyền cho con là Trinh Cối, nhưng sau đó hai con ông (Trịnh Cối và Trịnh Tùng) tranh chấp nhau. Cuối cùng Trịnh Tùng giành được ưu thế, giết anh, lên ngôi chúa đầu tiên trong đời Lê mạt.\n----------------------------------------------\nTrịnh Kiểm (chữ Hán: 鄭檢, 14 tháng 9 năm 1503 – 24 tháng 3 năm 1570), tên thụy Thế Tổ Minh Khang Thái vương (世祖明康太王), là nhà chính trị, quân sự có ảnh hưởng của Đại Việt thời Nam-Bắc triều. Trên danh nghĩa tôn phò các vua Lê trung hưng, ông là nhà lãnh đạo trên thực tế của phe Bắc triều từ năm 1545 tới khi qua đời. Dù tước hiệu cao nhất của ông khi còn sống là Thái quốc công, ông được đời sau truy tôn làm Thế Tổ Minh Khang Thái Vương và được xem là vị chúa đầu tiên của họ Trịnh – gia tộc nắm thực quyền cai trị Đại Việt hơn 200 năm từ giữa thế kỷ 16 đến cuối thế kỷ 18."
 }

@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "Tháng 10 năm 1931 Sơn Tây, Việt Nam",
-  "dateOfDeath": "12 tháng 11, 1996 (65 tuổi) Los Angeles, California Hoa Kỳ",
-  "hometown": "Không rõ",
-  "occupation": "Thuộc",
-  "workTenure": "1951-1975",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 1931,
-  "entityName": "Lê Nguyên Khang",
-  "aliases": [],
-  "overview": "Lê Nguyên Khang (1931-1996), nguyên là một tướng lĩnh gốc Hải quân của Quân lực Việt Nam Cộng hòa, cấp bậc Trung tướng Ông xuất thân từ khóa đầu tiên tại trường Sĩ quan Trừ bị do Quốc gia Việt Nam mở ra ở miền Bắc Việt Nam. Ra trường, ông phục vụ trong Quân chủng Hải quân, sau chuyển sang bộ phận Bộ binh Hải quân (Thuỷ quân Lục Chiến). Hầu hết thời gian tại ngũ, ông phục vụ trong Binh chủng này. Ông là người chỉ huy Binh chủng Thủy Quân Lục Chiến với thời gian lâu nhất. Ông cũng từng là chỉ huy đơn vị cấp Biệt khu, Quân đoàn và là sĩ quan giữ chức vụ cao cấp tại Bộ Tổng Tham mưu."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Bình Thuận",
+  "occupation" : "Danh thần",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
+  "id" : 1931,
+  "entityName" : "Đặng Đức Thuật",
+  "aliases" : [ "Cửu Tư" ],
+  "overview" : "Khi Tây Sơn dấy binh, ông cất nhà tại Phước Sơn, thuộc tỉnh Bình Thuận ở ẩn. Năm Mậu thân 1788, ông vào Gia Định với Lê Đạt, gặp Nguyễn Ánh, được dùng làm gián nghị, thị giảng Viện Hàn lâm. Tính ông cương trực, một khi can gián mà chúa Nguyễn không nghe, ông nói: \"Lời nói không công hiệu, thế thì gián nghị nỗi gì\". Bèn bỏ ra đi, chúa Nguyễn phải cho người theo triệu hồi, ông mới trở lại phục vụ. Sau, ông mất trong quân, được truy tặng Thượng thư, Thi giảng học sĩ."
 }

@@ -1,17 +1,16 @@
 {
-  "dateOfBirth": "Mậu Thìn 1892",
-  "dateOfDeath": "Mậu Thân 1968",
-  "hometown": "quê ở Cao Lãnh (nay thuộc tỉnh Đồng Tháp) ông tốt nghiệp Trường Sư phạm Gia Định, nhưng bỏ nghề",
-  "occupation": "Chí sĩ ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Đinh Mão 1867",
+  "dateOfDeath" : "Quí Dậu 1933",
+  "hometown" : "tại làng Hiền Lương, huyện Phong Điền tỉnh Thừa Thiên (nay thuộc tỉnh Thừa Thiên - Huế)",
+  "occupation" : "Đại thần cuối triều Nguyễn",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 1252,
-  "entityName": "Đỗ Văn Y",
-  "aliases": [],
-  "overview": "Đầu thế kỷ XX ông xuất dương hoạt động cứu nước, thông thạo tiếng Đức, từng là bí thư của Kì Ngoại hầu Cường Đề trong các cuộc âu du, với đồng chí thân thiết là Mạnh Tự Trương Duy Toản. Từng bị Pháp bắt giam hơn 26 tháng trong thế chiến thứ nhất (1914 - 1918). Ít lâu, ông bị trục xuất khỏi nước Pháp, đưa về Sài Gòn, rồi bị quản thúc một thời gian. Sau đó, ông xuống Cần Thơ làm quản lí cho nhà in An Hà. Sau nhiều năm hoạt động yêu nước, bị thất bại về cuối đời ông chuyên nghiên cứu văn học yêu nước miền Nam. Năm 1946, ông đắc cử đại biểu Quốc hội khóa I nước VNDCCH. Sau khi Pháp tái chiếm Nam Bộ, ông bị Pháp bắt giam đến năm 1948 mới được trả tự do. Sau đó ông lên sống ở Sài Gòn và mất ở đây năm 1968, hưởng thọ 76 tuổi."
+  "id" : 1252,
+  "entityName" : "Trần Đình Bá",
+  "aliases" : [ "Tân Phú", "Phước Trang" ],
+  "overview" : "Thuở nhỏ học tại Truờng Đốc Thừa Thiên, với chân Tú tài ông thi đậu Cử nhân năm 1897 (khoa Đinh dậu Thành Thái thứ 9). Sau khi đậu cử nhân được bổ làm quan một số nơi ở miền Trung. Năm 1910 giữ chức Án sát tỉnh Thanh Hoá năm 1915 ông tham vào Hội đồng Bát vật khảo sát thiết lập đường hoả xa xuyên Đông Dương. Năm 1919, giữ chức Tổng đốc An - Tĩnh (Nghệ An, Hà Tĩnh), năm 1922 về Huế giữ chức Thượng thư Bộ Hình gia Hiệp tá Đại học sĩ cho đến ngày về hưu. Năm 1930, tuy đã hưu ông được Pháp vời ra giữ chức Tiết chế An - Tĩnh nhằm đàn áp phong trào Xô viết Nghệ Tĩnh nhưng ông đã thẳng thắn từ chối, rồi sống trọn tuổi trời tại Huế. Trong thời gian làm quan tại các địa phương, nhất là ở Nghệ An, ông đã tìm cách che chở, ngầm tán đồng các gia đình có con em tham các phong trào yêu nước, cách mạng chống Pháp. Ông qua đời ngày 20 tháng 5 năm 1933 tại tư thất ở Huế, thọ 66 tuổi."
 }

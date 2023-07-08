@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Quê ở Phụng Thiên, thuộc làng Quảng Bá, địa phận Tây Hồ xưa",
-  "occupation": "Văn thần đời Lý",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Lý": 14
+  "dateOfBirth" : "Canh Tuất 1910",
+  "dateOfDeath" : "Bính Thìn 1976",
+  "hometown" : "quê ở Thạch Hãn, tỉnh Quảng Trị",
+  "occupation" : "Nữ sĩ hiện đại",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 105,
-  "entityName": "Phùng Tá Chu",
-  "aliases": [],
-  "overview": "Ông vốn là ngoại thích nhà Trần, làm Thái phó đời Lí, sau theo nhà Trần, được trọng dụng. Năm 1226, Trần Thái tông cử ông đi trấn thủ Nghệ An, được quyền tự ý ban chức vị cho người, ban trước rồi tâu sau. Năm 1233 ông lại được cử duyệt định các sắc mục ở Nghệ An, rồi được phong tước Hưng Nhân vương. Đến năm 1239, ông làm Nhập nội Thái phó, trông nom việc xây dựng cung điện rồi lại quản đốc công trình xây dựng 5 sở hành cung ở Thanh Hóa. Khi mất, được phong Phúc thần, dân chúng thờ ông làm Thành hoàng ở đình làng Quảng Bá, cùng thờ chung với Bố Cái Đại vương Phùng Hưng, Từ Tống quân Từ Mục."
+  "id" : 105,
+  "entityName" : "Lê Liễu Huê",
+  "aliases" : [ "Ái Lan" ],
+  "overview" : "Gia đình bà sinh hoạt ở miền Nam nhiều hơn, chồng bà là nhà báo Công Minh Triệu Thường Thế. Bà làm thơ, viết báo, cộng tác với nhiều báo ngay từ năm 1928: Đông Pháp thời báo, Đuốc nhà Nam, Phụ nữ tân văn, Phóng sự tuần báo, Sông Hương, Đời mới và các báo hàng ngày: Tiếng chuông, Buổi sáng, Ánh sáng, Sài Gòn mới, Tân sanh, Dân ta, Tạp chí Phổ thông. Anh ruột bà là nhà báo Lê Trung Nghĩa, bút danh Việt Nam, và các em Bút Sơn Lê Minh Đức, Lê Chuyên Pha cũng đều nổi tiếng trong làng báo và làng văn ở miền Nam. Bà nhiệt tình yêu nước, yêu văn hóa dân tộc. Khi đất nước thống nhất bà là cố Vấn Hội Văn nghệ Giải phóng Thành phố Hồ Chí Minh (Sài Gòn). Ngày 19-10-1976, bà mất, thọ 66 tuổi, an táng ở nghĩa trang Phú Thọ Hòa, Thành phố Hồ Chí Minh. Bà có tập thơ Trên đường, xuất bản năm 1953."
 }

@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "18 tháng 2 năm 1922",
-  "dateOfDeath": "3 tháng 12 năm 2007",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 2072,
-  "entityName": "Vũ Cao",
-  "aliases": [],
-  "overview": "Vũ Cao (18 tháng 2 năm 1922 - 3 tháng 12 năm 2007) là một nhà thơ Việt Nam."
+  "dateOfBirth" : "Canh Ngọ 1510",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "người làng An Thọ, huyện Từ Liêm, tỉnh Hà Đông (nay là TP",
+  "occupation" : "Danh thần đời Mạc",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nam - Bắc Triều" : 19
+  },
+  "id" : 2072,
+  "entityName" : "Bùi Doãn Đốc",
+  "aliases" : [ ],
+  "overview" : "Năm Đại Chính 6 (Ất vị 1535) đời Mạc Đăng Doanh, ông thi đỗ thứ hai trong bảng nhất giáp tiến sĩ, lúc 25 tuổi (Khoa này đệ nhất giáp tiến sĩ cập đệ đỗ 3 người: đứng đầu là Nguyễn Bình Khiêm, tức Trạng Trình, ông đỗ thứ hai, thứ ba là Nguyễn Thừa Hựu). Ông làm đến Hàn lâm thị thư, nổi tiếng văn học đương thời."
 }

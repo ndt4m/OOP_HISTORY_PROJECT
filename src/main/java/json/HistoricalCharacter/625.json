@@ -1,19 +1,17 @@
 {
-  "dateOfBirth": "Tân Tị 1881",
-  "dateOfDeath": "Mật Tí 1948",
-  "hometown": "quê tại thành phố Huế, tỉnh Thừa Thiên",
-  "occupation": "Nhà hoạt động xã hội",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Bính Tuất 1946",
+  "hometown" : "quê ở tỉnh Hà Tĩnh, vào Nam sinh sống và tham gia cách mạng",
+  "occupation" : "Liệt sĩ cách mạng",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 625,
-  "entityName": "Công Nữ Đồng Canh",
-  "aliases": [
-    "Đạm Phương"
-  ],
-  "overview": "Bà xuất thân trong một gia đình hoàng tộc con Hoàng Hóa quận vương. Ngay từ tuổi thơ bà đă theo học chữ Hán, chữ Quốc ngữ nên có điều kiện tiếp xúc rộng rãi với nhiều giới. Tuy sinh trưởng nơi một gia đình trưởng giả, nhưng bà vẫn ý thức được giá trị của lao động chân tay và cái học thực dụng. Từ khi tiếp xúc với chí sĩ Phan Bội Châu và các bậc chí sĩ khác (1926) bà công khai đứng ra tổ chức một trường học nữ công có tên là Nữ công học hiệu nhằm giáo dục nữ giới ý thức được giá trị của nghề nghiệp thủ công. Nữ công học hiệu là một trường học có tính cách chuyên nghiệp về thủ công đầu tiên của Trung Kì. Với danh nghĩa Nữ công học hiệu, bà và các hội viên còn tổ chức biên soạn và xuất bản một số sách giáo dục thực nghiệp cho nữ giới như Nữ công thường thức, gia đình giáo dục... Bà từng cộng tác với các báo: Nam Phong, Trung Bắc tân văn, Hữu Thanh, Tiếng Dân... từ những năm 20 của thế kỉ này. Sau ngày kháng chiến chống Pháp (19- 12-1946) bà tản cư ra Thanh Hóa cùng với gia đình con trai. Tuổi già sức yếu, bà mất ở huyện Thọ Xuân, tỉnh Thanh Hóa, thọ 67 tuổi."
+  "id" : 625,
+  "entityName" : "Lý Chính Thắng",
+  "aliases" : [ ],
+  "overview" : "Lúc đầu ông gia nhập tổ chức Thanh niên cách mạng đồng chí hội. Năm 1930 là đảng viên Đảng cộng sản Đông Dương, hoạt động tích cực, trải qua các cấp ủy từ chi bộ lên đến thành ủy viên kiêm thư ký công đoàn Sài Gòn - Gia Định năm 1945. Sau ngày Nam Bộ kháng chiến bùng nổ, từ tháng 11-1945 lực lượng ta rút về An Phú Đông, ông lập trạm đón tiếp công nhân từ thành phố ra và phụ trách tờ báo Cảm Tử của quân đội. Tháng 3-1946 quân Pháp tấn công An Phú Đông lần thứ hai, quân ta chống cự rất anh dũng từ sáng đến chiều, đẩy lui được địch giết chết 100 tên, bên ta 20 chiến sĩ hi sinh. Ông Lý Chính Thắng bị thương nặng, được đem vào nhà thương Chợ Rẫy và mất trong đó."
 }

@@ -1,17 +1,17 @@
 {
-  "dateOfBirth": "1908\n----------------------------------------------\nMậu Thân 1908",
-  "dateOfDeath": "1996\n----------------------------------------------\nBính Tí 1996",
-  "hometown": "quê huyện Châu Thành, Mĩ Tho, tỉnh Tiền Giang",
-  "occupation": "Nhà hoạt động cách mạng",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "? Làng Bỉ Ngũ, thuộc Lam Sơn, huyện Thọ Xuân, Thanh Hóa, Việt Nam\n----------------------------------------------\n…",
+  "dateOfDeath" : "1437 Đông Kinh, Việt Nam\n----------------------------------------------\nĐinh Tị 1437",
+  "hometown" : "người làng Bỉ Ngũ, thuộc Lam Sơn, huyện Thọ Xuân, Thanh Hóa, Việt Nam.\n----------------------------------------------\nquê thôn Đại Nga ở Lam Sơn, tỉnh Thanh Hóa",
+  "occupation" : "Thuộc\n----------------------------------------------\nDanh thần đời Lê Thái tổ",
+  "workTenure" : "1418 - 1428\n----------------------------------------------\nKhông rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "nhà Lê" : null,
+    "Triều Lê Sơ" : 7
   },
-  "id": 1298,
-  "entityName": "Nguyễn Thị Thập",
-  "aliases": [],
-  "overview": "Nguyễn Thị Thập (1908-1996) là một nhà cách mạng nữ Việt Nam. Bà từng là Đại biểu Quốc hội Việt Nam và là Chủ tịch Hội Liên hiệp phụ nữ Việt Nam lâu nhất (1956-1974). Bà cũng là phụ nữ đầu tiên được nhà nước Việt Nam trao tặng Huân chương Sao Vàng vào năm 1985.\n----------------------------------------------\nBà tham gia cách mạng từ hồi còn trẻ tuổi, năm 1931 được kết nạp vào đảng cộng sản Đông Dương ở Mĩ Tho. Năm 1933 lên hoạt động ở Sài Gòn, năm 1935 là ủy viên dự khuyết xứ ủy Nam Kì, cùng năm bị Pháp bắt nhưng không có bằng cứ nên không kết án được. Sau đó bà về hoạt động ở Mĩ Tho, năm 1936 tham gia hoạt động cho phong trào Đông Dương đại hội ở Sài Gòn. Năm 1945, bà có chân trong xứ ủy Lâm thời Nam Kì, hoạt động ở Sài Gòn. Tháng 7 năm 1945 bà là thành viên của xứ ủy Nam Kì tham dự Đại hội Quốc dân ở Tân Trào, năm 1946 đắc cử Đại biểu Quốc hội khóa I. Từ năm 1946 về Nam tham gia kháng chiến ở Nam Bộ, rồi được cử đi học ở nước ngoài (1948-1952). Sau năm 1954, tập kết ra Bắc, đến năm 1956 là Chủ tịch Hội Liên hiêp Phụ nữ Việt Nam cho đến những năm 80. Năm 1985 bà được tặng thưởng huân chương Sao Vàng của Đảng và nhà nước Việt Nam. Bà mất năm 1996 tại Thành phố Hồ Chí Minh, thọ 88 tuổi."
+  "id" : 1298,
+  "entityName" : "Lê Sát",
+  "aliases" : [ ],
+  "overview" : "Lê Sát (chữ Hán: 黎察, ? – 1437) là công thần khai quốc nhà Lê sơ trong lịch sử Việt Nam, người làng Bỉ Ngũ, thuộc Lam Sơn, huyện Thọ Xuân, Thanh Hóa, Việt Nam.\n----------------------------------------------\nÔng theo giúp Lê Lợi trong cuộc khởi nghĩa cứu nước, dày công lao ở trận mạc, được phong Thiếu úy, rồi thăng Tư mã trong năm Đinh mùi 1427. Năm Mậu thân 1428, ông được ban hiệu Suy Trung tán tự hiệp mưu công thần chức Tư khấu, coi sóc việc quân, việc chính trị trong nước, tước Huyện Thượng Hầu. Đứng hàng thứ hai trong 53 công thần được khắc biển biểu dương. Năm Quí sửu 1433, được gia hiệu Dương võ tĩnh nam công thần, thăng Đại tư đồ rồi được làm Thừa tướng, giúp đỡ Thái tông. Từ 1433 về sau, uy quyền ông rất to, nhưng dần dần bị nhà vua chán ghét. Ngự sử Đinh Cảnh An và phe nhóm hùa theo ý nhà vua, hạch tội ông chuyên quyền nên vua ra lệnh cách chức. Chúng lại vu cáo thêm, ông bị vua bắt phải tự tử, tịch thu hết tài sản. Mãi đến đời Thánh tông, năm Giáp thìn 1484, ông mới được mình oan, truy tặng là Thái Bảo, tước Cảnh Quận Công."
 }

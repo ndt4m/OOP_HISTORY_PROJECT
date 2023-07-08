@@ -1,17 +1,18 @@
 {
-  "dateOfBirth": "Ất Mùi 1895",
-  "dateOfDeath": "Mậu Ngọ 1978",
-  "hometown": "quê ở xã Đạo Thạnh, tỉnh Tiền Giang",
-  "occupation": "Nhân sĩ yêu nước",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Canh Dần 1830",
+  "dateOfDeath" : "Đinh Sửu 1877",
+  "hometown" : "Thừa Thiên-Huế",
+  "occupation" : "Danh sĩ, con thứ 51 của vua Minh Mạng",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "vua Minh Mạng" : null
   },
-  "id": 1684,
-  "entityName": "Lê Quang Sô",
-  "aliases": [],
-  "overview": "Ngày 15-8-1978 ông mất tại nhà riêng ở 384/29 Nam Kì khởi nghĩa, Thành phố Hồ Chí Minh, thọ 83 tuổi, an táng tại quê nhà xã Đạn Thạnh, tỉnh Tiền Giang."
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
+  },
+  "id" : 1684,
+  "entityName" : "Nguyễn Phúc Miên Thanh",
+  "aliases" : [ "Giản Trọng", "Quân Đình" ],
+  "overview" : "Tương truyền năm 1865 ông chữa khỏi bệnh cho vua Tự Đức, nhiều lần theo vua Thiệu Trị, Tự Đức trong các cuộc kinh lí trong nước và xướng họa thơ văn với các danh sĩ khác cùng vua Tự Đức. Con ông là Nguyễn Phúc Hường Vịnh cũng là một thi sĩ và danh y nổi tiếng. Các tác phẩm của ông: - Thuận An thi - Quân Đình thi thảo - Đào Trung thi tập Năm Đinh sửu ông mất, hưởng dương 47 tuổi."
 }

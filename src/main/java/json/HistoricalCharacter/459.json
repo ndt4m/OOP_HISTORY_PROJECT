@@ -1,17 +1,16 @@
 {
-  "dateOfBirth": "23 tháng 11, 1922 Tỉnh Cửu Long (nay là Vĩnh Long), Liên bang Đông Dương",
-  "dateOfDeath": "11 tháng 6, 2008 (85 tuổi) Bệnh viện Mount Elizabeth, Singapore",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 459,
-  "entityName": "Võ Văn Kiệt",
-  "aliases": [
-    "Sáu Dân",
-    "Phan Văn Hòa"
-  ],
-  "overview": "Võ Văn Kiệt (23 tháng 11 năm 1922 – 11 tháng 6 năm 2008) tên thật là Phan Văn Hòa, bí danh Sáu Dân, Chín Dũng; là một nhà chính trị Việt Nam. Ông là Thủ tướng thứ tư của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam từ ngày 8 tháng 8 năm 1991 cho đến ngày 25 tháng 9 năm 1997 (có lúc gọi là Chủ tịch Hội đồng Bộ trưởng). Ông được nhiều báo chí đánh giá là người đã đẩy mạnh công cuộc Đổi mới và cải cách chính sách ở Việt Nam kể từ năm 1986 , là \"tổng công trình sư\" nhiều dự án táo bạo của thời kỳ Đổi mới."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Hương Lang, huyện Chương Đức, sau là huyện Chương Mĩ, tỉnh Hà Đông (nay thuộc Hà Tây)",
+  "occupation" : "Văn thần đời Minh Mạng ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
+  },
+  "id" : 459,
+  "entityName" : "Lê Ngô Duệ",
+  "aliases" : [ "Ninh Thủ", "Nhất Chân" ],
+  "overview" : "Ông nổi tiếng văn học, tự là Ninh Thủ, hiệu Nhất Chân. Khoảng năm Tân tị 1821, ông thi đỗ cao. Xuất chính được ít lâu thì cáo quan về ở ẩn, tính khảng khái, có khí tiết, được nhân sĩ đương thời trọng vọng, nhân dân kính mến. Con ông là Lê Ngô Cát cũng là bậc danh sĩ đương thời."
 }

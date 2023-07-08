@@ -1,18 +1,14 @@
 {
-  "dateOfBirth": "Tân Hợi 1791",
-  "dateOfDeath": "Canh Dần 1830",
-  "hometown": "quê huyện Thanh Oai, tỉnh Hà Đông (nay thuộc tỉnh Hà Tây)",
-  "occupation": "Danh sĩ đầu đời nhà Nguyễn",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
-  },
-  "id": 3101,
-  "entityName": "Ngô Thì Hiệu",
-  "aliases": [
-    "Hoa Lâm Tản Nhân"
-  ],
-  "overview": "Ông có tiếng văn chương, tuy chỉ là giám sinh Quốc tử giám nhưng ông có nhiều thơ văn và các công trình biên soạn lớn được truyền tụng. Năm Canh dần 1830, ông mất, hưởng dương 39 tuổi, thụy là Trang Nghị. Các tác phẩm còn truyền: - Lạng hành kí sự - Quan ngư kí. - Đại Man sự tích - Nam Du thi tập - Khôn Trinh lục - Dạ Trạch phú kí"
+  "dateOfBirth" : "1903",
+  "dateOfDeath" : "1931",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 3101,
+  "entityName" : "Lê Mao",
+  "aliases" : [ ],
+  "overview" : "Lê Mao, hay còn gọi Lê Viết Mao (1903-1931), bí danh là Cát, là nhà cách mạng Việt Nam, một trong những người lãnh đạo phong trào Xô Viết Nghệ Tĩnh. Ông là Bí thư Xứ ủy Trung Kỳ và Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam."
 }

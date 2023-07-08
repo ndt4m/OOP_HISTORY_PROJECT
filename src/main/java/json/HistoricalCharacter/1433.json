@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "3 tháng 1 năm 1932 Quảng Trị",
-  "dateOfDeath": "21 tháng 8 năm 1973 Vũng Tàu",
-  "hometown": "Không rõ",
-  "occupation": "Giáo viên",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 1433,
-  "entityName": "Hoàng Nguyên",
-  "aliases": [],
-  "overview": "Hoàng Nguyên (1932 - 1973) là một nhạc sĩ tên tuổi, tác giả các ca khúc nổi danh như Ai lên xứ hoa đào, Cho người tình lỡ."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê huyện Nghiêu Phong, tỉnh Quảng Yên (nay là tỉnh Quảng Ninh)",
+  "occupation" : "Danh thần đời Minh Mạng",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
+  },
+  "id" : 1433,
+  "entityName" : "Ngô Đức Chính",
+  "aliases" : [ ],
+  "overview" : "Năm Đinh hợi 1827, có toán cướp bể do Ba Công Dụng cầm đầu đem 50 chiến thuyền vào cướp châu Tiên Yên. Lúc này sau khi làm Thiêm sự bộ Hình, ông đang cáo về nhà nhận thấy giặc hoành hành, làm khổ dân chúng, bèn đứng ra tập họp quan quân đi đánh dẹp, chém được tên cầm đầu, khiến chúng kinh hoàng tan vỡ. Triều đình trọng thưởng và nhân dân rất kính phục ông. Ông có phụ biên bản thảo bộ: Địa dư chí tỉnh Quảng Yên."
 }

@@ -1,18 +1,23 @@
 {
-  "dateOfBirth": "Canh Thìn 1760",
-  "dateOfDeath": "Mậu Tí 1828",
-  "hometown": "Nguyên quán huyện Diên Phước, tỉnh Quảng Nam (nay là huyện Điện Bàn, tỉnh Quảng Nam không rõ làng xã)",
-  "occupation": "Danh thần, danh tướng đời Gia Long ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34,
-    "Nhà Tây Sơn": 21,
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "1765 Đông Kinh, Đại Việt\n----------------------------------------------\nBính Tuất 1766\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "1793 (27–28 tuổi) Yên Kinh, Đại Thanh\n----------------------------------------------\nQuí Sửu 1793\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua cuối cùng của nhà Hậu Lê\n----------------------------------------------\nVua",
+  "workTenure" : "1786 – 1789\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1786—1789",
+  "fatherName" : {
+    "Lê Duy Vĩ" : null,
+    "Lê Duy Vỹ" : null
   },
-  "id": 2742,
-  "entityName": "Trần Đăng Long",
-  "aliases": [],
-  "overview": "Thuở nhỏ ông theo gia đình và thân phụ là Trần Đăng Khoa làm quan đời chúa Thế tông Nguyễn Phước Khoát nên lưu ngụ ở Gia Định. Năm 19 tuổi ông đầu quân theo phò Nguyễn Ánh từ buổi đầu làm đến chức Khâm sai thuộc nội Vệ úy Thần sách - Nguyễn Ánh cho ông là một tướng tài - lập nhiều chiến công. Theo Đại Nam liệt truyện và Đại Nam Nhất thống chí tỉnh Quảng Nam thì Trần Đăng Long trạng mạo khôi ngô, có sức mạnh, nhanh nhẹn, ngay từ hồi còn trẻ đã đầu quân, thường theo Nguyễn Ánh đi đánh Tây Sơn. Năm Giáp Thìn (1784) Nguyễn Ánh chạy sang Vọng Các, ông bệnh không đi theo được, ẩn ở thôn quê, sợ bị Tây Sơn bắt giả cách câm nhưng vẫn bị Tây Sơn bắt toan giết, rồi sau thoát được. Năm Kỉ mùi (1799) theo đi đánh Qui Nhơn được thắng trận, đại binh theo đường bộ về. Năm Canh thân (1800) quânTây Sơn vây thành Bình Định, ông theo đại binh đi cứu viện. Năm 1801 theo Nguyễn Văn Trương đang đêm vào cửa biển đánh Thuận Hóa, lấy lại được đô thành. Vì có nhiều chiến công được thăng Vệ úy vệ cung vũ, đem binh thuyền đến Bình Định đánh tiếp. Năm 1802, Gia Long năm thứ nhất được triệu về; năm 1803 thăng Vệ úy vệ tiền nhất quân thị trung khâm sai thuộc nội cai cơ. Mùa thu năm ấy theo vua Gia Long ra Bắc thành, năm sau đắp hoàng thành (kinh thành), dựng cung điện, làm nhà quân, đều đem quân theo làm việc. Năm 1808, ông cùng với hữu tham tri bộ Công là Nguyễn Đức Huyên sung chức duyệt tuyển ở Bình Hòa (Khánh Hòa) về sau mỗi khi gặp kỳ duyệt tuyển, thường cùng với quan văn sung làm. Năm 1809 được thăng Khâm sai thuộc nội vệ úy vệ tiền nhất quân thị trung. Năm 1814 được sung làm phó sứ ở Sơn Lăng. Mùa thu năm 1817 theo chức cũ làm lưu thủ trực thuộc doanh Quảng Nam. Minh Mạng thứ nhất (1820) triệu về kinh, theo chức cũ, trông coi việc Võ khố. Năm thứ 5 (1824) thăng Thống chế doanh tiền phong quân thị nội. Năm thứ 6 (1825) kiêm quản 3 đội tả vệ, Hữu vệ và Hoàng kiếm rồi thăng phó đô thống chế doanh Hậu quân Thần sách vẫn kiêm quản kho võ khố như cũ. Năm Minh Mạng thứ 7 (1826) sung làm giám thí trường thi Hội. Năm Minh Mạng thứ 8 (1827) gia hàm Đô thống kiêm quản cả tào chính. Mùa đông năm 1828 ông bệnh mất thọ 68 tuổi, được triều đình truy tặng Đô thống, lại gia thưởng 200 lạng bạc 5 cây gấm Tàu. Ông có 6 người con là: Tự, Phú, Xuân, Thu, Biện, Cận. Tự học được ghi vào sổ anh danh; Phú làm quan đến phó lãnh binh ở Bắc Ninh; Xuân Thu, Biện, Cận đều làm quan đến cai đội."
+  "motherName" : {
+    "Mẫn Thái hậu" : null
+  },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34,
+    "Nhà Lê trung hưng" : null,
+    "Nam triều – Nhà Hậu Lê – giai đoạn Lê Trung hưng" : 28
+  },
+  "id" : 2742,
+  "entityName" : "Lê Chiêu Thống",
+  "aliases" : [ "Lê Duy Khiêm (黎維兼) Lê Duy Kỳ (黎維祁)", "Lê Duy Khiêm", "Chiêu Thống (昭統)", "Mẫn Hoàng đế (愍皇帝)", "Lê Duy Kỳ", "Lê Chiêu Thống" ],
+  "overview" : "Lê Chiêu Thống (chữ Hán: 黎昭統, 1765 – 1793), tên thật là Lê Duy Khiêm (黎維 ), khi lên ngôi lại đổi tên là Lê Duy Kỳ (黎維祁) , là vị hoàng đế thứ 16 và là cuối cùng của nhà Lê trung hưng, thực ở ngôi từ cuối tháng 7 âm lịch năm 1786 tới đầu tháng 1 năm 1789.\n----------------------------------------------\nÔng vốn tên là Duy Khiêm (có sách chép là Tư Khiêm), sau đổi là Duy Kì, cháu nội của Lê Hiển tông, con của cố Thái tử Duy Vĩ. Một nhà cha con, anh em ông, ngày trước đều bị tay Tĩnh Đô vương Trịnh Sâm hãm hại, bị giam hơn 10 năm. Đến khi Hiển tông mất, ông được đưa lên ngôi vào tháng 7 năm Bính ngọ 1786. Bấy giờ ông đã 20 tuổi. Năm Mậu thìn 1788, Tây Sơn ra Thăng Long lần II, ông bỏ ngôi, chạy trốn quanh quất trong hai miền Kinh Bắc và Sơn Nam. Rồi vì ông cầu cứu với nhà Thanh, dẫn đường cho Tôn Sĩ Nghị đem quân Thanh sang xâm lược nước ta. Đến Kỉ dậu 1789, tháng giêng, Vua Quang Trung đánh tan quân Thanh. Ông và đám tòng thần lưu vong ở Trung Quốc gồm có: Hoàng Ích Hiểu, Phạm Như Tùng, Lê Hân, Nguyễn Quốc Đổng, Nguyễn Viết Triệu, Lê Văn Trương, Lê Quí Thích, Nguyễn Đình Cẩm, Phạm Đình Thiện, Lê Quýnh... Bị bạc đãi, hắt hủi, vua tôi ông xiết bao tủi nhục tại nước người. Bọn quan lại nhà Thanh như Hòa Thân, Kim Giản lại giở mặt gian manh, bắt một số tòng thần cho lên xe trâu mà đày ra xa ngoài 300 dặm, để chúng khỏi phải bực mình. Tình thế ngày càng tuyệt vọng, Chiêu Thống bệnh nặng, đến ngày 16-10 năm Quí sửu 1793, chết tại Yên Kinh. Tính ra Chiêu Thống ở ngôi có 3 năm, hiệu năm là Chiêu Thống. Trong khi lưu lạc ở Yên Kinh, ông tỉnh ngộ và hối hận vì đã để bị lừa dối khinh bỉ. Cuộc đời Lê Chiêu Thống là một bài học muôn thuở cho những kẻ vọng ngoại.\n----------------------------------------------\nLê Chiêu Thống (chữ Hán: 黎昭統 1765 – 1793) hay Lê Mẫn Đế (chữ Hán: 黎愍帝), tên thật là Lê Duy Khiêm (黎維), khi lên ngôi lại đổi tên là Lê Duy Kỳ (黎維祁), là vị hoàng đế thứ 16 và là hoàng đế cuối cùng của Hoàng triều Lê nước Đại Việt, giữ ngôi từ cuối tháng 7 âm lịch năm 1786 tới đầu tháng 1 âm lịch năm 1789."
 }

@@ -1,18 +1,18 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Vua",
-  "workTenure": "1638–1677",
-  "fatherName": {
-    "Mạc Kính Khoan": 2143
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Vua",
+  "workTenure" : "1592–1625",
+  "fatherName" : {
+    "Mạc Kính Điển" : 2385
   },
-  "motherName": {},
-  "eraName": {
-    "Bắc triều – Nhà Mạc  và thời kỳ Cao Bằng": null
+  "motherName" : { },
+  "eraName" : {
+    "Bắc triều – Nhà Mạc  và thời kỳ Cao Bằng" : null
   },
-  "id": 1572,
-  "entityName": "Mạc Minh Tông",
-  "aliases": [],
-  "overview": "Mạc Kính Vũ (chữ Hán: 莫敬宇) là vua nhà Mạc thứ 10 và là vua Mạc thời hậu kỳ, khi đã rút lên Cao Bằng. Nguyên quán Mạc Kính Vũ là người xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách, tỉnh Hải Dương)."
+  "id" : 1572,
+  "entityName" : "Mạc Đại Tông",
+  "aliases" : [ ],
+  "overview" : "Mạc Kính Cung (chữ Hán: 莫敬恭 ? - 1625) là vua nhà Mạc thời hậu kỳ, khi Bắc triều chấm dứt với cái chết của cha con Mạc Mậu Hợp và Mạc Toàn. Nguyên quán Mạc Kính Cung là người xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách, tỉnh Hải Dương)."
 }

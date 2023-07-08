@@ -1,16 +1,14 @@
 {
-  "dateOfBirth": "Canh Thìn 1700",
-  "dateOfDeath": "Ất Mùi 1775",
-  "hometown": "quê làng Phật Tích, huyện Tiên Du, tỉnh Bắc Ninh, con quan Thị lang Nguyễn Đức Ánh",
-  "occupation": "Danh thần đời Lê Dụ tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
-  },
-  "id": 698,
-  "entityName": "Nguyễn Đức Vĩ",
-  "aliases": [],
-  "overview": "Ông đỗ giải nguyên thi Hương, Đinh mùi 1727 đỗ đồng tiến sĩ lúc 27 tuổi, làm Hiệu thư Đông các. Sau, thăng Hữu thị lang bộ Hình, rồi đổi sang Hữu thị lang bộ Binh, bộ Lại. Ít lâu, làm đến Thượng thư bộ Công, kiêm Tế tửu Quốc tử giám, và giảng sách ở tòa Kinh diên, tước Nghĩa Phương Hầu. Năm Giáp thân 1764 ông về hưu, được gia hàm Thiếu bảo, nhưng chằng bao lâu lại vời ra làm Thượng thư bộ Binh, coi việc bộ Lại, và gia hàm Thái phó. Năm Ất mùi 1775 ông mất, thọ 75 tuổi, được truy tặng Thái bảo. Ông là người trong sạch, cẩn trọng, làm quan 18 năm, nổi tiếng liêm khiết. Triều đình và nhân dân đều cảm phục. Con ông là Nguyễn Quân, cháu là Nguyễn Thưởng về sau là bậc đại khoa, có danh vọng, trong nước đều biết tiếng."
+  "dateOfBirth" : "1920",
+  "dateOfDeath" : "2006",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 698,
+  "entityName" : "Nguyễn Thành Lê",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Thành Lê (1920 – 2006) tại làng Tiên Tân, huyện Duy Tiên, tỉnh Hà Nam."
 }

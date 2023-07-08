@@ -1,18 +1,18 @@
 {
-  "dateOfBirth": "Ất Mùi 1655",
-  "dateOfDeath": "Bính Thìn 1736",
-  "hometown": "xã, hình thành đất Hà Tiên",
-  "occupation": "Nhà doanh điền",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "1777 Đàng Trong, Đại Việt",
+  "hometown" : "Không rõ",
+  "occupation" : "Nguyễn Vương",
+  "workTenure" : "1776 - 1777",
+  "fatherName" : {
+    "Nguyễn Phúc Hạo" : null
   },
-  "id": 2918,
-  "entityName": "Mạc Cửu",
-  "aliases": [
-    "Mạc Kính Cửu"
-  ],
-  "overview": "Mạc Cửu (鄚玖), hay Mạc Kính Cửu (鄚敬玖) : 1655 - 1735); là một thương gia người Hoa có công khai phá, hình thành vùng đất Hà Tiên (Kiên Giang) vào khoảng đầu thế kỷ 18 ở Việt Nam.\n----------------------------------------------\nNăm Giáp ngọ 1714, Mạc Cửu dâng đất Hà Tiên cho chúa Nguyễn, nhận nơi đây là quê hương thứ hai, nguyện hết lòng phục vụ như con dân đất nước ta. Chúa Nguyễn Phúc Chu phong ông là Tổng binh trấn Hà Tiên, đóng bản dinh tại Phương Thành. Từ ấy nhân dân tụ tập càng lúc càng đông đúc. Năm Bính thìn 1736 ông mất, được truy phong tước Võ Nghị Công, con ông là Mạc Thiên Tứ nối nghiệp càng xuất sắc, bề thế hơn. Chí sĩ Nguyễn Thần Hiến có soạn bài văn bia ở đền thờ họ Mạc tại Hà Tiên. Nhà thơ Đông Hổ có thơ vịnh Mạc Cửu trong đó có đoạn: Chẳng đội trời Thanh Mãn. Tìm qua đất Việt bang. Triều đình riêng một góc, Trung hiếu vẹn đôi đường. TRÚC THÀNH xây vũ lược, ANH CÁC dựng văn chương."
+  "motherName" : { },
+  "eraName" : {
+    "Họ Nguyễn" : null
+  },
+  "id" : 2918,
+  "entityName" : "Nguyễn Phúc Dương",
+  "aliases" : [ "Nguyễn Phúc Dương (阮福暘)", "Cung Mẫn Anh Đoán Huyền Mặc Vĩ Văn Mục Vương (恭敏英斷玄默偉文穆王)" ],
+  "overview" : "Nguyễn Phúc Dương (chữ Hán: 阮福暘; ?- 1777) là vị Chúa Nguyễn thứ 10 của Đàng Trong - vùng phía nam lãnh thổ nước Đại Việt chia cắt trong 2 thế kỷ."
 }

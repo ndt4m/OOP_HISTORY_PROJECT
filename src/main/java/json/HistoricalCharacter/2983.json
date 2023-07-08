@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "951",
-  "dateOfDeath": "959",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 2983,
-  "entityName": "nhà Hậu Chu",
-  "aliases": [],
-  "overview": "Nhà Hậu Chu (後周) (951-959) là triều đại cuối cùng trong số năm triều đại, kiểm soát phần lớn miền Bắc Trung Quốc trong thời Ngũ đại Thập quốc, một thời kỳ kéo dài từ năm 907 tới năm 960 và là cầu nối giữa thời nhà Đường và thời nhà Tống."
+  "dateOfBirth" : "Mậu Tí 1468",
+  "dateOfDeath" : "Nhâm Ngọ 1522",
+  "hometown" : "Phú Thọ",
+  "occupation" : "Danh sĩ đời Lê Thánh tông, quê làng Trình Xá, huyện Sơn Vĩ, tỉnh Sơn Tây (nay là huyện Phong Châu, tỉnh Phú Thọ)",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Triều Lê Sơ" : 7
+  },
+  "id" : 2983,
+  "entityName" : "Võ Duệ",
+  "aliases" : [ "Võ Nghĩa Chi" ],
+  "overview" : "Năm Canh tuất 1490 ông đỗ Trạng nguyên lúc mới 22 tuổi. Ông vốn tên là Võ Nghĩa Chi, Lê Thánh tông đổi tên là Duệ và có lần nói với thị thần: \"Ngày sau nước nhà có biến, ắt người này đương nổi\". Ông làm Tham chính ở Hải Dương, đến đời Lê Chiêu tông, (1520), ông được phong Trình Ý công thần, Thượng thư bộ Lại, Thiếu bảo, kiêm Đông các đại học sĩ, tước Trình Khê Bá. Khi ông làm quan, thấy Mạc Đăng Dung giết hại quan Ngự sử Đỗ Nhạc, bức hiếp vua Lê và các đại thần, ông phẫn uất tỏ niềm tâm sự trong một bài thơ: \"Ỷ nỉ tinh kì quải tịch dương, Lưỡng cung phiến phiến giá phi hoàng. Hàm tê chiến sĩ yêm giang thượng Phục trải trung thân tử đạo bàng. Vạn lí từ thanh lâm hữu đạo, Tam quân loạt tệ thác vô lương. Thăng Long tự cổ hưng vương địa, Hà bất thư hùng quyết nhất trường.\" Bản dịch: Cờ bay phấp phới dải tà dương, Thuyền chở hai cung lướt vội vàng. Chiến sĩ áo tê dồn mặt bãi, Trung thần mũ trải chết bên đường. Quan tuần muôn dặn rừng đầy trộm, Quân lẫy lừng bông lúa thế lương. Sẵn đất Thăng Long xây nghiệp đế. Sao không đem sức quyết so lường. Rõ ràng là ông có ý muốn triệt hạ phe đảng Mạc Đăng Dung để cứu loạn an dân. Nhưng Lê Chiêu tông hèn yếu, đến nỗi năm Nhâm ngọ 1522 phải bỏ ngôi chạy vào Thanh Hóa để trânh sự áp đảo của Mạc Đăng Dung. Ông cũng chạy theo vua. Vào đến Thanh Hóa thì nhà vua đã bị nhóm Trịnh Tuy bức bách đi nơi khác rồi. Ông già yếu không theo kịp nữa, đau xót tự vận chết khoảng cuối năm Nhâm ngọ 1522, hưởng dương 54 tuổi. Ngô Hoán và Nguyễn Mẫn Đốc cũng tự vận chết theo ông. Nhà Lê trung hưng, truy phong ông vào bậc nhất tiết nghĩa, làm Phúc thần thượng đẳng, dựng đền thờ phụng."
 }

@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Tân Sửu 1901",
-  "dateOfDeath": "Ất Dậu 1945",
-  "hometown": "quê ở tỉnh Nam Định (nay vẫn thuộc tỉnh Nam Định)",
-  "occupation": "Bác sĩ y khoa",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "Bính Thân 1736",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Quê làng Thái Cực huyệnThọ Xương, trú ở huyện Đường An, tỉnh Hải Dương",
+  "occupation" : "Văn thần đời Lê Ý tông, vốn tên là Võ Trần Tự",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
   },
-  "id": 2823,
-  "entityName": "Vũ Ngọc Ánh",
-  "aliases": [],
-  "overview": "Ông xuất thân trong một gia đình khoa bảng, con Tổng đốc Vũ Ngọc Oánh, ông là thông gia với GS. Bùi Xuân Báo. Thuở nhỏ học tại trường Albert Sarraut, tốt nghiệp Tú tài, rồi du học Pháp đỗ Bác sĩ y khoa năm 1928. Về nước làm việc tại các bệnh viện ở Hà Nội, năm 1945 ông nhận lời mời của Trần Trọng Kim làm bộ trưởng Bộ Y tế trong chính phủ Trần Trọng Kim. Tháng 8 năm 1945, trong chuyến ra Hà Nội tiếp nhận các cơ sở Y tế do Nhật giao lại cho chính phủ Việt Nam, ông bị tử thương do máy bay quân đội đồng minh (Mĩ) oanh tạc trên đường từ Hà Nội đi Nam Định. Ông là tác giả một số sách về y học viết bằng tiếng Pháp. Các tác phẩm của ông: - La chèque de bétel en Indochine (1928, Paris) - Notes sur la Vaccination antivariolique destinées au \"bà mụ\" (1930, Hà Nội)."
+  "id" : 2823,
+  "entityName" : "Võ Trần Thiệu",
+  "aliases" : [ "Võ Trần Tự" ],
+  "overview" : "Năm Kỉ mão 1759 ông đỗ Hoàng giáp, làm quan đến Tả đô, tước Bá. Hai lần đi sứ nhà Thanh (Trung Quốc). Đến đời Hiển tông, khi chúa Trịnh Sâm muốn lật đổ nhà Lê, sai ông đi sứ lần III, giao cho tờ mật biểu cầu phong. Ông cùng Hồ Sĩ Đống sang Trung Quốc, đến Động Đình hổ, ông đốt tờ biểu, rồi uống thuốc độc tự tử. (Có sách chép: ông uống thuốc độc chết để tỏ lòng phản đối chúa Trịnh, còn Hồ Sĩ Đống thì đốt tờ biểu, khi về trình dối là Võ Trần Thiệu đã đốt bỏ). Ông được xưng tặng là tiết nghĩa, truy phong Thượng thư."
 }

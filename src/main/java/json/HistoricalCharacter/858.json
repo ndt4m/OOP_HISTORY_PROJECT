@@ -1,17 +1,17 @@
 {
-  "dateOfBirth": "Ất Hợi 1875",
-  "dateOfDeath": "Ất Mùi 1955",
-  "hometown": "tại Biên Hòa (nay thuộc tỉnh Đồng Nai) làm quan nhiều năm ở miền Bắc (Nam Định)",
-  "occupation": "Cựu Tổng đốc cuối triều Nguyễn",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "1312\n----------------------------------------------\nKhông rõ",
+  "hometown" : "quê quán",
+  "occupation" : "Danh sĩ đời Trần Thánh tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Trần" : 15,
+    "nhà Trần" : null
   },
-  "id": 858,
-  "entityName": "Trần Văn Thông",
-  "aliases": [],
-  "overview": "Thuở nhỏ từng theo Tây học, năm 1894 đỗ \"Tú tài Tây\" (Bachelier de l\u0027enseignement moderne) ban sư phạm khoa học, chuyên về ngôn ngữ cổ điển Việt Nam. Từ năm 1907-1911 làm Giám đốc Trường quan lại tập sự ở Hà Nội, rồi giữ chức Tổng đốc Nam Định gần 20 năm. Từng là hội viên Hội đồng Tư vấn Đông Dương, Hội đồng Bảo hộ Bắc Kì, Đông các Đại học sĩ Nam Triều... Ông là thân sinh Tiến sĩ Trần Văn Chương, luật sư Tòa Thượng thẩm Hà Nội, cựu bộ trưởng Ngoại giao chính phủ Trần Trọng Kim năm 1945, luật sư Trần Văn Đỗ cựu ngoại trưởng chính quyền Sài Gòn (1965-1972). Sau ngày Nhật đảo chính Pháp (9-3-1945), ông là một trong tám nhân vật có uy tín trên chánh trường được vua Bảo Đại mời vào Huế tham khảo ý kiến thành lập chính phủ (BS Trần Đình Nam, Hồ Tá Khanh, KS Lưu Văn Lang, Gs Hoàng Xuân Hãn, Ls. Vũ Văn Hiền, Phan Anh, Cựu tổng đốc Hoàng Trọng Phu và ông). Sau đó, ngày 17 tháng 4 năm 1945 nội các Trần Trọng Kim được thành hình trong đó có con trai ông là Trần Văn Chương giữ chức Bộ trưởng Ngoại giao. Sau năm 1954 ông về sống ở Sài Gòn và mất trong năm 1955 thọ 80 tuổi."
+  "id" : 858,
+  "entityName" : "Nguyễn Sĩ Cố",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Sĩ Cố (chữ Hán: 阮士固, ? - 1312); là nhà thơ và là quan nhà Trần trong lịch sử Việt Nam.\n----------------------------------------------\nÔng làm Thiên chương các học sĩ, Hàn lâm viện Thị độc học sĩ trong đời Minh tông. Tài văn học từng áp đảo các danh sĩ đương thời đặc biệt là ông rất khéo khôi hài, nên đời ví ông với Đông Phương Sóc. Ông cũng có công đề xướng việc dùng chữ Nôm trong thơ văn, phụ họa với Nguyễn Thuyên đề cao khả năng chữ Nôm trong tương lai văn hóa dân tộc. Ông sáng tác nhiều thơ phú quốc âm, tiếc không còn lưu truyền. Trong Tứ dân văn uyển có bài Vịnh Tần Thủy Hoàng. Phạm Sư Mạnh - bạn ông - có bài Quá An Phủ Nguyễn Sĩ Cố phần (Qua mộ An Phủ Nguyễn Sĩ Cố). \"Tiêu tiêu thiên mẫu trúc như vân Vô hạn thương tâmAn Phủ thần. Sơn thự tích thời huề tửu địa, Thương mang hạ mã chính tà huân. Bản dịch: Mây giăng ngàn dặm trúc xanh xanh, An Phủ phần trông vướng mối tình. Này chốn ngày xưa vui vẻ lắm, Bâng khuâng xuống ngựa bóng chênh chênh."
 }

@@ -1,20 +1,16 @@
 {
-  "dateOfBirth": "Đinh Mùi 1907",
-  "dateOfDeath": "Mậu Ngọ 1978",
-  "hometown": "quê làng Tân Nhựt, huyện Bình Chánh, tỉnh Chợ Lớn (nay thuộc Thành phố Hồ Chí Minh)",
-  "occupation": "Cao tăng hiện đại",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Vua",
+  "workTenure" : "40—43",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trưng Nữ Vương" : 10
   },
-  "id": 1374,
-  "entityName": "Thích Thiện Hòa",
-  "aliases": [
-    "Tâm Lợi",
-    "Hứa Khắc Lợi"
-  ],
-  "overview": "Ông xuất thân trong một gia đình nông nghiệp, năm 1935 xuất gia tu học tại Phật học đường Lương Xuyên (Trà Vinh) dưới sự dẫn dắt của hòa thượng Khánh Hòa. Năm 1936 được cử ra Huế học Phật pháp tại các Thiền viện và Phật học đường Bảo Quốc, Thuyền Tôn... năm 1944 ra Hà Nội học Phật luật, đến năm 1951 mới về Nam. Sau đó ông hợp tác với các Tăng sĩ đồng khóa và các cư sĩ mở Phật học đường Nam Việt đặt tại chùa Ấn Quang qui tụ được nhiều tăng đồ cả Nam Kì và Campuchia theo học. Từ đó, ông được Giáo hội tăng già Nam Việt ủy thác mở ra các trường Phật học như Từ Nghiêm Dược Sư, Giác Sanh... tại Sài Gòn, Gia Định và Chợ Lớn, năm 1964 ông làm Giám đốc Viện Cao đẳng Phật học Huệ Nghiêm. Năm 1973, ông được suy tôn Phó Tăng thống Giáo hội Phật giáo Việt Nam (miền Nam) đến ngày 7-2-1978 ông từ trần tại Chợ Lớn. Hòa thượng Thiện Hòa là một hành Bồ Tát cao cả, một nhà giáo dục khuôn mẫu của Giáo hội Phật giáo Việt Nam. Trong thời gian hóa đạo ông đã trùng tu xây dựng được nhiều cảnh chùa, mở được nhiều Phật học đường và cũng là người sáng lập Đại tùng lâm (ở Bà Rịa) chuyên đào tạo tăng sĩ cho Phật giáo Việt Nam."
+  "id" : 1374,
+  "entityName" : "Trưng Vương",
+  "aliases" : [ "Trưng Nhị" ],
+  "overview" : "Hai Bà Trưng (chữ Nôm: ?婆徵) là thời kỳ xen giữa Bắc thuộc lần 1 và Bắc thuộc lần 2 trong lịch sử Việt Nam. Đây là tên gọi chung của hai chị em Trưng Trắc (chữ Hán: 徵側) và Trưng Nhị (徵貳), là anh hùng dân tộc của người Việt, những thủ lĩnh khởi binh chống lại nhà Đông Hán của Trung Quốc, lập ra một quốc gia với kinh đô tại Mê Linh và tự phong là Nữ vương.\n----------------------------------------------\nHai Bà Trưng (13 tháng 9 năm 14 – 5 tháng 3 năm 43) là tên chỉ chung hai chị em Trưng Trắc (徵側) và Trưng Nhị (徵貳), hai người phụ nữ được đánh giá là anh hùng dân tộc của người Việt. Trong sử sách, hai bà được biết đến như là những thủ lĩnh khởi binh chống lại chính quyền đô hộ của Đông Hán, lập ra một quốc gia với kinh đô tại Mê Linh và Trưng Trắc tự phong là Nữ vương. Thời kì của hai Bà xen giữa thời kỳ Bắc thuộc lần 1 và Bắc thuộc lần 2 trong lịch sử Việt Nam. Đại Việt sử ký toàn thư coi Trưng Trắc là một vị vua trong lịch sử, với tên gọi Trưng Nữ vương (徵女王)."
 }

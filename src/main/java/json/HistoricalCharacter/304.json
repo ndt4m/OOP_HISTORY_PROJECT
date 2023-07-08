@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Mậu Ngọ 1678",
-  "dateOfDeath": "Kỉ Dậu 1729",
-  "hometown": "quê xã Hiến Phạm, huyện Văn Giang, tỉnh Bắc Ninh (nay thuộc tỉnh Hưng Yên)",
-  "occupation": "Danh sĩ đời Lê Hi tông, thân phụ Đoàn Doãn Luân và Đoàn Thị Điềm",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Quê ở châu Thường Xuân, tỉnh Thanh Hóa, (nay vẫn thuộc tỉnh Thanh Hóa)",
+  "occupation" : "Chí sĩ đời Hàm Nghi",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 304,
-  "entityName": "Đoàn Doãn Nghi",
-  "aliases": [],
-  "overview": "Nguyên xưa vốn họ Lê nội tổ của ông là Lê Công Nẫm, thân phụ ông là Lê Công Vị. Ông học rộng nức tiếng, nhân một hôm nằm mộng thấy thần ban họ Đoàn, ông vâng theo. Chánh thất của ông là Nguyễn Thị, sinh một trai là Đoàn Doãn Sĩ; thứ thất là Võ Thị sinh một trai là Doãn Luân, một gái là Thị Điểm. Người con đời vợ trước đem gia quyến ở ẩn tại vùng Kinh Môn, Nam Sách (t. Hải Dương). Ông đem người vợ thứ và Doãn Luân, Thị Điểm sang ở làng Lạc Niên, huyện An Dương, mở trường dạy học. Năm Kỉ dậu 1729 ông mất, hưởng dương 51 tuổi, linh cữu đưa về quê quán chôn cất. Các học trò ông dâng tên thụy cho ông là Ôn Thứ, hiệu Dương Kinh tiên sinh."
+  "id" : 304,
+  "entityName" : "Hà Triều Nguyệt",
+  "aliases" : [ "Lãnh Nguyệt" ],
+  "overview" : "Năm Kỉ hợi 1899, hưởng ứng phong trào Văn thân, Cần Vương, ông theo giúp Đề Thám chống giặc Pháp. Ông có sức vóc mạnh mẽ, da ngăm đen, râu quai nón, ăn uống chẳng kém Lê Như Hổ đời Lê. Năm Giáp thìn 1904, chiến khu Yên Thế bị phá vỡ, ông bị bắt. Năm sau, ông bị đưa đi đày ở Guyane với bản án 12 năm khổ sai. Đến năm Ất mão 1915, được thả về, ông lại bị đưa đi an trí ở Huế. Sau nhờ Tôn Thất Hân (phụ chánh triều Bảo Đại) bảo lãnh, ông được về sống ở quê, rồi chết ở đấy."
 }

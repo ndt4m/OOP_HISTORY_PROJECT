@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê làng Lạc Phố, huyện Hương Sơn, tỉnh Hà Tĩnh",
-  "occupation": "Danh tướng đời Lê Hiển tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "1380\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Quê xã Đông Sơn, huyện Tiên Du, tỉnh Bắc Ninh (về hiệu Vi Khê có sách ghi là Qui Khê)",
+  "occupation" : "Danh thần đời Lê Thái tổ, không rõ năm sinh, năm mất",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "nhà Lê" : null,
+    "Triều Lê Sơ" : 7
   },
-  "id": 504,
-  "entityName": "Văn Đình Dẫn",
-  "aliases": [],
-  "overview": "Năm 1740 ông làm Trấn thủ Sơn Tây. Lúc bấy giờ tình hình trong nước rối loạn, chúa Trịnh Doanh đem cả đại quân đi đàn áp các phong trào khởi nghĩa ở các địa phương, thành Thăng Long bỏ trống. Biết tin này, lãnh tụ nông dân khởi nghĩa là Nguyễn Cừ cùng tướng là Trần Thiên về chiếm Thăng Long. Ông lập tức đem quân về đàn áp cứu nguy cho chúa Trịnh. Vì thế ông được phong tước Điều Quận công. Gia thế ông nhiều đời làm tướng, cha là Văn Đinh Nhân tước Cổn Quận Công, con là Văn Đình Ức tước Quảng Quận Công, cháu là Văn Đình Cung đỗ Tạo sĩ giữ chức Binh phù làm rể chúa Trịnh. Đương thời xưng tụng là \"Hương Sơn thê tướng\" (nhà nối đời làm tướng ở Hương Sơn). Khi ông mất được truy tặng là Đại vương, phong phúc thần. Sách VIỆT SỬ TỐNG VỊNH viết: \"Thăng Long vô bị tặc phân di, Suất lữ cần vương nhật dạ trì. Bỉnh chúc nhiệt đương tư diệt tặc, Nhiên tương tháp tượng tỉ hoài nghi\" Nghĩa: Thăng Long không giữ giặc tơi bời Đem chúng Cần vương chẳng nghỉ ngơi Đốt đuốc nấu cơm lo giết giặc Thắp hương cặp gậy phỉnh lòng người"
+  "id" : 504,
+  "entityName" : "Vũ Mộng Nguyên",
+  "aliases" : [ "Lạn Kha Ông", "Vi Khê", "Vị Khê" ],
+  "overview" : "Vũ Mộng Nguyên (1380 - ?) , hiệu: Vị Khê, Lạn Kha; là quan nhà Lê sơ, và là nhà thơ Việt Nam ở nửa đầu thế kỷ 15.\n----------------------------------------------\nNăm Canh thìn 1400 đời Hồ Quí Li ông đỗ Thái học sinh, nhưng trong nước biến loạn, ông ở ẩn không ra làm quan. Buổi đầu nhà Lê, Lê Thái tổ mời ông ra làm Tư nghiệp Quốc tử giám. Tài học,đức độ ông được nhiều người khâm phục, nên được tôn xưng là Minh Phủ (bậc sáng suốt, có tài đức). Đến năm 74 tuổi ông về hưu, triều đình ban lễ trọng hậu, các quan tiễn chân ở cửa Đông rộn rịp. Các tác phẩm của ông có: Vi Khê thi tập và một số bài được sao lục trong Hoàng Việt thi tuyển và Toàn Việt thi lục"
 }

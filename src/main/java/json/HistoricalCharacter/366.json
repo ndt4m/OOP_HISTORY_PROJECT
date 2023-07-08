@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Quê huyện Tống Sơn, tỉnh Thanh Hóa, sau di cư vào ngụ đất Thuận Hóa (Huế)",
-  "occupation": "Võ tướng đời Định vương Nguyễn Phúc Thuần, có sách chép là Nguyễn Kế",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "Tân Mùi 1511",
+  "dateOfDeath" : "Tân Tị 1581",
+  "hometown" : "người làng Tiên Châu, huyện Tiên Lữ, tỉnh Hưng Yên",
+  "occupation" : "Văn thần đời Mạc, không rõ tên thật",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nam - Bắc Triều" : 19
   },
-  "id": 366,
-  "entityName": "Bùi Công Kế",
-  "aliases": [
-    "Nguyễn Kế"
-  ],
-  "overview": "Ông tướng mạo khôi ngô, có sức mạnh, giỏi võ nghệ. Xuất thân làm cai đội dần dần thăng đến Chưởng cơ, lãnh Trấn thủ Bình Khang. Ất tị 1775, Tây Sơn dấy binh, ông vâng mạng tiết chế Tống Phúc Hiệp đem binh chống cự, bại trận bị bắt giết. Được triều Nguyễn truy tặng Chưởng dinh, liệt thờ vào hai miếu Hiển Trung và Trung Tiết công thần của nhà Nguyễn."
+  "id" : 366,
+  "entityName" : "Lê Nhu Hổ",
+  "aliases" : [ ],
+  "overview" : "Ông chẳng những có văn tài, lại có sức khỏe hơn người. Tương truyền ông là nhân vật ăn khỏe nhất nước ta, nên đương thời gọi ông là Như Hổ. Năm Tân sửu 1541, đời Mạc Phúc Hải, ông đỗ tiến sĩ, 39 tuổi, được sung chức Tả thị lang, phụng mạng sang sứ nhà Minh dâng lễ cống. Tại Trung Quốc danh tiếng ông cũng vang dậy một thời. Khi đi sứ Trung Quốc ông được vua nhà Minh phong là Lưỡng quốc quốc sư. Đi sứ về có công, ông được thăng Thượng thư tước Xuân Giang Hầu. Tương truyền khi đi sứ Trung Quốc ông học được nghề làm dù và sau này người Việt xem ông là tổ sư của nghề làm dù nước ta."
 }

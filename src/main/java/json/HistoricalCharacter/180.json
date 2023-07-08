@@ -1,23 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Hùng Vương\n----------------------------------------------\nTổ thứ nhất của dân tộc Việt Nam, họ Hồng Bàng dựng nước. Tất cả truyền được 18 đời đều xưng họ Hùng Vương (theo Hùng triều ngọc phả và Thiên Nam bảo lục diễn ca).\n----------------------------------------------\nVua",
-  "workTenure": "2879 TCN - ?\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n2879 TCN–2794 TCN",
-  "fatherName": {
-    "Đế Minh": null
+  "dateOfBirth" : "Canh Ngọ 1930",
+  "dateOfDeath" : "Mậu Dần 1998",
+  "hometown" : "tại tỉnh Hà Nam",
+  "occupation" : "Nhà nghiên cứu văn học, giảng sư Đại học Văn khoa Sài Gòn",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "motherName": {},
-  "eraName": {
-    "Hồng Bàng": 17,
-    "Dựng nước": 31
-  },
-  "id": 180,
-  "entityName": "Kinh Dương Vương",
-  "aliases": [
-    "Lộc Tục",
-    "Xích Quỷ",
-    "Lộc Tục (祿續)"
-  ],
-  "overview": "Kinh Dương vương (chữ Hán: 涇陽王); là một nhân vật truyền thuyết, ông nội Hùng Vương thứ nhất, thuộc dòng dõi Vua Thần Nông vốn được suy tôn làm thủy tổ của người Bách Việt. Dã sử chép Kinh Dương vương tên húy là Lộc Tục (祿續), là người hình thành nhà nước sơ khai đầu tiên vào năm Nhâm Tuất (~2879 Tr.CN), đặt quốc hiệu là Xích Quỷ, Lãnh thổ của quốc gia dưới thời Kinh Dương vương rộng lớn, phía bắc tới sông Dương Tử (cả vùng hồ Động Đình), phía nam tới nước Hồ Tôn (Chiêm Thành), phía đông là Đông Hải (một phần của Thái Bình Dương), phía tây là Ba Thục (Tứ Xuyên, Trung Hoa ngày nay). Kinh Dương vương truyền ngôi cho con là Lạc Long Quân.\n----------------------------------------------\nNgài là đời thứ nhất gọi là Kinh Dương Vương Lộc Tục, tôn dâng miếu là Hùng Vương, thứ hai là Lạc Long Quân Sùng Lãm, thứ ba là Hùng Lân... Quốc hiệu ta lúc ấy là Văn Lang đóng đô ở Phong Châu (thuộc huyện Bạch Hạc, tỉnh Vĩnh Phú ngày nay. Ông làm vua nước Xích Quỉ vào khoảng năm Nhâm tuất (2879 tr.CN) lấy con gái Động Đinh quan là Long Nữ sinh ra Sùng Lãm, nối ngôi làm vua. Toàn lãnh thổ chia ra làm 15 bộ: Văn Lang, Châu Diên, Phúc Lộc, Tân Hưng, Võ Định, Võ Ninh, Lục Khái, Ninh Hải, Dương Tuyền, Giao Chỉ, Cửu Chân, Hoài Nam, Cửu Đức, Việt Thường và Binh Văn. Và truyền nhau đến đời thứ 18 là Hùng Duệ. Đến nay di tích hay còn trên đỉnh Hùng Sơn (Núi Hùng) cách Hà Nội 97km, cũng gọi là Núi Đền, Nghĩa Lĩnh, hay Nghĩa Cương. Bia đề 4 chữ lớn Cao Sơn cảnh Hùng.\n----------------------------------------------\nKinh Dương Vương (chữ Hán: 涇陽王, 2919 TCN - 2792 TCN) là con của Đế Minh, tức em trai ruột của Đế Nghi (Đế Nghi cũng là con trai của Đế Minh), cháu nội của Đế Thừa, cháu 3 đời của Thần Nông. Kinh Dương Vương (tên húy là Lộc Tục) thuộc dòng dõi vua Thần Nông vốn được suy tôn là thủy tổ của người Bách Việt. Sử chép Kinh Dương Vương tên húy là Lộc Tục (祿續), là người hình thành nhà nước sơ khai đầu tiên vào năm Nhâm Tuất 2879 TCN, đặt quốc hiệu là Xích Quỷ. Lãnh thổ của quốc gia dưới thời Kinh Dương Vương rộng lớn, phía bắc tới sông Dương Tử (cả vùng hồ Động Đình), phía nam tới nước Hồ Tôn (Chiêm Thành), phía đông là Đông Hải (một phần của Thái Bình Dương), phía tây là Ba Thục (Tứ Xuyên, Trung Hoa ngày nay). Kinh Dương Vương truyền ngôi cho con là Lạc Long Quân (tên húy là Sùng Lãm)."
+  "id" : 180,
+  "entityName" : "Trần Trọng San",
+  "aliases" : [ ],
+  "overview" : "Cựu học sinh Trường Chu Văn An tốt nghiệp Đại học Văn khoa những năm 50, dạy tại trường Chu Văn An Sài Gòn rồi Đại học Văn khoa Sài Gòn từ năm 1961. Sau năm 1975 ông vẫn giảng dạy tại Đại học Tổng hợp TP. HCM cho đến ngày nghỉ vì mất sức (1985). Các tác phẩm đã xuất bản: - Công dân giáo dục lớp 6, 7, 8, 9, 10 11, 12 (hợp soạn, 1961) - Việt văn độc bản (1961) - Thơ Đường (1957) - Văn học Trung Quốc đời Chu Tần (1969) - Lược khảo Kinh Thi (1958) - Luận lí học (triết, 1961) - Hán văn (1963) - Lý Bạch (1968) - Đỗ Phủ (1969) - Bạch Cư Dị (1969) Phần lớn các tác phẩm của ông sau năm 1980 được tái bản tại TP.HCM."
 }

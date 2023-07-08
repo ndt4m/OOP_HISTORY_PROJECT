@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "Ất Tị 1905",
-  "dateOfDeath": "Mậu Tuất 1958",
-  "hometown": "quê làng Phù Khê, phủ Từ Sơn, tỉnh Bắc Ninh (nay là huyện Tiên Sơn tỉnh Bắc Ninh)",
-  "occupation": "Nhà văn bút ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Canh Thìn 1100",
+  "dateOfDeath" : "Bính Thân 1176",
+  "hometown" : "quê ở hương Phù Điền, quận Vĩnh Khang, thuộc Lộ Giang (nay thuộc tỉnh Hưng Yên)",
+  "occupation" : "Thiền sư đời Lý Anh tông, họ Kiều, không rõ tên thật",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Lý" : 14
   },
-  "id": 2449,
-  "entityName": "Nguyễn Cát Ngạc",
-  "aliases": [
-    "Nam Xương"
-  ],
-  "overview": "Ông xuất thân trường Cao đẳng Công chánh, làm công tác kĩ thuật, lại chuyên viết kịch bản và cũng từng tham gia đóng kịch. Ông tham gia Cách mạng tháng Tám, công tác bí mật ở thành phố Nam Định, Hà Nội. Đến năm 1954 ông được phái vào Sài Gòn công tác và hi sinh trong năm 1958, hưởng dương 53 tuổi. Hai vở kịch của ông từng được hoan nghênh: - Chàng ngôc (1930) - Ông Tây An Nam (1931)"
+  "id" : 2449,
+  "entityName" : "Kiều Bản Tĩnh",
+  "aliases" : [ "Bản Tĩnh" ],
+  "overview" : "Thuở trẻ hiếu học, chuyên tâm nghiên cứu kinh điển, ông tinh thông cả Nho và Phật. Từng thọ giới với sư Mãn Giác (Lý Trường). Năm Tân dậu 1141, ông trụ trì ở chùa Bình Dương núi Chí Linh. Công đức của ông được quan Hữu bậc Nguy Quốc Bảo kính trọng, tôn làm bậc thầy. Sau ông nhận lời mời của vị quan triều họ Dương đến trụ trì nơi chùa Càn An trong thành Thăng Long. Ông thường phát đại nguyện: - Nguyện con đời đời chẳng làm tông chỉ của Phật, hạnh tự giác giác, tha không bao giờ giác cách, dùng phương tiện dẫn dắt mọi nguời đến cõi chí thiện. Năm Bính thân 1176, đời Lý Cao tông, ông viên tịch trong tháng giêng thọ 76 tuổi ông cùng với sư Bảo Giám và Không Lộ làm thành thế hệ thứ 9 dòng thiền Quan Bích. Ông còn lưu lại 3 bài kệ, bài thứ nhất tỏ ý: (Đây là lời phát đại nguyện đã kể trên) \"Thế thế sinh sinh Bạt muội Phật chỉ Tự giác giác tha Vô gián bỉ thử Phương tiện đề huề Nhập ư nhất qui\". Bản dịch: Kiếp kiếp lại đời đời Phật chỉ phải sáng ngời Ta, người đều giác ngộ, Đây đó chằng phân đôi. Dắt dìu nhau phương tiện, Một lối cùng tới nơi."
 }

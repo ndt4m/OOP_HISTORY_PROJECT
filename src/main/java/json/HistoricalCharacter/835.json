@@ -1,20 +1,16 @@
 {
-  "dateOfBirth": "Tân Hợi 1911",
-  "dateOfDeath": "Mậu Thìn 1988",
-  "hometown": "quê làngThổ Khối, huyện Gia Lâm, tỉnh Bắc Ninh (nay vẫn thuộc tỉnh Bắc Ninh)",
-  "occupation": "Họa sĩ hiện đại",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Tân Dậu 1921",
+  "dateOfDeath" : "Kỉ Mùi 1979",
+  "hometown" : "quê huyện Hương Thủy, tỉnh Thừa Thiên",
+  "occupation" : "Giáo sư",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nước Việt Nam mới" : 29
   },
-  "id": 835,
-  "entityName": "Lê Thị Lựu",
-  "aliases": [
-    "Thạch Ẩn",
-    "Văn Đỏ"
-  ],
-  "overview": "Thuở nhỏ học tiểu học, trung học, Cao đằng Mĩ thuật, Hà Nội. Năm 1932 tốt nghiệp (khóa 3) trường Cao đẳng Mĩ thuật Hà Nội. Ra trường bà được bổ dạy môn hội họa tại các trường Bưởi, Trưng Vương (Hà Nội), trường Gia Long, và trường Trang trí Mĩ thuật Gia Định (Sài Gòn). Trong khi dạy học và vẽ, bà còn cộng tác với các báo trong Nam ngoài Bắc, như báo Ngày Nay (của Nhất Linh), Phụ Nữ Tân Văn (của ông bà Nguyễn Đức Nhuận), Đàn bà mới (của bà Thụy An). Từ năm 1940 bà cùng gia đình sang Paris, thủ đô nước Pháp. Tại đây bà là thành viên hội Union des Femmes Peintres et Sculpeteur của Pháp. Năm 1946 bà gia nhập phong trào chống thực dân tại Paris, bà bị mật thám Pháp khám xét nhà nhiều lần vì cho rằng bà là một trong những người chống chính quyền Pháp. Trong thời gian này bà còn giữ chức thủ quĩ của Hội văn hóa Liên hiệp cho đến ngày kí hiệp định đình chiến Việt - Pháp tại Genève năm 1954. Sau năm 1971 bà cùng gia đình về ẩn cư tại Spéracèdes (miền Nam nước Pháp) cho đến ngày cuối đời. Bà là tác giả nhiều tác phẩm hội họa nổi tiếng: - Kiều gãy đàn tì bà - Kim Kiều gặp gỡ - Tam đại đồng đường - Thiếu nữ tắm hồ sen - Trần Anh bên suối - Dông tố - Chân dung vợ chồng quê - Cảnh Honfleur - Sơn nữ - Thiếu nữ với cây đàn thập lục... đã một thời làm say mê giới nghệ thuật hội họa châu Âu. Tranh bà màu sắc tươi nhã mà thoang thoảng buồn với những hình ảnh đồng quê Việt Nam, yên lặng, trầm buồn, êm đềm như đi vào những giấc mộng lành. Nói như một nhà phê bình: \"Tranh Lê Thị Lựu dan díu với một thiên đường Việt Nam tiền chiến, ẩm thêm sắc thái nghiêm đài về đất cũ của những người cách nước lâu ngày, có những nhịp đời thương nhớ âm vọng trong thời khắc và lòng người.\""
+  "id" : 835,
+  "entityName" : "Đoàn Văn An",
+  "aliases" : [ "Thiên Ân" ],
+  "overview" : "Thuở nhỏ học tại Huế rồi xuất gia tu tại chùa Bảo Quốc, Linh Quang (Huế) sau du học Nhật chuyên về thiền Nhật Bản (Zen), năm 1961 đỗ bằng MA, đến năm 1965 đỗ Ph.D (Tlến sĩ) tại Đại học Waseda, Tokyo. Sau khi về nước, ông giảng dạy tại Đại học Văn khoa Huế và Sài Gòn về triết học, sử học Đông phương. Năm 1967 ông được mời giảng dạy tại Hoa Kì rồi định cư luôn ở Mĩ, ông mất năm 1979 tại Califomia (Mĩ). Các tác phẩm chính - Triết học Zen (1963). - Một vài quan điểm trong vấn đề trao đổi, văn hóa Việt Nam - Nhật Bản (1963) - Phật giáo Việt Nam xưa và nay (1965) - Lịch sử tư tưởng Nhật Bản (1965) - Giáo dục Nhật Bản hiện đại (1966) - Giá trị triết học, tôn giáo trong truyện Kiều (1966) Và một số chuyên luận đăng trên các tạp chí ở Sài Gòn, Hoa Kì."
 }

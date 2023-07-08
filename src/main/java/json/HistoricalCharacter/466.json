@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "không rõ năm sinh, năm mất và quê quán",
-  "occupation": "﻿Liệt sỹ đời Trưng Vương",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trưng Nữ Vương": 10
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Võ tướng đời Minh Mạng",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 466,
-  "entityName": "An Bình Lý",
-  "aliases": [],
-  "overview": "Ông cùng ba người chị ngày đêm luyện tập sĩ tốt, kết giao hào kiệt lựa chọn người tài để cầm quân khởi nghĩa. Khi Hai Bà Trưng phát động cuộc đánh đuổi quân cướp nước, chị em ông hơn quân hưởng ứng với các đạo binh của Thánh Thiên, Lê Chân, Bát Nạn, tiến công như vũ bão. Đuổi xong Tô Định, khôi phục non sông, người chị cả của ông là Đạm Nương được Trưng Vương phong làm Tả đạo tướng quân; còn ông lãnh trọng trách đóng binh trấn giữ Tam Dương, Quất Lưu. Đến năm Quí mão 43, ngày 11 tháng 11, Hồng Nương và Thanh Nương tử tiết, trong khi chống trả cuộc tấn công do Mã Viện chỉ huy. Sáng ngày 1 tháng 12, An Bình Lý hi sinh và đêm ấy Đạm Nương cũng tự sát. An Bình Lý, Tam Nương, Tuấn Công đều được thờ ở đình Quất Lưu, thuộc huyện Bình Xuyên, tỉnh Vĩnh Phú ngày nay. Ngày 12 tháng 11 là ngày giỗ. Hội đình Quất Lưu trước tổ chức vào ngày 10 tháng giêng, lệ có đánh vật và thi 14 thứ bánh nếp. aaaa"
+  "id" : 466,
+  "entityName" : "Dương Văn Nhã",
+  "aliases" : [ ],
+  "overview" : "Chỉ trong một tháng các nhóm nghĩa quân của ông đã thu gom 6 tỉnh miền Nam, cố thủ thành Gia Định chống lại với đại binh của triều đình do Tống Phúc Lương, Nguyễn Xuân, Phan Văn Thúy, Trương Minh Giảng, Trần Văn Năng điều khiển. Mãi đến tháng 7 năm Ất tị 1835 ngót ba năm trời binh triều mới dẹp xong cuộc khởi nghĩa này. Ông và các tướng đều bị giết, tất cả gồm 1831 người đem chôn vào một chỗ gọi là \"Đồng mả ngụy\" nay thuộc tỉnh Gia Định (TP. Hồ Chi Minh)."
 }

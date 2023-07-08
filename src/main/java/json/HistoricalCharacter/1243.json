@@ -1,16 +1,14 @@
 {
-  "dateOfBirth": "Canh Thìn 1880",
-  "dateOfDeath": "Mậu Thìn 1928",
-  "hometown": "tại làng Nông Sơn",
-  "occupation": "Chiến sĩ phong trào Duy tân",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
-  },
-  "id": 1243,
-  "entityName": "Mai Dị",
-  "aliases": [],
-  "overview": "Sinh trưởng trong một gia đình truyền thống Nho học, thuở nhỏ học trường Đốc Quảng Nam, năm 1906 đậu Cử nhân tại Trường thi Thừa Thiên cùng khoa với Nguyễn Bá Trác (1881-1945). Sau khi thi đỗ, ông cùng tham gia phong trào Duy tân với các đồng chí dạy học tại Nghĩa thục Diên Phong, rồi được cử du học Nhật Bản với Nguyễn Bá Trác (sau NBT về đầu thú làm việc cho Pháp), nhưng ông vì hoàn cảnh gia đình không đi được. Từ đó ông tiếp tục dạy học tại các Nghĩa thục. Năm 1908 phong trào Duy tân bị khủng bố trắng, ông cùng các đồng chí bị Pháp và Nam triều bắt giam ở nhà lao Hội An, đến năm 1911 được trả tự do. Năm 1916 vì Pháp nghi có tham gia cuộc khởi nghĩa Duy tân nên bị bắt một lần nữa mãi đến năm 1919 mới được ra khỏi nhà tù thực dân. Năm 1920, sau khi Nguyễn Bá Trác làm Tá lí bộ Học ở Huế, Trác thay mặt triều đình mời ông và các cựu tù năm 1908 (Lương Thúc Kỳ, Phan Thúc Duyện, Huỳnh Thúc Kháng... - Theo Huỳnh Thúc Kháng niên phổ, NXB Văn hóa, 2001) tham gia biên soạn một số sách cho chính phủ Nam triều tại Huế. Năm 1928 ông bị bệnh lao qua đời tại Huế, thi hài ông được an táng tại núi Ngự Bình; mãi đến năm 1989 (ngày 22 tháng 5), chính quyền huyện Điện Bàn và con cháu cải táng về làng cũ Nông Sơn. Các tác phẩm của ông: (hợp soạn cùng Lương Thúc Kỳ, Trần Nhã Diệm): - Thừa Thiên đăng khoa - Thừa Thiên địa lí - Hán Việt tự điển (Các tác phẩm còn ở dạng bản thảo) Thơ ca ông còn truyền tụng một số bài, như bài thơ chữ Nôm sau: - Xu thời - Xấu đất nên chi chẳng nắn nổi - Đi đâu cũng gặp cái lôi thôi! - Thà không thì nó rằng không phải, - Cứ nói làm chi chuyện vuốt đuôi! (Truyền văn cho bài này lúc Nguyễn Bá Trác được thăng quan, ông tặng bài thơ trên, ám chỉ việc ông Trác xu phụ nhà cầm quyền.)"
+  "dateOfBirth" : "1819",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê là thôn Đan Lạc, xã, Thịnh Lạc, tổng Nộn Liễu, huyện Nam Đường, phủ Anh Sơn, tỉnh Nghệ An (nay là xã Hùng Tiến, huyện Nam Đàn, tỉnh Nghệ An).",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 1243,
+  "entityName" : "Nguyễn Thái",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Thái (1819-?) là một nho sĩ thời Nguyễn. Nguyễn Thái có quê là thôn Đan Lạc, xã, Thịnh Lạc, tổng Nộn Liễu, huyện Nam Đường, phủ Anh Sơn, tỉnh Nghệ An (nay là xã Hùng Tiến, huyện Nam Đàn, tỉnh Nghệ An). Ông đỗ Hương cống (thời Nguyễn gọi là Cử nhân) năm Đinh Mùi 1847, tức niên hiệu Tự Đức thứ 1, rồi đỗ Phó bảng năm Tân Hợi niên hiệu Tự Đức 4 1851. Tiếp theo, qua kỳ ân khoa năm đó, ông đỗ Hoàng giáp. Ông giữ các chức quan đó là Hàn lâm viện Trước tác, Tu thư Vân hải sở, Đốc học Quảng Ngãi, Giảng quan ở Kinh diên Khởi cư trú, Thị độc Học sĩ, Án sát sứ Hưng Yên ."
 }

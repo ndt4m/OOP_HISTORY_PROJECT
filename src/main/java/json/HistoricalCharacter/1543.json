@@ -1,29 +1,17 @@
 {
-  "dateOfBirth": "23 tháng 2, 1852 Huế, Đại Nam\n----------------------------------------------\nQuí Sửu 1853\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath": "6 tháng 10, 1883 (31 tuổi) Huế, Đại Nam\n----------------------------------------------\nQuí Mùi 1883\n----------------------------------------------\nKhông rõ",
-  "hometown": "Thừa Thiên-Huế\n----------------------------------------------\nKhông rõ",
-  "occupation": "Hoàng đế Đại Nam\n----------------------------------------------\nTức vua Dục Đức, con nuôi trưởng của vua Tự Đức, con ruột của Nguyễn Phúc Hồng Y.\n----------------------------------------------\nHoàng đế",
-  "workTenure": "20 tháng 7 năm 1883 - 23 tháng 7 năm 1883 (0 năm, 3 ngày)\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1883–1883",
-  "fatherName": {
-    "Nguyễn Phúc Hồng Y": null
+  "dateOfBirth" : "Giáp Tí 1924",
+  "dateOfDeath" : "Bính Tuất 2006",
+  "hometown" : "tại xã Nam Ninh, huyện Nam Trực, tỉnh Nam Định (nay vẫn thuộc tỉnh Nam Định)",
+  "occupation" : "Nhà hoạt động cách mạng, nguyên uỷ viên Bộ Chính trị Ban chấp hành, bí thư Trung ương Đảng cộng sản Việt Nam",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "motherName": {
-    "Trần Thị Nga": null
-  },
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nhà Nguyễn": null
-  },
-  "id": 1543,
-  "entityName": "Nguyễn Phúc Ưng Chân",
-  "aliases": [
-    "Huệ hoàng đế (惠皇帝)",
-    "Nguyễn Phúc Ưng Chân",
-    "Nguyễn Phúc Ưng Ái Nguyễn Phúc Ưng Chân (阮福膺禛)",
-    "Dục Đức",
-    "Nguyễn Phúc Ưng Ái",
-    "Nguyễn Cung Tông",
-    "Cung Tông (恭宗)"
-  ],
-  "overview": "Dục Đức (chữ Hán: 育德, 23 tháng 2 năm 1852 – 6 tháng 10 năm 1883), tên thật là Nguyễn Phúc Ưng Ái, sau đổi thành Nguyễn Phúc Ưng Chân (阮福膺禛), là vị Hoàng đế thứ năm của triều đại nhà Nguyễn. Ông lên ngôi vua ngày 19 tháng 7 năm 1883 , nhưng tại vị chỉ được ba ngày , được truy tôn miếu hiệu là Nguyễn Cung Tông (阮恭宗).\n----------------------------------------------\nSau khi Tự Đức mất, di chiếu truyền ngôi cho ông và cử Trần Tiễn Thành, Tôn Thất Thuyết, Nguyễn Văn Tường làm Phụ chánh đại thần, nhưng trong di chiếu có đoạn nói mắt ông có tật, Tường, Thuyết vin vào cớ đó tuyên bố truất phế ông, triều thần ngơ ngác, chỉ có Phan Đình Phùng đứng lên phản đối, liền bị Thuyết bắt giam, cách chức rồi đuổi về quê. Sau đó Tường, Thuyết cho người ám sát Trần Tiễn Thành. Từ đó mọi việc triều đình đều do hai ông này quyết định cả, không ai dám phản đối, rồi đưa em vua Tự Đức là Lạng Quốc Công (tức Nguyễn Phúc Hồng Dật) lên làm vua, đặt niên hiệu là Hiệp Hòa, còn ông thì bị đem giam ở Dục Đức giảng đường rồi Tường, Thuyết giết vào năm 1883. Ông ở ngôi mới được 3 ngày, hưởng dương 30 tuổi.\n----------------------------------------------\nNguyễn Cung Tông (chữ Hán: 阮恭宗 23 tháng 2 năm 1852 – 6 tháng 10 năm 1883), tên thật là Nguyễn Phúc Ưng Ái, sau đổi thành Nguyễn Phúc Ưng Chân (阮福膺禛), là vị hoàng đế thứ năm của triều đại nhà Nguyễn. Ông lên ngôi vua ngày 19 tháng 7 năm 1883 nhưng tại vị chỉ được ba ngày, ngắn nhất trong số 13 vị hoàng đế của triều Nguyễn, được vua Thành Thái truy tôn miếu hiệu là Cung Tông (恭宗), thụy hiệu là Huệ Hoàng đế (惠皇帝). Dục Đức là tên gọi khi ông còn ở Dục Đức Đường."
+  "id" : 1543,
+  "entityName" : "Vũ Thiện Tuấn",
+  "aliases" : [ "Trần Xuân Bách" ],
+  "overview" : "Thuở nhỏ ông học ở Nam Định, tham gia hoạt động Cách mạng từ những năm còn rất trẻ. Từng giữ các chức vụ Phó bí thư tlnh ủy Ninh Bình, giám đốc Công an khu III, chánh văn phòng Liên khu ủy III, bí thư tỉnh ủy các tỉnh: Nam Định, Sơn Tây, Nam Hà; đại biểu Quốc hội các khoá 2, 3, 4; ủy viên ủy ban Thường vụ Quốc hội các khóa 3, 4; trưởng ban Tôn giáo vận Trung ương, tổng thư kí ủy ban Trung ương Mặt trận Tổ Quốc Việt Nam, chánh văn phòng Trung ương Đảng, trưởng Ban B68 của Đảng; ủy viên Ban chấp hành Trung ương, bí thư Trung ương Đảng khóa V, ủy viên Bộ Chính trị trong nhiệm kỳ khoá VI, bí thư Trung ương Đảng từ tháng 12-1986 đến tháng 3-1990. Nghỉ hưu từ tháng 8-1990. Ông mất vào lúc 15 giờ 30' ngày 1 tháng 1 năm 2006 tại bệnh viện Hữu Nghị Hà Nội, thọ 83 tuổi, an táng tại nghĩa trang Mai Dịch, Hà Nội."
 }

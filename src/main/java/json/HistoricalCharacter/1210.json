@@ -1,17 +1,16 @@
 {
-  "dateOfBirth": "1468\n----------------------------------------------\nKỉ Sửu 1469",
-  "dateOfDeath": "1509\n----------------------------------------------\nKỉ Tị 1509",
-  "hometown": "quê làng Thượng Phúc, tỉnh Hà Đông (nay là TP",
-  "occupation": "Danh thần đời Lê Thánh tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Lê": null,
-    "Triều Lê Sơ": 7
+  "dateOfBirth" : "Kỉ Dậu 1909",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "tại làng Đông Ngạc, huyện Thường Tín, tỉnh Hà Đông (nay thuộc tỉnh Hà Tây), không rõ năm mất",
+  "occupation" : "Bác sĩ y khoa",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 1210,
-  "entityName": "Dương Trực Nguyên",
-  "aliases": [],
-  "overview": "Dương Trực Nguyên (1468-1509) là danh thần nhà Lê sơ trong lịch sử Việt Nam. Ông là thành viên hội Tao đàn Nhị thập bát Tú\n----------------------------------------------\nNăm Nhâm tí 1492, do chức Hiệu lí Viện Hàn lâm đổi làm Hiến sát sứ, tỉnh Hải Dương. Ít lâu sau vì bàn việc trái ý vua, phải xuống chức cũ. Năm Đinh tị 1497, ông đi sứ Trung Quốc về, đổi làm Lại khoa đô cấp sự trung. Rồi được cử làm Thủ doãn Thuận Thiên, chưa bao lâu lại được thăng Hữu thị lang bộ Hình. Năm Nhâm tuất 1502, ông đổi sang Tả thị lang bộ Binh, và được coi việc thi ở điện. Mùa đông năm ấy, thăng Thị lang bộ Lễ, kiêm coi việc Viện Hàn lâm. Năm Ất sửu 1505, lại đổi sang bộ Hộ, kiêm việc Chiêu văn quán. Năm Kỉ tị 1509, Giản tu công tên là Danh (tức vua Tương Dực) đem binh từ Thanh Hóa tiến bức Đông Kinh, ông được cử làm Tán lí cùng với phó tướng Lê Võ Lãnh cầm quân. Ông bị thua trận và tử trận tại Châu Kiều, hưởng dương 40 tuổi. Năm Nhâm thân 1512, vua Tương Dực truy tặng ông là Đô Ngự sử. Dân làng lập đền thờ phụng. Sau truy phong làm Phúc thần thượng đẳng."
+  "id" : 1210,
+  "entityName" : "Hoàng Cơ Bình",
+  "aliases" : [ ],
+  "overview" : "Xuất thân trong một gia đình quan lại, con trai Tổng đốc Hoàng Huấn Trung, thuở nhỏ du học Pháp tốt nghiệp bác sĩ. Sau khi tốt nghiệp về nước làm bác sĩ điều trị ở bệnh viện Bố Hạ, Hà Nội... Từng là hội viên, giám đốc bệnh viện Bố Hạ. Cách mạng tháng Tám rồi toàn quốc kháng chiến ông tản cư ra tự do một thời gian đến năm 1949 hồi cư về Hà Nội. Sau hiệp định Genève 1954 ông di cư vào sống và làm việc tại Sài Gòn, mở bệnh viện tư ở đường Pasteur Sài Gòn gọi là Dưỡng đường Hoàng Cơ Bình. Những năm 60-70 ông từng ra tranh cử tổng thống với Nguyễn Văn Thiệu - Nguyễn Cao Kỳ với liên danh Hoàng Cơ Bình - Liêu Quang Khình nhưng thất bại trước sự gian lận của \"liên danh Thiệu Kỳ\". Sau năm 1972, ông sống ở nước ngoài và chết năm nào không rõ."
 }

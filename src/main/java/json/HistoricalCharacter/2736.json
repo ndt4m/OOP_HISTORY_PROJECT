@@ -1,17 +1,16 @@
 {
-  "dateOfBirth": "Mậu Ngọ 1918",
-  "dateOfDeath": "Không rõ",
-  "hometown": "tại Vĩnh Long, không rõ năm mất chính xác",
-  "occupation": "Bác sĩ y khoa",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Kỉ Mùi 1859",
+  "dateOfDeath" : "Đinh Tị 1917",
+  "hometown" : "quê tổng Yên Hồ, huyện Đức Thọ, tỉnh Hà Tĩnh",
+  "occupation" : "Thủ lĩnh nghĩa quân chống Pháp ở Nghệ Tĩnh",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 2736,
-  "entityName": "Trương Ngọc Hơn",
-  "aliases": [],
-  "overview": "Thuở nhỏ học ở Vĩnh Long, Sài Gòn tốt nghiệp Bác sĩ y khoa năm 1948, hành nghề Bác sĩ tại Sài Gòn. Từng cộng tác với các báo: Thế giới, Mới, Dân Thanh (1951-1954), Tiếng chuông, Tin sớm, Nắng mới... phụ trách mục \"Y học thường thức\" và trên đài phát thanh Pháp Á Sài Gòn với chuyên mục Thiếu nhi với y học thường thức và mục Bác sĩ nói với chúng ta. Các tác phẩm: - Người con trai nên biết về vấn đề nam nữ (1952) - Người con gái sắp lấy chồng nên biết (1953) - Phương pháp cấp cứu (1970) - Bác sĩ nói với chúng ta (1972)"
+  "id" : 2736,
+  "entityName" : "Lê Văn Quyên",
+  "aliases" : [ "Đại Đẩu" ],
+  "overview" : "Từ năm 1885 ông theo Lê Ninh, rồi về giúp Phan Đình Phùng. Chính ông cùng Cao Thắng phụ trách chế tạo vũ khí cho nghĩa quân. Sau khi Phan Đình Phùng mất (1895) ông theo Phan Bội Châu ra nước ngoài một thời gian rồi vè hoạt động ở Nghệ Tĩnh, liên kết với Ngô Quảng, Hồ Bá Phấn, Nguyễn Thị Thanh (chị cụ Hồ Chí Minh). Có lần ông cùng với Phạm Văn Ngôn đến gặp Hoàng Hoa Thám ở Yên Thế. Năm 1916 ông bị giặc Pháp truy lùng, cuối cùng không thoát được, ông tự sát hi sinh trong đêm 20-8-1917, hưởng dương 58 tuổi. Tương truyền ông có bài thơ gởi bọn tay sai: Trong cuộc hơn thua há chịu ai, Giống nòi Hồng Lạc thiếu chi người. Tấc gươm trung nghĩa cầm ngang dạ, Một gánh giang san chất nặng vai. Tình thế hùm thiêng còn dấu gót, Ai ngờ lũ chó khéo tìm hơi. Phen này chẳng khuất thằng Tây nữa, Quyết phá tung ra đứng giữa trời."
 }

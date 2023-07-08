@@ -1,16 +1,21 @@
 {
-  "dateOfBirth": "Ất Sửu 1865",
-  "dateOfDeath": "Quí Tị 1893",
-  "hometown": "Quê làng Lê Động, huyện Hương Sơn",
-  "occupation": "Danh tướng của Phan Đình Phùng, đóng góp rất nhiều công lao kháng Pháp",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "…\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "1546 Trung Quốc\n----------------------------------------------\nBính Ngọ 1546\n----------------------------------------------\nKhông rõ",
+  "hometown" : "xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách), tỉnh Hải Dương, Việt Nam.\n----------------------------------------------\nKhông rõ\n----------------------------------------------\nKhông rõ",
+  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua đời thứ ba nhà Mạc, con trưởng Mạc Đăng Doanh, được lập làm thái tử, nối ngôi vào năm Tân sửu 1541\n----------------------------------------------\nVua",
+  "workTenure" : "1540 – 1546\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1540–1546",
+  "fatherName" : {
+    "Mạc Đăng Doanh" : 1224,
+    "Mạc Thái Tông" : 1574
   },
-  "id": 1283,
-  "entityName": "Cao Thắng",
-  "aliases": [],
-  "overview": "Thuở trẻ ông được anh của Phan Đình Phùng là Phan Đình Thuật nuôi dạy. Đến khi Phan Đình Phùng khởi nghĩa, ông cùng với em là Cao Như, bạn là Nguyễn Kiểu tham gia, phục vụ đắc lực, trong cuộc kháng chiến chống Pháp ở Nghệ Tĩnh. Ban đầu làm Quản cơ, ông điều động nghĩa quân đánh đồn giặc rất dũng cảm. Chính ông đã mở xưởng đúc vũ khí theo kiểu Âu Tây, nơi chiến khu Vụ Quang. Khoảng năm 1892, ông dùng mưu bắt sống được tuần phủ tay sai Pháp Đinh Nho Quang làm chấn động dư luận Nghệ Tĩnh. Năm sau (1893) khoảng tháng 10, ông chỉ huy quân cảm tử tấn công mấy tiền đồn ở Nghệ An, đến đồn Nỏ thì bị trúng đạn tử thương, lúc này ông mới 29 tuổi. Nghĩa quân đem xác ông về chôn cất tại Ngàn Trươi (núi Vụ Quang), tại làng Khê Thượng, huyện Hương Khê, có đền thờ ông."
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Mạc" : 18,
+    "Nam - Bắc Triều" : 19,
+    "Bắc triều – Nhà Mạc  và thời kỳ Cao Bằng" : null
+  },
+  "id" : 1283,
+  "entityName" : "Mạc Hiến Tông",
+  "aliases" : [ "Quang Hòa", "Mạc Phúc Hải", "Hiển hoàng đế", "Mạc Phúc Hải (莫福海) Mạc Đức Nguyên", "Mạc Hữu Mệnh", "Nguyễn Lập", "Mạc Lập Bạo", "Mạc Ngọc Liễn", "Hiến Tông (憲宗)" ],
+  "overview" : "Mạc Hiến Tông (chữ Hán: 莫憲宗, ? – 1546) là vị Hoàng đế thứ ba của nhà Mạc trong lịch sử Việt Nam, ở ngôi từ năm 1540 đến 1546. Ông tên thật là Mạc Phúc Hải (莫福海), là người xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách), tỉnh Hải Dương, Việt Nam.\n----------------------------------------------\n\n----------------------------------------------\nMạc Hiến Tông (chữ Hán: 莫憲宗 1517 – 1546) là vị hoàng đế thứ ba của nhà Mạc trong lịch sử Việt Nam, ở ngôi từ năm 1540 đến 1546 và chỉ dùng một niên hiệu là Quảng Hoà. Ông tên thật là Mạc Phúc Hải (莫福海), là người xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách), tỉnh Hải Dương."
 }

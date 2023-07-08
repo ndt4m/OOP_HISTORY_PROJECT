@@ -1,20 +1,14 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "1488 Thăng Long",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Hậu Lê": null
-  },
-  "id": 1149,
-  "entityName": "Nguyễn Thị Cận",
-  "aliases": [
-    "Nguyễn Thị Cẩn (阮氏瑾)",
-    "Chiêu Nhân Hoằng Ý hoàng thái hậu 昭仁弘懿皇太后",
-    "Thị thiếp"
-  ],
-  "overview": "Nguyễn Thị Cận (chữ Hán: 阮氏瑾; ? - 1488 ) là một phi tần của Lê Hiến Tông Lê Tranh, mẹ đẻ của Lê Uy Mục Lê Tuấn. Đương thời gọi bà là Chiêu Nhân thái hậu (昭仁太后), sử gia Lê Quý Đôn chép trong Đại Việt thông sử gọi bà là Hiến Tông Nguyễn hoàng hậu (憲宗阮皇后)."
+  "dateOfBirth" : "1221",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "xã Nghĩa Lư (nay là thôn Nghĩa Phú, xã Cẩm Vũ, huyện Cẩm Giàng, tỉnh Hải Dương), là cháu nội của Phạm Tử Hư;",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 1149,
+  "entityName" : "Phạm Văn Tuấn",
+  "aliases" : [ ],
+  "overview" : "Phạm Văn Tuấn (1221-?) người xã Nghĩa Lư (nay là thôn Nghĩa Phú, xã Cẩm Vũ, huyện Cẩm Giàng, tỉnh Hải Dương), là cháu nội của Phạm Tử Hư; đỗ Bảng Nhãn khoa thi Đại tỉ Thủ Sĩ năm Bính Ngọ, niên hiệu Thiên Ứng Chính Bình 15 (1246) đời Trần Thái Tông. Ông làm qua đến chức Hành Khiển hàm Thái phó, tước Trình Quốc Công, khi mất được tặng Tư Đô."
 }

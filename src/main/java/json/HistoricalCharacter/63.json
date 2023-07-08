@@ -1,21 +1,19 @@
 {
-  "dateOfBirth": "4 tháng 10 năm 1920\n----------------------------------------------\nCanh Thân 1920",
-  "dateOfDeath": "9 tháng 12 năm 2002\n----------------------------------------------\nCanh Ngọ 2002",
-  "hometown": "quê gốc ở làng Phù Lai, nay thuộc xã Quảng Thọ, huyện Quảng Điền, tỉnh Thừa Thiên-Huế.\n----------------------------------------------\nQuê gốc ở làng Phù Lai nay thuộc xã Quảng Thọ, huyện Quảng Điền, tỉnh Thừa Thiên - Huế",
-  "occupation": "Nhà thơ, chính trị\n----------------------------------------------\nTên khai sinh: Nguyễn Kim Thành, bút danh Tố Hữu và là tên thường dùng",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê huyện Thiên Lộc (nay là Can Lộc), tỉnh Hà Tĩnh",
+  "occupation" : "Danh tướng đời Hậu Trần",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "Đặng Tất" : 323
   },
-  "id": 63,
-  "entityName": "Nguyễn Kim Thành",
-  "aliases": [
-    "Nguyễn Kim Thành",
-    "Tố Hữu",
-    "Tố Hữu, Lê Tư Lành"
-  ],
-  "overview": "Tố Hữu, tên thật là Nguyễn Kim Thành (4 tháng 10 năm 1920 – 9 tháng 12 năm 2002), quê gốc ở làng Phù Lai, nay thuộc xã Quảng Thọ, huyện Quảng Điền, tỉnh Thừa Thiên-Huế.\n----------------------------------------------\nĐảng viên Đảng Cộng sản Việt Nam. Tốt nghiệp Thành Chung (cũ). Hội viên sáng lập Hội Nhà văn Việt Nam (1957). Sinh ra trong một gia đình nhà Nho nghèo, từ sáu, bảy tuổi Tố Hữu đã học và tập làm thơ. Giác ngộ cách mạng trong thời kỳ Mặt trận Dân chủ và trở thành người lãnh đạo Đoàn thanh niên Dân chủ ở Huế. Những bài thơ đầu tiên được sáng tác tù những năm 1937-1938. Tháng 4-1939 bị thực dân Pháp bắt, giam giữ ở các nhà lao miền Trung và Tây Nguyên. Tháng 3-1942, vượt ngục Đac Lay, tiếp tục hoạt động cách mạng. Hoạt động bí mật đến 1945, Chủ tịch ủy ban khởi nghĩa Thừa Thiên - Huế. Ủy viên dự khuyết Trung ương Đảng (1951). Ủy viên Ban Bí thư (từ 1958-1980). Ủy viên Bộ Chính trị (từ 1976-1986). Trưởng ban Tuyên huấn, Khoa giáo. Hiệu trưởng Trường Nguyễn Ái Quốc. Trưởng ban Thống Nhất (1974-1975). Có lúc ông giữ chức phó chủ tịch Hội đồng Bộ trưởng (Phó thủ tướng) nước CHXHCNVN. Tác phẩm đã xuất bản: - Từ ấy (thơ, 1946) - Việt Bắc (thơ, 1954) - Gió lộng (thơ, 1961) - Ra trận (thơ, 1972) - Máu và hoa (thơ, 1977) - Một tiếng đờn (thơ, 1992) - Xây dựng một nền văn nghệ lớn xứng đáng với nhân dân ta, thời đại ta (tiểu luận, 1973) - Cuộc sống cách mạng và văn học nghệ thuật (tiểu luận, 1981). Giải thưởng văn học: Giải nhất giải thưởng văn học Hội Văn nghệ Việt Nam 1954-1955 (tập thơ Việt Bắc); Giảithưởng văn học ASEAN (1996); Giải thưởng Hồ Chí Minh về Văn học Nghệ thuật (đợt 1, 1996). Tác phẩm của ông rất nhiều như đã dẫn ở trên. Từ những năm 30 (1938) bài thơ Từ ấy gần như một dấu ấn một thời trong nền thi ca hiện đại cách mạng Việt Nam với các câu: Từ âý trong tôi bừng năng hạ Mặt trời chân lý chói qua tim Hồn tôi là một vườn hoa lá Rất đậm hương và rộn tiếng chim... hoặc nếu dấn thân vào đường cách mạng thì: Đời cách mạng từ khi tôi đã hiểu Dân thân vô là phải chịu tù đày Là gươm kề tận cổ, súng kề tai... Ông mất ngày 9-12-2002 tại Hà Nội, thọ 82 tuổi."
+  "motherName" : { },
+  "eraName" : {
+    "Hậu Trần" : null,
+    "nhà Hậu Trần" : null
+  },
+  "id" : 63,
+  "entityName" : "Đặng Dung",
+  "aliases" : [ ],
+  "overview" : "Đặng Dung (chữ Hán: 鄧容, 1373 - 1414 ), là nhà thơ và là danh tướng nhà Hậu Trần trong lịch sử Việt Nam. Ông là con trai của Đặng Tất, người theo phò vua Giản Định đế của nhà Hậu Trần, sau bị Giản Định đế giết chết cùng với tướng Nguyễn Cảnh Chân. Giận vì cha mình chết oan, Đặng Dung cùng Nguyễn Cảnh Dị (con của Nguyễn Cảnh Chân) rời đi, lập Trần Quý Khoáng tức vua Trùng Quang tiếp tục khởi nghĩa.\n----------------------------------------------\nThân phụ ông là Đặng Tất bị vua Giản Định nghe lời gièm mà giết chết, ông cùng Nguyễn Cảnh Dị, Nguyễn Súy đem quân vào Thanh Hóa rước Trần Quí Khoáng về Nghệ An, lập làm vua tức vua Trùng Quang. Ông được phong làm Tư mã, tiếp tục kháng Minh quyết liệt. Trải các trận đánh lớn ở Mô Độ, Thiên Quan, Thái Già, ông từng khiến quân Minh khiếp đảm. Về sau lực lượng suy yếu dần, ông uất hận có bài Thuật hoài: \"Thế sự du du nại lão hà, Vô cùng thiên địa nhập hàm ca, Thời lai đồ điếu thành công dị, Sự khứ anh hùng ẩm hận đa. Trí chủ hữu hoài phù địa ngục, Tẩy binh vô lộ vãn thiên hà. Quốc thù vị báo đầu tiên bạch. Kỉ độ Long tuyền đới nguyệt ma\". Bản dich: Việc đời man mác tuổi già thôi, Đât rộng trời cao chén ngậm ngùi. Gặp gỡ thời cơ may những kẻ Tan tành sự thế luống cay ai. Phù vua bụng những mong xoay đất, Gột giáp sông kia khó vạch trời. Đầu bạc giang san thù chưa trả, Long tuyền mấy độ bóng trăng soi. Danh sĩ Lý Tử Tấn phê bình bài Thuật hoài của Đặng Dung: \"Phi hào kiệt chi sĩ bất năng\" (không phải người hào kiệt không thể làm được). Với tinh thần hiên ngang bất khuất, ông chiến đấu đến cùng. Lúc sa cơ bị bắt, ông giữ lòng bất khuất, khi chúng áp giải ông và các chiến hữu cùng với vua Trùng Quang về Kim Lăng, nửa đường ông gieo mình xuống biển tự tử. Con cháu ông về sau có lắm người danh tiếng, hầu hết đều đỗ tiến sĩ trong các triều Hậu Lê như Đặng Đôn Phục, Đặng Công Thiếp, Đặng Tòng Củ, Đặng Minh Khiêm, Đặng Công Thận, Đặng Công Điềm..."
 }

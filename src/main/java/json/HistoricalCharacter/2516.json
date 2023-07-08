@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "Mậu Tuất 1718",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê làng Lộng Điền, huyện Nam Chân, tỉnh Nam Định, không rõ tên họ, biệt danh là Giác Trai",
-  "occupation": "Danh sĩ đời Lê Hiển tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "Mậu Ngọ 1858",
+  "dateOfDeath" : "Ất Mùi 1895",
+  "hometown" : "Thanh Hóa",
+  "occupation" : "Chiến sĩ phong trào Cần vương kháng Pháp trong đời vua Hàm Nghi, người dân tộc Thái ở châu Thường Xuân, tỉnh Thanh Hóa, con quản cơ Cầm Bá Tiêu.",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 2516,
-  "entityName": "Giác Trai",
-  "aliases": [],
-  "overview": "Nhà rất nghèo, nhưng ông rất hiếu học, tính tình thuần cẩn, đoan chính. Năm Canh thân, ông đỗ Tiến sĩ lúc 22 tuổi, làm quan đến chức Hiến sứ ở Kinh đô. Trên đường làm quan, ông rất thanh liêm, không sợ kẻ có thế lực kể cả Tuyên phi Đặng Thị Huệ (vợ chúa Trịnh Sâm). Bà này có em trai là Đặng Mậu Lân, cậy thế chị, đánh đập hà hiếp đàn bà, con gái, vẫn bị ông trừng trị bằng pháp luật. Ông làm quan ở trấn Kinh Bắc, rồi đổi vào trấn Nghệ An, sau làm Tổng trấn Lạng Sơn, ít lâu thăng Tả thị lang. Đến khi nghĩa quân Tây Sơn dấy lên dẹp bỏ chế độ Trịnh Nguyễn, đánh đuổi Tôn Sĩ Nghị, ông bị nhà Tây Sơn bắt, nhưng sau đó được thả ra. Từ đó ông lui về quê dạy học đào tạo nhiều nhân tài lúc bấy giờ. Sau khi mất, được truy phong làm phúc thần ở xã Lộng Điền. Nhân dân địa phương thờ ông bên tả vị thần của làng. Bình sinh ông rất nổi tiếng văn chương, sở trường về phú, đương thời người ta xưng tặng ông là thần phú Tục ngữ có câu \"Phú Lộng Điền, tiền Đức Hậu\". Nghĩa là phú hay như phú của ông (Giác Trai) ở Lộng Điền, nhiều tiền như nhà giàu ở làng Đức Hậu. Theo truyền văn ông là tác giả nhiều bài phú nổi tiếng, nhưng nay đã thất lạc."
+  "id" : 2516,
+  "entityName" : "Cầm Bá Thước",
+  "aliases" : [ ],
+  "overview" : "Ông nguyên là tù trưởng dân tộc thiểu số ở thượng du Thanh Hóa. Đáp tiếng gọi kháng chiến dưới cờ khởi nghĩa của Phan Đình Phùng. Ông cầm đầu các đội quân thuộc tỉnh Thanh Hóa. Sau đó, ông cũng tham gia cuộc khởi nghĩa của Tống Duy Tân, từng được cử làm Bang biện hai châu Thường Xuân và Lang Chánh. Chính ông đã chủ trương kinh tài bằng cách đem ngọc quế để Nghĩa đảng ban lấy tiền mua quân lương khí giới. Ông tích cực hoạt động và hi sinh năm 1895, khoảng cuối tháng 5. Tôn Thất Thuyết có bài thơ gửi ông: \"Vạn lí cao thu Mục mã binh, Thuận lưu bất hạ tiểu chu khinh. Thanh sơn lục thủy tương nghinh xứ. Đại hải trường giang vọng viễn tình. Bách tính cần vương nhân tự chấn, Nhất ngu báo quốc khánh do hành. Thử du nhược đắc thiên tâm trợ, Qui khứ Nam xa triệt hảo trình.\" Bản dịch: Mục mã thu cao vạn dặm đồng, Thuyền con chở nhả khói xuôi dòng. Non xanh nước biếc nơi hò hẹn, Bể rộng sông dài nỗi ước mong Trăm họ vì vua còn cố gắng Một mình báo nước vẫn long đong, Phen ấy ví được lòng trời giúp Trở gót và Nam lối hẳn thông, Ngày nay tại đền thờ ông ở Cửa Đặt, thị trấn Thường Xuân còn có đôi câu đối: \"Bất tử đại danh thủy vũ trụ; Như sinh chính khí tác sơn hà\". Nghĩa: Chẳng chết danh to nêu vũ trụ Như còn chính khí dấy non sông."
 }

@@ -1,20 +1,16 @@
 {
-  "dateOfBirth": "Kỉ Mão 1879",
-  "dateOfDeath": "Ất Mão 1915",
-  "hometown": "quê làng Phương Khê, phủ Quảng Oai, tỉnh Sơn Tây, sống ở Hà Nội, anh ruột chí sĩ Nguyễn Cổn (1880-1933), Nguyễn Côn (1882-1960) và em út là Nguyễn Văn Bí (1887-1920)",
-  "occupation": "Chí sĩ, chiến sĩ phong trào Đông du ",
-  "workTenure": "Không rõ",
-  "fatherName": {
-    "tú tài Nguyễn Thiều": null
+  "dateOfBirth" : "Canh Tí 1900",
+  "dateOfDeath" : "Bính Tuất 1946",
+  "hometown" : "quê ở làng Bố Trạch, tỉnh Quảng Bình",
+  "occupation" : "Nhà thơ nhà yêu nước",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
-  },
-  "id": 1734,
-  "entityName": "Nguyễn Nhuận",
-  "aliases": [
-    "Tùng Hương"
-  ],
-  "overview": "Thuở nhỏ ông học ở quê nhà (Sơn Tây) sau sinh sống ở Hà Nội. Năm 1907 ông tham gia phong trào Duy tân, giảng dạy tại trường Đông kinh nghĩa thục ở Hà Nội. Đến năm 1908 phong trào chuyển biến mạnh mẽ, Trung Kì nổ ra các cuộc biểu tình đòi giảm thuế khất sưu. Thực dân Pháp và Nam triều khủng bố trắng, chúng đàn áp bằng vũ lực, đóng cửa các nghĩa thục toàn quốc, trong đó có Đông Kinh nghĩa thục. Thục trưởng Lương Văn Can, học giám Nguyễn Quyền, giáo sư Dương Bá Trạc, Lương Ngọc Quyến... đều bị bắt. Ông cùng một số đồng chí thuộc nhóm bạo động trốn thoát và đào tị sang Trung Quốc hoạt động trong tổ chức Việt Nam Quang phục hội ở Quảng Châu (Tr.Q.). Năm 1914, ông cùng Hoàng Trọng Mậu, Võ Đình Mẫn lãnh sứ mạng vận chuyển vũ khí về biên giới Việt Trung ở Lạng Sơn tấn công đồn Tà Lùng và vài đồn nhỏ, nhưng bị Pháp tấn công dập tắt. Theo truyền văn, ông mất trong năm 1915 ở Trung Quốc."
+  "id" : 1734,
+  "entityName" : "Nguyễn Trọng Cẩn",
+  "aliases" : [ "Hoài Nam" ],
+  "overview" : "Ông dạy học, viết báo. Khoảng năm 1925 ông có chân trong bộ biên tập tạp chí Thần Kinh của ông Lê Thanh Cảnh, có nhiều bài rất giá trị, ông nổi tiếng từ đấy. Một lần ông ra thi không đỗ, khoa này có nhiều điều đáng chê trách, ông nhại bài pbú Lí Đinh với mấy vận Thi lễ nhã ngôn mà nhạo các quan trường và một số bài thơ vịnh thời thế có giá trị. Đình là đình ông Khổng, đình chi ai mà dĩ công tế tỉ (tư) Thôi đã đi thì đi, làm chi thì chi. Không lẽ một khoa này mà thôi thi. Xem ông Khổng dạy rằng: Bác lễ dĩ văn, ngô thí cố nghệ. Không thế thì thua, có tiền thì dễ. Thúc Tôn là cháu, Trần Văn Tử là con, Thúc Tề là em, Công Dã Trường là rể. Nhắm mắt đẩy càn, bưng tai chằng kể. Ba bốn chữ cũng lều cung chiến, ống quyển mo cơm, một hai câu cũng phú, cũng thơ áo dài bụng phệ. Đến chừng. Trời đã sáng trưng, loa truyền hối hả. Trò lạc thầy, hề chạy ngược xuôi, thầy phỉnh trò hề nói thật nói giả. Chẳng khác đình trường hát bội, râu mang mũ đội chi gian, cũng như đình chợ Đông Ba, cháo múc tiền trao chi hạ. Rồi đến lúc: một tên đăng bảng, bốn tỉnh nghe đồn. Me cha mừng rỡ, làng xóm bôn chôn Nào biết đâu: Quá lại chán chường khách địa, lân la, lén lút quyền môn. Đào hết mấy lu bạc nén, tung ra mấy đông tiền chôn. Than ôi! Chữ văn hoành công khí; Xin bái từ nhờ lượng chí tôn\". Văn chương trào phúng của ông còn được truyền tụng khá nhiều. Những bài nghiên cứu khảo luận về lịch sử, văn học của ông khá chính xác, được giới thức giả chú trọng. Bài thơ vịnh sử có câu: \"Năm cụ khi không rớt cải ình\" về nội các Nguyễn Hữu Bài là một giai tác có tính sử thi."
 }

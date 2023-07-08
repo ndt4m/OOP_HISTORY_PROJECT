@@ -1,20 +1,16 @@
 {
-  "dateOfBirth": "8 tháng 8, 1921 Bắc Ninh, Đông Dương thuộc Pháp\n----------------------------------------------\nTân Dậu 1921",
-  "dateOfDeath": "24 tháng 7, 1999 (77 tuổi) Hà Nội, Việt Nam\n----------------------------------------------\nKỉ Mão 1999",
-  "hometown": "quê xã Đình Bảng, huyện Tiên Sơn, tỉnh Bắc Ninh",
-  "occupation": "Nhà hoạt động cách mạng",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà nước Việt Nam": null,
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "nhà Lý" : null
   },
-  "id": 311,
-  "entityName": "Lê Quang Đạo",
-  "aliases": [
-    "Nguyễn Đức Nguyện"
-  ],
-  "overview": "Lê Quang Đạo (1921-1999) tên thật là Nguyễn Đức Nguyện, là một chính khách của Việt Nam, nguyên Chủ tịch Quốc hội Việt Nam, Phó Chủ tịch Hội đồng Nhà nước Việt Nam (1987-1992). Ông cũng từng là một tướng lĩnh Quân đội Nhân dân Việt Nam, cấp bậc Trung tướng. Chủ tịch đầu tiên của Hội họ Nguyễn Việt Nam.\n----------------------------------------------\nÔng tham gia hoạt động chống Pháp từ hồi còn rất trẻ, từng có chân trong phong trào thanh niên dân chủ và phản đế ở Hà Nội. Sau cách mạng tháng 8 năm 1945, ông giữ chức Bí thư thành ủy Hải Phòng, Bí thư Thành ủy Hà Nội, Phó Trưởng ban Tuyên huấn trung ương ĐCSVN, Cục trưởng cục Tuyên huấn, Phó trưởng đoàn QĐNDVN trong ủy ban liên hiệp đình chiến. Đến năm 1972 ông là ủy viên chính thức Ban chấp hành Trung ương Đảng, năm 1987 làm chủ tịch Quốc hội, Phó chủ tich nước, Chủ tịch ủy ban Mặt trận Tổ quổc Việt Nam. Suốt quá trình hoạt động trong bộ máy Đảng và Nhà nước Việt Nam, ông được tặng thưởng Huân chương Hồ Chí Minh. Ông mất năm 1999 thọ 78 tuổi."
+  "id" : 311,
+  "entityName" : "Lý Lực",
+  "aliases" : [ ],
+  "overview" : "Lý Lực hay Đông Chinh vương là hoàng tử thứ ba của Lý Thái Tổ, vị vua sáng lập nên triều đại nhà Lý. Trên Lý Lực là người anh cả Lý Phật Mã tức Lý Thái Tông và anh thứ hai Khai Quốc Vương Lý Long Bồ."
 }

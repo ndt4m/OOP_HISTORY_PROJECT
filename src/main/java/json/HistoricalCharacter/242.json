@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê xã Hoàng Liệt, huyện Thanh Từ, tỉnh Hà Đông (nay là Hà Tây)",
-  "occupation": "Cuồng sĩ đời Lê Hiển tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "Nhâm Dần 1902",
+  "dateOfDeath" : "Kỉ Tị 1929",
+  "hometown" : "tại số 37 phố Hàng Thiếc, Hà Nội, nguyên quán làng Trung Tựu, xã Tây Tựu, huyện Từ Liêm, ngoại thành Hà Nội (nay thuộc TP",
+  "occupation" : "Nhà văn",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 242,
-  "entityName": "Đỗ Thế Long",
-  "aliases": [],
-  "overview": "Tính khí cao ngạo, ông bị nhà đương cuộc bắt giam vì ghét, không cần có tội gì. Trong ngục, ông gặp Nguyễn Hữu Chỉnh lúc mới xuất thân còn hàn vi, vì thiếu nợ mà bị tù. Chỉnh mến tài ông, hứa về sau làm nên sẽ trọng dụng ông. Quả thật, khi Nguyễn Hữu Chỉnh ra phù tá Tây Sơn với danh nglưa \"Phù Lê diệt Trịnh\", Chỉnh đắc thời bèn can thiệp cho ông được tự do, và đãi ông vào hạng thượng tân. Ông cũng hết lòng với Hữu Chỉnh, thẳng thắn bày tỏ ý kiến, mỗi khi Hữu Chỉnh có việc hỏi đến. Một hôm, nhân nghe Hữu Chỉnh than tiếc cái chết của Đoan Nam vương Trịnh Khải, ông cười mỉa, buộc tội Chỉnh là kẻ tàn tặc, đã theo người mới phản người cũ, không phải là con đường lập thân tốt đẹp của bậc đại trượng phu. Ông lại khuyên Chỉnh nên khéo điều đình với Tây Sơn rút binh đi, tìm người khác trong dòng họ Trịnh mà lập lên nối nghiệp chúa, ắt sẽ được trọng dụng hơn. Chỉnh phật lòng, bèn sai người đi bắt ông, đem dìm chết dưới sông Nhị."
+  "id" : 242,
+  "entityName" : "Đặng Trần Phất",
+  "aliases" : [ "Như Hiền" ],
+  "overview" : "Xuất thân trong một gia đình khoa bảng, là con trai thứ tư của Giải nguyên Đặng Trần Vỹ và bà Lê Thị Bình. Thuở nhỏ học tiểu học ở Hà Nội, trung học ở trường Albert-Sarraut, tốt nghiệp Tú tài Tây trong những năm (1920-1925). Lúc đi học cũng như vào đời ông thường cộng tác với các báo Nam Phong, L'Indépendance, TonKin... Năm 1926 ông sang Lào làm việc ở Sở bưu điện Vientiane, sau đó đổi lên Paksé (Bản vàng) và mất tại đó trong tháng 6 năm 1929. Sau khi mất gia đình đưa thi hài về an táng tại quê nhà. Ông là tác giả các tác phẩm: - Cành hoa điểm tuyết (tiểu thuyết, 1921) - Một tấm cảm tình (thơ, kí sự, 1922) - Cuộc tang thương (tiểu thuyết, 1923) Đặng Trần Phất là nhà văn có tiểu thuyết viết bằng tiếng Việt xuất bản vào hàng sớm nhất ở miền Bắc - Hà Nội (1921) trước cả Tố Tâm (1925) của Hoàng Ngọc Phách. Tác phẩm của ông bước đầu giúp cho tiến trình văn học Quốc ngữ Việt Nam có cơ sở phát triển mạnh."
 }

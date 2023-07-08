@@ -1,16 +1,20 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Bính Tuất 1946",
-  "hometown": "Không rõ",
-  "occupation": "Nhà văn hiện đại, nổi tiếng một thời. Ông cộng tác với báo Công luận và nhiều tờ khác. Nhiệt tình yêu nước, ông cũng hoạt động chính trị, bị bắt một lưọt với ông tú Võ Oanh, đày Côn Đảo một thời gian.",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "1 tháng 3, 1923 (94 tuổi) Quảng Trạch, Quảng Bình, Trung Kỳ, Liên bang Đông Dương\n----------------------------------------------\nNhâm Ngọ 1882",
+  "dateOfDeath" : "Quí Mùi 1943",
+  "hometown" : "quê làng Vĩnh Thanh Vân, huyện Châu Thành, tỉnh Rạch Giá (nay thuộc thị xã Rạch Giá, tỉnh Kiên Giang), nguyên quán làng Cái Dầu, huyện Cao Lãnh, tỉnh Sa Đéc (nay thuộc tỉnh Đồng Tháp)",
+  "occupation" : "Trung tướng\n----------------------------------------------\nDanh tăng, nhà báo, tục danh là Nguyễn Văn Đồng",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "Nguyễn Văn Trinh" : null
   },
-  "id": 853,
-  "entityName": "Đào Văn Châu",
-  "aliases": [],
-  "overview": "Năm Ất dậu 1945 ông được trở về Sài Gòn, hoạt động cứu nước, hi sinh ngay khi mở màn cuộc Nam Bộ kháng chiến."
+  "motherName" : {
+    "Nguyễn Thị Trường tại Cái Dầu" : null
+  },
+  "eraName" : {
+    "Pháp đô hộ" : 11
+  },
+  "id" : 853,
+  "entityName" : "Nguyễn Văn Đồng",
+  "aliases" : [ "Hồng Nguyện", "Trí Thiền" ],
+  "overview" : "Đồng Sĩ Nguyên (sinh năm 1923), còn được viết là Đồng Sỹ Nguyên, là một cựu tướng lĩnh và chính trị gia của Việt Nam. Ông là vị Tư lệnh của Binh đoàn Trường Sơn trong thời gian lâu nhất (1967–1975) và là một trong hai vị tướng Quân đội Nhân dân Việt Nam được phong quân hàm vượt cấp từ Đại tá lên Trung tướng . Ông cũng từng giữ chức Phó Chủ tịch Hội đồng Bộ trưởng, kiêm Bộ trưởng Bộ Giao thông Vận tải (Việt Nam); Đặc phái viên Chính phủ, Đặc trách Chương trình 327 về bảo vệ và phát triển rừng phòng hộ và rừng đặc dụng, Cố vấn Đặc biệt của Thủ tướng Chính phủ, tham gia Ban Chỉ đạo Nhà nước về quốc lộ Hồ Chí Minh (Quốc lộ Trường Sơn).\n----------------------------------------------\nNăm 1912 ông xuất gia tu học với hòa thượng Vĩnh Thùy ở chùa Thập Phương (Rạch Giá). Tại đây ông cùng thiện nam tín nữ trùng tu một ngôi chùa được Sắc tứ thời vua Gia Long, đổi tên chùa này là chùa Tam Bảo. Từ đó ông tạo dựng thêm được nhiều chùa mới thuộc tỉnh Rạch Giá và ở các hải đảo lân cận giúp các học tăng có nơi tu học. Năm 1931 ông là sáng lập viên hội Nam Kì nghiên cứu Phật học nhằm chấn hưng đạo Phật ông cùng các hòa thượng Khánh Hòa, Thiện Chiếu góp công sức vào việc chấn hưng đạo Phật cho phù hợp với thực tế xã hội Việt Nam đương thời. Một thời gian ông và hòa thượng Thiện Chiếu bất đồng quan điểm với Hội, nên tự đứng ra thành lập Hội Phật học Kiêm Tế vào năm 1937. Cùng thời điểm Hội còn cho ra tạp chí Tiến Hóa giúp cho việc hoằng dương đạo pháp do ông làm Chánh Tổng lí. Năm 1939 Hội Phật học Kiêm Tế trở thành một trung tâm sinh hoạt Phật giáo mà cũng là nơi nhiều nhà hoạt động chính trị thường lui tới dùng nơi hội họp bí mật chống Pháp. Do vậy, Hội bị cấm hoạt động và chùa Tam Bảo cũng bị đóng cửa, ông bị Pháp bắt, riêng hòa thượng Thiện Chiếu trốn thoát được. Ông bị Pháp đày Côn Đảo với bản án 5 năm biệt xứ, đến ngày 26 tháng 6 năm 1943 ông mất ngoài đảo, thọ 61 tuổi."
 }

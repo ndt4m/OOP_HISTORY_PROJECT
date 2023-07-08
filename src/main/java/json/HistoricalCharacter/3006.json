@@ -1,16 +1,21 @@
 {
-  "dateOfBirth": "Canh Ngọ 1690",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê làng Cấn xá, huyện Gia Bình tỉnh Bắc Ninh",
-  "occupation": "Danh nhân đời Lê Trung hưng",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "Tân Sửu 1841",
+  "dateOfDeath" : "Quí Hợi 1863",
+  "hometown" : "quê làng Tân Thới, huyện Bình Dương, phủ Tân Bình, tỉnh Gia Định (nay thuộc thành phố Hồ Chí Minh)",
+  "occupation" : "Chí sĩ yêu nước",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "Nguyễn Đình Huy" : 1244
   },
-  "id": 3006,
-  "entityName": "Bạch Phấn Ưng",
-  "aliases": [],
-  "overview": "Ông sinh trong đời Lê Hi tông, nổi tiếng thông minh hiếu học, nhưng gia cảnh nghèo khó ông chật vật trên đường công danh mà giữ chí tiến thủ. Năm Bảo Thái 5 đời Lê Dụ tông (Giáp thìn 1724), ông 34 tuổi ra thi, đỗ tam giáp đồng tiến sĩ xuất thân, làm đến Thừa chính sứ tỉnh Sơn Tây (nay là Hà Sơn Bình). Được nhân dân đương thời trọng vọng tài đức"
+  "motherName" : {
+    "Trương Thị Thiệt" : null
+  },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nhà Nguyễn độc lập" : 30
+  },
+  "id" : 3006,
+  "entityName" : "Nguyễn Đình Huân",
+  "aliases" : [ ],
+  "overview" : "Ông nhiệt tình yêu nước, từng tham gia các nhóm nghĩa quân, tích cực hoạt động, dũng cảm chiến đấu chống giặc Pháp cứu nước. Năm Quí hợi 1863 trong hàng ngũ Đốc binh Là, ông hi sinh trong trận đánh ở Cần Giuộc, hưởng dương 22 tuổi."
 }

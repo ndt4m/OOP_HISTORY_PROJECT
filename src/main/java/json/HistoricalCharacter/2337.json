@@ -1,18 +1,20 @@
 {
-  "dateOfBirth": "Nhâm Thìn 1472",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Quê làng Mạn Nhuế, huyện Thanh Lâm, tỉnh Hải Dương",
-  "occupation": "Danh thần đời Lê Thánh tông. Có sách chép là Võ Dịch",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Triều Lê Sơ": 7
+  "dateOfBirth" : "25 tháng 6, 1495",
+  "dateOfDeath" : "7 tháng 4, 1516 (20 tuổi) hồ Chu Tước, phường Bích Câu, Đông Kinh",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Đại Việt",
+  "workTenure" : "1509 - 1516",
+  "fatherName" : {
+    "Lê Tân" : 223
   },
-  "id": 2337,
-  "entityName": "Võ Dương",
-  "aliases": [
-    "Võ Dịch"
-  ],
-  "overview": "Năm Quí sửu 1494 ông đỗ Trạng nguyên. Từ thi Hương đến thi Đình ông đều đỗ đầu làm quan đến Thượng thư bộ Công, từng đi sứ Trung Quốc nhiều lần. Ông có dự vào số 28 người trong Tao đàn do Lê Thánh tông làm chủ soái. Thơ ông phụng họa thơ Thánh tông nhiều bài rất hay. Như bài họa ĐỘNG LỤC VÂN: \"Hồ thiên thâm xứ ỷ tàn ngoan, Tế tế càn khôn tử vọng khoan. Lạn mạn dã hoa khai trúc kính, Bồi hồi nham nguyệt chiếu tùng quan. Phanh trà táo lãnh thương đài hợp. Tẩy nhĩ tuyền thanh bạch thạch hàn. Tới ải sơn tặng trần mộng thiểu Gian biên tẩu diệp tịch thương nhàn.\" Bản dịch: Thẳm sâu chót vót giữa bầu trời, Bốn mặt càn khôn ngó thảnh thơi. Lối trúc hoa đầy khai rực rỡ Cửa tùng trăng núi đối bồi hồi. Trà pha bến nguội lùm rêu biếc Tai rửa dòng trong lạnh đá vôi Sự núi đáng yêu trần mộng ít Bến sông quét lá buổi chiều ngơi."
+  "motherName" : {
+    "Trịnh Thị Tuyên" : null
+  },
+  "eraName" : {
+    "Nhà Lê sơ" : null
+  },
+  "id" : 2337,
+  "entityName" : "Lê Oanh",
+  "aliases" : [ "Hồng Thuận (洪順)", "Lê Oanh (黎瀠) Lê Trừu (黎晭)", "Linh Ẩn vương (靈隱王) Tương Dực Hoàng đế (襄翼皇帝)" ],
+  "overview" : "Lê Tương Dực (chữ Hán: 黎襄翼; 25 tháng 6, 1495 - 7 tháng 4, 1516), đôi khi gọi là Linh Ẩn vương (靈隱王), là vị hoàng đế thứ chín của nhà Lê Sơ trong lịch sử Việt Nam. Ông trị vì từ năm 1509 đến năm 1516, tổng cộng 7 năm."
 }

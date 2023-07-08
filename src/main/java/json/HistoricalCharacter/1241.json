@@ -1,20 +1,17 @@
 {
-  "dateOfBirth": "Quí Mùi 1883",
-  "dateOfDeath": "Kỉ Mão 1939",
-  "hometown": "quê xã Đông Ngạc, phủ Hoài Đức, tỉnh Hà Đông (nay là Thành Phố Hà Nội)",
-  "occupation": "Chí sĩ, Danh sĩ cận đại",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Bính Thân 1896",
+  "dateOfDeath" : "Giáp Tí 1984",
+  "hometown" : "quê làng Gia Hòa, huyện Mĩ Lộc, tỉnh Nam Định",
+  "occupation" : "Nhà hoạt động cách mạng",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 1241,
-  "entityName": "Hoàng Tăng Bí",
-  "aliases": [
-    "Tiếu Mai",
-    "Nguyên Phu"
-  ],
-  "overview": "Năm Bính ngọ (1906) ông đỗ cử nhân (á nguyên) tại Trường thi Nam Hà, tới năm Canh tuất 1910, ông đỗ phó bảng, nhiệt thành yêu nước, ông đóng góp tâm huyết khá nhiều trong cuộc vận động Duy tân, nâng cao dân trí, dân sinh. Có lúc bị Pháp bắt giam và an trí tại Huế, được nhạc gia là Tổng tài Cao Xuân Dục bảo lãnh khỏi đi đày Côn Đảo. Ông từng viết báo Trung Bắc tân văn cùng với Dương Bá Trạc, Nguyễn Đỗ Mục, Doãn Kế Thiện có lúc ông dạy Việt văn tại trường Trung học Gia Long ở Hà Nội, nhưng có lúc bị cấm dạy. Năm Kỉ mão 1939, ông mất hưởng dương 56 tuổi. Các tác phẩm của ông: - Đệ bát tài tử Hoa Tiên kí (tuồng). Hà Nội, Mạc Đình Tư, 1913. - Nghĩa nặng tình sâu (tuồng Mị Châu Trọng Thủy) Hà Nội, nhà in Nghiêm Hàm, 1926. - Thù chồng nợ tước (tuồng Trưng Trắc - Trưng Nhi). Hà Nội, Tân Dân xuất bản, 1927. Ngoài ra ông còn dịch một số tiểu thuyết Pháp ra tiếng Việt như: - Paul et Virgine. - La chal\u0027mière indienne của Bemadin de Saint Pierre. - Le comte de Monte Cristo của Alexandre Dumas, nhưng không có điều kiện xuất bản. Trong thời gian làm báo Trung Bắc tân văn, ông có dich đặng bộ Sử Trung Quốc thời Xuân Thu, kí tên là Tiểu Mai."
+  "id" : 1241,
+  "entityName" : "Bùi Lâm",
+  "aliases" : [ ],
+  "overview" : "Thời trẻ ông làm thủy thủ thường qua lại đường biển Hải Phòng - Marseille (Pháp). Tại Pháp ông cùng các ông Nguyễn Ái Quốc, Nguyễn Thế Truyền hợp tác làm báo Le Paria (Người cùng kho). Tại đây ông bỏ nghề thủy thủ và được cử sang Liên Xô học tại Trường Phương Đông. Năm 1929, ông về nước tham gia tổ chức Việt Nam Thanh niên cách mạng đồng chí hội rồi gia nhập Đảng cộng sàn Đông Dương hoạt động ở miền Bắc. Năm 1933 bị Pháp bắt kết án khổ sai chung thân đày Côn Đảo, nhưng đến năm 1936 được trả tự do. Năm 1939 ông bị bắt lại đày lên Sơn La đến 1945 mới thoát khỏi nhà tù thực dân. Trong kháng chiến chống Pháp (1946 - 1954) ông làm chánh án tòa án quân sự quân khu III. Sau năm 1954, giữ chức phó viện trưởng Viện Kiểm sát tối cao, Đại sứ VNDCCH tại cộng hòa dân chủ Đức."
 }

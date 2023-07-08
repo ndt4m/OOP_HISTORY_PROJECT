@@ -1,17 +1,17 @@
 {
-  "dateOfBirth": "1923 Mỹ Tho\n----------------------------------------------\nQuí Hợi 1923",
-  "dateOfDeath": "1988 Thành phố Hồ Chí Minh\n----------------------------------------------\nMậu Thìn 1988",
-  "hometown": "quê làng Điều Hòa, huyện Châu Thành, tỉnh Mĩ Tho (nay thuộc Thành phố Mĩ Tho, tỉnh Tiền Giang)",
-  "occupation": "Họa sĩ ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách, tỉnh Hải Dương, Việt Nam).\n----------------------------------------------\nKhông rõ",
+  "occupation" : "Hoàng đế Đại Việt (nhà Mạc thời hậu kì)\n----------------------------------------------\nVua lưu vong cuối cùng của nhà Mạc, có sách chép là Kính Hoàn, con Khánh vương Kính Khoan.",
+  "workTenure" : "1638 – 1677\n----------------------------------------------\nKhông rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34,
+    "Nhà Mạc" : 18
   },
-  "id": 2639,
-  "entityName": "Nguyễn Sáng",
-  "aliases": [],
-  "overview": "Nguyễn Sáng (1923-1988) là một hoạ sĩ của Việt Nam, có nhiều đóng góp tiêu biểu cho hội họa hiện đại Việt Nam. Ông sinh tại làng Điều Hòa, tỉnh Mỹ Tho (nay thuộc Thành phố Mỹ Tho, tỉnh Tiền Giang).\n----------------------------------------------\nSau ngày Toàn quốc kháng chiến, ông ra vùng tự do làm việc ở Bộ Tài chính, Bộ Thông tin ở Việt Bắc. Sau Hiệp định Genève ông về Hà Nội sống và làm việc ở Hội Mĩ thuật Việt Nam. Ông là tác giả nhiều bộ tranh có giá trị nghệ thuật tạo hình độc đáo. Ông mất ở Thành phố Hồ Chí Minh năm 1988."
+  "id" : 2639,
+  "entityName" : "Mạc Kính Vũ",
+  "aliases" : [ "Mạc Kính Hoàn", "Niên hiệu Thuận Đức (1638 – 1677)", "Mạc Kính Vũ Mạc Kính Hoàn" ],
+  "overview" : "Mạc Kính Vũ (chữ Hán: 莫敬宇) là vua nhà Mạc thứ 10 và là vua cuối cùng thời hậu kỳ, khi đã rút lên Cao Bằng. Nguyên quán cha Mạc Kính Khoan là người xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách, tỉnh Hải Dương, Việt Nam).\n----------------------------------------------\nNăm Mậu dần 1638, tháng giêng âm lịch, Kính Khoan mất, đến tháng 3 ông lên nối nghiệp quyết liệt phản kháng nhà Lê, không chịu thần phục nữa như cha ông đã qui thuận. Ông cùng người trong tôn thất là Kính Miên vẫn hùng cứ Cao Bằng, đánh nhau nhiều trận với binh tướng vua Lê chúa Trịnh. Dù ông cố gắng quật khởi, đời ông là vua cuối cùng của nhà Mạc. Sau khi ông mất, con cháu và dư đảng không còn làm nên chuyện lớn lao gì được. Đinh tị 1677, chúa Trịnh đem quân tổng tấn công vùng Cao Bằng, chém giết dữ dội, nhà Mạc thật sự cáo chung kể từ đấy."
 }

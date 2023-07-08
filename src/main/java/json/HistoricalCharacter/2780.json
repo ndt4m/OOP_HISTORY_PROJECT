@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Tân Tị 1881",
-  "dateOfDeath": "Nhâm Ngọ 1942",
-  "hometown": "quê làng Mĩ Xương (Cao Lãnh) nay thuộc tỉnh Đồng Tháp",
-  "occupation": "Nhà yêu nước ông có ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "8 tháng 10, 1942 (75 tuổi) Bến Cát, Thủ Dầu Một, Nam Kỳ, Liên bang Đông Dương\n----------------------------------------------\nMậu Dần 1578",
+  "dateOfDeath" : "Quí Sửu 1673",
+  "hometown" : "quê làng Dược Sơn, huyện Chí Linh, tỉnh Hải Dương (nay thuộc Hải Dương)",
+  "occupation" : "Danh sĩ đời Lê Thần tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
   },
-  "id": 2780,
-  "entityName": "Đinh Hữu Thuật",
-  "aliases": [
-    "Đinh Quang Tích"
-  ],
-  "overview": "Ông học nho uyên bác, giao thiệp rộng, tính cương trực, nhiệt thành yêu nước. Hưởng ứng phong trào Duy tân, Đông du, ông xuất dương sang Nhật, Trung Quốc, hoạt động cách mạng từ năm Nhâm tí 1912. Ít lâu ông bị Pháp bắt giải về Hà Nội mang án 20 năm. Lưu đày ở Guyane suốt 12, 13 năm gian khổ, ông vượt nguc, lẻn về nước cải trang làm người Trung Quốc, hoạt động nhiều nơi, tận tụy cứu nước, có lúc ẩn thân trên núi Cấm ở Châu Đốc. Năm Nhâm ngọ 1942, ông mất tại làng Tân Khánh (Sa Đéc) thọ 61 tuổi, mộ ở làng Mĩ Xương."
+  "id" : 2780,
+  "entityName" : "Nguyễn Minh Triết",
+  "aliases" : [ "Thọ Xâm", "Hậu Quyến", "Thọ Quyến" ],
+  "overview" : "Nguyễn Minh Triết (sinh năm 1942) là một chính khách Việt Nam. Ông là Chủ tịch nước thứ sáu của Việt Nam (nhiệm kỳ từ 27 tháng 6 năm 2006 cho đến 25 tháng 7 năm 2011). Người kế nhiệm ông là Trương Tấn Sang.\n----------------------------------------------\nNăm Tân mùi 1631, đỗ Thám hoa, 53 tuổi vua đổi tên cho ông là Thọ Xâm, rồi lại đổi là Hậu Quyến, hoặc Thọ Quyến. Làm quan đến Thượng thư bộ Công, rồi đổi sang bộ Binh, bộ Hộ, hàm Thiếu bảo, tước Cầm Quận Công. Năm Quí sửu 1673 ông mất, thọ 95 tuổi được truy tặng Thượng thư bộ Hộ, thụy Văn Điển."
 }

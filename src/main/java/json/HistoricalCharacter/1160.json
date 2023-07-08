@@ -1,14 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 1160,
-  "entityName": "Trần Húc",
-  "aliases": [],
-  "overview": "Trần Húc có thể là một trong các nhân vật sau:"
+  "dateOfBirth" : "Canh Tí 1840",
+  "dateOfDeath" : "Đinh Mùi 1907",
+  "hometown" : "quê ở làng Bút Trận, tức Tân Đức (nay là xã Diễn Thái, huyện Diễn Châu, tỉnh Nghệ An)",
+  "occupation" : "Nhà yêu nước",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nhà Nguyễn độc lập" : 30
+  },
+  "id" : 1160,
+  "entityName" : "Trần Quang Diêm",
+  "aliases" : [ "Bút Khê", "Tân Đức" ],
+  "overview" : "Năm Đinh mão 1867, ông đỗ cử nhân đồng khoa với Nguyễn Xuân Ôn, được bổ làm Huấn đạo huyện Thanh Chương rồi làm Tri huyện Tùng Thiện, tỉnh Sơn Tây. Khi giặc Pháp xâm lăng miền Bắc ông cùng Nguyễn Xuân Ôn và các đồng chí khởi nghĩa chống Pháp. Năm 1885, ông làm Tán lí quân vụ quân thứ An Tĩnh năm 1887 Nguyễn Xuân Ôn bị giặc giết ông vẫn tiếp tục chiến đấu trong chiến khu. Đến mùa xuân 1891 ông bị địch bắt tại trận. Giặc Pháp giam ông một thời gian, đến năm 1896 mới được trả tự do, đến năm 1907 ông mất tại quê nhà, thọ 67 tuổi. Khi khởi nghĩa Cần vương ông có làm bài văn bố cáo với quốc dân. Lúc đóng quân trên núi Thàng (thuộc huyện Yên Thành tỉnh Nghệ An) ông cảm tác: Cung kiếm lên xem đỉnh núi Thàng, Chạnh niềm nước mất nỗi nhà tan, Cỏ hoa ủ rũ tình tao ngộ, Non nước âu sầu cảnh luyến thương. Trông xuống biển Đông man mác sóng, Nhìn lên ngàn Hống mịt mù sương. Khăng khăng giữ vững lòng trung ái, Nợ nước ơn vua dám phụ phàng, Ông có nhiều thơ văn cảm khái, tự sự nhưng nay đã thất lạc."
 }

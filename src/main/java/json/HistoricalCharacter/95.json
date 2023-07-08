@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "…",
-  "dateOfDeath": "Quí Tị 1173",
-  "hometown": "quê ở Trung Thụy",
-  "occupation": "Thiền sư đời Lý Anh tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Lý": 14
+  "dateOfBirth" : "14 tháng 4 năm 1708\n----------------------------------------------\nMậu Tí 1708",
+  "dateOfDeath" : "7 tháng 1 năm 1776\n----------------------------------------------\nẤt Mùi 1775",
+  "hometown" : "quê làng Tiên Điền, huyện Nghi Xuân tỉnh Hà Tĩnh",
+  "occupation" : "Danh thần đời Lê Thuần tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34,
+    "nhà Lê" : null
   },
-  "id": 95,
-  "entityName": "Kiều Phù",
-  "aliases": [],
-  "overview": "Tính ông trung hậu, thành thật, điềm đạm, giản dị, chuyên tâm nghiên cứu kinh sách, viết tốt, vẽ khéo. Đời Lý Anh tông, ông làm Cung hậu xá nhân Năm 30 tuổi, bỏ quan vào chùa Bảo Phúc ở quận Mĩ Lăng (nay thuộc tỉnh Hòa Bình), thọ giáo với thiền sư Đa Vân. Các kinh sách trong chùa này, chính tay ông chép lại, đến khi sư Đa Vân viên tịch, ông kế tiếp trụ trì, nghiễm nhiên đứng vào thế hệ thứ 9 dòng thiền Quan Bích. Ông thường bảo các môn đồ: - Lên bậc tôn thừa là nhờ ở sự siêng năng, thành được chính giác phải nhờ ở trí tuệ. Ví như đứng ngoài trăm thước mà bắn tới được là nhờ sức khỏe, trúng được đích thì không phải là vì sức khỏe. Năm Quí tị 1173, ngày 7-5, ông viên tịch còn lưu lại một số thơ văn giá trị."
+  "id" : 95,
+  "entityName" : "Nguyễn Nghiễm",
+  "aliases" : [ "Nghị Hiên", "Hi Tự", "Hồng Ngự cư sĩ" ],
+  "overview" : "Nguyễn Nghiễm (14 tháng 4 năm 1708 - 7 tháng 1 năm 1776 ) là quan chức, sử gia, nhà thơ thời nhà Lê trung hưng trong lịch sử Việt Nam. Ông có công ổn định tình hình Bắc Hà và tham gia chiến dịch đánh chiếm Phú Xuân của Đàng Trong năm 1774-1775.\n----------------------------------------------\nNăm Tân hợi 1731 ông đỗ Hoàng giáp lúc 23 tuổi (đỗ cử nhân năm 16 tuổi). Làm đến Thượng thư, sung chức Tham tụng, Đại tư đồ. Ông có công đánh dẹp ở nhiều nơi, làm Đại tư không, tước Xuân Quận Công, rồi trí sĩ (1771). Năm Ất mùi 1775 ông mất, thọ 67 tuổi, được truy phong Trung đẳng phúc thần. Ông cùng Ngô Thì Sĩ có làm lời chú và lời bàn trong bộ Đại Việt sử kí bản kỉ tục biên. Ngoài ra, ông còn soạn các tác phẩm: - Quân trung liên vịnh - Việt sử bị lãm - Lạng Sơn đoàn thành đồ chí. - Xuân đình tạp vịnh - Cổ lễ nhạc chương thi văn tập Nhà thơ lớn Nguyễn Du là con thứ bảy của ông, con trưởng là Nguyễn Khản làm đến Tham tụng triều Lê. Ông có nhiều bài phú rất hay còn được truyền tụng."
 }

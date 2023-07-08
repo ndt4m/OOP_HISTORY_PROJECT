@@ -1,22 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê làng Kim La, huyện Thanh Trì, tỉnh Hà Đông (nay thuộc ngoại thành Hà Nội), con trai phụ chánh đại thần Nguyễn Trọng Hợp",
-  "occupation": "Danh sĩ, tác giả đời Thành Thái",
-  "workTenure": "Không rõ",
-  "fatherName": {
-    "phụ chánh đại thần Nguyễn Trọng Hợp": null
+  "dateOfBirth" : "Quí Dậu 1873",
+  "dateOfDeath" : "Giáp Thân 1944",
+  "hometown" : "quê làng Phong Thử, huyện Điện Bàn, tỉnh Quảng Nam (nay là xã Điện Thọ, huyện Điện Bàn)",
+  "occupation" : "Nhà yêu nước",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nhà Nguyễn độc lập": 30
-  },
-  "id": 2677,
-  "entityName": "Nguyễn Duy Nhiếp",
-  "aliases": [
-    "Lan Bính",
-    "Thạch Hữu"
-  ],
-  "overview": "Ông là con rể Tổng tài Quốc sử quán Cao Xuân Dục, vợ ông là nữ sĩ Cao Ngọc Anh (1878-1970) tác giả thi tập Khuê sầu thi thảo. Các tác phẩm chính của ông: - Kim Giang Nguyễn tướng quốc nhật lịch - Kim Giang tướng quốc nhật luật tùy kí - Quốc triều hương khoa lục (hợp soạn) Hai tác phẩm trên là Lý lịch phụ chánh Nguyễn Trọng Hợp, nhất là quyển Kim Giang tướng quốc nhật luật tùy kí (10 quyển). Bộ này nội dung tương tự bộ trên nhưng có ghi nhiều sự kiện lịch sử liên hệ đến giai đoạn thực dân Pháp đàn áp các cuộc khởi nghĩa và củng cố chế độ bảo hộ Pháp trên đất nước ta. Các sự việc trong sách đều có liên quan đến Nguyễn Trọng Hơp (1834-1902) từ năm Giáp ngọ Minh Mạng thứ 15 (1834) là năm sinh của Nguyễn Trọng Hợp trong đó các sự việc được chép theo thứ tự từng ngày, từng tháng đến tháng 10 năm Thành Thái thứ 10 (1898). Sách gồm các quyển: Quyển 1: Từ năm Giáp ngọ (1824) đến năm Quí dậu (1873); Quyển 2:Từ năm Giáp tuất (1874) đến năm Bính tí (1876); Quyển 3: Từ năm Đinh sửu (1877) đến năm Canh thìn (1880); Quyển 4: Từ năm Tân tị (1881) đến năm Mậu tí (1888); Quyển 5: Năm Kỉ sửu (1889); Quyển 6: Từ năm Canh dần (1890) đến năm Tân mão (1891); Quyển 7: Từ năm Nhâm thìn (1892) đến năm Quí tị (1893); Quyển 8: Năm Giáp ngọ (1894); Quyển 9: Từ năm Ất mùi (1895) đến năm Đinh dậu (1897); Quyển 10. Từ năm Mậu tuất (1898) đến tháng 10 năm ấy. Sách này tuy chỉ là Lý lịch Nguyễn Trọng Hợp, nhưng trong thời gian từ 1834 đến 1898 là thời gian thực dân Pháp đang xâm chiếm nước ta, mà Nguyễn Trọng Hợp là một vị đại thần phụ chánh của triều đình Huế trong một thời gian, nên có nhiều sự kiện liên quan đến lịch sử nước nhà."
+  "id" : 2677,
+  "entityName" : "Phan Thúc Duyện",
+  "aliases" : [ "Phong Thử", "Mi Sanh" ],
+  "overview" : "Ông xuất thân trong một gia đình nông nghiệp, đậu Cử nhân khoa Canh tí 1900 (bạn đồng hương và đồng khoa với Phan Châu Trinh, Huỳnh Thúc Kháng Nguyễn Đình Hiến). Sau khi đỗ cử nhân, ông không ra làm quan mà tích cực thực hành duy tân tự cường tại quê nhà cùng với các đồng chí là Trần Quí Cáp, Phan Châu Trinh... Năm 1908 phong trào Duy tân bị đàn áp, ông và các chiến sĩ khác bị bắt lưu đày Côn Đảo vô thời hạn. Ở Côn Đảo được hơn 10 năm, ông có người con trai tên là Phan Mính tham dự cuộc chiến ở Châu Âu hồi năm 1914 (sau lưu học tại Pháp đậu kĩ sư) làm đơn khiếu nại, đến năm 1919 ông được trả tự do. Về đến Huế, ông bị thực dân Pháp và triều đình Huế cưỡng bức lưu trú tại Quảng Bình, hơn 10 năm. Sau đó được về sống ở bản quán. Ông mất ngày 3-10- 1944 tại quê nhà. Khi ở Côn Đảo, được trả tự do Huỳnh Thúc Kháng có tặng ông bài thơ ngũ ngôn: \"Biệt thị tiêu hồn vật, Phân khâm huống nguc trung, Khử lưu kim nhật vị, Tân khổ thập niên đồng. Hải hoạt châu lâm ngạn, Thiên cao hạc xuất lung. Ỷ lư do hữu mẫu, Nhứt kiến tiếu nhan hồng. Bản dịch: Cái biệt, ghê hồn nhỉ, Phương chi giữa cảnh cùng! Ở về chia khác ngả, cay đắng lẫn mười đông, Biển rộng thuyền gần bến, Trời cao hạc thoát lồng. Me già cùng thấy mặt Dựa cửa thỏa lòng trông."
 }

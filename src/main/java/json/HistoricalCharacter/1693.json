@@ -1,23 +1,14 @@
 {
-  "dateOfBirth": "17 tháng 2, 624 Văn Thủy, Tinh Châu, Đại Đường",
-  "dateOfDeath": "16 tháng 12, 705 (81 tuổi) Thượng Dương cung, Trường An, Đại Đường",
-  "hometown": "Không rõ",
-  "occupation": "Nữ hoàng nhà Võ Chu",
-  "workTenure": "19 tháng 10 năm 690 - 22 tháng 2 năm 705 (14 năm, 126 ngày)",
-  "fatherName": {
-    "Võ Sĩ Hoạch": null
-  },
-  "motherName": {
-    "Dương Phu nhân": null
-  },
-  "eraName": {
-    "Võ Chu Nhà Đường": null
-  },
-  "id": 1693,
-  "entityName": "Võ Tắc Thiên",
-  "aliases": [
-    "Thánh Thần Hoàng đế (聖神皇帝)",
-    "Tên đầy đủ Tên thật: Không khảo được Biệt danh: Võ Mị (武媚) Húy kị: Võ Chiếu (武曌) Thụy hiệu Tắc Thiên Thuận Thánh Hoàng hậu (則天順聖皇后)"
-  ],
-  "overview": "Võ Tắc Thiên (chữ Hán: 武則天, 17 tháng 2, 624 - 16 tháng 12, 705), cũng được đọc là Vũ Tắc Thiên, thường gọi Võ hậu (武后) hoặc Thiên Hậu (天后), là một phi tần ở Hậu cung của Đường Thái Tông Lý Thế Dân, sau trở thành Hoàng hậu của Đường Cao Tông Lý Trị, về sau trở thành Hoàng đế triều đại Võ Chu làm gián đoạn nhà Đường. Bà là mẹ của 2 vị Hoàng đế kế tiếp, Đường Trung Tông Lý Hiển và Đường Duệ Tông Lý Đán."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 1693,
+  "entityName" : "Nguyễn Minh Dũng",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Minh Dũng là một Trung tướng Công an nhân dân Việt Nam. Ông từng giữ chức vụ Phó Tổng cục trưởng Tổng cục Xây dựng lực lượng, Bộ Công an Việt Nam."
 }

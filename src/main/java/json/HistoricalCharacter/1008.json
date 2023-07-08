@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Tân Mão 1771",
-  "dateOfDeath": "Nhâm Tuất 1862",
-  "hometown": "quê gốc Nghệ An, sau dời về ở huyện Phú Vang Thừa Thiên",
-  "occupation": "Danh tướng triều Nguyễn",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34,
-    "Nhà Tây Sơn": 21,
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Canh Ngọ 1870",
+  "dateOfDeath" : "Giáp Dần 1914",
+  "hometown" : "quê làng La Hà, huyện Tư Nghĩa, tỉnh Quảng Nghĩa",
+  "occupation" : "Có sách chép là Lê Cẩn",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 1008,
-  "entityName": "Tạ Quang Cự",
-  "aliases": [],
-  "overview": "Ông xuất thân là Cai đội, thăng làm Vệ úy. Năm Đinh hợi 1827, ông cùng Thống chế Phan Văn Thúy và Phó tướng Nguyễn Văn Xuân lập chiến công hiển hách giữ vững miền Nghệ Tĩnh, chống lại quân Xiêm xâm lược, được phong làm Phòng ngự sứ trấn thủ ở Trấn Ninh. Đến năm Canh dần 1830, thăng Tổng đốc An Tịnh kiêm lãnh Tuần vũ Nghệ An. Năm Mậu tuất 1838, vua Minh Mạng truyền dựng bia Võ công ở trước sân Võ miếu tại Kinh đô, bia ghi tên 20 danh tướng, tên ông đứng hàng thứ 11. Sang đời Thiệu Trị, ông được gia phong Thái bảo, kiêm quản Hậu quân. Đầu đời Tự Đức, ông lại kiêm quản Tả quân, rồi về hưu. Năm Nhâm tuất 1862 ông mất, thọ 91 tuổi"
+  "id" : 1008,
+  "entityName" : "Lê Đình Cẩn",
+  "aliases" : [ ],
+  "overview" : "Ông đỗ cử nhân, làm Huấn đạo huyện Mộ Đức. Ít lâu ông bỏ về nhà làm ruộng, kết giao với các nhân sĩ mưu việc duy tân cứu quốc. Ông tích cực hoạt động, tham gia nhóm khởi nghĩa do Trần Du lãnh đạo. Rồi tham gia phong trào Duy tân kháng thuế ở các tỉnh miền Trung vào năm 1908. Ông bị giặc Pháp bắt, đưa đi đày ở Di Lăng, rồi ra Côn Đảo. Lúc bị bắt ông vẫn ngang nhiên chửi thẳng vào mặt tên tay sai đầu sỏ Nguyễn Thân không chút e dè, kiêng sợ. Năm Giáp dần 1914, ông mất, hưởng dương 44 tuổi. Nay vẫn còn truyền tụng bản truờng thiên Xin đúc một chữ đồng dài hơn 100 câu song thất lục bát kêu gọi đồng bào vùng lên đòi lại chủ quyền, độc lập. Khi còn giam ở ngục Quảng Ngãi, chứng kiến cảnh hai đồng chí Lê Khiết, Nguyễn Bá Loan bị chém, đến phiên ông, ông liền gọi lớn: \"Làm trai có chết như thế mới tươi tốt\" nhưng cuối cùng ông khỏi bị chết, nên cảm hứng có bài thơ \"Cố quốc sơn hà trọng\": Tân triều thế lực khinh. Hùng tâm vinh đỉnh hoạch, Tố mộng đoạn nghê kình. Dục liệu Cao trường khấp, Ninh tri Cát bất thành. Túng nhiên lưu nhiệt huyết, Đồng loại hấp văn minh\". Bản dịch: Nước cũ non sông nặng, Triều tân thế lực hèn. Thân sá kiêng đầu vạc, Lòng thề giết loài kình. Muốn học Cao luôn khóc, Nào hay Cát chả nên, Tha hồ trôi máu đỏ, Đồng loại hương văn minh. (Cao và Cát: Cao Sơn Chánh Chi và Cát Điền Tùng Âm, nhân vật Nhật Bản vận động duy tân)."
 }

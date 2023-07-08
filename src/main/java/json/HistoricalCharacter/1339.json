@@ -1,20 +1,16 @@
 {
-  "dateOfBirth": "Giáp Tí 1924",
-  "dateOfDeath": "Ất Sửu 1985",
-  "hometown": "tại thị xã Hội An, tỉnh Quảng Nam",
-  "occupation": "Nhà văn ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "374",
+  "dateOfDeath" : "423",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "nhà Đông Tấn" : null
   },
-  "id": 1339,
-  "entityName": "Lưu Nghi",
-  "aliases": [
-    "Quỳnh Lưu",
-    "Quốc Linh"
-  ],
-  "overview": "Thuở thiếu thời học tại Hội An, Đà Nẵng, những năm kháng chiến chống Pháp ông sống tại Đà Nẵng, Hội An là \"vùng tạm bị chiếm\". Những năm 50 ông bị \"động viên\" vào quân đội Sài Gòn đến năm 1955 thì được giải ngũ. Từ năm 1954 ông sống tại Sài Gòn, tham gia các tổ chức văn hóa văn nghệ kháng chiến ở nội thành. Tại Sài Gòn ông cùng bạn bè tổ chức nhà xuất bản. Nhà xuất bân này có tên là Trùng Dương in một số tác phẩm văn nghệ có khuynh hướng xã hội tả chân. Sau ngày thống nhất đất nước (1976) ông sinh hoạt trong Hội Nhà văn TP.HCM. Ông mất trong năm 1985 tại nhà riêng ở Sài Gòn. Các tác phẩm chính: - Đêm trăng mùa hạ (1964) - Gió trên đồi (1967) Và một số truyện in trên các báo ở Sài Gòn như Bách khoa., Nhân loại."
+  "id" : 1339,
+  "entityName" : "Đỗ Tuệ Độ",
+  "aliases" : [ "Đỗ Huệ Độ" ],
+  "overview" : "Đỗ Tuệ Độ hay Đỗ Huệ Độ (tiếng Trung: 杜慧度; bính âm: Dù Huìdù, 374 – 423), sinh quán Chu Sương, Giao Chỉ, nguyên quán Kinh Triệu , là quan nhà Đông Tấn và Lưu Tống trong lịch sử Trung Quốc. Ông giữ chức thứ sử Giao Châu (quan cai trị đứng đầu Giao châu - tức phần lớn lãnh thổ Bắc và Bắc Trung Bộ Việt Nam hiện nay) trải qua 2 triều đại này."
 }

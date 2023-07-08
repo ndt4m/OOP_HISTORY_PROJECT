@@ -1,17 +1,17 @@
 {
-  "dateOfBirth": "Nhâm Tí 1912",
-  "dateOfDeath": "Kỉ Tị 1989",
-  "hometown": "quê huyện Hóc Môn, tỉnh Gia Định, nay là huyện Hóc Môn, TP",
-  "occupation": "Nhà hoạt động cách mạng",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Ất Sửu 1265",
+  "dateOfDeath" : "Bính Dần 1326",
+  "hometown" : "quê ở làng Tri Lai, tổng Tri Lai, huyện Vũ Tiên, phủ Kiến Xương (nay là thôn Phú Lạc, xã Phú Xuân, thành phố Thái Bình.\n----------------------------------------------\nquê ở Hoàng Giang",
+  "occupation" : "Văn thần đời Trần Anh tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Trần" : 15,
+    "nhà Hậu Lê" : null
   },
-  "id": 2142,
-  "entityName": "Trịnh Thị Miếng",
-  "aliases": [],
-  "overview": "Bà tham gia cách mạng từ hồi còn trẻ, được kết nạp vào đảng CSĐD từ năm 1931. Năm 1932 bà làm liên lạc cho xứ ủy Nam Kì và Trung ương đảng CSĐD. Đến năm 1939 bà là huyện ủy viên Gò Vấp năm 1946 là tỉnh ủy viên tỉnh ủy Gia Định. Năm 1946 bà đắc cử Đại biểu Quốc hội khóa I đơn vị tỉnh Gia Định. Bà tham gia suốt cuộc kháng chiến chống Pháp ở mặt trận miền Đông Nam Bộ. Bà mất trong năm 1989 tại quê nhà."
+  "id" : 2142,
+  "entityName" : "Bùi Quốc Hưng",
+  "aliases" : [ "Lê Quốc Hưng", "Phí Mộc Lạc", "Minh Đạo" ],
+  "overview" : "Bùi Quốc Hưng hay Lê Quốc Hưng là khai quốc công thần nhà Hậu Lê, quê ở làng Tri Lai, tổng Tri Lai, huyện Vũ Tiên, phủ Kiến Xương (nay là thôn Phú Lạc, xã Phú Xuân, thành phố Thái Bình. ông là chắt nội của Bùi Mộc Đạc (tức Phí Mộc Lạc)\n----------------------------------------------\nÔng làm quan đến Trung thứ thị lang, Tri thẩm hình viện sự, Thị trung đại phu. Năm Bính ngọ 1306, ông cùng Hàn Lâm học sĩ Lê Tông Nguyên đi sứ sang nhà Nguyên đáp lễ. Tính người cẩn thận cung kính, văn chất khả quan, từng làm quan qua 3 triều. Khi Thượng hoàng Trần Anh tông sắp mất, dặn lại Minh tông phải cất nhắc ông, đối xử cho khéo. Minh tông bèn sai vẽ chân dung ông cất ở kho sách, và có ý sẽ dùng ông vào chức lớn. Nhưng đến năm Bính dần 1326, tháng 3, chưa kịp được thăng thưởng thì ông mất, thọ 61 tuổi."
 }

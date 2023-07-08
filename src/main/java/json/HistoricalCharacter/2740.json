@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Canh Ngọ 1870",
-  "dateOfDeath": "Mậu Thân 1908",
-  "hometown": "quê ở làng Tú Cẩm, sang cư ngụ ở làng Phú Lâm, huyện Tiên Phước, tỉnh Quảng Nam ông là anh rể Lê Cơ",
-  "occupation": "Chí sĩ yêu nước",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "Quí Hợi 1923",
+  "dateOfDeath" : "Nhâm Ngọ 2002",
+  "hometown" : "quê xã Nguyên Lý, huyện Lý Nhân, tỉnh Hà Nam",
+  "occupation" : "Tướng lãnh ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nước Việt Nam mới" : 29
   },
-  "id": 2740,
-  "entityName": "Lê Lượng",
-  "aliases": [],
-  "overview": "Năm 1900 ông đỗ cử nhân (đồng khoa với Phan Châu Trinh). Nhưng coi rẻ công danh, dốc lòng đóng góp tâm huyết vào cuộc Duy tân cứu nước, ông ám trợ phong trào Đông du của Phan Bội Châu ở Quảng Nam, đồng thời hăng say hoạt động cho phong trào Duy tân tự cường ở tỉnh nhà. Sau khi ông đỗ cử nhân, Tổng tài sử quán Nguyễn Thuật (1842-1911) có câu đối mừng ông thi đỗ: \"Quân năng bạt xuân hương phong thập tải thư song vô xuyết nghiệp; Ngã diệc hỉ phần thích uyển nhứt môn kiều khách tấn đăng khoa.\" Bản dịch: Anh giỏi vượt hơn người làng cả mười năm học hành không ngơi nghỉ; Tôi vui chia phần họ ngoại nhà, toàn nhà khách giai đều đậu cả. Năm Mậu thân 1908, ông bị bắt giam ở ngục Quảng Nam, đến ngày 10-11 Mậu thân 1908 thì mất trong tù. Xác được đem về chôn cất tại quê nhà, hưởng dương 38 tuổi."
+  "id" : 2740,
+  "entityName" : "Hoàng Văn Thiệu",
+  "aliases" : [ "Hoàng Văn Khánh" ],
+  "overview" : "Ông tham gia cách mạng từ trước năm 1945 (1942), sau cách mạng tháng 8 nhập ngũ, giữ các chức vụ chỉ huy từ trung đội đến đại đoàn, tư lệnh Quân chủng phòng không. Năm 1986 được phong Trung tướng QĐNDVN chuyên về tên lửa phòng không - không quân. Trong suốt quá trình trong lực lượng Quân đội cách mạng ông được Đảng và nhà nước Việt Nam tặng nhiều huân chương cao quí trong đó có Huân chương Độc lập. ông mất năm 2002, thọ 79 tuổi."
 }

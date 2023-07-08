@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Đinh Mão 1927",
-  "dateOfDeath": "Ất Mão 1975",
-  "hometown": "quê ở Diễn Thịnh, huyện Diễn Châu, tỉnh Nghệ An",
-  "occupation": "Nhà nghiên cứu văn học",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Bồng Lai, huyện Quế Dương, tỉnh Bắc Ninh",
+  "occupation" : "Danh thần đời Lê Thánh tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Triều Lê Sơ" : 7
   },
-  "id": 636,
-  "entityName": "Cao Huy Đỉnh",
-  "aliases": [],
-  "overview": "Ông sinh ngày 31-12-1927, mất ngày 3-4-1975 tại Hà Nội, hưởng dương 48 tuổi. Còn để lại cho đời: - R. Tagore (dịch và giới thiệu, 1961) - Sakunt (dịch, 1963) - Tìm hiểu thần thoại Ấn Độ (nghiên cứu 1964) - Người anh hùng làng Gióng (nghiên cứu 1969) - Tìm hiểu tiến trình văn học dân gian Việt Nam (nghiên cứu, 1974)"
+  "id" : 636,
+  "entityName" : "Nghiêm Viến",
+  "aliases" : [ ],
+  "overview" : "Lúc còn nhỏ ông đã có tài, hoc rộng, gần xa đều biết tiếng. Năm Bính thìn 1496, ông đỗ đệ nhất giáp tiến sĩ, đệ nhất danh (trạng nguyên), được vua gả công chúa cho. Tương truyền khoa này, văn bài của ông và Nguyễn Huân ngang nhau. Nguyễn Huân cũng người tỉnh Bắc Ninh, từ thi Hương đến thi Hội đều đỗ đầu, danh tiếng có phần hơn ông. Nhưng vua Lê nằm mộng thấy \"cọp ăn đầu người\", ứng vào tên ông, chữ Hán viết với bộ \"khuyển\", nên lấy ông đỗ Trạng nguyên và đổi tên ông chữ Hán viết với bộ \"Ngọc\". Ông tuy được làm Phò mã, nhưng về sau quan chức không lớn, còn Nguyễn Huân làm đến Thượng thư bộ Lễ, Thái bảo quận công."
 }

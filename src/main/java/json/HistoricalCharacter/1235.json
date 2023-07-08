@@ -1,25 +1,17 @@
 {
-  "dateOfBirth": "22 tháng 2, 1066 Du Thiền các, Thăng Long\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath": "15 tháng 1, 1128 (61 tuổi) Điện Vĩnh Quang, Thăng Long\n----------------------------------------------\nKhông rõ",
-  "hometown": "Không rõ",
-  "occupation": "Hoàng đế Đại Việt\n----------------------------------------------\nVua",
-  "workTenure": "1072 – 1128\n----------------------------------------------\n1072—1127",
-  "fatherName": {
-    "Lý Thánh Tông": 2991
+  "dateOfBirth" : "1573\n----------------------------------------------\nNhâm Thân 1572",
+  "dateOfDeath" : "1645\n----------------------------------------------\nẤt Dậu 1645",
+  "hometown" : "quê làng Huân Nội, huyện Chương Đức, tỉnh Hà Đông (nay thuộc TP",
+  "occupation" : "Văn thần thời Lê Trung hưng, quê làng Huân Nội, huyện Chương Đức, tỉnh Hà Đông (nay thuộc TP. Hà Nội)",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34,
+    "nhà Lê" : null
   },
-  "motherName": {
-    "Linh Nhân hoàng hậu": null
-  },
-  "eraName": {
-    "Nhà Lý": 14
-  },
-  "id": 1235,
-  "entityName": "Lý Nhân Tông",
-  "aliases": [
-    "Lý Càn Đức (李乾德)",
-    "Hiếu Thiên Thể Đạo Thánh Văn Thần Vũ Sùng Nhân Ý Nghĩa Hiếu Từ Thuần Thành Minh Hiếu Hoàng Đế",
-    "Thái Ninh (1072-1076) Anh Vũ Chiêu Thắng (1076-1084) Quảng Hựu (1085-1092) Hội Phong (1092-1100) Long Phù (1101-1109) Hội Tường Đại Khánh (1110-1119) Thiên Phù Duệ Vũ (1120-1126) Thiên Phù Khánh Thọ (1127-1127)",
-    "Nhân Tông (仁宗)"
-  ],
-  "overview": "Lý Nhân Tông (chữ Hán: 李仁宗; 22 tháng 2 năm 1066 – 15 tháng 1 năm 1128) là vị hoàng đế thứ tư của nhà Lý nước Đại Việt. Ông trị vì từ năm 1072 đến năm 1128, tổng cộng 55 năm. Ông được xem là vị vua có thời gian ở ngôi lâu nhất trong lịch sử Việt Nam.\n----------------------------------------------\nLý Nhân Tông (chữ Hán: 李仁宗 22 tháng 2 năm 1066 – 15 tháng 1 năm 1128) là vị hoàng đế thứ tư của nhà Lý trong lịch sử Việt Nam. Ông trị vì Đại Việt từ năm 1072 đến năm 1128, tổng cộng gần 56 năm, cũng là vị vua có thời gian trị vì lâu nhất trong lịch sử phong kiến Việt Nam."
+  "id" : 1235,
+  "entityName" : "Nguyễn Danh Thế",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Danh Thế (1573-1645) là đại thần nhà Lê trung hưng trong lịch sử Việt Nam.\n----------------------------------------------\nNăm Bính ngọ 1606 ông làm Phó sứ sang nhà Minh, khi về thăng Hậu thị lang bộ Lại và được phong tước Tử. Đến Bính thìn 1616 thăng Tả đường bộ Hộ, rồi đổi làm Đô ngự sử (Mậu ngọ 1618). Năm Tân dậu 1621 ông ra làm Đốc thị trấn thủ ở Lạng Giang, lo về quân sự lập được công trạng được thăng Thượng thư bộ Công và phong Dực vận tán lí công thần, tước Đoan Dương Hầu, gia phong Thiếu bảo, sau đổi sang Thiếu phó, kiêm giữ chức Thượng thư bộ Hình. Năm Kỉ tị 1629 được tiến phong tước Đường Quận Công, làm Tham tụng, gia Thái bảo. Lại có lúc làm Tham tán quân mưu, giúp tiết chế Sùng Quốc Công đi đánh họ Mạc ở Cao Bằng. Năm Canh thìn 1640, ông được cử giữ thêm việc ở Đông các, coi việc tòa Kinh diên và kiêm Thượng thư bộ Lễ, lúc ấy ông đã 68 tuổi. Năm Ất dậu 1645 ông mất, thọ 73 tuổi, được truy tặng Thái phó, Thượng thư bộ Hộ, gia Tả tư không, tên thụy là Văn Trung."
 }

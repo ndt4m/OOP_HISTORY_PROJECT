@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Nhâm Tuất 1922",
-  "dateOfDeath": "Kỉ Dậu 1969",
-  "hometown": "quê xã Vĩnh Lộc, huyện Bình Chánh, tỉnh Gia Định, bí danh Năm Tấn",
-  "occupation": "Liệt sĩ hiện đại, quê xã Vĩnh Lộc, huyện Bình Chánh, tỉnh Gia Định",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Tân Sửu 1121",
+  "dateOfDeath" : "Quí Dậu 1213",
+  "hometown" : "quê làng Cẩm Hương, tỉnh Nghệ An",
+  "occupation" : "Thiền sư đời Lý Anh tông, không rõ tên thật",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Lý" : 14
   },
-  "id": 1303,
-  "entityName": "Huỳnh Văn Bánh",
-  "aliases": [
-    "Năm Tấn"
-  ],
-  "overview": "Sau hiệp định Genève ông ở lại miền Nam hoạt động. Trong kháng chiến chống Mĩ ông được cử vào ban thường vụ Khu ủy Sài Gòn - Gia Định, phụ trách an ninh phân khu. Ông hi sinh ngày 8-6-1969 tại ấp Bến Súc, xã Thanh Tuyền, huyện Bến Cát, tỉnh Bình Dương sau một đợt bom rải thảm của B52."
+  "id" : 1303,
+  "entityName" : "Nguyễn Y Sơn",
+  "aliases" : [ "Y Sơn" ],
+  "overview" : "Ông có tài văn học, biện thuyết giỏi, xuất gia từ năm 30 tuổi, học trò của sư Viên Thông, về sau được truyền tâm ấn đứng vào hàng thế hệ thứ 19 dòng thiền Nam Phương. Năm Quí dậu 1213 (ngày 18-8 âm lịch) ông viên tịch hưởng thọ 92 tuổi. Trong bài văn Khuyến tu làm theo thể biền ngẫu có những đoạn được đời truyền tụng. \"Điếu danh thi lợi, giai như thủy thương phù âu; Thực phúc chủng duyên, tận thị hung trung hoài bão\". Nghĩa: Chuốc lợi cất danh, thảy như bọt nổi trên nước, Gây duyên truyền phúc ấy là của báu trong lòng. Ngoài ra ông có hai bài kệ đã trở thành danh tác. Bài thứ nhất \"Chân thân thành vạn tượng, Vạn tượng tức chân thân. Nguyệt điện vinh đan quế, Đan quế tại nhất luân.\" Nghĩa: Thân ta thành muôn tượng, Muôn tượng tức thân ta. Cung t,ăng cây quế tốt, Cây quế trong gương nga. Bài thứ hai \"Như Lai thành chánh giác, Nhất thiết lượng đẳng thân. Hồi hổ bất hồi hổ Nhãn tình đồng tử thành\" Nghĩa: Khi Đức Như Lai thành chánh quả Muôn thân bỗng hóa lượng bằng nhau. Như trong ánh mắt thằng con trẻ. Khúc khuất bao nhiêu cũng sạch làu"
 }

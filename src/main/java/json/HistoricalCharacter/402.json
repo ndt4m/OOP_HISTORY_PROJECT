@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "1907\n----------------------------------------------\nĐinh Mùi 1907",
-  "dateOfDeath": "1946\n----------------------------------------------\nBính Tuất 1946",
-  "hometown": "quê ở Thái Bình, sinh sống bằng ngòi bút ở Hà Nội",
-  "occupation": "Nhà văn chuyên viết tiểu thuyết lịch sử kí sự",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Thiền sư đời Lý Nhân tông, không rõ năm sinh, năm mất",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Lý" : 14
   },
-  "id": 402,
-  "entityName": "Phan Trần Chúc",
-  "aliases": [],
-  "overview": "Phan Trần Chúc (1907-1946), là nhà văn Việt Nam, thời tiền chiến.\n----------------------------------------------\nÔng sáng tác văn học khá nhiều, từng cộng tác với các báo Tân Việt Nam, Ngọ báo, Việt báo xuất bản ở Hà Nội. Các tác phẩm chính của ông đã xuất bản đều thuộc loại lịch sử kí sự, lịch sử tiểu thuyết. Năm Bính tuất 1946 ông mất tại Hoài Đức tỉnh Hà Đông hưởng dương 39 tuổi. Các tác phẩm của ông đã xuất bản: - Triều Tây Sơn (1942) - Vua Hàm Nghi (Hà Nội, 1935) - Bùi Viện với cuộc duy tân của triều Tự Đức (1942) - Lê Hoàn (1939) - Hồi chuông Thiên Mụ (1940) - Cần vương (1941) - Vua Quang Trung (1940) - Dưới lũy Trường Dục (1942) - Bánh xe khứ quốc. (Hà Nội. Đời mới, Thụy Kí, 1941) - Một kiếp trước của Phật Thích Ca (1942) - Danh nhân Việt Nam qua các triều đại (1942) - Ngày mai với tập hồ sơ của một thời đại (Hà Nội, 1942) - Việt Nam sử học (Thế kỉ 18 - 1942) - Thế kỉ XVIII: Bằng Quận Công (Mai Lĩnh, 1942) - Triều Tây Sơn (1942) - Giọt máu sau cùng (tiểu thuyết, 1943) - Từ nhà Chùa đến nhà Chúa (Hương Sơn, 1942) - Phạm Nhan (loại học sinh). Hà Nội, Xuân Thu (1943) - Năm bộ da dê hay là một tấm gương kiên nhẫn (Thụy Kí, 1943) Hầu hết tác phẩm của Phan Trần Chúc đều lấy đề tài và cảm hứng từ các nhân vật lịch sử của sử để hình thành. Có thể nói ông là nhà văn viết tiểu thuyết lịch sử (chứ không phải sử học) khá đều tay so với các nhà văn khác. Đọc ông, tác giả Nhà văn hiện đại (Vũ Ngọc Phan) cho rằng: \"Trong các sách của Phan Trần Chúc chỉ được có cái đặc sắc là lối nghị luận. Lời nghị luận của ông bao giờ cũng sáng suốt. Nếu muốn tìm giá trị họa chăng đó là giá trị những văn phẩm của ông. Còn những tài liệu ông dùng phần nhiều không được chắc chắn, nên ông đã không tránh được những sự mâu thuẫn là những điều không nên có trong một quyển sử.\""
+  "id" : 402,
+  "entityName" : "Giới Không",
+  "aliases" : [ "Nguyễn Tuân" ],
+  "overview" : "Ông đi tu từ thời trẻ, học với sư Quảng Phúc ở chùa Nguyên Hóa, rồi trụ trì ở chùa Thánh Chủ, thuộc huyện Nam sách, tỉnh Hải Dương. lt lâu ông nhận lời triệu thỉnh của Lý Nhân tông, đến trụ trì ở chùa Gia Lâm nơi kinh đô. Khi tuổi già ông trở về quê và mất tại đấy. Ông được truyền tâm ấn, đúng vào thế thứ 15 dòng thiền Nam Phương. Lúc sắp viên tịch, ông lưu lại một bài kệ: \"Ngã hữu nhất sự kì đặc, Phi thanh, hoàng, xích, bạch, hắc. Thiên hạ tại gia, xuất gia, Thân sinh ố tử vi tặc. Bất tri sinh tử dị lộ, Sinh tử chỉ thị thất đắc. Nhược ngôn sinh tử dị đồ, Trám khước Thích Ca, Di Lặc. Nhược tri sinh tử tử sinh Phương hội lão tăng xứ nặc. Nhữ đẳng hậu học môn nhân, Mạc nhận bàn tính qui tắc.\" Bản dịch: Ta có một việc này rất lạ Chẳng phải xanh vàng đen trắng đỏ. Thiên hạ tại gia và xuất gia, \"Tham sinh ố tử\" là giặc đó! Biết đâu sinh tử tuy hai đường Nhưng cũng chỉ là sự \"mất\", \"có\". Nếu bảo sinh tử thật khác nhau, Là lừa Di Lặc và Phật tổ. Muốn hiểu ý tu chỗ kín sâu, Phải rõ: tử sinh là sinh tử. Đệ tử các người, người học sau. Chớ nhận lầm bóng sao, quĩ độ."
 }

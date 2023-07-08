@@ -1,18 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Vua",
-  "workTenure": "1459–1460",
-  "fatherName": {
-    "Lê Thái Tông": 1666
+  "dateOfBirth" : "Mậu Tuất 1898",
+  "dateOfDeath" : "Đinh Tị 1977",
+  "hometown" : "Quảng Nam",
+  "occupation" : "Nghệ sĩ, có tên riêng là Tảo, các nghệ nhân, đồng chí gọi thân mật là Anh Tảo.",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "motherName": {},
-  "eraName": {
-    "Nhà Hậu Lê – giai đoạn Lê sơ": 20
-  },
-  "id": 1136,
-  "entityName": "Lạng Sơn Vương",
-  "aliases": [],
-  "overview": "Lê Nghi Dân (chữ Hán: 黎宜民 tháng 10 năm 1439 – 6 tháng 6 năm 1460), thường được gọi là Lệ Đức hầu (厲德侯), Lạng Sơn vương (諒山王), là vị hoàng đế thứ tư của triều đại Lê sơ trong lịch sử Việt Nam. Ông tiếm vị trong một thời gian ngắn, từ tháng 10 năm 1459 đến khi bị phế truất vào tháng 6 năm 1460, với niên hiệu là Thiên Hưng (天興). Đôi khi, ông cũng được gọi là Thiên Hưng Đế (天興帝)."
+  "id" : 1136,
+  "entityName" : "Nguyễn Nho Túy",
+  "aliases" : [ "Anh Tảo" ],
+  "overview" : "Quê làng Phú Hanh, huyện Duy Xuyên, tỉnh Quảng Nam. Ông mê hát từ thuở bé, nhờ có vốn văn hóa khá, thông hiểu cả chữ Hán. Đầu tiên ông theo gánh hát của cụ Nguyễn Hiền Dĩnh - nhà soạn tuồng nổi tiếng ở miền Trung. Sau Cách mạng tháng Tám ông tham gia kháng chiến, sinh hoạt trong đoàn tuồng Liên khu 5. Suốt ba mươi năm ông tiếp tục phục vụ trên cương vị nghệ sĩ tuồng, nổi bật trong các vai đặc sắc. Ngoài việc trình diễn, chỉ đạo nghệ thuật cho các đồng nghiệp, ông cũng có biên soạn quyển 55 năm trên sân khấu tuồng. Ông cũng từng được cử làm: ủy viên Ban Chấp hành Hội Liên hiệp Văn học Nghệ thuật Việt Nam, Đại biểu Quốc hội khóa 3. Được khen thưởng: Huân chương Lao động hạng ba, Huân chương Lao động hạng nhì. Năm Đinh tị 1977, ngày 30-6 Dương lịch ông mất tại Đà Nẵng, thọ 79 tuổi."
 }

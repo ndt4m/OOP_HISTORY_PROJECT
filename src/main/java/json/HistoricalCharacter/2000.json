@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "1920 Hạ Trạch, Bố Trạch, Quảng Bình, Liên bang Đông Dương",
-  "dateOfDeath": "2006",
-  "hometown": "Không rõ",
-  "occupation": "Thuộc",
-  "workTenure": "1945–1988",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 2000,
-  "entityName": "Lê Văn Tri",
-  "aliases": [],
-  "overview": "Lê Văn Tri (1920–2006) là tướng lĩnh cấp cao trong Quân đội Nhân dân Việt Nam, hàm Trung tướng, nguyên Chủ nhiệm Tổng cục Kỹ thuật, Bí thư Đảng ủy Tổng cục Kỹ thuật (1977-1988), Tư lệnh Quân chủng Phòng không-Không quân, Ủy viên thường vụ Đảng ủy Quân chủng (1969-1977). Ông là một trong những vị tướng nối tiếng đất Quảng Bình. Ngoài ra ông còn từng là Đại biểu Quốc hội khóa 7, Ủy viên dự khuyết Ban chấp hành Trung ương Đảng Cộng sản Việt Nam khóa 4."
+  "dateOfBirth" : "Nhâm Tuất 1922",
+  "dateOfDeath" : "Canh Dần 1950",
+  "hometown" : "quê quán ở ngoại ô Hà Nội (nay thuộc TP",
+  "occupation" : "Liệt sĩ, Nhà văn",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nước Việt Nam mới" : 29
+  },
+  "id" : 2000,
+  "entityName" : "Đặng Trần Thi",
+  "aliases" : [ "Trần Đăng" ],
+  "overview" : "Ông tích cực hoạt động cách mạng, tận tụy trong cuộc kháng chiến cứu nước, từng đóng góp bài trong tạp chí Văn nghệ quân đội ông hi sinh ngày 26-12-1950 tại mặt trận biên giới phía Bắc, hưởng dương 28 tuổi. Tác phẩm chính: Truyện và kí sự (tập truyện kí, in năm 1951, tái bản nhiều lần)."
 }

@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Vua",
-  "workTenure": "1407—1407",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Hậu Trần": 23
+  "dateOfBirth" : "1680\n----------------------------------------------\nCanh Thân 1680",
+  "dateOfDeath" : "1732\n----------------------------------------------\nNhâm Tí 1732",
+  "hometown" : "quê làng Phù Chẩn, huyện Đông Ngạn, tỉnh Bắc Ninh (nay thuộc huyện Tiên Sơn, tỉnh Bắc Ninh)",
+  "occupation" : "Danh sĩ đời Lê Hi tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
   },
-  "id": 2234,
-  "entityName": "Trần Nguyệt Hồ",
-  "aliases": [],
-  "overview": "Trần Nguyệt Hồ (chữ Hán: 陳月湖 ) là người đứng thứ 4 trong các cuộc khởi nghĩa nông dân đã khởi nghĩa chống quân Minh.\n----------------------------------------------\nTrần Nguyệt Hồ (chữ Hán: 陳月湖) là người đứng thứ 4 trong các cuộc khởi nghĩa nông dân đã khởi nghĩa chống quân Minh."
+  "id" : 2234,
+  "entityName" : "Nguyễn Công Hãng",
+  "aliases" : [ "Tĩnh Trai", "Thái Thanh" ],
+  "overview" : "Nguyễn Công Hãng (chữ Hán: 阮公沆, 1680 - 1732) là đại thần, nhà ngoại giao và là một nhà thơ Việt Nam thời Lê Trung hưng, trong lịch sử Việt Nam.\n----------------------------------------------\nNăm Canh thìn 1700, ông đỗ đồng tiến sĩ lúc mới 20 tuổi, trẻ và giỏi nhất khoa này, làm quan Đề hình, rồi thăng Thiêm đô ngự sử (1711). Năm Ất mùi 1715, ra làm Đốc trấn Cao Bằng, đến Đinh dậu 1717 được triệu về kinh, làm Tả thị lang bộ Binh. Năm sau (1718) nhận lệnh vua đi sứ Trung Quốc. Khi về, được thăng Thượng thư, tước Sóc Quận Công (Canh tí 1720), cùng với Nguyễn Công Cơ và Lê Anh Tuấn vào phủ Chúa làm Tham tụng. Ít lâu được thăng Thiếu bảo, rồi Thái phó (1721) Thượng thư bộ Lại. Năm Nhâm tí 1732, gia phong Thái Bảo, Tá Lý công thần, nhưng đến mùa đông năm này, chúa Trịnh Giang nghe lời dèm siểm, giáng ông làm Thừa Chánh sứ ở Tuyên Quang, rồi bức ông phải tự vận, hưởng dương 52 tuổi. Đến đầu đời Lê Hiển tông, ông mới được minh oan, khai phục chức tước cũ và cho con cháu đem hài cốt về chôn cất tại quê nhà. Còn để lại tác phẩm Tĩnh Sà thi tập Tĩnh Sà thi tập (1 quyển) do ông soạn trong thời gian đi sứ Trung Quốc năm 1718. Theo Phan Huy chú thơ Nguyễn Công Hãng mời thơ trôi chảy, đáng đọc\" và Phan Huy Chú trích một số bài như Đề Nhạc Vũ Mục miếu (Nhạc Phi), Đề Phi Lai thạch, Đề Dương Ứng sơn."
 }

@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Tân Mùi 1511",
-  "dateOfDeath": "Tân Tị 1581",
-  "hometown": "người làng Tiên Châu, huyện Tiên Lữ, tỉnh Hưng Yên",
-  "occupation": "Văn thần đời Mạc, không rõ tên thật",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nam - Bắc Triều": 19
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Châu Diên, quận Giao Chỉ",
+  "occupation" : "Lão tướng đời Trưng vương",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trưng Nữ Vương" : 10
   },
-  "id": 2209,
-  "entityName": "Lê Nhu Hổ",
-  "aliases": [],
-  "overview": "Ông chẳng những có văn tài, lại có sức khỏe hơn người. Tương truyền ông là nhân vật ăn khỏe nhất nước ta, nên đương thời gọi ông là Như Hổ. Năm Tân sửu 1541, đời Mạc Phúc Hải, ông đỗ tiến sĩ, 39 tuổi, được sung chức Tả thị lang, phụng mạng sang sứ nhà Minh dâng lễ cống. Tại Trung Quốc danh tiếng ông cũng vang dậy một thời. Khi đi sứ Trung Quốc ông được vua nhà Minh phong là Lưỡng quốc quốc sư. Đi sứ về có công, ông được thăng Thượng thư tước Xuân Giang Hầu. Tương truyền khi đi sứ Trung Quốc ông học được nghề làm dù và sau này người Việt xem ông là tổ sư của nghề làm dù nước ta."
+  "id" : 2209,
+  "entityName" : "Đô Dương",
+  "aliases" : [ ],
+  "overview" : "Năm Kỉ hợi, Thi Sách bị Thái thú Tô Định giết, ông hiệp binh với nhà họ Trưng khởi nghĩa. Năm Quí mão 43, sau khi chị em Trưng vương thất trận tự vẫn ở sông Hát Giang, ông vẫn cố thủ huyện Cư Phong, thuộc quận Cửu Chân, toan liên kết với quân Lâm Ấp và Tây Đồ Di để tiếp tục cuộc kháng chiến chống quân xâm lược Hán. Mã Viện tiến quân đến chỗ sông Mã hợp lưu với Lương Giang, rồi chia làm hai đạo, một đạo đi ngược dòng Lương Giang thẳng tới Cư Phong, một đạo theo dòng sông Mã xuống đến Vô Biên. Toán quân Hán đánh Cư Phong, đêm ngày vây chặt. Ông chống không nổi, quân dân chết rất nhiều nên đành ra hàng để bảo toàn lực lượng. Trận đánh Cư Phong này là trận cuối cùng, quân Hán giết của ta nhiều tướng và rất nhiều binh sĩ, đoạn đem nhiều gia đình các tướng phát vãng sang Linh Lăng ở miền Nam Trung Quốc."
 }

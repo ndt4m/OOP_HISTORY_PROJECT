@@ -1,14 +1,20 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "968",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 960,
-  "entityName": "Lý Khuê",
-  "aliases": [],
-  "overview": "Lý Khuê (chữ Hán: 李奎; ? - 968) hay Lý Lãng công (李郞公) là một sứ quân nổi dậy trong thời loạn 12 sứ quân trong lịch sử Việt Nam thế kỷ 10. Ông vốn là một hào trưởng, nhân thời loạn lập ấp và cai quản vùng giáp ranh Bắc Ninh - Hưng Yên, phía nam sông Đuống ngày nay. Năm 968 ông bị tướng Lưu Cơ của Đinh Bộ Lĩnh ở Hoa Lư đánh dẹp, chấm dứt tình trạng cát cứ để lập ra nhà nước Đại Cồ Việt trong lịch sử."
+  "dateOfBirth" : "1654",
+  "dateOfDeath" : "1671 (16–17 tuổi) Đông Kinh, Đại Việt",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Đại Việt",
+  "workTenure" : "1662 - 1671",
+  "fatherName" : {
+    "Lê Thần Tông" : 1930
+  },
+  "motherName" : {
+    "Phạm Thị Ngọc Hậu" : null
+  },
+  "eraName" : {
+    "Nhà Lê trung hưng" : null
+  },
+  "id" : 960,
+  "entityName" : "Lê Duy Vũ",
+  "aliases" : [ "Lê Duy Vũ (黎維禑)", "Huyền Tông (玄宗)", "Cảnh Trị (景治: 1663 - 1671)", "Mục Hoàng đế" ],
+  "overview" : "Lê Huyền Tông (chữ Hán: 黎玄宗, 1654 – 1671), tên thật là Lê Duy Vũ (黎維禑), tên khác là Lê Duy Hi (黎維禧), là vị hoàng đế thứ tám của nhà Lê trung hưng, trong lịch sử Việt Nam. Mẹ đẻ là hoàng hậu Phạm Thị Ngọc Hậu."
 }

@@ -1,18 +1,21 @@
 {
-  "dateOfBirth": "Nhâm Tí 1792",
-  "dateOfDeath": "Đinh Tị 1857",
-  "hometown": "quê làng Trịnh Hà, tỉnh Thanh Hóa, trong một gia đình Thiên Chúa giáo lâu đời",
-  "occupation": "Thánh tử đạo Thiên Chúa giáo",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Mậu Tuất 1898",
+  "dateOfDeath" : "Quí Sửu 1973",
+  "hometown" : "quê xã Bối Khê, tổng Cẩm Khê, phủ Khoái Châu, tỉnh Hưng Yên",
+  "occupation" : "Nữ sĩ hiện đại",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "Đỗ Duy Phiên" : null
   },
-  "id": 2728,
-  "entityName": "Lê Bảo Tịnh",
-  "aliases": [
-    "Phao Lồ"
-  ],
-  "overview": "Hồi mới ngoài 10 tuổi ông đã vào tu học tại Chủng viện Vĩnh Trị. Trong thời gian tu học, ông được các nhà truyền giáo phái sang Macao (thuộc Trung Quốc) liên lạc về tài chánh cho việc truyền đạo ở khu vực Đàng Ngoài hồi bấy giờ. Năm 1837 ông được đi truyền giáo tại Lào, sau đó trở về địa phận tỉnh Hà Nam lo việc đạo tại các giáo xứ chung quanh Hà Nội. Năm 1841 ông bị bắt trong khi đang truyền giáo tại địa phương, đem về giam tại Hà Nội hơn 7 năm, rồi sau đó đày đi Phúc Yên. Sau khi được phóng thích ông thụ phong linh mục lúc ông đã 56 tuổi. Năm 1848 ông làm Giám đốc Chủng viện Vĩnh Trị đang thời kỳ đạo Thiên Chúa bị khủng bố gắt. Ngày 27-2-1857 ông bị bắt lần thứ hai giam tại nhà lao Nam Định rồi bị xử trảm vào ngày 6-4-1857. Năm 1909 ông được phong Chân phước rồi đến ngày 19-6-1988 được giáo hội La Mã phong Hiển thánh cùng với một số giáo dân và linh mục khác."
+  "motherName" : {
+    "Nguyễn Thị Yểm" : null
+  },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
+  },
+  "id" : 2728,
+  "entityName" : "Đỗ Thị Đàm",
+  "aliases" : [ "Tuơng Phố" ],
+  "overview" : "Vì bà chào đời tại Đồn Đầm, tỉnh Bắc Giang, nơi thân sinh bà làm việc, nên đặt tên bà là Đàm để ghi dấu tích làm kỉ niệm. (Đàm chữ Hán có nghĩa là Đầm); về sau năm sinh có sách chép là 1896 hoặc 1900). Bà học ở trường Nữ hộ sinh, sau bỏ học thi vào trường nữ Sư phạm Hà Nội. Tại đây bà gặp sinh viên trường thuốc Thái Văn Du (em ruột Thượng thư Thái Văn Toản) rồi thành vợ chồng vào năm 1915. Một năm sau bà sinh con trai là Thái Văn Châu thì chồng bà là Y sĩ Đông Dương phải qua Pháp tham chiến trong cuộc chiến tranh Pháp - Đức (1914-1918). Ba năm sau chồng bà bị bệnh phổi trở về Huế vào khoảng cuối năm 1919 rồi mất vào mùa thu 1920. Bà góa chồng lúc 22 tuổi, đến năm 27 tuổi (Ất sửu 1925) bà tái giá với tuần phủ Phạm Khắc Chánh ở Phúc Yên. Bà bước vào làng văn từ những năm 1927, 1928 và nổi tiếng qua bài Giọt lệ thu đăng trên tạp chí Nam Phong số 131 tháng 7-1928, sau này nhà xuất bản Ngày Mai in thành sách tại Hà Nội. Bà làm thơ nhiều và có viết một số bài tiểu luận đăng trên tạp chí Nam Phong. Các tác phẩm của bà đã xuất bản: - Nhớ rừng xanh - Tình quê - Chia phôi - Giọt lệ thu - Mưa gió sông Tương - Trúc Mai (truyện dài bằng thơ). - Liên xóm Bàng... Em gái bà là Song Khê Đỗ Thị Quế cũng là một nữ thi sĩ có tiếng. Sau năm 1945 bà sống ở Nha Trang và mất ở Đà Lạt trong năm 1973."
 }

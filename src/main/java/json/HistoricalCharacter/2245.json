@@ -1,16 +1,18 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "1285",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Trần": null
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Vua",
+  "workTenure" : "1516–1516",
+  "fatherName" : {
+    "Lê Doanh" : null
   },
-  "id": 2245,
-  "entityName": "Trần Kiện",
-  "aliases": [],
-  "overview": "Trần Kiện (chữ Hán: 陳鍵, ? - 1285) là một quý tộc nhà Trần trong lịch sử Việt Nam. Trong cuộc chiến tranh với nhà Nguyên, Trần Kiện đã đầu hàng quân Nguyên và cộng tác đắc lực cho lực lượng quân Nguyên. Sau khi quân Nguyên bị đại bại tại chiến trường Đại Việt, Trần Kiện theo quân Nguyên rút về phương Bắc nhưng đã bị quân phục kích của nhà Trần do Nguyễn Địa Lô bắn chết."
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Hậu Lê – giai đoạn Lê sơ" : 20
+  },
+  "id" : 2245,
+  "entityName" : "Lê Quang Trị",
+  "aliases" : [ ],
+  "overview" : "Lê Quang Trị (chữ Hán: 黎光治 1509 - 1516) là một vị hoàng đế nhà Lê sơ trong lịch sử Việt Nam. Do được lập lên ngôi và phế truất trong thời gian loạn lạc ngắn ngủi, ông ít được nhắc tới trong danh sách các vị vua chính thống của Việt Nam."
 }

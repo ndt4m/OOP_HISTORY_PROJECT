@@ -1,20 +1,17 @@
 {
-  "dateOfBirth": "1846\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath": "1888\n----------------------------------------------\nKhông rõ",
-  "hometown": "quê làng Phù Lưu huyện Đông Quan tỉnh Nam Định (thời vua Tự Đức), nay là xã Đông Sơn huyện Đông Hưng tỉnh Thái Bình.\n----------------------------------------------\nHà Nội",
-  "occupation": "Dòng dõi Thượng thư bộ Binh đời Lê Hiển tông là Cao Bá Hiên, thân phụ Cao Bá Quát",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34,
-    "Nhà Tây Sơn": 21,
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Bính Tí 1876",
+  "dateOfDeath" : "Canh Ngọ 1954",
+  "hometown" : "quê xã Tiên Điền, huyện Nghi Xuân, tinh Hà Tĩnh",
+  "occupation" : "Danh sĩ, cháu thi hào Nguyễn Du",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 1940,
-  "entityName": "Phạm Huy Quang",
-  "aliases": [
-    "Đức"
-  ],
-  "overview": "Phạm Huy Quang (1846-1888), tên lúc nhỏ là Phạm Huy Ôn, quê làng Phù Lưu huyện Đông Quan tỉnh Nam Định (thời vua Tự Đức), nay là xã Đông Sơn huyện Đông Hưng tỉnh Thái Bình. Phạm Huy Quang, từng làm quan nhà Nguyễn tới chức Giám sát ngự sử đạo Đông Bắc (chức quan thuộc Đô sát viện nhà Nguyễn), là nghĩa quân chống Pháp, từng cùng Nguyễn Thiện Thuật, Tạ Hiện chỉ huy đánh Pháp trong trận Bắc Lệ, sau đó cùng Tạ Hiện lãnh đạo Cần Vương kháng Pháp tại Thái Bình và Nam Định theo lời kêu gọi của vua Hàm Nghi.\n----------------------------------------------\nGặp hồi loạn lạc cuối Lê, ông không ra thi cử, ở ẩn quê nhà. Đến đời Gia Long, ông làm Giáo thụ ở huyện Gia Định (sau đổi là Gia Bình, tỉnh Bắc Ninh; nay thuộc Bắc Ninh), được đương thời khen ngợi là người có đạo đức, giỏi văn chương. Khi thấy vợ sinh đôi hai con là Bá Đạt và Bá Quát có tài văn xuất chúng, ông có lời khuyên sáng suốt: Văn của Bá Đạt hơn về khuôn phép nhưng kém về tài tứ; văn của Bá Quát hơn về tài tứ nhưng kém về khuôn phép. Đem cái tài tứ của Bá Quát hợp cái khuôn phép của Bá Đạt, sẽ có thể trở nên bậc có văn tài hoàn toàn. Ông mất, mọi người đều thương mến, nhắc nhở."
+  "id" : 1940,
+  "entityName" : "Nguyễn Mai",
+  "aliases" : [ ],
+  "overview" : "Năm Canh tí 1900, ông đỗ cử nhân cùng khoa với Phan Bội Châu, năm Giáp thìn 1904, đỗ tiến sĩ, cùng khoa với Trần Quí Cáp, Huỳnh Thúc Kháng nên tục gọi là Nghè Mai. Khi ông thi đỗ, Phan Bội Châu có câu đối mừng: \"Tao tế diệc thiên sở vi, hạnh bất sinh Đường Ngu tam đại dĩ tiến, kim bảng thạch bi, tiện thị ngô nhân hi thế sự. Học giới chí kim tối thịnh, thỉnh thí vấn Âu Á ngũ châu nhi ngoại, hồng thiên đại bút, quả như ngã bối quyết khoa văn\". Nghĩa: Nên danh bởi phận trời cho, nay không sinh Đường Ngu tam đại xưa kia, bia đá bảng vàng, bất quá người ta bày chuyên nhảm, Việc học đến nay thịnh quá, xin thử hỏi Âu Á năm châu ngoài cõi, văn hay luận giỏi, đâu như khoa cử lối mình đây. Năm Giáp ngọ 1954, ông mất, thọ 78 tuổi"
 }

@@ -1,14 +1,19 @@
 {
-  "dateOfBirth": "Tháng 2 năm 1929 Sài Gòn, Liên bang Đông Dương",
-  "dateOfDeath": "24 tháng 11, 2006 (77 tuổi) California, Hoa Kỳ",
-  "hometown": "Không rõ",
-  "occupation": "Thuộc",
-  "workTenure": "1951-1975",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 982,
-  "entityName": "Nguyễn Văn Minh",
-  "aliases": [],
-  "overview": "Nguyễn Văn Minh (1929-2006) nguyên là một tướng lĩnh Bộ binh của Quân lực Việt Nam Cộng hòa, cấp bậc Trung tướng. Ông xuất thân từ những khóa đầu tại trường Võ bị Liên quân được mở ra ở Nam Cao nguyên Trung phần Việt Nam. Trong thời gian tại ngũ, ngoài chuyên môn là chỉ huy các đơn vị Bộ binh, ông cũng được biệt phái qua lĩnh vực Hành chính Quân sự làm Quân trưởng, Tỉnh trưởng. Về sau ông được đảm trách Tư lệnh một Quân đoàn trọng yếu và 2 lần Tư lệnh Biệt khu Thủ đô, một địa bàn mà trong đó tất cả các cơ quan đầu não của Chính quyền và Quân đội Việt Nam Cộng hòa đều tập trung tại đây. Bấy giờ, giới quân nhân đặt cho ông biệt danh là \"Minh đờn\" do khả năng trình diễn đàn guitare."
+  "dateOfBirth" : "Tân Sửu 1841",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Người làng Vĩnh Trụ, huyện Lý Nhân, tỉnh Hà Nam (nay vẫn thuộc tỉnh Hà Nam) con tiến sĩ Võ Văn Lý",
+  "occupation" : "Người làng Vĩnh Trụ, huyện Lý Nhân, tỉnh Hà Nam (nay vẫn thuộc tỉnh Hà Nam) con tiến sĩ Võ Văn Lý.",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "Võ Văn Lý" : null
+  },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nhà Nguyễn độc lập" : 30
+  },
+  "id" : 982,
+  "entityName" : "Võ Văn Báo",
+  "aliases" : [ ],
+  "overview" : "Năm Đinh mão 1867 ông đỗ cử nhân, Mậu thìn 1868 đỗ Phó bảng. Làm quan đến Tổng đốc Nam Định. Thân sinh ông làm quan Tế tửu (Giáo sư đại học) vốn là thầy học của Tam nguyên Yên Đỗ Nguyễn Khuyến và ông Nghè Giao Cù Võ Hữu Lợi... Khi làm việc cho Pháp, Báo phản bạn, bắt bạn là Võ Hữu Lợi, đem nộp cho Pháp giết nên sau đó ông ta bị nghĩa quân (trong số này phần đông là học trò ông Nghè Giao Cù), bắt được đem thiêu sống trả thù cho các chiến sĩ. Bấy giờ dân gian truyền tụng một đôi câu đối: \"Báo chi cách, khuyển dương chi cách; Lý chi đình, thi lễ chi đình.\" Nghĩa: Da con \"báo\" là da chó dê Sân ông \"lí\" là sân thi lễ Cái chết của Võ Văn Báo là một bài học thích đáng cho những kẻ lừa thầy, phản bạn, hại dân. Tác phẩm: - Ất sửu như Tây nhật kí - Như Tây nhật trình quốc âm - Hà đê bộ thi tập"
 }

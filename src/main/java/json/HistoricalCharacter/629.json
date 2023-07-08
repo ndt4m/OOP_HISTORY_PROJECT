@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "1759\n----------------------------------------------\nKỉ Mão 1759",
-  "dateOfDeath": "1813\n----------------------------------------------\nBính Tí 1816",
-  "hometown": "quê ở huyện Chương Đức (Chương Mĩ, tỉnh Hà Đông, sau đời về ngụ ở Sơn Nam, Nam Định",
-  "occupation": "Công thần triều Gia Long",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "nhà Tiền Lê" : null
   },
-  "id": 629,
-  "entityName": "Đặng Trần Thường",
-  "aliases": [],
-  "overview": "Đặng Trần Thường (1759-1813) là công thần khai quốc nhà Nguyễn trong lịch sử Việt Nam, người huyện Chương Đức (nay là huyện Chương Mỹ, Hà Nội.\n----------------------------------------------\nÔng có tiếng văn thơ, vào Gia Định giúp Nguyễn Ánh chống Tây Sơn, làm đến Thượng thư bộ Binh. Giữa ông và Lê Chất có điều hiềm khích. Sau Lê Chất tố cáo ông đã khai gian sắc thần, đem những người không xứng đáng vào hàng phúc thần. Triều đình khép ông vào tội \"khinh người dối thần\", tuyên ản xử trảm giam hậu. Rồi sau đó được tha. Lê Chất lại dâng biểu tố cáo ông đã nhũng lạm lúc còn ở Bắc Thành. Ông lại bị triều đình nhà Nguyễn Phúc nghị án xử giảo (thắt cổ). Khi bị giam trong ngục tử hình, ông uống rượu say tối ngày, có làm bài phú \"Hàn vương tôn\" bằng quốc âm, ví thân thế như Hàn Tín bị Hàn Bái Công phụ rẫy. Ông bị xử giảo năm Bính tí 1816. Thuở thanh xuân, ông thường tự phụ tài học, có lần túng thiếu ông đến nhà các bạn với bài thơ xin vay: Ngất ngưởng Đồ Thường đã đến đây, Có tiền xin mượn lâý năm chầy. Năm chầy không được ba chầy vậy, Phiếu mẫu đền ân cũng có ngày. Đến nhà Ngô Thì Nhậm ông vẫn giữ giọng ngạo mạn, bị Ngô Thì Nhậm xem thường nặng lời chê trách. Sau ông theo giúp Nguyễn Ánh làm nên đại sự, còn Ngô Thì Nhậm ra giúp vua Quang Trung. Nhà Tây Sơn sụp đổ, Ngô Thì Nhậm bị bắt. Oan gia gặp nhau, ông ra cho Ngô Thì Nhậm một vế đối với giọng đầy kiêu căng, tự mãn: \"Ai công hầu, ai khanh tướng, trong trần ai, ai dễ biết ai\". Ngô Thì Nhậm cười lạt đối lại: \"Thế Chiến Quốc, thế Xuân Thu, gặp thời thế, thế thời phải thế\". Ngô Thì Nhậm bị đánh mấy mươi roi làm nhục. Té ra về sau ông cũng chẳng được an toàn suốt đời."
+  "id" : 629,
+  "entityName" : "Lê Long Cân",
+  "aliases" : [ ],
+  "overview" : "Lê Long Cân (chữ Hán: 黎龍釿) là một hoàng tử của nhà Tiền Lê trong lịch sử Việt Nam. Ông là con trai thứ sáu của Vua Lê Đại Hành. Sinh tại kinh đô Hoa Lư, Ninh Bình, Việt Nam. Ông được vua phong tước Ngự Bắc Vương(禦北王) năm 991, đóng tại Phù Lan, tức vùng đất thuộc tỉnh Hưng Yên ngày nay. Căn cứ vào năm sinh người con trai thứ năm của vua Lê Đại Hành (986) và năm phong vương thì năm sinh của ông nằm trong khoảng từ 986 đến 991."
 }

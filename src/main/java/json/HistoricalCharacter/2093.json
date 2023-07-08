@@ -1,17 +1,16 @@
 {
-  "dateOfBirth": "Giáp Dần 1914",
-  "dateOfDeath": "Đinh Tị 1977",
-  "hometown": "tại làng Tân Tịch, huyện Tân Uyên, tỉnh Biên Hòa (nay thuộc tỉnh Bình Dương)",
-  "occupation": "Nhà thơ, Thiếu tướng Quân đội Nhân dân Việt Nam, Thứ trưởng Bộ Lâm nghiệp",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê ở Đại Đồng, tỉnh Tuyên Quang, không rõ năm sinh, năm mất",
+  "occupation" : "Võ tướng đời Lê Trung tông, quê ở Đại Đồng, tỉnh Tuyên Quang",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
   },
-  "id": 2093,
-  "entityName": "Huỳnh Văn Nghệ",
-  "aliases": [],
-  "overview": "Ngay từ tuổi thanh niên ông đã tích cực tham gia hoạt động cứu nước, tham gia suốt hai cuộc trường chinh chống Pháp, Mĩ với bí danh Tâm Ngãi. Trong kháng chiến chống Pháp, ông làm phó khu trưởng khu 7 (Đông Nam Bộ) chỉ huy nhiều trận du kích chiến và vận động chiến nổi tiếng ở Nam Bộ, tên tuổi ông trong và ngoài nước đều biết. Kháng chiến thành công, ông chuyển ngành giữ chức Thứ truởng bộ Lâm nghiệp. Ông được nhà nước tặng nhiều huy chương, huân chương cao quý và huy hiệu Thành đồng Tổ quốc. Ông mất ngày 5-3-1977 tại TP. Hồ Chí Minh thọ 63 tuổi. Thời còn trẻ tuổi, ông sáng tác thơ văn khá nhiều, thơ ông thắm đượm tình yêu nước, nghĩa đồng bào và dân tộc tính sâu đậm. Ngày nay nhắc đến ông không ai không liên tưởng đến mấy câu thơ tuyệt tác biểu lộ được nỗi lòng ông: Ai về xứ Bắc ta theo với, Thăm lại quê hương giống Lạc Hồng. Từ thuở mang gươm đi mở cõi, Ngàn năm thương nhớ đất Thăng Long. Các tác phẩm của ông: - Đồng Nai (1943) - Bên bờ sông xanh (1988)"
+  "id" : 2093,
+  "entityName" : "Ma Phúc Trường",
+  "aliases" : [ ],
+  "overview" : "Ông là bộ tướng của Hòa Quốc Công Võ Đức Công, dòng dõi An Tây vương Võ Văn Mật. Ông tận tụy phục vụ nhà họ Võ trấn giữ Đại Đồng, nghiễm nhiên như lãnh chúa địa phương. Võ Đức Công mất, con là Thụy Quận công Võ Công Ứng nối nghiệp, ông vẫn hết lòng giúp sức, đến khi Công Ứng mất, con là Tống Quận Công Võ Công Trực lên thay, ông không vừa lòng với vị chủ tướng này, nên âm mưu giết chết Công Trực, tách ra đối lập với nhà họ Võ. Con của Công Trực là Công Tuấn được chúa Trịnh phong làm Khoan Quận Công, lưu ở kinh đô hầu chúa. Nhưng chẳng bao lâu Công Tuấn lén trốn về Đại Đồng, dựng lại cơ nghiệp, giết chết Ma Phúc Trường đề báo thù cho cha. Sau đó, Công Tuấn liên kết với dòng dõi họ Mạc, hàng phục nhà Thanh, tự xưng là Tiểu Giao vương chống lại nhà Lê, sau bị bắt và xử tử."
 }

@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "Mậu Thân 1908",
-  "dateOfDeath": "Mậu Ngọ 1978",
-  "hometown": "quê ở Hải Dương, nhưng sinh sống ở miền Nam từ trước đến nay",
-  "occupation": "Nhà văn",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Vĩnh Thanh Vân, thuộc Châu Thành, Rạch Giá (nay là tỉnh Kiên Giang)",
+  "occupation" : "Anh hùng kháng Pháp",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 2887,
-  "entityName": "Lê Sĩ Quí",
-  "aliases": [
-    "Thiếu Sơn"
-  ],
-  "overview": "Ông bước vào làng văn và nổi tiếng rất sớm từ năm 1928 trên các báo Nam Phong (Hà Nội) và Phụ nữ tân văn, Đuốc nhà Nam... (Sài Gòn). Là công chức trong guồng máy Pháp thuộc nhưng ông không xu phụ thực dân; khinh miệt trí thức sa đọa và đám tay sai phản dân hại nước. Ông đứng vào hàng ngũ dân tộc, nhất là từ sau Cách mạng tháng Tám ông tham gia đánh Pháp ở chiến khu. Năm 1954, ông ở lại Sài Gòn tiếp tục hoạt động ở nội thành làm công tác văn hóa, văn nghệ, ông tích cực phục vụ văn hóa dân tộc. Năm 1971, ông bị bắt lưu đày Côn Đảo. Năm 1973 được \"trao trả tù binh\" với chính phủ Cách mạng lâm thời miền Nam Việt Nam. Từ đó (1973) ông sang Pháp vận động chấm dứt chiến tranh Việt Nam. Sau năm 1975 ông trở về Sài Gòn đoàn tựu với gia đình. Ông mất ngày 5-1-1978 vì tai biến mạch máu não tại Thành phố Hồ Chí Minh, thọ 70 tuổi. Ngoài những bài báo rất có giá trị, ông còn để lại những sách đã xuất bản: - Phê bình và cảo luận (1933) - Câu chuyện văn học (1933) - Đời sống tinh thần (1933) - Người bạn gái (1942) - Giữa hai cuộc cách mạng 1789 và 1947 - Nghệ thuật và nhân sinh (2000) Và rất nhiều bài báo giá trị văn học, xã hội trên các tạp chí ở Sài Gòn (1951-1975). Sau khi ông mất, giới văn nghệ và các báo chí của Đảng và nhà nước đã viết nhiều bài tưởng niệm. Lúc sinh thời Thiếu Sơn viết: \"…bản thân tôi không phải là người cách mạng, nhưng tôi đã theo cách mạng cho tới ngày đất nước sạch bóng quân thù. Tôi có bạn trong hàng ngũ những người kháng chiến và những người chỉ sống ở thành nhưng vẫn hướng về cách mạng. Tôi tin tưởng những người đã tạo nên chiến thắng Điện Biên Phủ và Đại thắng mùa xuân 1975 sẽ đủ sức đưa dân tộc vượt qua mọi khó khăn để hoàn thành các nghị quyết của Đảng Cộng sản Việt Nam\"."
+  "id" : 2887,
+  "entityName" : "Lâm Quang Ky",
+  "aliases" : [ ],
+  "overview" : "Ông nhiệt thành yêu nước, dũng cảm kháng chiến, huy động nghĩa quân cương quyết chống xâm lăng đến cùng. Chính ông đã dự trận đánh lấy đồn Rạch Giá trong đêm 15-6-1868. Ông lại từng giả làm Nguyễn Trung Trực, để chủ tướng có cơ hội tổ chức lại nghĩa quân, và cứu các chiến hữu đã bị quân Pháp bắt làm tù binh. Sau ông bị bắt giam và giết tại Rạch Giá. Đương thời tiếng tăm ông vang lừng trong giới sĩ phu tiến bộ và nhân dân yêu nước."
 }

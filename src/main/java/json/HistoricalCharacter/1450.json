@@ -1,19 +1,19 @@
 {
-  "dateOfBirth": "Giáp Dần 1914",
-  "dateOfDeath": "Mậu Dần 1998",
-  "hometown": "quê làng Tân Tạo (Chợ Đệm cũ) huyện Bình Chánh, tỉnh Chợ Lớn (nay thuộc quận Bình Chánh, Thành phố Hồ Chí Minh)",
-  "occupation": "Nhà văn, nhà báo, tục danh là Bảy Trấn",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Tân Dậu 1921",
+  "dateOfDeath" : "Quí Mùi 2003",
+  "hometown" : "tại làng Đa Ngưu, huyện Văn Giang, Bắc Ninh, con trai Bác sĩ Nguyễn Xuân Bái",
+  "occupation" : "Chuyên gia ngân hàng",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "Bác sĩ Nguyễn Xuân Bái" : null
   },
-  "id": 1450,
-  "entityName": "Nguyễn Văn Trấn",
-  "aliases": [
-    "Bảy Trấn"
-  ],
-  "overview": "Thuở ở nhỏ học tiểu học ở Chợ Lớn, cựu học sinh trường Pétrus Ký Sài Gòn. Những năm 30 tham gia hoạt động cách mạng, có thời gian sang học tại trường Đảng Mạc Tư Khoa rồi về nước tiếp tục hoạt động cách mạng tại Sài Gòn. Năm 1939 bị Pháp bắt nhiều lần. Ra tù ông tham gia viết báo như: Tiền phong, trực tiếp phụ trách báo Dân Chúng (Le peuple) cơ quan ngôn luận công khai của Đảng cộng sản Đông Dương tại. Nam Kì. Ông là một trong các cây bút năng nỗ như Nguyễn VănTạo, Dương Bạch Mai, Nguyễn Văn Nguyễn, Nguyễn Văn Tây (Thanh Sơn)... Sau Cách mạng tháng 8 năm 1945, ông giữ chức Giám đốc Quôc gia tự vệ cuộc Sài Gòn, phụ trách công tác an ninh nội bộ của Lâm ủy Sài Gòn, Chợ Lớn, Đại biểu Quốc hội khóa I đơn vị Sài Gòn - Chợ Lớn. Từ năm 1946, ông làm phó chính ủy Quân khu 9 (Miền Tây Nam Bộ), sau năm 1950 ông được điều ra chiến khu Việt Bắc làm công tác tuyên huấn. Trong một thời gian dài ông phụ trách giảng dạy môn lôgich học tại các Trường lí luận của Đảng Cộng sàn Việt Nam. Đất nước thống nhất (1976) ông đến tuổi hưu trí về sống tại Sài Gòn. Các tác phẩm của ông: - Chúng tôi làm báo. (1981) - Câu chuyên trong vườn lí (1984) - Chợ Đệm quê tôi (1986) - Trương Vĩnh Ký con người và sự thật (1990) Và nhiều bài báo và bản thảo..."
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
+  },
+  "id" : 1450,
+  "entityName" : "Nguyễn Xuân Oánh",
+  "aliases" : [ ],
+  "overview" : "Thuở nhỏ học tại Hà Nội, Pháp; tốt nghiệp tiến sĩ kinh tế học tại Pháp, Mĩ... Khi về nước ông từng giữ các chức vụ: Thống đốc Ngân hàng Quốc gia Sài Gòn, có lúc làm Phó thủ tướng chính phủ đặc trách kinh tế tài chánh... nhưng một thời gian sau ông từ chức trở về cương vị một chuyên gia kinh tế. Sau ngày 30 tháng 4 năm 1975 ông ở lại Sài Gòn cộng tác với chính quyền cách mạng trong lĩnh vực chuyên môn của mình về kinh tế, ngân hàng, tài chánh... Ông từng là Đại biểu Quốc hội, ủy viên đoàn chủ tịch ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, Phó chủ tịch liên hiệp các Hội khoa học kĩ thuật TP.HCM. Ông qua đời ngày 29-8-2003, thọ 82 tuổi."
 }

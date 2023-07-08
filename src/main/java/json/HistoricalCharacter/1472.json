@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "Canh Tí 1840",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê tỉnh Vĩnh Long",
-  "occupation": "Nhà thơ có sách chép là Đỗ Như Tâm",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Bính Ngọ 1726",
+  "dateOfDeath" : "Canh Thân 1800",
+  "hometown" : "Quê xã Giai Phạm, huyện Yên Mĩ, tỉnh Hưng Yên",
+  "occupation" : "Nữ sĩ đời Lê Ý tông, con gái lớn của Đoàn Doãn Luân",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
   },
-  "id": 1472,
-  "entityName": "Đỗ Minh Tâm",
-  "aliases": [
-    "Đỗ Như Tâm",
-    "Minh Giám"
-  ],
-  "overview": "Ông xuất thân Nhiêu học, nên tục gọi Nhiêu Tâm. Ông sống trong thời Pháp chiếm nên làm thơ trào lộng rất nhiều. Thơ trào lộng của ông đã nức tiếng một thời gây nên nhiều giai thoại văn chương lí thú. Như hai bài sau: VỊNH KIỀU Sắc tàn có một đỉnh đình đinh, Khắp cả giang san tiếng nổi phình. Duyên chị mà em theo lẽo đẽo, Nợ chàng rồi thiếp sạch sành sanh. Ra đi đầu đội muôn phần hiếu, Trở lại vai mang một chéo tình Mười mấy năm trời nhơ rửa sạch, Khúc đàn nhàn gảy tịch tình tinh. XÔ CÔ VÔ Ô-RÔ Đôi ta chẳng mốt thì mai Chẳng trong tháng chạp thì ngoài tháng giêng. Đây đó trăng già khéo giục xô, Chẳng chầy thì kíp vội chi cô. Ngày kia bữa nọ duyên dầu lãng, Đông cuối xuân đầu lễ bước vô. Có thuở chim cưu nằm tổ thước, Lo chi sông Hán bắc cầu Ô. Góc thành lẩn thẩn chờ ta vậy, Chờ giống chim thuần giống nhảy rô."
+  "id" : 1472,
+  "entityName" : "Đoàn Lệnh Khương",
+  "aliases" : [ ],
+  "overview" : "Năm lên 9 tuổi cha mất, bà nhờ cô nuôi dạy thành tài, lại cũng nhờ ông thúc tổ bên ngoại là Liên Đình Hầu Lê Hữu Kiều bảo dưỡng cho, nên cuộc sống cũng an ổn. Đến tuổi trưởng thành bà nổi danh tài sắc. Nhiều nơi quyền quí cầu hôn, nhưng tình duyên dở dang. Đến năm bà 31 tuổi, tiếp nhận bức thơ cầu hôn của Đốc đồng Sơn Nam là Nguyễn Xuân Huy, góa vợ, tuổi đã trên 40, bà ngần ngại, sau cũng chấp thuận. Bà sinh được một gái, nhưng mới được hai tuổi thì con mất. Rồi chỉ được non bảy năm thì chồng mất (Canh thìn 1760). Từ ấy bà sống cảnh đơn côi góa bụa, lên kinh đô dạy học tại tư gia, được xa gần gọi là Nữ học sư. Đến ngoài 60 tuổi, bà về quê hương nhờ em ruột là Đoàn Doãn Y. Tháng giêng năm Canh thân 1800 bà mất, thọ 74 tuổi."
 }

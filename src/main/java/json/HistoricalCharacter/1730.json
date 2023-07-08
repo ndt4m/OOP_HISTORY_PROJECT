@@ -1,14 +1,18 @@
 {
-  "dateOfBirth": "7 tháng 8, 1971 (47 tuổi) phường Tân Hồng, thị xã Từ Sơn, tỉnh Bắc Ninh, Việt Nam Dân chủ Cộng hòa",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Kim Mã, quận Ba Đình, thành phố Hà Nội",
-  "occupation": "chính trị gia",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 1730,
-  "entityName": "Nguyễn Trường Giang",
-  "aliases": [],
-  "overview": "Nguyễn Trường Giang (sinh ngày 7 tháng 8 năm 1971) là một chính trị gia người Việt Nam. Ông hiện là đại biểu Quốc hội Việt Nam khóa XIV nhiệm kì 2016-2021, thuộc đoàn đại biểu quốc hội tỉnh Đắk Nông, Ủy viên thường trực Ủy ban Pháp luật của Quốc hội, Phó Chủ tịch Nhóm nghị sĩ hữu nghị Việt Nam - EP (Đại biểu chuyên trách Trung ương). Lần đầu ông được trung ương giới thiệu ứng cử và đã trúng cử đại biểu Quốc hội năm 2016 ở đơn vị bầu cử số 1, tỉnh Đắk Nông gồm có thị xã Gia Nghĩa và các huyện: Đắk Glong, Đắk R\u0027Lấp, Tuy Đức, Đắk Song."
+  "dateOfBirth" : "1778\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "1858\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Hà Nội",
+  "occupation" : "Dòng dõi Thượng thư bộ Binh đời Lê Hiển tông là Cao Bá Hiên, thân phụ Cao Bá Quát",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34,
+    "Nhà Tây Sơn" : 21,
+    "Nhà Nguyễn độc lập" : 30
+  },
+  "id" : 1730,
+  "entityName" : "Nguyễn Công Trứ",
+  "aliases" : [ "Ngộ Trai", "Hi Văn", "Tồn Chất", "Trị", "Đức" ],
+  "overview" : "Nguyễn Công Trứ (chữ Hán: 阮公著, 1778 – 1858), tự Tồn Chất, hiệu Ngộ Trai, biệt hiệu Hi Văn, là một nhà chính trị, nhà quân sự và một nhà thơ thời nhà Nguyễn. Ông làm quan qua các đời vua Gia Long Minh Mạng, Thiệu Trị, Tự Đức. Ông nổi bật về việc khai hoang, mộ dân trên một vùng đất lớn ở miền Bắc và đánh dẹp các cuộc nổi dậy chống triều đình Đại Nam.\n----------------------------------------------\nGặp hồi loạn lạc cuối Lê, ông không ra thi cử, ở ẩn quê nhà. Đến đời Gia Long, ông làm Giáo thụ ở huyện Gia Định (sau đổi là Gia Bình, tỉnh Bắc Ninh; nay thuộc Bắc Ninh), được đương thời khen ngợi là người có đạo đức, giỏi văn chương. Khi thấy vợ sinh đôi hai con là Bá Đạt và Bá Quát có tài văn xuất chúng, ông có lời khuyên sáng suốt: Văn của Bá Đạt hơn về khuôn phép nhưng kém về tài tứ; văn của Bá Quát hơn về tài tứ nhưng kém về khuôn phép. Đem cái tài tứ của Bá Quát hợp cái khuôn phép của Bá Đạt, sẽ có thể trở nên bậc có văn tài hoàn toàn. Ông mất, mọi người đều thương mến, nhắc nhở."
 }

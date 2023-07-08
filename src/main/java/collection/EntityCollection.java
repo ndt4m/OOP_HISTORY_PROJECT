@@ -50,6 +50,7 @@ public abstract class EntityCollection <T extends Entity>
     }
 
     public FilteredList<T> searchByName(String name){
-        return new FilteredList<>(data, entity -> entity.isMatch(name));
+        return new FilteredList<>(data, entity -> entity.searchName(name));
     }
+
 }

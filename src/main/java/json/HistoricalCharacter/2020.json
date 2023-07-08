@@ -1,16 +1,14 @@
 {
-  "dateOfBirth": "Đinh Sửu 1673",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê làng Phù Lưu, hạt Đông Sơn",
-  "occupation": "Văn thần đời Lê Thần tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
-  },
-  "id": 2020,
-  "entityName": "Lại Đăng Tiến",
-  "aliases": [],
-  "overview": "Năm Vĩnh thọ 4 (Tân sửu 1661) ông 24 tuổi, đỗ Tam giáp đồng Tiến sĩ. Làm quan đến chức Đề hình, sau khi chết được tặng Tham chính. Đương thời được sĩ phu trọng vọng."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 2020,
+  "entityName" : "Hoàng Văn Đồng",
+  "aliases" : [ ],
+  "overview" : "Hoàng Văn Đồng là một sĩ quan cấp cao trong Quân đội Nhân dân Việt Nam, hàm Trung tướng, hiện là Chính ủy Bộ Tư lệnh Cảnh sát biển Việt Nam."
 }

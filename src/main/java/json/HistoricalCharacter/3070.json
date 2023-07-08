@@ -1,18 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê làng Mộ Trạch, huyện Đường An (huyện Bình Giang) tỉnh Hải Dương cũ, nay thuộc tỉnh Hải Dương",
-  "occupation": "Danh sĩ, tác giả đời nhà Hồ ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Hồ": 9
+  "dateOfBirth" : "Canh Tuất 1910",
+  "dateOfDeath" : "Bính Thân 1956",
+  "hometown" : "quê làng Tân Kim (Cần Giuộc), tỉnh Long An",
+  "occupation" : "Nhà văn ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 3070,
-  "entityName": "Lê Cảnh Tuân",
-  "aliases": [
-    "Tử Mưu"
-  ],
-  "overview": "Lê Cảnh Tuân (chữ Hán: 黎景詢; 1350-1416? ), tự là Tử Mưu (字謀), là một nho sĩ sống vào khoảng thời gian cuối đời Trần, trải qua đời Hồ và đầu thời Minh thuộc trong lịch sử Việt Nam.\n----------------------------------------------\nÔng đỗ Thái học sinh đời Hồ Quí Ly (1400-1402). Nhà Hồ mất, ông có làm Vạn ngôn thư khuyên Bùi Bá Kì (lúc ấy ra làm quan với nhà Minh) xin với nhà Minh, lập con cháu nhà Trần. Quân Minh biết việc này, bắt ông đưa về Yên Kinh. Vua Minh hỏi: \"Người khuyên Bá Kì âm mưu làm trái phép?\" ông nói: \"Người nước Nam, chỉ ở nước Nam, chớ không bao giờ cắn chủ, còn hỏi làm gì?\" Vua Minh tức giận, sai giam ông vào ngục sáu năm. Ông bị bệnh và chết trong ngục ở Yên Kinh. Các tác phẩm: - Vạn ngôn thư - 12 bài thơ in trong Toàn Việt thi lục. - 2 bài thơ làm trong khi bị giam ở Yên Kinh (T.Q)"
+  "id" : 3070,
+  "entityName" : "Lê Văn Vị",
+  "aliases" : [ "Vita" ],
+  "overview" : "Ông học xong Trung học ở Sài Gòn, rồi lén gia đình sang Pháp học. Sau tám năm chịu nhiều gian khổ cay đắng tại quê người, ông thành tài trở về nước phục vụ tổ quốc. Ở Sài Gòn ông viết báo, dạy tại các trường Trung học Huỳnh Khương Ninh, Nguyễn Văn Khuê, Việt Nam học đường... và chuyên tâm sáng tác văn học, được giới trí thức, văn nghệ tán thưởng. Ngày 30-6-1956 ông mất, hưởng dương 46 tuổi. Các tác phẩm chính của ông: - Tiếng tơ lòng (thơ, 1940) - Mây ngàn (1941, Sài Gòn) - Suối tình (1939, Sài Gòn) - Nhớ thương (1941, Sài Gòn) - Duyên phù sinh (1941) - Gió mưa xuân (1959) - Những cái bóng (1961) - Vang bóng thời xuân (1961) - Loạn li... (1962) Và các sách giáo khoa: - Exercices chimie et de physique - Vocabulaires appliqué (Sens étymologique des mots) Đọc ông nhà văn Phi Vân (tác giả tiểu thuyết Đồng quê) cho rằng: \"Bằng một lối văn gọn ghẽ, nhẹ nhàng, ông Vita diễn đạt được hết cả tư tưởng của ông rất bao quát mênh mông, trong sạch. Mỗi vật của ông đều có một linh hồn sống. Ái tình của ông tràn ngập hương thơm của tiết nghĩa, của thủy chung\" (báo Bút mới Sài Gòn)."
 }

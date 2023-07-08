@@ -1,17 +1,19 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Nhân Thìn 1892",
-  "hometown": "quê huyện Gio Linh, tỉnh Quảng Trị",
-  "occupation": "Danh sĩ, nhà ngoại giao cận đại",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "1380 Thăng Long, Đại Việt\n----------------------------------------------\nCanh Thân 1380",
+  "dateOfDeath" : "19 tháng 9, 1442\n----------------------------------------------\nNhâm Tuất 1442",
+  "hometown" : "Quê làng Nhị Khê, huyện Thượng Phúc, tỉnh Hà Đông (nay là thôn Nhị Khê, xã Quốc Tuấn, huyện Thượng Phúc, thuộc tỉnh Hà Tây)",
+  "occupation" : "Nhà chính trị, Nhà thơ, Nhà địa lý học, Nhà ngoại giao\n----------------------------------------------\nDanh sĩ, nhà văn hóa lớn",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "nhà Hồ" : null,
+    "Hậu Trần" : null,
+    "Thuộc Minh" : 33,
+    "Triều Lê Sơ" : 7
   },
-  "id": 822,
-  "entityName": "Trần Đình Túc",
-  "aliases": [],
-  "overview": "Năm Nhâm dần 1842, ông đỗ Hương tiến (cử nhân). Đời Thiệu Trị, ông làm đến chức Quản đạo Phú Yên. Đời Tự Đức, ông thăng Hồng lô tự khanh, trải qua các chức vụ Tán tương quân thứ ở Biên Hòa (Nam Kì), Biện lí bộ Hình, Doanh điền sứ Thừa Thiên - Quảng Trị, rồi được gia hàm Thị lang bộ Hộ (1865). Năm Mậu thìn 1868, ông nhận lệnh đi công tác ở Hương Cảng, khi về lãnh chức Tuần vũ Hà Nội, rồi đổi qua Hưng Hóa, sau đó làm Tán tương quân vụ Sơn Hưng Tuyên. Năm Quí dậu 1873, giặc Pháp đánh chiếm Hà Nội, Nam Định, Ninh Bình. Ông được cử làm Tổng đốc Hà Nội, cùng Tuần vũ Nguyễn Trọng Hợp và Án sát Trương Gia Hội đi thương nghị với Pháp. Sứ mạng hoàn thành, ông được phong thực thụ Tổng đốc. Ông xin về hưu nhiều lần nhưng không được. Năm 1882, giặc Pháp chiếm Hà Nội lần II, ông lại được cử làm Khâm sai đại thần lãnh Tổng đốc Hà Nội, giao thiệp với giặc Pháp. Sau đó, có biến ở Thuận An, ông lãnh chức Thượng thư bộ Lễ sung Toàn quyền Đại thần, đi dàn xếp mọi việc. Trước cuộc xâm lăng của giặc Pháp ông thuộc phe chủ hòa, chuyên làm công việc thương lượng, chấp nhận mọi yêu cầu của chúng. Năm Tân mão 1891, ông được phong Hiệp biện Đại học sĩ. Năm sau (Nhâm thìn 1892) ông mất tại quê nhà."
+  "id" : 822,
+  "entityName" : "Nguyễn Trãi",
+  "aliases" : [ "Ức Trai" ],
+  "overview" : "Nguyễn Trãi (chữ Hán: 阮廌, 1380 – 19 tháng 9 năm 1442), hiệu là Ức Trai (抑齋), là một nhà chính trị, nhà thơ dưới thời nhà Hồ và nhà Lê sơ Việt Nam. Thi đỗ Thái học sinh năm 1400, Nguyễn Trãi làm quan dưới triều Hồ, nhà Minh xâm lược, cha ông là Nguyễn Phi Khanh đầu hàng rồi bị bắt giải về Trung Quốc, Nguyễn Trãi đi theo. Đến ải Nam Quan,cha ông khuyên ông nên quay về để trả nợ nước,báo thù nhà, ông làm theo. Sau khi nước Đại Ngu rơi vào sự cai trị của nhà Minh, Nguyễn Trãi tham gia vào cuộc khởi nghĩa Lam Sơn do Lê Lợi lãnh đạo chống lại ách Minh thuộc. Ông trở thành mưu sĩ của nghĩa quân Lam Sơn trong việc bày tính mưu kế cũng như soạn thảo các văn thư ngoại giao với quân Minh.\n----------------------------------------------\nNăm Canh thìn 1400 ông đỗ Thái học sinh, đời nhà Hồ, lúc 20 tuổi. Làm Ngự sử đài chánh chưởng. Năm Đinh hợi 1407, nhà Minh sang cướp nước ta, cha ông bị chúng bắt giải về Kim Lăng, ông đi theo đến Nam Quan gặp cha. Cha ông khuyên ông hãy trở về lo việc báo thù cho cha, rửa hận cho nước, ông vâng lời nhưng khi trở về, ông bị chúng bắt giam lỏng ở phía Nam thành Đông Quan (Hà Nội). Năm Mậu tuất 1418 ông cùng Trần Nguyên Hãn trốn vào Lam Sơn, tham dự cuộc khởi nghĩa do Lê Lợi lãnh đạo. Suốt 10 năm kháng chiến cứu nước, ông đã ra tài về chiến lược quân sự, ngoại giao giúp cuộc kháng chiến thành công. Năm Đinh vị 1427 ông được liệt vào hàng Đại phu, coi sóc các việc chính trị và gồm coi việc ở Viện Khu mật. Năm sau (Mậu thân 1428) Lê Lợi lên ngôi, phong ông tước Quan Phục Hầu và cho theo họ vua, nên cũng gọi là Lê Trãi. Đến khi Lê Thái tổ mất, ông bị bọn nịnh thần gièm pha nên phải cáo quan, ẩn dật ở Côn Sơn, thuộc Chí Linh, tỉnh Hải Dương (nay vẫn thuộc Hải Dương). Năm Giáp dần 1434, Lê Thái tông lại triệu ông ra, tỏ vẻ tin dùng, ông đành trở lại triều đình lo việc chính trị, văn hóa. Nhưng không bao lâu Lê Thái tông đi duyệt binh ở Hải Dương, ngụ nơi Vườn Vải (Lệ Chi viên) của ông, rồi đột ngột bệnh mất tại đấy. Đám gian thần nhân đó ghép ông vào tội đã khiến nàng hầu Nguyễn Thị Lộ giết vua, rồi bắt ông giam vào ngục. Năm Nhâm tuất, ngày 16-8 Ất lịch (19-9-1442) ông bị giết với cả ba họ, thọ 62 tuổi. Sang đời Lê Thánh tông, nỗi oan của ông được giải, vua truy phong là Tế Văn Hầu, và các con cháu còn sót lại (Nguyễn Anh Võ, Tô Giám, Tô Kiên...) đều được trọng dụng. Tâm sự ông u uất, nghìn sau như còn thấy tiếng thở dài của ông trong bài thơ Oan ngục bằng chữ Hán và bài Tự Thán bằng Quốc âm: Chiếc thuyền lơ lửng bên sông, Biết đem tâm sự ngõ cùng ai hay. Chắc chi thiên hạ đời này, Mà đem non nước làm rầy chiêm bao. Đã buồn về trận mưa rào, Lại đau về nỗi ào ào gió đông. Mây trôi nước chảy xuôi dòng, Chiếc thuyền lơ lửng trên sông môt mình. Các tác phẩm của ông còn truyền tụng: - Bình Ngô đại cáo - Bài văn bia Vĩnh Lăng ỏ Lam Sơn - Quân trung từ mệnh tập - Ức Trai dư địa chí - Quốc âm thi tập - Ức Trai di tập - Ngọc Đường di cảo - Gia huấn ca Nay đền thờ ông vẫn còn rực rỡ ở quê hương. Hai câu đối của Phạm Quí Thích tán tụng công nghiệp ông: Sự nghiệp văn chương khai quốc thủ Kì thường đới lê cố gia thanh. Công tồn khai quốc Lam Sơn lục; Khánh điển truyền gia cố ấp từ. Các danh sĩ từ trước đến nay đều ca ngợi công nghiệp ông. Trong Khiếu Vịnh thi tập của Hà Nhậm Đại đời Hậu Lê có bài thơ quốc âm đề vịnh: Giấc mộng hai nơi khéo tỏ tường, Tới non sông gặp đức Cao hoàng. Hịch thư nhiều thuở tài mau mắn, Pháp độ trăm đường sức sửa sang. Công giúp hồng đồ cao tợ núi, Danh ghi thanh sử sáng bằng gương. Họa kia gây bởi văn hoàng lỗi, Xà nọ lời đâu chỉn lạ nhường."
 }

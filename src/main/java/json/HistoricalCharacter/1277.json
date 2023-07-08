@@ -1,24 +1,17 @@
 {
-  "dateOfBirth": "1783\n----------------------------------------------\nQuí Mão 1783\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath": "1802 (18–19 tuổi)\n----------------------------------------------\nNhâm Tuất 1802\n----------------------------------------------\nKhông rõ",
-  "hometown": "Bình Định\n----------------------------------------------\nKhông rõ",
-  "occupation": "Hoàng đế Đại Việt\n----------------------------------------------\nTức vua Cảnh Thịnh, con thứ vua Quang Trung, có tên là Trác, nên thường gọi là ông Hoàng Trác, mẹ là Phạm thị được phong là Chánh cung Hoàng hậu (trên Ngọc Hân một bậc). Vua Quang Trung rất yêu bà, khi bà chết, vua Quang Trung hết sức đau xót, được truy tặng là Nhân cung Đoan tĩnh Trinh thục Nhu Thuần Võ chánh Hoàng Hậu.\n----------------------------------------------\nVua",
-  "workTenure": "1792 – 1802\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1792—1802",
-  "fatherName": {
-    "Quang Trung": 1404
+  "dateOfBirth" : "Kỉ Dậu 1909",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "tại Huế (họ thật là Hồng - bị cải thành Cung vì cùng họ với Hồng Tú Toàn chống với nhà Thanh",
+  "occupation" : "Nhà văn viết tiếng Việt, Pháp, Anh, nhà tổ chức Hướng đạo Việt Nam",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "motherName": {
-    "Phạm Thị Liên hoặc Bùi Thị Nhạn": null
-  },
-  "eraName": {
-    "Nhà Tây Sơn": 21
-  },
-  "id": 1277,
-  "entityName": "Nguyễn Quang Toản",
-  "aliases": [
-    "Nguyễn Quang Toản (阮光纘)",
-    "Cảnh Thịnh (景盛: 1793 - 1801) Bảo Hưng (寶興: 1801 - 1802)",
-    "Hoàng Trác"
-  ],
-  "overview": "Nguyễn Quang Toản (chữ Hán: 阮光纘, 1783 – 1802) hay Cảnh Thịnh hoàng đế (景盛皇帝), là con trai thứ của vua Quang Trung (Nguyễn Huệ). Ông lên ngôi tháng 8 năm 1792 khi mới 9 tuổi, sau khi Nguyễn Huệ mất, năm sau đổi niên hiệu thành Cảnh Thịnh. Tháng 8 năm 1801 ông đổi niên hiệu thành Bảo Hưng. Nguyễn Quang Toản là Hoàng đế thứ hai của nhà Tây Sơn nhánh Nguyễn Huệ và cũng là vị hoàng đế cuối cùng của triều đại này.\n----------------------------------------------\nNăm Nhâm tí 1792 vua Quang Trung mất, ông nối ngôi làm vua, niên hiệu là Cảnh Thịnh, nên cũng gọi là vua Cảnh Thịnh. Sau khi thành Phú Xuân thất thủ, triều thần chạy ra Bắc, đổi năm hiệu là Bảo Hưng. Ông làm vua nhưng mọi việc đều ở trong tay Thái sư Bùi Đắc Tuyên quyết đoán cả, triều đình chia rẽ, các đại thần giết hại lẫn nhau. Vả lại, lúc đó quân của Nguyễn Ánh nhờ thế lực của nước ngoài trở nên khá mạnh, tiến chiếm Bình Định, rồi cả Phú Xuân cũng lọt vào tay Nguyễn Ánh. Cảnh Thịnh cùng triều thần chạy ra Bắc. Năm 1802 Nguyễn Ánh lại đánh ra Bắc. Chống cự không nổi, ông cùng triều thần chạy đến làng Phượng Nhơn thì bị quân của Nguyễn Ánh vây bắt, Nguyễn Quang Thùy, Nguyễn Quang Thiện tự tử, ông bị đóng cũi đem về Phú Xuân. Năm 1802 ông bị Gia Long trả thù bằng cách xử lăng trì tại Huế, ông ở ngôi được 10 năm, hưởng dương 19 tuổi.\n----------------------------------------------\nNguyễn Quang Toản (chữ Hán: 阮光纘, 1783 – 1802), là vị hoàng đế thứ 3 và cuối cùng của Vương triều Tây Sơn trong lịch sử Việt Nam. Ông là con trai của vua Quang Trung (Nguyễn Huệ), lên ngôi sau khi Nguyễn Huệ mất vào tháng 8 năm 1792 khi mới 10 tuổi. Trong thời gian trị vì, ông đã đặt 2 niên hiệu là Cảnh Thịnh và Bảo Hưng."
+  "id" : 1277,
+  "entityName" : "Cung Giũ Nguyên",
+  "aliases" : [ ],
+  "overview" : "Thân phụ Cung Giữ Nguyên là ông Cung Quang Bào, một đốc học. Thân mẫu bà Nguyễn Phước Thị Bút, trưởng nữ quận công Hồng Ngọc, và cháu nội ngài Nguyễn Phước Miền Lịch, An Thành Vương, con út vua Minh Mạng và có lần đã làm Nhiếp chánh Thân thần. Cung Giữ Nguyên học trung học tại trường Quốc học Huế những năm 1922- 1927. Đáng lẽ đi học trường Cao đẳng Mỹ thuật Hà Nội nhưng vì con trưởng một gia đình nghèo và đông con, ông phải từ bỏ mộng trở nên họa sĩ để kiếm kế sinh nhai. Năm 1928, được bổ làm trợ giáo tập sự tại trường Nam Tiểu học Nha Trang, nhưng đến đầu năm 1930 bị bãi chức; nghị định thải hồi của Khâm sứ Trung kì không nêu lí do nhưng có thể ước đoán là vì lí do chính trị. Năm 1948 trong bài thơ Le mot đăng trên tạp chí France-Asie, Sai gon, Cung Giũ Nguyên có nhắc đến biến cố này. Bùi Xuân Bào trong phần giới thiệu các nhà văn Việt Nam viết tiếng Pháp trong quyển Littératures de lague francaise hors de France, đã nhắc lại bài thơ ấy và xem 1930 là năm đánh dấu khúc quanh đời của tác giả. Cung Giữ Nguyên viết văn thuần thục ba thứ ngôn ngữ Việt, Anh, Pháp và từ đó ông cộng tác với nhiều báo chí trong nước và ngoài nước: Đông Pháp thời báo, Sài Gòn mới (Sài Gòn), Nam Phong (Hà Nội), L'Indochine Nouvelle (Sài Gòn), France-Annam, La Gazette de Huế, Tân Văn (Sài Gòn), Symposium (Syracuse), Book Abroad (Oklahoma, Hoa Kỳ), France-Asie (Sài Gòn)... Năm 1938-1940, cúng với Raoul Serène, sau này là Giám đốc Hải Học Viện Nha Trang - Đông Dương, chủ trương nguyệt san Les Cahiers de la Jeunesse ở Nha Trang. Năm 1939, chủ bút nguyệt san song ngữ Tương lai tạp chí, Nha Trang. Năm 1940-1942, chủ bút nhật báo Le Soi d'Asie, Sài Gòn. Từ năm 1954, chủ bút tuần báo La Presse D'Extrême-Orient, Sài Gòn. Ông trở lại nghề dạy học từ năm 1940. Từ năm 1955 đến 1975: Hiệu trưởng trường trung học đệ nhị cấp bán công Lê Quý Đôn, Nha Trang. Năm 1972-1975, Giáo sư thỉnh giảng Viện Đại học Cộng đồng Duyên Hải, Nha Trang, Trưởng phòng Pháp văn, phụ trách nội san Duyên Hải. Năm 1990-1999, Giáo sư thỉnh giảng (Ngôn ngữ và văn chương Pháp). Khoa Pháp văn, Trường Cao đẳng Sư phạm Nha Trang. Và tham gia nhiều công tác xã hội ở Nha Trang, Sài Gòn nhất là trong tổ chức thanh niên Hướng đạo Việt Nam và thế giới. Công tác xã hội: - Ủy viên Đạo trưởng Đạo Nam Hội Hướng Đạo Trung Kỳ, 1938-1944. - Phụ tá trại trường Gillwell, Thành viên ban Huấn Luyện trại trường Hướng Đạo thế giới, London, Anh quốc, 1957. Ủy viên Huấn luyện Hội Hướng đạo Việt Nam. Trại trưởng Việt Nam 1958-1963. - Năm 1972, Hội viên thiệt thọ Hội nhà văn tiếng Pháp, Associati ơn des Ecrivains de langue francaise (ADELF), Paris. Đã sống tại Anh, Pháp. Từng đi thăm một số nước Á châu: Hong Kong, Ấn Độ, Miến Điện, Thái Lan, Phi Luật Tân... Hiện nay (2004) ông đang sống tại Nha Trang. Tác phẩm của ông đã được nói đến trong khá nhiều báo chí, tài liệu văn học Việt Nam và nước ngoài. Tác phẩm Cung Gia Nguyên là một đóng góp lớn cho văn học Việt Nam."
 }

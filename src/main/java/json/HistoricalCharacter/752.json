@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê ở vùng Hồ Tây (Hà Nội)",
-  "occupation": "Danh thần đời Lý Nhân tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Lý": 14
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "1414\n----------------------------------------------\nQuí Tị 1413",
+  "hometown" : "Quê ông ở làng Ngọc Sơn, huyện Thanh Chương, tỉnh Nghệ An.\n----------------------------------------------\nquê làng Ngọc Sơn, tỉnh Nghệ An (nay là Nam Đàn, tỉnh Nghệ An)",
+  "occupation" : "Anh hùng liệt sĩ kháng Minh trong đời vua Trùng Quang",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Thuộc Minh" : 33,
+    "nhà Hậu Trần" : null
   },
-  "id": 752,
-  "entityName": "Mục Thận",
-  "aliases": [],
-  "overview": "Ông xuất thân làm nghề chài lưới, giỏi võ nghệ. Khoảng năm Bính tí 1096, nhờ công cứu vua Lý Nhân tông thoát khỏi sự mưu hại của Thái sư Lê VănThịnh tại Tây Hồ, nên ông được phong hàm Đô úy và được ban cho đất Dâm Đàm (vùng Tây Hồ) làm thực ấp. Khi ông mất dân chúng lập đền thờ. Đến đời Trần, ông còn được truy tặng là Thái úy, thụy là Trung Duệ, tước Võ Lượng Công. Vua Tự Đức đề vịnh: \"Yên ba cửu dĩ kí bình tung, Cự liệu quân vương giải cấu phùng. Võng lí vô ngư hoàn hữu hổ. Tây hồ hà loạn thiểu ngư long\" Bản dịch: Dấu bèo côi cút bấy lâu nay. Ai ngỡ quân vương gặp gỡ đây. Trong lưới cá không, nhưng có cọp Lo gì cá hiếm ở Hồ Tây."
+  "id" : 752,
+  "entityName" : "Nguyễn Cảnh Dị",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Cảnh Dị (chữ Hán: 阮景異, ? – 1414) là một trong những danh tướng của nhà Hậu Trần chống giặc nhà Minh. Quê ông ở làng Ngọc Sơn, huyện Thanh Chương, tỉnh Nghệ An.\n----------------------------------------------\nCha là Cảnh Chân theo Giản Định Đế làm Đồng Tri khu mật tham mưu quân sư, có công chống giặc Minh, nhưng lại bị vua Giản Định nghe gièm mà giết đi. Thù nhà nợ nước, ông bèn đem quân vào Thanh Hóa lập Trần Quí Khoách lên ngôi tức vua Trùng Quang, ông làm Thái bảo, dẫn quân tới Bình Than (huyện Chí Linh, tỉnh Hải Dương) chống nhau với tướng Minh là Trương Phụ dẫn đầu xâm lược. Năm Canh dần 1410, đạo quân của ông phá tan binh giặc do Đô đốc Minh là Giang Hạo chỉ huy tại Hạ Hồng (Ninh Giang), rồi thừa thắng xông lên. Truơng Phụ kéo quân đánh phá Nghệ An. Ông và Nguyễn Súy chống cự quyết liệt nơi Mô Độ (huyện Tam Điệp, tỉnh Ninh Bình). Thế yếu, tướng sĩ cùng quan quân bỏ Mô Độ chạy về đường biển. Cuối cùng Trương Phụ bắt được ông và Nguyễn Súy vào năm Quí tị 1413, giặc dụ hàng nhiều lần nhưng không khuất được ông, ông mắng Trương Phụ: \"Tao muốn giết mày, trở lại bị mày bắt, đành là một chết mà thôi!\" Trương Phụ giết rồi ăn gan ông."
 }

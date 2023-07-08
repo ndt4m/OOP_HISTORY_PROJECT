@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê tỉnh Hà Tĩnh",
-  "occupation": "Liệt sĩ, chiến sĩ phong trào Duy tân, Đông du năm 1908",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "Ất Mão 1915",
+  "dateOfDeath" : "Canh Tí 1960",
+  "hometown" : "tại làng Bảo An huyện Điện Bàn, tỉnh Quảng Nam",
+  "occupation" : "Nhà văn, Nhà báo, con nhà văn Phan Khôi",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 2410,
-  "entityName": "Trịnh Khắc Lập",
-  "aliases": [],
-  "overview": "Ông là học sinh trường ba (Tú tài) ở Hà Tĩnh, nhiệt tình tham gia cả 2 phong trào Đông du của Phan Bội Châu ở Nghệ Tĩnh và Duy Tân; đồng thời cũng là một chiến sĩ kiệt hiệt, xuất sắc thuộc tổ chức Triêu Dương ở Nghệ Tĩnh của Ngô Đức Kế. Năm 1908 phong trào Duy tân lên mạnh, các trường học chữ Quốc ngữ, hội buôn phát triển khắp miền Trung nhất là cuộc biểu tình đòi giảm sưu bớt thuế lan mạnh khắp các tỉnh. Tại Hà Tĩnh, ông cùng Nguyễn Hàng Chi (1885-1908) từng đi vận động đưa đơn khiếu tố và dẫn đầu đoàn biểu tình ở Hà Tĩnh. Ông bị Án sát Cao Ngọc Lễ kết tội với bản án rất nặng gọi là \"tội khôi\" (tội đứng đầu) nên bị chém ngay tại quê nhà. Chí sĩ Huỳnh Thúc Kháng có câu đối khóc ông: Bản dịch: Ai cũng như tiên sinh, dẫu sưu thuế là vấn đề to lớn ngày nay, cọp nuốt rồng nhai, cổ muốn xuống cũng không thể xuống Xưa gọi bằng liệt sĩ, biết máu sắt là kết quả tốt đẹp mai hậu, chấu kình ếch giận, đầu có còn cũng không cần còn."
+  "id" : 2410,
+  "entityName" : "Phan Thao",
+  "aliases" : [ ],
+  "overview" : "Ông nhiệt thành yêu nước, tham gia cách mạng từ lúc còn trẻ tuổi, tích cực đóng góp trong hai cuộc kháng chiến cứu nước. Ông viết báo, nghiên cứu văn hóa dân tộc. Năm 1946 ông đắc cử Đại biểu Quốc hội đơn vị Quảng Nam. Ông là người đầu tiên dịch tác phẩm \"Người mẹ\" của Maxime Gorki ra tiếng Việt được hầu hết bạn đọc tán thưởng. Năm Canh tí 1960, ngày 5-8 Dương lịch ông mất tại Hà Nội, hưởng dương 45 tuổi."
 }

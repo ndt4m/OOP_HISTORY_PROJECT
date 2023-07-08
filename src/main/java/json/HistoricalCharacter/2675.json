@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Vua",
-  "workTenure": "?–?",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Hồng Bàng": 17
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Vua",
+  "workTenure" : "?–258 TCN hoặc 208 TCN",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Hồng Bàng" : 17
   },
-  "id": 2675,
-  "entityName": "Hùng Vương thứ sáu",
-  "aliases": [],
-  "overview": "Hùng Vương thứ VI là một vị vua truyền thuyết của nước Văn Lang trong lịch sử Việt Nam. Tương truyền ông là người đã lãnh đạo người dân Văn Lang chống lại sự tấn công của quân xâm lược Ân."
+  "id" : 2675,
+  "entityName" : "Hùng Vương thứ 18",
+  "aliases" : [ ],
+  "overview" : "Hùng Vương thứ XVIII (~334 - 258 TCN) còn gọi Hùng Duệ Vương, là một vị vua truyền thuyết của nước Văn Lang trong lịch sử Việt Nam và là vị Hùng Vương cuối cùng. Tương truyền Hùng Vương thứ XVIII có hai con rể là Chử Đồng Tử và Sơn Tinh."
 }

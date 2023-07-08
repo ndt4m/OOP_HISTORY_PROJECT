@@ -1,19 +1,18 @@
 {
-  "dateOfBirth": "Quí Sửu 1913",
-  "dateOfDeath": "Đinh Mão 1987",
-  "hometown": "Quê xã Nam Vân, TP",
-  "occupation": "Tướng lãnh ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "12 tháng 3, 898 Đường Lâm\n----------------------------------------------\nKỉ Dậu 899",
+  "dateOfDeath" : "18 tháng 1, 944 (45 tuổi) Tĩnh Hải quân\n----------------------------------------------\nGiáp Thân 944",
+  "hometown" : "quê ở Đường Lâm, huyện Phúc Lộc, châu Giao (nay thuộc tỉnh Hà Tây)",
+  "occupation" : "Ngô Vương\n----------------------------------------------\nDanh tuớng, vua người dựng lên nghiệp nhà Ngô",
+  "workTenure" : "939 – 944\n----------------------------------------------\nKhông rõ",
+  "fatherName" : {
+    "Ngô Mân" : null
   },
-  "id": 2369,
-  "entityName": "Phan Đình Dinh",
-  "aliases": [
-    "Đinh Đức Thiện"
-  ],
-  "overview": "Ông tham gia cách mạng từ năm 1930, năm 1950 vào quân ngũ; từng bị Pháp bắt giam hai lần (1930, 1940). Sau khi ra tù tiếp tục hoạt động, giữ các chức vụ Bí thư tỉnh ủy Vĩnh Yên... đến Thứ trưởng Bộ Quốc phòng, Thứ trưởng Bộ công nghiệp, ủy viên Quân ủy trung ương. Bộ trưởng Bộ cơ khí luyện kim, Bộ trưởng Dầu khí, Phó tư lệnh chiến dịch Hồ Chí Minh, rồi Bộ trưởng Bộ Giao thông Vận tải. Ông được Đảng và Nhà nước tặng nhiều huân chương cao quí, trong đó có Huân chương Hồ Chí Minh và quân công hạng nhất."
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Ngô" : 25
+  },
+  "id" : 2369,
+  "entityName" : "Ngô Quyền",
+  "aliases" : [ "Ngô Quyền (吳權)" ],
+  "overview" : "Ngô Quyền (chữ Hán: 吳權, 897 - 944), còn được biết đến với tên gọi Tiền Ngô Vương (前吳王), là vị vua đầu tiên của nhà Ngô trong lịch sử Việt Nam. Năm 938, ông là người lãnh đạo nhân dân đánh bại quân Nam Hán trong trận Bạch Đằng nổi tiếng, chính thức kết thúc gần một thiên niên kỉ Bắc thuộc, mở ra một thời kì độc lập lâu dài của Việt Nam. Sau chiến thắng này, ông lên ngôi vua, trị vì từ năm 939 đến năm 944.\n----------------------------------------------\nÔng là vị tướng tài, được chủ tướng là Dương Diên Nghệ gả con gái là Dương Thị Như Ngọc cho. Ông cùng cha vợ đánh bại quân Nam Hán xâm lược lần thứ nhất (930-931), rồi được cha vợ ủy quyền trông coi châu Ái (Thanh Hóa). Năm Đinh dậu 937, Kiều Công Tiễn phản bội, giết chết Dương Diên Nghệ, rồi cấu kết với quân Nam Hán. Ông dấy binh giết được Công Tiễn, dẹp tan quân Nam Hán do Hoằng Thao kéo sang xâm lược lần thứ hai trên sông Bạch Đằng. Năm Kỉ hợi 939, ông xưng vương, mở nền độc lập tự chủ cho dân nước, đến Giáp thìn 944, ông mất hưởng dương 45 tuổi, trị nước được 5 năm. Sau khi ông mất, anh vợ là Dương Tam Kha phụ lời ủy thác của ông, cướp quyền con ông là Ngô Xương Văn, gây nên nội biến."
 }

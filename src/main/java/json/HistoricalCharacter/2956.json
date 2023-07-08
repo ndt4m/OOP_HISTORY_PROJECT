@@ -1,20 +1,14 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Xử sĩ cuối đời Trần, sách Nhân vật chí vựng biên chép là Bùi Mộng Ba",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Trần": 15,
-    "Hậu Trần": null,
-    "Nhà Hồ": 9
-  },
-  "id": 2956,
-  "entityName": "Bùi Mộng Hoa",
-  "aliases": [
-    "Bùi Mộng Ba"
-  ],
-  "overview": "Khi chúa Chiêm Thành Chế Bổng Nga đem quân xâm lược nước ta, quan trấn Quảng Oai Lê Bật ôn ra chống cự bị chết trận, Trần Nghệ tông quyết định chạy ra Đông Ngạn để tránh giặc, Bùi Mộng Hoa bèn để cả triều phục lội xuống nước níu thuyền ngự lại, xin nhà vua đừng bỏ đi, hãy cứ bình tĩnh ở lại liệu cách cứu nước, nhưng vua không nghe. Mùa hạ đại hạn, Thượng hoàng Trần Nghệ tông xuống chiếu cầu có người nói thẳng việc triều chính thuở ấy. Ông dâng thư có câu: \"Thần nghe các trẻ con hát rằng: Thâm tai Lê sư, tất nhiên thái sư Lê Quí Ly có dị chí\". Thượng hoàng đem lời ấy bảo cho Quí Ly biết. Ông đành ẩn thân. Tuy nhiên, khi Quí Ly chuyên chính, vẫn có ý muốn dùng ông, hằng cho người vời đến, nhưng ông giả cách nghễnh ngãng mà từ chối. Khi quân Minh xâm lược nước ta, ông thường dự bàn mưu lược, khuyến khích các nghĩa sĩ nhà Hậu Trần hi sinh cứu nước. Đến khi việc lớn không thành, ông lánh mình vào chốn núi sâu. Đức độ ông cao khiết, do đó ông cùng với Chu Vân An, Đặng Tảo, Trương Đỗ, Trần Đinh Thâm được nhân dân xưng tặng vào hàng cao sĩ."
+  "dateOfBirth" : "Khoảng đầu thế kỷ 15 Chương Đức, Sơn Nam, Đại Việt",
+  "dateOfDeath" : "không rõ Đại Việt",
+  "hometown" : "Không rõ",
+  "occupation" : "Sử gia",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 2956,
+  "entityName" : "Ngô Sỹ Liên",
+  "aliases" : [ ],
+  "overview" : "Ngô Sĩ Liên (chữ Hán: 吳士連) (khoảng đầu thế kỷ 15 - ?) là một nhà sử học thời Lê sơ, sống vào thế kỷ 15. Ông là người đã tham gia khởi nghĩa Lam Sơn và có công lớn trong việc biên soạn bộ Đại Việt sử ký toàn thư - bộ quốc sử chính thống cũ nhất của Việt Nam mà còn được lưu truyền tới ngày nay."
 }

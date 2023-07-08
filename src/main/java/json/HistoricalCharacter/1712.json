@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "1882 Thôn Song Khê, Song Khê, TP Bắc Giang, T Bắc Giang\n----------------------------------------------\nTân Tị 1881",
-  "dateOfDeath": "11/02/1930 - Lâm Thao, Phú Thọ\n----------------------------------------------\nCanh Ngọ 1930",
-  "hometown": "quê làng Song Khê, tỉnh Bắc Ninh",
-  "occupation": "Liệt sĩ cận đại, nhân vật trụ cột của Việt Nam Quốc Dân đảng",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Liệt sĩ kháng Pháp cận đại, học trò của Thái Vĩnh Chinh",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 1712,
-  "entityName": "Nguyễn Khắc Nhu",
-  "aliases": [
-    "Xứ Nhu",
-    "Song Khê"
-  ],
-  "overview": "Nguyễn Khắc Nhu (1882–1930) là một chí sĩ yêu nước Việt Nam thời cận đại. Ông là một trong những cột trụ của Việt Nam Quốc dân đảng thời kỳ trước 1930.\n----------------------------------------------\nÔng xuất thân trong một gia đình Nho học, thuở nhỏ theo học khoa cử, năm 1912, thi đứng đầu tỉnh nên đương thời gọi là Đầu Xứ Nhu gọi tắt là Xứ Nhu. Nhiều lần đi thi Hương không đậu, từ đó ông không về quê, rồi trốn sang Trung Quốc, tham gia vào cuộc vận động cứu nước. Năm 1927, ông về nước cùng với các đồng chí tổ chức nhiều cuộc tập kích các đồn giặc ở Bắc Ninh, Đáp Cầu, Phả Lại... Khi Việt Nam Quốc Dân đảng thành lập, ông được mời tham gia, rồi được bầu làm Trưởng ban lập pháp. Đến năm 1929, nhân vụ ám sát cáo già thực dân Bazin, đảng vỡ lỡ, ông và Nguyễn Thái Học trốn thoát rút lui vào hoạt động bí mật. Sau đó \"Hội đồng đề hình\" kết án vắng mặt ông 10 năm cấm cố. Năm 1930, ông được phân công trực tiếp lãnh đạo khởi nghĩa ở Lâm Thao, Hưng Hóa, Việt Trì. Cuộc khởi nghĩa thất bại vì các lực lượng ở các nơi không cùng bộc phát một lúc nên địch có điều kiện phản công. Trước sức đánh trả của giặc Pháp ở Hưng Hóa, ông bị trúng đạn, nhưng vẫn tìm đường trốn thoát. Giữa đường ông dùng lựu đạn tự tử nhưng không chết. Ông bị giặc bắt, trên đường giải về trại giam ông nhảy xuống sông tự trầm, nhưng lại bị chúng vớt lên, giặc đem ông về giam tại Hưng Hóa. Tại đây, ông đập đầu vào tường nhà giam chết, nhằm ngày 11-2-1930, hưởng dương 49 tuổi. Cảm vì cái chết oanh liệt ấy, một đồng chí của ông có câu đối, điếu ông: \"Vị dân quyên sinh, vị quốc quyên sinh, vị đảng nghĩa quyên sinh, thệ bất câu vinh đối thù tặc; Kì danh bất tử, kì tâm bất tử, kì tinh thần bất tử, quyết đương nhất tử khích đồng bào\". Nghĩa: Quyên sinh vì dân, vì nước, vì chủ nghĩa thề không cùng sống với quân giặc. Bất tử là danh, là tâm, là tinh thần quyết đem cái chết khích đồng bào."
+  "id" : 1712,
+  "entityName" : "Lê Khoan Hoằng",
+  "aliases" : [ "Chánh Thiệu" ],
+  "overview" : "Ông nhiệt tình yêu nước. Giặc Pháp cướp nước, ông cùng thầy học Thái Vĩnh Chinh và Nguyễn Năng Định lãnh đạo nghĩa quân kháng chiến ở vùng Nghệ Tĩnh. Khi đó ông được vua Hàm Nghi phong hàm Lãnh binh kiêm Chánh kiêm huyện trị Hương Sơn thuộc Hà Tĩnh. Ông dũng cảm chiến đấu, hi sinh ở chiến trường, được các sĩ phu quí trọng và toàn dân thương tiếc."
 }

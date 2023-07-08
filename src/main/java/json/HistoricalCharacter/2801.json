@@ -1,18 +1,19 @@
 {
-  "dateOfBirth": "Nhâm Tuất 1922",
-  "dateOfDeath": "Mậu Dần 1998",
-  "hometown": "tại Hà Nội, sinh sống và làm việc tại Sài Gòn",
-  "occupation": "Nhạc sĩ ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Thuộc hạ của Mạc Thiên Tích ở trấn Hà Tiên, tác giả, không rõ năm sinh năm mất, còn có tên khác nữa là Vi",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "Mạc Thiên Tích tại thời điểm ra đời của cuốn gia phả này" : null
   },
-  "id": 2801,
-  "entityName": "Hoàng Văn Hương",
-  "aliases": [
-    "Hùng Lân"
-  ],
-  "overview": "Tuổi trẻ học tại Hà Nội, từng sáng tác nhạc từ trước những năm 1944 được đông đảo khán thính giả mến mộ qua các sáng tác của ông. Trong những năm chiến tranh ông sống ở Hà Nội và Sài Gòn, nhiều năm phụ trách công tác phát thanh Học đường thuộc Bộ Giáo dục Sài Gòn, Đoàn trưởng Nhạc đoàn Công giáo. Từng được giải thưởng về sách giáo khoa âm nhạc của Bộ giáo dục và Hội khuyến nhạc. Các tác phẩm: - Nhạc hòa âm và nhạc đơn điệu (tiểu luận 1963). - Cung sách (tiểu luận các cung nhạc, 1964). - Tìm hiểu nhạc ngữ Việt Nam - Nhạc pháp thẩm mĩ - Học âm nhạc bằng dân ca Các nhạc phẩm: - Việt Nam minh châu (1944) - Rạng đông (1944) - Khỏe vì nước (1945) - Tiếng gọi lên đuờng (1945) - Cô gái Việt (1948) - Ca xuân hẹn ước (l.955) - Mùa xuân hợp tấu (1955) - Xóm nghèo (1958) cùng nhiều nhạc phẩm phục vụ học sinh."
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34,
+    "Nam - Bắc Triều" : 19
+  },
+  "id" : 2801,
+  "entityName" : "Võ Thế Dinh",
+  "aliases" : [ "Vũ Thế Dinh" ],
+  "overview" : "Hà Tiên trấn Hiệp trấn Mạc thị gia phả (nguyên tác bằng Hán văn: 河僊鎮協鎮鄚氏家譜; nghĩa là \"gia phả của dòng họ Mạc của quan Hiệp trấn trấn Hà Tiên\") hay gọi ngắn gọn là Mạc thị gia phả (鄚氏家譜), là một bộ gia phả về dòng họ Mạc ở Nam bộ do Vũ Thế Dinh (武世營), con nuôi của Mạc Thiên Tích biên soạn. Đây được coi là một bộ gia phả cổ nhất của miền đất Nam bộ Việt Nam. Hiệp trấn là chức quan của Mạc Công Du, con trai của Mạc Thiên Tích tại thời điểm ra đời của cuốn gia phả này.\n----------------------------------------------\nÔng có tài văn thơ, chính trị, lại được gần với nhóm danh sĩ Chiêu Anh Các thời ấy nên ông được họ Mạc trọng dụng và được chúa Nguyễn phong thưởng, từng làm Cai đội trấn Hà Tiên, tước Dinh Đức Hầu. Ông là tác giả sách: Mạc thị gia phả cũng gọi là Hà Tiên Hiệp trấn Mạc thị gia phả."
 }

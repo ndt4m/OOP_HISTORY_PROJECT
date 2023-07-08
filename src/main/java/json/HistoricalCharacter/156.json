@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 156,
-  "entityName": "Phạm Sư Ôn",
-  "aliases": [],
-  "overview": "Phạm Sư Ôn (chữ Hán: 范師温) là nhà sư nổi tiếng của đất Quốc Oai (Hà Nội). Sư chuẩn bị khởi nghĩa vào năm 1390."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Bính Tuất 1946",
+  "hometown" : "quê quán, trước thế chiến II ông học tập và làm việc ở Hà Nội",
+  "occupation" : "Nhà văn nhà nghiên cứu",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
+  },
+  "id" : 156,
+  "entityName" : "Lương Đức Thiệp",
+  "aliases" : [ ],
+  "overview" : "Ông là thành viên của nhóm văn học Hàn Thuyên và tạp chí Văn Mới (gồm các ông: Nguyễn Xuân Tái - giám đốc, Trường Tửu - giám đốc văn chương, Nguyễn Đức Quỳnh, Lê Văn Siêu, Đặng Thai Mai, Nguyễn Hải âu, Phạm Ngọc Khuê...) Từng cộng tác với các báo Tri Tân, Tao Đàn, Thanh Nghị, Văn Mới... đóng góp nhiều chuyên đề về văn học Việt Nam, nhất là xã hội học Việt Nam từ cổ đại đến hiện đại. Ngòi bút Lương Đức Thiệp mỗi khi đề cập đến các vấn đề, tác giả đứng trên quan điểm duy vật biện chứng nhưng không máy móc, khô cứng như các tác giả cùng nhóm (Trương Tửu, Nguyễn Đức Quỳnh). - Cuốn Xã hội Việt Nam ( Văn Mới xuất bản 1943, Liên hiệp xuất bản cục tái bản, Sài Gòn, 1950) là một chuyên đề không những về xã hội học mà tác giả còn phóng ngòi bút của mình về các vấn đề có liên quan đến văn minh sử Việt Nam một cách tổng quát mà vẫn đào sâu được các chi tiết khác - Việt Nam thi ca luận (Khê Văn xuất bản 1942) là một khảo luận văn chương, hay chính xác hơn là một chuyên đề thi ca Việt Nam từ Cổ đại đến hiện đại. Ở cuốn này tác giả không thể đứng trên cái nhìn biện chứng mà khảo luận về thơ ca mà dựa vào tính dân tộc để hiểu thơ ca Việt. - Việt Nam tiến hóa sử (Văn Mới, 1943) ở cuốn này tác giả xét lịch sử tiến hóa của sử Việt Nam qua nhãn quan duy vật biện chứng để hiểu lịch sử dân tộc. Ông là một nhà nghiên cứu xã hội học nghiêm cẩn một cách đặc thù."
 }

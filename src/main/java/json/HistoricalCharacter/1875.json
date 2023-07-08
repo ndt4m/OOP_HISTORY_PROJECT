@@ -1,14 +1,14 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "người làng Man Nhuế, huyện Thanh Lâm, thừa tuyên Hải Dương (nay thuộc thôn Mạn Nhuế, thị trấn Nam Sách (xã Thanh Lâm cũ), huyện Nam Sách, tỉnh Hải Dương).",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 1875,
-  "entityName": "Vũ Dương",
-  "aliases": [],
-  "overview": "Vũ Dương (chữ Hán: 武暘, ? - ?), có sách chép là Vũ Tích, người làng Man Nhuế, huyện Thanh Lâm, thừa tuyên Hải Dương (nay thuộc thôn Mạn Nhuế, thị trấn Nam Sách (xã Thanh Lâm cũ), huyện Nam Sách, tỉnh Hải Dương). Đỗ Trạng nguyên khoa Quý Sửu, niên hiệu Hồng Đức thứ 24 (1493) . Làm quan đến Hàn lâm Thị thư, đi sứ Trung Quốc, được thăng chức thượng thư bộ Công và được phong tước Hầu. Ông có tham gia nhóm Tao đàn Nhị thập bát Tú của Lê Thánh Tông ."
+  "dateOfBirth" : "01 tháng 1, 1927 Thanh Chương, tỉnh Nghệ An",
+  "dateOfDeath" : "16 tháng 1, 1995 (68 tuổi)",
+  "hometown" : "quê ông ở huyện Thanh Chương, tỉnh Nghệ An.",
+  "occupation" : "nhà văn, nhà nghiên cứu",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 1875,
+  "entityName" : "Trần Đình Hượu",
+  "aliases" : [ ],
+  "overview" : "Trần Đình Hượu (sinh ngày 1 tháng 1 năm 1927- 16 tháng 1 năm 1995) là Giáo sư- Tiến sĩ, nhà nghiên cứu về văn học và nho giáo trong văn học Việt Nam và lịch sử tư tưởng, quê ông ở huyện Thanh Chương, tỉnh Nghệ An."
 }

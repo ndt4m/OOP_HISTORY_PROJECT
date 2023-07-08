@@ -1,17 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê làng Hội Xuyên, huyện Gia Lộc, tỉnh Hải Dương, không rõ năm sinh, năm mất, tước Nghĩa Xuyên Công",
-  "occupation": "Danh tướng đời Trần, quê làng Hội Xuyên, huyện Gia Lộc, tỉnh Hải Dương",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Trần": 15,
-    "nhà Trần": null
+  "dateOfBirth" : "Bính Thìn 1916",
+  "dateOfDeath" : "Ất Sửu 1985",
+  "hometown" : "tại vạn Gò Bồi, xã Tùng Giàn, huyện Tuy Phước, tỉnh Bình Định, gốc người làng Trảo Nha, huyện Can Lộc, tỉnh Hà Tĩnh, tốt nghiệp tú tài",
+  "occupation" : "Nhà thơ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 707,
-  "entityName": "Nguyễn Chế Nghĩa",
-  "aliases": [],
-  "overview": "Nguyễn Chế Nghĩa (阮制義, ?-?) là một tướng lĩnh thời nhà Trần.\n----------------------------------------------\nThuở trẻ ông đầu quân dưới trướng Phạm Ngũ Lão, đánh thắng quân Nguyên ở ải Chi Lăng khiến quân giặc phải khiếp sợ. Sau khi thắng quân Nguyên, ông được triều đình cho trấn thủ đất Lạng Sơn (nay huộc tỉnh Lạng Sơn) với chức Khống Bắc đại tướng quân, tước Nghĩa Xuyên hầu. Sự tích ông được chép trong Trần triều hiển thánh chính kinh tập biên."
+  "id" : 707,
+  "entityName" : "Ngô Xuân Diệu",
+  "aliases" : [ "Xuân Diệu" ],
+  "overview" : "Từng làm việc ở Sở Thương chánh, lại say mê văn chương, làm thơ viết văn đăng trên các báo ở Hà Nội. Cách mạng tháng Tám thành công, ông tham gia cách mạng, trải qua các chức vụ: Đại biểu Quốc hội khóa I (1946- 1960), ủy viên ủy ban Trung ương liên hiệp văn học nghệ thuật, ủy viên Ban chấp hành Hội hữu nghị Việt - Xô, Viện sĩ thông tấn Viện Hàn lâm Khoa học Cộng hòa Dân chủ Đức (Đông Đức). Tận tụy với mọi nhiệm vụ, ông được tưởng thưởng Huân chương kháng chiến hạng nhất, Huân chương kháng chiến chống Mĩ cứu nước hạng nhất. Gần đây được tặng Giải thưởng Hồ Chí Minh. Ngày 18-12-1985 ông mất, thọ 69 tuổi. Các tác phẩm chính của ông: - Phấn thông vàng - Thơ thơ - Gửi hương cho gió - Mài sắt nên kim - Thơ văn Nguyễn Khuyến - Hồ Xuân Hương - Thơ và từ Đào Tấn..."
 }

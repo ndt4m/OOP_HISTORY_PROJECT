@@ -1,17 +1,19 @@
 {
-  "dateOfBirth": "…",
-  "dateOfDeath": "Bính Thân 1956",
-  "hometown": "quê làng Chắc Cà Đao, huyện Châu Thành, tỉnh Long Xuyên (nay thuộc tỉnh An Giang), không rõ năm sinh",
-  "occupation": "Thủ lĩnh quân đội giáo phái Hòa Hảo, tục danh là Ba Cụt (vì cụt ngón tay), chỉ huy một cánh quân Hòa Hảo ở Long Xuyên, quê làng Chắc Cà Đao, huyện Châu Thành, tỉnh Long Xuyên ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Nhâm Ngọ 1882",
+  "dateOfDeath" : "Tân Mão 1951",
+  "hometown" : "tại Huế",
+  "occupation" : "Nhà thơ, nhà hoạt động chống Pháp",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "Hàm Hóa Hương Công" : null
   },
-  "id": 840,
-  "entityName": "Lê Quang Vinh",
-  "aliases": [],
-  "overview": "Thuở nhỏ học ở Long Xuyên, nhưng năm 1944-1945 tham gia lực lượng võ trang của giáo phái Hòa Hảo ở Châu Đốc. Năm 1945 có chân trong lực lượng kháng chiến chống Pháp, năm 1947 cùng với các tướng khác của Hòa Hảo như Lâm Thành Nguyên, Nguyễn Giác Ngộ, Trần Văn Soái mỗi người hùng cứ một phương tại các tỉnh Châu Đốc, Long Xuyên, Cần Thơ, Vĩnh Long... Sau năm 1954 các phe nhóm trên cùng với lực lượng các giáo phái Cao Đài, Hòa Hảo, Bình Xuyên liên kết nhau chống Ngô Đình Diệm, Ba Cụt hùng cứ một vùng đất giáp ranh 2 tỉnh Long Xuyên và Châu Đốc. Ngô Đình Diệm nhiều lần phái quân đội đến tiễu trừ nhưng vẫn không thanh toán được. Sau Ngô Đình Diệm âm mưu \"thương thuyết\", chấp thuận cho Ba Cụt về cộng tác với chính quyền (do Nguyễn Ngọc Thơ làm trung gian), nhưng vào phút cuối, Ngô Đình Diệm trở mặt, bắt cóc ông rồi đưa ra tòa xử tử hình với tội \"phản loạn\". Ba Cụt bị bắt ngày 13-4-1956 tại Chắc Cà Đao, Long Xuyên, rồi đến ngày 13 tháng 7 cùng năm ông bị xử chém tại Cần Thơ."
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
+  },
+  "id" : 840,
+  "entityName" : "Nguyễn Phúc Cường Để",
+  "aliases" : [ "Cường Để" ],
+  "overview" : "Tháng Giêng năm 1906, ông được các đồng chí của Phan Bội Châu đưa sang Nhật vào học trường Chấn Võ lục quân (cùng với Nguyễn Thức Canh, Lương Ngọc Quyến...) rồi trường Đại học Waseda. ở đây ông lấy tên Trung Quốc là Lý Cánh Thành. Năm 1908, nhân trong nước phong trào Duy tân phát triển mạnh, mà đỉnh cao là các cuộc biểu tình chống thuế và vụ đầu độc ở Hà Nội, thực dân khủng bố trắng, chúng cấu kết với Nhật, xúi Nhật trục xuất tất cả du học sinh Việt Nam tại Nhật Bản, trong đó có ông và Phan Bội Châu. Tháng 11 năm 1908, ông sang Xiêm (Thái Lan), rồi về Hương Cảng, Nhật Bản, Trung Quốc. Khoảng năm 1912 ông về Nam Kì liên lạc với các nhóm chống Pháp, sau đó sang châu Âu. Cuối cùng về định cư và lập gia đình tại Tokyo. Ông mất vào ngày 5-4-1951 tại Tokyo, hưởng thọ 69 tuổi. Năm 1957, hài cốt ông được về cải táng ở Huế. Trong thời gian lưu vong ở nước ngoài, ông có sáng tác một số thơ văn nay còn truyền tụng như - Khuyến cáo quốc dân văn (1905) - Phổ cáo lục tỉnh văn (1907) Khuyến cáo quốc dân văn: là tác phẩm ông viết ở Nhật Bản gởi về nước kêu gọi đồng bào hưởng ứng phong trào Đông du. Sau đây là trích vài đoạn: Nước mất tám mươi năm rồi đó Quốc dân ta có nhớ hay không? Kìa xem các nước Á đông, Miên, Phi đều đã thoát vòng Mĩ, Anh. Chỉ còn có một mình ta đó, Vẫn để cho Pháp nó đè đầu. (…) Hỡi hai lăm triệu đồng bào Chuyện ta, ta phải tính sao bây giờ! Chàng lẽ cứ ngồi chờ đến chết, Giương mắt trông của hết, dân cùng. Bảo nhau phải hết một lòng, Phen này ta quyết chẳng dong quân thù. Ông cha trước bình Ngô, sát Thát, Nòi giống mình hèn nhát chi đâu? Sao ta lại chịu cúi đầu Làm tôi tớ Pháp như trâu như bò (...) Đã hay thành sự tại trời Gắng công cũng phải tại người mới nên. Vậy nay có lời khuyên thành thực Xin quốc dân hợp sức đồng lòng. Người xuất của, kẻ xuất công, Người ngoài vận động, người trong thực hành. Sẽ có kẻ giúp mình thêm nữa Việc phen này nếu sợ không xong. Cốt sao ta phải hết lòng, Thành công sẽ chỉ trong vòng năm nay."
 }

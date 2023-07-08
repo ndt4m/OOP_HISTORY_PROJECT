@@ -1,21 +1,18 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê xã Đông Ngạn, phủ Từ Sơn, tỉnh Bắc Ninh",
-  "occupation": "Xử sĩ đời T",
-  "workTenure": "Không rõ",
-  "fatherName": {
-    "Châu Doãn Lệ đời Lê Hiến tông": null
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Vua",
+  "workTenure" : "1592–1593",
+  "fatherName" : {
+    "Mạc Kính Điển" : 2385
   },
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "motherName" : { },
+  "eraName" : {
+    "Bắc triều – Nhà Mạc  và thời kỳ Cao Bằng" : null
   },
-  "id": 653,
-  "entityName": "Châu Doãn Trí",
-  "aliases": [
-    "Viễn Phu",
-    "Tạ Hiên"
-  ],
-  "overview": "Ông có tài đức có tiết tháo không vọng cầu danh lợi, lại rất giỏi y học. Canh tí 1840, Nguyễn Đăng Giai tiến cử ông về hàng ẩn sĩ; Nhà vua khiến cấp lộ phí cho ông vào kinh, đề bổ sung quan chức. Ông viện lấy bệnh già xin từ tạ. Vua Thiệu Trị khen ông có phong thái xử sĩ, không muốn ép uổng, bèn ban cho rượu hồng hoa dương tử."
+  "id" : 653,
+  "entityName" : "Mạc Mẫn Tông",
+  "aliases" : [ ],
+  "overview" : "Mạc Kính Chỉ (chữ Hán: 莫敬止 ? - 1593) là vua nhà Mạc thời hậu kỳ, sau khi quân Nam triều chiếm được thành Thăng Long với cái chết của cha con Mạc Mục Tông (Mạc Mậu Hợp) và Mạc Cảnh Tông (Mạc Toàn). Nguyên quán Mạc Kính Chỉ là người xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách, tỉnh Hải Dương)."
 }

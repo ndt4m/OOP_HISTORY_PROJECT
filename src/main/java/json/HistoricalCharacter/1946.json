@@ -1,20 +1,16 @@
 {
-  "dateOfBirth": "Canh Thân 1920",
-  "dateOfDeath": "Mậu Thìn 1988",
-  "hometown": "tại làng Phước Lễ, tỉnh Bà Rịa (nay thuộc tỉnh Bà Rịa - Vũng Tàu), mất ngày 17 tháng 05 năm 1988 tại TP",
-  "occupation": "Nhà văn ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Bính Ngọ 1786",
+  "hometown" : "Quê làng Trảo Nha, huyện Thạch Hà, tỉnh Hà Tĩnh",
+  "occupation" : "Danh tướng đời Lê Hiển tông, Dòng dõi danh tướng Ngô Cảnh Hựu đời Lê Trang tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
   },
-  "id": 1946,
-  "entityName": "Nguyễn Bảo Hóa",
-  "aliases": [
-    "Tô Nguyệt Đình",
-    "Tiêu Kim Thủy"
-  ],
-  "overview": "Thuở nhỏ học tại Bà Rịa, Sài Gòn, đậu bằng Thanh Chung (tương đương tốt nghiệp cấp II bây giờ), ông về quê mở cửa hàng bán sách bán ở Bà Rịa, vừa làm thông tín viên cho các báo Tin tức, Tiểu thuyết thứ bảy... Sau Cách mạng tháng 8 năm 1945 tham gia các tổ chức yêu nước tại Sài Gòn. Từ năm 1946, ông cộng tác với các báo Tin điển, Ánh sáng, Việt Thanh, Việt báo... tham gia Phong trào báo chí Thống nhất nhằm chống nhóm Phân li của chính phủ Nam Kì tự trị. Năm 1948 ông gia nhập Liên hiệp báo chí Việt Nam... Năm 1951 ông bị bắt vì chống giải pháp Bảo Đại, cuối năm 1954 ông bị bắt một lần nữa đưa đi quản thúc ở Hải Phòng. Sau hiệp định Genève và đến cuối năm 1955, ông mới được trả tự do. Về lại Sài Gòn, tiếp tục cộng tác với một số tờ báo uy tín tại đây cho đến cuối đời. Trong số các tiểu thuyết của ông từ Bóng giai nhơn (1947), Mị Lan Hương (1950), Tiếp bội (1957), Bức địa đồ máu (1952), Chàng đi theo nước (1953), Mía sâu có đốt (1957, Văn nghệ tái bản 2002)... thì Bộ áo cà sa nhuộm máu (1952, Trẻ tái bản 1989) là bộ tiểu thuyết có giá trị nhất và nhiều trang nhất của nhà văn Nguyễn Bảo Hóa. Bộ tiểu thuyết này ban đầu kí tên N.B.H vì lúc ấy ông bị nhà cầm quyền Pháp theo dõi nên phải kí tên tắt như trên. Các tác phẩm chính: Sáng tác - Ải Chi Lăng (Việt bút, 1947) - Bóng giai nhơn (truyện, Đoàn Kết, 1948) - Mị Lan Hương (tiểu thuyết, Tấn Phát, 1950) - Bộ áo cà sa nhuộm máu (tiểu thuyết, Tấn Phát, 1952) - Chàng đi theo nước (tiểu thuyết, Tấn Phát, 1953) - Bức địa đồ máu (Tấn Phát, 1952) - Tiếp Bội (thơ, Lá Dâu, 1957) - Mía sâu có đôt (chung với Trang Thế Hy, Lá Dâu, 1957) Biên khảo - Nam Bộ chiến sử (Lửa sống, 1949) - Phạm Hồiig Thái (Sống Mới, 1957) - Tàn phá Cổ Am (Tấn Phát, 1958) - Việt Nam 25 năm máu lửa (Khai Trí, 1971, bị cấm)"
+  "id" : 1946,
+  "entityName" : "Ngô Cảnh Hoàn",
+  "aliases" : [ ],
+  "overview" : "Ông làm đến Tổng binh chỉ huy sứ, Quản đội Tiền Trạch nên đời sau vẫn thường gọi là ông Tiền Trạch. Năm Bính ngọ 1786 Tây Sơn cử binh đánh, ông và hai người con trai cầm quân chống cự quyết liệt trên sông Thúy Ái. Thua to, ông cùng hai con đều tử trận. Vợ ông là Phan Thị Thuấn hay tin, sau đó cũng gieo mình xuống sông Thúy Ái tử tiết."
 }

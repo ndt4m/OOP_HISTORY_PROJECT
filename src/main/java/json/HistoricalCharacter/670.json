@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "1236",
-  "dateOfDeath": "1285",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Nguyên": null
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "1583",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "nhà Lê" : null
   },
-  "id": 670,
-  "entityName": "Lý Hằng",
-  "aliases": [
-    "Đức Khanh"
-  ],
-  "overview": "Lý Hằng (chữ Hán: 李恒), tự là Đức Khanh (德卿), (1236 – 1285), người Đảng Hạng, là một trong những tướng lĩnh xuất sắc của nhà Nguyên. Lý Hằng mất vì trúng tên độc khi xâm lăng Đại Việt."
+  "id" : 670,
+  "entityName" : "Đặng Huấn",
+  "aliases" : [ ],
+  "overview" : "Đặng Huấn (?-1583) là đại thần có công giúp nhà Lê trung hưng thời chiến tranh Lê-Mạc trong lịch sử Việt Nam."
 }

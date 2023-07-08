@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Đinh Mùi 1067",
-  "hometown": "huyện Phủ Đàm, phủ Chu Minh, tỉnh Bắc Ninh",
-  "occupation": "Thiền sư đời Lý Thái tông, không rõ tên thật, năm sinh",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Lý": 14
+  "dateOfBirth" : "1638\n----------------------------------------------\nMậu Ngọ 1630",
+  "dateOfDeath" : "1708\n----------------------------------------------\nKỉ Sửu 1709",
+  "hometown" : "quê làng Văn Hòa, huyện Thụy Nguyên",
+  "occupation" : "Danh thần đời Lê Huyền tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34,
+    "nhà Lê" : null
   },
-  "id": 566,
-  "entityName": "Đàm Cứu Chỉ",
-  "aliases": [],
-  "overview": "Thuở nhỏ ông hiếu học, đọc nhiều sách thường than rằng: \"Khổng Tử, Mặc Tử, câu chấp về lẽ có; Lão Tử, Trang Tử đắm đuối về lẽ không. Những cách vụn vặt của thế tục đều không phải phương pháp giải thoát. Chỉ có Phật giáo không kể Có, Không có thể kết liễu được cuộc sống thác, nhưng phải tự tu rất nghiêm nghặt mới được\". Ông tham đạo với Định HươngTrường lão ở chùa Cam Ứng, núi Ba Sơn, rồi tiếp tục tu học ở chùa Quang Minh, núi Tiên Du. Lý Thái tông ba lần cho vời, ông vẫn không đến, khiến vua phải thân tới chùa thăm hỏi. Sau, ông vui lòng về trụ trì ở chùa Diên Linh, núi Long Đội do Tể tướng Dương Đạo Gia xây dựng và mời ông. Ông mất năm Đinh mùi 1067."
+  "id" : 566,
+  "entityName" : "Nguyễn Quán Nho",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Quán Nho (1638-1708) là quan nhà Lê trung hưng trong lịch sử Việt Nam.\n----------------------------------------------\nNăm Đinh mùi 1667, ông đỗ tam giáp đồng tiến sĩ, làm Phó đô ngự sử, rồi thăng Tả thị lang bộ Lại, đô ngự sử, thượng thư bộ Binh. Năm 1639 ông và Thượng thư bộ Hình là Lê Hi được chúa Trịnh cử làm Tham tụng trong phủ chúa. Năm Bính tí 1692 vì phạm lỗi tiết lộ đề thi trong kì thi tuyển quan lại, ông bị giáng làm Đô ngự sử. Đến 10 năm sau (1702) được phục chức Tể tướng, rồi đổi làm thượng thư bộ Lễ, trông coi việc ở Trung thư Giám, tước Hương Giang Bá. Ông cùng với Lê Hi đều là tể tướng, nhưng họ Lê, tính nghiêm khắc, hay đố kị, ông thì xử sự khoan hậu. Người thời ấy có câu ca dao: Tể tưóng Thạch Khê (quê của Lê Hi), thiên hạ sầu bi; Tể tướng Văn Hòa (quê ông), thiên hạ âu ca. Năm Đinh hợi 1707 ông về hưu, năm 1709 ông mất thọ 71 tuổi, được truy tặng Thượng thư bộ Lại tước Quận Công."
 }

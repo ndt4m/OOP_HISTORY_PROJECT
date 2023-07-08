@@ -1,17 +1,17 @@
 {
-  "dateOfBirth": "Kỉ Hợi 1899",
-  "dateOfDeath": "Không rõ",
-  "hometown": "tại Đà Nẵng, tỉnh Quảng Nam (nay là TP",
-  "occupation": "Y sĩ, Thương gia ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Kỉ Dậu 1909",
+  "dateOfDeath" : "Giáp Dần 1974",
+  "hometown" : "quê làng Trà Bồ, tổng Ba Động, huyện Phù Cừ, tỉnh Hưng Yên (nay vẫn thuộc tỉnh Hưng Yên), bút danh Hà Việt Phương, Hoài Đồng Vọng",
+  "occupation" : "Nhà văn hiện đại, sinh ngày 20-11-1909, quê làng Trà Bồ, tổng Ba Động, huyện Phù Cừ, tỉnh Hưng Yên ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 1097,
-  "entityName": "Nguyễn Hữu Thi",
-  "aliases": [],
-  "overview": "Thuở nhỏ ông học ở Đà Nẵng, Huế, Hà Nội, tốt nghiệp y sĩ Đông Dương (Mèdecin indochinois d\u0027Assistance) năm 1922. Từ năm 1922-1932 hành nghề bác sĩ ở Phan Thiết, năm 1934 chuyển về làm việc ở Đà Nẵng. Năm 1939 có chân trong Hội đồng lí tài Đông Dương. Ngày 9-3-1945 Nhật đảo chính Pháp ở Đông Dương, Trần Trọng Kim thành lập chính phủ toàn là những trí thức trẻ, nhà khoa học, chuyên gia trẻ... ông được mời giữ chức Bộ trưởng Bộ tiền tệ trong nội các Trần Trọng Kim. Sau ngày cách mạng tháng Tám năm 1945 thành công. Ông cùng nội các Trần Trọng Kim đồng loạt từ chức, giao quyền cho chính quyền cách mạng. Sau đó ông về sống tại Đà Nẵng và mất năm nào không rõ."
+  "id" : 1097,
+  "entityName" : "Nguyễn Đức Quỳnh",
+  "aliases" : [ "Hà Việt Phương", "Hoài Đồng Vọng" ],
+  "overview" : "Từ năm 1931 ông cộng tác với Nguyễn Công Tiễu (người cùng quê) trong tờ Khoa học tạp chí viết các bài về Khoa học phổ thông. Năm 1934 viết báo Tiếng Trẻ, Thời thế, Quốc gia (Hà Nội), sau đó thành lập nhóm Hàn Thuyên với tạp chí Văn Mới xuất bản định kì như một nguyệt san văn học. Hàn Thuyên là một nhóm văn sĩ có khuynh hướng nhân sinh gồm một số cây bút có tiếng trước thế chiến II: Nguyễn Đình Lạp, Đặng Thai Mai, Trương Tửu, Nguyễn Tuân, Phạm Ngọc Khuê... đã xuất bản được một số tác phẩm văn, sử có tiếng vang hồi tiền chiến. Năm 1946, ông tham gia kháng chiến chống Pháp ở chiến khu, đến năm 1952 về thành, rồi vào Huế, Sài Gòn cộng tác với các báo Đời Mới của Trần Văn Ân và một số nhật báo khác. Từ đấy (1955) cho đến cuối đời, ông không có tác phẩm nào gây nên dư luận trong văn học, xã hội. Hầu hết tác phẩm của ông đều xuất bản trước năm 1945. Các tác phẩm: - Ta và Mọi (1929) - Các dân tộc lạc hậu miền Thương du (1930) - Khoa học phổ thông (1932) - Kĩ nghệ làm pin điện (1932) - Nguồn gốc tiếng Nam (1935) - Bốn biển không nhà (1930) - Gốc tích loài người (1943) - Đời sống thái cổ (1942) - Tây phuơng cổ sử (1944) - Ai Cập cổ sử (1943) - Cận đông sử (1943) - Lịch sử thế giới (1944) Và một số tiểu thuyết có ý hướng chính trị xã hội như: - Mình với Ta (thơ, 1930) - Những kẻ lạc đường (kịch giải thưởng Les Amis de l'Art Sài Gòn, 1939) - Thằng cu So (tiểu thuyết, 1941) - Thằng Kình (tiểu thuyết, 1942) - Thằng Phương (tiểu thuyết, 1941) - Sắt đã vào lò (tiểu thuyết, 1943)"
 }

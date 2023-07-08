@@ -1,17 +1,17 @@
 {
-  "dateOfBirth": "Ất Hợi 1875",
-  "dateOfDeath": "Giáp Tuất 1934",
-  "hometown": "tại làng Phước Lâm, tổng Phước Điền Trung, tỉnh Chợ Lớn (nay thuộc Thành phố Hồ Chí Minh)",
-  "occupation": "Quyền Giáo tông đạo Cao Đài ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Nhâm Dần 1902",
+  "dateOfDeath" : "Đinh Tị 1977",
+  "hometown" : "Hà Nội",
+  "occupation" : "Nhà nghiên cứu văn học, sử học",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 1971,
-  "entityName": "Lê Văn Trung",
-  "aliases": [],
-  "overview": "Ông mồ côi cha lúc mới được vài tháng tuổi, được mẹ nuôi và dạy dỗ nên người và thành đạt sớm. Thuở nhỏ học trường Chasseloup Laubat ở Sài Gòn, tốt nghiệp bằng Thành chung, được bổ làm thư kí tại Dinh Thống đốc Nam Kì, nhưng đến năm 1906 ông xin từ chức bước sang làm nghề thầu khoán xây cất, ông từng đắc cử hội viên Hội Đồng Tư vấn, Thượng nghị viện Đông Dương. Năm 1925 ông từ nhiệm và bỏ cả công việc kinh doanh, dốc lòng vào việc tu hành và phát triển đạo Cao Đài. Ngày 7-10-1926, ông cùng một số chức sắc khác trong đạo gởi thư cho Thống đốc Nam Kì loan báo thành lập đạo Cao Đài và sau này được cử giữ chức Quyền Giáo tông. Ngày 13-10 năm Giáp tuất (dương lịch 19-11-1934) ông mất tại Giáo tông đường ở tòa thánh Tây Ninh, thọ 59 tuổi. Ông là tác giả nhiều bài thuyết đạo, sau được in thành các tập sách mỏng, như: Phương chân hành đạo (1929) và nhiều thơ xướng họa cùng các vị đồng đạo."
+  "id" : 1971,
+  "entityName" : "Hoàng Thúc Trâm",
+  "aliases" : [ "Hoa Bằng" ],
+  "overview" : "Quê làng Cót, xã Yên Quyết, huyện Từ Liêm, ngoại thành Hà Nội (trước thuộc tỉnh Hà Đông). Con Cúc Hương Hoàng Thúc Hội. Ông viết rất nhiều trên các báo ngoài Bắc, trong Nam, như Tuần báo Tân văn, Thế giới Tân văn (Sài Gòn), Tri Tân (Hà Nội), Tạp chí Văn học, báo Thanh Nghị... Từ sau Cách mạng tháng Tám, ông tích cực tham gia cách mạng: ủy viên ban Hán Nôm thuộc Ủy ban Khoa học Xã hội Việt Nam, hội viên Hội Sử học, Hội nhà văn Việt Nam... Trong thời gian cộng tác với Tạp chí Văn học, ông đóng góp nhiều bài nghiên cứu sưu tầm rất có giá trị, góp phần phát huy nền văn hóa dân tộc. Ngày 16-2 Âm lịch Đinh tị (5-3-1977) ông từ trần, thọ 75 tuổi. Còn để lại các tác phẩm: - Quang Trung - Anh hùng dân tộc I và II (1944) - Tư tưởng đại đồng trong cổ học Trung Hoa (1945) - Văn chương quốc âm đời Tây Sơn (1948) - Quốc văn đời Tây Sơn (1950) - Trần Hưng Đạo - Lê Lợi - Nhà thơ cách mạng Hồ Xuân Hương (1949) - Thơ văn trào phúng qua các thời đại - Khảo luận về chuyện Thạch Sanh (1957) - Lịch sử xã hội Việt Nam (1959) - Từ điển Hán Việt (1944)... Hoàng Thúc Trâm là một học giả uyên thâm, một trí thức tiến bộ trong thời mất nước và trong giai đoạn kháng chiến chống ngoại xâm."
 }

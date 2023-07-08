@@ -1,19 +1,19 @@
 {
-  "dateOfBirth": "…",
-  "dateOfDeath": "Ất Mùi 1955",
-  "hometown": "quê ở huyện Đức Phổ, tỉnh Quảng Ngãi",
-  "occupation": "Nhà cách mạng",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Người làng Dương Xá, huyện Đông Sơn\n----------------------------------------------\nKhông rõ",
+  "occupation" : "Con Dương Diên Nghệ, anh Dương Hậu \n----------------------------------------------\nVua",
+  "workTenure" : "944 – 950\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n944—950",
+  "fatherName" : {
+    "Dương Đình Nghệ" : 2021
   },
-  "id": 72,
-  "entityName": "Võ Tùng",
-  "aliases": [
-    "Lưu Khai Hồng"
-  ],
-  "overview": "Năm 1926 ông gia nhập Việt Nam Thanh niên Cách mạng đồng chí hội, năm 1930 vào đảng Cộng sản Đông Dương, qua hoạt động ở Trung Quốc tốt nghiệp trường võ bị Hoàng Phố. Sau về công tác trong phong trào Việt kiều yêu nước ở Xiêm (Thái Lan) rồi dự Đại hội Tổng bộ họp ở Hương Cảng. Năm 1932 ông bị bắt đưa về giam trong nước. Sau Cách mạng tháng Tám ông công tác ở trung ương Đảng, hoạt động ở Thái Lan. Ông mất năm 1955, vợ ông là Đặng Thị Quỳnh Anh cũng là liệt nữ cách mạng. Bài thơ CÂY NÊU ĐẠI THỌ của ông còn truyền tụng: Cây nêu đại thọ, Trải lắm phong sương. Người đấng hiền lương, Được bao kính mộ. Vẻ vang nước Tổ, Tạo phúc giống nòi. Biểu suất hậu lai, Tùy danh thiên cổ."
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Ngô" : 25,
+    "Nhà Ngô và Dương Tam Kha" : 25
+  },
+  "id" : 72,
+  "entityName" : "Dương Bình Vương",
+  "aliases" : [ "Dương Bình Vương", "Dương Tam Kha (楊三哥) Dương Chủ Tướng (楊主將) Dương Thiệu Hồng (楊紹洪)" ],
+  "overview" : "Dương Tam Kha (chữ Hán: 楊三哥), tức Dương Bình Vương (楊平王) là một vị vua Việt Nam, trị vì từ 944 đến 950, xen giữa nhà Ngô trong lịch sử Việt Nam.\n----------------------------------------------\nNăm Giáp thìn 944, Ngô Vương Quyền mất, ông được Ngô Vương ủy thác phù dực con lớn là Ngô Xương Ngập, nhưng ông thừa dịp đoạt lấy quyền của cháu, tự xưng Bình Vương. Tam Kha là đứa gian hồi Lấy bề thích lí chịu lời thác cô Cành Dương đè lấy chồi Ngô, Bình vương tiếm hiệu quốc đô tranh quyền (Đại Nam quốc sử diễn ca) Ngô Xương Ngập trốn sang Nam sách, thuộc tỉnh Hải Dương, được Phạm Lệnh Công ở Trà Hương huyện Kim Thành nuôi giấu. Không tìm được Xương Ngập, Dương Tam Kha lập em Xương Ngập là Xương Văn làm con nuôi. Năm Canh tuất 950, có biến ở hai thôn Thái Bình, Đường Nguyễn, Dương Tam Kha sai hai tướng Dương Kiết Lợi và Đỗ Cảnh Thạc cùng Xương Văn đi đánh dẹp. Đi đến Từ Liêm, Xương Văn ướm ý hai tướng Dương, Đỗ, được cả hai tình nguyện ủng hộ, cùng nhau đem quân trở về đảo chính. Dương Tam Kha bị bắt và bị giáng làm Trương vương công. Hai anh em Xương Ngập, Xương Văn nối nghiệp nhà Ngô như cũ.\n----------------------------------------------\nDương Tam Kha (chữ Hán: 楊三哥, ? - 980), tức Dương Bình Vương (楊平王), là một vị vua Việt Nam, trị vì từ 944 đến 950, xen giữa triều đại nhà Ngô trong lịch sử Việt Nam."
 }

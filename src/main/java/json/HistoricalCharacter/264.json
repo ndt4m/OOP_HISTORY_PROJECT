@@ -1,14 +1,14 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 264,
-  "entityName": "Kỷ Tín",
-  "aliases": [],
-  "overview": "Kỷ Tín (chữ Hán: 紀信, ?- 204 TCN) là một võ tướng của Hán vương Lưu Bang. Trong cuộc chiến Hán Sở tranh hùng, khi Lưu Bang bị Tây Sở Bá vương Hạng Vũ vây rất ngặt ở thành Huỳnh Dương, thế khó thoát, nhờ Kỉ Tín đóng giả làm Hán vương để lừa Hạng Vũ, nhờ thế Lưu Bang mới thoát nạn được."
+  "dateOfBirth" : "1363",
+  "dateOfDeath" : "1440",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 264,
+  "entityName" : "Hoàng Phúc",
+  "aliases" : [ "Hậu Nhạc Ông", "Như Tích" ],
+  "overview" : "Hoàng Phúc (黃福, 1363-1440), tự là Như Tích (如錫), biệt hiệu Hậu Nhạc Ông, người Xương Ấp, Sơn Đông, là một đại thần triều Minh, từng làm tán quân vụ ở An Nam thời Kỷ thuộc Minh."
 }

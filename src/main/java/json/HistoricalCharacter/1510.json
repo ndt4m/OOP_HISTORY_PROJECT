@@ -1,18 +1,14 @@
 {
-  "dateOfBirth": "327",
-  "dateOfDeath": "410",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Đông Tấn": null
-  },
-  "id": 1510,
-  "entityName": "Đỗ Viện",
-  "aliases": [
-    "Đức Ngôn"
-  ],
-  "overview": "Đỗ Viện (chữ Hán: 杜瑗, 327 – 410), tự Đức Ngôn, là Giao Châu thứ sử nhà Đông Tấn, sinh ra ở Chu Sương, Giao Chỉ, nguyên quán Kinh Triệu."
+  "dateOfBirth" : "sinh năm 1948",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 1510,
+  "entityName" : "Nguyễn Đức Mậu",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Đức Mậu (sinh năm 1948) là một nhà thơ, nhà văn quân đội. Ông từng nhận được Giải thưởng Nhà nước về văn học nghệ thuật năm 2001; Giải thưởng văn học Asean năm 2001."
 }

@@ -1,16 +1,14 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Lê": null
-  },
-  "id": 3000,
-  "entityName": "Nguyễn Chiêu Huấn",
-  "aliases": [],
-  "overview": "Bảng nhãn Nguyễn Chiêu Huấn (阮昭訓) (? ?) là một nhà thơ, quan nhà Lê trong lịch sử Việt Nam"
+  "dateOfBirth" : "18 tháng 10, 1916 (102 tuổi) Vĩnh Lộc, Thanh Hóa, Liên bang Đông Dương",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 3000,
+  "entityName" : "Nguyễn Trọng Vĩnh",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Trọng Vĩnh (sinh 1916) là Thiếu tướng Quân đội Nhân dân Việt Nam và là đại sứ Việt Nam tại Trung Quốc từ năm 1974 đến 1987."
 }

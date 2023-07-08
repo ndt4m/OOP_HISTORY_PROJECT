@@ -1,16 +1,14 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê xã Lập Thạch, huyện Đông Sơn, tỉnh Thanh Hóa",
-  "occupation": "Danh thần đời Lê Thánh tông ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Triều Lê Sơ": 7
-  },
-  "id": 904,
-  "entityName": "Lê Đức Toản",
-  "aliases": [],
-  "overview": "Năm Giáp thìn 1484, ông đỗ tiến sĩ, làm đến Đô ngợ sử. Ông cương trực, quyết đoán, xử sự rất công minh. Trải các triều vua, ông một niềm giữ lòng liêm chính, vô tư, nên được các sĩ phu trọng vọng, nhân dân kính mến. Năm Đinh hợi 1527, Mạc Đăng Dung đảo chính, dựng nhà Mạc, ông không phục tùng, bỏ quan ở ẩn, được người đương thời xưng tặng là tiết nghĩa."
+  "dateOfBirth" : "sinh năm 1947",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 904,
+  "entityName" : "Phạm Xuân Thệ",
+  "aliases" : [ ],
+  "overview" : "Phạm Xuân Thệ (sinh năm 1947) là một sĩ quan cấp cao trong Quân đội Nhân dân Việt Nam, hàm Trung tướng, nguyên Tư lệnh Quân đoàn 2 (1995-2000), Tư lệnh Quân khu 1 (2002-2007). Ông là người đã dẫn độ tổng thống Dương Văn Minh từ Dinh Độc lập đến Đài phát thanh Sài Gòn để tuyên bố đầu hàng vô điều kiện vào ngày 30 tháng 4 năm 1975, chấm dứt Chiến tranh Việt Nam."
 }

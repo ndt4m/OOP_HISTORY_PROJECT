@@ -1,26 +1,16 @@
 {
-  "dateOfBirth": "10 tháng 8, 941\n----------------------------------------------\nTân Sửu 941",
-  "dateOfDeath": "1005 (63–64 tuổi) Hoa Lư, Đại Cồ Việt\n----------------------------------------------\nẤt Tị 1005",
-  "hometown": "quê làng Bảo Thái huyện Thanh Liêm (nay là làng Ninh Thái, tỉnh Nam Định)",
-  "occupation": "Hoàng đế Đại Cồ Việt\n----------------------------------------------\nVua nhà Tiền Lê",
-  "workTenure": "980 – 1005\n----------------------------------------------\nKhông rõ",
-  "fatherName": {
-    "Lê Mịch": null
+  "dateOfBirth" : "Ất Hợi 1935",
+  "dateOfDeath" : "Quí Mùi 2003",
+  "hometown" : "tại xã Điện Thăng, huyện Điện Bàn, tỉnh Quảng Nam",
+  "occupation" : "Nhà thơ ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nước Việt Nam mới" : 29
   },
-  "motherName": {
-    "Đặng Thị": null
-  },
-  "eraName": {
-    "Nhà Tiền Lê": 8,
-    "Nhà Đinh": 35
-  },
-  "id": 26,
-  "entityName": "Lê Hoàn",
-  "aliases": [
-    "Lê Hoàn (黎桓)",
-    "Hoàn",
-    "Minh Càn Quảng Hiếu Hoàng Đế (明乾廣孝皇帝)",
-    "Niên hiệu Thiên Phúc (天福: 980 - 988) Hưng Thống (興統: 989 - 993) Ứng Thiên (應天: 994 - 1005)"
-  ],
-  "overview": "Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi.\n----------------------------------------------\nÔng làm Thập đạo tướng quân nhà Đinh. Kỉ mão 979, Đinh Tiên Hoàng bị Đỗ Thích giết chết, con là Đinh Duệ mới 6 tuổi lên nối ngôi, quyền bính nằm trong tay ông. Đại thần nhà Đinh là Định Quốc Công Nguyễn Bặc, Phạm Hạp dấy binh phản đối ông, bị ông giết cả. Nhà Tống sai 8 tướng đem quân sang đánh. Ông sai Phạm Cự Lượng làm Đại tướng dẫn binh đi chống giữ. Lượng cùng nhiều tướng sĩ suy tôn ông lên ngôi nối nghiệp nhà Đinh. Dương Thái hậu cũng lấy áo rồng choàng cho ông. Bấy giờ vào tháng 7, năm Canh thìn 980. Ông lên ngôi, giáng Đinh Duệ làm Vệ vương như tước cũ. Đối ngoại, ông khiến Giang Cự Vọng thảo quốc thư, sai sứ đưa sang nhà Tống, dối là Đinh Duệ xin phong. Năm Nhâm ngọ 982, ông thân chinh Chiêm Thành, để phạt tội về việc vua Chiêm đã bắt giam hai sứ thần nước ta là Từ Mục và Ngô Tử Canh. Ông đem quân chiếm đóng kinh thành Chiêm Thành. Đây là cuộc nam phạt đầu tiên trong lịch sử dựng nước của nhân dân ta. Vua Chiêm từ ấy hàng năm phải triều cống và xưng thần. Ông ở ngôi 26 năm, đặt hiệu năm 3 lần: - Thiên Phúc: tháng 7 Canh thìn 980 Mậu tí 988 (9 năm). - Hưng Thống: Kỷ sửu 989 - Quí tị 993 (5 năm). - Ứng Thiên: Giáp ngọ 994 - Ất tị 1005 (12 năm)."
+  "id" : 26,
+  "entityName" : "Hà Đức Trọng",
+  "aliases" : [ "Thu Bồn" ],
+  "overview" : "Ông thoát li tham gia kháng chiến chống Pháp từ 1947 trong suốt 2 cuộc trường kì đánh Pháp, Mĩ ở chiến trường khu 5 cũ. Sau hiệp đình Genève ông tập kết ra Bắc, những năm 60 về Nam đánh Mĩ trên chiến trường trung Trung Bộ, từng là biên tập viên tại chí Văn nghệ Quân đội gần 20 năm (1960 - 1980). Các tác phẩm chính: - Bài ca chim Chrao (trường ca, 1962) - Tre xanh (thơ, 1969) - Mặt đất không quên (thơ 1970) - Quê hương mặt trờì vàng (1975) - Bazan khát (thơ, 1976) - Campuchia hy vọng (thơ, 1978) - Người vắt sữa bầu trời (thơ, 1985) - Thông điệp mùa xuân (thơ,1985) Và một số tiểu thuyết, truyện ngắn. Ông từng được nhận Giải thưởng Văn học Nguyễn Đình Chiểu của UBMTDTGP miền Nam Việt Nam năm 1965, Giải thưởng văn học quốc tế của Hội Nhà văn Á Phi (1973). Ông qua đời ngày 17 tháng 6 năm 2003 tại nhà riêng ở suối Lồ Ô, tỉnh Bình Dương."
 }

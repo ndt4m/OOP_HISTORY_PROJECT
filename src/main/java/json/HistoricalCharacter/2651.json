@@ -1,18 +1,22 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Minh": null
+  "dateOfBirth" : "1515\n----------------------------------------------\nẤt Hợi 1515\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "29 tháng 1, 1548 (33–34 tuổi) Thanh Hóa, Đại Việt\n----------------------------------------------\nMậu Thân 1548\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua thời Lê Trung hưng\n----------------------------------------------\nVua",
+  "workTenure" : "1533 - 1548\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1533–1548",
+  "fatherName" : {
+    "Lê Chiêu Tông" : 1900
   },
-  "id": 2651,
-  "entityName": "Trần Hiệp",
-  "aliases": [
-    "Thúc Viễn"
-  ],
-  "overview": "Trần Hiệp (chữ Hán: 陈洽, 1370 – 1426 ), tự Thúc Viễn, người huyện Vũ Tiến , quan viên nhà Minh, tử trận khi trấn áp khởi nghĩa Lam Sơn tại Việt Nam."
+  "motherName" : {
+    "Phạm Thị Ngọc Quỳnh" : null
+  },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34,
+    "Nhà Lê trung hưng" : null,
+    "Nam triều – Nhà Hậu Lê – giai đoạn Lê Trung hưng" : 28
+  },
+  "id" : 2651,
+  "entityName" : "Lê Trang Tông",
+  "aliases" : [ "Lê Trang Tông", "Nguyên Hòa (元和)", "Trang Tông (莊宗)", "Lê Ninh", "Dụ Hoàng đế (裕皇帝)", "Lê Duy Ninh (黎維寧)" ],
+  "overview" : "Lê Trang Tông (chữ Hán: 黎莊宗; 1515 - 1548), hay còn gọi là Trang Tông Dụ hoàng đế (莊宗裕皇帝), tên thật là Lê Ninh (黎寧), là vị hoàng đế đầu tiên của nhà Lê Trung Hưng trong lịch sử Việt Nam. Ông còn được dân gian ưu ái đặt cho mỹ danh nghèo nàn Chúa Chổm.\n----------------------------------------------\nNăm Mậu thân, ông qua đời (1548) mới 33 tuổi. Ông ở ngôi 16 năm, hiệu năm là Nguyên Hòa.\n----------------------------------------------\nLê Trang Tông (chữ Hán: 黎莊宗 1515 - 9 tháng 3 năm 1548), hay còn gọi là Trang Tông Dụ Hoàng đế (莊宗裕皇帝), tên thật là Lê Ninh (黎寧), là vị Hoàng đế thứ 12 của nhà Hậu Lê và là vị Hoàng đế đầu tiên của nhà Lê Trung hưng trong lịch sử Việt Nam. Ông còn được dân gian ưu ái đặt cho mỹ danh nghèo nàn là Chúa Chổm."
 }

@@ -1,19 +1,17 @@
 {
-  "dateOfBirth": "Bính Dần 1866",
-  "dateOfDeath": "Kỉ Sửu 1949",
-  "hometown": "quê làngThư Trai, huyện Thạch Thất, tỉnh Sơn Tây (nay thuộc tỉnh Hà Tây)",
-  "occupation": "Nhà văn ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Bính Tuất 1886",
+  "dateOfDeath" : "Mậu Thân 1968",
+  "hometown" : "quê xã Tiên Tiến, huyện Văn Giang, tỉnh Hải Dương sinh trưởng trong một gia đình nhà Nho nghèo, thân phụ làm lương y bốc thuốc chữa bệnh ở số 67 phố Hoàn Kiếm, Hà Nội",
+  "occupation" : "Nhà Đông y học, tác giả",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 469,
-  "entityName": "Nguyễn Đỗ Mục",
-  "aliases": [
-    "Trọng Hữu"
-  ],
-  "overview": "Ông sinh trưởng trong một gia đình Nho học truyền thống, con Hoàng giáp Nguyễn Đình Dương. Xuất thân là ấm sinh (thân phụ từng làm án sát Hưng Yên, Bố chánh Quảng Bình, Biện lí bộ Lại) đậu tú tài khoa Kỉ dậu (1909) từng đi thi Hội nhưng không đỗ. Sau năm 1908, ông cộng tác với Nguyễn Văn Vĩnh biên tập và trợ bút các báo Đông Dương tạp chí, Trung Bắc tân văn chuyên viết về các vấn đề giáo dục và dịch một số tiểu thuyết cổ điển Trung Quốc. Ông là một trong vài người vào thời kì đầu khi chữ Quốc ngữ mới có tư thế trên diễn đàn văn học đã góp công giới thiệu được những tác phẩm văn học Trung Quốc rộng rãi đến công chúng. Về phương diện biên khảo, ngòi bút ông có nhiều đặc sắc; nhất là quyển Chinh phụ ngâm khúc diễn giải đã gây nên tiếng vang trong sinh hoạt văn học. Sau ngày Pháp tái chiếm Việt Nam, ông tham gia vào các tổ chức văn hóa cứu quốc ở chiến khu Việt Bắc. Theo một số tài liệu ông mất vào khoảng năm 1949 tại Thái Nguyên. Ông là thân phụ họa sĩ Nguyễn Đỗ Cung, một bực thầy của các thế hệ họa sĩ Việt Nam. Các tác phẩm chính của ông: - Gõ đầu trẻ, Đông Dương tạp chí 1913-1914. - Tái sanh duyên, Hà Nội 1923 (dịch) - Thuyền tình bể ái, Hà Nội 1926 - Hồng nhan đa truân, 1928 (dịch) - Bình Sơn Lãnh Yên, Hà Nội 1927 - Khổng Tử gia ngữ (biên khảo)"
+  "id" : 469,
+  "entityName" : "Phó Đức Thành",
+  "aliases" : [ ],
+  "overview" : "Năm 17 tuổi, ông thôi học, làm thư kí cho Sở Công chánh ở Đà Nẵng. Năm 1927, trong một hai tiếng đồng hồ hai cái tang lớn: vợ và con chết, ông đau xót vô cùng và quyết định rời bỏ con đường công chức, chuyển sang nghiên cứu về y dược. Xuất phát từ lòng tự hào dân tộc, thấy nước mình có nhiều cây thuốc quí ông chuyên tâm sưu tầm thuốc Nam. Năm 1945-1947, ông trúng cử Hội đồng nhân dân thành phố Vinh và đã tổ chức lớp huấn luyện giới thiệu thuốc Nam phục vụ kháng chiến, có hơn 10 học viên trong đó có những cụ già 70 tuổi cũng tham gia. Năm 1954-1956, ông tham gia Mặt trận Tổ quốc Việt Nam Liên khu 4. Viện Đông y thành lập, ông được điều về công tác ở đó, đã tham gia các đoàn sưu tầm cây thuốc của Viện tại các tỉnh. Ông ở trong Ban thường vụ Hội Đông y và là biên tập viên tạp chí của Hội Đông y Việt Nam. Ông mất ngày 29 tháng 9 năm 1968. Các tác phẩm chính: - Binh lang (hạt cau) (Areca Catechu) 1932. - Cây thuốc phục linh (Pachyma cocos lycoperdon) 1932. - Vấn đề chấn hưng thuốc Nam. An Nam tạp chí, 1932. - Sách thuốc bên Nam (10 cây thuốc chữa trăm chứng bệnh). Vinh, Hội Y học Trung Kì, Nhà in Nord Annam, 1941. - Việt Nam dược học (10 cây thuốc chữa trăm chứng bệnh). Hà Nội, Nhà xuất bản Mai Lĩnh, 1942."
 }

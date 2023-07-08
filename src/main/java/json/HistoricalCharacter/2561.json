@@ -1,27 +1,16 @@
 {
-  "dateOfBirth": "974\n----------------------------------------------\nGiáp Tuất 974",
-  "dateOfDeath": "1001 (26–27 tuổi)\n----------------------------------------------\nTân Sửu 1001",
-  "hometown": "Ninh Bình",
-  "occupation": "Hoàng đế Đại Cồ Việt\n----------------------------------------------\nCũng gọi là Đinh Tuệ, hoặc Đinh Toàn hay Tuyền tước Vệ nrơng.",
-  "workTenure": "979 – 980\n----------------------------------------------\nKhông rõ",
-  "fatherName": {
-    "Đinh Tiên Hoàng": 2346
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Đinh Tị 1275",
+  "hometown" : "Không rõ",
+  "occupation" : "Võ tướng đời Trần Thái tông, Năm Đinh tị 1257, quân xâm lược Nguyên tấn công dữ dội, ông cùng Lê Phụ Trần đảm nhận nhiệm vụ hộ giá Trần Thái tông lui quân tạm lánh. Đến gần bến Lãnh Mĩ, vùng sông Lô, vẫn còn bị một toán quân Nguyên đuổi theo rất gấp. Giữa cơn nguy biến, ông tình nguyện ở lại ngăn quân giặc, để Lê Phụ Trần bảo giá Thái tông xuống thuyền vượt sông. Giặc đuổi tới nơi, vừa kịp thuyền ra khỏi, chúng dùng cung tên bắn theo như mưa.",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Trần" : 15
   },
-  "motherName": {
-    "Dương Vân Nga": 677
-  },
-  "eraName": {
-    "Nhà Tiền Lê": 8,
-    "Nhà Đinh": 35
-  },
-  "id": 2561,
-  "entityName": "Đinh Toàn",
-  "aliases": [
-    "Đinh Đế Toàn",
-    "Đinh Tuệ",
-    "Phế Đế (廢帝)",
-    "Đinh Toàn",
-    "Đinh Toàn (丁璿) Đinh Tuệ (丁穗)"
-  ],
-  "overview": "Đinh Phế Đế (chữ Hán: 丁廢帝; 974 – 1001) còn gọi là Đinh Đế Toàn, là vị hoàng đế thứ hai và cũng là vị hoàng đế cuối cùng của triều đại nhà Đinh, trong lịch sử Việt Nam. Khi ngôi Vua về với nhà Tiền Lê, ông trở thành Vệ Vương trong kinh thành Hoa Lư suốt 20 năm rồi hy sinh khi đi dẹp loạn ở tuổi 27.\n----------------------------------------------\nĐinh Tiên Hoàng có năm hoàng hậu, ông là con bà Dương hậu. Vua Đinh riêng cưng con út là Hạng Lang, khiến con trưởng là Đinh Liễn tức giận sai nguời giết Hạng Lang. Đến năm Kỉ mão 979, vua Đinh và Đinh Liễn đều bị Đỗ Thích giết chết. Ông mới 6 tuổi, được tôn lên ngôi Vua có Định Quốc Công Nguyễn Bặc phụ chính. Ít lâu vì Thập đạo tướng quân Lê Hoàn tư thông với Dương hậu, Nguyễn Bặc dấy binh đánh, bị Hoàn bắt được giết chết. Sau đó gặp lúc nhà Tống xua binh sang xâm lược, các tướng thuộc hạ của Hoàn đồng mưu vói Đại tướng Phạm Cự Lượng suy tôn Lê Hoàn lên ngôi để lãnh đạo cuộc kháng chiến chống quân xâm được, ông bị giáng làm Vệ vương như cũ và vẫn nhẫn nhục tôn phù họ Lê. Năm Tân sửu 1001, ông theo vua Lê Đại Hành thân chinh dẹp loạn Cửu Long ở Thanh Hóa, bị tử trận lúc mới 27 tuổi."
+  "id" : 2561,
+  "entityName" : "Phạm Cụ Trích",
+  "aliases" : [ ],
+  "overview" : "Lê Phụ Trần truyền giở vân thuyền làm mộc che đỡ. Trong khi ấy, ông cùng một nhóm nhỏ quân cảm tử cố sức ngăn chống giặc, nhờ thế, đoàn thuyền bảo giá đi thoát. Cầm chân quân giặc khá lâu, ông đuối sức hi sinh nơi bến Lãnh Mĩ, vang vọng muôn đời chiến tích hào hùng. Vua Tự Đức có thơ đề cao Phạm Cụ Trích và Lê Phụ Trần: (Bản dịch) Giặc ở đâu? Nó tiến sang Vừa đi đánh Tôi đảm đang Chết! Vẫn cố lấy sống Nhước! mà địch với cường! Một mình xông giữa trận Ba quân khí dã trường Xe loan bước khấp khểnh Trên bờ sông Phú Lương. Tên bắn như mưa, lấy gì chống lại mà không sợ, Ván thuyền một mảnh, che được thân vua chữa dễ thường. Làm tướng, làm tôi, một bước gian nan thật nguy hiểm, Vừa trung vừa dũng nghìn thu danh tiết vẻ vang."
 }

@@ -1,16 +1,14 @@
 {
-  "dateOfBirth": "sinh năm 1963",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà nước Việt Nam": null
-  },
-  "id": 1295,
-  "entityName": "Trần Lực",
-  "aliases": [],
-  "overview": "Trần Lực (sinh năm 1963) là một diễn viên và đạo diễn điện ảnh Việt Nam. Anh đã được trao tặng danh hiệu \"Nghệ sĩ ưu tú\" của Nhà nước Việt Nam."
+  "dateOfBirth" : "17 tháng 7 năm 1952 Hàng Bồ, Hà Nội",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 1295,
+  "entityName" : "Lê Uyên",
+  "aliases" : [ ],
+  "overview" : "Lê Uyên là một nữ ca sĩ người Việt thành danh ở Sài Gòn vào thập niên 1970. Tiếng hát Lê Uyên luôn gắn liền với âm nhạc của chồng cô, nhạc sĩ Lê Uyên Phương."
 }

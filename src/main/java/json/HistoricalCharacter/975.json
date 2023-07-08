@@ -1,24 +1,14 @@
 {
-  "dateOfBirth": "25 tháng 6, 1495",
-  "dateOfDeath": "7 tháng 4, 1516 (20 tuổi) hồ Chu Tước, phường Bích Câu, Đông Kinh",
-  "hometown": "Không rõ",
-  "occupation": "Hoàng đế Đại Việt",
-  "workTenure": "1509 - 1516",
-  "fatherName": {
-    "Lê Tân": 223
-  },
-  "motherName": {
-    "Trịnh Thị Tuyên": null
-  },
-  "eraName": {
-    "Nhà Lê sơ": null
-  },
-  "id": 975,
-  "entityName": "Lê Oanh",
-  "aliases": [
-    "Hồng Thuận (洪順)",
-    "Lê Oanh (黎瀠) Lê Trừu (黎晭)",
-    "Linh Ẩn vương (靈隱王) Tương Dực Hoàng đế (襄翼皇帝)"
-  ],
-  "overview": "Lê Tương Dực (chữ Hán: 黎襄翼; 25 tháng 6, 1495 - 7 tháng 4, 1516), đôi khi gọi là Linh Ẩn vương (靈隱王), là vị hoàng đế thứ chín của nhà Lê Sơ trong lịch sử Việt Nam. Ông trị vì từ năm 1509 đến năm 1516, tổng cộng 7 năm."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 975,
+  "entityName" : "Lê Thị Hoa",
+  "aliases" : [ ],
+  "overview" : "Nàng Hoa hay Lê Thị Hoa (chữ Hán: 黎氏華; 2 TCN-43) là một nữ tướng thời Hai Bà Trưng, khởi nghĩa tại vùng Nga Sơn Thanh Hóa."
 }

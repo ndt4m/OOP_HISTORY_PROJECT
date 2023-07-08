@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "17 tháng 7, 1947 (73 tuổi) Xã Hải Long, huyện Hải Hậu, tỉnh Nam Định, Việt Nam Dân chủ Cộng hòa",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Thuộc",
-  "workTenure": "1965-2011",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 2401,
-  "entityName": "Nguyễn Huy Hiệu",
-  "aliases": [],
-  "overview": "Nguyễn Huy Hiệu (sinh năm 1947) là một sĩ quan cấp cao trong Quân đội nhân dân Việt Nam, hàm Thượng tướng. Ông nguyên là Ủy viên Thường vụ Đảng ủy Quân sự Trung ương, Thứ trưởng Bộ Quốc phòng Việt Nam (1998-2011), nguyên Phó Tổng tham mưu trưởng (1995-1998)."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Chí sĩ cận đại",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
+  },
+  "id" : 2401,
+  "entityName" : "Dương Công Hoan",
+  "aliases" : [ ],
+  "overview" : "Khi vua Thành Thái định xuất dương với ý định vận động cứu nước như Kì Ngoại Hầu Cường Để, chính ông đã cùng Nguyễn Dư và Hường Kiểm theo ủng hộ.. Nhưng vừa đến Thanh Hóa thì việc bại lộ. Ông bị bắt đày đi Côn Đảo, còn hai người kia bị đày Lao Bảo. Về phần vua Thành Thái, (theo lệnh Toàn quyền Đông Dương và Khâm sứ Levecque) bị phát vãng ở Vũng Tàu, rồi đày sang đảo Réunion (ở Châu Phi)."
 }

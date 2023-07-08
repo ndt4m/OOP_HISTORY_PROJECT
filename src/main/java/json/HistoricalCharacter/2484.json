@@ -1,18 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Nhâm Thân 1872",
-  "hometown": "quê làng Phố Thị, huyện Lễ Dương, phủ Thăng Bình, tỉnh Quảng Nam (nay là xã Bình Nguyên, huyện Thăng Bình, tỉnh Quảng Nam)",
-  "occupation": "Danh thần, tướng lãnh cuối triều Nguyễn",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Tục gọi Châu Muội Nương, em Lâm Thao Quận công Châu Văn Tiếp. Vợ Quận công Lê Văn Quân.",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34,
+    "Nhà Tây Sơn" : 21
   },
-  "id": 2484,
-  "entityName": "Võ Đăng Xuân",
-  "aliases": [
-    "Võ Tấn Thượng"
-  ],
-  "overview": "Thuở nhỏ học ở trường phủ Thăng Bình, trường Đốc Quảng Nam, Năm 1846 đậu cử nhân tại trường Thừa Thiên, năm 1849 đậu Phó bảng khoa Kỉ dậu năm Tự Đức thứ 2, cùng năm này (1849) ông đậu Phó bảng võ tại Huế. Làm quan từ chức kiểm thảo đến Án sát Hà Nội, năm 1868 đương kim Án sát Hà Nội, ông được Ông Ích Khiêm, Phạm Phú Thứ tâu lên triều đình cử ông làm Tán tương Quân thứ Sơn Hưng (Sơn Tây Hưng Hóa) đánh dẹp bọn phỉ Trung Quốc, cùng lái buôn người Pháp Garnier đương hoành hành vùng thượng lưu sông Hồng, Cao Bằng, Lạng Sơn, Đồng Đăng, Kì Lừa... Ông đánh với bọn Thanh phỉ hơn 10 trận tại các địa điểm trên. Trước hỏa lực của địch và viện binh đến không được ông hi sinh tại trận (ở Đồng Lũng tỉnh Sơn Tây). Sau khi ông mất được triều đình truy tặng Thị giảng học sĩ. Và cho liệt thờ vào đền Trung Dũng ở kinh thành Huế. Nguyễn Thuật (1842-1911) đương kim Tổng tài Quốc sử quán và cũng là đồng châu ông, viết bài văn truy niệm ông có câu: Chí ông ai nấy đều biết, ai nấy đều nói là phải, là người huyện tôi nổi danh, ai nấy lấy làm vinh hạnh về ông! Nay ông đã ngưng nghỉ, chí ông không mất nhưng huyện tôi mất một người. Ô hô! ôi là thương tiếc, thế là công bô khí khái của ông là văn, xin mời ông về dự hội cờ Triệu đầy tiếng thổn thức này."
+  "id" : 2484,
+  "entityName" : "Châu Thị Đậu",
+  "aliases" : [ ],
+  "overview" : "Bà giỏi võ nghệ, cùng anh và chồng giúp chúa Nguyễn Phúc Ánh rất đắc lực. Xông pha chiến trận, ta dũng chẳng kém gì trai. Khi vợ chồng bà theo chúa Nguyễn sang Xiêm (Thái Lan), chính bà đã 2 lần cầm binh đánh thắng quân Miến Điện và Đồ Bàn theo lời yêu cầu tiếp viện của vua Xiêm, khiến người Xiêm thán phục. Chồng bà mất trong năm Tân hợi 1791. Bà sinh gái đầu lòng tại Xiêm (xưa gọi là nước Tiêm La), nên đặt tên là Tiêm. Ngoài Thị Tiêm, vợ chồng bà còn có 2 trai Lê Văn Uy và Lê Văn Chính."
 }

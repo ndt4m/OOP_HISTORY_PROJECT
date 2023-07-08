@@ -1,22 +1,17 @@
 {
-  "dateOfBirth": "584",
-  "dateOfDeath": "606",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {
-    "Tùy Dạng Đế Dương Quảng": null
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Nhân Thìn 1892",
+  "hometown" : "quê huyện Gio Linh, tỉnh Quảng Trị",
+  "occupation" : "Danh sĩ, nhà ngoại giao cận đại",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nhà Nguyễn độc lập" : 30
   },
-  "motherName": {
-    "Mẫn hoàng hậu Tiêu Thị": null
-  },
-  "eraName": {},
-  "id": 2150,
-  "entityName": "Dương Chiêu",
-  "aliases": [
-    "Tùy Cung Đế",
-    "Nguyên Đức Vương",
-    "Thế Tông"
-  ],
-  "overview": "Dương Chiêu (chữ Hán: 楊昭; bính âm: Yang Zhao, 584 - 606), tước vị lúc sống là Nguyên Đức Vương. Ông là con trai của Tùy Dạng Đế Dương Quảng, do ông mất sớm hơn cha mình, nên sau này Dương Quảng nhường ngôi cho con của ông là Dương Hựu, tức Tùy Cung Đế. Mẹ của ông là Mẫn hoàng hậu Tiêu Thị. Sau này, Dương Hựu truy miếu hiệu cho ông là Thế Tông, thụy hiệu đầy đủ là Hiếu Thành hoàng đế."
+  "id" : 2150,
+  "entityName" : "Trần Đình Túc",
+  "aliases" : [ ],
+  "overview" : "Năm Nhâm dần 1842, ông đỗ Hương tiến (cử nhân). Đời Thiệu Trị, ông làm đến chức Quản đạo Phú Yên. Đời Tự Đức, ông thăng Hồng lô tự khanh, trải qua các chức vụ Tán tương quân thứ ở Biên Hòa (Nam Kì), Biện lí bộ Hình, Doanh điền sứ Thừa Thiên - Quảng Trị, rồi được gia hàm Thị lang bộ Hộ (1865). Năm Mậu thìn 1868, ông nhận lệnh đi công tác ở Hương Cảng, khi về lãnh chức Tuần vũ Hà Nội, rồi đổi qua Hưng Hóa, sau đó làm Tán tương quân vụ Sơn Hưng Tuyên. Năm Quí dậu 1873, giặc Pháp đánh chiếm Hà Nội, Nam Định, Ninh Bình. Ông được cử làm Tổng đốc Hà Nội, cùng Tuần vũ Nguyễn Trọng Hợp và Án sát Trương Gia Hội đi thương nghị với Pháp. Sứ mạng hoàn thành, ông được phong thực thụ Tổng đốc. Ông xin về hưu nhiều lần nhưng không được. Năm 1882, giặc Pháp chiếm Hà Nội lần II, ông lại được cử làm Khâm sai đại thần lãnh Tổng đốc Hà Nội, giao thiệp với giặc Pháp. Sau đó, có biến ở Thuận An, ông lãnh chức Thượng thư bộ Lễ sung Toàn quyền Đại thần, đi dàn xếp mọi việc. Trước cuộc xâm lăng của giặc Pháp ông thuộc phe chủ hòa, chuyên làm công việc thương lượng, chấp nhận mọi yêu cầu của chúng. Năm Tân mão 1891, ông được phong Hiệp biện Đại học sĩ. Năm sau (Nhâm thìn 1892) ông mất tại quê nhà."
 }

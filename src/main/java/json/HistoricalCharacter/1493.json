@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "6 tháng 8, 1944 (74 tuổi) Phú Thọ, Liên bang Đông Dương",
-  "dateOfDeath": "Không rõ",
-  "hometown": "D7, Phường Giảng Võ, Quận Ba Đình, Thành phố Hà Nội",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 1493,
-  "entityName": "Phạm Gia Khiêm",
-  "aliases": [],
-  "overview": "Phạm Gia Khiêm (sinh năm 1944) là chính khách Việt Nam. Ông nguyên là Ủy viên Bộ Chính trị, nguyên Phó Thủ tướng kiêm Bộ trưởng Bộ Ngoại giao nước Cộng hòa Xã hội Chủ nghĩa Việt Nam, Đại biểu Quốc hội Việt Nam khóa XII."
+  "dateOfBirth" : "Nhâm Dần 1602",
+  "dateOfDeath" : "Ất Tị 1665",
+  "hometown" : "quê làng Vân Trai, huyện Ngọc Sơn, tỉnh Thanh Hóa, sau di cư vào ở huyện Bồng Sơn tỉnh Bình Định, được phong tước Thuận Nghĩa Hầu",
+  "occupation" : "Cũng gọi là Nguyễn Hữu Tấn, Danh tướng đời chúa Nguyễn, rể Đào Duy Từ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
+  "id" : 1493,
+  "entityName" : "Nguyễn Hữu Tiến (I)",
+  "aliases" : [ "Nguyễn Hữu Tấn" ],
+  "overview" : "Năm Tân mùi 1631, Đào Duy Từ tiến cử lên Chúa Sãi, được thu dụng, phong chức Đội trưởng trông coi Hải quân, lần thăng đến Cai đội, Chưởng cơ, Chưởng dinh tiết chế. Năm Mậu tí 1648, ông lập công lớn trong các trận đánh với quân chúa Trịnh. Năm 1660 ông cùng Nguyễn Hữu Dật đem quân vượt sông Gianh chiếm đất Bố Chánh, Nghệ An, Thanh Hóa. Nhưng sau đó vì bất đồng với Nguyễn Hữu Dật phải rút quân về bên này sông Gianh. Năm Ất tị 1665, ông mất trong quân, được triều đình truy tặng Tiết chế Thuận Quận Công. Đến triều Nguyễn vua Gia Long, Minh Mạng cho thờ ông tại Thái Miếu, truy tặng tước Anh Quốc Công và thờ ở Võ miếu."
 }

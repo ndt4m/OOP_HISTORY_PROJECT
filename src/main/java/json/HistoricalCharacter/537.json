@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê làng Dương Xá, huyện Hưng Nguyên, tỉnh Nghệ An (nay là Nghệ An)",
-  "occupation": "Danh tướng đời Lê Thần tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "Canh Tuất 1730",
+  "dateOfDeath" : "Kỉ Dậu 1789",
+  "hometown" : "Quê làng Mộ Trạch, huyện Đường An (nay thuộc tỉnh Hải Dương)",
+  "occupation" : "Danh sĩ đời Lê Hiển tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
   },
-  "id": 537,
-  "entityName": "Hoàng Nghĩa Phúc",
-  "aliases": [],
-  "overview": "Ông có nhiều công trận nên cũng được phong tước Định Quận Công. Về sau, đời Gia Long truy liệt ông vào hàng công thần bậc nhì thời Lê Trung hưng. Đến đời Minh Mạng, năm 1829, cấp cho họ Hoàng 100 mẫu đất phù sa mới nổi, đặt ra làng Hoàng Nghĩa."
+  "id" : 537,
+  "entityName" : "Vũ Huy Đỉnh",
+  "aliases" : [ "Vũ Trọng Cung", "Di Hiên", "Ôn Kì" ],
+  "overview" : "Năm Giáp tuất 1754, ông đỗ tiến sĩ, nổi tiếng văn chương, giỏi việc chính trị, từng được cử đi sứ Trung Quốc trong năm 1772. Làm quan đến Thị lang bộ Binh, kiêm Tế tửu Quốc tử giám, tước Hồng Trạch Bá. Năm 1789, ông mất, hưởng dương 59 tuổi. Con ông là Võ Huy Tấn, học trò là Ninh Tốn đều là danh sĩ nổi tiếng trong triều Tây Sơn, từng giúp vua Quang Trung trong việc ngoại giao và bình định xứ sở. Ông là một danh sĩ nổi tiếng đương thời có nhiều tác phẩm văn sử, địa học giá trị: - Hoa trình tạp thi. - Thanh Hóa hậu tập - Thanh Hóa tiên tập - Kỉ thắng tập - Nam trung tập - Tuyên Quang tập - Sơn Tây tập - Tùng vịnh tập - Quang Thương tiền tập - Bách đài tập - Tình tuyết tập Và một số thơ văn khác."
 }

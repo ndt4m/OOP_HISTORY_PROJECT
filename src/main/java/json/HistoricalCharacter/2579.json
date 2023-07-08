@@ -1,22 +1,17 @@
 {
-  "dateOfBirth": "Bính Tuất 1826",
-  "dateOfDeath": "Giáp Thìn 1904",
-  "hometown": "tại hoàng cung kinh thành Huế",
-  "occupation": "Nữ sĩ, công chúa triều Nguyễn, con gái thứ 25 của vua Minh Mạng",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Hải Dương",
+  "occupation" : "Thân vương nhà Mạc",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nam - Bắc Triều" : 19,
+    "Triều Lê Sơ" : 7
   },
-  "id": 2579,
-  "entityName": "Nguyễn Trinh Thận",
-  "aliases": [
-    "Nữ Chi",
-    "Thúc Khanh",
-    "Mai Am",
-    "Diệu Liên"
-  ],
-  "overview": "Bà cùng với chị là Qui Đức công chúa, em là Thuận Lễ công chúa tự là Quí Khanh, giới tao nhân mặc khách thường gọi ba chị em bà là Tam Khanh. Cả ba chị em bà đều thụ giáo với anh ruột là Tùng Thiện Vương Miên Thầm, riêng bà xuất sắc, vượt trội. Chồng bà là phò mã hiệu úy Thân Trọng Dư, tự Như Phủ cang là một trang Văn chương danh tiếng chốn kinh kì (Huế). Vợ chồng bà có một phủ riêng gọi là Trinh Nguyệt đường (đình) nổi tiếng tao nhã một thời. Bà chẳng những tuyệt tác về thơ văn lại còn điêu luyện về âm nhạc. Bà từng phỏng theo điệu Nam Bình đặt ra nhiều bài Hán văn và Quốc văn (Nôm) soạn ra các ca khúc Hồ Quảng làm ra 10 bài ca mà giới nghệ thuật ở Huế gọi là Mười bản Tàu rất được khán thính giả truyền tụng: Phẩm tuyết, Nguyên tiêu Hồ quảng, Liên hoàn, Bình bái, Tây mai, Kim tuyền, Xuân phong, Long hổ, Tẩu mã. Tác phẩm của bà có tên là Diệu Liên thi tập được nhiều danh gia đề tựa, hầu hết đều khen tụng thơ bà. Nói về tâm sự mình bà viết: Bản dịch: Chong đèn Tựa gối đêm khuya mộng chẳng thành Ảnh thoa trong biếc ảnh đèn xanh Trò chơi thơ chữ toan tìm việc, Thu lạnh mưa song chạnh mối tình. Giọt lệ chảy dài dòng ngậm tủi, Trái tim đành cắt đợi hồi sinh. Ba canh ngồi nghĩ xuân không phí, Luống phụ vầng trăng sánh cạnh mình. Khi đọc thơ văn người khác (Nguyễn Đình Chiểu), giọng thơ bà cũng thổn thức trước vận nước thù trong giặc ngoài (bản dịch): Điếu nghĩa dân tử trận văn Bồi hồi đọc mãi bản văn ai. Phách cứng văn hùng cảm động thay! Dân chúng Cần Vương vì ghét địch, Nho nho lâm trận tiếc không tài. Giặc đầy chiến lũy tầng mây phủ, Xương chết sa trường bóng nguyệt soi. Quốc ngữ một thiên truyền mãi mãi, Còn hơn xây mộ cất khô hài! Thế cho nên khi đọc thơ bà, Tổng tài Quốc sử quán Nguyễn Thuật cho rằng: \"Thi cốt như nhơn lưỡng dục tiên, Cánh nồng ba xứ cánh thiên nhiên. Viên Bang khuê tú tri đã thiểu, Hồng Lạc thiên thu thử nhất biên\". Nghĩa: Cốt thơ như người (làm thơ) cả hai đều như tiên và tục Sực nức hương thơm cả tinh thần và cũng rất mực tự nhiên Nước Nam khuê tú tài giỏi quả thật ít người (như bà) Nghìn năm Hồng Lạc đây chỉ có một tập thơ này"
+  "id" : 2579,
+  "entityName" : "Mạc Quyết",
+  "aliases" : [ ],
+  "overview" : "Ông cùng với anh là Đăng Dung và Đốc đều là bề tôi nhà Lê, đời Lê Chiêu tông. Đốc được phong tước Trào Quận Công; ông đưọc phong Đông Sơn Hầu, rồi thăng Đông Quận Công; còn Đăng Dung tước Vũ Xuyên Bá, thăng dần đến An Hưng vƯƠNG, bèn sinh lòng cướp quyền mưu đồ dựng nghiệp lớn. Ông cũng tán thành ý đồ của anh, ba anh em ông ngầm kết vây cánh mong lật đổ nhà Lê. Năm Đinh hợi 1527 Đăng Dung cướp quyền vua thành công, có ông làm hậu thuẫn đắc lực và em rể Đăng Dung là Võ Hộ (sau đổi tên là Mạc Bang Hộ) ủng hộ tận tâm. Nhà Mạc thành lập, Đăng Dung phong ông làm Tín vương, Đốc làm Từ vương, Võ Hộ tức Mạc Bang Hộ làm Đô đốc Tĩnh Quốc Công. Ông cùng anh dọc ngang một cõi biên thùy, chống nhau quyết liệt với nhà Lê để giữ cơ đồ, khi ông mất, được truy tặng Uy Tín vương."
 }

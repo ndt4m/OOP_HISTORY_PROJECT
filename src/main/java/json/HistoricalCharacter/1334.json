@@ -1,19 +1,17 @@
 {
-  "dateOfBirth": "Canh Tuất 1910",
-  "dateOfDeath": "Mậu Tí 1948",
-  "hometown": "quê ở thôn Minh Tân, xã Đức Minh, huyện Mộ Đức, tỉnh Quảng Ngãi",
-  "occupation": "Liệt sĩ hiện đại",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Nhâm Dần 1902",
+  "dateOfDeath" : "Đinh Mão 1987",
+  "hometown" : "quê ở Mĩ Trà, Cao Lãnh (nay thuộc tỉnh Đồng Tháp)",
+  "occupation" : "Luật sư, nhà báo",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 1334,
-  "entityName": "Lê Văn Sĩ",
-  "aliases": [
-    "Võ Sĩ"
-  ],
-  "overview": "Ông nhiệt tình yêu nước, từ năm 1927 đã tham gia Việt Nam Thanh niên Cách mạng đồng chí hội, tích cực hoạt động phát triển Hội ở quê nhà. Tháng 10-1929, ông bị bắt giam ở nhà lao Quảng Ngãi, rồi đưa đi Qui Nhơn, Kontum, tháng 10-1931 được trả tự do, ông vẫn hoạt động lại như trước, địch lại bắt ông trong năm 1932 đày lên Lao Bảo, rồi đưa ra Côn Lôn một lượt với Võ Thúc Đồng, Hà Thế Hạnh vào tháng 6-1935. Sau Cách mạng tháng Tám ông được đón từ Côn Đảo về, hoạt động ở Miền Nam trong Xứ ủy Nam Bộ. Đầu tháng 12-1945 ông được Xứ ủy chi định làm Chính ủy Quân khu 8, Khu bộ trưởng là Đào Văn Trường. Khi giặc Pháp chiếm thị xã Sa Đéc, ông theo lực lượng vũ trang xuống Khu 9. Ít lâu sau ông ra miền Trung rồi cùng Quảng Trọng Linh ra Hà Nội khoảng cuối năm 1946. Đầu năm 1947, ông cùng Lê Duẩn trở vào Nam, khoảng tháng 5, ông được chỉ định làm Bí thư Thành ủy Sài Gòn. Đến tháng 10-1948, trong một cuộc càn quét lớn của địch vào vùng Láng Le, Vườn Thơm (nay thuộc tỉnh Long An), ông hi sinh tại đấy, hưởng dương 38 tuổi."
+  "id" : 1334,
+  "entityName" : "Phan Văn Thiết",
+  "aliases" : [ "Thân Việt" ],
+  "overview" : "Ông thông thạo pháp luật, từng mở phòng dịch vụ giúp đỡ nhân dân về mặt pháp lí, hoạt động có tiếng ở Sài Gòn. Rồi làm chủ nhiệm kiêm chủ bút hai tờ tuần báo Tân Văn, Thế giới Tân văn rất có giá trị. Ông từng viết nhiều loạt bài chính luận, cộng tác ở các nhật báo tại Sài Gòn và có lúc bị chính quyền thực dân bắt giam vì tình nghi chính trị. Các tiểu phẩm của ông đăng trên các báo đều được hoan nghênh. Ông có xuất bản tập NAM THI HIỆP TUYỂN trong năm 1950 đóng góp vào kho tàng văn hóa dân tộc khá nhiều tư liệu quí. Ngày 20-10-1987 ông mất, thọ 85 tuổi. Bài thơ châm biếm đám quan lại tay sai, ông khéo dùng từ ngữ khiến mọi người đều khen ngợi, tán thưởng. Quan lớn \"quan lòn\" quan lớn ai? Lòn quen quan lớn khéo làm sai. Oai chi quan lớn quan lòn ấy, Quan lớn, lòn quen quan lớn chai. (Ông có giải thích thêm danh từ Quan lớn đọc trại theo giọng dân Khmer nghe như \"Quan lợn\" (quan heo) và \"Quan lòn\")."
 }

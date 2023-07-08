@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "1810",
-  "dateOfDeath": "1861",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 2943,
-  "entityName": "Tôn Thất Trĩ",
-  "aliases": [],
-  "overview": "Tôn Thất Trĩ (1810 -1861), là võ quan triều Nguyễn trong lịch sử Việt Nam. Tháng 2 năm 1861, ông đã tử trận trong trận Đại đồn Chí Hòa."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Con Lê Dụ tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
+  "id" : 2943,
+  "entityName" : "Lê Duy Quí",
+  "aliases" : [ ],
+  "overview" : "Lúc sắp kéo binh đốt phá phủ chúa, có người tố cáo cho chúa Trịnh Giang hay biết. Việc bại lộ. Ông bỏ chạy nhưng không thoát, bị bắt giết một lượt với Lê Duy Chúc. Riêng Lê Duy Mật còn chống cự thêm một thời gian nữa rồi mới tự thiêu mà chết."
 }

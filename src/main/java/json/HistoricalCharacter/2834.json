@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "1389",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 2834,
-  "entityName": "Nguyễn Đa Phương",
-  "aliases": [],
-  "overview": "Nguyễn Đa Phương (?-1389) là tướng thời Trần Phế Đế, em nuôi và là vây cánh của Hồ Quý Ly. Về sau vì kiêu căng nên bị Hồ Quý Ly bức tử."
+  "dateOfBirth" : "Mậu Dần 1698",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Mộ Trạch, huyện Đường An, phủ Bình Giang, tỉnh Hải Dương (nay vẫn thuộc tỉnh Hải Dương), con danh sĩ Vũ Phương Nhạc làm quan triều Lê",
+  "occupation" : "Danh sĩ, đời Lê Ý tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
+  "id" : 2834,
+  "entityName" : "Vũ Phương Đề",
+  "aliases" : [ "Thuần Phủ" ],
+  "overview" : "Năm Bính thìn 1736 ông đỗ đồng Tiến sĩ niên hiệu Vĩnh Hựu thứ hai, làm quan đến chức Đông các học sĩ. Ông là tác giả bộ sách Công dư tiệp kí (tựa đề năm Ất mùi 1775) ghi chép các truyện danh nhân theo mặt địa lí, phong thủy. Về sau có nhiều người tục biên thêm với nhan đề: Nam thiên trận dị tập, Bản quốc dị văn lục, hay Dị văn tạp lục, Nam Hải dị nhân. Công dư tiệp kí (1 quyển): tác giả chia nội dung sách gồm các đề mục sau: 1. Thế gia (các nhà dòng dõi); 2. Danh thần (bầy tôi có tiếng); 3. Danh nho (nhà nho có tiếng); 4. Tiết nghĩa (thẳng thắn có khí tiết); 5. Chí khí (có chí khí); 6. Ác báo (làm ác bị gặp ác); 7. Tiết phụ (đàn bà có tiết hạnh); 8. Ca nữ (con gái ca hát); 9. Thần quái (việc thần vị quái lạ); 10. Âm phần, dương trạch (mồ mả, dương cơ theo phong thủy); 11. Danh thắng (phong cảnh đẹp nổi tiếng; 12. Thú loại (các loại thú kì lạ). Tất cả cộng 43 truyện."
 }

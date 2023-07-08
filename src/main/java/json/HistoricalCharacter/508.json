@@ -1,16 +1,14 @@
 {
-  "dateOfBirth": "Ất Dậu 1885",
-  "dateOfDeath": "Không rõ",
-  "hometown": "tại làng Long Vân, huyện Tuy Phước, Bình Định, không rõ năm mất",
-  "occupation": "Cựu Thượng thư triều Nguyễn",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
-  },
-  "id": 508,
-  "entityName": "Đặng Thành Đôn",
-  "aliases": [],
-  "overview": "Năm 1906 đỗ Tú tài tại Trường thi Bình Định, sau đó theo học lớp Sĩ bổ tại trường Quốc học Huế, năm 1909 tốt nghiệp. Năm 1912 làm Thừa phái Bộ Lại (Nội vụ), năm 1915 đỗ đầu cử nhân (Hương nguyên) tại Trường Bình Định. Cùng năm được thăng Hành tẩu Bộ Lại rồi Tri phủ Kontum (1919). Tại đây ông cộng tác với công sứ địa phương thành lập tỉnh Kontum, năm 1925 tri phủ Tuy Phong (Bình Thuận). Năm 1932 thăng Tri phủ Ninh Hòa, rồi Bố chánh Quảng Nam, Bố chánh Hà Tĩnh (1934), năm 1937 giữ chức Tuần vũ Quảng Trị, năm 1938 về Huế giữ chức Phủ Doãn Thừa Thiên. Năm 1940 về hưu với chức hàm Thượng thư."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 508,
+  "entityName" : "Trưng Trắc",
+  "aliases" : [ ],
+  "overview" : "Trưng Trắc là nữ anh hùng dân tộc của người Việt, người đứng đầu cuộc khởi nghĩa chống lại sự đô hộ của nhà Đông Hán trong lịch sử Việt Nam, lập ra một chính quyền riêng của người Việt với trung ương tại Mê Linh. Tuy về sau cuộc khởi nghĩa bị quân Hán dưới sự chỉ huy của Mã Viện đánh bại, nhưng trong văn hóa người Việt, khởi nghĩa tượng trưng cho sự quật khởi, phục hưng tinh thần quốc gia. Sử gia Lê Văn Hưu đã nhận xét: \"Trưng Trắc, Trưng Nhị là đàn bà, hô một tiếng mà các quận Cửu Chân, Nhật Nam, Hợp Phố và 65 thành ở Lĩnh Ngoại đều hưởng ứng. Việc dựng nước xưng vương dễ như trở bàn tay, đủ biết tình thế đất Việt ta có thể dựng được nghiệp bá vương\"."
 }

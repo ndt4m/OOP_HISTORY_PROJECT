@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Liệt sĩ cận đại",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "Đinh Mùi 1906",
+  "dateOfDeath" : "Quí Sửu 1973",
+  "hometown" : "Không rõ",
+  "occupation" : "Giám mục Thiên chúa giáo",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 1596,
-  "entityName": "Đinh Quang Nhường",
-  "aliases": [],
-  "overview": "Năm Ất dậu 1885, ông ứng nghĩa cùng với thầy học hoạt động trong phong trào Cần vương, cật lực chiến đấu dưới sự lãnh đạo của tuần phủ Hưng Hóa Nguyễn Quang Bích. Ông cùng với các đồng chí là Nguyễn Hữu Cương, Nguyễn Hữu Phu giữ mặt trận Thái Bình. Khi thầy học là Võ Hữu Lợi bị Tổng đốc Nam Định bắt giết, ông trả thù cho thầy, vây bắt được kẻ thù đem thiêu sống, rồi vẫn tiếp tục kháng chiến. Ít lâu, ông bị giặc Pháp bắt giết ở mật trận Sơn Tây."
+  "id" : 1596,
+  "entityName" : "Nguyễn Văn Hiền",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Văn Hiền là một doanh nhân người Đức gốc Việt . Ông là Chủ tịch Hội đồng quản trị Trung tâm Thương mại Đồng Xuân , trung tâm thương mại lớn nhất của người Việt tại Đức .\n----------------------------------------------\nÔng được thụ phong linh mục ngày 21-12-1935, đến ngày 30-11-1955 đượctấn phong Giám mục. Từ cuối năm 1955 ông được giáo hội Thiên chúa giáo Roma cử trông nom giáo phận Sài Gòn - Đà Lạt suốt 18 năm. Ông mất ngày 5-9-1973 tại Đà Lạt thọ 67 tuổi."
 }

@@ -1,16 +1,18 @@
 {
-  "dateOfBirth": "Canh Dần 1891",
-  "dateOfDeath": "Tân Tị 1941",
-  "hometown": "quê ở tỉnh Quảng Đông (Trung Quốc) sang Việt Nam sinh sống ở Chợ Lớn",
-  "occupation": "Liệt sĩ cách mạng, gốc người Hoa",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "Giáp Thìn 1664",
+  "dateOfDeath" : "Đinh Dậu 1717",
+  "hometown" : "Không rõ",
+  "occupation" : "Vua nhà Hậu Lê",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "Lê Thần tông" : null
   },
-  "id": 1065,
-  "entityName": "Hà Bá Tuờng",
-  "aliases": [],
-  "overview": "Ông là cán bộ Hoa vận của Xứ ủy Nam Kì của đảng ĐCS Đông Dương. Địa bàn hoạt động của ông tại khu vực Sài Gòn - Chợ Lớn. Năm 1941 ông bị thực dân Pháp bắt biệt giam tại bót Catinat Sài Gòn. Tại đây ông bị tra tấn cực hình và hi sinh tại nhà tù Catinat vào tháng 8 năm 1941, hưởng dương 50 tuổi."
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
+  "id" : 1065,
+  "entityName" : "Lê Duy Hợp",
+  "aliases" : [ "Lê Hi Tông" ],
+  "overview" : "Khi vua cha mất, thân mẫu ông là Trịnh Thi mới có thai ông được 4 tháng. Trịnh Tạc đem về nuôi trong phủ. Anh ông là Gia tông chết, Tây vương Trịnh Tạc mới đưa ông lên nối ngôi vào ngày 12-6 năm Ất mão 1675. Bấy giờ, ông mới 11 tuổi quyền chính ở cả trong tay Chúa Trịnh. Ở ngôi được 30 năm, tháng 4 năm Ất dậu 1705, ông nhường ngôi cho con là Duy Đường mà làm Thái thượng hoàng. Đến năm Đinh dậu 1717. tháng 4 ông mất, lúc 54 tuổi, táng tại Phú lăng, làng Phú Lâm, huyện Đông Sơn, tỉnh Thanh Hóa. Thời gian ở ngôi 30 năm, ông đổi hiệu năm 2 lần: - Vĩnh Trị, 4 năm Bính thìn 1675 - Canh thân 1680. - Chính Hòa, 25 năm Canh thân 1680 - Ất dậu 1705."
 }

@@ -1,16 +1,14 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Quí Mùi 1583",
-  "hometown": "người làng Lương Xá, huyện Chương Đức, tỉnh Hà Đông (nay là Hà tây)",
-  "occupation": "Danh thần, có sách chép là Đặng Đình Huấn",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nam - Bắc Triều": 19
-  },
-  "id": 2455,
-  "entityName": "Đặng Tuấn",
-  "aliases": [],
-  "overview": "Từ năm 1549, ông theo Bá Ly về với nhà Lê, được phong ngay tước Khổng Lý Hầu. Rồi sau đó đốc xuất quân bộ làm tiên phong, lập nhiều chiến công. Năm Canh thân 1560, bị Mạc Kính Điền vây đánh rất ngặt ở Cao Lăng, ông phá vỡ được vòng vây, thu quân về Lam Sơn. Ít lâu được gia phong tước Nghĩa Quận Công. Năm Tân vị 1571 ông thăng Thiếu phó. Kỉ mão 1579 làm Tả đô đốc, Thái phó. Năm Quí vị 1583 đời Lê Thái tông, ông mất, được truy tặng Tả đô đốc, Thái úy, Nghĩa Quận Công, thụy là Cương Chính. Con gái ông là vợ Bình An vương Trịnh Tùng, sinh ra Trịnh Tráng, con trai là Tiến Vinh cũng được hiển đạt."
+  "dateOfBirth" : "14 tháng 11 năm 1931 Long Xuyên, Việt Nam",
+  "dateOfDeath" : "22 tháng 2 năm 2015 (84 tuổi) Nevada, Hoa Kỳ",
+  "hometown" : "Không rõ",
+  "occupation" : "Thuộc",
+  "workTenure" : "1951-1975",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 2455,
+  "entityName" : "Lý Tòng Bá",
+  "aliases" : [ ],
+  "overview" : "Lý Tòng Bá (1931-2015), nguyên là một tướng lĩnh gốc Kỵ binh của Quân lực Việt Nam Cộng hòa, cấp bậc Chuẩn tướng. Ông xuất thân từ những khóa đầu ở trường Võ bị Quốc gia do Chính phủ Quốc gia Việt Nam mở ra tại nam Cao nguyên Trung phần. Sau khi tốt nghiệp ông được chọn vào đơn vị Thiết giáp và ông đã phục vụ ở Binh chủng này lên đến chức vụ Chỉ huy trưởng. Trong thời gian tại ngũ, ông cũng được chuyển nhiệm vụ sang lĩnh vực Hành chánh (Tỉnh trưởng) kiêm Quân sự (Tiểu khu trưởng). Ông là Tư lệnh sau cùng của Sư đoàn 25 Bộ binh, đơn vị cuối cùng chiến đấu bảo vệ mặt phía bắc Sài Gòn trước khi thất thủ."
 }

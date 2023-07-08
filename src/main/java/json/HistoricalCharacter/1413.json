@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "…",
-  "dateOfDeath": "Tân Tị 1941",
-  "hometown": "quê làng Tân Phú, huyện Hóc Môn, tỉnh Gia Định (nay thuộc huyện Củ Chi, TP",
-  "occupation": "Liệt sĩ hiện đại, quê làng Tân Phú, huyện Hóc Môn, tỉnh Gia Định (nay thuộc huyện Củ Chi, TP",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "Đinh Sửu 1517",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Thổ Hoàng, huyện Thiên Thi, tỉnh Hưng Yên",
+  "occupation" : "Danh thần đời Mạc",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nam - Bắc Triều" : 19
   },
-  "id": 1413,
-  "entityName": "Phạm Văn Sáng",
-  "aliases": [],
-  "overview": "Ông tham gia cách mạng từ những năm 30 và sau đó được kết nạp vào ĐCSĐD vào buổi đầu ở Hóc Môn. Sau giữ chức Bí thư huyện ủy Hóc Môn từ năm 1939. Năm 1941, cuộc khởi nghĩa Nam Kì nổ ra tại Hóc Môn ngày 23-11-1940, ông được tổ chức phân công cùng ông Đặng Công Bỉnh (1907-1941) trực tiếp chỉ huy một cánh quân tấn công huyện lị Hóc Môn. Cuộc khởi nghĩa thất bại, ông bị Pháp bắt tại trận cùng một lần với chiến hữu trong đó có ông Đặng Công Bỉnh, và bị địch giết trong năm 1941 tại Hóc Môn."
+  "id" : 1413,
+  "entityName" : "Bùi Tuân",
+  "aliases" : [ ],
+  "overview" : "Năm Cảnh lịch 6 (Quí sửu 1553), đời Mạc Phúc Nguyên, ông 36 tuổi, đỗ tiến sĩ. Làm quan đến Tham chính, tính khảng khái cương trực. Các nguời cháu ông là Chân Nam, Công Trí, Công Bảo, Trọng Chính về sau đều thành đạt vẻ vang."
 }

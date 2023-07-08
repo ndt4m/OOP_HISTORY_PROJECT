@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Nguyễn Thị Lộ\n----------------------------------------------\n…",
-  "dateOfDeath": "1442\n----------------------------------------------\nNhâm Tuất 1442",
-  "hometown": "Quê làng Hải Trào, huyện Ngư Thiên, tỉnh Thái Bình",
-  "occupation": "Lễ nghi học sĩ (礼仪学士)\n----------------------------------------------\nVợ thứ Nguyễn Trãi",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Triều Lê Sơ": 7
+  "dateOfBirth" : "Mậu Thìn 1748",
+  "dateOfDeath" : "Quí Mão 1783",
+  "hometown" : "quê làng Ỷ La, hạt Từ Liêm, tỉnh Hà Đông (nay là thôn Ỷ La, xã Dương Nội, huyện Hoài Đức tỉnh Hà Tây)",
+  "occupation" : "Văn thần đời Lê Hiển tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
   },
-  "id": 2036,
-  "entityName": "Nguyễn Thị Lộ",
-  "aliases": [],
-  "overview": "Nguyễn Thị Lộ (chữ Hán: 阮氏路; ? - 1442), là một nữ quan triều Lê sơ và là người vợ lẽ của Nguyễn Trãi, một danh nhân nổi tiếng trong lịch sử Việt Nam. Tên tuổi bà từ lâu đã gắn liền với vụ thảm án Lệ Chi Viên xảy ra vào năm Nhâm Tuất (1442), dẫn đến cái chết của vợ chồng bà và cái án tru di tam tộc cho dòng họ Nguyễn Trãi.\n----------------------------------------------\nBà có sắc có tài, cha mẹ mất sớm, bà ngụ ở Tây Hồ, dệt và buôn chiếu. Tương truyền: Nguyễn Trãi gặp bà tỏ ý bằng một bài thơ: Ả ở đâu mà bán chiếu gon? Hỏi thăm chiếu ấy hết hay còn? Xuân xanh chừng độ bao nhiêu tuổi, Đã có chồng chưa? được mấy con? Bà đáp: Tôi ở Tây Hồ bán chiếu gon, Can chi ông hỏi hết hay còn? Xuân xanh chừng độ trăng tròn lẻ, Đã có chồng đâu, hỏi mấy con. Nguyễn Trãi cảm mến cùng bà gá nghĩa trăm năm. Sau bà lại được Lê Thái tông phong làm Lễ nghi nữ học sĩ. Khi Nguyễn Trãi lui về ẩn ở Côn Sơn, bà cũng theo về đấy. Năm Nhâm tuẩt 1442, ngày 4-5 âm lệch xa giá Lê Thái tông trên đường tuần du ngự đến Côn Sơn nơi Lệ Chi viên (vườn trái vải). Rồi xảy ra cái chết đột ngột của Thái tông khiến cả nhà họ Nguyễn Trãi mang họa, đưa đến cái án tru di thảm khốc vào ngày 16-8 âm lịch năm ấy. Bà cũng chịu chung số phận oan nghiệt với chồng."
+  "id" : 2036,
+  "entityName" : "Dương Nguyễn Huống",
+  "aliases" : [ ],
+  "overview" : "Năm Nhâm thìn 1772 ông đỗ Tiến sĩ, làm quan đến Hiến sát sứ Hải Dương, Hàn lâm hiệu thảo, nhưng chẳng bao lâu thì mất tại chức. Còn để lại con trai là Dương Nguyễn Hồng mới 3 tuổi. Nhờ có bạn đồng khoa đem về nuôi ăn học trở nên người hữu ích. Ngô Thì Nhậm là bạn thân của ông rất trân trọng cha con ông. Khi nghĩ về ông, Ngô Thì Nhậm viết: \"Ta cùng với anh Dương, quan Hiến sứ, chơi với nhau từ khi ta đỗ khoa Ất mùi 1775, rất tin nhau và rất hiểu nhau, đến như những bạn nắm tay nhau từ thuở trái đào cũng không bằng. Ta giao du trong thiên hạ rất nhiều, ngẫm cho kỹ, anh Dương thật là người quân tử vàng ngọc\". Và có bài thơ tưởng niệm ông: \"Mộng trung tương phản thập niên tiền, Kim kiến quân nhi lệ huyễn nhiên. Hữu hậu định tri hiền giả thọ, Tướng quân tử nhật tức sinh niên\". Bản dịch: Gặp anh trong mộng mười năm trước, Thấy cháu hôm nay lệ ứa quanh Có hậu hẳn là hiền lại thọ, Tưởng anh lúc chết ấy năm sinh."
 }

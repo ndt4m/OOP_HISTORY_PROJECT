@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Giáp Dần 1434",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê làng Đồng Trình (sau đổi là Tỉnh Thạch), huyện Thiên Lộc (sau là Can Lộc), tỉnh Hà Tĩnh",
-  "occupation": "Danh thần đời Lê Thánh tông, quê làng Đồng Trình ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Triều Lê Sơ": 7
+  "dateOfBirth" : "Ất Mão 1915",
+  "dateOfDeath" : "Quí Mùi 1943",
+  "hometown" : "quê làng Nghĩa Đô, ngoại thành Hà Nội",
+  "occupation" : "Nhà văn",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 2429,
-  "entityName": "Hà Công Trình",
-  "aliases": [
-    "Tỉnh Thạch"
-  ],
-  "overview": "Năm Bính tuất 1466, ông 32 tuổi đỗ Nhị giáp tiến sĩ, làm đến Thượng thư bộ Binh; Quốc tử tế tửu, Nhập thị kinh diên. Theo sách Thoái thực kí văn, chương I Trung kì: Thuở trẻ ông hàn vi, có lần say rượu nằm ngủ trên hòn đá bên đường, mộng thấy có người tới khuyên bảo: \"Sao không về đi học, bỏ uổng mất cái tài lỗi lạc, ông tỉnh dậy, trở về theo đòi nghiên bút đến nên danh. Khi đã quí hiển, ông mới xin đổi tên làng là Tỉnh Thạch (hòn đá thức tỉnh) như đã nói trên."
+  "id" : 2429,
+  "entityName" : "Vũ Trọng Can",
+  "aliases" : [ ],
+  "overview" : "Xuất thân trong một gia đình truyền thống Nho học, thân phụ là ông Vũ Năng Tĩnh một bậc túc nho ở Hà Nội. Những năm 30-40 ở thế kỉ XX, ông tham gia viết văn, làm báo cùng các bạn văn Lê Tràng Kiều, Bùi Huy Phồn, Nguyễn Bính lập tuần báo Tiểu thuyết thứ năm. Ông giữ chức biên tập kiêm thư kí tòa soạn báo, công tác với Hà Nội báo. Ông cũng là người từng lập ban kịch Hà Nội lưu diễn tại các tỉnh miền Bắc và bắc Trung Bộ (Huế). Phần lớn tiểu thuyết ông thuộc khuynh hướng lãng mạn. Các tác phẩm chính: - Nước mắt người đàn bà (Tiểu thuyết, Hương Sơn XB, 1940) - Sự động cỡn của đàn bà (Tiểu thuyết, Hà Nội XB, 1940) - Tâm lí ái tình (Tiểu thuyết, Minh Phương XB, 1940) - Người em sầu mộng (Tiểu thuyết, Cộng Lực XB, 1941) - Tang tóc (Tiểu thuyết, Tân Việt XB, 1942) - Dã tràng xe cát (truyện, Hà Nội XB, 1942) - Người Chiến Quốc liệt truyện (truyện, Đời Mới XB, 1943) - Cái tủ chè (kịch, 1943) Ông mất vì bệnh cấp tính tại quê nhà trong năm 1943 lúc đang độ sáng tác sung sức."
 }

@@ -1,19 +1,20 @@
 {
-  "dateOfBirth": "Canh Dần 1770",
-  "dateOfDeath": "Ất Hợi 1815",
-  "hometown": "quê làng Du Lâm, huyện Đông Ngạn, phủ Từ Sơn, tỉnh Bắc Ninh",
-  "occupation": "Danh sĩ đời Gia Long",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "1396\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "?\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua",
+  "workTenure" : "1398 - 1400\n----------------------------------------------\n1398—1400",
+  "fatherName" : {
+    "Trần Thuận Tông" : 279
   },
-  "id": 2254,
-  "entityName": "Nguyễn Án",
-  "aliases": [
-    "Kính Phủ",
-    "Ngu Hồ"
-  ],
-  "overview": "Xuất thân trong một gia đình khoa bảng truyền thống, ông cố là Tiến sĩ Nguyễn Kham, ông nội là Tiến sĩ Nguyễn Ý, thân phụ là Nguyễn Chí Hoàn. Ngoài ra bà con thúc bá đều xuất thân đại khoa từ đời hậu Lê. Năm Ất sửu 1805, ông được Gia Long mời ra làm Tri huyện huyện Phù Dung tỉnh Hưng Yên, nhưng chẳng bao lâu ông từ quan về ở ẩn tại quê nhà. Năm Đinh mão 1807 ông đỗ Cử nhân. tại trường thi Kinh Bắc (Bắc Ninh, sau nhập chung với Trường Thăng Long) khoa thi Hương đầu tiên của triều Nguyễn, rồi lại ra làm Tri huyện Tiên Minh, tỉnh Kiến An. Năm Ất họi 1815 ông mất. Các tác phẩm của ông, gồm: - Phong Lâm minh lãi thi tập - Tang thương ngẫu lục (hợp soạn với Phạm Đình Hổ) Tang thương ngẫu lục (Tình cờ chép việc dâu bể) được khắc in năm 1806 chia ra làm 2 quyển: quyển thượng 40 bài, quyển hạ 50 bài. Mỗi bài đều có tên tựa của tác giả hoặc Tùng Niên (Phạm Đình Hổ) hoặc Kính Phủ (Nguyễn Án). Các bài trong sách có thề chia ra làm 5 mục sau: - Danh nhân: Chu An, Nguyễn Trãi, Đặng Trần Côn... - Thắng cảnh: núi Dục Thúy, núi Phật Tích... - Di tích: Bia núi Thanh Nam, Tháp Báo thiên... - Việc cuối đời Lê: thi Hội cuối đời Lê, lễ triều hạ đời Lê Cảnh Hưng. -.Chuyện lạ: Chuyện Hoàng Sầm, Nguyễn Bá Dương, Nguyễn Văn Giai..."
+  "motherName" : {
+    "Khâm Thánh hoàng hậu" : null
+  },
+  "eraName" : {
+    "Nhà Trần" : 15
+  },
+  "id" : 2254,
+  "entityName" : "Trần Thiếu Đế",
+  "aliases" : [ "Kiến Tân (建新)", "Trần An (陳 )" ],
+  "overview" : "Trần Thiếu Đế (chữ Hán: 陳少帝; 1396 - ?), là vị Hoàng đế thứ 12 và là vị Hoàng đế cuối cùng của Triều đại nhà Trần trong lịch sử Việt Nam.\n----------------------------------------------\nvua Trần Thiếu Đế (chữ Hán: 陳少帝; 1396 - ?) là vị Vua thứ 13 và là vị vua cuối cùng của Triều đại nhà Trần trong lịch sử Việt Nam."
 }

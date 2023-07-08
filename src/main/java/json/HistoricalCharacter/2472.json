@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Vua",
-  "workTenure": "1369—1370",
-  "fatherName": {
-    "Trần Dụ Tông": 1126
+  "dateOfBirth" : "Giáp Thân 1944",
+  "dateOfDeath" : "Mậu Thân 1968",
+  "hometown" : "quê xã Đoàn Hùng huyện Duyên Hà, tỉnh Thái Bình (nay vẫn thuộc tỉnh Thái Bình)",
+  "occupation" : "Nhà văn, Liệt sĩ hiện đại, cựu sinh viên tranh đấu Sài Gòn",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nước Việt Nam mới" : 29
   },
-  "motherName": {},
-  "eraName": {
-    "Nhà Trần": 15
-  },
-  "id": 2472,
-  "entityName": "Đại Định Đế",
-  "aliases": [],
-  "overview": "Dương Nhật Lễ (chữ Hán: 楊日禮 1349 – 7 tháng 12 năm 1370), tên ngoại giao với Trung Quốc là Trần Nhật Kiên (陳日熞), còn gọi Hôn Đức Công (昏德公), là hoàng đế thứ 8 của Vương triều Trần nước Đại Việt. Ông nguyên là con trai ruột của người họ Dương, được Cung Túc Vương Trần Nguyên Dục – anh vua Trần Dụ Tông nhận làm con nuôi. Trần Dụ Tông không có con nên khi chết có di chiếu truyền ngôi cho Nhật Lễ. Ông lên ngôi, lấy các anh, em khác mẹ của Dụ Tông làm Tể tướng, trị vì từ ngày 15 tháng 6 năm Kỷ Dậu (tức 18 tháng 7 năm 1369) đến ngày 13 tháng 11 năm Canh Tuất (tức 1 tháng 12 năm 1370)."
+  "id" : 2472,
+  "entityName" : "Trần Triệu Luật",
+  "aliases" : [ ],
+  "overview" : "Năm 1954 ông theo gia đình di cư vào sinh sống ở Sài Gòn, cựu học sinh trường Chu Văn An (Sài Gòn) cựu sinh viên Đại học luật khoa Sài Gòn. Ông từng tham gia và là thành viên của Ban chấp hành Tổng hội sinh viên Sài Gòn (1963-1968). Ông là một trong các \"lãnh tụ\" sinh viên tổ chức hướng dẫn các cuộc biểu tình chống Mĩ và các thế lực phản động Sài Gòn một thời vang vọng. Các năm 1967, 1968 ông có chân trong Liên minh các lực lượng dân tộc, dân chủ và hòa bình miền Nam Việt Nam. Lúc viết văn, làm báo ông cộng tác với các báo và tạp chí: Bách khoa, Hành trình, Đất nước Đối diện... là những báo có uu tín ở miền Nam Việt Nam vào thời điểm trên. Sau Tổng tiến công Mậu thân (1968) ông thoát li ra vùng Giải phóng và hi sinh trên đường công tác ở Tây Ninh ngày 11-10-1968 cùng địa điểm với thi sĩ, liệt sĩ Trần Quang Long (1941-1968). Các tác phẩm của ông hầu hết là các chuyên đề đăng trong các tạp chí vừa dẫn ở trên."
 }

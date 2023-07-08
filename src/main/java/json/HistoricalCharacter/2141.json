@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Xử sĩ cuối đời Trần",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Trần": 15
+  "dateOfBirth" : "Tân Hợi 1791",
+  "dateOfDeath" : "Đinh Mão 1867",
+  "hometown" : "quê ở Thủ Đức, tỉnh Gia Định (nay thuộc quận Thủ Đức, thành phố Hồ Chí Minh)",
+  "occupation" : "Con gái Phước Quốc Công Hồ Văn Bôi",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 2141,
-  "entityName": "Hồ Huyền Quy",
-  "aliases": [],
-  "overview": "Ông có tài văn thơ. Nhân thời cuộc rối rắm, lại không phục Hồ Quí Ly lúc ấy đang nắm quyền chính, có ý khuynh đảo nhà Trần, ông lánh mình ở ẩn. Tập thơ Trinh thử của ông còn được lưu truyền, vốn ngụ ý châm biếm Quí Ly và hoàn cảnh chính trị thời ấy. Tác phẩm bằng văn Nôm, 850 câu, thể lục bát. Tục gọi Thơ nàng chuột, có giá trị về luân lí và triết lí."
+  "id" : 2141,
+  "entityName" : "Hồ Thị Hoa",
+  "aliases" : [ ],
+  "overview" : "Năm Bính dần 1806, mới 15 tuổi, bà được tuyển vào cung và sau trở thành chánh hậu của vua Minh Mạng, duệ hiệu của bà là Tá Thiên nhân hoàng hậu. Vì kiêng húy bà, nên chữ Hoa thường đọc trại là Ba hoặc Huê, Bông. Như cầu Hoa gọi là cầu Bông, chợ Đông Hoa ở Huế, đọc trạnh là Đông Ba. Con bà là Nguyễn Phúc Dung (Miên Tông) được lập Thái tử, về sau nối ngôi Minh Mạng, tức vua Thiệu Trị (1840-1848)."
 }

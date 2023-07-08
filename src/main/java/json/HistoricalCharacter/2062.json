@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê ở quê làng Bình Hồ, huyện La Sơn, trấn Nghệ An (nay thuộc xã Yên Hồ, Đức Thọ, Hà Tĩnh).",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Hậu Trần": null
+  "dateOfBirth" : "Canh Ngọ 1870",
+  "dateOfDeath" : "Tân Mùi 1931",
+  "hometown" : "quê ở làng Lương Điền, huyện Thanh Chương, tỉnh Nghệ An",
+  "occupation" : "Chí sĩ cận đại",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 2062,
-  "entityName": "Nguyễn Biểu",
-  "aliases": [],
-  "overview": "Nguyễn Biểu (chữ Hán: 阮表), ? (có tài liệu ghi là 1350) - 1413, là tướng nhà Hậu Trần trong lịch sử Việt Nam, quê ở quê làng Bình Hồ, huyện La Sơn, trấn Nghệ An (nay thuộc xã Yên Hồ, Đức Thọ, Hà Tĩnh)."
+  "id" : 2062,
+  "entityName" : "Đặng Thúc Hứa",
+  "aliases" : [ "Ngọ Sinh", "Tú Ngọ Sinh", "Tú Hứa" ],
+  "overview" : "Ông là em ruột Đặng Nguyên Cẩn, một nhà anh em đều nhiệt thành yêu nước, cả các cháu của ông như Đặng Thị Hợp, Đặng Quỳnh Anh cũng đều tích cực hoạt động cách mạng. Năm Ất tị 1905, ông xuất dương sang Nhật, sau được Phan Bội Châu phái về hoạt động ở Thái Lan. Giặc Pháp từng sai người sang mua chuộc ông, đều bị ông phản đối. Tại Thái Lan, ông làm chủ nhiệm tờ Đồng Thanh xuất bản ở Ban Đọng, thuộc tỉnh Phi Chịt từ 1927 đến 1930. Đến năm Tân mùi 1931, ông từ trần ở Oudoune thuộc khu đông bắc Thái Lan, thọ 61 tuổi. Sinh thời ông có thay mặt các Việt kiều ở Thái Lan làm bài văn truy điệu các nghĩa dân, liệt sĩ, đã bỏ mình trong hai cuộc khởi nghĩa Yên Bái và Nghệ Tĩnh lời lẽ rất thống thiết được truyền tụng."
 }

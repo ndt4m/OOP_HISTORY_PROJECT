@@ -1,22 +1,20 @@
 {
-  "dateOfBirth": "499?\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath": "555 động Dã Năng\n----------------------------------------------\nKhông rõ",
-  "hometown": "Không rõ",
-  "occupation": "Vua nước Dã Năng\n----------------------------------------------\nVua",
-  "workTenure": "548 – 555\n----------------------------------------------\n549—555",
-  "fatherName": {
-    "Lý Toản": null
+  "dateOfBirth" : "22 tháng 6, 662 Hàm Lương điện, Bồng Lai cung, Trường An",
+  "dateOfDeath" : "13 tháng 7, 716 (54 tuổi) Bách Phúc điện, Trường An",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Đại Đường",
+  "workTenure" : "27 tháng 2 năm 684 - 19 tháng 10 năm 690 (6 năm, 234 ngày)",
+  "fatherName" : {
+    "Đường Cao Tông" : null
   },
-  "motherName": {},
-  "eraName": {
-    "Nhà Tiền Lý": 36,
-    "Nhà Tiền Lý và Triệu Việt Vương": 36
+  "motherName" : {
+    "Võ Tắc Thiên" : 1693
   },
-  "id": 1951,
-  "entityName": "Lý Đào Lang Vương",
-  "aliases": [
-    "Lý Thiên Bảo",
-    "Đào Lang Vương"
-  ],
-  "overview": "Lý Thiên Bảo (chữ Hán:李天寶; 499?-555) vua nước Dã Năng (tồn tại phía tây với nhà Tiền Lý) trong lịch sử Việt Nam. Ông tham gia cuộc chiến chống quân Lương giữ nước Vạn Xuân và cát cứ ở Dã Năng thời Triệu Việt Vương."
+  "eraName" : {
+    "Nhà Đường (唐)" : null
+  },
+  "id" : 1951,
+  "entityName" : "Lý Đán",
+  "aliases" : [ "Tên thật Lý Đán (李旦) Lý Húc Luân (李旭轮) Lý Luân (李轮) Võ Đán (武旦) Niên hiệu Văn Minh (文明; 2/684-8/684) Cảnh Vân (景云; 7/710-1/712) Thái Cực (太极; 1/712-4/712) Diên Hòa (延和; 5/712-8/712) Thụy hiệu Đại Thánh Chân hoàng đế (大聖真皇帝) Huyền Chân Đại Thánh hoàng đế (玄真大圣皇帝) Huyền Chân Đại Thánh Đại Hưng Hiếu hoàng đế (玄真大聖大興孝皇帝) Miếu hiệu Duệ Tông (睿宗)" ],
+  "overview" : "Đường Duệ Tông (chữ Hán: 唐睿宗, 22 tháng 6, 662 - 13 tháng 7, 716), húy Lý Đán (李旦), là vị Hoàng đế thứ năm và thứ bảy của nhà Đường trong lịch sử Trung Quốc, ở ngôi hai lần vào các thời điểm 27 tháng 2 năm 684 - 8 tháng 10 năm 690, và 25 tháng 7 năm 710 - 8 tháng 9 năm 712."
 }

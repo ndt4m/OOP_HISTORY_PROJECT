@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "không rõ quê quán",
-  "occupation": "Võ tướng",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Thuộc Minh": 33
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Người đời Lê Nhân tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Triều Lê Sơ" : 7
   },
-  "id": 2232,
-  "entityName": "Lê Lăng",
-  "aliases": [],
-  "overview": "Ông tận tụy hi sinh, hăng say chống địch, trăm trận xem thường sống chết, được Lê Lợi trọng vọng, phong tước là Tư Quận Công. Con ông là Lê Ngang cũng là viên dũng tướng, lừng danh trong các chiến dịch đánh thành Cổ Lộng, Nghệ An."
+  "id" : 2232,
+  "entityName" : "Đào Biểu",
+  "aliases" : [ ],
+  "overview" : "Trong tập thơ vịnh sử Lê triều khiếu vịnh thi tập Hà Nhậm Đại có bài vịnh về ông: \"Cung trung truyền mệnh nhất hoàng môn, Túc dạ vô vong báo chủ ân. Quốc điền tinh trung danh bất hủ, Nghi Dân nghịch tặc kỉ hà tồn? \" Bản dịch: Hoàng môn nhậm chức quan hầu cận Khuya sớm ơn vua báo nghĩa sâu. Lệ ruớc tôi trung truyền bất hủ, Nghi Dân loại giặc hỏi còn bao?"
 }

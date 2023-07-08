@@ -1,17 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Hà Nội",
-  "occupation": "Danh thần, lúc đầu làm quan nhà Mạc, sau qui thuận nhà Lê Trung Hưng",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34,
-    "Nam - Bắc Triều": 19
+  "dateOfBirth" : "Bính Thân 1476",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Vọng Nguyệt, huyện Yên Phong, tỉnh Bắc Ninh",
+  "occupation" : "Văn thần đời vua Lê Uy Mục",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nam - Bắc Triều" : 19,
+    "Triều Lê Sơ" : 7
   },
-  "id": 2476,
-  "entityName": "Bùi Trụ",
-  "aliases": [],
-  "overview": "Con Quản Quốc công Bùi Xương Trạch, anh Mai Quận công Bùi Vịnh và là chú Tiên Quận công Bùi Bình Uyên. Danh sĩ Bùi Huy Bích cũng dòng dõi họ Bùi này. Quê làng Định Công, huyện Thanh Trì, trú làng Thịnh Liệt công trong huyện ấy, thuộc tỉnh Hà Đông (nay thuộc Hà Nội). Ông làm quan nhà Mạc đến chức Tân lí, tước Đồng Giang Hầu. Sau, ông dẫn cháu là Bùi Bình Uyên, cùng với Lê Bá Ly (nhạc phụ Bùi Bình Uyên) vào Thanh Hóa, qui thuận nhà Lê, được vua trọng dụng, làm đến Thượng thư bộ Hộ, gia phong Hiệp mưu tá lí công thần, tặng Thái phó."
+  "id" : 2476,
+  "entityName" : "Hứa Tam Tĩnh",
+  "aliases" : [ ],
+  "overview" : "Ông đẹp trai, nổi tiếng văn học, đi thi khoa Mậu thìn 1508, ông đỗ bảng nhãn, 32 tuổi. Bấy giờ, vị trạng nguyên khoa này là Nguyễn Giản Thanh, tướng mạo kém ông. Khi các vị tân khoa vào chầu, nhà vua khen tướng mạo ông và gọi đùa là \"Mạo Trạng nguyên\" (Trạng nguyên dáng đẹp). (Lại nữa, Nguyễn Giản Thanh quê làng Ông Mặc, tục gọi làng Me, còn ông quê làng Vọng Nguyệt, tục gọi là Ngọt; vì thế dân gian còn có ca dao: Trạng Me đè Trạng Ngọt, Trạng Ngọt vọt Trạng Me Khi làm chức Thị thư, khoảng năm Quí dậu 1513, ông sung chức Phó sứ, sang nhà Minh. Về sau, ông lại làm quan nhà Mạc đến chức Thượng thư bộ Lại, tước Đôn giáo Hầu. Rồi cùng Nguyễn Văn Thái đi sứ nhà Minh, cầu phong cho họ Mạc. Lúc về, được tặng Thiếu bảo, lãnh việc dạy con vua Mạc."
 }

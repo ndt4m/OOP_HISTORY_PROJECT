@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "1587",
-  "dateOfDeath": "1693",
-  "hometown": "người làng Phù Chẩn, huyện Đông Ngàn, phủ Từ Sơn, Kinh Bắc (nay là xã Phù Chẩn, thị xã Từ Sơn, tỉnh Bắc Ninh).",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 259,
-  "entityName": "Nguyễn Xuân Chính",
-  "aliases": [],
-  "overview": "Nguyễn Xuân Chính (chữ Hán: 阮春正, 1587 - 1693) người làng Phù Chẩn, huyện Đông Ngàn, phủ Từ Sơn, Kinh Bắc (nay là xã Phù Chẩn, thị xã Từ Sơn, tỉnh Bắc Ninh). Đỗ trạng nguyên khoa Đinh Sửu, niên hiệu Dương Hòa thứ 3 (1637), đời Lê Thần Tông khi đó ông đã 50 tuổi, là trạng nguyên già nhất trong lịch sử. Làm quan đến Tả thị lang Lại bộ, Nhập thị Kinh diên, tước Đạo Ngạn bá. Sau khi mất, ông được tặng chức Thượng thư, tước hầu. Có tài liệu ghi ông là Nguyễn Xuân Sinh ."
+  "dateOfBirth" : "Giáp Dần 1854",
+  "dateOfDeath" : "Nhâm Tí 1912",
+  "hometown" : "Quê xã Đông Sàng, huyện Phúc Thọ, tỉnh Sơn Tây (nay là tỉnh Hà Tây)",
+  "occupation" : "Danh sĩ, ông còn có tên khác nữa là Kiều Dực",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
+  },
+  "id" : 259,
+  "entityName" : "Kiều Oánh Mậu",
+  "aliases" : [ "Kiều Dực", "Kiều Cung" ],
+  "overview" : "Ông có tài văn thơ, tự là Tử Yến, hiệu Giá Sơn, đỗ cử nhân năm Kỉ mão 1879, và năm sau Canh thìn 1880, đỗ phó bảng. Ông được bổ làm Tri phủ, ít lâu bị giáng làm Tri huyện. Ông đã ngồi trấn nhậm nhiều nơi, rồi bỏ ấn từ quan, ra giúp việc tại tòa soạn báo Đồng Văn ở Hà Nội. Ngoài việc xuất bản cuốn Đoạn trường tân thanh, ông còn soạn truyện Tì bà, làm thêm hai bản án thổ quan và ngư phủ nối sau tập Kim Vân Kiều án của Nguyễn Văn Thắng. Ông cũng có đề tựa sách Tang thương ngẫu lục, duyệt lại sách Bút toán chỉ nam và soạn sách Bản triều bạn nghịch liệt truyện nói về các vụ khởi nghĩa chống nhà Nguyễn. Năm Nhâm tí 1912, ông mất, thọ 58 tuổi."
 }

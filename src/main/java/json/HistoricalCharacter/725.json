@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "…",
-  "dateOfDeath": "Canh Thân 1800",
-  "hometown": "quê làng Uy Viễn, huyện Nghi Xuân, tỉnh Hà Tĩnh",
-  "occupation": "Danh thần đời Lê Hiển tông, thân phụ Uy Viễn tướng công Nguyễn Công Trứ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Canh Thìn 1530",
+  "hometown" : "Quê huyện Yên Phong, tỉnh Bắc Ninh",
+  "occupation" : "Văn thần đời Lê Chiêu tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Triều Lê Sơ" : 7
   },
-  "id": 725,
-  "entityName": "Nguyễn Công Tấn",
-  "aliases": [],
-  "overview": "Ông đỗ cử nhân, làm quan thời Lê mạt. Ông làm giáo thụ phủ Anh Sơn (Nghệ An), sau thăng Tri huyện huyện Quỳnh Côi, rồi Tri phủ Tiên Hưng (Thái Bình). Năm Bính ngọ 1786, ông được Lê Chiêu Thống phong tước Đức Ngạn Hầu, lãnh chức Tham tán nhung vụ trấn Sơn Nam. Không chống nổi với Tây Sơn, Lê Chiêu Thống và đám cận thần chạy sang Trung Quốc, ông lui về quê ở Hà Tĩnh, mở trường dạy học trong năm 1789. Năm Canh thân 1800 ông mất. Ông có 6 người con: 3 trai, 3 gái, Nguyễn Công Trứ là trai đầu lòng. Vợ ông cũng họ Nguyễn, con gái viên Quản nội thị, tước Cảnh Nhạc Bá, người xã Phụng Dực, huyện Thượng Phúc, trấn Sơn Nam (Hà Đông)."
+  "id" : 725,
+  "entityName" : "Nghiêm Bá Ký",
+  "aliases" : [ ],
+  "overview" : "Ông có tài đức, từng giữ chức vụ cao trong triều, tước Bình Minh Bá. Năm Đinh hợi 1527, Mạc Đăng Dung cướp quyền vua Lê, ông vẫn trung thành với nhà Hậu Lê. Năm Quang Thiệu 5 (Canh thân 1530) ông lãnh mật chiếu Cần vương, phát động quân sĩ chống nhà Mạc. Thất trận, thua to, ông chạy đến châu Văn Uyên, tỉnh Lạng Sơn, rút gươm tự tử sau khi chết được xưng tụng tiết nghĩa."
 }

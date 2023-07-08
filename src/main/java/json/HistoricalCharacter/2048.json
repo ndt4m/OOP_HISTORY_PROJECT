@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "Mậu Dần 1878",
-  "dateOfDeath": "Giáp Dần 1914",
-  "hometown": "Quê làng Thịnh Hào, Hà Đông (nay thuộc Hà Nội)",
-  "occupation": "Có sách chép ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "Đinh Dậu 1897",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Chánh Hưng, tỉnh Chợ Lớn",
+  "occupation" : "Bác sĩ, tác giả. Bác sĩ điều trị bệnh viện Sài Gòn, quê làng Chánh Hưng, tỉnh Chợ Lớn",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 2048,
-  "entityName": "Đỗ Cơ Quang",
-  "aliases": [
-    "Đỗ Văn Viêm",
-    "Chân Thiết"
-  ],
-  "overview": "Ông theo nho học, thi một lần không đỗ bỏ luôn khoa cử. Ông nhiệt thành yêu nước. Thuở trẻ hoạt động trong phong trào Văn thân, ông cùng đồng chí là Hương Sơn thào bản Hưng Quốc sách, nội dung buộc Pháp xét lại hòa ước Giáp tuất (1874) và đòi lại chủ quyền quốc gia. Về mặt kinh tài, ông ngồi thuyền tải gạo từ Hải Dương, Thái Bình lên Hà Nội bán; đồng thời góp vốn với các đồng chí mở hiệu buôn \"Đồng Lợi Tế\" và hiệu \"Tụy Phương\", lấy lời sung vào quĩ Đông kinh nghĩa thục. Giặc Pháp khủng bố, đàn áp các phong trào cứu quốc ông ẩn lánh ít lâu, đến Nhâm tí 1912 ông xuất dương sang Trung Quốc. Ông tích cực hoạt động nhằm giao du liên kết với các đồng chí dũng cảm chủ trương bạo động, đánh Pháp cướp nước. Cuối năm Quí sửu 1913, nhiều lần ông lén về nước ráo riết xếp đặt cuộc võ trang khởi nghĩa. Rồi sang năm Giáp dần 1914, khi vừa phát động trận đảnh ở Lào Cai, ông đã bị ngừời cháu họ là Nguyễn Hắc Sơn phản bội, cùng với quan thầy là Nguyễn Hà Tường tố cáo với quân cướp nước. Ông và các chiến hữu gồm 58 người bị giặc Pháp bắt giết ở Lạng Sơn ngay trong năm ấy. Đặng Đoàn Bằng có bài thơ điếu ông: \"Quân khứ ư kim lục tài dư Giang sơn đồng khấp vị thùy cừ. Nam trì bắc sậu tâm chung khổ, Càn chuyển khôn hoàn mộng tổng hư. Thảm nguyệt chiếu tàn Nhai thụy trủng Sầu vân tái mãn Việt Điền xa. Tư quân cách ức Hoàng Hoa cúc, Khảng khái đương niên nhiễm huyết thư. \" Bản dịch: Hơn sáu năm nay vắng tướng ông, Núi sông than khóc lệ tuôn ròng. Đi về Nam Bắc lòng riêng khổ, Xoay chuyển càn khôn mộng hóa không. Nấm mộ Lào Cai vầng nguyệt dọi, Con đưòng Điền Việt đám mây hồng. Nhớ ở ông lại nhớ Hoàng hoa cúc, Khảng khái năm xưa nhuốm máu hồng. Các tác phẩm của ông: Hưng Quốc sách..."
+  "id" : 2048,
+  "entityName" : "Nguyễn Văn Tung",
+  "aliases" : [ ],
+  "overview" : "Năm 1923 tốt nghiệp Học viện Y học Thuộc địa Paris, năm 1925 tốt nghiệp Bác sĩ y khoa. Từng là hội viên Hội Da bệnh học và Giang mai học Pháp quốc, hội viên sáng lập công đoàn quốc gia Da bệnh học, Hoa liễu học thuộc cộng đồng sử dụng tiếng Pháp. Năm 1926 giữ chức Viện trưởng Viện Y tế Dự phòng Sài Gòn cho đến năm 1944. Năm 1945 ông tham gia hoạt động xã hội, có mặt trong các tổ chức chống Pháp tại Sài Gòn. Ông từng khẳng định: \"Pháp phải nhìn nhận Việt Nam độc lập, Việt Nam sẽ là một nước hội viên của Liên hiệp Pháp\" (Le Trait d'union). Năm 1946 ông tham gia hội nghị Trù bị Pháp Việt tại Đà Lạt trong thành phần cố vấn, nhưng sau đó bị Pháp bắt trục xuất về Sài Gòn trước sự công phẫn của phái đoàn Việt Nam. Ông là tác giả nhiều công trình nghiên cứu y học và xã hội học. Các tác phẩm của ông hầu hết được viết bằng tiếng Pháp và có giá trị khoa học cao, riêng về y khoa có hơn 90 chuyên đề."
 }

@@ -1,26 +1,16 @@
 {
-  "dateOfBirth": "25 tháng 5 năm 1791 Gia Định, Đại Việt",
-  "dateOfDeath": "20 tháng 1, 1841 (49 tuổi) Huế, Đại Nam",
-  "hometown": "Không rõ",
-  "occupation": "Hoàng đế Đại Nam",
-  "workTenure": "1820 – 1841",
-  "fatherName": {
-    "Gia Long": 1894
+  "dateOfBirth" : "Canh Dần 1110",
+  "dateOfDeath" : "Ất Dậu 1165",
+  "hometown" : "quê ở làng Trường Nguyên, huyện Tiên Du, tỉnh Bắc Ninh nên đương thời gọi ông là sư Trường Nguyên - theo tên quê ông",
+  "occupation" : "Thiền sư đời Lý Anh tông, không rõ tên và pháp danh",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Lý" : 14
   },
-  "motherName": {
-    "Thuận Thiên Cao Hoàng hậu": null
-  },
-  "eraName": {
-    "Nhà Nguyễn": null
-  },
-  "id": 2034,
-  "entityName": "Nguyễn Thánh Tổ",
-  "aliases": [
-    "Thánh Tổ (聖祖)",
-    "Minh Mệnh",
-    "Nguyễn Phúc Đảm (阮福膽) Nguyễn Phúc Kiểu (阮福晈)",
-    "Nhân Hoàng đế (仁皇帝)",
-    "Minh Mạng (明命): 1820 - 1841"
-  ],
-  "overview": "Minh Mạng (chữ Hán: 明命, 25 tháng 5 năm 1791 – 20 tháng 1 năm 1841) hay Minh Mệnh, là vị Hoàng đế thứ hai của nhà Nguyễn, vương triều cuối cùng của nền quân chủ Việt Nam. Ông trị vì từ năm 1820 đến khi qua đời, được truy tôn miếu hiệu là Nguyễn Thánh Tổ (阮聖祖)."
+  "id" : 2034,
+  "entityName" : "Phan Trường Nguyên",
+  "aliases" : [ ],
+  "overview" : "Ông đi tu từ nhỏ, học với sư Âu Đạo Huệ, rồi về ẩn ở núi Từ Sơn, được truyền tâm ấn thuộc thế hệ thứ 10 dòng thiền Quan Bích. Vua Lý Anh tông từng nhờ người bạn cũ của ông là Lê Hội đi triệu ông về kinh. Ông chấp nhận ra đi, nhưng được nửa đường ông hối lại, bỏ trở về núi. Sau ông trụ trì ở chùa Sóc Thiên núi Vệ Linh (nay thuộc huyện Kim Anh, tỉnh Vĩnh Phú). Ngày 7-6 âm tịch năm Đinh dậu (16-7-1165), ông mất hưởng dương 55 tuổi."
 }

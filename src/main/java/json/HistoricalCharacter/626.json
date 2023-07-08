@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "sinh ngày 16",
-  "dateOfDeath": "Không rõ",
-  "hometown": "xã Cát Lâm, huyện Phù Cát, tỉnh Bình Định) là một chính trị gia người Việt Nam.",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 626,
-  "entityName": "Lê Diễn",
-  "aliases": [],
-  "overview": "Lê Diễn (sinh ngày 16.4.1960 tại xã Cát Lâm, huyện Phù Cát, tỉnh Bình Định) là một chính trị gia người Việt Nam. Chức vụ: Ủy viên Trung ương Đảng, Bí thư Tỉnh ủy Đắk Nông. Ông là đại biểu Quốc hội Việt Nam khóa 13, trưởng đoàn đại biểu Đắk Nông."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê xã Nông Sơn, huyện Điện Bàn, tỉnh Quảng Nam",
+  "occupation" : "Liệt sĩ đời Lê Anh tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
+  "id" : 626,
+  "entityName" : "Đào Bí",
+  "aliases" : [ ],
+  "overview" : "Tính ông dũng cảm, có nghĩa khí, giỏi võ nghệ, được bổ làm Đồng Tổng tri ở huyện Hải Khang. Trong vùng ông trị nhậm nhân dân sống yên ổn khỏi lo trộm cướp khuấy nhiễu. Gặp khi trong nước có nhiều biến loạn, ông có công đánh dẹp, triều đình càng trọng dụng. Khi ông mất, được phong Phúc thần."
 }

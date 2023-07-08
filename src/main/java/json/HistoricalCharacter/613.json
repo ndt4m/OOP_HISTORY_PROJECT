@@ -1,25 +1,18 @@
 {
-  "dateOfBirth": "21 tháng 2, 711",
-  "dateOfDeath": "16 tháng 5, 762 (51 tuổi)",
-  "hometown": "Không rõ",
-  "occupation": "Hoàng đế Đại Đường",
-  "workTenure": "12 tháng 8 năm 756 – 16 tháng 5 năm 762 (5 năm, 277 ngày)",
-  "fatherName": {
-    "Đường Huyền Tông": null
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Võ tướng đời Lê Thái tổ",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "Lê Lai" : 2865
   },
-  "motherName": {
-    "Dương Quý tần": null
+  "motherName" : { },
+  "eraName" : {
+    "Triều Lê Sơ" : 7
   },
-  "eraName": {
-    "Nhà Đường": null
-  },
-  "id": 613,
-  "entityName": "Lý Hanh",
-  "aliases": [
-    "Chí Đức (至德; 756-758) Càn Nguyên (乾元; 758-760) Thượng Nguyên (上元; 760-762) Bảo Ứng (寶應; 762)",
-    "Văn Minh Võ Đức Đại Thánh Đại Tuyên Hiếu hoàng đế (文明武德大聖大宣孝皇帝)",
-    "Lý Hanh (李亨)",
-    "Túc Tông (肅宗)"
-  ],
-  "overview": "Đường Túc Tông (chữ Hán: 唐肃宗; 21 tháng 2, 711 - 16 tháng 5, 762), tên thật Lý Hanh (李亨), là vị Hoàng đế thứ 8, hay thứ 10 của nhà Đường trong lịch sử Trung Quốc."
+  "id" : 613,
+  "entityName" : "Lê Lư",
+  "aliases" : [ ],
+  "overview" : "Một nhà cha con, anh em ông đều nhiệt thành đứng dưới cờ giải phóng của Bình Định vương Lê Lợi, tận tụy kháng Minh cứu nước. Khi thân phụ ông hi sinh vì tổ quốc, ông càng oanh liệt xông pha trận mạc, trước báo thù cha, sau đền nợ nước. Khoảng năm Ất tị 1425, khi mở cuộc tổng tấn công, vây thành Nghệ An, ông cùng các tướng chia nhau đánh các nơi, mất tại trận. Nước non yên ổn, ghi công ơn ông, Lê Thái tổ truy tặng ông là Thái úy (Mậu thân 1428). Đến đời Lê Thánh tông, lại truy tặng tước là Kiến Tiết Hầu (Giáp thìn 1484), sau gia tặng Kiến Quận Công. Hai em ông là Lê Lộ và Lê Lâm cũng là bậc tài danh của đất nước."
 }

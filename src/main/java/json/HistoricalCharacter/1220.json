@@ -1,17 +1,16 @@
 {
-  "dateOfBirth": "Kỉ Mùi 1259",
-  "dateOfDeath": "Ất Mùi 1295",
-  "hometown": "Quê xã Bảo Thái, huyện Thanh Liêm (nay thuộc tỉnh Nam Định)",
-  "occupation": "Danh tướng đời Trần Nhân tông, tổ tiên vốn họ Lê, dòng dõi Lê Đại Hành đến đời ông nội ông làm quan đời Trần Thái tông được cho theo họ vua, nên đổi ra họ Trần",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Trần": 15,
-    "nhà Trần": null
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Tân Mùi 1811",
+  "hometown" : "quê huyện Thượng Lang, tỉnh Cao Bằng",
+  "occupation" : "Văn thần đời Lê Hiển tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
   },
-  "id": 1220,
-  "entityName": "Trần Bình Trọng",
-  "aliases": [],
-  "overview": "Trần Bình Trọng (chữ Hán: 陳平仲, 1259 - tháng 2, 1285) là một danh tướng nhà Trần, có công lớn hộ giá bảo vệ cho Trần Thánh Tông và Trần Nhân Tông trong cuộc chiến với quân Nguyên-Mông vào năm 1285. Ông hy sinh khi chặn quân Nguyên ở bãi Thiên Mạc, được truy phong làm Bảo Nghĩa vương (保義王).\n----------------------------------------------\nÔng có huân công, được phong tước Bảo Nghĩa vương. Khi quân Nguyên sang cướp nước, kinh đô Thăng Long thất thủ ông lãnh nhiệm vụ ở lại Thiên Truờng để ngăn chận quân của Thoát Hoan, trong khi Hưng Đạo vương rước vua Trần và Thái thượng hoàng ra Hải Dương chuẩn bị lực lượng chống ngoại xâm. Ngày 21-1 Ất mùi (1295) ông chỉ huy một cánh quân chống với quân Nguyên ở bãi Tức Mặc (thuộc huyện Đông An). Thế cùng, ông bị giặc bắt, Quân Nguyên khuyên ông đầu hàng sẽ được phong tước vương, ông khảng khái đáp: \"Thà làm quỉ nước Nam hơn làm vương đất Bắc\". Giặc giết ông lúc mới 36 tuổi. Sau này, Phan Kế Bính cảm vịnh: Giỏi thay! Trần Bình Trọng, Dòng dõi Lê Đại Hành. Đánh giặc dư tài mạnh, Thờ vua một tiết trinh. Bắc vương sống mà nhục, Nam quỉ thác cũng vinh. Cứng cỏi lời trung liệt, Nghìn thu tỏ đại danh."
+  "id" : 1220,
+  "entityName" : "Hoàng Ích Hiểu",
+  "aliases" : [ ],
+  "overview" : "Ông xuất thân làm Vệ hiệu chánh thủ chi. Khi Tây Sơn kéo quân ra Bắc, Lê Chiêu Thống cùng mẹ và con cái bỏ chạy, riêng ông đem 500 quân chống lại. Bị Tây Sơn đuổi bức, Chiêu Thống cùng gia quyến và vài tòng thần chạy sang Trung Quốc, ông vẫn ở lại ngăn chống, được phong là Địch Quận Công. Năm Đinh mùi 1787, nhà Lê hoàn toàn sụp đổ ông cùng con là Hoàng Ích Thi cũng chạy sang nhà Thanh, bị an trí ở hạt Y Lê. Đến năm Gia Long thứ 3 (Giáp tí 1804), ông mới được triều đình nhà Thanh cho trở về nước, nằm dưỡng bệnh ở quê nhà, được vua Gia Long cho địa phương châu cấp. Đến năm 1811 ông mất. Con là Hoàng Ích Thi được cho cai quản 4 làng: Tri Hoàng, Cổ Phương, Cảnh Sơn và Điều Lang, trong tỉnh Cao Bằng."
 }

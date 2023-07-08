@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Giáp Thân 1884",
-  "dateOfDeath": "Giáp Ngọ 1954",
-  "hometown": "quê làng Kim Liên, huyện Nam Đàn, tỉnh Nghệ An, trưởng nữ Phó bảng Nguyễn Sinh Sắc (Sinh Huy), chị ruột chủ tịch Hồ Chí Minh",
-  "occupation": "Nhà hoạt động chống Pháp ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Mậu Ngọ 1918",
+  "dateOfDeath" : "Nhâm Ngọ 1942",
+  "hometown" : "tại thị xã Nam Định (nay văn thuộc tỉnh Nam Định)",
+  "occupation" : "Nhạc sĩ tài hoa mệnh yểu",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 427,
-  "entityName": "Nguyễn Thị Thanh",
-  "aliases": [
-    "Bạch Liên"
-  ],
-  "overview": "Nguyễn Thị Thanh là một tên người Việt rất phổ biến. Một số nhân vật nổi bật mang tên này như:\n----------------------------------------------\nNgay từ hồi còn trẻ bà đã tham gia vào tổ chức chống Pháp của Đội Quyên, Đội Phấn tại Nghệ An, từng bị Pháp bắt nhiều lần và buộc phải ở tại quê nhà. Đến năm 1918 Pháp bắt một lân nữa, bị kết án 9 năm tù khổ giam đày vào biệt giam ở Quảng Ngãi mãi đến năm 1922 mới dẫn độ về an trí tại Huế. Sau đó mới được về sống tại quê nhà ở Nam Đàn, Nghệ An. Năm 1945 bà mới gặp lại em trai lúc này là chủ tịch Hồ Chí Minh ở Hà Nội. Sau đó bà về sống tại Nghệ An và mất trong năm 1954, thọ 70 tuổi."
+  "id" : 427,
+  "entityName" : "Đặng Thế Phong",
+  "aliases" : [ ],
+  "overview" : "Xuất thân trong một gia đình công chức, thân phụ là Đặng Hiển Thế một thông phán Sở Trước bạ Nam Định. Thuở nhỏ học Trường Thành chung Nam Định nhưng vì gia đình gặp khó khăn, nên mới xong năm thứ 2 thì bỏ dở. Sau đó lên Hà Nội mưu sinh và có lúc theo học tại Trường Cao Đẳng Mĩ thuật với tư cách dự thính. Thời gian theo học tại Trường Mĩ thuật ông mưu sinh bằng cách vẽ tranh cho các báo và hát tại các sân khấu công cộng, các rạp ciné tại Hà Nội. Năm 1941 ông vào Sài Gòn rồi lên Phnompenh (Campuchia) mở một lớp dạy nhạc, đầu năm 1941 ông trở về Hà Nội vừa sáng tác vừa trình diễn ca nhạc. Các ca khúc Giọt mưa thu, Đêm thu, Con thuyền không bến, Sáng trong rừng là những tác phẩm âm nhạc đầy tính lãng mạn trữ tình vượt thời gian khi nền tân nhạc Việt Nam còn trong thời kì phôi thai. Tiếng nhạc Đặng Thế Phong u hoài, nức nở khiến nguời nghe Như nhớ thương ai chùng tơ lòng mà hơi nhạc ông gợi mở. Ông mất năm 1942 trong lúc tài hoa đang độ rực rỡ vì bệnh lao phổi, lúc ông mới tròn 24 tuổi đời."
 }

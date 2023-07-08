@@ -1,17 +1,16 @@
 {
-  "dateOfBirth": "Canh Tuất 1910",
-  "dateOfDeath": "Bính Tí 1996",
-  "hometown": "tại Hải Phòng (nay là TP",
-  "occupation": "Nhà báo ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "1580",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "nhà Lê" : null
   },
-  "id": 103,
-  "entityName": "Nguyễn Trọng Phấn",
-  "aliases": [],
-  "overview": "Những năm 1940-1941, ông thôi việc tại Sở Địa chánh ở Campuchia trở về Hà Nội vào làm việc tại Trường Viễn Đông Bác cổ tại Hà Nội phụ trách công tác thư viện của trường. Năm 1941 ông cộng tác và làm Biên tập viên cho báo Thanh Nghị giữ mục \"Xã hội Việt Nam từ thế kỉ XVII.\" Cách mạng tháng 8 năm 1945 thành công, ông làm việc ở Bộ Quốc gia Giáo dục suốt 9 năm (1945-1954) ở chiến khu Việt Bắc. Năm 1960 ông nghỉ hưu sống với con cháu tại Hà Nội. Ông mất năm 1996, thọ 86 tuổi."
+  "id" : 103,
+  "entityName" : "Vũ Sư Thước",
+  "aliases" : [ ],
+  "overview" : "Vũ Sư Thước (武師鑠, ?-1580) là đại thần có công giúp nhà Lê trung hưng thời chiến tranh Lê-Mạc trong lịch sử Việt Nam."
 }

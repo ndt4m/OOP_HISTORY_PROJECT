@@ -1,23 +1,16 @@
 {
-  "dateOfBirth": "503",
-  "dateOfDeath": "559",
-  "hometown": "Không rõ",
-  "occupation": "Hoàng đế nhà Nam Trần",
-  "workTenure": "557 – 559",
-  "fatherName": {
-    "Trần Văn Tán": null
+  "dateOfBirth" : "Bính Tí 1876",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Vĩnh Thịnh, tổng Nhơn Ân, huyện Tuy Phước, tỉnh Bình Định",
+  "occupation" : "Danh sĩ cuối triều Nguyễn, con Hiệp biện Đại học sĩ Đào Tấn ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "motherName": {},
-  "eraName": {
-    "Nam Trần": null
-  },
-  "id": 1199,
-  "entityName": "Trần Bá Tiên",
-  "aliases": [
-    "Vũ hoàng đế",
-    "Vĩnh Định: 10/557-559",
-    "Trần Bá Tiên (陳霸先)",
-    "Cao Tổ (高祖)"
-  ],
-  "overview": "Trần Vũ Đế (chữ Hán: 陳武帝), tên thật là Trần Bá Tiên (陳霸先; 503 - 559) là vị vua đầu tiên, người sáng lập ra nhà Trần thời Nam-Bắc triều trong lịch sử Trung Quốc."
+  "id" : 1199,
+  "entityName" : "Đào Thoại Thạch",
+  "aliases" : [ ],
+  "overview" : "Cựu học sinh trường Quốc tử giám. đậu cử nhân năm Quí mão (1903) tại Trường thi Bình Định, em cử nhân Đào Bá Quát, anh trai cử nhân Đào Nhữ Tuyên. Ông nức tiếng văn chương tài hoa không kém gì thân phụ, thuở trẻ từng được sĩ phu khen ngợi là tay biện sĩ, ứng đối nhanh nhẹn và xác đáng. Sau khi đỗ cử nhân, làm quan thời Pháp chiếm nưóc ta, thăng đến chức án sát. Khi ông lập gia đình, ngay hôm đám cưới, nhạc phụ ra câu đối: Cậu hai cưới cô cả, trăm năm già cả, cả vừa hai. Hôm ấy nhằm ngày mồng 6, gợi ý cho ông đáp ngay khéo tuyệt về 6 lễ trong hôn nhân: Mùng sáu được ngày lành, một lễ tốt lành, lành cả sáu. Thi ca của ông mang nhiều nỗi u uẩn được truyền tụng khá nhiều. Đáng tiếc ông mất sớm."
 }

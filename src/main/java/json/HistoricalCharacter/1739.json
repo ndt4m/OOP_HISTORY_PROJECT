@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "người làng Hữu Thanh, tỉnh Thái Bình",
-  "occupation": "Danh thần đời Lê Hiển tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "nhà Trần" : null
   },
-  "id": 1739,
-  "entityName": "Khiếu Hữu Thanh",
-  "aliases": [],
-  "overview": "Ông trẻ tuổi thông minh, nhưng nhà nghèo. Cảm thông hoàn cảnh ông, một cô gái trong làng đem lòng yêu nguời học trò có tài chí, hết lòng khích lệ và giúp đỡ ông. Về sau ông thành đạt, nhà vua muốn gả công chúa cho, ông từ chối rồi xin cưới người đã nâng đỡ lúc ông hàn vi. Ông làm quan đến bậc đại thần, ông vẫn khiêm cung, sống đạm bạc, hay giúp đỡ người nghèo khó. Đến khi ông cáo lão về quê được dân làng cảm mến lập sinh từ nay hãy còn di tích, tục gọi đền Quan Trạng Khiếu tại quê ông. Tương truyền lúc còn nhỏ ông làm thằng mõ trong làng, do đó các chức làng đặt họ cho ông là KHIẾU và lấy tên làng mà gọi là Khiếu Hữu Thanh, từ đó thành tên thật luôn. Khi làm mõ ông có làm bài thơ khẩu khí xuất sắc: Thế gian điếc lác đã lâu ngày, Trời mới sinh ra cái mõ này. Phép nước vang lừng ra cửa miệng, Lệnh làng thét lẹt nắm trong tay. Việc quan thúc bách ba dùi đốp, Lộc thánh ban ra mấy hộc đầy. Lốc cốc tre già măng lại mọc, Đầu đình cao vót đụng tầng mây."
+  "id" : 1739,
+  "entityName" : "Nguyễn Quan Quang",
+  "aliases" : [ "Trần Quán Quang" ],
+  "overview" : "Nguyễn Quan Quang (chữ Hán: 阮觀光, ?-?), có tài liệu ghi là Nguyễn Quán Quang hay Trần Quán Quang, là một danh thần thời nhà Trần. Ông được biết nhiều với giai thoại đỗ Tam nguyên và sứ giả Đại Việt đối đáp với tướng Mông Cổ. Theo văn bia số 1 tại Văn miếu Bắc Ninh, thì ông là người đỗ Trạng nguyên khoa thi Bính Ngọ 1246, tức năm Thiên Ứng Chính Bình thứ 15 đời vua Trần Thái Tông."
 }

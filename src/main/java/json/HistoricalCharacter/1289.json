@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Lý": null
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Mậu Ngọ 1858",
+  "hometown" : "quê huyện Phú Lộc, tỉnh Thừa Thiên",
+  "occupation" : "Văn thần đời Gia Long",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 1289,
-  "entityName": "Lý Long Bồ",
-  "aliases": [],
-  "overview": "Lý Long Bồ (chữ Hán: 李龍菩, ? - ?) là một hoàng tử của nhà Lý trong lịch sử Việt Nam. Ông là con trai thứ của Vua Lý Thái Tổ. Sinh tại kinh đô Hoa Lư, Ninh Bình, Việt Nam. Ông được vua phong tước Khai Quốc Vương năm 1013, đóng tại phủ Trường Yên, tức vùng đất kinh đô Hoa Lư trước thời Lý. Khi vua Thái Tổ mất, Lý Thái Tông chuẩn bị lên ngôi, các hoàng tử khác kéo quân về gây nên loạn tam vương sử sách ghi nhận ông là người ngoài cuộc, vì thế mà sau này ông được Lý Thái Tông giao trấn thủ đô cũ Hoa Lư đến hết cuộc đời."
+  "id" : 1289,
+  "entityName" : "Hoàng Văn Diễn",
+  "aliases" : [ ],
+  "overview" : "Nhà nghèo, hiếu học, ông nổi tiếng tài giỏi. Gặp buổi loạn lạc, ông lặn lội vào Nam, ngụ ở Gia Định, rồi theo giúp Nguyễn Ánh, được bổ làm ở viện Thị thư trong năm Tân hợi 1791. Đến năm Nhâm tuất 1802, ông làm Hiệp trấn Thanh Hóa một thời gian, nhưng sau bị bãi chức, lui về quê ở ẩn. Đến đời Minh Mạng (1820) ông được vời ra, khởi đầu phục chức Lang trung. Ít lâu được cử đi sứ nước Xiêm (Thái Lan), rồi bổ làm Tả tham tri bộ Công, sau thăng Thượng thư bộ Lại, từng đảm nhận việc dạy con vua trong nội. Ông mất vào năm Mậu ngọ 1858, được liệt thờ ở đền Hiền lương của triều Nguyễn."
 }

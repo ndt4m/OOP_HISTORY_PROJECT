@@ -1,17 +1,16 @@
 {
-  "dateOfBirth": "Đinh Dậu 1897",
-  "dateOfDeath": "Nhâm Dần 1962",
-  "hometown": "quê ở Long Điền, tỉnh Bà Rịa",
-  "occupation": "Liệt sĩ cách mạng",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Nhân vật thần kì trong thời vua Lê Thánh tông.",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Triều Lê Sơ" : 7
   },
-  "id": 518,
-  "entityName": "Cao Văn Ngọc",
-  "aliases": [],
-  "overview": "Thời Pháp thuộc ông làm Hương quản, năm 1945 tham gia cách mạng. Sau năm 1955, ông là nút liên lạc ở xã, bị tay chân Ngô Đình Diệm bắt. Địch tìm thấy một bó tài liệu ở nhà ông, bị tra tấn dã man, ông không nhận. Vào tù, ông chống chào cờ suy tôn, chống học \"tố Cộng\". Ra Côn Đảo năm 1959, ông chống chế độ lao tù khắc nghiệt. Ông nổi tiếng là \"ông già chuồng cọp\", một ông già quắc thước, luôn luôn đấu tranh với địch. Ông thường nói: \"Tôi nay ngoài 60 rồi, cực khổ đã lắm, đau thương đã nhiều và cũng đã có lúc sung sướng. Bây giờ tôi chỉ cần sao được chết quang vinh là không hổ thẹn. Mà chết cho dân cho nước là quang vinh nhất trần đời rồi còn gì\". Ông hi sinh sau một trận đòn ác liệt nhất, dã man nhất ở Côn Đảo."
+  "id" : 518,
+  "entityName" : "Bồi Liễn Tiên Nương",
+  "aliases" : [ ],
+  "overview" : "Tương truyền: Một hôm Lê Thánh tông đi thăm nhà Thái học và qua chùa Ngọc Hồ ở thôn Thanh Ngô (nay là chùa Bà Ngô ở phố Sinh Từ), thấy một ni cô trẻ đẹp liền rẽ vào vãn cảnh. Ni cô biết ý, viết hai câu dâng trình: Vào chùa mến cảnh mến thầy Tuy vui đạo Phật chưa khuây lòng người. Lê Thánh tông làm ngay một bài thơ, trao Thân Nhân Trung đưa lại ni cô: Ngẫm sự trần duyên khéo nực cười Sắc không tuy vội hẩy lòng người Chày kình một tiếng tan niềm tục, Hồn bướm ba canh lẫn sự đời... Ni cô chê hai câu tam tứ và chữa lại: Gió thông đưa kệ tan niềm tục. Hồn bướm mơ tiên lẫn sự đời Vua phục có tài, vời lên xe về cung, nhưng vừa đến cửa Đại Hưng (cửa nam kinh thành) ni cô biến mất. Lê Thánh tông sai làm một cái lầu ở trong vườn ngư, gọi là lầu vọng tiên. Không ai rõ danh hiệu ni cô, nhân sự tích theo xe vua về cung nên gọi là Bồi Liễn tiên nương."
 }

@@ -1,16 +1,20 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Vua",
-  "workTenure": "?–?",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Hồng Bàng": 17
+  "dateOfBirth" : "?",
+  "dateOfDeath" : "111 TCN Nam Việt",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Nam Việt",
+  "workTenure" : "112 TCN – 111 TCN",
+  "fatherName" : {
+    "Triệu Minh Vương" : 1844
   },
-  "id": 2926,
-  "entityName": "Hùng Vương thứ 11",
-  "aliases": [],
-  "overview": "Hùng Vương (chữ Hán: 雄王) hay vua Hùng (chữ Nôm: 𤤰雄) là cách gọi dành cho các vị vua nước Văn Lang của người Lạc Việt, tồn tại vào khoảng thế kỷ 7 tới thế kỷ 2 trước công nguyên."
+  "motherName" : {
+    "người Việt (không rõ tên)" : null
+  },
+  "eraName" : {
+    "Nhà Triệu" : 16
+  },
+  "id" : 2926,
+  "entityName" : "Triệu Kiến Đức",
+  "aliases" : [ "Triệu Thuật Dương Vương", "Triệu Kiến Đức (趙建德)" ],
+  "overview" : "Triệu Dương Vương (趙陽王), hay Triệu Thuật Dương Vương (趙術陽王), Triệu Vệ Dương Vương (趙衛陽王) , tên họ thật là Triệu Kiến Đức (趙建德), trị vì từ năm 112 TCN - 111 TCN, là vị vua cuối cùng của nhà Triệu nước Nam Việt trong lịch sử Việt Nam."
 }

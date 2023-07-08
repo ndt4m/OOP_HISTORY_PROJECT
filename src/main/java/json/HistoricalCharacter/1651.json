@@ -1,18 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê làng Khánh Thọ, huyện Hà Đông - sau đổi là Tam Kì, tỉnh Quảng Nam (nay thuộc xã Tam Thái, huyện Phú Ninh, tỉnh Quảng Nam), không rõ năm sinh, năm mất",
-  "occupation": "Danh sĩ, quê làng Khánh Thọ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "1255\n----------------------------------------------\nẤt Mão 1255",
+  "dateOfDeath" : "1320\n----------------------------------------------\nCanh Thân 1320",
+  "hometown" : "quê làng Phù Ủng, huyện Đường Hào, phủ Thượng Hồng, tỉnh Hải Dương",
+  "occupation" : "Danh tướng đời Trần",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Trần" : 15,
+    "nhà Trần" : null
   },
-  "id": 1651,
-  "entityName": "Phan Văn Xưởng",
-  "aliases": [
-    "Tam Kì"
-  ],
-  "overview": "Ông nhiệt thành yêu nước, khi giặc Pháp xâm lăng ông cùng với hoàng giáp Tam Đăng Phạm Văn Nghị từng sát cánh kêu gọi nhân dân nổi dậy chống quân cướp nước, chỉ huy đạo quân tiến đánh Pháp tại Đà Nẵng. Khi làm Án sát, có lúc bị cách chức và đưa đi Thái Nguyên. Trên đường đi ông ghé thăm Phạm Văn Nghị, cụ Hoằng giáp trao tặng ông bài thơ: \"Cổ nhân kim nhật nại thiên hà? Cực Bắc cùng Nam đại khảm kha. Đáo hải hữu thi hoài phận mệnh, Phùng thu cương tửu mạc bi ca. Tráng hoài bất vị phong sương biến, Khoan điểm nhưng tri vũ lộ đa. Qui lộ khả năng trùng kiến phỏng, Tặng quân lão phố độc hoàng hoa.\" Bản dịch: Ngày nay, việc bác biết kêu trời, Hết Bắc rồi Nam trắc trở hoài. Góc bể, câu thơ, âu số phận, Trời thu chén rượu há bi ai. Móc mưa, khoan hậu ơn đâu ít, Sóng gió, kiên cường, chí chớ phai. Trở lại, ví dù còn gặp gỡ, Quà riêng dành tặng cúc vàng thôi."
+  "id" : 1651,
+  "entityName" : "Phạm Ngũ Lão",
+  "aliases" : [ ],
+  "overview" : "Phạm Ngũ Lão (chữ Hán: 范五老; 1255–1320) là danh tướng nhà Trần trong lịch sử Việt Nam. Ông là người góp công rất lớn trong cả hai cuộc kháng chiến chống Mông-Nguyên lần thứ hai năm 1285 và lần thứ ba năm 1288 . Đương thời, danh tiếng của ông chỉ xếp sau Hưng Đạo Vương Trần Quốc Tuấn - người được xem như vị tướng vĩ đại nhất lịch sử quân sự Việt Nam.\n----------------------------------------------\nÔng tài kiêm văn võ, được Hưng Đạo vương Trần Quốc Tuấn tin cẩn, gả con gái nuôi và tiến cử với triều đình giữ chức Hạ phẩm phụng ngự, rồi thăng Quản hữu vệ thánh dực giản. Trong hai cuộc kháng chiến chống quân xâm lược Mông - Nguyên, ông dày công lao lần lượt giữ các chức: Hữu Kim ngô vệ Đại tướng quân, Thân vệ đại tướng quân, Điện súy thượng tướng quân, tước Quân Nội Hầu. Từng được ban phù vàng hình rùa và phù vàng hình hổ. Năm Canh thân, tháng 11 âm lịch (12-1320) ông mất thọ 65 tuổi. Thơ văn ông nay chỉ còn truyền tụng hai bài: Thuật hoài và Vãn Hưng Đạo đại vương."
 }

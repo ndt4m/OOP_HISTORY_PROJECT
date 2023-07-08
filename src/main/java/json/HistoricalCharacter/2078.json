@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Tiết độ sứ",
-  "workTenure": "917—923 930",
-  "fatherName": {
-    "Khúc Hạo": 2411
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Canh Ngọ 1090",
+  "hometown" : "quê ở Thăn Long (nay thuộc Hà Nội)",
+  "occupation" : "Thiền sư đời Lý Nhân tông, không rõ tên thật",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Lý" : 14
   },
-  "motherName": {},
-  "eraName": {
-    "Họ Khúc  hoặc": null
-  },
-  "id": 2078,
-  "entityName": "Khúc Hậu Chủ",
-  "aliases": [],
-  "overview": "Khúc Thừa Mỹ (chữ Hán: 曲承美; trị vì: 917 – 923 hoặc 917 – 930) là người làng Cúc Bồ đất Hồng Châu (nay là xã Kiến Quốc, huyện Ninh Giang, tỉnh Hải Dương), con của Khúc Hạo (Việt sử lược chép là Khúc Toàn Mỹ, em của Khúc Hạo). Ông là vị Tiết độ sứ thứ ba trong thời kỳ tự chủ của họ Khúc trong lịch sử Việt Nam đầu thế kỷ 10."
+  "id" : 2078,
+  "entityName" : "Nhan Quảng Trí",
+  "aliases" : [ "Quảng Trí" ],
+  "overview" : "Ông là anh ruột Hoàng phi Chương Phụng, nhưng không tham chính, xuất gia đi tu tại chùa Quang Đính trên núi Không Lộ. Về sau đứng vào hàng thế hệ thứ 13 dòng thiền Quan Bích. Năm Canh ngọ 1909, ông viên tịch. Đương thời giới thức gia rất kính mộ trí thức và đạo hạnh của ông, Thượng thư bộ Công Đoàn Văn Khâm rất quí trọng ông, đến khi ông mất, Đoàn có thơ viếng: \"Lâm loan bạch thủ động kinh thành, Phất tụ cao sơn viễn cánh hinh. Kỉ nguyện tỉnh cân xu trượng tịch, Hốt vãn di lí yểm thiền quynh. Trai đình u điểu không để nguyệt, Mộ tháp thùy nhân vị tác minh! Đạo lữ bất tu thương vĩnh biệt, Viện tiền sơn thủy thị chân hình. Bản dịch: Lánh chợ vào rừng tóc bạc phơ, Non cao rũ áo ngát hưỡng thừa. Chùm khăn những muốn hầu bên chiếu, Treo dép đà nghe pháp cửa chùa. Trăng dội sân trai chim khắc khoải, Tháp không bia chữ mộ thờ ơ. Bạn thiền thôi cũng đừng thươngxót. Non nước ngoài am đó dáng xưa."
 }

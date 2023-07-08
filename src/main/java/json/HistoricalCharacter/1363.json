@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê ở Giáp Sơn, tỉnh Hải Dương",
-  "occupation": "Danh y, nhà châm cứu xuất sắc đời Hồ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Hồ": 9
+  "dateOfBirth" : "Canh Thìn 1460",
+  "dateOfDeath" : "Mậu Tí 1528",
+  "hometown" : "quê làng Thượng Đáp, huyện Thanh Lâm, tỉnh Hải Dương",
+  "occupation" : "Văn thần đời Lê Thánh tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "nhà Lê" : null,
+    "Triều Lê Sơ" : 7
   },
-  "id": 1363,
-  "entityName": "Nguyễn Đại Năng",
-  "aliases": [],
-  "overview": "Ông làm thuốc cứu giúp nhân dân, không màng gì lợi lộc, tài đức được nhân dân ca tụng, nhất là khoa châm cứu rất nổi tiếng. Khoảng năm Quí mùi 1403, nhà Hồ xây cất bệnh viện Trung ương phục vụ nhân dân, gọi là Quảng tế thự ông được Hồ Quí Li trọng dụng, giao cho cai quản cơ quan y tế Trung ương với cương vị Quảng tế tự thừa (Giám đốc viện y tế Trung ương ngày nay). Ông cũng giỏi về quân sự, có tài bắn nỏ, nên cũng được nhà Hồ cử kiêm coi việc quân và về sau coi sóc luôn Quân y viện. Ông có soạn sách y học: Châm cứu tiếp hiệu diễn ca ghi lại cách chữa 130 loại bệnh chứng, 140 huyệt châm cứu trong đó có 11 huyệt do tổ tiên chúng ta tìm ra. (nay đã thất truyền)."
+  "id" : 1363,
+  "entityName" : "Ngô Hoán",
+  "aliases" : [ ],
+  "overview" : "Ngô Hoán (chữ Hán: 吳煥, 1460-1522 , nhưng có sách chép ông mất năm 1528), là một vị quan của nhà Lê sơ, làm quan trải qua các triều từ Lê Thánh Tông tới Lê Chiêu Tông. Ông cũng là một thành viên của Tao đàn nhị thập bát tú.\n----------------------------------------------\nNăm Canh tuất 1490 ông đỗ bảng nhãn, 30 tuổi, làm Hiệu thư trong tòa Đông các và dự vào số 28 người trong Tao đàn do Thánh tông thành lập. Phục vụ trải 4 triều vua, ông làm đến Thượng thư bộ Lại. Năm Đinh hợi 1527, Mạc Đăng Dung cướp ngôi, ông theo Lê Chiêu tông chống lại binh bại phải chạy đến châu Lang Chánh, vua tôi định sang nước Ai Lao (Lào) để mưu việc khôi phục. Nhưng ông tuổi đã cao, sức yếu, thắt cổ tự tử ở mạn nguợc vào năm Mậu tí 1528, thọ 68 tưổi. Nhà Lê trung hưng, ông được truy tặng Suy trung công thần, gia phong làm Phúc thần."
 }

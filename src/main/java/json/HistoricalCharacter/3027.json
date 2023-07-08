@@ -1,20 +1,16 @@
 {
-  "dateOfBirth": "1355 Hải Dương, Việt Nam\n----------------------------------------------\nẤt Mùi 1355",
-  "dateOfDeath": "1428 Trung Quốc\n----------------------------------------------\nMậu Thân 1428",
-  "hometown": "quê làng Chí Ngãi, huyện Chí Linh, tỉnh Hải Dương (nay là phường Cộng Hòa, thị xã Chí Linh, Hải Dương).\n----------------------------------------------\nquê xã Chi Ngại, huyện Phương Sơn, lộ Lạng Giang (thuộc tỉnh Hải Dương), sau dời về xã Ngọc ổi, huyện Thượng Phúc, châu Thượng Phúc, lộ Đông Đô (thuộc tỉnh Hà Đông)",
-  "occupation": "Hàn lâm học sĩ\n----------------------------------------------\nDanh sĩ, cuối đời Trần Hồ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Trần": 15,
-    "Nhà Hồ": 9
+  "dateOfBirth" : "Tân Dậu 1381",
+  "dateOfDeath" : "Mậu Dần 1458",
+  "hometown" : "quê làng Thiện Phiến, huyện Tiên Lữ, tỉnh Hưng Yên",
+  "occupation" : "Danh thần đời Lê Thái tổ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Triều Lê Sơ" : 7
   },
-  "id": 3027,
-  "entityName": "Nguyễn Phi Khanh",
-  "aliases": [
-    "Nguyễn Ứng Long",
-    "Nhị Khê"
-  ],
-  "overview": "Nguyễn Phi Khanh (chữ Hán: 阮飛卿; tên thật là Nguyễn Ứng Long (阮應龍); năm sinh không chắc chắn. Một số nguồn cho là khoảng năm 1355 , nhưng một số nguồn khác cho là năm 1335 –1428 hay 1429 ) là Hàn lâm học sĩ nhà Hồ và là cha của Nguyễn Trãi - một công thần khai quốc nhà Hậu Lê. Ông quê làng Chí Ngãi, huyện Chí Linh, tỉnh Hải Dương (nay là phường Cộng Hòa, thị xã Chí Linh, Hải Dương). Sau dời về thôn Trại Ổi (Ngọc Ổi) làng Nhị Khê, nay thuộc huyện Thường Tín, tỉnh Hà Tây, nay thuộc Hà Nội .\n----------------------------------------------\nÔng nổi tiếng văn thơ từ lúc trẻ được quan Tư đồ Trần Nguyên Đán đem về nuôi dưỡng và dạy học. Ông phải lòng người con gái của quan Tư đồ là Trần Thị Thái. Khi Trần Thị Thái có thai, ông sợ tội bỏ trốn, nhưng Trần Nguyên Đán độ lượng bao dung, cho tìm ông về và gả con cho. Nhờ đó ông yên bề ăn học. Đến Giáp dần 1374 ra thi. đỗ Thái học sinh (tiến sĩ) mới 19 tuổi. Có tài nhưng ông không được Trần Nghệ tông thu dụng, nên đành an phận dạy học. Khi Hồ Quí Ly lật đổ nhà Trần, ông đổi tên là Phi Khanh, được cử làm Học sĩ viện Hàn lâm trong năm Tân tị 1401. Rồi lần lượt thăng lên Thông Chương đại phu, Đại lí tự Khanh kiêm Trung thư thị lang, Tư nghiệp Quốc tử giám. Quân Minh xâm lược, ông cùng vua tôi nhà Hồ bị giặc bắt giải về Kim Lăng. Trên đường đi đày ở nước ngoài, hai con ông là Nguyễn Trãi và Nguyễn Phi Hùng đưa ông đến Nam Quan. Ông khuyên Nguyễn Trãi phải trở về phục thù và báo hiếu cho cha bằng con đường cứu quốc. Nguyễn Trãi vâng lời quay về, Nguyễn Phi Hùng theo ông sang Trung Quốc. Ông có soạn bộ Nhị Khê thi tập, bị quân Minh lấy đem về Kim Lăng. Tuy nhiên, vẫn còn truyền tụng được 77 bài, do Lê Quí Đôn sao lục ở bộ Toàn Việt thư lục. Đời sau Dương Bá Cung gom chép lại 77 bài ấy, làm thành quyển II Ức Trai thi tập với nhan đề riêng là Nguyễn Phi Khanh thi văn tập. Năm Mậu thân 1428 ông mất ở Trung Quốc, thọ 73 tuổi. Về sau Nguyễn Phi Hùng lấy hài cốt đem về nước an táng ở núi Bái Vọng."
+  "id" : 3027,
+  "entityName" : "Đào Công Soạn",
+  "aliases" : [ "Tân Khanh" ],
+  "overview" : "Khi kháng Minh, ông có phục vụ trong quân đội Bình Định Vương Lê Lợi. Năm Bính ngọ 1426, vua Lê tuần du Đông Đô, mở khoa thi, ông dự thi và đỗ đầu trong số trúng tuyển tất cả là 32 người. Ông được bổ làm Hoàng môn thị lang, Tham tri chính sự. Rồi đi sứ Minh; về nước thăng làm Thượng thư bộ Hộ. Năm Kỉ dậu 1429, ông lại sang nhà Minh cầu phong và tâu về việc tìm con cháu nhà Trần. Xong được bổ làm Đông đạo tham tri. Năm Ất mão 1435, ông làm việc ở Viện Thẩm hình, kiêm Thượng thư bộ Lễ. Gặp khi có sứ Minh sang, ông đảm nhận việc ứng tiếp. Rồi lại làm Chánh sứ sang Minh (Xuân Bính thìn 1436). Trước sau 3 lần đi sứ trong cuộc bang giao Việt - Hoa, ông là nhân vật đóng góp nhiều nhất. Năm Kỉ tị 1449, ông xin về hưu, Lê Nhân tông không chấp thuận, giao cho làm Nhập nội đại hành khiển, coi việc ba quán (Nho lâm, Sùng văn và Tú lâm). Năm Bính tí 1456, ông đã trên 70 tuổi. Lê Thánh tông lại cử ông lên Thái Nguyên xem xét tình hình nơi ấy. Nhưng sau đó ông mất, thọ 78 tuổi. Phần nhiều luật lệ triều Lê do ông soạn. Tính ông khiêm nhường, cần kiệm, thơ ông thanh tao, bộ Toàn Việt thi lục của Lê Quí Đôn còn sao lại ba bài của ông đề là Lão Mai, Trừ tịch cảm hứng, Xuân nhật phong hữu bất ngộ. Con ông là Đào Dung, cháu là Đào Nghiễm, Đào Phạm đều là bậc nhân tài."
 }

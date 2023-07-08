@@ -1,17 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê làng Ngoại Lãng, huyện Thư Trì, tỉnh Nam Định",
-  "occupation": "Văn thần đời Lê Uy Mục",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nam - Bắc Triều": 19,
-    "Triều Lê Sơ": 7
+  "dateOfBirth" : "Canh Thân 1920",
+  "dateOfDeath" : "Canh Thìn 1940",
+  "hometown" : "quê xã Tân Hiệp, huyện Hóc Môn, tỉnh Gia Định",
+  "occupation" : "Liệt sĩ hiện đại, thưởng gọi là Năm Dậy",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 2224,
-  "entityName": "Đỗ Oánh",
-  "aliases": [],
-  "overview": "Năm Mậu thìn 1508, ông đỗ Tam giáp tiến sĩ. Ông nổi tiếng văn học, tính khảng khái cương trực, có tiết nghĩa, làm đến Thượng thư bộ Lễ. Đinh hợi 1527, Mạc Đăng Dung tiếm ngôi, ông về quê ở ẩn, không ra làm quan với nhà Mạc. Khí tiết được nhân dân đương thời mến phục. Trong cơn loạn lạc, ông vẫn vì dân mà cứu loạn, bỏ mình trong khói lửa chiến tranh. Ông được phong Phúc thần. Có đền thờ ở quê ông, tục gọi đền thờ Đỗ Thượng thư."
+  "id" : 2224,
+  "entityName" : "Đỗ Văn Dậy",
+  "aliases" : [ "Năm Dậy" ],
+  "overview" : "Ông nhiệt thành yêu nước, giác ngộ cách mạng rất sớm, tham gia công tác ở địa phương như rải truyền đơn, treo cờ, dự mít tinh, tuyên truyền giải thích cho đồng bào về thảm họa mất nước. Năm 1936 được kết nạp vào Đảng Cộng sản Đông Dương, được giao phụ trách Đoàn Thanh niên phản đế. Năm 1937-1939 được bầu vào Ban chấp hành huyện Hóc Môn. Năm 1940 tham gia khởi nghĩa Nam Kì, ông chỉ huy quần chúng tấn công huyện đường Hóc Môn, hi sinh tại trận."
 }

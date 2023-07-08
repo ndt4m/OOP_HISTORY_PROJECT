@@ -1,18 +1,17 @@
 {
-  "dateOfBirth": "Bính Tí 1816",
-  "dateOfDeath": "Nhâm Ngọ 1882",
-  "hometown": "quê làng La Ngạn, huyện Đạo An, tỉnh Nghĩa Hưng (nay thuộc xã Yên Đồng, huyện Ý Yên, tỉnh Nam Định)",
-  "occupation": "Danh sĩ đời T",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "1072\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "1128\n----------------------------------------------\nKhông rõ",
+  "hometown" : "người làng Quan Triều tỉnh Thái Nguyên (nay là phường Quan Triều, thành phố Thái Nguyên).\n----------------------------------------------\nQuê ở Thái Nguyên, không rõ năm sinh, năm mất",
+  "occupation" : "Võ tướng đời Lý Anh tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Lý" : 14,
+    "nhà Lý" : null
   },
-  "id": 1173,
-  "entityName": "Đỗ Huy Uyển",
-  "aliases": [
-    "Tân Giang"
-  ],
-  "overview": "Năm Tân sửu 1841, ông đỗ phó bảng, làm Tri phủ Bình Giang (Hải Dương), Đốc học tỉnh Vĩnh Long, rồi làm Biện lí bộ Hộ sự vụ triều đình Huế. Do đấy, tục quen gọi ông là Biện Lý La Ngạn. Năm Canh thân 1860, ông bệnh, lui về quê nghỉ ngơi và làm nghề dạy học, ông là tác giả các sách: 1. Khải đồng thuyết ước 2. Tự học cầu tinh 3. Gia lễ tồn chân 4. La Ngạn thi văn tập Nhâm ngọ 1882, ông mất thọ 66 tuổi. Ông là thân sinh Đình nguyên Đỗ Huy Liêu, cũng là bậc có danh vọng lớn."
+  "id" : 1173,
+  "entityName" : "Dương Tự Minh",
+  "aliases" : [ "Cao Sơn Quý Minh" ],
+  "overview" : "Dương Tự Minh còn gọi là Đức Thánh Đuổm hay Cao Sơn Quý Minh, dân tộc Tày, người làng Quan Triều tỉnh Thái Nguyên (nay là phường Quan Triều, thành phố Thái Nguyên). Ông làm thủ lĩnh phủ Phú Lương xưa, gồm các châu: Thượng Nguyên, Vĩnh Thông, Quảng Nguyên, Cảm Hóa, Vạn Nhai, Tư Nông, Tuyên Hóa (thuộc Bắc Kạn, Thái Nguyên, Cao Bằng, Tuyên Quang và một phần Vĩnh Phúc, Phú Thọ, Lạng Sơn ngày nay) trong suốt ba đời vua nhà Lý: Lý Nhân Tông (1072-1128), Lý Thần Tông (1128-1138), Lý Anh Tông (1138-1175) .\n----------------------------------------------\nGặp khi tướng giặc nhà Tống là Đàm Hữu Lượng trốn sang biên giới nước ta, sách động dân quân kết đảng đi đánh cướp châu Quảng Nguyên, ông phụng mạng đem binh hợp với quân sĩ nhà Tống vây bắt được bọn ấy, giao trả cho nhà Tống. Quan Tri châu châu Ung là Triệu Nguyện nhận lãnh và hành quyết cả bọn Hữu Lượng gồm hơn 20 người. Từ ấy dân chúng được an cư lạc nghiệp. Sau thấy Đỗ Anh Võ tư thông với Lê Thái hậu, lộng quyền, ông bèn liên kết với nhóm Võ Đới ngằm mưu trừ khử Anh Võ. Thất bại, ông bi phe đảng Đỗ Anh Võ bắt giam rồi đày đi nơi xa. Khi ông mất, được dân Thái Nguyên lập đền thờ."
 }

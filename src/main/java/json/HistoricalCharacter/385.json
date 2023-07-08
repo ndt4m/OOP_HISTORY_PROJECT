@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "Kỉ Tị 1629",
-  "dateOfDeath": "Giáp Ngọ 1714",
-  "hometown": "quê làng Mộ Trạch, huyện Đường An, tỉnh Hải Dương",
-  "occupation": "Danh thần đời Lê Thần tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Ngoại Lãng, huyện Thư Trì, tỉnh Nam Định",
+  "occupation" : "Văn thần đời Lê Uy Mục",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nam - Bắc Triều" : 19,
+    "Triều Lê Sơ" : 7
   },
-  "id": 385,
-  "entityName": "Võ Công Đạo",
-  "aliases": [],
-  "overview": "Ông thuở trẻ nổi tiếng là trang anh tuấn, học vấn uyên thâm. Năm Kỉ hợi 1659 ông đỗ tiến sĩ, làm Đô ngự sử, kiêm việc giảng sách ở trong điện, từng đi sứ Trung Quốc. Một lần vì việc hặc tội Võ Duy Đoán và đám nội thân lộng hành mà vua chúa không nghe, ông đập đầu vào cột giữa triều đình tỏ rõ phong độ một vị ngự sử chân chính. Ông bị bãi chức về nhà, nhưng không lâu lại được triệu ra làm Thị lang bộ Lễ, tước Tử. Sau thăng Thượng thư bộ Công, rồi về hưu, mở trường dạy học ở quê nhà. Năm Giáp ngọ 1714 ông mất, thọ 85 tuổi được truy tặng Thượng thư bộ Lễ, tước An Phú Hầu. Em ông là tiến sĩ Võ Công Lượng cũng là người có danh tiếng. Trường học của ông cũng đào tạo được nhiều nhân tài như Bảng nhãn Phạm Quang Trạch ở Đông Ngạn (Bắc Ninh), Thám hoa Võ Thạnh ở Đan Loan, Khôi nguyên Nguyễn Danh Dự ở Dương Liễu (Sơn Tây)."
+  "id" : 385,
+  "entityName" : "Đỗ Oánh",
+  "aliases" : [ ],
+  "overview" : "Năm Mậu thìn 1508, ông đỗ Tam giáp tiến sĩ. Ông nổi tiếng văn học, tính khảng khái cương trực, có tiết nghĩa, làm đến Thượng thư bộ Lễ. Đinh hợi 1527, Mạc Đăng Dung tiếm ngôi, ông về quê ở ẩn, không ra làm quan với nhà Mạc. Khí tiết được nhân dân đương thời mến phục. Trong cơn loạn lạc, ông vẫn vì dân mà cứu loạn, bỏ mình trong khói lửa chiến tranh. Ông được phong Phúc thần. Có đền thờ ở quê ông, tục gọi đền thờ Đỗ Thượng thư."
 }

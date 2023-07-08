@@ -1,14 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 2326,
-  "entityName": "Trưng Trắc",
-  "aliases": [],
-  "overview": "Trưng Trắc là nữ anh hùng dân tộc của người Việt, người đứng đầu cuộc khởi nghĩa chống lại sự đô hộ của nhà Đông Hán trong lịch sử Việt Nam, lập ra một chính quyền riêng của người Việt với trung ương tại Mê Linh. Tuy về sau cuộc khởi nghĩa bị quân Hán dưới sự chỉ huy của Mã Viện đánh bại, nhưng trong văn hóa người Việt, khởi nghĩa tượng trưng cho sự quật khởi, phục hưng tinh thần quốc gia. Sử gia Lê Văn Hưu đã nhận xét: \"Trưng Trắc, Trưng Nhị là đàn bà, hô một tiếng mà các quận Cửu Chân, Nhật Nam, Hợp Phố và 65 thành ở Lĩnh Ngoại đều hưởng ứng. Việc dựng nước xưng vương dễ như trở bàn tay, đủ biết tình thế đất Việt ta có thể dựng được nghiệp bá vương\"."
+  "dateOfBirth" : "1476\n----------------------------------------------\nBính Thân 1476",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê xã Vạn Phúc, huyện Thanh Đàm, tỉnh Hà Đông (nay thuộc tỉnh Hà Tây)",
+  "occupation" : "Thượng thư bộ Lại\n----------------------------------------------\nVăn thần đời Lê Hiến tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Lê sơ, Mạc" : null,
+    "Triều Lê Sơ" : 7
+  },
+  "id" : 2326,
+  "entityName" : "Lê Sạn",
+  "aliases" : [ "Trung Huân bá", "Lê Tài Lê Nga", "Lê Tài" ],
+  "overview" : "Lê Sạn hay Lê Tài, Lê Nga (1476 - ?) là thượng thư bộ Lại thời Lê sơ, đậu bảng nhãn năm 1502. Khi Mạc Đăng Dung lên ngôi thì ông đi ở ẩn, về sau được đánh giá là có tiết nghĩa.\n----------------------------------------------\nNăm Nhâm tuất 1502, ông đỗ Bảng nhãn mới 26 tuổi, tính khảng khái, có tiết tháo được sĩ phu đương thời trọng vọng. Năm Bính tí 1516, Trần Cao chiếm kinh thành, xưng vua. Lúc bấy giờ Lê Chiêu tông từ Tây Đô điều động các tướng ra đánh, rồi lấy lại được kinh đô, dẹp yên loạn Trần Cao. Năm Đinh sửu 1517, ông được đề bạt làm Thượng thư bộ Hộ, rồi thăng Thượng thư bộ Hộ, rồi thăng Thượng thư bộ Lại, gia phong tước Trung Huân Bá. Năm Đinh hợi 1527, Mạc Đăng Dung tiếm quyền vua Lê, ông không phục lánh mình ở ẩn, đương thời nhân dân xưng tụng ông là bậc tiết nghĩa."
 }

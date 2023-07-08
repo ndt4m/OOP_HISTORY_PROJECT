@@ -1,22 +1,17 @@
 {
-  "dateOfBirth": "242",
-  "dateOfDeath": "284 Lạc Dương, Hà Nam",
-  "hometown": "Không rõ",
-  "occupation": "Hoàng đế Đông Ngô",
-  "workTenure": "264 - 280",
-  "fatherName": {
-    "Tôn Hòa": null
+  "dateOfBirth" : "Bính Thìn 1916",
+  "dateOfDeath" : "Giáp Tí 1984",
+  "hometown" : "quê huyện Long Thành, tỉnh Biên Hòa (nay thuộc tỉnh Đồng Nai), có tư liệu viết quê ông tại xã Thái Hòa, huyện Tân Uyên tục danh là Hai Nhỏ",
+  "occupation" : "Tướng lĩnh ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "motherName": {},
-  "eraName": {
-    "Nhà Đông Ngô": null
-  },
-  "id": 1598,
-  "entityName": "Tôn Hạo",
-  "aliases": [
-    "Niên hiệu Nguyên Hưng (元興) 264-265 Cam Lộ (甘露) 265-266 Bảo Định (寶鼎) 266-269 Kiến Hoành (建衡) 269-271 Phượng Hoàng (鳳凰) 272-274 Thiên Sách (天冊) 275-276 Thiên Tỷ (天璽) 276 Thiên Ký (天紀) 277-280",
-    "Húy: Tôn Hạo Tên tự: Hạo Tông (皓宗)",
-    "Mạt Hoàng Đế (末皇帝)"
-  ],
-  "overview": "Tôn Hạo (chữ Hán: 孫皓; bính âm: Sun Hao, 242-284), hay Ngô Mạt đế (吳末帝), là hoàng đế cuối cùng của nhà Đông Ngô thời Tam Quốc trong lịch sử Trung Quốc. Ông là con trai của thái tử Tôn Hòa, cháu đích tôn của Đại Đế Tôn Quyền. Sau khi người chú của ông là Cảnh Đế Tôn Hưu qua đời và thái tử Tôn Quân còn nhỏ tuổi, các đại thần nước Ngô quyết định đưa Tôn Hạo lên ngôi hoàng đế. Trong thời gian trị vì, ông hoang dâm vô đạo, xa xỉ cùng cực, giết hại trung lương, tin dùng hoạn quan, việc chính sự thì ít để tâm tới, vì thế quốc lực Giang Đông suy yếu. Nhân cơ hội đó, năm 280, Tấn Vũ Đế phát động chiến tranh, tiêu diệt được Đông Ngô, Tôn Hạo hàng Tấn rồi bị bắt giải về Lạc Dương, kết thúc thế chân vạc Tam Quốc. Ông qua đời vào năm 284 dưới thời Tấn Vũ Đế."
+  "id" : 1598,
+  "entityName" : "Lương Văn Nho",
+  "aliases" : [ ],
+  "overview" : "Sau Cách mạng Tháng Tám, ông tham gia Nam bộ kháng chiến, năm 1947 là Huyện đội trưởng Long Thành, rồi Tỉnh đội trưởng dân quân Bà Rịa, Tỉnh đội phó, tham mưu trưởng tỉnh đội Bà Rịa - Chợ Lớn. Năm 1954 tập kết ra Bắc làm Tham mưu trưởng liên khu 3. Năm 1961 trở về Nam chiến đấu, làm Tư lệnh kiêm Bí thư Đặc khu Rừng Sác, Tư lệnh pháo binh Miền. (B2). Sau 30-4-1975 làm phó Tham mưu trưởng Quân khu 7, từng được tặng Huân chương chiến công. Ông mất năm 1984, thọ 68 tuổi."
 }

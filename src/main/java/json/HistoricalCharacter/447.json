@@ -1,20 +1,14 @@
 {
-  "dateOfBirth": "Quí Mùi 983\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath": "Ất Tị 1005\n----------------------------------------------\nKhông rõ",
-  "hometown": "Nam Định\n----------------------------------------------\nKhông rõ",
-  "occupation": "Vua nhà Tiền Lê, có tên húy khác nữa là Huyên\n----------------------------------------------\nVua",
-  "workTenure": "1005—1005",
-  "fatherName": {
-    "Lê Đại Hành": 2974
-  },
-  "motherName": {},
-  "eraName": {
-    "Nhà Tiền Lê": 8
-  },
-  "id": 447,
-  "entityName": "Lê Trung Tông",
-  "aliases": [
-    "Lê Trung Tông"
-  ],
-  "overview": "Lê Trung Tông có thể là:\n----------------------------------------------\nÔng là con thứ ba Đại Hành hoàng đế Lê Hoàn. Khi trước ông đã được vua cha định cho nối ngôi (ngôi Thái tử đáng lý thuộc về Lê Ngân Tích), nhưng sau khi vua cha mất đi, các anh em ông đánh nhau tranh ngôi. Cầm đầu là Đông Thành vương Lê Ngân Tích, Trung Quốc vương Lê Long Cảnh, Khai Minh vương Lê Long Đĩnh. Đánh nhau trong 7 tháng, đến tháng 10 năm Ất tị 1005, ông mới được tôn vương, song chỉ được 3 ngày thì bị giết, mới 22 tuổi. Long Đĩnh nối ngôi tức Lê Ngọa Triều, còn Đông Thành vương Lê Ngân Tích thì bỏ trốn.\n----------------------------------------------\nTiền Lê Trung Tông (chữ Hán: 前黎中宗 983 – 1005) là vị hoàng đế thứ hai của nhà Tiền Lê. Khi vua cha Lê Đại Hành mất, Thái tử Lê Long Việt vâng theo di chiếu nối ngôi nhưng bị anh em tranh chấp ngôi báu trong 8 tháng mới dẹp yên. Khi chính thức lên ngôi được 3 ngày thì bị em là Lê Long Đĩnh sai người đầu độc cướp ngôi vua."
+  "dateOfBirth" : "104",
+  "dateOfDeath" : "187",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 447,
+  "entityName" : "Trần Thực",
+  "aliases" : [ "Trần Thật", "Trọng Cung" ],
+  "overview" : "Trần Thực hay Trần Thật (chữ Hán: 陈寔, 104 – 187), tên tự là Trọng Cung, người huyện Hứa, quận Dĩnh Xuyên , là danh sĩ cuối đời Đông Hán trong lịch sử Trung Quốc."
 }

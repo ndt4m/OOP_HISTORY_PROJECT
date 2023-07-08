@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Quê làng Kì Sơn, huyện Chí Linh, tỉnh Hải Dương",
-  "occupation": "Nghĩa sĩ đời Trưng vương, hai anh em, em là Đào Đạt, anh là Đào Đạo - đều giỏi võ nghệ có lòng yêu nước, có tinh thần cao thượng cứu khó, phò nguy, tận tâm thương yêu dân nước",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trưng Nữ Vương": 10
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Hà Tĩnh",
+  "occupation" : "Danh tướng của Bình Định vương Lê Lợi",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Thuộc Minh" : 33
   },
-  "id": 948,
-  "entityName": "Đào Đạo - Đào Đạt",
-  "aliases": [],
-  "overview": "Trước cuộc khởi nghĩa Trưng Vương, hai anh em ông vẫn từng tập họp nghĩa quân đánh phá quân xâm lược, và sau đó ủng hộ cuộc khởi nghĩa của toàn dân do hai bà Trưng lãnh đạo. Sau khi hai anh em ông mất, dân chúng cũng có lập đền thờ làng Kì Sơn còn phụng tự tại đình."
+  "id" : 948,
+  "entityName" : "Bùi Ban",
+  "aliases" : [ ],
+  "overview" : "Khi giặc Minh xâm lược, ông theo phù tá Lê Lợi, Lê Lợi cảm nghĩa gả con gái Trang Từ cho. Trong trận đánh ở làng Thổ Hoàng, huyện Hương Khê, tỉnh Hà Tĩnh (nay thuộc tỉnh Hà Tĩnh), ông bị tử thương. Sau được truy phong tước Minh Quận Công. Đền thờ ông được lập ở làng Thổ Hoàng."
 }

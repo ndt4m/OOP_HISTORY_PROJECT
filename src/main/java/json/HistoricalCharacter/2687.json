@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "1926 Bình Định, Việt Nam",
-  "dateOfDeath": "1987 (61 tuổi) California, Hoa Kỳ",
-  "hometown": "Không rõ",
-  "occupation": "Thuộc",
-  "workTenure": "1949-1974",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 2687,
-  "entityName": "Ngô Du",
-  "aliases": [],
-  "overview": "Ngô Dzu (1926-1987), nguyên là một tướng lĩnh Bộ binh của Quân lực Việt Nam Cộng hòa, cấp bậc Trung tướng. Ông xuất thân từ trường Võ bị Quốc gia do Chính phủ Quốc gia Việt Nam mở ra ở miền Trung Việt Nam. Tốt nghiệp được chọn về đơn vị Bộ binh. Ông đã theo hệ thống sĩ quan chỉ huy bắt đầu từ chức vụ Trung đội trưởng và tuần tự lên đến chỉ huy cấp Sư đoàn, Sau cùng ông cũng được đảm nhiệm chức vụ Tư lệnh cấp Quân đoàn. Ông được thăng cấp cũng khá nhanh, lên tướng khi tuổi đời chưa đến 40."
+  "dateOfBirth" : "Đinh Mùi 1907",
+  "dateOfDeath" : "Canh Ngọ 1930",
+  "hometown" : "quê làng Đa Ngưu tỉnh Bắc Ninh (nay là thôn Đa Ngưu, xã Tân Tiến, huyện Văn Giang, tỉnh Hưng Yên)",
+  "occupation" : "Nhà yêu nước, đảng viên cao cấp Việt Nam Quốc dân đảng",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
+  },
+  "id" : 2687,
+  "entityName" : "Phó Đức Chính",
+  "aliases" : [ ],
+  "overview" : "Thuở nhỏ học ở Hà Nội, tốt nghiệp trường Cao đẳng Công chánh được bổ làm Cán sự tại Savana khét (Lào). Vào đầu năm 1928, ông liên hệ với Nguyễn Thái Học thành lập Việt Nam Quốc dân đảng, ông phụ trách công tác an ninh nội bộ. Sau vụ ám sát cáo già thực dân Bazin ở Hà Nội, ông bị bắt từ Lào đưa về giam ở nhà lao Hỏa Lò rồi bị bãi chức. Ra tù ông càng tích cực hoạt động bí mật chống Pháp. Cuộc khởi nghĩa phát động, ông trực tiếp chỉ huy vùng Yên Bái. Thất bại, ông bị địch vây bắt tại Nam Oai chiều ngày 15-2-1930. Ngày 21-5 âm lịch năm Canh ngọ (17-6-1930) ông hi sinh trên đoạn đầu đài tỉnh Yên Bái cùng với Nguyễn Thái Học Và 11 chiến hữu khác, hưởng dương 23 tuổi"
 }

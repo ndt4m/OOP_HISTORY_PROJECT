@@ -1,18 +1,17 @@
 {
-  "dateOfBirth": "Giáp Thân 1284",
-  "dateOfDeath": "Canh Ngọ 1330",
-  "hometown": "Quê làng Cửu La (nay là Phụ Vệ), huyện Chí Linh, tỉnh Hải Dương",
-  "occupation": "Thiền sư tổ thứ hai phái Trúc Lâm, thiền tông Việt Nam",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Trần": 15
+  "dateOfBirth" : "Bính Ngọ 1906",
+  "dateOfDeath" : "Giáp Ngọ 1954",
+  "hometown" : "tại làng Xuân Cầu huyện Văn Giang, tỉnh Hưng Yên",
+  "occupation" : "Họa sĩ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 1089,
-  "entityName": "Đổng Kiên Cương",
-  "aliases": [
-    "Pháp Loa"
-  ],
-  "overview": "Ông sinh ngày mùng 7 tháng 5 năm Giáp thân 1284 đời Trần Nhân tông, cha là Đồng Thuần Mậu, mẹ là Võ Từ Cứu. Tương truyền: thân mẫu ông từ trước đã mấy lần sinh gái, đến khi có nghén ông, tưởng sẽ là gái nữa, nên thất vọng uống thuốc phá thai, không muốn sinh nở. Chẳng dè thuốc không công hiệu, bà mang mãn, đến khi sinh ra ông mới đặt tên là Kiên Cương. Năm Giáp thìn 1304, vua Nhân tông khi ấy đã đi tu ở núi Trúc Lâm, gặp ông trong cuộc vân du ở mạn sông Nam Sách, khen ông có pháp nhân, thâu làm đệ tử, đặt pháp hiệu là Thiện Lai, đưa về liêu Kì Lân ở Linh Sơn cho học đạo. Năm sau, Ất tị 1305, thấy ông học lực tinh tiến, Nhân tông lại đặt pháp hiệu khác cho ông là Pháp Loa. Năm Mậu thân 1308, ông được lệnh làm lễ khai giảng ở chùa Siêu Loại, có vua và đình thần tham dự. Xong ông được mời trụ trì chùa Siêu Loại, làm chủ sơn môn Yên Tử, coi sóc hơn 200 bộ kinh điển. Ông cũng nhận sắc truyền giới xuất gia cho Tuyên Từ Hoàng Thái hậu và Thiên Trinh trưởng công chúa. Lại phụng chiếu định chức các tăng đồ và quản lãnh lấy. Trước sau ông cho đúc 1300 tượng Phật, dựng ba đài giảng đạo, năm ngôi tháp, 200 sở tăng đường. Khi Trần Nhân tông, tức Điền Ngự Giác Phật mất ở am Ngọa Vân, chính ông phụng tống xá lợi vào đại nội. Trần Anh tông tôn ông làm Quốc sư và phong là Anh mẫn phủ tuệ tôn giả. Năm Canh ngọ 1330, ngày 3-3, ông mất hưởng dương 46 tuổi, còn để lại các tác phẩm: - Đoạn sách lục, - Tham thiền yếu chỉ - Kim cương đạo tràng đà la ni kinh, - Tán pháp hoa kinh khóa số, - Bát nhã tâm kinh khoa, Khi sắp mất, ông truyền tâm ấn cho sư Huyền Quang Lý Đạo Tái và đọc bài kệ cho các đệ tử (hơn 15.000 người). Vạn duyên tuyệt đoạn nhất thân nhàn, Tứ thập dư niên mộng huyễn gian. Trân trọng chư nhân hưu quái vấn, Na biên phong nguyệt cánh cư khoan Bản dịch: Muôn duyên cắt đứt một thân nhàn, Hơn bốn mươi năm giấc mộng tràn. Nhắn bảo người đời đừng gạn hỏi, Bên kia trăng gió rộng mang mang. Khi ông mất, các đệ tử đem thi hài ông về núi Thanh Mai, đến ngày 11-3, Thái thượng hoàng Minh tông ngự bút truy tặng tôn hiệu ông là Tịnh trí Đại tôn giả, ban mười lượng vàng để xây tháp gọi là tháp Viên Thông. Hay tin ông mất, Trần Hiến tông có làm bài thơ viếng ông; trong đó có mấy câu: \"Tự tòng Pháp Loa khứ thế hậu Thiên hạ Thích tử không vô nhân\". Nghĩa: Pháp Loa từ bỏ cõi đời, Khắp trong thiên hạ ai người chân tu? Ở chùa Thanh Mai nơi quê quán ông hãy còn nhiều di tích, và tại chùa Hương Thảo còn có bài bia ghi tiểu sử ông."
+  "id" : 1089,
+  "entityName" : "Tô Ngọc Vân",
+  "aliases" : [ "Tô Tử", "Ái Mĩ" ],
+  "overview" : "Ông tốt nghiệp trường Cao đẳng Mĩ thuật Đông Dương khóa II (1926-1931). Từ năm 1931, ông cộng tác với các báo Nhân Loại, Phong hóa, Ngày Nay Thanh Nghị. Ông từng dạy ở trường trung học PnomPenh (1935-1939) và dạy Trường Cao đẳng Mĩ thuật Đông Dương (1939-1940). Từ sau Cách mạng tháng Tám 1945 ông tích cực tham gia kháng chiến chống Pháp, phụ trách Trường Mĩ thuật ở Việt Bắc. Ngày 17-6-1954 ông hi sinh ở Đa Khê vùng gần sát chiến trường Điện Biên Phủ, hưởng dương 48 tuổi. Ông được xem là ngưòi có công đầu trong chất liệu sơn dầu ở Việt Nam. Tranh ông từng được triển lãm ở Sài Gòn (17-12-1930), Hà Nội (1935-1936); nhất là khoảng năm 1959, tham dự triển lãm ở Ba Lan, Liên Xô, Hung-ga-ri, Ru-ma-ni. Viết về con đường phục vụ nghệ thuật của ông, nhà phê bình nghệ thuật Thái Bá Vân viết: Ông Vân hô hào một nền nghệ thuật mới (...) Ông phản đối lối vẽ kinh điển của Châu Âu các thế kỉ trước. Ông thấy nó bạc nhược, không đủ sức nói lên thời đại chúng ta (...) Ông Vân nói \"đối với David (họa sĩ đứng đầu phái tân cổ điển Pháp) xin thú thật tôi (TNV) không thể chịu được cái nghệ thuật lạnh như tiền của người ấy\"."
 }

@@ -1,24 +1,17 @@
 {
-  "dateOfBirth": "1184 hương Tức Mặc, Hải Ấp (nay là huyện Mỹ Lộc, Nam Định)",
-  "dateOfDeath": "17 tháng 2, 1234 Phụ Thiên cung (附天宮), Đại Việt",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {
-    "Trần Lý": 1923
+  "dateOfBirth" : "19 tháng 6 năm 1906 Thanh Trì, Hà Đông\n----------------------------------------------\nBính Ngọ 1906",
+  "dateOfDeath" : "24 tháng 10, 1990 (84 tuổi) Hà Nội\n----------------------------------------------\nCanh Ngọ 1990",
+  "hometown" : "quê làng Định Công, huyện Thanh Trì, Thành phố Hà Nội",
+  "occupation" : "Nhà hoạt động cách mạng",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "motherName": {
-    "Tô phu nhân": null
-  },
-  "eraName": {
-    "Nhà Trần": 15
-  },
-  "id": 1600,
-  "entityName": "Trần Thừa",
-  "aliases": [
-    "Trần Thừa (陳承)",
-    "Khai Vận Lập Cực Hoằng Nhân Ứng Đạo Thuần Chân Chí Đức Thần Vũ Thánh Văn Thùy Dụ Chí Hiếu Hoàng Đế (開運立極弘仁應道純真至德神武聖文垂裕至孝皇帝)",
-    "Huy Tông (徽宗) Thái Tổ (太祖)"
-  ],
-  "overview": "Trần Thừa (chữ Hán: 陳承, 1184 – 17 tháng 2, 1234 ), hay đôi khi còn được gọi là Trần Thái Tổ (陳太祖) hoặc Trần Huy Tông (陳徽宗), là Thái thượng hoàng đầu tiên của nhà Trần. Ông tại vị Thái Thượng hoàng khi con ông, Trần Thái Tông trở thành Hoàng đế và lập ra nhà Trần. Khi ấy, Thái Tông còn nhỏ, ông cùng Thái sư Trần Thủ Độ làm nhiếp chính, nắm quyền từ khi lên ngôi 1225 đến khi qua đời, tổng cộng là 9 năm."
+  "id" : 1600,
+  "entityName" : "Trịnh Đình Cửu",
+  "aliases" : [ ],
+  "overview" : "Trịnh Đình Cửu (1906-1990) là một nhà cách mạng và chính khách Việt Nam. Ông là một trong 5 đại biểu chính thức của 2 tổ chức Cộng sản (Đông Dương Cộng sản Đảng, An Nam Cộng sản Đảng) tham gia trong hội nghị thành lập Đảng Cộng sản Việt Nam năm 1930, dưới sự chủ trì của Nguyễn Ái Quốc. Trong hội nghị này, ông được bầu làm người đứng đầu lâm thời điều hành Ban Chấp hành Trung ương Đảng khi Đảng được thành lập với cương vị Phụ trách Ban Chấp hành Trung ương Lâm thời Đảng Cộng sản Việt Nam từ tháng 2 đến tháng 10 năm 1930, khi Trần Phú đã được bầu làm lãnh đạo Đảng thay ông trên cương vị chính thức Tổng Bí thư.\n----------------------------------------------\nÔng tham gia Cách mạng từ năm 1926, năm 1927, ông bí mật xuất dương sang Trung Quốc hoạt động, gia nhập Việt Nam thanh niên cách mạng đồng chí hội dự các lớp học chính trị do lãnh tụ Nguyễn Ái Quốc tổ chức. Sau đó ông về nước tham gia cùng các đồng chí thành lập đảng cộng sản Đông Dương ở Hà Nội. Năm 1930 sang Hương Cảng dự hội nghị thành lập ĐCSĐD... Sau khi ở nước ngoài về bị Pháp bắt đày ra Côn Đảo. Năm 1936 được trả tự do vẫn tiếp tục hoạt động bí mật cho đến Cách mạng tháng 8 năm 1945. Sau ngày toàn quốc kháng chiến chống Pháp là xứ ủy viên xứ ủy Bắc Kì chính trị viên trường võ bị Trần Quốc Tuấn. Năm 1954 là Phó giám đốc Trường đảng Nguyễn Ái Quốc. Sau năm 1960 ông nghỉ hưu, ông được Nhà nước Việt Nam tặng thưởng Huân chương Hồ Chí Minh. Ông mất năm 1990 tại Hà Nội, thọ 84 tuổi."
 }

@@ -1,21 +1,14 @@
 {
-  "dateOfBirth": "Quí Hợi 1863",
-  "dateOfDeath": "Tân Hợi 1911",
-  "hometown": "quê làng Thạnh Mĩ, huyện Lễ Dương, tỉnh Quảng Nam (nay là xã Bình Quí, huyện Thăng Bình, tỉnh Quảng Nam",
-  "occupation": "Chí sĩ cận đại",
-  "workTenure": "Không rõ",
-  "fatherName": {
-    "Bố chánh": null
-  },
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
-  },
-  "id": 285,
-  "entityName": "Nguyễn Thành",
-  "aliases": [
-    "Tiểu La",
-    "Triết Phu"
-  ],
-  "overview": "Những năm phong trào Nghĩa hội do Trần Văn Dư, Nguyễn Duy Hiệu lãnh đạo đánh Pháp ở Quảng Nam, ông là một trong các Tán tương quân vụ nghĩa quân lập được nhiều chiến công khiến thực dân Pháp phải kiêng nể. Năm 1887, Trần Văn Dư, Nguyễn Duy Hiệu bị giặc Pháp bắt giết, nghĩa quân một phần tan rã, ông bị bắt giam một thời gian, sau khi được trả tự do, ông về quê cày ruộng. Năm Quí mão 1903 Phan Bội Châu tìm gặp ông tại \"Nam Thành sơn trang\" (quê ông) mưu đồ đại sự và từ đó ông trở nên một \"quân sư\" của Sào Nam trong hội Duy Tân. Ông và Phan Bội Châu cùng đứng trên lập trường yêu nước tôn quân và dùng bạo lực đuổi Pháp ra khỏi nước, xây dựng một nước Việt Nam do Cường Để (cháu Nguyễn Phúc Cảnh) làm Minh chủ. Năm Mậu thân 1908 phong trào Duy tân ở Quảng Nam lên mạnh đưa đến cuộc biếu tình đòi giảm thuế bớt sưu lan rộng khắp miền Trung. Thực dân Pháp và tay sai Nam triều khủng bố trắng, chúng bắt hàng loạt các nhà yêu nước, chí sĩ, trong đó có ông, bị kết án khổ sai chung thân, đày ra Côn Đảo tháng 8-1908. Ra đảo được vài tháng ông hay tin vợ mất, rồi người con gái qua đời. Kế đó tin Nhật câu kết với Pháp trục xuất du học sinh Việt Nam và Phan Bội Châu ra khỏi Nhật Bản. Ông đau xót cho tiền đồ dân tộc và cách mạng Việt Nam. Phẫn chí ông bị thổ huyết chết ngoài đảo năm 1911, hưởng dương 48 tuổi. Khi bệnh hành hạ, ông có câu văn và bài thơ vĩnh quyết đồng bạn: Thời cuộc xoay vần cơ hội tốt sẽ đến, guồng máy Đông Á sau này còn nhiều cuộc biến đổi, anh em gắng lên \"Nhất sự vô thành mấn dĩ ban, Thử sanh hà điện kiến giang san. Bổ thiên vô lực đàm thiên dị, Tế thế phi tài tị tế nan. Thời cuộc bất kinh vân biến huyển, Nhân tình chỉ khúng thủy ba lan. Vô cùng thiên địa khai sâm nhãn, Tái thập niên lai thí nhất quan.\" Bản dịch: Một việc chưa thành tóc nhuộm màu, Non sông ngoảnh lại thẹn mày râu, Vá trời thiếu sức bàn nghe dễ, Cứu thế không tài tránh ở đâu? Cuộc biến ngại gì mây đổi sắc, Tình người e nổi sóng thêm sâu. Mở toang hai mắt trông trời đất, Ngắm thử mười năm vẫn thế ru?"
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 285,
+  "entityName" : "Trần Dương",
+  "aliases" : [ ],
+  "overview" : "Trần Dương có thể là tên của:"
 }

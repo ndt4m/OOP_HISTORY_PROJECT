@@ -1,21 +1,16 @@
 {
-  "dateOfBirth": "?, Hoa Lư, Ninh Bình",
-  "dateOfDeath": "?",
-  "hometown": "Không rõ",
-  "occupation": "Định Phiên Vương",
-  "workTenure": "993 - 1009",
-  "fatherName": {
-    "Lê Đại Hành": 2974
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê xã Hoàng Hậu, huyện Quỳnh Lưu, tỉnh Nghệ An, không rõ năm sinh, năm mất",
+  "occupation" : "Liệt phụ đời Lê Hiển tông, quê xã Hoàng Hậu, huyện Quỳnh Lưu, tỉnh Nghệ An",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
   },
-  "motherName": {},
-  "eraName": {
-    "Nhà Tiền Lê": 8
-  },
-  "id": 953,
-  "entityName": "Lê Long Tung",
-  "aliases": [
-    "Định Phiên Vương",
-    "Lê Long Tung"
-  ],
-  "overview": "Lê Long Tung (chữ Hán: 黎龍鏦) là một hoàng tử của nhà Tiền Lê trong lịch sử Việt Nam. Ông là con trai thứ 7 của Vua Lê Đại Hành. Sinh tại kinh đô Hoa Lư, Ninh Bình, Việt Nam. Ông được vua phong tước Định Phiên Vương (定藩王), đóng tại Tư Doanh, tức vùng đất thuộc Cổ Loa Hà Nội ngày nay. Căn cứ vào năm sinh người con trai thứ năm của vua Lê Đại Hành (986) và năm phong vương thì năm sinh của ông nằm trong khoảng từ 986 đến 993."
+  "id" : 953,
+  "entityName" : "Châu Thị Bát",
+  "aliases" : [ ],
+  "overview" : "Chồng bà là Thượng thư bộ Binh Hồ Phi Tích, sau khi chồng mất, bà giữ tiết. Khi Nguyễn Hữu Cầu kẻo quân đánh đến xóm làng bà cư ngu,Cầu ngỏ ý muốn kết hôn với bà. Bà nói: \"Xin cho tôi bái biệt vong linh chồng tôi rồi sẽ theo\". Nguyễn Hữu Cầu chấp thuận. Bà than khóc vái lạy trước bàn thờ chồng, rồi lấy dao đã dấu sẵn, đâm cổ tự vẫn chết. Cảm cái chết ấy, vua Tự Đức vịnh: \"Nhất tiếu khuynh thành túy tắc tâm, Ứng cơ thiện đãi thục năng xâm Phu từ bái biệt tương an thích, Tư hữn long tuyền dĩ tại khâm. Bản dịch: Một cười nghiêng nước giặc say lòng! Xử cảnh khéo tùy ai dễ mong. Bái biệt vong linh chồng đã tốt, Gươm thiêng dẫn dấu áo bên trong."
 }

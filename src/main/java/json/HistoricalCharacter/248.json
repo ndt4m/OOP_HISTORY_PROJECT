@@ -1,19 +1,17 @@
 {
-  "dateOfBirth": "Mậu Thân 1908",
-  "dateOfDeath": "Bính Dần 1986",
-  "hometown": "quê xã Hưng Thông, huyện Hưng Nguyên, tỉnh Nghệ An",
-  "occupation": "Tướng lãnh QĐNDVN ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Ất Tị 1905",
+  "dateOfDeath" : "Bình Dần 1986",
+  "hometown" : "quê TP",
+  "occupation" : "Nhà hoạt động chính trị ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 248,
-  "entityName": "Lê Thiết Hùng",
-  "aliases": [
-    "Lê Văn Nghiệm"
-  ],
-  "overview": "Ông tham gia cách mạng từ năm 1925, gia nhập Việt Nam Thanh niên cách mạng đồng chí hội, sau đó sang hoạt động tại Trung Quốc được tổ chức giới thiệu vào học Trường Hoàng Phố ở Trung Quốc, tốt nghiệp về nước hoạt động ở chiến khu Cao Bằng, Bắc Kạn, Lạng Sơn. Năm 1945, ông chỉ huy các lực lượng vũ trang giành chính quyền ở Thất Khê, Đồng Đăng thuộc tỉnh Cao Bằng, năm 1946 khu trưởng khu IV rồi tổng chỉ huy Quân tiếp phòng. Năm 1950 giữ chức hiệu trưởng Trường lục quân, Cục trưởng Cục Quân huấn Bộ Tổng tham mưu, đến năm 1963 làm đại sứ nước VNDCCH tại Bình Nhưỡng (CHNDTT). Năm 1970 giữ chức Phó ban đối ngoại trung ương Đảng. Ông được Đảng và Nhà nước Việt Nam tặng Huân chương Hồ Chí Minh và nhiều huy chương, huân chương khác. Ông mất trong năm 1986, thọ 78 tuổi."
+  "id" : 248,
+  "entityName" : "Bùi Công Trừng",
+  "aliases" : [ ],
+  "overview" : "Ông hoạt động cách mạng từ 1924, tham gia các phong trào nổ ra trong những năm 1925 - 1926. Sau đó ông được tổ chức cử đi dự đại hội Phản đế Đồng minh ở Bỉ năm 1927 rồi sang Liên Xô (cũ) học khóa II của trường Phương Đông (Đại học Stalin) trong 3 năm 1927 - 1929 cùng khóa với Nguyễn Thế Rục, Trần Phú, Bùi Lâm, Nguyễn Khánh Toàn, Lê Hồng Phong, Hà Huy Tập, Trần Ngọc Danh (em Trần Phú), Dương Bạch Mai, Trần Đình Long, Bùi Ai, Nguyễn Văn Trân (Bảy Trân, Chợ Lớn), Ngô Đức. Năm 1930 về nước, hoạt động trong Đảng Cộng Sản Đông Dương rồi bị bắt và bị đày ra Côn Đảo. Trong tù ông là một giảng viên xuất sắc về chính trị, thường được anh em tôn là Giáo sư Đỏ. Năm 1938 mãn hạn tù được tha, ông hoạt động và viết báo, nổi tiếng về bút chiến. Năm 1946 ông là thành viên của Phái đoàn Việt Nam dự hội nghị trù bị Đà Lạt. Thời kháng chiến chống Pháp ông làm Thứ trưởng Bộ Kinh tế. Sau năm 1954 là Phó Chủ nhiệm ủy ban Kế hoạch Nhà nước. Tại Đại hội toàn quốc lần thứ III của Đảng, ông được bầu vào Ban Chấp hành Trung ương. Ông mất tại Hà Nội năm 1986, thọ 81 tuổi."
 }

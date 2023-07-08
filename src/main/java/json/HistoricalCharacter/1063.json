@@ -1,18 +1,14 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Vua",
-  "workTenure": "950—965",
-  "fatherName": {
-    "Ngô Quyền": 1285
-  },
-  "motherName": {},
-  "eraName": {
-    "Nhà Ngô và Dương Tam Kha": 25
-  },
-  "id": 1063,
-  "entityName": "Nam Tấn Vương",
-  "aliases": [],
-  "overview": "Ngô Xương Văn (chữ Hán: 吳昌文; 934 – 965) là một vị vua nhà Ngô trong lịch sử Việt Nam. Ông trị vì từ 950 đến 965, trong đó khoảng từ 951 – 954 ông trị vì cùng với anh trai là Ngô Xương Ngập. Sử gọi chung đó là thời Hậu Ngô Vương."
+  "dateOfBirth" : "",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 1063,
+  "entityName" : "Phạm Tuân",
+  "aliases" : [ ],
+  "overview" : "Phạm Tuân (sinh năm 1947) là phi công, phi hành gia người Việt Nam. Ông là người đầu tiên của Việt Nam và châu Á bay lên vũ trụ vào năm 1980 trong chương trình Interkosmos của Liên Xô."
 }

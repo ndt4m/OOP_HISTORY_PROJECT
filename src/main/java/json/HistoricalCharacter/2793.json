@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "Giáp Dần 1794",
-  "dateOfDeath": "Quí Mão 1843",
-  "hometown": "quê làng Mị Khê, phủ Bình Giang, tỉnh Hải Dương",
-  "occupation": "Danh y thời Tây Sơn",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Tây Sơn": 21,
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê ở Châu Hoan (Nghệ An ngày nay)",
+  "occupation" : "Thiền sư thời Bắc thuộc lần thứ III, không rõ họ tên, năm sinh năm mất",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Bắc thuộc lần lần 3" : 1
   },
-  "id": 2793,
-  "entityName": "Nguyễn Thế Chuẩn",
-  "aliases": [
-    "Đức Khê"
-  ],
-  "overview": "Ông là học trò Phạm Đình Hổ, có đi thi nhiều lần nhưng không đỗ, quay ra học nghề thuốc và được nổi tiếng. Đến đời nhà Nguyễn, vua Thiệu Trị nghe Tổng đốc Hà Nội là Nguyễn Hữu Tâm tiến cử ông, bèn sai Trương Đăng Quế xét thực hư rồi bổ nhiệm ông làm Phó ngự y nơi Thái Y viện, nhưng ông vin cớ có mẹ già hết sức từ chối. Năm Quí mão 1843 ông mất, hưởng dương 49 tuổi. Ông có soạn một tập thơ chữ Hán, một số sách y học và nhiều bài thuốc gia truyền."
+  "id" : 2793,
+  "entityName" : "Vân Kỳ",
+  "aliases" : [ "Vân Kỳ" ],
+  "overview" : "Ông xuất gia đầu Phật từ hồi còn nhỏ tuổi, khi vào ở chùa chuyên tu học, nghiên cứu chữ Phạn (Pali), từng sang Ấn Độ - có chân trong đoàn pháp sư sang Ấn Độ thời ấy - khoảng đời Đường Cao tông (648-681). Ông là bạn thân với Đàm Nhuận sang Ấn Độ, nhưng vừa đến Java thì Đàm lâm bệnh mất lúc mới 30 tuổi. Ông cùng đoàn tùy tùng sang Ấn học Phật điển một thời gian, rồi trở về quê nhà, lâm bệnh mất hưởng dương ngoài 30 tuổi."
 }

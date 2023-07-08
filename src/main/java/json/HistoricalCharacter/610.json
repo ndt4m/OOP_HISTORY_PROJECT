@@ -1,16 +1,20 @@
 {
-  "dateOfBirth": "Quí Mão 1543",
-  "dateOfDeath": "Ất Sửu 1625",
-  "hometown": "quê làng Kiệt Đặc (làng Dọc) huyện Chí Linh, tỉnh Hải Dương (nay thuộc tỉnh Hải Dương)",
-  "occupation": "Danh thần nhà Mạc",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nam - Bắc Triều": 19
+  "dateOfBirth" : "Bính Thìn 1916",
+  "dateOfDeath" : "Đinh Tị 1977",
+  "hometown" : "tại Nam Định, con ông Hoàng Văn Tuân và bà Lê Thị An (bà là nguời sinh ở Long An Nam Bộ), từ năm 1948-1950 định cư ở Sài Gòn",
+  "occupation" : "Chuyên viên ngân hàng, nhà báo, sinh năm 1916 tại Nam Định",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "Hoàng Văn Tuân" : null
   },
-  "id": 610,
-  "entityName": "Nguyễn Phong",
-  "aliases": [],
-  "overview": "Năm Mậu thìn 1568, ông đỗ tam giáp đồng tiến sĩ, 25 tuổi, làm quan đến Thị lang bộ Lễ, tước Cần Ý Hầu. Khi nhà Mạc mất, ông cùng người bạn đồng hương là Nghiêm Sơn Hầu Nguyễn Doãn Khâm ở ẩn trong núi Huyền Đinh không cộng tác với nhà Hậu Lê. Sau học trò ông là Nguyễn Thật làm Thượng thư nhà Lê tiến cử ông với triều đình, vua Lê sai sứ đến triệu thỉnh. Ông ra làm Thượng thư bộ Hình, sau khi về hưu, được phong tước là Toàn Quận Công. Năm Ất sửu ông mất, thọ 82 tuổi. Khoảng đời trí sĩ, ông có bài thơ tự bạch: \"Nhất hồ sơn thủy, nhất ti am, Thảo mộc ngư long nhất nhị tam. Thiên hạ hữu thiên thiên bất lão. Song tiền thượng khí độc hà nam. Bản dịch: Một bầu non nước một am nhà, Ao cá vườn cây độ một và, Trời dưới gầm trời xuân trẻ mãi, Trước song ta giảng sách cùng ta. Tính ông thích ngao du sơn thủy, thường có thơ vịnh, phảng phất phong độ vị ẩn sĩ đời Trần là Na Tiều Trần Tu. Thí như bài sau: \"Ngô hà ai, ái duy sơn, Bất viễn yên hà, viễn thế gian, Cử mục hữu thiên vân sắc ngữ, Đài đầu mãn địa thảo hoa nhàn. Mai trào hiểu nhật tri xuân noãn, Bách lập đông phong thức tuế hàn. Lôi vũ bất mê điền hải chí, Diệp chu minh đãi phiếm trừng ba.\" Bản dịch: Ta yêu gì, yêu núi thôi, Chẳng xa mây khói, xả cõi đời. Bừng mắt thấy trời mây sắc biếc, Ngẩng đầu xem đất hoa đua tươi. Xuân về buổi sớm mai chào thoảng, Gió tát trời đông bách đứng phơi. Chí cả chẳng sờn vì sấm chớp, Giữa dòng chiếc lá thử rong chơi. Ông cùng Đinh Công Hãng đều nổi tiếng văn học trong đời Mạc. Đương thòi có câu ca ngợi: \"Ông Triều ông Dọc học làm chi\" (Triều tức làng Triều Dương, quê Đinh Công Hãng, Dọc tức làng Dọc, quê Nguyễn Phong)."
+  "motherName" : {
+    "Lê Thị An" : null
+  },
+  "eraName" : {
+    "Nước Việt Nam mới" : 29
+  },
+  "id" : 610,
+  "entityName" : "Hoàng Minh Tuynh",
+  "aliases" : [ ],
+  "overview" : "Thuở nhỏ ông học tại Hà Nội, đậu Tú tài rồi vào học Trường Đại học luật khoa Hà Nội, tốt nghiệp cử nhân luật chuyên về kinh tế, tài chính. Sau năm 1945 ông làm công chức trong ngành kinh tế ngân hàng, thường đi tu nghiệp ở các nước Tây phương (Pháp, Mĩ), sau năm 1950 định cư ở Sài Gòn, Bảo Lộc cho đến cuối đời. Sau hiệp định Genève, ông giữ chức Phó Tổng giám đốc Viện Hối đoái Sài Gòn (Tổng giám đốc là ông Huỳnh Văn Lang). Năm 1957 ông là một trong 3 người (Huỳnh Văn Lang, Lê Ngộ Châu và ông) sáng lập tạp chí Bách khoa ở Sài Gòn (1957-1975) giữ chức chủ bút tạp chí (1957-1963) rồi đến năm 1960 ông sáng lập tạp chí Mai giữ chân chủ nhiệm tạp chí này. Bách khoa, Mai là hai tạp chí có chủ trương và lập trường văn hóa tương tự sống được lâu năm nhất tại miền Nam thuở ấy. (Bách khoa: 1957-1975, Mai: 1960-1963) và cũng là nơi tập hợp được các cây bút nghiêm túc ở Sài Gòn trước năm 1975 như có nhà văn đã viết: \"Tạp chí Bách khoa là mảnh đất chính cho việc cầm bút dưới các bút hiệu cô Phương Thảo... Thực tế điều hành tờ báo là ở hai người. Một là ông Hoàng Minh Tuynh, trí thức công giáo, tính tình hào hoa, có phần lãng mạn, sẵn sàng bỏ nhiều thì giờ cắt xén các bài trên báo chí ngoại quốc kết lại thành từng mục để trao cho các anh em cộng sự khai thác tư liệu. Hai là ông Lê Ngộ Châu trí thức miền Bắc di cư nhưng là Phật tử lo phần trị sự. Ông Châu là người thông minh, tinh tế, nhạy bén trong xử sự và nhân hậu với anh em cộng tác\" (Vũ Hạnh). Sau năm 1963, ông từ bỏ đời sống công chức, sống với nghề tự do, đến năm 1977 ông mất tại Bảo Lộc (tỉnh Lâm Đồng) thọ 61 tuổi. Dư luận hồi đó cho rằng ông bị đầu độc."
 }

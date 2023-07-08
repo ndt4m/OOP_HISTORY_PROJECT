@@ -1,17 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Hải Dương",
-  "occupation": "Thân vương nhà Mạc",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nam - Bắc Triều": 19,
-    "Triều Lê Sơ": 7
+  "dateOfBirth" : "Tân Sửu 1901",
+  "dateOfDeath" : "Tân Tị 1941",
+  "hometown" : "quê làng Mĩ Quang thượng, huyện Diễn Châu, tỉnh Nghệ An",
+  "occupation" : "Liệt sĩ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 1456,
-  "entityName": "Mạc Quyết",
-  "aliases": [],
-  "overview": "Ông cùng với anh là Đăng Dung và Đốc đều là bề tôi nhà Lê, đời Lê Chiêu tông. Đốc được phong tước Trào Quận Công; ông đưọc phong Đông Sơn Hầu, rồi thăng Đông Quận Công; còn Đăng Dung tước Vũ Xuyên Bá, thăng dần đến An Hưng vƯƠNG, bèn sinh lòng cướp quyền mưu đồ dựng nghiệp lớn. Ông cũng tán thành ý đồ của anh, ba anh em ông ngầm kết vây cánh mong lật đổ nhà Lê. Năm Đinh hợi 1527 Đăng Dung cướp quyền vua thành công, có ông làm hậu thuẫn đắc lực và em rể Đăng Dung là Võ Hộ (sau đổi tên là Mạc Bang Hộ) ủng hộ tận tâm. Nhà Mạc thành lập, Đăng Dung phong ông làm Tín vương, Đốc làm Từ vương, Võ Hộ tức Mạc Bang Hộ làm Đô đốc Tĩnh Quốc Công. Ông cùng anh dọc ngang một cõi biên thùy, chống nhau quyết liệt với nhà Lê để giữ cơ đồ, khi ông mất, được truy tặng Uy Tín vương."
+  "id" : 1456,
+  "entityName" : "Phùng Chí Kiên",
+  "aliases" : [ "Nguyễn Vĩ" ],
+  "overview" : "Ông xuất thân trong một gia đình nông dân, giác ngộ cách mạng từ lúc còn trẻ tuổi, năm 1926 ông sang Quảng Châu dự lớp huấn luyện đầu tiên do Nguyễn Ái Quốc tổ chức, rồi vào học trường võ bị Hoàng Phố với tên mới là Mạnh Văn Liễu. Tại đây ông trực tiếp tham gia khởi nghĩa Quảng Châu (12-12-1927) do đảng Cộng sản Trung Quốc tổ chức. Năm 1931 ông sang Mát-xcơ-va học tại Trường đại học Phương Đông nhưng giữa đường bị phát xít Nhật bắt giam. Ra tù ông tiếp tục sang Liên Xô học tập. Năm 1934 ông về Hồng Kông cùng với Lê Hồng Phong, Hà Huy Tập chuẩn bị triệu tập đại hội đại biểu toàn quốc Đảng Cộng sản Đông Dương. Tại đại hội này, ông được bầu vào Ban chấp hành Trung ương Đảng hoạt động ở nước ngoài. Năm 1936 ông về công tác tại Cao Bằng, trực tiếp chỉ đạo khu căn cứ Bắc Sơn đến tháng 7 cùng năm ông bị Pháp bắt tại châu Ngân Sơn thuộc tỉnh Bắc Cạn, ông bị giặc Pháp chém, đầu bị bêu ở cầu Ngân Sơn để trấn áp tinh thần cách mạng của nhân dân. Ông hi sinh ngày 22-8-1941 lúc mới 40 tuổi. Sau cách mạng Tháng Tám, ông được hội đồng chính phủ truy phong quân hàm cấp tướng."
 }

@@ -1,14 +1,14 @@
 {
-  "dateOfBirth": "1923",
-  "dateOfDeath": "1998",
-  "hometown": "xã Trung Mâu, tổng Thông Lãng huyện Hưng Huyên (nay là xã Hưng Tiến, huyện Hưng Nguyên), tỉnh Nghệ An.",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 2299,
-  "entityName": "Trần Đệ",
-  "aliases": [],
-  "overview": "Trần Đệ (1923-1998), là một lão thành cách mạng thuộc Đảng Cộng sản Việt Nam, ông sinh ra tại làng Long Đống, xã Trung Mâu, tổng Thông Lãng huyện Hưng Huyên (nay là xã Hưng Tiến, huyện Hưng Nguyên), tỉnh Nghệ An."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 2299,
+  "entityName" : "Võ Nhai",
+  "aliases" : [ ],
+  "overview" : "Võ Nhai là một huyện miền núi phía đông bắc tỉnh Thái Nguyên. Đây là huyện có diện tích lớn nhất và có mật độ dân số tháp nhất trong tỉnh."
 }

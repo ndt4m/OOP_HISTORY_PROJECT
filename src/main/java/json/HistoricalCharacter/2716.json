@@ -1,14 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 2716,
-  "entityName": "nhà Hạ",
-  "aliases": [],
-  "overview": "Nhà Hạ hay triều Hạ (tiếng Trung: 夏朝; bính âm: Xià Cháo; Hán-Việt: Hạ triều, khoảng thế kỷ 21 TCN-khoảng thế kỷ 16 TCN) là triều đại Trung Nguyên đầu tiên theo chế độ thế tập được ghi chép trong sách sử truyền thống Trung Quốc. Một số người cho rằng triều Hạ là liên minh nhiều bộ lạc hoặc quốc gia có hình thức tù bang phức tạp. Căn cứ theo ghi chép trong sách sử thì Tam Đại gồm Hạ, Thương, Chu đều là vương triều phong kiến, quân chủ và chư hầu chia nhau mà cai trị, và triều Hạ là vương triều phong kiến thị tộc thế tập đầu tiên. Trong các văn vật thời kỳ Hạ, có số lượng nhất định lễ khí làm bằng đồng thanh hoặc ngọc, niên đại của chúng ước tính là vào cuối Thời đại đồ đá mới, đầu Thời đại đồ đồng. Mặc dù ghi chép liên quan đến triều Hạ trong các văn hiến truyền thống Trung Quốc là khá nhiều, song các sách này được hoàn thành khá muộn sau đó, cho đến nay vẫn chưa phát hiện được chứng cứ trực tiếp để có thể công nhận sự tồn tại của triều Hạ, như văn tự đồng thời kỳ, do đó trong giới lịch sử học cận hiện đại có người nghi ngờ tính chân thực về sự tồn tại của triều Hạ. Văn hóa Nhị Lý Đầu phát hiện được ở tây bộ Hà Nam và nam bộ Sơn Tây có các điều kiện cơ bản về niên đại và vị trí địa lý của văn hóa Hạ, song do chưa khai quật được các ghi chép văn tự giống như giáp cốt bốc từ ở Ân Khư, do vậy tính tồn tại của triều Hạ vẫn không thể chứng thực được. Nhiều học giả trong và ngoài Trung Quốc nhận định rằng di chỉ Nhị Lý Đầu ở Yển Sư thuộc Hà Nam có khả năng là di tích đô thành của triều Hạ ít nhất là trong thời kỳ thứ nhất và thứ nhì, song hiện vẫn đang phải tìm kiếm căn cứ xác thực để làm rõ."
+  "dateOfBirth" : "Ất Mão 1915",
+  "dateOfDeath" : "Mậu Thân 1968",
+  "hometown" : "quê xã Văn Hóa, huyện Tuyên Hóa, tỉnh Quảng Bình",
+  "occupation" : "Tướng lãnh QĐNDVN",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
+  },
+  "id" : 2716,
+  "entityName" : "Trần Văn Kỳ",
+  "aliases" : [ "Hoàng Sâm" ],
+  "overview" : "Ông tham gia cách mạng từ năm 1933 và là đội trưởng đầu tiên của Đội Việt Nam Tuyên truyền giải phóng quân ở Tân Trào. Từng bị mật thám Pháp ở Thái Lan rồi trục xuất sang Trung Quốc. Ngay từ những ngày đầu thành lập Việt Nam Tuyên truyền giải phóng quân ông đã chỉ huy các trận đánh ở Phai Khắt (25-12-1944), Nà Ngần (26-12-1944) chiến thắng vẻ vang. Ông từng tham gia Ủy ban Giải Phóng, phụ trách quân sự khu Giải phóng gồm 6 tỉnh: Cao Bằng, Bắc Kạn, Lạng Sơn, Hà Giang, Tuyên Quang và Thái Nguyên là căn cứ địa trong kháng chiến chống Pháp. Từ năm 1946-1950 là khu trưởng khu II chỉ huy mặt trận Tây Tiến, Tư lệnh liên khu III, Đại đoàn trưởng Đại đoàn 312, Đại đoàn 304, chỉ huy mặt trận Trung Lào. Sau hiệp định Genève tiếp quản các tỉnh Sơn Tây, Hà Đông, Đại đoàn trưởng Đại đoàn 320 chỉ huy tiếp quản Hải Phòng (1955), rồi tư lệnh các quân khu Tả ngạn, Hữu ngạn, Quân khu III, Đại biểu Quốc hội các khóa II, III. Ông được Đảng và Nhà nước Việt Nam tặng nhiều huân chương trong đó có Huân chương chiến công hạng nhất."
 }

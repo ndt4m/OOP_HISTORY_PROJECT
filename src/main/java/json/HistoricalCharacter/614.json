@@ -1,14 +1,18 @@
 {
-  "dateOfBirth": "11 tháng 1, 1951 (70 tuổi) Hà Nam, Việt Nam Dân chủ Cộng hòa",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 614,
-  "entityName": "Nguyễn Thị Doan",
-  "aliases": [],
-  "overview": "Nguyễn Thị Doan (sinh năm 1951) là một cựu chính trị gia Việt Nam. Bà từng là Phó Chủ tịch nước Cộng hòa Xã hội Chủ nghĩa Việt Nam (2007 - 2016), nguyên Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa VIII, IX, X, XI, Đại biểu Quốc hội Việt Nam khóa XIII thuộc Đoàn đại biểu tỉnh Hà Nam, nguyên Hiệu trưởng Trường Đại học Thương mại."
+  "dateOfBirth" : "..",
+  "dateOfDeath" : "cuối năm 917 Thành Đại La, Hà Nội\n----------------------------------------------\nĐinh Sửu 917",
+  "hometown" : "Quê hương của cha con Khúc Thừa Dụ, Khúc Hạo nay được cho là làng Cúc Bồ xã Kiến Quốc huyện Ninh Giang tỉnh Hải Dương .\n----------------------------------------------\nHải Dương",
+  "occupation" : "Tiết độ sứ thời kỳ Tự chủ\n----------------------------------------------\nCon Khúc Thừa Dụ",
+  "workTenure" : "907-917\n----------------------------------------------\nKhông rõ",
+  "fatherName" : {
+    "Khúc Tiên Chủ" : 3079
+  },
+  "motherName" : { },
+  "eraName" : {
+    "Xây nền tự chủ" : 12
+  },
+  "id" : 614,
+  "entityName" : "Khúc Hạo",
+  "aliases" : [ "Trung Chủ", "Khúc Hạo hoặc Khúc Thừa Hạo" ],
+  "overview" : "Khúc Hạo (chữ Hán: 曲顥; trị vì: 907-917) hoặc Khúc Thừa Hạo , được suy tôn là Khúc Trung Chủ, là con của Khúc Thừa Dụ. Quê hương của cha con Khúc Thừa Dụ, Khúc Hạo nay được cho là làng Cúc Bồ xã Kiến Quốc huyện Ninh Giang tỉnh Hải Dương .\n----------------------------------------------\nÔng lại khéo dùng người, thuộc hạ ông có Dương Diên Nghệ là tướng lãnh xuất sắc. Do đó, trong suốt thời gian ông cầm quyền, nước yên trị, nhà Hậu Lương không làm gì được đất nước ta. Năm Đinh sửu 917 ông mất, con là Khúc Thừa Mỹ nối nghiệp."
 }

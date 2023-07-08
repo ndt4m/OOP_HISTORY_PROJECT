@@ -1,18 +1,18 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê huyện Chương Nghĩa, tỉnh Quảng Ngãi (nay thuộc huyện Tư Nghĩa, tỉnh Quảng Ngãi)",
-  "occupation": "Thiền sư đời Nguyễn Phúc Khoát",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "? Kandapurpura",
+  "dateOfDeath" : "?",
+  "hometown" : "Không rõ",
+  "occupation" : "Quân vương triều đại thứ hai",
+  "workTenure" : "380-413",
+  "fatherName" : {
+    "Phạm Phật" : null
   },
-  "id": 1495,
-  "entityName": "Võ Đức Nghiêm",
-  "aliases": [
-    "Minh Giác"
-  ],
-  "overview": "Năm lên 12 tuổi, ông xuất gia tu tại chùa ở làng Thanh Hà, tỉnh Quảng Nam. Năm 22 tuổi, ông trở về quê gặp lúc chiến tranh phải nhập ngũ, lập được nhiều chiến công. Sau đó, bỏ quân ngũ trốn ra ở phố Hội An, tỉnh Quảng Nam phát nguyện lãnh quét chợ hơn 20 năm. Ngoài 50 tuổi ông được mọi người cảm phục về đạo đức, mời ông trụ trì chùa Di Đà, tăng chúng suy tôn là Minh Giác hòa thượng. Thời gian làm trụ trì ông khuyến mộ lạc quyên, sửa sang chùa chiền, giúp đỡ người nghèo khó... Ông thọ trên 80 tuổi, khi ông mất, các danh sĩ địa phương có câu đối tưởng niệm: \"Bình man tảo thị, lưỡng độ gian lao, xuất gia kì phát nguyện vưu kì, bát thập sinh thiên thành chánh quả. Tạo tự chú chung, nhị thung công đức, cách cựu hảo đỉnh tân cố hảo, thiên thu giác thế vĩnh truyền đăng.\" Nghĩa: Dẹp mọi quét chợ, đôi độ gian lao, xuất gia đã kì mà phát nguyện càng kì, hưởng thọ tám mươi thành chánh quả, Xây chùa đúc chuông, hai điều công đức, cách cựu vẫn tốt mà đỉnh tân càng tốt, dạy đời muôn thuở vẫn còn đăng."
+  "motherName" : { },
+  "eraName" : {
+    "Vương triều thứ hai" : null
+  },
+  "id" : 1495,
+  "entityName" : "Phạm Hồ Đạt",
+  "aliases" : [ "Jaya Bhadravarman I", "Kandapurpura", "Shiva" ],
+  "overview" : "Phạm Hồ Đạt (trị vì: 380-413) được nhiều sử gia cho là vua Dharmamaharaja, hiệu Jaya Bhadravarman I (Bạt Đà La Bạc Ma I), người sáng lập vương triều Gangaraja. Dưới thời Phạm Hồ Đạt, Phật giáo Tiểu thừa (Thevada) phát triển mạnh, nhiều nhà sư từ Ấn Độ sang truyền đạo. Thành Khu Lật (Huế) vẫn là trung tâm chính trị nhưng đổi tên thành Kandapurpura, nghĩa là Phật Bảo Thành (vì là nơi có nhiều đền đài và hình tượng Phật và Shiva). Bên cạnh đó nhà vua còn cho xây dựng thêm một trung tâm tôn giáo mới tại Amavarati, tức thánh địa Hào Quang (nay là thánh địa Mỹ Sơn, một thung lũng cách Đà Nẵng 70 km về phía tây). Nhiều đền thờ đạo Bà la môn được xây dựng tại Mỹ Sơn để thờ thần Shiva và tượng Linga, tượng trưng sức mạnh phái nam. Ngôi đền đầu tiên được xây bằng gỗ vào cuối thế kỷ 4 mang tên Bradresvara, kết hợp giữa tên vua Bradravarman I và thần Isvara (hay Shiva). Kể từ thế kỷ 4 trở đi lãnh tụ chính trị và tôn giáo tại Lâm Ấp là một: thờ thần tức thờ vua, vua thay mặt thần Shiva cai quản muôn dân. Shiva vừa là thần bảo hộ xứ sở vừa là vị thần giữ đền (Dvarapala) để dân chúng đến thờ phụng và dâng lễ vật."
 }

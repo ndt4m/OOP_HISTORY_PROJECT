@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Danh thần đời Trần Nhân tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Trần": 15
+  "dateOfBirth" : "Ất Tị 1655",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Bảo Triệu, huyện Gia Bình, tỉnh Bắc Ninh",
+  "occupation" : "Nhà sử học đời Lê Hi tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
   },
-  "id": 720,
-  "entityName": "Bạch Xá",
-  "aliases": [],
-  "overview": "Năm Trung hưng thứ 3 (Đinh hợi 1287), ông đi sứ với Đại phu Nguyễn Văn Ngôn sang Trung Quốc, triều cống vua Nguyên. Gặp lúc bọn quân Mông Nguyên đang rộn rịp động binh đề kéo sang xâm lược nước ta, chúng bắt giam ông và Nguyễn Văn Ngạn cùng tất cả phái đoàn, mãi đến vài năm sau mới được trả tự do."
+  "id" : 720,
+  "entityName" : "Trần Phụ Dực",
+  "aliases" : [ ],
+  "overview" : "Năm Quí hợi 1683 đỗ Tiến sĩ. Ông nổi tiếng văn chương, giỏi việc chính trị. Buổi đầu làm quan được gọi về triều làm việc tại Viện Hàn lâm ở Quốc sử quản phụ trách phần sử học. Ông có 10 người con trai, người thứ tám là Trần Danh Ninh, thứ chín là Trần Danh Lâm đều đỗ tiến sĩ, nổi tiếng văn chương. Tác phẩm chính của ông là bộ Tục biên trung hưng thực lục (cùng hợp soạn với Lê Hi và Nguyễn Quí Đức)."
 }

@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Ái nữ của Nguyễn Trãi và Phạm Thị Mẫn",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Triều Lê Sơ": 7
+  "dateOfBirth" : "Nhâm Tí 1912",
+  "dateOfDeath" : "Canh Tuất 1960",
+  "hometown" : "quê xã Dục Tú, phủ Từ Sơn, tỉnh Bắc Ninh (nay thuộc huyện Đông Anh, ngoại thành Hà Nội) sinh ngày 6-5-1912",
+  "occupation" : "Nhà văn quê xã Dục Tú, phủ Từ Sơn, tỉnh Bắc Ninh ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 2959,
-  "entityName": "Nguyễn Thị Đào",
-  "aliases": [],
-  "overview": "Cuộc đời bà nhiều nỗi li kì. Khi cha (Nguyễn Trãi) ngộ nạn, bà hãy còn măng sữa, quan bộ Hình giao cho một viên quan hoạn nuôi, đợi lớn sẽ bắt sung làm nô tì. Lớn lên, bà thông minh nhưng câm. Viên quan hoạn vẫn nuôi như con, thường kể gốc tích cho bà biết. Năm bà 13, 14 tuổi viên quan hoạn bệnh mất. Bà lưu lạc vào ở một nhà đào nương, câm không hát được mà gõ phách rất hay. Một hôm Lê Thánh tông sai nội giám đón ca nhi ngoài vào nội hát. Bà theo chúng bạn vào chầu, ngồi gõ nhịp cho các bạn hát. Các ca nhi lần lượt hát đủ, nhưng không ai được vua vừa ý. Vua trỏ bà mà hỏi: - Cô ngồi kia sao không đứng hát? Bà cảm xúc bỗng phát lên nói được và hát rất hay. Bấy giờ, Quang Thục Hoàng hậu có mặt tại đấy, nhìn bà bỗng nhớ điềm một ngày trước, thấy ngọc nữ giáng phàm mà hình dung giống hệt như bà. Thái hậu Ngô Thị Ngọc Dao bèn cho vào chầu hầu trong nội. Vua Lê Thánh tông đẹp lòng. Từ đấy bà được vua yêu thương cho giữ chức Chiêu nghi. Tuy nhiên bà vẫn giấu gốc tích. Cho đến Giáp thân 1464, vua xuống chiếu tẩy oan cho Nguyễn Trãi, bà mới ra mặt. Vua và Thái hậu đều kinh dị và tỏ lòng thương cảm vô cùng. Bà được phép về thăm mẹ và em. Ít lâu người em là Nguyễn Anh Võ cũng ra mặt và được thu dụng."
+  "id" : 2959,
+  "entityName" : "Nguyễn Huy Tưởng",
+  "aliases" : [ ],
+  "overview" : "Ông làm thư kí nhà Đoan ở Hải Phòng (1935), Hà Nội. Trước năm 1945 ông đã tham gia hoạt động cách mạng, phục vụ văn hóa cứu quốc, ông từng viết nhiều truyện dã sử và kịch lịch sử ở báo Tri Tân. Trong kháng chiến chống Pháp, ông là một trong những người đứng ra lập Hội Văn nghệ Việt Nam và góp phần xây dựng nền Văn nghệ kháng chiến từ buổi đầu. Ông cũng là người sáng lập, đồng thời là Giám đốc Nhà xuất bản Kim Đồng Nhà xuất bản sách cho thiếu nhi - đầu tiên dưới chế độ mới. Ngày 25-7-1960 ông mất, hưởng dương 48 tuổi. Các tác phẩm chính: - Đêm hội Long Tri (tiểu thuyết lịch sử) - Sát thát (tiểu thuyết lịch sử, 1941) - Vũ Như Tô (kịch lịch sử, 1941) - Bắc Sơn (kịch lịch sử, 1946) - Cột đồng Mã Viện (kịch lịch sử) - Những người ở lại (1948) - Anh Sơ đầu quân (kịch, 1947) - Kí sự Cao Lạng (1952) - Gốc đa (1954) - Truyện Anh Lục (1955) - Bốn năm sau (1959) - Sống mãi với thủ đô (1959) - Lũy hoa (truyện phim) Sách thiếu nhi: - Cô bé gan dạ (Hà Nội, 1940) - Chiếc bánh chưng (Hà Nội, 1942) - Truyện Tấm Cám (Hà Nội, 1942) - Thằng Quấy - An Dương Vương xây thành ốc - Một ngày hè - Chiến sĩ ca lô - Điện Biên Phủ của chúng em - Lá cờ thêu sáu chữ vàng"
 }

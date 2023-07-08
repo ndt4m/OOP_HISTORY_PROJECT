@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "1 tháng 1 năm 1927 Thừa Thiên, Việt Nam",
-  "dateOfDeath": "22 tháng 5, 2009 (82 tuổi) Thành phố HCM, Việt Nam",
-  "hometown": "Không rõ",
-  "occupation": "Thuộc",
-  "workTenure": "1947-1975",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 1345,
-  "entityName": "Lê Trung Tường",
-  "aliases": [],
-  "overview": "Lê Trung Tường, nguyên là một tướng lĩnh Bộ binh của Quân lực Việt Nam Cộng hòa, cấp bậc Chuẩn tướng. Ông xuất thân từ trường Võ bị Quốc gia do Quân đội Pháp và Chính phủ Quốc gia mở ra ở miền Trung với mục đích đào tạo sĩ quan người Việt để phục vụ trong hàng ngũ Quân đội Liên hiệp Pháp. Ông đã tuần tự giữ từ chức vụ chỉ huy cấp Trung đội cho đến chỉ huy cấp Sư đoàn Bộ binh."
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Canh Thìn 1940",
+  "hometown" : "Không rõ",
+  "occupation" : "Liệt sĩ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
+  },
+  "id" : 1345,
+  "entityName" : "Lê Văn Quới",
+  "aliases" : [ "Bảy Quới" ],
+  "overview" : ""
 }

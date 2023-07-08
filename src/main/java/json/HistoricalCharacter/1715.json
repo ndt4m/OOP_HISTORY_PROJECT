@@ -1,19 +1,17 @@
 {
-  "dateOfBirth": "Quí Sửu 1913",
-  "dateOfDeath": "Nhâm Thìn 1952",
-  "hometown": "quê ở Bạch Mai, Hà Nội",
-  "occupation": "Nhà văn ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Ất Tị 1905",
+  "dateOfDeath" : "Đinh Sửu 1997",
+  "hometown" : "tại làng Mĩ Long, tỉnh Sa Đéc (nay thuộc tỉnh Đồng Tháp)",
+  "occupation" : "Giáo sư, Thạc sĩ y khoa",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 1715,
-  "entityName": "Nguyễn Đình Lạp",
-  "aliases": [
-    "Yến Đình"
-  ],
-  "overview": "Ông chuyên viết tiểu thuyết xã hội, nổi tiếng trước ngày Cách mạng tháng Tám. Đến cuộc kháng chiến chống Pháp, ông tích cực tham gia trong hội Văn nghệ nhiệt thành đóng góp tâm huyết trên mặt trận văn hóa, văn nghệ. Năm Nhâm thìn 1952, ngày 24-4 dương lịch ông mất tại chiến khu Thạch Thành tỉnh Thanh Hóa, hưởng dương 39 tuổi. Các tác phẩm của ông: - Thanh niên trụy lạc (1937) - Những vụ án tình (1938) - Chợ phiên đưa tới đâu (1937) - Cường hào (1938) - Ngoại ô (1941) - Ngõ hẻm (1943) - Làng Cảnh Dương (1947) Ngoài ra còn một số truyện ngắn và bài biên khảo đăng trên báo. Nguyễn Đình Lạp là một nhà văn hiện thực của nước ta vào thời chữ Quốc ngữ còn đang trong thời kì phát triển."
+  "id" : 1715,
+  "entityName" : "Trần Quang Đệ",
+  "aliases" : [ ],
+  "overview" : "Thời niên thiếu học tại Sài Gòn sau du học Pháp, đỗ tiến sĩ y khoa, Thạc sĩ y học. Từ năm 1934-1936 là Bác sĩ nội trú các bệnh viện ở Paris. Năm 1937 ông về Việt Nam làm bác sĩ giải phẫu tại Bệnh viện Lalung Bonnaire (tên cũ bệnh viện Chợ Rẫy ở Chợ Lớn, vì có lúc B.S. Lalung Bonnaire làm Giám đốc bệnh viện này, cũng như ông Grall trực tiếp điều hành bệnh viện Đồn Đất nên gọi là Bệnh viện Grall. Bác sĩ Lalung Bonnaire và Grall là hai lương y người Pháp tài giỏi và nhân đức đã cứu sống nhiều bệnh nhân không phân biệt quốc tịch, trong đó có rất nhiều bệnh nhân người Việt. Còn bệnh viện Đồn Đất xưa mang tên bác sĩ Grall nay là Bệnh viện Nhi đồng II, Q.I). Năm 1941, ông là thành viên Hội đồng thành phố Sài Gòn, Hội đồng Quản hạt Sài Gòn - Chợ Lớn... Sau ngày Nam Bộ kháng chiến (23-9-1945) ông cùng một số trí thức tự nguyện ra bưng biền tham gia kháng chiến chống Pháp, nhưng từ Sài Gòn vừa tới Sa Đéc, ông bị Pháp bắt một lần với bác sĩ Nguyễn Văn Nhã trong năm 1947. Sau đó được Pháp trả tự do, ông hành nghề bác sĩ và giảng dạy tại Đại học y khoa Đông Dương (cơ sở ở Sài Gòn). Những 1950-1951 ông sang Pháp thi đỗ Thạc sĩ y khoa và được tấn phong giáo sư y khoa Pháp. Sau hiệp định Genève, ông vẫn làm việc tại Bệnh viện Chợ Rẫy và giảng dạy tại Đại học y khoa Sài Gòn. Sau đó sang định cư và mất bên Pháp ngày 28-1-1997. Ông là tác giả một số chuyên đề y học, phần lớn đều viết bằng tiếng Pháp."
 }

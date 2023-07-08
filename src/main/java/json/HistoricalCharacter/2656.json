@@ -1,23 +1,18 @@
 {
-  "dateOfBirth": "Tuy Viễn (Tây Sơn, Bình Định)",
-  "dateOfDeath": "10/7/1802 (tức 16 tháng 6 năm Nhâm Tuất) thành cổ Xương Giang",
-  "hometown": "Không rõ",
-  "occupation": "Chính cung Hoàng hậu nhà Tây Sơn",
-  "workTenure": "1791 - 1792",
-  "fatherName": {
-    "Bùi Đức Lương": null
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Tước hiệu",
+  "workTenure" : "1570—1570",
+  "fatherName" : {
+    "Trịnh Kiểm" : 2515
   },
-  "motherName": {},
-  "eraName": {
-    "nhà Tây Sơn": null
+  "motherName" : { },
+  "eraName" : {
+    "Đàng Ngoài - Chúa Trịnh" : 26
   },
-  "id": 2656,
-  "entityName": "Bùi Thị Nhạn",
-  "aliases": [
-    "Bùi Thị Nhạn",
-    "Đệ nhị Quang Trung hoàng hậu",
-    "Quang Trung Bùi hoàng hậu",
-    "Thái Tổ Vũ hoàng hậu"
-  ],
-  "overview": "Bùi Thị Nhạn (chữ Hán: 裴氏雁, ?- 1802) là một trong Tây Sơn ngũ phụng thư. Sau này, khi trở thành vợ chính thức của vua Quang Trung (Nguyễn Huệ), bà được tấn phong làm Chính cung Hoàng hậu, và sau đó là Hoàng thái hậu khi con bà (?) là Nguyễn Quang Toản lên nối ngôi vua nhà Tây Sơn trong lịch sử Việt Nam."
+  "id" : 2656,
+  "entityName" : "Trịnh Cối",
+  "aliases" : [ ],
+  "overview" : "Trịnh Cối (chữ Hán: 鄭檜, ? - 1584) là một nhà chính trị thời chiến tranh Lê-Mạc. Do là con cả của thượng tướng Trịnh Kiểm, ông được cha trao binh quyền trước khi chết. Người em cùng cha khác mẹ của ông - Trịnh Tùng, khởi binh chống lại. Trịnh Cối không kiểm soát được vua Lê, bị kẹp vào giữa quân Mạc và quân Trịnh Tùng, kết quả phải đầu hàng nhà Mạc."
 }

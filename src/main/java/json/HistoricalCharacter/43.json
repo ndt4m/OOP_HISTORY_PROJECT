@@ -1,16 +1,14 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "1471",
-  "hometown": "xã Minh Tiến, huyện Ngọc Lặc, Thanh Hóa.",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Lê Sơ": null
-  },
-  "id": 43,
-  "entityName": "Lê Liệt",
-  "aliases": [],
-  "overview": "Đinh Liệt (chữ Hán: 丁列) hay Lê Liệt (? - 1471) là công thần khai quốc nhà nhà Lê Sơ trong lịch sử Việt Nam, người thôn Phúc Long, xã Minh Tiến, huyện Ngọc Lặc, Thanh Hóa."
+  "dateOfBirth" : "701",
+  "dateOfDeath" : "762",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 43,
+  "entityName" : "Lý Bạch",
+  "aliases" : [ "Thái Bạch" ],
+  "overview" : "Lý Bạch (chữ Hán: 李白; 701 - 762), biểu tự Thái Bạch (太白), hiệu Thanh Liên cư sĩ (青莲居士), là một trong những nhà thơ theo chủ nghĩa lãng mạn nổi tiếng nhất thời Thịnh Đường nói riêng và Trung Hoa nói chung."
 }

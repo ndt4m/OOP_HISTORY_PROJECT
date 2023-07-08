@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Bình Thuận",
-  "occupation": "Danh thần",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Kỉ Mão 1399",
+  "hometown" : "quê quán",
+  "occupation" : "Danh sĩ đời Trần Duệ tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Trần" : 15
   },
-  "id": 641,
-  "entityName": "Đặng Đức Thuật",
-  "aliases": [
-    "Cửu Tư"
-  ],
-  "overview": "Khi Tây Sơn dấy binh, ông cất nhà tại Phước Sơn, thuộc tỉnh Bình Thuận ở ẩn. Năm Mậu thân 1788, ông vào Gia Định với Lê Đạt, gặp Nguyễn Ánh, được dùng làm gián nghị, thị giảng Viện Hàn lâm. Tính ông cương trực, một khi can gián mà chúa Nguyễn không nghe, ông nói: \"Lời nói không công hiệu, thế thì gián nghị nỗi gì\". Bèn bỏ ra đi, chúa Nguyễn phải cho người theo triệu hồi, ông mới trở lại phục vụ. Sau, ông mất trong quân, được truy tặng Thượng thư, Thi giảng học sĩ."
+  "id" : 641,
+  "entityName" : "Lê Hiến Phủ",
+  "aliases" : [ ],
+  "overview" : "Ông đỗ Bảng nhãn, tính khảng khái, trung trực. Khoảng năm Kỉ mão 1399, ông cùng với Trần Nguyên Hãn, Trần Khát Chân, mưu cuộc lật đổ nhà Hồ lập lại nhà Trần. Việc không thành, ông bị giết, trước khi chết ông có thơ tuyệt mạng: \"Thốn đao trừ tán thiên đại bạch, Nhất tâm báo quốc quỉ thần tri.\" Dịch Tấc dao trừ tàn trời đất rõ, Một lòng báo quốc quỉ thần hay."
 }

@@ -1,20 +1,17 @@
 {
-  "dateOfBirth": "Ất Mùi 1835",
-  "dateOfDeath": "Canh Thân 1920",
-  "hometown": "quê làng Trực Mĩ (Chân Mĩ), xã Yên Thắng, huyện Đại Yên (hay Ý Yên), tỉnh Nam Định",
-  "occupation": "Danh sĩ đời ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Đinh Mùi 1907",
+  "dateOfDeath" : "Kỉ Tị 1989",
+  "hometown" : "tại Thành phố Huế, tỉnh Thừa Thiên (nay là tỉnh Thừa Thiên - Huế)",
+  "occupation" : "Kĩ sư công chánh, cựu Bộ trưởng",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 1787,
-  "entityName": "Khiếu Năng Tĩnh",
-  "aliases": [
-    "Mỹ Đình",
-    "Trọng Định"
-  ],
-  "overview": "Năm Mậu dần 1878, ông đỗ cử nhân, đỗ tiến sĩ khoa Canh thìn năm 1880, 45 tuổi từng làm Đốc học Nam Định, rồi làm Tế tửu Quốc tử giám (Giám đốc). Khiếu Năng Tĩnh là một học giả uyên thâm, một nhà giáo nổi danh đương thời. Ông có lòng yêu nước và quí trọng nhân tài, chính ông và Tổng đốc Nghệ An là Đào Tấn đã hết lòng khích lệ và biểu dương tài năng của Phan Bội Châu. Bản thân Phan Bội Châu cũng khâm phục và chịu ân tri ngộ của ông và Đào Tấn. Khi Hoàng giáp Tam Đăng Phạm Văn Nghị mất, ông có đôi liễn viếng: \"Trà Sơn kháng sớ kham thiên cổ; Liên động huyền xa vị thập niên.\" Bản dịch: Lừng muôn thuở, sớ Trà Sơn chống giặc Gần mười năm xe Liên động quay về. Khiếu Năng Tĩnh là một nhà văn nổi tiếng, một học giả uyên thâm, một nhà giáo dục lỗi lạc vào thời cận đại. Chính ông đã đào tạo được nhiều nhân tài cho đất nước. Ông là đồng tác giả (cùng với Kiều Oánh Mậu) Tì Bà Quốc âm truyện."
+  "id" : 1787,
+  "entityName" : "Trần Đăng Khoa",
+  "aliases" : [ ],
+  "overview" : "Trần Đăng Khoa có thể là tên của một trong số những người sau:\n----------------------------------------------\nThuở nhỏ học ở Huế, Hà Nội, tốt nghiệp kĩ sư. Những năm trước thế chiến (1945) làm việc tại Đà Lạt. Cách mạng tháng 8 năm 1945, ông được cử làm Bộ trưởng bộ Công chánh năm 1946, ông đắc cử Đại biểu Quốc hội đơn vị tỉnh Thừa Thiên. Sau Tổng tuyến cử Quốc hội 6-1-1946 ông được cử giữ chức Bộ trưởng bộ Công chánh trong chính phủ \"Liên hiệp Quốc gia\", tiếp đó tham gia phái đoàn hội nghị Đà Lạt thương thuyết về các vấn đề Việt Pháp. Hội nghị tan rã do thái độ ương ngạnh của Pháp. Ngày 13-1 1-1946 \"Chính phủ liên hiệp\" cải tổ, ông vẫn giữ chức Bộ trưởng Giao thông Công chánh (1946), Bộ trưởng Bộ Thủy lợi và kiến trúc (1955). Năm 1959 giữ chức Bộ trưởng Bộ Thủy lợi. Khi ông đang tại chức, một đê trên sông Hồng vỡ, ông tự chịu trách nhiệm nên xin từ chức. Sau đó, ông xin nghỉ hưu vào những năm 60 ở Hà Nội. Ông từng là Đại biểu Quốc hội từ khóa I đến khóa VII, Phó chủ tịch Quốc hội. Ông mất năm 1989, thọ 82 tuổi."
 }

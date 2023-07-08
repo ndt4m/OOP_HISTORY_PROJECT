@@ -1,17 +1,16 @@
 {
-  "dateOfBirth": "Ất Mão 1915",
-  "dateOfDeath": "Canh Tí 1960",
-  "hometown": "tại làng Bảo An huyện Điện Bàn, tỉnh Quảng Nam",
-  "occupation": "Nhà văn, Nhà báo, con nhà văn Phan Khôi",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Canh Dần 1950",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ năm sinh, nhân sĩ yêu nước cận đại, tục gọi là René Quang, còn có tên khác nữa là Hoàng",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 1318,
-  "entityName": "Phan Thao",
-  "aliases": [],
-  "overview": "Ông nhiệt thành yêu nước, tham gia cách mạng từ lúc còn trẻ tuổi, tích cực đóng góp trong hai cuộc kháng chiến cứu nước. Ông viết báo, nghiên cứu văn hóa dân tộc. Năm 1946 ông đắc cử Đại biểu Quốc hội đơn vị Quảng Nam. Ông là người đầu tiên dịch tác phẩm \"Người mẹ\" của Maxime Gorki ra tiếng Việt được hầu hết bạn đọc tán thưởng. Năm Canh tí 1960, ngày 5-8 Dương lịch ông mất tại Hà Nội, hưởng dương 45 tuổi."
+  "id" : 1318,
+  "entityName" : "Đỗ Ngọc Quang",
+  "aliases" : [ "Hoàng Minh Chánh" ],
+  "overview" : "Ông là người nối nghiệp làm chủ nhà in Xưa nay của Nguyễn Háo Vĩnh. Nhận xuất bản quyển Nhà nho của Chu Thiên Hoàng Minh Giám, ông và Vân Trình Trần Văn Giao tận tâm săn sóc ấn loát. Rồi có cảm tình sâu đậm với tác giả, ông mới lấy tên là Hoàng Minh Chánh kể từ năm 1943. Năm sau, 1944, tác phẩm được giải văn chương Gia Long. Năm Ất đậu 1945, ông đem cả xưởng in vào vùng tự do để in những sách báo kháng chiến. Ông được cử làm tiểu đoàn trưởng, rồi làm tham mưu trưởng Trung đoàn 310. Chính ông đã chỉ huy trận đánh La Ngà trên đường đi Đà Lạt năm 1947. Khoảng năm 1950, ông mất ở Sông Bé."
 }

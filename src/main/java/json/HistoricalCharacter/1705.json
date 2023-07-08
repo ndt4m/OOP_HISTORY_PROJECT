@@ -1,17 +1,16 @@
 {
-  "dateOfBirth": "Canh Tuất 1910",
-  "dateOfDeath": "Giáp Tí 1984",
-  "hometown": "Quê xã Phú Thượng, huyện Võ Nhai, tỉnh Thái Nguyên",
-  "occupation": "Tướng lĩnh (Thượng tướng) QĐNDVN, cựu Bộ trưởng Quốc phòng trong chính phủ lâm thời và chính phủ liên hiệp Việt Nam Dân chủ cộng hòa, dân tộc Nùng",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Quí Sửu 1913",
+  "dateOfDeath" : "Mậu Ngọ 1978",
+  "hometown" : "tại làng Mọc Quan Nhân, huyện Từ Liêm, tỉnh Hà Đông (nay là xã Nhân Chính, huyện Từ Liêm, TP",
+  "occupation" : "Nhà văn",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nước Việt Nam mới" : 29
   },
-  "id": 1705,
-  "entityName": "Chu Văn Tấn",
-  "aliases": [],
-  "overview": "Ông tham gia cách mạng từ năm 1934, từng góp sức xây dựng phong trào cách mạng và chỉ đạo du kích ở Bắc Sơn. Tháng 2 năm 1941 là xứ ủy viên Bắc Kì, chỉ huy đội du kích Bắc Sơn. Năm 1944 chỉ huy Cứu quốc quân và chiến khu Hoàng Hoa Thám, tháng 8 năm 1945 tham gia ban lãnh đạo khởi nghĩa. Sau cách mạng tháng 8 giữ chức Bộ trưởng Quốc phòng. Năm 1946 giữ chức khu trưởng khu IV, chiến khu I, Bí thư khu ủy. Năm 1949-1954 khu trưởng, bí thư khu ủy Liên khu Việt Bắc, chánh án tòa án Quân sự, chủ tịch ủy ban kháng chiến hành chánh Liên khu Việt Bắc. Từ năm 1957-1976 là chính ủy. Bí thư khu ủy Quân khu Việt Bắc, chủ tịch ủy ban hành chánh khu tự trị Việt Bắc, ủy viên ủy ban chấp hành Trung ương ĐCSVN khóa II, III. Đại biểu Quốc hội các khóa II, VI, Phó chủ tịch Quốc hội khóa III-VI, ủy viên đoàn chủ tịch ủy ban trung ương Mặt trận Tổ quốc Việt Nam. Ông được Đảng và Nhà nước Việt Nam tặng Huân chương Độc lập hạng nhất và một số huân chương khác. Ông mất năm 1984, thọ 74 tuổi."
+  "id" : 1705,
+  "entityName" : "Lê Tài Phúng",
+  "aliases" : [ "Lê Tùng", "Trường Thiên", "Lê Tràng Kiều", "Phan Hữu" ],
+  "overview" : "Thuở nhỏ học ở Hà Nội, những năm 40 của thế kỉ XX, ông chủ trương báo Tân thiếu niên ở Hà Nội. Sau đó ông vào sống và làm báo tại Sài Gòn, từng cộng tác với các báo ở đây cho đến cuối đời. Sau cách mạng tháng 8 năm 1945. Ông gia nhập phong trào báo chí thống nhất cùng với Nam Đình, Trần Tấn Quốc, Nam Quốc Cang, Tam Ích, Thiếu Sơn, Vũ Tùng... chống nhóm li khai của chính phủ Nam Kì tự trị của thủ tướng Nguyễn Văn Thinh (1888-1946). Thời điểm này ông cộng tác với các nhà văn kháng chiến tại nội thành kí nhiều bút danh nhằm che đậy mục tiêu sinh hoạt của nhóm. Sau năm 1954 ông vẫn hành nghề báo chí, cộng tác với các báo Đuốc Nhà Nam, Dân chủ mới, Thần chung... Các tác phẩm chính: - Kho chuyện (1932, Nam Định) - Hang gió (1934, Nam Định) - Vị Giang Văn khố tuyển tập (1932, 1934) - Minh Trị thiên hoàng (1936, Hà Nội) - Tôi đã gặp người đàn bà ấy (1936 H.N) - Cuộc Nam tiến của dân tộc Việt Nam (1940, Sài Gòn) - Quốc văn toàn thư (1962, Sài Gòn) - Việt Nam một nền kinh tế tương lai (1947, Sài Gòn) - Kế hoạch 5 năm của Liên Xô (1947, Sài Gòn, hai cuốn này kí Phan Hữu) Và một số bản thảo: - Ca dao Việt Nam - Những thi văn tiền chiến - Nền văn hóa Cách mạng (1945-1954) - Phong trào tranh đấu của báo chí Bắc Việt (thời Pháp thuộc)."
 }

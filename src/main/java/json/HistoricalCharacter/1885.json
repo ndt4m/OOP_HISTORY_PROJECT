@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Bính Tuất 1766",
-  "dateOfDeath": "Bính Tuất 1826",
-  "hometown": "Không rõ",
-  "occupation": "Hiền phụ, có sách chép là Châu Thị Vĩnh Tế, con ông Châu Huy (có sách chép là Châu Vĩnh Huy) và bà Đỗ Thị Toán, sinh ngày Thìn, tháng 4 năm Bính tuất 1766.",
-  "workTenure": "Không rõ",
-  "fatherName": {
-    "Châu Huy": null
+  "dateOfBirth" : "Tân Hợi 1791",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê xã Lạc Quần, huyện Giao Thủy, tỉnh Nam Định (nay thuộc xã Xuân Lạc, huyện Xuân Thủy, tỉnh Nam Định)",
+  "occupation" : "Sau đồi tên là Trung",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
-  },
-  "id": 1885,
-  "entityName": "Châu Thị Tế",
-  "aliases": [],
-  "overview": "Bà là vợ chánh của Thoại Ngọc Hầu Nguyễn Văn Thoại, tận tụy góp sức với chồng trong việc mưu phúc lợi cho dân chúng, tiếng nhân đức truyền xa. Từ đó vua Minh Mạng khi lấy tên chồng bà mà đặt cho con kinh đào Rạch Giá - Đông Xuyên (tức Long Xuyên ngày nay) là Thoại Hà, hòn núi Sập gần đấy là Thoại Sơn, vua Minh Mạng lại cho lấy tên bà mà đặt tên con kinh Châu Đốc - Hà Tiên là \"Vĩnh Tế hà\" (tức kinh Vĩnh Tế) núi Sam ở gần đấy là \"Vĩnh Tế sơn\", làng bên cạnh núi là \"Vĩnh Tế thôn\". Bà mất trong năm Bính tuất 1826 (ngày 15/10). Ba năm sau (1829) chồng bà cũng qua đời. Miếu, mộ vợ chồng bà hiện nay vẫn còn ở chân núi Sam, cạnh đường Châu Đốc - Tịnh Biên. Sau khi mất, bà được phong là Nhàn Tĩnh phu nhân."
+  "id" : 1885,
+  "entityName" : "Phạm Thế Lịch",
+  "aliases" : [ ],
+  "overview" : "Ông có bài thơ tặng Hoàng giáp Tam Đăng Phạm Văn Nghị lúc kháng chiến chống Pháp, trở về quê an dưỡng tuổi già. Bài thơ hàm ngụ tâm chí ông cũng nồng nàn tình yêu nước như người bạn già ấy: \"Bắc Nam vạn lí nhất thanh hòa. Hà sự cuồng sưu ngạnh hải ba? Thiên khải nho trung giao cảm chiến, Đế liên lão bệnh hứa hưu qua. Thư từ nghĩa dũng hoàn hương lạc, Khảng khái anh hùng thoái lỗ ca. Tuế văn, nhân nhàn duy nhất chước. Đào nhiên, lãnh tiếu chỉ quan hà.\" Nghĩa: Muôn dặm Bắc, Nam vẫn một dải thanh bình vô sự, Tàu giặc điên cuồng cớ chi gây rối sóng biển? Trời mở đạo \"nho trung\" khiến cho ông dám đánh, Vua thương già yếu cho thôi việc binh đao. Cái vui về quê của đoàn nghĩa dũng có vẻ thong dong. Bài ca lui giặc của người anh hùng thật là khảng khái. Cảnh già rỗi rãi, chỉ việc ngồi uống rượu, Ngà say, cười lạt mà chỉ ra nơi xa xôi. Sau khi bị bãi chức, ông sống ở quê nhà, không cộng tác với Nam triều."
 }

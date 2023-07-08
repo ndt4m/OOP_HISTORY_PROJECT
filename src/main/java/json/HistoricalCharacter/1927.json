@@ -1,17 +1,16 @@
 {
-  "dateOfBirth": "Làng Xuân Lôi, huyện Yên Phong\n----------------------------------------------\n…",
-  "dateOfDeath": "Đinh Hợi 1527",
-  "hometown": "quê làng Xuân Lôi, huyện Yên Phong, tỉnh Bắc Ninh (nay vẫn là Bắc Ninh)",
-  "occupation": "Đô ngự sử\n----------------------------------------------\nVăn thần đời Lê Thánh tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Lê sơ, Mạc": null,
-    "Triều Lê Sơ": 7
+  "dateOfBirth" : "Bính Thân 1836",
+  "dateOfDeath" : "Bính Tuất 1886",
+  "hometown" : "quê làng Thịnh Hào, huyện Hoàng Long, tỉnh Hà Đông (nay thuộc Ô Chợ Dừa, quận Đống Đa, Thành Phố Hà Nội) và là thế huynh ông Lê Thúc Hoạch sau trở thành thông gia với nhau",
+  "occupation" : "Danh sĩ, chí sĩ cận đại",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 1927,
-  "entityName": "Lê Tuấn Mậu",
-  "aliases": [],
-  "overview": "Lê Tuấn Mậu (chữ Hán: 黎俊楙) là đô ngự sử thời Lê sơ, đỗ tiến sĩ vào năm 1490, sau bị Mạc Đăng Dung giết. Đến thời Lê trung hưng thì được truy phong phúc thần. Theo một vài nguồn thì ông còn là một thượng thư.\n----------------------------------------------\nNăm Canh tuất 1490 ông đỗ nhị giáp tiến sĩ, có đi sứ nhà Minh (Trung Quốc) với cương vị Phó sứ trong năm Mậu ngọ 1498. Làm đến Thượng thư bộ Hộ, kiêm Đô ngự sử. Năm Đinh hợi 1527, Mạc Đăng Dung đảo chính, vời ông vào triều. Ông đến, lấy đá giấu trong tay áo ném Mạc, nhưng không trúng, bị Đăng Dung giết ngay. Thời Lê Trung hưng, được khen tặng tiết nghĩa, tôn ông làm Phúc thần thượng đẳng, lập đền thờ ở làng ông."
+  "id" : 1927,
+  "entityName" : "Đỗ Uẩn",
+  "aliases" : [ ],
+  "overview" : "Thuở nhỏ ông từng thụ giáo nhiều năm với hoàng giáp Lê Đình Duyên ở truờng Đốc Hà Nội. Năm 1874 đỗ cử nhân khoa Giáp tuất (Tự Đức thứ 27) tại Trường Hà Nội. Từng làm tri phủ phủ Tĩnh Gia, tỉnh Thanh Hóa nên thường gọi là ông Phủ Tĩnh Gia, hay Phủ Thịnh Hào (quê ông). Năm 1885 đang làm quan ở Tĩnh Gia, được thăng Phó sứ Sơn phòng Nghệ An, trên đường nhậm chức vừa tới tỉnh thành Nghệ thì kinh thành Huế thất thủ, vua Hàm Nghi rời kinh đô ra Quảng Trị xuống chiếu Cần vương đánh Pháp. Từ đó ông lên Sơn phòng gặp Trần Xuân Soạn (ông này cùng Tôn Thất Thuyết phò vua Hàm Nghi ở Sơn phòng) 2 lần bàn kế hoạch chống Pháp lâu dài. Đến năm Bính tuất 1886 ông bị bệnh nặng mất ở Sơn phòng. Ông là thân phụ các nhà yêu nước Đỗ Cơ Quang (1878-1914), Đỗ Thị Tâm (1903-1930) đều có công với nước. Và con cháu vào hàng điệt có các ông Đỗ Chu Tuấn (1919 -...) nguyên đại biếu Quốc hội khóa I, Nguyễn Ngọc Xuân, Đại biểu Quốc hội, Cục phó cục Quân giới, Trần Xuân Độ cựu chính ủy Quân khu 7; cựu Đại sứ Việt Nam tại Bắc Triều Tiên... Ông là tác giả nhiều thơ văn nhưng nay đã thất lạc."
 }

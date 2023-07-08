@@ -1,22 +1,14 @@
 {
-  "dateOfBirth": "Canh Tí 1900",
-  "dateOfDeath": "Đinh Dậu 1957",
-  "hometown": "quê làng Bình Thành, tỉnh Gò Công (nay thuộc tỉnh Tiền Giang) con ông Hồ Hữu Tạo, em ruột nhà tiểu thuyết Hồ Biểu Chánh tức Hồ Văn Trung",
-  "occupation": "Nhà văn, kí giả",
-  "workTenure": "Không rõ",
-  "fatherName": {
-    "Hồ Hữu Tạo": null
-  },
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
-  },
-  "id": 2818,
-  "entityName": "Hồ Văn Hiến",
-  "aliases": [
-    "Hồ Văn Trung",
-    "Viên Hoành"
-  ],
-  "overview": "Sau Cách mạng tháng Tám, ông vẫn còn viết trên báo Dân quyền, Trời Nam, Tiếng dội, đôi khi viết văn kiếm hiệp mạo hiểm, trào phúng, nhi đồng, kí dưới bút hiệu Viên Tiểu thơ. Ông sống bình dị, có tình nghĩa, các bạn văn đều mến. Lại nữa, chữ viết đẹp, văn chương trong sáng, trọng đạo lí, nên được quí trọng nhiều. Ngày 7-12-1957 ông mất tại Sài Gòn, nơi nhà người con trưởng của ông là Hồ Văn Tòng, hưởng dương 57 tuổi."
+  "dateOfBirth" : "16 tháng 9 năm 1929 (88 tuổi) Hưng Yên, Việt Nam",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Thuộc",
+  "workTenure" : "1951-1975",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 2818,
+  "entityName" : "Nguyễn Duy Hinh",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Duy Hinh (1929), nguyên là một tướng lĩnh gốc Kỵ Binh của Quân lực Việt Nam Cộng hòa, cấp bậc Thiếu tướng. Ông xuất thân từ khóa đầu tiên và duy nhất ở trường Sĩ quan Trừ bị do Chính phủ Quốc gia Việt Nam với sự hỗ trợ của Quân đội Pháp mở ra vào đầu thập niên 1950 tại Bắc phần Việt Nam, nhằm mục đích đào tạo sĩ quan người Việt phục vụ Quân đội Quốc gia Việt Nam trong Quân đội Liên hiệp Pháp. Ra trường ông gia nhập binh chủng Thiết giáp. Ông đã tuần tự đảm trách từ chức vụ Chi đội trưởng cho đến Chỉ huy phó binh chủng này. Sau chuyển sang lĩnh vực Quân huấn và Tham mưu. Sau cùng ông là Tư lệnh một Sư đoàn Bộ binh."
 }

@@ -1,16 +1,19 @@
 {
-  "dateOfBirth": "16 tháng 9, 1967 Huế, Việt Nam Cộng hòa",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Nghiên cứu gia, văn sĩ, blogger",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 1665,
-  "entityName": "Trần Đức Anh Sơn",
-  "aliases": [
-    "Người Nước Huệ, Quởng Nôm Quấc Nhân, Đà Thành Tử, Anh Son Tran Duc, TDAS"
-  ],
-  "overview": "Trần Đức Anh Sơn (sinh ngày 16 tháng 9 năm 1967 tại Huế) là một nghiên cứu gia khoa học xã hội Việt Nam."
+  "dateOfBirth" : "Canh Thân 1920",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Vĩnh Kim (Sầm Giang), tổng Long Định (nay là xã Long Định, TP",
+  "occupation" : "Nhà văn ",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "ông Phạm Kỳ Thinh" : null
+  },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
+  },
+  "id" : 1665,
+  "entityName" : "Phạm Kỳ Ngỡl",
+  "aliases" : [ "Khổng Nghi" ],
+  "overview" : "Lúc còn trẻ ở quê nhà ông đã tự vẽ chân dung mình: Sầm Giang nhân vật tối đã kì! Đệ nhất kì tài chú Khổng Nghi. Trong suốt hai cuộc chiến tranh Việt Pháp (1945-1954), Việt Mĩ (1964-1975) ông vẫn sống ở Mĩ Tho, thỉnh thoàng có bài đăng trên các tạp chí ở Sài Gòn và mất năm nào không rõ."
 }

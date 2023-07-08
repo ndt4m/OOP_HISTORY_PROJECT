@@ -1,20 +1,17 @@
 {
-  "dateOfBirth": "Nhâm Tuất 1922",
-  "dateOfDeath": "Canh Thân 1980",
-  "hometown": "tại Vĩnh Long, cựu luật sư, cựu thủ tướng chính quyền Sài Gòn (1964) một thời gian ngắn",
-  "occupation": "Luật sư, nhà văn",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "1923 Mỹ Tho\n----------------------------------------------\nQuí Hợi 1923",
+  "dateOfDeath" : "1988 Thành phố Hồ Chí Minh\n----------------------------------------------\nMậu Thìn 1988",
+  "hometown" : "quê làng Điều Hòa, huyện Châu Thành, tỉnh Mĩ Tho (nay thuộc Thành phố Mĩ Tho, tỉnh Tiền Giang)",
+  "occupation" : "Họa sĩ ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 887,
-  "entityName": "Nguyễn Văn Lộc",
-  "aliases": [
-    "Sơn Khanh",
-    "Nguyễn Tử Việt"
-  ],
-  "overview": "Thuở nhỏ học ở Vĩnh Long, Sài Gòn rồi du học Pháp, tốt nghiệp cử nhân luật. Những năm kháng chiến chống Pháp (1946-1954) ông tập sự luật sư, rồi hành nghề luật sư, luật sư tại Tòa Thượng thẩm Sài Gòn. Tuy là một luật sư, hành nghề luật, nhưng ông tham gia tích cực vào mặt trận văn nghệ tại Sài Gòn. Từng làm Giám đốc nhà xuất bản (Sống Chung) chuyên xuất bản các loại sách văn nghệ ủng hộ cuộc kháng chiến chống Pháp của toàn dân ở nội thành và chiến khu. Ông là người có liên hệ mật thiết với các nhà văn Lý Văn Sâm, Lê Văn Thử, Thẩm Thệ Hà, Hoàng Tấn, Vũ Anh Khanh... đang sáng tác và hoạt động tại nội thành trong những năm kháng chiến chống Pháp. Năm 1964 có lúc ông làm Thủ tướng chính quyền Sài Gòn một thời gian ngắn rồi trở về hành nghề luật sư tại tư gia và tòa án Sài Gòn, từng làm Viện trưởng Viện Đại học Cao Đài ở Tây Ninh cho đến ngày thống nhất đất nước. Sau năm 1975 ông đi học tập cải tạo rồi mất trong năm 1980. Ông là một nhà luật học mà cũng là một nhà văn hiện thực, ủng hộ lực lượng kháng chiến chống Pháp ở nội thành, từng chứng kiến nhiều biến cố lịch sử. Do tiếp cận với hiện thực xã hội, nên ông đã lâm thời đóng vai trò một chứng nhân lịch sử trong giai đoạn dầu sôi lửa bỏng của dân tộc. Em ruột ông là giáo sư Nguyễn Văn Trường từng là khoa trưởng Đại học Sư phạm Huế, giáo sư tại Đại học Sư phạm Sài Gòn (1965-1987). Từ thực tế đó các tác phẩm của ông vẽ lên được bức tranh hiện thực, đa dạng của thế giới \"đồn điền cao su\" hồi trước cách mạng tháng 8 năm 1945, hoặc tội ác của thực dân Pháp trên đất nước ta. Điều đó được ông thể hiện qua các tác phẩm: - Tiếng lòng (thơ, 1942, Sài Gòn) - Giai cấp (tiểu thuyết, sống chung, 1949) - Tàn binh (tiểu thuyết, 1949) - Loạn (tiểu thuyết, 1949) - Nuớc độc (tiểu thuyết, Nam Cường, 1971)"
+  "id" : 887,
+  "entityName" : "Nguyễn Sáng",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Sáng (1923-1988) là một hoạ sĩ của Việt Nam, có nhiều đóng góp tiêu biểu cho hội họa hiện đại Việt Nam. Ông sinh tại làng Điều Hòa, tỉnh Mỹ Tho (nay thuộc Thành phố Mỹ Tho, tỉnh Tiền Giang).\n----------------------------------------------\nSau ngày Toàn quốc kháng chiến, ông ra vùng tự do làm việc ở Bộ Tài chính, Bộ Thông tin ở Việt Bắc. Sau Hiệp định Genève ông về Hà Nội sống và làm việc ở Hội Mĩ thuật Việt Nam. Ông là tác giả nhiều bộ tranh có giá trị nghệ thuật tạo hình độc đáo. Ông mất ở Thành phố Hồ Chí Minh năm 1988."
 }

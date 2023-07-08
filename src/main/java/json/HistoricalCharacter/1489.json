@@ -1,16 +1,19 @@
 {
-  "dateOfBirth": "…",
-  "dateOfDeath": "Nhâm Thân 1752",
-  "hometown": "quê làng Phù Lưu, huyện Đông Ngàn, tỉnh Bắc Ninh",
-  "occupation": "Cao sĩ khoảng cuối đời Lê Hiển tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "…\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "Kí Dậu 1729\n----------------------------------------------\nKhông rõ",
+  "hometown" : "quán làng Sóc Sơn, huyện Vĩnh Lộc, tỉnh Thanh Hóa\n----------------------------------------------\nKhông rõ",
+  "occupation" : "Chúa thứ năm đời hậu Lê\n----------------------------------------------\nTước hiệu",
+  "workTenure" : "1709—1729",
+  "fatherName" : {
+    "Trịnh Bính" : null
   },
-  "id": 1489,
-  "entityName": "Hồ Cự Tuân",
-  "aliases": [],
-  "overview": "Ông nổi tiếng thơ văn, làm tri huyện Thanh Ba, nhưng chán công danh, ít lâu ông từ quan lui về ở ẩn nơi núi Chung Nam, vùng Yên Thế. Đương thời La Sơn phu tử Nguyễn Thiếp rất quí trọng ông. Sau, ông gả người con gái cho người con thứ hai của Nguyễn Thiếp. Con ông là Hồ Cải, tức Hồ Đoàn Vân cũng là bậc danh sĩ Bắc Hà thuở ấy. Năm Nhâm thân 1752, ông mất, đương thời xưng tụng ông là Tiêu Sơn lão Nguyễn Thiếp có bài thơ điếu ông: \"Dĩ hĩ Tiêu Sơn lão! Bắc Giang độc thử ông. Nhẫn trung vô Tháo, Ý, Nang để hữu Trình, Phùng. Lang miếu phi ngô phận, Lâm tuyền cố ngã cùng. Phổ ca tường lý lịch, Nghĩa chúc khải sàn dung. Thiên cổ thinh danh tại, Y y liệt sĩ phong\". Bản dịch: Thôi rồi Tiêu Sơn lão, Bắc Giang duy mình ông. Trong mắt không Tháo, Ý, Đáy túi có Trình, Phùng. Lang miếu nào phải phận, Lâm tuyền giữ tiết cùng. Ngợi ca truyền lý lịch, Đuốc nghĩa rạng chân dung. Nghìn thuở còn danh tiếng. Làu làu liệt sĩ phong."
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34,
+    "Đàng Ngoài - Chúa Trịnh" : 26
+  },
+  "id" : 1489,
+  "entityName" : "An Đô Vương",
+  "aliases" : [ "An Đô Vương" ],
+  "overview" : "Năm 1709 chúa Trịnh Căn mất, ông được nối ngôi chúa trở thành chúa thứ năm thời vua Lê. Đời ông các cuộc chiến tranh giữa hai miền tạm hòa hoãn, nên việc nội trị tương đối yên ổn, thuế khóa, sưu dịch tương đối có kỉ cương. Việc thương mại giữa các địa phương trong nước có quan \"Giám đương\" chăm nom. Ông mất năm Kỉ dậu 1729, ở ngôi chúa được 21 năm.\n----------------------------------------------\nTrịnh Cương (chữ Hán: 鄭棡, 9 tháng 7 năm 1686 – 20 tháng 12 năm 1729), còn có tên khác là Trịnh Chù, thụy hiệu là Hy Tổ Nhân vương (禧祖仁王), là vị chúa Trịnh thứ 5 dưới thời Lê Trung Hưng trong lịch sử Việt Nam."
 }

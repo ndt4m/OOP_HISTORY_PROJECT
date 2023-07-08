@@ -1,14 +1,17 @@
 {
-  "dateOfBirth": "1936 Triệu Phong, Quảng Trị, Đông Dương thuộc Pháp",
-  "dateOfDeath": "12 tháng 2, 2003 (66–67 tuổi) Quận Cam, California, Hoa Kỳ",
-  "hometown": "quê hương, về sau ông được xem như là 1 trong 4 giọng nam của nhạc vàng thời kỳ đầu (Tứ trụ nhạc vàng), 3 người còn lại là: Nhật Trường, Hùng Cường, Chế Linh.",
-  "occupation": "Nhạc sĩ, ca sĩ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 895,
-  "entityName": "Nguyễn Văn Diệp",
-  "aliases": [],
-  "overview": "Duy Khánh (1936–2003), tên thật Nguyễn Văn Diệp, còn có nghệ danh Tăng Hồng, Hoàng Thanh, là nam ca sĩ, nhạc sĩ người Việt Nam. Ông nổi danh từ thập niên 1960, ban đầu với những bài hát mang âm hưởng dân ca và \"dân ca mới\" của Phạm Duy, nhạc về quê hương, về sau ông được xem như là 1 trong 4 giọng nam của nhạc vàng thời kỳ đầu (Tứ trụ nhạc vàng), 3 người còn lại là: Nhật Trường, Hùng Cường, Chế Linh. Ông còn được biết đến như một nhạc sĩ tài năng với hơn 30 ca khúc đặc sắc."
+  "dateOfBirth" : "Quí Sửu 1913",
+  "dateOfDeath" : "Bính Tí 1996",
+  "hometown" : "tại Hà Nội, quê làng Châu Khê, huyện Bình Giang, tỉnh Hải Dương",
+  "occupation" : "Thi sĩ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
+  },
+  "id" : 895,
+  "entityName" : "Vũ Đình Liên",
+  "aliases" : [ ],
+  "overview" : "Thuở nhỏ học tại Trường tiểu học Hàng Vôi, Trường Bưởi, Trường Đại học luật (Hà Nội), dạy tại trường trung học Thăng Long. Thời gian dạy học ông cộng tác với các báo Phong Hóa, Phụ nữ thời đàm, Thanh nghị, Loa, Tinh Hoa, có lúc quản lí báo Tinh Hoa, chủ trương Revue Pédagogique, rồi làm Tham tá Thương chánh tại Hà Nội đến năm 1945. Sau năm 1946 tham gia kháng chiến chống Pháp, năm 1954 về Hà Nội dạy tại Trường Đại học sư phạm Hà Nội. Những năm 60 về sau, ông chuyên nghiên cứu về Nguyễn Đình Chiểu, dịch Trường hận ca, tác giả nhiều bài thơ vịnh sử nhất là bài thơ Ông đồ đã trở thành một giai tác của văn chương Việt Nam. Ông đồ nói lên được \"cái di tích tiều tụy đáng thương của một thời tàn\" (lời VĐL) hay hồn ma từ cõi âm vọng về: Năm nay đào lại nở! Không thấy ông đồ xưa? Những người muôn năm cũ Hồn ở đâu bây giờ? Hồn thơ Vũ Đình Liên xuyên suốt từ tuổi thanh xuân đến những ngày vãn niên, luôn thấm đượm lòng hoài cổ về những dấu ấn đã khắc sâu trong lòng người Việt mà Ông đồ đã hiện thân nơi những người tri thức cũng như kẻ yêu thơ như ông viết vào tuổi \"cổ lai hi\". Ông đồ và nhà thơ Nửa thế kỉ chung thủ Khăn áo bạc màu dưa Tâm hồn tươi hồng chỉ Dạ đất chờ mùa xuân, Lòng người tin Đạo Lý Hãy chết mãi Đức Tâm Lửa sẽ bùng Nhân Nghĩa (1983) Ông mất ngày 18-1 năm 1996 tại Hà Nội, thọ 83 tuổi."
 }

@@ -1,18 +1,14 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê huyện Đường Hào, tỉnh Hải Dương (nay thuộc Hải Dương)",
-  "occupation": "Danh sĩ đời Lê Dụ tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
-  },
-  "id": 2307,
-  "entityName": "Ngô Văn Tĩnh",
-  "aliases": [
-    "Trấn An"
-  ],
-  "overview": "Năm Giáp thìn 1724, ông đỗ tiến sĩ, làm đến Tham chính, tước Nho Lâm Bá. Ông giỏi văn chương, lại thông y lí, làm thuốc có tiếng. Khi về hưu, ông dạy học và làm thuốc cứu giúp người bệnh. Ông có soạn bộ sách y học: Vận phương tập nghiệm. Sách thu góp những phương thuốc hiệu nghiệm và phụ cả các bài trong sách Trung Quốc như Bản thảo cương mục, chữa đủ các bệnh nội, ngoại khoa, phụ khoa và nhi khoa."
+  "dateOfBirth" : "1451",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Lễ bộ Tả thị lang",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 2307,
+  "entityName" : "Nguyễn Xung Xác",
+  "aliases" : [ "Sung Xác" ],
+  "overview" : "Nguyễn Nhân Phùng (tiếng Trung: 阮仁逢, 1451 - ?) là một quan đại thần triều Lê sơ, đồng thời là thành viên Tao đàn do Hồng Đức đế làm chủ xướng."
 }

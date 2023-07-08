@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 57,
-  "entityName": "Trần Cảo",
-  "aliases": [],
-  "overview": "Trần Cảo có thể là một trong những nhân vật sau:"
+  "dateOfBirth" : "Nhâm Ngọ 1642",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Liêu Xá",
+  "occupation" : "Danh sĩ đời Lê Hy tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
+  "id" : 57,
+  "entityName" : "Lê Hữu Danh",
+  "aliases" : [ "Xuân Am" ],
+  "overview" : "Năm Canh tuất 1670, ông đỗ Hoàng giáp, 28 tuổi, làm quan đến Hiến sát sứ, được phong tước Uyên Bá. Ông nổi tiếng văn học, tài đức được sĩ phu trọng vọng. Các con cháu ông đều có danh vọng, đặc biệt cháu nội ông Lê Hữu Trác (con Lê Hữu Mưu) về sau trở nên vị tổ của ngành Đông y nước nhà. Con trai ông - tiến sĩ Lê Hữu Mưu có soạn sách Văn xá Lê."
 }

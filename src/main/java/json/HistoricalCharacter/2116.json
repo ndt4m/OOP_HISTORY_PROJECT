@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Hậu Lê": null
+  "dateOfBirth" : "Quí Sửu 1793",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Hoa Đường, huyện Đường An, tỉnh Hải Dương (nay là làng Lương Ngọc, huyện Cẩm Bình, tỉnh Hải Dương)",
+  "occupation" : "Danh sĩ triều Nguyễn",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 2116,
-  "entityName": "nhà Lê Sơ",
-  "aliases": [],
-  "overview": "Nhà Lê sơ hay Lê sơ triều (chữ Nôm: 家黎初, chữ Hán: 初黎朝), là giai đoạn đầu của triều đại nhà Hậu Lê, một triều đại quân chủ chuyên chế trong lịch sử Việt Nam, được thành lập sau khi Lê Lợi phát động khởi nghĩa Lam Sơn đánh bại quân đội nhà Minh. Ông đổi tên Giao Chỉ (交阯), vốn tồn tại trong thời gian nội thuộc nhà Minh, trở về Đại Việt (大越), quốc hiệu có từ đời Lý Thánh Tông."
+  "id" : 2116,
+  "entityName" : "Võ Đức Khuê",
+  "aliases" : [ ],
+  "overview" : "Năm Nhâm ngọ 1822, ông đỗ tiến sĩ. Đây là khoa tiến sĩ đầu tiên của triều Nguyễn. Ông làm quan đến Hữu tham tri bộ Hộ. Ít lâu bị giáng chức, sau được thăng Lang trung ở Nội các. Ông là người soạn bài kí khắc vào bia đá ghi lại việc xây cất hồ Phương Đình (ngôi đình vuông) thuộc phường Hà Khấu ở Thăng Long ngày xưa, nay hãy còn dấu tích."
 }

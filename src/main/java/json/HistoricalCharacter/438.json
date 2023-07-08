@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "1533",
-  "dateOfDeath": "1789",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Hậu Lê": null
+  "dateOfBirth" : "284 TCN Thượng Thái, nước Sở",
+  "dateOfDeath" : "208 TCN Hàm Dương, nước Tần",
+  "hometown" : "Không rõ",
+  "occupation" : "Thừa tướng nhà Tần",
+  "workTenure" : "237 TCN - 208 TCN",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Tần" : null
   },
-  "id": 438,
-  "entityName": "nhà Lê Trung Hưng",
-  "aliases": [],
-  "overview": "Nhà Lê trung hưng (chữ Hán: 中興黎朝, 1533–1789) là giai đoạn tiếp theo của triều đại nhà Hậu Lê (tiếp nối nhà Lê Sơ) trong lịch sử phong kiến Việt Nam, được thành lập sau khi Lê Trang Tông với sự phò tá của cựu thần nhà Lê sơ là Nguyễn Kim được đưa lên ngôi báu. Đây là triều đại dài nhất so với các triều đại trong lịch sử Việt Nam với 256 năm và đây cũng là thời kỳ lãnh thổ Việt Nam được mở rộng nhiều lần nhất."
+  "id" : 438,
+  "entityName" : "Lý Tư",
+  "aliases" : [ ],
+  "overview" : "Lý Tư (李斯, 284 TCN - 208 TCN) là nhà chính trị Trung Quốc cổ đại, làm đến chức thừa tướng dưới đời Tần Thủy Hoàng và Tần Nhị Thế. Ông là người có công lớn trong việc Tần Thủy Hoàng thống nhất chư hầu, đưa Trung Quốc trở thành một nước quân chủ tập quyền, thống nhất về văn tự, đo lường, tư tưởng."
 }

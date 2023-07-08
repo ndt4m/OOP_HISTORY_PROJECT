@@ -1,17 +1,18 @@
 {
-  "dateOfBirth": "Nhâm Tuất 1922",
-  "dateOfDeath": "Giáp Thân 2004",
-  "hometown": "tại Hà Nội",
-  "occupation": "Nhà văn, họa sĩ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "1382\n----------------------------------------------\nNhâm Tuất 1382",
+  "dateOfDeath" : "1448\n----------------------------------------------\nMậu Thìn 1448",
+  "hometown" : "quê ở xã Đông Ninh, huyện Đông Sơn, tỉnh Thanh Hóa, Việt Nam.\n----------------------------------------------\nQuê ở thôn Mạc, huyện Đông Sơn, tỉnh Thanh Hóa (nay là xã Vạn Lộc, Đông Sơn, Thanh Hóa)",
+  "occupation" : "Danh tướng trong cuộc khởi nghĩa Lam Sơn và là trọng thần giữ phần đất phía Nam của triều Lê sơ, được cho theo họ vua",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Thuộc Minh" : 33,
+    "nhà Lê" : null,
+    "Triều Lê Sơ" : 7
   },
-  "id": 942,
-  "entityName": "Tạ Tỵ",
-  "aliases": [],
-  "overview": "Sau năm 1945-1947 tham gia công tác văn nghệ kháng chiến tại Hà Nội. Năm 1949 bị gọi nhập ngũ vào quân đội Liên hiệp Pháp. Năm 1953 tốt nghiệp Trường sĩ quan trù bị Thủ Đức (thuộc quận Thủ Đức TP.HCM), làm việc tại Cần Thơ và Sài Gòn. Những năm 60, ông được chuyển về công tác tại Sài Gòn nên có điều kiện phát huy tài năng hội họa và văn chương mãi cho đến những năm 70. Năm 1973 giải ngũ về đời sống dân sự. Tuy là một quân nhân của chế độ cũ nhưng Tạ Ty thường xuyên sinh hoạt trong các tổ chức văn học ở Sài Gòn có nhiều tác phẩm văn chương và hội họa đóng góp đáng kể cho lịch sử văn học và nghệ thuật hiện đại Việt Nam. Sau năm 1980 ông định cư ở Hoa Kì rồi về sống tại TP.HCM và mất tại đây trong năm 2004. Các tác phẩm chính: - Những viên sỏi, tập truyện, Nam Chi tùng thư (1962) - Phạm Duy còn đó nỗi buồn, biên khảo (1970) - Mười khuôn mặt văn nghệ (biên khảo, phê bình, Nam Chi, 1970) - Yêu và thù, tập truyện, Phạm Quang Khai (1970) - Mười khuôn mặt văn nghệ hôm nay (biên khảo, phê bình, Lá Bối, 1971) - Cho cuộc đời (thơ, Khai phóng, 1971) - Mưa bay, tập truyện - Hoài ca (thi phẩm) - Ý nghĩ (tạp văn) - Lược sử hội họa Việt Nam (biên khảo) - Văn nghệ và con người (lí luận văn học) - Tìm hiểu văn nghệ (lí luận văn học)"
+  "id" : 942,
+  "entityName" : "Nguyễn Chích",
+  "aliases" : [ "Lê Chích" ],
+  "overview" : "Nguyễn Chích (1382–1448) hay Lê Chích (黎隻 ) là công thần khai quốc nhà Lê sơ, người tham gia khởi nghĩa Lam Sơn. Ông quê ở xã Đông Ninh, huyện Đông Sơn, tỉnh Thanh Hóa, Việt Nam.\n----------------------------------------------\nÔng thuở trẻ nghèo khổ, chăn trâu ở vùng núi Hoàng, núi Nghiêu. Khoảng cuối đời Trần, quân Minh xâm chiếm nước ta, ông chiêu tập nghĩa quân hơn 1000 người, đắp 1ũy trong vùng động Hoàng Nghiêu làm căn cứ kháng chiến. Sau ông theo giúp Lê Lợi, làm Nội Thiếu úy công trận rất nhiều, lại từng hiến nhiều kế sách rất hay, thu đạt thắng lợi. Cuối năm 1427, ông cùng Phạm Văn Xảo, Trịnh Khả đánh tan quân Mộc Thạch ở Lê Hoa (Hà Tuyên). Sau khi đuổi xong giặc Minh (1428), ông lại tham gia đánh dẹp cuộc nổi dậy của Đèo Cát Hãn, Cấm Quí. Trong đời Lê Thái tổ, ông được trọng dụng, sang đời Lê Thái tông, ông làm Tổng quản ở Hóa Châu đánh dẹp Chiêm Thành, thanh danh lừng lẫy. Rồi làm Đô đốc từng được tham dự việc triều đình. Năm Mậu thìn 1448, ông mất thọ 66 tuổi được truy tặng chức Tư Không Bình chương sự. Cho đến đời nhà Nguyễn, các triều vua vẫn tưởng niệm ông, liệt ông vào hàng khai quốc công thần nhà Hậu Lê."
 }

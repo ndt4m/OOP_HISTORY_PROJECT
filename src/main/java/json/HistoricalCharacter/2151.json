@@ -1,16 +1,14 @@
 {
-  "dateOfBirth": "Tân Sửu 1601",
-  "dateOfDeath": "Nhâm Tí 1672",
-  "hometown": "Không rõ",
-  "occupation": "Võ tướng thân tín của chúa Trịnh, con danh tướng Đào Quang Hoa. Năm Quí mùi 1643, đời Lê Chân tông ông có công dẹp các nhóm chống đối của Phú Quận Công Trịnh Lịch, nên được thăng làm Đô đốc, tước Dương Quận Công.",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
-  },
-  "id": 2151,
-  "entityName": "Đào Quang Nhiêu",
-  "aliases": [],
-  "overview": "Năm Bính thân 1655, ông đóng quân ở làng Bình Lang chống nhau nhiều trận với quân chúa Nguyễn do tướng Nguyễn Hữu Dật và Nguyễn Hữu Tiến chỉ huy. Năm Kỉ hợi 1658, do có nhiều chiến công ông được thăng Thiếu úy, lãnh trấn thủ Nghệ An. Năm Nhâm tí 1672, đời Lê Gia tông, ông mất thọ 71 tuổi, được truy tặng Thái tề, thụy là Trung Cẩn và gia phong phúc thần. Con ông là Đào Quang Quyền cũng là bậc danh tướng."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "547",
+  "hometown" : "người Làng Cổ Sở sau đổi là Làng GIÁ(gồm ba làng: Yên sở, Đắc Sở,Yên Thái thuộc huyện Hoài Đức,Hà Nội ngày nay).",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 2151,
+  "entityName" : "Lý Phục Man",
+  "aliases" : [ "Làng GIÁ" ],
+  "overview" : "Lý Phục Man (李服蠻, ? - 547), không rõ họ tên thật.Ông là một danh tướng thời Lý Nam Đế ở thế kỷ 6 trong lịch sử Việt Nam. Vì ông có công thu phục được các bộ tộc thiểu số (người Man) vùng Đỗ Động - Đường Lâm (vùng tây bắc nước ta thời Lý Nam Đế) nên được suy tôn là \"Phục Man Tướng Quân\".Ông cùng với Phạm Tu đánh tan quân Lâm Ấp xâm lược nên đã được vua cho mang họ \"Lý\") . Ông là người Làng Cổ Sở sau đổi là Làng GIÁ(gồm ba làng: Yên sở, Đắc Sở,Yên Thái thuộc huyện Hoài Đức,Hà Nội ngày nay).Theo Thần Tích tại Quán GIÁ,Ông nổi tiếng là người giỏi võ nghệ,có tài thuần trị được voi. Là một trung thần có nhiều công lao, nên khi mất, ông được nhân dân nhiều nơi tôn thờ làm Thành hoàng làng . Mặc dù vậy, trong các tài liệu chính sử xưa kia không thấy chép về ông. Tên và thần tích của ông xuất hiện trong các tài liệu dã sử như: \"Tiền Nam Đế Sự Tích Quốc Âm\", Việt điện u linh tập thời Trần; và sau đó được kể lại trong Đại Nam nhất thống chí thời Nhà Nguyễn và trong Thần tích tại đền thờ Ông."
 }

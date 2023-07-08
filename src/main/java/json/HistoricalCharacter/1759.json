@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 1759,
-  "entityName": "Trần Bửu Kiếm",
-  "aliases": [],
-  "overview": "Trần Bửu Kiếm (sinh 1921), sinh quán Cần Thơ, tốt nghiệp Luật tại Hà Nội, tham gia Tổng hội Sinh viên và tham gia giành chính quyền tại Sài gòn năm 1945 trong Cách mạng Tháng Tám. Ông là đảng viên Đảng Dân chủ Việt Nam và Đảng cộng sản. Năm 1960 ông tham gia thành lập Mặt trận Dân tộc giải phóng Miền Nam Việt Nam, sau là thành viên Chính phủ Cách mạng lâm thời Cộng hòa Miền Nam Việt Nam."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Quê ở Cao Lãnh (nay thuộc tỉnh Đồng Tháp)",
+  "occupation" : "Liệt sĩ Cần vương chống Pháp ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
+  },
+  "id" : 1759,
+  "entityName" : "Lê Công Kiều",
+  "aliases" : [ ],
+  "overview" : "Ông có lòng nhiệt thành yêu nước. Khi thực dân Pháp xâm lược, ông hợp nghĩa quân chống nhau với giặc. Sĩ dân tin trọng ông, đề cử ông làm Đốc binh trong các lực lượng chống Pháp, nên thường gọi là Đốc Kiều, hoặc Đốc binh Kiều. Địa bàn hoạt động của ông trải rộng từ Mĩ Tho đến Tân An. Năm 1862, khi Định Tường (nay thuộc tỉnh Tiền Giang) thất thủ ông rút về lập chiến khu ở Đồng Tháp Mười và lập căn cứ ở vùng Mĩ Quí (thuộc tỉnh Đồng Tháp) ông tích cực đánh đuổi quân cướp nước nhưng vì thế yếu, bị thất bại và hi sinh. Nhân dân Đồng Tháp hằng tuởng niệm ông."
 }

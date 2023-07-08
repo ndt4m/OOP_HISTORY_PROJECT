@@ -1,17 +1,16 @@
 {
-  "dateOfBirth": "…",
-  "dateOfDeath": "Quí Sửu 1793",
-  "hometown": "Hà Tĩnh",
-  "occupation": "Con Khuê Phong Hầu Phan Huy Cẩn, em thứ năm Thụy Nham Hầu Phan Huy Ích.",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34,
-    "Nhà Tây Sơn": 21
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Võ tướng đời Lý Cao tông ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Lý" : 14
   },
-  "id": 2031,
-  "entityName": "Phan Huy Trấn",
-  "aliases": [],
-  "overview": "Ông không tán thành việc hợp tác với triều Tây Sơn. Năm Tân hợi 1791, ông dấy quân chống lại nhà Tây Sơn. Khi đi sứ nhà Thanh (Canh tuất 1790) về, Phan Huy Ích nghe chuyện ông nổi loạn, bèn dâng biểu tạ tội. Vua Quang Trung phê vào tở biểu: \"Tính người ta thiện, ác khác nhau, cha còn chả được vừa lòng với con, huống chi anh đối với em, việc không dính líu đến thì có hiềm nghi gì\". Cuộc khởi binh thất bại, ông trốn thoát vào rừng. Đến mùa hè năm Quí sửu 1793, ông bị quân trấn thủ Nghệ An lùng bắt được đem hành hình. Thương tiếc ông, Phan Huy Ích có bài ĐỀ GIA QUÁN, LÂM NGŨ ĐỆ MỘ HỮU CẢM (bản dịch): Tham nhà lối trúc đã tan hoang, Thơ \"Tích linh\" ngâm bội cảm thương Nghìn thuở danh gia ghi phúc trạch, Một gươm dũng sĩ tỏ can tràng. Bởi lời giáo hối lâu xa cách, Nên khí hiên ngang vụng giữ giàng. Chín suối biết em còn nuốt hận. Chưa nên oanh liệt cuộc phi thường."
+  "id" : 2031,
+  "entityName" : "Quách Bốc",
+  "aliases" : [ ],
+  "overview" : "Khi Lý Cao tông nghe lời gièm mà bắt giam cha con Phạm Bỉnh Di, ông không phục, dấy binh phản đối, Cao tông truyền đem giết cha con Bỉnh Di nơi đền thần Kim Tinh. Uất hận trước cái chết của chủ tướng, ông xua quân cướp lấy thây chủ chôn cất trọng thể rồi đánh phá kinh thành. Lý Cao tông và thái tử Sảm bỏ chạy ông lập hoàng tử Thẩm (con thứ Cao tông) lên ngôi, có các đại thần Đàm Dĩ Mông, Nguyễn Chính Lại phụ chính. Ít lâu Thái tử Sảm lấy con gái người phường chài Trần Lý ở Hải ấp, rồi dựa vào vây cánh họ Trần đánh lấy lại kinh thành, Quách Bốc bị giết chết. Nhưng về sau nhà Lý sụp đổ dưới áp lực của cánh nhà Trần."
 }

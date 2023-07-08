@@ -1,14 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 2951,
-  "entityName": "Hồ Quảng",
-  "aliases": [],
-  "overview": "Hồ Quảng có thể là:"
+  "dateOfBirth" : "914\n----------------------------------------------\nBính Tí 916",
+  "dateOfDeath" : "990\n----------------------------------------------\nTân Mão 991",
+  "hometown" : "người ở đâu.\n----------------------------------------------\nKhông rõ",
+  "occupation" : "Thiền sư đời tiền Lê, không rõ tên thật",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Tiền Lê" : 8,
+    "Nhà Đinh" : 35
+  },
+  "id" : 2951,
+  "entityName" : "Đỗ Pháp Thuận",
+  "aliases" : [ "Pháp Thuận" ],
+  "overview" : "Pháp Thuận (chữ Hán: 法順, 914-990) tên thật là Đỗ Pháp Thuận (杜法順), là thiền sư đời thứ 10, dòng Tỳ-ni-đa-lưu-chi. Sư trụ trì ở Chùa Cổ Sơn, làng Thừ, quận Ải. Không biết ông là người ở đâu. Sư họ Ðỗ, học rộng, thơ hay, có tài giúp vua, hiểu rõ việc nước. Nhỏ đã xuất gia, thờ Thiền sư Phù Trì chùa Long Thọ làm thầy. Sau khi đắc pháp, sư nói ra lời nào cũng phù hợp với sấm ngữ.\n----------------------------------------------\nÔng xuất gia từ thuở nhỏ, thọ giáo với Long Thọ Phù Trì, nổi tiếng cao tăng, được Lê Đại Hành trọng vọng không kém Khuông Việt đại sư Ngô Chân Lưu. Năm Bính tuất 986, có sứ Tống là Lý Giác sang, ông và Khuông Việt Đại sư nhận lệnh vua cải trang làm lái đò đi tiếp đón. Sứ giả Lý Giác sính thi ca, giữa khoảng trời nước mênh mông, ngồi trên đò chợt trông thấy hai con ngỗng trời, Lý Giác buột miệng ngâm: \"Nga nga lưỡng nga nga, Ngưỡng diện hướng thiên nha\". Dịch: Song song ngỗng nột đôi, Ngửa mặt ngó ven trời. Ông ngâm tiếp ngay: \"Bạch mao phô lục thủy, Hồng trạo bãi thanh ba\" Dịch: Lông trắng phơi dòng biếc, Sóng xanh chân hồng bơi. Lý Giác ngạc nhiên, tỏ vẻ mến phục. Do đó khi trở về Tống, Lý Giác có làm bài thơ lưu giản, hai câu kết thúc riêng tỏ ý cảm mến các vị chân tu nước ta. Năm Tân mão 991, ông mất, thọ 76 tuổi còn để lại tác phẩm: Bồ tát hiệu sám hối văn."
 }

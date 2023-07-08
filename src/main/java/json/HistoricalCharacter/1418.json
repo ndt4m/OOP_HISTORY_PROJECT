@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Giáp Ngọ 1294",
-  "hometown": "Không rõ",
-  "occupation": "Danh thần đời Trần Thánh tông, giỏi biện thuyết",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Trần": 15
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Vua",
+  "workTenure" : "?–?",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Hồng Bàng" : 17
   },
-  "id": 1418,
-  "entityName": "Đinh Củng Viên",
-  "aliases": [],
-  "overview": "Năm Canh ngọ 1270, gặp khi Nguyên Thế tổ sái sứ sang khiến vua Trần phải nộp biểu xưng thần, ông cùng với đại phu Lê Đà sang sứ nhà Nguyên để biện bạch, quyết không để nhục quốc thể. Vua Nguyên tông bảo: - Quân của thiên triều đi đến đâu san bằng đến đó, không ai dám đương cự, trái mạng, sao chúa các người không rõ phận nước nhà toan địch thể với ta sao? Ông thản nhiên đáp: - Nếu nhà vua định đem điều nhân nghĩa mà khiến mọi nguời kính nể thì mới thuyết phục được chúng tôi. Nếu đem binh lực ra dọa nạt, thì dù nhỏ, nước tôi vẫn có binh hùng tướng dũng, có núi non hiểm trở để ngăn chặn và thù tiếp binh thiên triều. Thấy ông biểu dương tinh thần bất khuất của dân tộc ta, Nguyên Thế tổ mến phục. Do đó tránh được việc binh đao một thời gian. Ông làm quan ở Viện Hàn lâm, nổi tiếng thơ văn. Và sau cuộc đi sứ Nguyên về, ông được ca tụng là trang biện sĩ ưu tú."
+  "id" : 1418,
+  "entityName" : "Hùng Vương thứ bảy",
+  "aliases" : [ ],
+  "overview" : "Hùng Vương thứ VII, tên là Lang Liêu (chữ Hán: 郎僚), cũng gọi Tiết Lang Liêu, là một vị vua theo truyền thuyết của nước Văn Lang trong lịch sử Việt Nam."
 }

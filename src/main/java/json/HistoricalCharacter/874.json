@@ -1,21 +1,14 @@
 {
-  "dateOfBirth": "Quí Tị 1763",
-  "dateOfDeath": "Tân Tị 1821",
-  "hometown": "quê làng Linh Chiểu, huyện Thủ Đức, tỉnh Gia Định (trấn Biên Hòa xưa)",
-  "occupation": "Nữ cư sĩ Phật giáo",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34,
-    "Nhà Tây Sơn": 21,
-    "Nhà Nguyễn độc lập": 30
-  },
-  "id": 874,
-  "entityName": "Nguyễn Thị Hiên",
-  "aliases": [
-    "Liễu Đạo",
-    "Thành Lâm"
-  ],
-  "overview": "Bà là người hiến đất tư của mình để xây chùa Huê Nghiêm (nay là tổ đình Huê Nghiêm ở Thủ Đức) ở Trấn Biên xưa. Theo bia mộ và tương truyền: Vào lúc tuổi vãn niên, trước ngày qua đời bà bảo với người thân rằng mình sẽ liễu đạo vào ngày hạ, mùng một tháng 6 âm lịch. Bà nhờ người thân viết vào lòng bàn tay mình bằng son đỏ với dòng chữ có nghĩa: \"Nguyễn Thị Hiên, làng Linh Chiểu, Gia Định, Việt Nam, Hoa Nghiêm tự\". Cùng thời điểm ấy (182 1) hoàng hậu triều Mãn Thanh (TQ) hạ sanh một công chúa, ở bàn tay, công chúa cũng có những dòng chữ có nghĩa như trên tay bà Hiên. Vua Gia Khảnh (TQ) liền gởi sứ giả sang Việt Nam tìm rõ sự việc trên. Theo địa chỉ họ tìm tới chùa Huê Nghiêm ở Trấn Biên và được tổ Tế Lý (1763-1829) xác thực là đúng như vậy: Sứ nhà Thanh tâu xin vua Gia Khánh cho trùng tu lại ngôi chùa và xây cất mộ bia Nguyễn Thị Hiên trong khuôn viên chùa (mộ và bia nay vẫn còn)."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 874,
+  "entityName" : "Lê Thanh Long",
+  "aliases" : [ ],
+  "overview" : "Lê Thanh Long (sinh 1946) là đại biểu Quốc hội Việt Nam khóa 11, thuộc đoàn đại biểu Long An."
 }

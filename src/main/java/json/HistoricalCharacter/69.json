@@ -1,18 +1,17 @@
 {
-  "dateOfBirth": "…",
-  "dateOfDeath": "Ất Mùi 1835",
-  "hometown": "Cao Bằng",
-  "occupation": "Dũng tướng thuộc hạ của Lê Văn Khôi, không rõ năm sinh, nguyên họ Bế ở tỉnh Cao Bằng",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Kỉ Hợi 1899",
+  "dateOfDeath" : "Bính Thìn 1976",
+  "hometown" : "quê ở Trà Cổ, Hải Ninh, nay thuộc TP",
+  "occupation" : "Nhà văn, nhà soạn kịch",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 69,
-  "entityName": "Nguyễn Văn Hoành",
-  "aliases": [
-    "Nguyễn Hựu Hoành"
-  ],
-  "overview": "Sau khi Lê Văn Duyệt mất, vua Minh Mạng khủng bố gia đình và những kẻ cận kề của Tả quân. Năm 1832, ông cùng Lê Văn Khôi, Nguyễn Văn Trắm, Đặng Vĩnh Ưng... khởi binh chống lại triều đình Nguyễn. Quân khởi nghĩa làm chủ thành Phiên An (tên cũ của thành Gia Định) và một số tỉnh Nam Kì hơn một năm, quân triều phải vất vả lắm mới bình định được. Tháng 7-1835 quân khởi nghĩa bị dẹp tan. Hơn 1831 người bị giết chôn chung vào một huyệt, đương thời gọi là Đồng mả ngụy. Ông cùng năm người ở trong Bộ chỉ huy bị bắt giải về Huế hành hình. Đương thời danh tiếng và oai dũng ông ai cũng kính sợ, nên có câu \"Ông Hoành, ông Trắm tái thế sao mà dám làm vậy\" được lưu truyền ở Nam Kì."
+  "id" : 69,
+  "entityName" : "Vi Huyền Đắc",
+  "aliases" : [ "Giới Chi" ],
+  "overview" : "Ông tốt nghiệp Trung học tại Hải Phòng, vào học ở Trường Mĩ thuật Hà Nội. Sau khi tốt nghiệp, ông vào Nam sinh hoạt một thời gian, rồi trở ra Bắc, sáng tác văn học và mở nhà in, nhà xuất bản Thái dương văn khố. Trong kháng chiến chống Pháp, ông tản cư về dạy học ở Yên Mô (tỉnh Ninh Bình). Đến 1954 ông vào Nam, dịch và sáng tác khá nhiều. Từng là Phó chủ tịch Hội Văn bút ở Sài Gòn. Năm Bính thìn 1976 ngày 16-8 Dương lịch ông mất tại Hà Nội, thọ 77 tuổi. Các sáng tác kịch có giá trị: - Uyên ương (1927) - Hoàng Mộng Điệp (1928) - Cô đầu bếp (1930) - Cô đốc Minh (1930) - Hai tối tân hôn (1929) - Nghệ sĩ hồn (1932) - Kinh Kha (1937) - Ông Kí Cóp (1937) - Giê Su, đấng cứu thế (1942) - Lệ Chi viên (1943) - Kim Tiền (1938). - Thành Cát Tư Hãn (1955) Kịch bản phóng tác văn nước ngoài: - Cá nước chim trời (nguyên tác của Đinh Tây Lan). - Láng giềng (nguyên tác của Hoàng Tự Thôn). - Khổng Tử can đạo chích (nguyên tác của Từ Vu). Truyện dịch từ Trung Văn: - Cô gái điên (nguyên tác củaTừ Vu) - Người bạn lòng (nguyên tác của Tuấn Nhân) - Gái thời loạn (nguyên tác của Vũ Văn Hoa) - Ánh đèn (nguyên tác của Từ Vu) - Trên hòn hải đảo (nguyên tác của Quách Tự Phần) - Bóng chim tăm cá (nguyên tác của Chu Xuân Đăng) - Anh hùng tay bánh (nguyên tác của Lý Phí Mông) - Ba đóa hoa (nguyên tác của Quỳnh Dao) - Tấn bi kịch trong đình viên (nguyên tác của Lâm Ngữ Đường) - Khúc ca mùa thu (nguyên tác của Lâm Ngữ Đường) - Một gia đình (của Từ Vu, 1957) - Mạc Tin (bản dịch vở Martine của J.J.Bernard), Đời Nay, 1936. - Người đi (nguyên tác là Marins của M. Pagnol), Tủ sách Thanh Niên, 1963. Biên khảo: - Máy hơi nổ (1956) - Việt tự (một lối Tiếng Việt bỏ được năm dấu), 1929. - Bạch hạc đình (viết năm 1944) - Khóc lên tiếng cười (viết năm 1945) - Vở kịch hay nhất (viết năm 1955) - Nhà có phúc (viết năm 1956)"
 }

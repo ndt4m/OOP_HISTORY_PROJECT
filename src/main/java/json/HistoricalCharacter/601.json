@@ -1,16 +1,14 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Lê": null
-  },
-  "id": 601,
-  "entityName": "Phan Thiên Tước",
-  "aliases": [],
-  "overview": "Phan Thiên Tước là danh thần nhà Lê sơ trong lịch sử Việt Nam."
+  "dateOfBirth" : "17 tháng 7, 1947 (73 tuổi) Xã Hải Long, huyện Hải Hậu, tỉnh Nam Định, Việt Nam Dân chủ Cộng hòa",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Thuộc",
+  "workTenure" : "1965-2011",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 601,
+  "entityName" : "Nguyễn Huy Hiệu",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Huy Hiệu (sinh năm 1947) là một sĩ quan cấp cao trong Quân đội nhân dân Việt Nam, hàm Thượng tướng. Ông nguyên là Ủy viên Thường vụ Đảng ủy Quân sự Trung ương, Thứ trưởng Bộ Quốc phòng Việt Nam (1998-2011), nguyên Phó Tổng tham mưu trưởng (1995-1998)."
 }

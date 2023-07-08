@@ -1,23 +1,20 @@
 {
-  "dateOfBirth": "Mậu Tuất 1898",
-  "dateOfDeath": "Quí Sửu 1973",
-  "hometown": "quê xã Bối Khê, tổng Cẩm Khê, phủ Khoái Châu, tỉnh Hưng Yên",
-  "occupation": "Nữ sĩ hiện đại",
-  "workTenure": "Không rõ",
-  "fatherName": {
-    "Đỗ Duy Phiên": null
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Tháng 12, 1561 Việt Nam\n----------------------------------------------\nGiáp Tí 1564",
+  "hometown" : "xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách), tỉnh Hải Dương, Việt Nam.\n----------------------------------------------\nKhông rõ",
+  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua đời thứ tư nhà Mạc, con trưởng Phúc Hải.",
+  "workTenure" : "1546 - 1561\n----------------------------------------------\nKhông rõ",
+  "fatherName" : {
+    "Phúc Hải" : null,
+    "Mạc Hiến Tông" : 2965
   },
-  "motherName": {
-    "Nguyễn Thị Yểm": null
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Mạc" : 18,
+    "Nam - Bắc Triều" : 19
   },
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
-  },
-  "id": 1580,
-  "entityName": "Đỗ Thị Đàm",
-  "aliases": [
-    "Tuơng Phố"
-  ],
-  "overview": "Vì bà chào đời tại Đồn Đầm, tỉnh Bắc Giang, nơi thân sinh bà làm việc, nên đặt tên bà là Đàm để ghi dấu tích làm kỉ niệm. (Đàm chữ Hán có nghĩa là Đầm); về sau năm sinh có sách chép là 1896 hoặc 1900). Bà học ở trường Nữ hộ sinh, sau bỏ học thi vào trường nữ Sư phạm Hà Nội. Tại đây bà gặp sinh viên trường thuốc Thái Văn Du (em ruột Thượng thư Thái Văn Toản) rồi thành vợ chồng vào năm 1915. Một năm sau bà sinh con trai là Thái Văn Châu thì chồng bà là Y sĩ Đông Dương phải qua Pháp tham chiến trong cuộc chiến tranh Pháp - Đức (1914-1918). Ba năm sau chồng bà bị bệnh phổi trở về Huế vào khoảng cuối năm 1919 rồi mất vào mùa thu 1920. Bà góa chồng lúc 22 tuổi, đến năm 27 tuổi (Ất sửu 1925) bà tái giá với tuần phủ Phạm Khắc Chánh ở Phúc Yên. Bà bước vào làng văn từ những năm 1927, 1928 và nổi tiếng qua bài Giọt lệ thu đăng trên tạp chí Nam Phong số 131 tháng 7-1928, sau này nhà xuất bản Ngày Mai in thành sách tại Hà Nội. Bà làm thơ nhiều và có viết một số bài tiểu luận đăng trên tạp chí Nam Phong. Các tác phẩm của bà đã xuất bản: - Nhớ rừng xanh - Tình quê - Chia phôi - Giọt lệ thu - Mưa gió sông Tương - Trúc Mai (truyện dài bằng thơ). - Liên xóm Bàng... Em gái bà là Song Khê Đỗ Thị Quế cũng là một nữ thi sĩ có tiếng. Sau năm 1945 bà sống ở Nha Trang và mất ở Đà Lạt trong năm 1973."
+  "id" : 1580,
+  "entityName" : "Mạc Phúc Nguyên",
+  "aliases" : [ "Vĩnh Định (1547) Cảnh Lịch (1548-1553) Quang Bảo (1554-1561)", "Mạc Phúc Nguyên", "Tuyên Tông (宣宗)", "Anh Nghị Duệ Hoàng đế" ],
+  "overview" : "Mạc Tuyên Tông (莫宣宗) tên thật là Mạc Phúc Nguyên (chữ Hán: 莫福源, ? - 1561), là hoàng đế thứ tư nhà Mạc trong lịch sử Việt Nam, ở ngôi từ năm 1546 đến 1561, trị vì 15 năm. Ông là người xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách), tỉnh Hải Dương, Việt Nam.\n----------------------------------------------\nNăm Bính ngọ 1546, tháng 5 ông được đưa lên ngôi, hãy còn nhỏ tuổi, có ông chú là Khiêm vương Kính Điển phụ chính. Tứ Dương Hầu Phạm Tử Nghi bất mãn, lập phe nhóm tôn phù Mạc Chính Trung (con Đăng Dung) đối lập với Phúc Nguyên. Nội bộ nhà Mạc rối ren một lúc, nhờ Kính Điển dẹp tan được nhóm Tử Nghi mới yên, nhưng phải thường xuyên chống nhau với nhà Lê. Năm Giáp tí 1564, ngày 7 tháng 2 ông bị bệnh đậu mất, ở ngôi 19 năm, tôn thụy là Tuyên tông Anh nghị hoàng đế."
 }

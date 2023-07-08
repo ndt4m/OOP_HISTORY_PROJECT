@@ -1,22 +1,16 @@
 {
-  "dateOfBirth": "Nhâm Ngọ 1702",
-  "dateOfDeath": "Quí Tị 1773",
-  "hometown": "Quê xã Hoạch Trạch, huyện Đường An, tỉnh Hải Dương",
-  "occupation": "Danh thần đời Lê Ý tông, nguyên trước là Đình Toản",
-  "workTenure": "Không rõ",
-  "fatherName": {
-    "Nhữ Tiến Hiền": 769
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Nhâm Thân 1932",
+  "hometown" : "quê làng Đồng Hiệp, phủ Ninh Giang, tỉnh Hải Dương (nay là Hải Hưng)",
+  "occupation" : "Liệt sĩ hiện đại",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
-  },
-  "id": 2257,
-  "entityName": "Nhữ Đình Toản",
-  "aliases": [
-    "Nhữ Công Toản",
-    "Trạch Hải",
-    "Thượng Chân"
-  ],
-  "overview": "Năm Bính thìn 1736 ông đỗ tiến sĩ, làm quan đến Thượng thư bộ Hộ, Tham tụng tước Bá Trạch Hầu. Sau xin chuyển sang hàng quan võ, làm Hữu hiệu kiểm, rồi thăng đến Tả đô đốc, tước Trung Phái Hầu. Làm tể tướng, rồi Tả đô đốc, trải hơn 10 năm tận tụy phục vụ, ông cùng Hà Tông Huân được đương thời xưng tụng có tài thao lược. Khi về hưu, ông được đặc ân cho dự hàng Quốc lão. Ít lâu, chúa Trịnh lại vời ông ra, ông cố từ. Chúa gửi ông một bài thơ có ý khuyên dỗ, ông vẫn từ chối. Bài thơ bằng quốc âm như sau: Bấy lâu gang tấc chốn phong trần, Lục Dã phen này đượm thức xuân. Hoa quốc mấy tài phơi vẻ gấm, Lập triều đời thuở nhắc đồng cân. Mái sâu xướng tỏ bề tri túc, Gánh nặng còn dành sức trí thân. Ưu ái niềm xưa tua nghỉ đấy, Bên tai chi lãng tiếng vần quân. Năm Quí tị 1773 ông mất, thọ 71 tuổi, được truy tặng Thái bảo. Tác phẩm của ông gồm: 1. Bách ti chức chưởng 2. Hoạch Trạch Nhữ tộc phả 3. Trung quân liên vịnh tập Bách ti chức chưởng (1 quyển) do ông viết và san định, ban hành năm Cảnh Hưng thứ 13 (1752). Đầu sách có in chỉ dụ của Minh vương Trịnh Doanh. Bách ti chức chưởng là một quyển sách chép gọn và đủ những qui tắc về các chức viện và nhiệm vụ, cùng là các tổ chức các quan chức hồi cuối đời Lê: nhưng tên sách này không thấy chép trong Cương mục. Sách Cương mục về năm Cảnh Hưng thứ 12 (1751) có chép một bộ sách nhan đề khác hẳn: Tân thân thực lục. Đoạn sách ấy như sau: \"Năm Tân mùi niên hiệu Cảnh Hưng thứ 12, tháng 6 (1751) chấn chỉnh lại chức trách và nhiệm vụ các quan hành chánh\". \"Minh vương (Trịnh Doanh) cho rằng, trong nước gần được bình định, cần phải chấn chỉnh chức trách và nhiệm vụ các quan hành chánh, hạ lệnh cho quan Tham tụng Nhữ Đình Toản châm chước điều lệ các triều trước, xếp đặt quan chức phẩm trật thành từng loại, gọi là Tân thân thực lực. Lại ban hành 9 điều, nói rõ chức trách nhiệm vụ các quan trong kinh và ngoài trấn. 1) Giúp đỡ vua, làm cho vua được ngay thẳng; 2) Lựa lọc quan lại; 3) Bàn định chính sách đối với dân; 4) Định kỉ luật quân ngũ; 5) Xếp đặt việc chi dùng trong nước; 6) Định rõ thể lệ kiện tụng; 7) Bàn định việc tính toán chi thu; 8) Việc thưởng phạt cho đúng đắn; 9) Hiệu lệnh phải tin thật. Chín điều trên đây cốt để răn bảo các quan giữ việc trong chính phủ, tùy tài từng người mà trao cho chức việc, phân biệt bổ dụng các chức quan...\""
+  "id" : 2257,
+  "entityName" : "Hồ Văn Mịch",
+  "aliases" : [ ],
+  "overview" : "Ông xuất thân nhà giáo, nhiệt thành yêu nước, ông gia nhập Việt Nam Quốc dân đảng, tích cực hoạt động. Ít lâu, ông vướng bệnh lao nhổi nhưng vẫn tận tụy lo việc cứu nước, Nguyễn Thái Học rất trọng vọng ông. Kỉ tị 1929, ông bi bắt đày ra Côn Đảo với án 10 năm cấm cố. Đến Nhâm thân, ngày 8-4 dương lịch, ông mất trong tù, ngoài đảo."
 }

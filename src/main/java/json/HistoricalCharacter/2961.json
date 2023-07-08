@@ -1,21 +1,16 @@
 {
-  "dateOfBirth": "1834\n----------------------------------------------\nGiáp Ngọ 1834",
-  "dateOfDeath": "1902\n----------------------------------------------\nNhâm Dần 1902",
-  "hometown": "quê làng Kim Lũ huyện Thanh Trì, tỉnh Hà Đông (nay thuộc ngoại thành Hà Nội)",
-  "occupation": "Danh thần đời ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Thanh Hóa",
+  "occupation" : "Sử gia đời Gia Long, không rõ năm inh, năm mất, ông còn có các biệt danh:",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 2961,
-  "entityName": "Nguyễn Trọng Hợp",
-  "aliases": [
-    "Trọng Hợp",
-    "Kim Giang",
-    "Nguyễn Tuyên"
-  ],
-  "overview": "Nguyễn Tuyên (chữ Hán: 阮瑄, 1834 - 1902), tự Trọng Hợp (仲合), hiệu Kim Giang (金江), là một quan đại thần triều Nguyễn,làm quan trải bảy đời vua từ Tự Đức đến Thành Thái.\n----------------------------------------------\nNăm 1898 ông xin nghỉ dài hạn, năm 1902 ông mất, thọ 68 tuổi. Khoảng năm 1874, khi vào Kinh, Hoàng giáp Tam đăng Phạm Văn Nghi có thơ tặng ông: Tiễn Thiên Trường Thái thú Nguyễn Trọng Hợp lai kinh Quân kim thưởng đế kinh. Khiển quyền tống quân hành. Huy bút, ngôn nan cánh, Hàm bôi, lệ dị khuynh. Sơn do phục mãnh thú, Hải dĩ động trường kình. Đa cố như kim nhật, Phùng ưu tiểu ngã sinh. Hiểm di đăn duy mệnh, Đại tiểu đồng nhất tình, Hạnh vị gia nhi ngữ Thiên hành, hư tất doanh. Nghĩa: Nay bác vào đế kinh, tiễn bác lên đường, lòng quyến luyến. Cầm bút khó viết hết lời, nhắp chén rượu lệ lại rưng rưng. Núi vẫn còn thú dữ nấp, bể đã sôi động vì cá kình dậy. Ngày nay, lắm chuyện nhiễu nhương, đáng cười cho ta sống vào lúc trăm việc phải lo. Nguy hay yên là do mệnh trời cả, dù lớn hay nhỏ cũng một mình như thế. Xin nhờ nói với con tôi \"Đạo trờì xoay chuyển vơi rồi lại đầy\". Các tác phẩm của ông: - Minh Mạng chính yếu - Đại Nam chính biên liệt truyện - Kim Giang thi văn tập - Thành trì Nguyễn thị thế phả - Tây Sà thi tập (Nguyễn Thuật đề tựa) - Nhật lịch ước biên - Kim Giang Nguyễn tướng công nhật lịch tùy kí Và ông đã đề tựa các sách: - Đại Việt địa dư toàn biên - Giá Viên thi văn toàn tập của Phạm Phú Thứ."
+  "id" : 2961,
+  "entityName" : "Lê Cao Lãng",
+  "aliases" : [ "Lịnh Phủ", "Viên Trai", "Cao Viên Trai" ],
+  "overview" : "Cao Viên Trai, Ngô Cao Lãng, Cao Lãng. Tên thật là Lịnh Phủ, hiệu Viên Trai, quê làng Nguyệt Viên huyện Hoàng Hóa, tỉnh Thanh Hóa. Năm Đinh mão, ông làm giám khảo ở trường thi Sơn Tây, sau làm Tri phủ Hoài Đức. Ngoài một quan cai trị, Lê Cao Lãng còn là một nhà văn, nhà nghiên cứu văn hóa nổi tiếng đương thời. Ông có soạn các tác phẩm: - Lịch triều tạp kỉ - Viên Trai thi tập - Viên Trai văn tập - Thanh Hóa dư đồ sự tích kí - Quốc triều xử trí Vạn Tượng sự nghi lục - Thanh Hóa tỉnh: Cương giới phân hợp danh hiệu diên cách, tịnh sơn xuyên cảnh thắng tập kí... - Lê triều lịch khoa tiến sĩ đề danh bi kí... đều là những sách quí trong kho tàng văn hóa dân tộc. Ông là một tác giả lớn triều Nguyễn. Sách Lịch triều tạp kỉ (6 quyển) do ông biên soạn. Sách chép tay, giấy bản thường (29x15); cộng 420 tờ. Tên tác giả theo đúng trong sách đề là: Ái Châu Cổ Đẳng Nỗ Giang Cao Tẩu lược biên và Tử Siển Trai tăng tập. Thứ đến có dấu son đỏ của người chủ sách là Nguyễn Văn Huyên (Theo Trần Văn Giáp)."
 }

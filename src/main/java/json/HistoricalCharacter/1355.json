@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "14 tháng 11 năm 1931 Long Xuyên, Việt Nam",
-  "dateOfDeath": "22 tháng 2 năm 2015 (84 tuổi) Nevada, Hoa Kỳ",
-  "hometown": "Không rõ",
-  "occupation": "Thuộc",
-  "workTenure": "1951-1975",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 1355,
-  "entityName": "Lý Tòng Bá",
-  "aliases": [],
-  "overview": "Lý Tòng Bá (1931-2015), nguyên là một tướng lĩnh gốc Kỵ binh của Quân lực Việt Nam Cộng hòa, cấp bậc Chuẩn tướng. Ông xuất thân từ những khóa đầu ở trường Võ bị Quốc gia do Chính phủ Quốc gia Việt Nam mở ra tại nam Cao nguyên Trung phần. Sau khi tốt nghiệp ông được chọn vào đơn vị Thiết giáp và ông đã phục vụ ở Binh chủng này lên đến chức vụ Chỉ huy trưởng. Trong thời gian tại ngũ, ông cũng được chuyển nhiệm vụ sang lĩnh vực Hành chánh (Tỉnh trưởng) kiêm Quân sự (Tiểu khu trưởng). Ông là Tư lệnh sau cùng của Sư đoàn 25 Bộ binh, đơn vị cuối cùng chiến đấu bảo vệ mặt phía bắc Sài Gòn trước khi thất thủ."
+  "dateOfBirth" : "Canh Thìn 1460",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Đáp Khê, hạt Chí linh, tỉnh Hải Dương",
+  "occupation" : "Văn thần đời Lê Thánh tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Triều Lê Sơ" : 7
+  },
+  "id" : 1355,
+  "entityName" : "Lại Đức Do",
+  "aliases" : [ ],
+  "overview" : "Năm Hồng Đức 24 (Quí sửu 1493) ông 33 tuổi ứng thí đỗ Nhị giáp Tiến sĩ. Làm quan đến Đề hình giám sát ngự sử, được vua Lê Thánh tông và triều đình đương thời nể vì."
 }

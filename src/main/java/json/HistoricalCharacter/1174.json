@@ -1,17 +1,20 @@
 {
-  "dateOfBirth": "Trần Văn Ơn Châu Thành, Bến Tre\n----------------------------------------------\nTân Mùi 1931",
-  "dateOfDeath": "Sài Gòn\n----------------------------------------------\nCanh Dần 1950",
-  "hometown": "quê làng Phước Thạnh, huyện Châu Thành, tỉnh Bến Tre (nay vẫn thuộc tỉnh Bến Tre)",
-  "occupation": "Học sinh\n----------------------------------------------\nLiệt sĩ chống Pháp, học sinh trường Pétrus Ký Sài Gòn ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "14 tháng 12 năm 1914 Gò Công, Liên bang Đông Dương",
+  "dateOfDeath" : "16 tháng 9, 1963 (48 tuổi) Corrèze, Pháp",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng hậu Đại Nam",
+  "workTenure" : "20 tháng 3 năm 1934 – 25 tháng 8 năm 1945 (11 năm, 158 ngày)",
+  "fatherName" : {
+    "Nguyễn Hữu Hào" : 2955
   },
-  "id": 1174,
-  "entityName": "Trần Văn Ơn",
-  "aliases": [],
-  "overview": "Trần Văn Ơn (29 tháng 5 năm 1931 - 9 tháng 1 năm 1950) là một học sinh trường Pétrus Ký đã bị chính quyền Pháp nổ súng bắn chết trong phong trào biểu tình của học sinh sinh viên Sài Gòn đầu năm 1950. Cái chết của anh đã gây tiếng vang lớn, có tác động rộng khắp trong phong trào đấu tranh của dân chúng Sài Gòn sau đó. Anh đã được truy tặng danh hiệu Anh hùng lực lượng vũ trang nhân dân năm 2000.\n----------------------------------------------\nThuở nhỏ học ở Bến Tre, Sài Gòn chuẩn bị thi Tú tài. Đến năm 1950, Pháp sa lầy ở Đông Dương, Mĩ can thiệp vào cuộc kháng chiến chống Pháp của nhân dân ta. Lúc ấy phong trào vận động hòa bình do một nhóm trí thức khởi xướng, phong trào tổ chức các cuộc biểu tình chống Pháp, chống Mĩ rầm rộ tại Sài Gòn. Các cuộc biểu tình được đông đảo công chúng Sài Gòn, Gia Định, Chợ Lớn ủng hộ nồng nhiệt, nhất là học sinh các trường trung học Sài Gòn, nổi bật nhất là Trường Pétrus Ký. Trong cuộc biểu tình ngày 9-1-1950 Trần Văn Ơn đi đầu đoàn biểu tình, ông bị cảnh sát Sài Gòn bắn tử thương trong lúc ông đang tìm cách giải thoát cho các nữ sinh thoát khỏi vòng vây. Trần Văn Ơn được nhân dân đưa vào bệnh viện cấp cứu, nhưng vì vết thương quá nặng, ông mất tại Bệnh viện Chợ Rẫy ngày 10-1-1950 mới vừa 19 tuổi. Liền sau đó Phong trào hòa bình (gồm Ls. Nguyễn Văn Dưỡng, Nguyễn Hữu Thọ, Nhạc sĩ Lê Thương) tổ chức lễ truy điệu Trần Văn Ơn tại Sài Gòn. Cái chết của ông và các bạn khác là niềm thôi thúc giúp nhạc sĩ Lê Thương Ngô Đình Hộ (1914-1996) hinh thành bài ca Học sinh hành khúc như một bản tuyên ngôn của Phong trào học sinh (thành viên của Phong trào Hòa Bình) Việt Nam hồi năm 1950 tại Sài Gòn."
+  "motherName" : {
+    "Lê Thị Bình" : null
+  },
+  "eraName" : {
+    "Nhà Nguyễn" : null
+  },
+  "id" : 1174,
+  "entityName" : "Nguyễn Hữu Thị Lan",
+  "aliases" : [ "Jeanne Mariette Nguyễn Hữu Thị Lan" ],
+  "overview" : "Nam Phương hoàng hậu (chữ Hán: 南芳皇后; 14 tháng 12 năm 1914 - 16 tháng 9 năm 1963) là hoàng hậu của hoàng đế Bảo Đại thuộc triều đại nhà Nguyễn trong lịch sử Việt Nam."
 }

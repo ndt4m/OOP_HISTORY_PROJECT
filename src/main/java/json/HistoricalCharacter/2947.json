@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Vua",
-  "workTenure": "1377—1388",
-  "fatherName": {
-    "Trần Duệ Tông": 467
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Văn thần đời Tây Sơn, không rõ họ tên",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Tây Sơn" : 21
   },
-  "motherName": {},
-  "eraName": {
-    "Nhà Trần": 15
-  },
-  "id": 2947,
-  "entityName": "Trần Phế Đế",
-  "aliases": [],
-  "overview": "Trần Phế Đế có thể là một trong những vị vua sau:\n----------------------------------------------\nTrần Phế Đế (chữ Hán: 陳廢帝 6 tháng 3 năm 1361 - 6 tháng 12 năm 1388), hiệu Giản Hoàng (簡皇), là vị hoàng đế thứ 11 của nhà Trần nước Đại Việt. Ông ở ngôi từ năm 1377 đến khi bị phế vào năm 1388, tổng cộng hơn 10 năm trị vì."
+  "id" : 2947,
+  "entityName" : "Hiến Chương Hầu",
+  "aliases" : [ "Hiến Chương Hầu" ],
+  "overview" : "Ông phò tá Tây Sơn đắc lực. Sau khi Quang Trung mất, ông vẫn hết lòng với nhà Tây Sơn đến cùng, ông làm đến Tả thị lang bộ Công, Tham tri bộ Hình. Tân dậu 1801, khoảng đầu năm ông vâng lệnh viên Trấn thủ Nghệ An là Thân Quận Công Nguyễn Văn Thận đem lễ vật gồm vàng, lụa và thóc gạo đến trao tặng La Sơn phu tử Nguyễn Thiếp... Sau đó nhà Tây Sơn mất, ông mai danh ẩn tích không cộng tác với Gia Long."
 }

@@ -35,37 +35,23 @@ u
 java:S1149t"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
 v
 java:S1149ƒ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(­ı†Ö
-X
-java:S1161‚":Add the "@Override" annotation above this method signature(ÿ–­ë8³ìçÈ’1
-]
-java:S1161Š":Add the "@Override" annotation above this method signature(­Œ¬ƒøÿÿÿÿ8ºìçÈ’1
 p
 java:S1450–"ZRemove the "rawSentence" field and declare it as a local variable in the relevant methods.(ÒÁ·
 l
 java:S1450—"URemove the "tokens" field and declare it as a local variable in the relevant methods.(çÖÇî
 k
 java:S1450š"TRemove the "words" field and declare it as a local variable in the relevant methods.(Ñ•şº
-u
-java:S2177¬"WRename this method; there is a "private" method in the parent class with the same name.(´„öï8ÓìçÈ’1
-z
-java:S2177¹"WRename this method; there is a "private" method in the parent class with the same name.(Ä•¤äùÿÿÿÿ8ÙìçÈ’1
 F
 java:S3416Ğ"/Update this logger to use "NewVNCoreNLP.class".(÷ñ¤
 \
 java:S1124Ğ"EReorder the modifiers to comply with the Java Language Specification.(÷ñ¤
-X
-java:S1161â":Add the "@Override" annotation above this method signature(£ß˜ã8¬íçÈ’1
 =	java:S131ä""Add a default case to this switch.(Îê’‹ÿÿÿÿÿ
-
-java:S1130ö"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(À¾´Ãøÿÿÿÿ8ÅíçÈ’1
 W	java:S125†"<This block of commented-out lines of code should be removed.(İÜ˜Ëşÿÿÿÿ
 a
 java:S1124œ"EReorder the modifiers to comply with the Java Language Specification.(Ã‹éıÿÿÿÿ
 Q
 java:S1854Æ":Remove this useless assignment to local variable "output".(±ØŸÕ
 W	java:S125µ"<This block of commented-out lines of code should be removed.(Ÿ¿ÿüÿÿÿÿÿ
-q
-java:S3252É"SUse static access with "vn.corenlp.wordsegmenter.Vocabulary" for "VN_FAMILY_NAMES".(˜8§îçÈ’1
 s
 java:S3008ß"]Rename this field "VN_ETHNICITY_NAMES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô»²L
 n
@@ -74,12 +60,6 @@ I
 java:S2386â"-Make member "VN_ETHNICITY_NAMES" "protected".(ØÏØ™ıÿÿÿÿ
 C
 java:S2386¥"'Make member "VN_ERA_NAMES" "protected".(ËÏ³ıÿÿÿÿ
-N
-java:S1128",Remove this unused import 'javax.print.Doc'.(ö«‘™ıÿÿÿÿ8ñïçÈ’1
-s
-java:S1128"QRemove this unused import 'edu.emory.mathcs.nlp.component.template.node.FeatMap'.(õôÔÌüÿÿÿÿ8ñïçÈ’1
-V
-java:S1128""4Remove this unused import 'org.jsoup.nodes.Element'.(ıƒ‘öşÿÿÿÿ8ñïçÈ’1
 @
 java:S1068d"*Remove this unused "tokens" private field.(çÖÇî
 K

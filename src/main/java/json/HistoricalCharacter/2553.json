@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 2553,
-  "entityName": "nhà Đông Tấn",
-  "aliases": [],
-  "overview": "Nhà Tấn (giản thể: 晋朝; phồn thể: 晉朝; bính âm: Jìn Cháo; Wade–Giles: Chin⁴-ch\u0027ao², phát âm tiếng Trung: [tɕîn tʂʰɑ̌ʊ]; 266–420 theo dương lịch), là một trong Lục triều trong lịch sử, sau thời Tam Quốc và trước thời Nam Bắc triều ở Trung Quốc. Triều đại này do họ Tư Mã thành lập."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê xã Lại An, quận Hàm Thuận, tỉnh Bình Thuận",
+  "occupation" : "Nhà yêu nước",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
+  },
+  "id" : 2553,
+  "entityName" : "Ung Chiếm",
+  "aliases" : [ ],
+  "overview" : "Tính ông khảng khái, cương trực, thường bênh vực kẻ cô thế, thường chống bọn cường hào ác bá. Sau khi thành Huế thất thủ, vua Hàm Nghi xuất bôn ra chiếu Cần vương, ông là người hưởng ứng sớm nhất ở Bình Thuận lập các đạo quân \"Nghĩa dũng\" chiến đấu chống Pháp. Đến lúc đạo quân đánh thuê do Trần Bá Lộc cầm đầu truy bức, ông bệnh mất trong chiến khu."
 }

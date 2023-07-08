@@ -1,16 +1,18 @@
 {
-  "dateOfBirth": "Ất Hợi 1935",
-  "dateOfDeath": "Mậu Thân 1968",
-  "hometown": "quê xã Tân Mĩ, huyện Đức Hòa, tỉnh Long An",
-  "occupation": "Liệt sĩ, anh hùng lực lượng võ trang",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "954\n----------------------------------------------\nGiáp Dần 954",
+  "hometown" : "Hà Tây",
+  "occupation" : "Con trưởng Ngô Quyền, anh ruột Nam Tấn vương Ngô Xương Văn.",
+  "workTenure" : "951 – 954\n----------------------------------------------\nKhông rõ",
+  "fatherName" : {
+    "Ngô Quyền" : 1285
   },
-  "id": 1896,
-  "entityName": "Lê Minh Xuân",
-  "aliases": [],
-  "overview": "Năm 1963, ông nhập ngũ vào quân đội Giải Phóng, từng chỉ huy từ Tiểu đội trưởng đến Trung đoàn phó, Tư lệnh phó quân khu 2. Từ 1964 đến 1967 ông chỉ huy Tiểu đoàn 6 bám trụ, tiêu diệt nhiều địch, giữ vững căn cứ kháng chiến. Trong cuộc tổng tấn công tết Mậu Thân 1968, tiểu đoàn của ông đánh vào phía tây Sài Gòn, chiếm nhiều mục tiêu quan trọng và trụ lại trong thành phố lâu nhất. Sau khi đơn vị rút ra vùng ven, vẫn tìm cách đánh trả đich. Năm 1968 trong một trận Mậu thân đợt 2, tấn công vào Chợ Lớn, ông hi sinh ở cầu Bình Tân và được truy phong anh hùng lực lượng vũ trang QĐNDVN."
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Ngô" : 25
+  },
+  "id" : 1896,
+  "entityName" : "Ngô Xương Ngập",
+  "aliases" : [ "Ngô Xương Ngập (吳昌岌)" ],
+  "overview" : "Ngô Xương Ngập (chữ Hán: 吳昌岌) là một vị vua nhà Ngô, trị vì từ 951 đến 954 cùng với em trai là Ngô Xương Văn. Sử gọi chung đó là thời Hậu Ngô Vương.\n----------------------------------------------\nKhi Ngô Quyền mất, di chúc nhờ anh vợ là Dương Tam Kha phụ chính. Nhưng Tam Kha cướp quyền, khiến Xương Ngập phải bỏ trốn, Xương Văn thì bị Tam Kha giữ làm con nuôi. Ông trốn tại làng Trà Hương, nhờ cựu thần Phạm Lịnh Công nuôi giấu. Nhiều lần Tam Kha sai người đến bắt, đều nhờ Phạm Lịnh Công che chở tận tình, ông mới được an thân chờ vận. Trốn tránh suốt 6 năm, đến Tân hợi 951, em ông là Xương Văn lật đổ được Tam Kha, khôi phục lại chính quyền, cho rước ông về cùng trị nước. Ông xưng là Thiên Sách vương, từ ấy có ý giành hết quyền hành. Em ông khéo nhân nhượng, nhờ vậy đỡ sự hiềm khích anh em. Nhưng chỉ được 3 năm thì ông mất (Giáp dần 954), Nam Tấn Vương Xương Văn trị nước được thêm hơn 10 năm thì mất (965). Bấy giờ con Ngô Xương Ngập là Xương Xí lên nối nghiệp, trong nước nhiều nơi loạn lạc. Xương Xí chỉ còn một sứ quân, nghiệp nhà Ngô tàn lụi."
 }

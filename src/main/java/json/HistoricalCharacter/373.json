@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "23 tháng 1, 1963 (54 tuổi) thị trấn Phú Xuyên, huyện Phú Xuyên, Hà Nội, Việt Nam Dân chủ Cộng hòa",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "chính trị gia, luật sư",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 373,
-  "entityName": "Nguyễn Chiến",
-  "aliases": [
-    "Nguyễn Văn Chiến"
-  ],
-  "overview": "Nguyễn Chiến (tên thật là Nguyễn Văn Chiến, sinh ngày 23 tháng 1 năm 1963) là một luật sư và chính trị gia Việt Nam. Ông hiện là đại biểu quốc hội Việt Nam khóa XIV nhiệm kì 2016-2021, thuộc đoàn đại biểu quốc hội thành phố Hà Nội. Ông là Ủy viên Ủy ban Tư pháp của Quốc hội Việt Nam . Ông hiện là Phó Chủ tịch Liên đoàn Luật sư Việt Nam, Chủ nhiệm Đoàn Luật sư thành phố Hà Nội, Giám đốc Công ty Luật Nguyễn Chiến; Ủy viên Hội đồng phối hợp, phổ biến giáo dục pháp luật Trung ương. Ông là một trong 3 luật sư trúng cử đại biểu quốc hội Việt Nam khóa XIV."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Võ tướng đời Lê Hiển tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
+  "id" : 373,
+  "entityName" : "Bùi Thế Dận",
+  "aliases" : [ ],
+  "overview" : "Năm 1766 Tây Sơn cất quân ra đánh Bắc Hà, các đạo quân do Nguyễn Hữu Chỉnh chỉ huy đánh đâu thắng đấy, kéo thẳng tới Sơn Nam. Lúc này ông đang trấn thủ ở đấy, điều động bộ binh xuống đóng ở xã Phù Sa, thuộc huyện Đông An, chống nhau với Nguyễn Hữu Chỉnh. Thua to, Sơn Nam thất thủ. Từ ấy tên tuổi ông mờ dần, thời oanh liệt không còn nữa. Ông cùng các tướng Bùi Thế Toại, Tạ Danh Thùy, Đinh Tích Nhưỡng, Trịnh Tự Quyền được vua Lê phong tước Liên Trung Hầu."
 }

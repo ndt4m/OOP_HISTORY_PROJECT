@@ -1,20 +1,18 @@
 {
-  "dateOfBirth": "Nhâm Dần 1902",
-  "dateOfDeath": "Giáp Ngọ 1954",
-  "hometown": "quê làng Trung Tự, huyện Hoàn Long, Hà Nội (nay thuộc quận Đống Đa, TP",
-  "occupation": "Pháp sư, Cư sĩ Phậtgiáo, nhà giáo dục",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Vua",
+  "workTenure" : "951—954",
+  "fatherName" : {
+    "Ngô Quyền" : 1285
   },
-  "id": 1560,
-  "entityName": "Nguyễn Hữu Kha",
-  "aliases": [
-    "Thiều Chửu",
-    "Lạc Khổ"
-  ],
-  "overview": "Ngay từ tuổi niên thiếu ông là người đã hiểu đạo Phật, am tường Nho học, thông thạo các ngoại ngữ Pháp, Anh, Nhật, Hán ngữ nên có điều kiện nghiên cứu sâu về giáo lý đạo Phật qua các nguồn tư liệu Đông Tây. Ông sống một cuộc đời rất giản dị, trường trai và mỗi ngày chỉ ăn một bữa, y phục của ông chỉ một bộ nâu sồng. Suốt ngày dành thì giờ cho việc nghiên cứu, dịch kinh Phật, và làm việc từ thiện. Từ những năm 20 tuổi (1922-1923) ông đã có một căn bản Nho học thâm sâu, từ đó ông ra công nghiên cứu và tu học giáo lí đạo Phật một cách vững vàng. Thời điểm này (1934) ông cùng các học giả Nguyễn Đỗ Mục, Trần Văn Giáp, Trần Trọng Kim, Bùi Kỉ... đứng ra vận động thành lập Hội Phật giáo Bắc Kì nhằm đào tạo tăng ni và chấn hưng Phật giáo theo con đường đạo pháp và dân tộc. Năm 1935 - ông phụ trách, quản lí tạp chí Đuốc tuệ là cơ quan hoằng pháp của Hội Phật giáo Bắc Kì. Năm 1946 ông được chủ tịch Hồ Chí Minh mời giữ chức Bộ trưởng Bộ Giáo dục, ông từ chối với lí do tiếp tục công tác Phật sự, giáo dục và xã hội. Thời gian này cùng các hòa thượng Tố Liên, Trí Hải... thành lập Hội cứu tế (tại chùa Quán Sứ - Hà Nội) giúp người nghèo khổ, nuôi dạy trẻ con mồ côi không nơi nương tựa. Sau toàn quốc kháng chiến (19-2-1946) ông cùng Hội cứu tế tản cư lên vùng kháng chiến (Sơn Tây, Phúc Yên, Thái Nguyên...) tiếp tục làm công tác xã hội, giáo dục mà ông tự nguyện đảm đương từ lâu. Những ngày tham gia kháng chiến ông chứng kiến một số sự kiện phát xuất từ phong trào cải cách ruộng đất, cải tạo tư sản, địa chủ, trí thức, nên ông tự kết liễu đời mình bằng cách tự trầm tại sông Đuống (Đồng Mĩ, Thái Nguyên) vào ngày 15-7-1954. (Theo sách Các danh tăng Việt Nam Thành hội Phật giáo TP. HCM). Cư sĩ Thiều Chửu là một nhà Phật học uyên thâm, am tường sâu sắc giáo lí đạo Phật, ông đã để lại cho đời một sự nghiệp trước tác về Phật học làm giàu cho thư tịch, cũng như văn hóa Việt Nam. Các tác phẩm chính: - Phật học cương yếu - Khóa hư lục diễn giải - Sự tích Phật tổ - Quan âm Thị Kính - Cải tà qui chính - Thế nào là Phật, là Phật pháp - Lục tổ Đàn kinh (tức Lục tổ Huệ Năng và kinh pháp Bảo đàn) - Con đường học Phật thế kỉ XX này - Nhòm qua cửa Phật - Bốn mươi tám phép niệm Phật Nhất là bộ Hán Việt tự điển là một bộ sách công cụ có giá trị vượt thời gian. Ngoài ra, ông còn là một dịch giả với các cuốn: - Vì sao tôi tin Phật giáo (của B. Brongthon) - Kinh lễ sáu phương - Kinh Di giáo - Ki nh Di Dà - Kinh Tứ thập nhị chương..."
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Ngô và Dương Tam Kha" : 25
+  },
+  "id" : 1560,
+  "entityName" : "Thiên Sách Vương",
+  "aliases" : [ ],
+  "overview" : "Ngô Xương Ngập (chữ Hán: 吳昌岌; 915? - 954) là một vị vua nhà Ngô, trị vì từ 951 đến 954 cùng với em trai là Ngô Xương Văn. Sử gọi chung đó là thời Hậu Ngô Vương."
 }

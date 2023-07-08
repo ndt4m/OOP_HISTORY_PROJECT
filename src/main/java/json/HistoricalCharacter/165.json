@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "4 tháng 2 năm 1904 Nam Ninh, Quảng Tây, Nhà Thanh",
-  "dateOfDeath": "11 tháng 7 năm 1992 (88 tuổi) Bắc Kinh, Cộng hòa Nhân dân Trung Hoa",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 165,
-  "entityName": "Đặng Dĩnh Siêu",
-  "aliases": [],
-  "overview": "Đặng Dĩnh Siêu (Bính âm: 邓颖超, 4 tháng 2 năm 1904 – 11 tháng 7 năm 1992), là vợ của Thủ tướng đầu tiên Cộng hòa Nhân dân Trung Hoa Chu Ân Lai và cũng là nhà cách mạnh vô sản, nhà chính trị, nhà hoạt động xã hội nổi tiếng, người đi đầu trong phong trào phụ nữ Trung Quốc. Từng giữ qua các chức vụ: Ủy viên Bộ Chính trị Ban Chấp hành Trung ương Đảng Cộng sản Trung Quốc khóa XI, XII, Bí thư thứ hai Ủy ban Kiểm tra - Kỷ luật Trung ương Đảng, Chủ tịch Hội nghị Hiệp Chính từ năm 1983 – 1988 và là đảng viên Đảng Cộng sản Trung Quốc."
+  "dateOfBirth" : "Bính Tí 1756",
+  "dateOfDeath" : "Đinh Mùi 1787",
+  "hometown" : "quê làng Tri Chỉ, huyện Phú Xuyên",
+  "occupation" : "Văn thần cuối đời Hậu Lê",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
+  "id" : 165,
+  "entityName" : "Ngô Nho",
+  "aliases" : [ ],
+  "overview" : "Năm Ất tị 1785, ông đỗ tiến sĩ, 29 tuổi (các sách khác chép là đỗ năm Giáp thìn 1784, chúng tôi theo Đăng khoa lục). Làm quan đến Hộ khoa Cấp sự trung. Thuở trẻ ông nổi tiếng hiếu học, khi thi đỗ, cảm ơn tri ngộ của Trần Công Xán, ông tôn Trần làm thầy. Tính ông khảng khái cương trực, không xu nịnh đám quyền thần đương thời. Nghĩa quân Tây Sơn dấy lên, phù Lê diệt Trịnh. Trần Công Xán tiếp cử ông làm phó sứ, cùng đi với Trần và Lê Duy Án vào Phú Xuân thương nghị về đất Nghệ An đã bị chiếm. Tây Sơn bắt giam ông và Trần cùng tất cả sứ bộ ở ngục Phú Xuân. Ít lâu sau, Tây Sơn cho thuyền đưa ông, Trần Công Xán và các nhân viên sứ bộ trở về. Nhưng đến cửa bể Nghệ An, thuyền chìm, ông và cả sứ bộ đều chết đuối trong năm Đinh mùi 1787, hưởng dương 31 tuổi."
 }

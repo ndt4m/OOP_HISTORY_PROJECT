@@ -1,16 +1,21 @@
 {
-  "dateOfBirth": "10 tháng 5, 1938 (80 tuổi) Huế",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {
-    "Đặng Văn Ngữ": 1520
+  "dateOfBirth" : "Bính Ngọ 1906",
+  "dateOfDeath" : "Giáp Thìn 1964",
+  "hometown" : "sinh tại làng Đồng Nhân, Hà Nội, con ông Lê Văn Kỳ và bà Nguyễn Thị Sâm, gốc người Hà Đông, lên lập nghiệp ở Bắc Giang",
+  "occupation" : "Nhà văn bút ",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "Lê Văn Kỳ" : null
   },
-  "motherName": {},
-  "eraName": {},
-  "id": 237,
-  "entityName": "Đặng Nhật Minh",
-  "aliases": [],
-  "overview": "Đặng Nhật Minh (sinh năm 1938) là đạo diễn nổi tiếng của nền điện ảnh Việt Nam với những bộ phim như Cô gái trên sông, Thương nhớ đồng quê, Mùa ổi... Đặc biệt với phim Bao giờ cho đến tháng Mười được nhiều hãng thông tấn đánh giá là một trong những phim hay nhất châu Á mọi thời đại. Hầu hết các bộ phim do ông làm đạo diễn đã đoạt nhiều giải thưởng tại các liên hoan phim trong và ngoài nước. Ông từng giữ chức vụ tổng thư ký Hội Điện ảnh Việt Nam và được phong tặng danh hiệu Nghệ sĩ nhân dân. Năm 2007, ông được Nhà nước Việt Nam phong tặng Giải thưởng Hồ Chí Minh chuyên ngành điện ảnh."
+  "motherName" : {
+    "Nguyễn Thị Sâm" : null
+  },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
+  },
+  "id" : 237,
+  "entityName" : "Lê Văn Trương",
+  "aliases" : [ "Cô Lý" ],
+  "overview" : "Ông học đến năm thứ hai trường Trung học Bảo hộ (Truờng Bưởi) thì bị đuổi vì cùng một vài bạn cầm đầu cuộc phản kháng chống lại Hiệu trưởng Pháp đã mắng học sinh: \"Sale Annamite\". Năm 1926, ông đậu chuyên viên sở Bưu điện, bổ đi làm tại Phnom-Penh rồi đi Monkolboray, được vài năm ông bỏ nghề công chức (1930) đi khai khẩn đồn điền ở Lovéa, Battambang. Bị phá sản, ông đi làm thầu khoán, đi săn, đôi khi buôn lậu sang Thái Lan, Trung Quốc, rồi trở về nước viết văn, làm báo từ năm 1932. Ông cộng tác với báo Trung Bắc tân văn nhà xuất bản Tân Dân và các cơ quan ngôn luận của nhà xuất bản này. Trong kháng chiến chống Pháp, ông có tham gia một thời gian và vào bộ đội, nhưng đến năm 1953 ông hồi cư về Hà Nội. Cộng tác với báo Mới ở Sài Gòn. Sau đó ông vào Nam làm thầu khoán, viết báo, tái bản sách. Từ 1959 làm việc cho Đài phát thanh Sài Gòn, nhưng chẳng bao lâu thì bị nghi kị, sa thải. Ngày 25-2-1964 ông mất tại Sài Gòn, hưởng dương 58 tuổi. Ông chuyên viết tiểu thuyết các tác phẩm của ông đã xuất bản có hơn 100 cuốn được hoan nghênh đối với độc giả thích \"thuyết sức mạnh\" để tạo nên một mẫu \"người hùng\"."
 }

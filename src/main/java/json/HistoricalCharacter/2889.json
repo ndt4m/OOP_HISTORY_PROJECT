@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Quê làng An Biên (tục gọi làng Vẻn), huyện Đông Triều, tỉnh Hải Dương",
-  "occupation": "Nữ tướng thời Trưng vương",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trưng Nữ Vương": 10
+  "dateOfBirth" : "Quí Sửu 1913",
+  "dateOfDeath" : "Nhâm Thìn 1952",
+  "hometown" : "quê ở Bạch Mai, Hà Nội",
+  "occupation" : "Nhà văn ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 2889,
-  "entityName": "Lê Chân",
-  "aliases": [],
-  "overview": "Thân phụ bà bị Thái thú Tô Định giết. Quyết báo phục thù nhà nợ nước, bà cùng các nữ tướng theo giúp Hai Bà Trưng khởi nghĩa. Trong các trận đánh, bà thường được cử đi tiên phong, dũng cảm có tiếng. Đuổi được quân xâm lược. Trưng nữ vương rất trọng vọng bà, giao cho coi việc quốc phòng. Để nung chí chiến đấu của dân quân, bà thường mở cuộc thi võ và diễn võ hai ba ngày liên tiếp. Tương truyền bà đã nghĩ ra môn thề thao đánh phết còn lưu đến ngày nay. Tân sửu 41, Hán Quang Võ lại sai Mã Viện sang xâm chiếm. Bà quyết chiến với giặc nhiều trận ác liệt, tử trận nơi cánh đồng làng Mai Động. Về sau, dân làng lập đền thờ bà. Các triều vua đều có ban sắc, phong bà là Thượng đẳng phúc thần, Công chúa. Hàng năm, nhân dân vẫn có mở hội long trọng tưởng niệm bà vào 3 ngày 4, 5, 6 tháng giêng, có cuộc dâng phết hào hứng."
+  "id" : 2889,
+  "entityName" : "Nguyễn Đình Lạp",
+  "aliases" : [ "Yến Đình" ],
+  "overview" : "Ông chuyên viết tiểu thuyết xã hội, nổi tiếng trước ngày Cách mạng tháng Tám. Đến cuộc kháng chiến chống Pháp, ông tích cực tham gia trong hội Văn nghệ nhiệt thành đóng góp tâm huyết trên mặt trận văn hóa, văn nghệ. Năm Nhâm thìn 1952, ngày 24-4 dương lịch ông mất tại chiến khu Thạch Thành tỉnh Thanh Hóa, hưởng dương 39 tuổi. Các tác phẩm của ông: - Thanh niên trụy lạc (1937) - Những vụ án tình (1938) - Chợ phiên đưa tới đâu (1937) - Cường hào (1938) - Ngoại ô (1941) - Ngõ hẻm (1943) - Làng Cảnh Dương (1947) Ngoài ra còn một số truyện ngắn và bài biên khảo đăng trên báo. Nguyễn Đình Lạp là một nhà văn hiện thực của nước ta vào thời chữ Quốc ngữ còn đang trong thời kì phát triển."
 }

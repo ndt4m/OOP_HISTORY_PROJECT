@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê ở quận Cửu Chân, trấn Thanh Hóa",
-  "occupation": "Văn thần đời Lý Nhân tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Lý": 14
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Giáp Ngọ 1294",
+  "hometown" : "Không rõ",
+  "occupation" : "Danh thần đời Trần Thánh tông, giỏi biện thuyết",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Trần" : 15
   },
-  "id": 2533,
-  "entityName": "Châu Văn Thuờng",
-  "aliases": [],
-  "overview": "Làm chức Thự mẫn thư lang, quản công ngự phủ, đồng trung thư kiệm biên tu. Ông có soạn bài Kí bia chùa Báo Ân núi An Hoạch (An Hoạch sơn Báo Ân tự bi kí) ghi công nghiệp Lý Thường Kiệt."
+  "id" : 2533,
+  "entityName" : "Đinh Củng Viên",
+  "aliases" : [ ],
+  "overview" : "Năm Canh ngọ 1270, gặp khi Nguyên Thế tổ sái sứ sang khiến vua Trần phải nộp biểu xưng thần, ông cùng với đại phu Lê Đà sang sứ nhà Nguyên để biện bạch, quyết không để nhục quốc thể. Vua Nguyên tông bảo: - Quân của thiên triều đi đến đâu san bằng đến đó, không ai dám đương cự, trái mạng, sao chúa các người không rõ phận nước nhà toan địch thể với ta sao? Ông thản nhiên đáp: - Nếu nhà vua định đem điều nhân nghĩa mà khiến mọi nguời kính nể thì mới thuyết phục được chúng tôi. Nếu đem binh lực ra dọa nạt, thì dù nhỏ, nước tôi vẫn có binh hùng tướng dũng, có núi non hiểm trở để ngăn chặn và thù tiếp binh thiên triều. Thấy ông biểu dương tinh thần bất khuất của dân tộc ta, Nguyên Thế tổ mến phục. Do đó tránh được việc binh đao một thời gian. Ông làm quan ở Viện Hàn lâm, nổi tiếng thơ văn. Và sau cuộc đi sứ Nguyên về, ông được ca tụng là trang biện sĩ ưu tú."
 }

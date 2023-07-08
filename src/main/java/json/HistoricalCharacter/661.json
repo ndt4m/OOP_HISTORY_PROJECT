@@ -1,19 +1,17 @@
 {
-  "dateOfBirth": "Mậu Ngọ 1918",
-  "dateOfDeath": "Nhâm Tuất 1982",
-  "hometown": "Nam Định",
-  "occupation": "Nhà văn",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "15 tháng 3, 1920 Lương Hòa, Giồng Trôm, Bến Tre, Việt Nam\n----------------------------------------------\nCanh Thân 1920",
+  "dateOfDeath" : "26 tháng 8, 1992 (72 tuổi) Bến Tre, Việt Nam\n----------------------------------------------\nNhâm Thân 1992",
+  "hometown" : "quê xã Lương Hòa, huyện Giồng Trôm, tỉnh Bến Tre",
+  "occupation" : "Thuộc\n----------------------------------------------\nNữ tướng lãnh QĐND Việt Nam",
+  "workTenure" : "1936 - 1992\n----------------------------------------------\nKhông rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 661,
-  "entityName": "Nguyễn Nguyên Hồng",
-  "aliases": [
-    "Nguyên Hồng"
-  ],
-  "overview": "Cha mất sớm, nhà nghèo, từ 1935 ông cùng mẹ ra Hải Phòng kiếm sống, vừa viết văn, vừa dạy tư trong xóm nghèo cho con em những gia đình cùng khổ. Từ 1937 đến 1939 ông tham gia phong trào Mặt trận Dân chủ ở Hải Phòng. Thời gian này ông sáng tác nhiều truyện ngắn đăng ở các báo Tiểu thuyết thứ bày, Ngày nay, Thế giới, Mới, Người mới, Đông Dương. Ngày 29-9-1939, ông bị bắt ở Hải Phòng, bị kết án 6 tháng tù, rồi lại bị đưa đi trại tập trung ở Hà Giang. Đến tháng 11-1941 được thả về, nhưng văn phải quản thúc ở Nam Định. Năm 1943, ông bí mật tham gia Hội Văn hóa Cứu quốc, từ ấy ông càng tích cực hoạt động trên lãnh vực văn hóa. Năm 1948, được kết nạp vào Đảng Cộng sản Đông Dương. Ông từng tham gia Ban chấp hành Hội Nhà văn Việt Nam (1957), phụ trách trường Bồi Dưỡng lực lượng viết văn trẻ, Ban Văn học Công nhân và là chủ tịch Hội Văn nghệ Hải Phòng. Ngày 2-5-1982 ông mất tại xã Quang Tiến, huyện Tiên Yên, tỉnh Hà Bắc, thọ 64 tuổi. Các tác phẩm chính của ông đã xuất bản: Bỉ vỏ, Bảy Hựu, Những ngày thơ ấu, Cuộc sống, Qua những màn tối, Quán nãi, Địa ngục và lò lửa, Đêm giải phóng, Sóng gầm, Sức sống của ngòi bút, Bước đường viết văn, Thời kỳ đen tối, Sông núi quê hương, Cửa biển, Núi rừng Yên Thế…"
+  "id" : 661,
+  "entityName" : "Nguyễn Thị Định",
+  "aliases" : [ "Madame Nguyễn Thị Định", "Bích Vân" ],
+  "overview" : "Nguyễn Thị Định (15 tháng 3 năm 1920 – 26 tháng 8 năm 1992), còn gọi là Madame Nguyễn Thị Định, Ba Định) (bí danh Bích Vân, Ba Tấn, Ba Nhất và Ba Hận ); là nữ tướng đầu tiên của Quân đội Nhân dân Việt Nam.\n----------------------------------------------\nXuất thân trong một gia đình nông nghiệp, tham gia hoạt động cách mạng từ năm 1938, năm 1940 bị bắt đày đi Bà Rá (nay thuộc tỉnh Bình Phước), năm 1945 vượt ngục về tham gia khởi nghĩa ở Bến Tre. Năm 1946 ra miền Bắc gặp trung ương đảng rồi về Nam kháng chiến. Năm 1954 ở lại hoạt động ở miền Nam cho đến ngày 30-4-1975. Các năm từ 1960-1969 là tỉnh ủy viên rồi bí thư tỉnh ủy Bến Tre, phó tư lệnh lực lượng Quân Giải phóng miền Nam Việt Nam, Chủ tịch hội liên hiệp Phụ nữ, năm 1974 là Ủy viên Ban chấp hành Trung ương ĐCSVN, rồi Thứ trưởng Bộ Thương binh xã hội cho đến ngày mất. Các chức vụ bà từng kinh qua: - Bí thư tỉnh ủy Bến Tre. - Ủy viên Đoàn chủ tịch ủy ban Trung ương MTDTGP miền Nam Việt Nam. - Phó tư lệnh Quân Giải phóng miền Nam Việt Nam. - Hội trưởng Hội phụ nữ giải phóng miền Nam Việt Nam. - Phó chủ tịch Hội đồng nhà nước Việt Nam. - Đại biểu Quốc hội khóa VI, VII, VIII. Bà được phong là Anh hùng lực lượng vũ trang Việt Nam và nhiều huân chương danh dự khác; trong đó có Huân chương Hồ Chí Minh. Bà mất ngày 26-8-1992, thọ 72 tuổi."
 }

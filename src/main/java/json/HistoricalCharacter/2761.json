@@ -1,21 +1,16 @@
 {
-  "dateOfBirth": "Quí Tị 1413",
-  "dateOfDeath": "Quí Mùi 1463",
-  "hometown": "Hà Tây",
-  "occupation": "Sau ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Triều Lê Sơ": 7
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Chiên Đàn, tổng Chiên Đàn trung, huyện Lễ Dương, tỉnh Quảng Nam, sau đổi là huyện Hà Đông, tỉnh Quảng Nam (nay là xã Tam Đàn, huyện Phú Ninh, tỉnh Quảng Nam)",
+  "occupation" : "Danh tướng, Đô đốc thủy quân nhà Tây Sơn, không rõ năm sinh, năm mất, quê làng Chiên Đàn, tổng Chiên Đàn trung, huyện Lễ Dương, tỉnh Quảng Nam",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Tây Sơn" : 21
   },
-  "id": 2761,
-  "entityName": "Hoàng Tịnh Thanh",
-  "aliases": [
-    "Hoàng Thanh",
-    "Trúc Khê",
-    "Trình Thanh",
-    "Trực Khanh"
-  ],
-  "overview": "Hoàng Thanh có thể là:\n----------------------------------------------\nQuê xã Lương Xá, huyện Chương Đức phủ ứng Thiên, tỉnh Hà Đông (nay là Hà Tây). Năm Tân hợi 1431, ông đỗ khoa Hoành từ, 18 tuổi nổi tiếng văn học đương thời. Ông làm Chánh chưởng Nội mật viện (Quí hợi 1443), rồi thăng Hàn lâm thị độc (1447), Tham tri (1462), hai lần làm Phó sứ sang nhà Minh: lần I trong năm 1443, lần II năm 1459. Khi trấn nhậm ở biên cương, ông dâng sớ điều trần khuyên nhà vua tiết kiệm, khéo dùng người, chăm lo việc vó để giữ nước, giúp dân. Quí mùi 1463 ông mất, thọ 50 tuổi. Con cháu ông về sau đỗ đạt rất nhiều, nghiễm nhiên là một họ có danh vọng thời bấy giờ. Tính ông thanh liêm, thẳng thắn. Lương Nhữ Hộc đề bài tán vào bức di tượng ông: \"Lúc trẻ tuổi quen biết vua Thái tổ, lúc lớn vua Thánh tông tin dùng, sự thể đầy đủ mà dụng được châu đáo. Làm con hiếu, làm bề tôi trung; làm quan bốn triều một lòng sau trước. Thi thư đời ấy, đời khác, cháu chắt theo đường khoa hoạn. Thật là một họ to ở Ứng Thiên\"."
+  "id" : 2761,
+  "entityName" : "Kiều Phụng",
+  "aliases" : [ ],
+  "overview" : "Thuở trẻ ông theo nghĩa quân Tây Sơn phục vụ ở các đội hải thuyền dưới quyền Bắc Bình vương Nguyễn Huệ. Từ các năm 1780-1786, ông từng tham gia và chỉ huy các trận lớn đánh bại các đạo thủy quân của Nguyễn Ánh từ Quảng Ngãi đến Sài Côn (Sài Gòn ngày nay). Ông là người góp công lớn đánh thắng quân Xiêm (Thái Lan) trong trận Rạch Gầm - Xoài Mút ở Mĩ Tho năm 1785 (ngày 18-1) đánh tan mấy vạn quân khiến quân Xiêm phải trốn về nước bỏ cả tàu thuyền, vũ khí. Khi Nguyễn Huệ lên ngôi lấy hiệu là Quang Trung, ông cùng với Đô đốc thủy quân Nguyễn Văn Tuyết tiến đánh vào cửa sông Lục Đầu, vào Hải Dương tiến về Thăng Long hợp với đạo Hữu quân của Đô đốc Long giải phóng Hà Nội trong mùa xuân năm 1789. Kể từ thời điểm này ông vẫn trông coi các đạo hải thuyền trong hải quân của vua Quang Trung đóng tại Bắc hà. Sau chiến thắng Đống Đa năm 1789, ông vẫn phục vụ suốt triều Quang Trung, Cảnh Thịnh. Ông mất trước khi Nguyễn Ánh đánh bại quân triều Cảnh Thịnh. Sau năm 1802, Gia Long trả thù ông bằng cách cho san bằng lăng mộ ông tại Đồng Lăng, làng Chiên Đàn (thuộc TX. Tam Kì ngày nay). Hiện nay khu mộ ông hãy còn dấu tích ở ấp Đồng Lăng tại xã Tam Đàn, thị xã Tam Kì, tỉnh Quảng Nam. Gần đây chính quyền tỉnh Quảng Nam đã có quyết định công nhận là di tích văn hóa lịch sử."
 }

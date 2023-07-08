@@ -1,17 +1,16 @@
 {
-  "dateOfBirth": "1898 Bắc Ninh\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath": "1946\n----------------------------------------------\nBính Tuất 1946",
-  "hometown": "sinh quán tại Hà Nội",
-  "occupation": "Bác sĩ Y khoa, nhà báo, nhà hoạt động xã hội",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Đinh Mão 1807",
+  "dateOfDeath" : "Tân Dậu 1861",
+  "hometown" : "quê làng Kim Bồng (tục gọi làng Bồng) huyện Yên Khánh, tỉnh Ninh Bình, tự là Vĩ Nhân, Trừng Phủ",
+  "occupation" : "Chí sĩ, danh sĩ quê làng Kim Bồng ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 2174,
-  "entityName": "Nguyễn Văn Luyện",
-  "aliases": [],
-  "overview": "\n----------------------------------------------\nTốt nghiệp Bác sĩ Y khoa nhưng không làm công chức mà mở phòng mạch tư, từng ủng hộ phong trào Việt Minh từ những ngày đầu. Thành viên ban sáng lập Hội Tân Việt Nam, Đảng Dân chủ Việt Nam cùng với Dương Đức Hiền, Vũ Đình Hòe... hoạt động tại Hà Nội. Năm 1945 tham gia, ủng hộ khởi nghĩa ở Hà Nội, đắc cử Đại biểu Quốc hội khóa I năm 1946 thuộc đơn vị Hà Nội, Trưởng ban Tài chánh Kế toán Quốc hội, Ủy viên chính thức Ban Thường vụ Quốc hội năm 1946. Tháng 4 năm 1946 ông được đề cử tham gia phái đoàn hội nghị Đà Lạt, hội nghị thất bại đưa đến cuộc kháng chiến chống Pháp toàn quốc. Ngay trong đêm 19-12-1946 súng nổ tại Hà Nội, ông cùng con trai lớn tiếp tay săn sóc các thương bệnh binh tại các chiến trường chuyển về. Ông và con trai hi sinh ngay giữa lòng Hà Nội trong đêm 19-12-1946. Ông là đồng tác giả: - Hiến pháp năm 1946 của chính thể Việt Nam dân chủ cộng hòa - Đảng Cương đảng Dân chủ Việt Nam Và nhiều chuyên đề trên các báo ở Hà Nội."
+  "id" : 2174,
+  "entityName" : "Võ Duy Thanh",
+  "aliases" : [ "Trạng Bồng" ],
+  "overview" : "Ông đỗ Bảng nhãn, tài đáng Trạng nguyên, nên đương thời gọi ông là Bảng Bồng, hoặc Trạng Bồng. Học rộng biết nhiều, có óc khoa học tự nhiên. Khi giặc Pháp đánh Đà Nẵng, ông dâng sớ xin tăng cường lực lượng quốc phòng, chấn chỉnh việc nội trị, cải cách học thuật, văn hóa, kinh tế. Lúc làm Quốc tử giám tế tửu và khi làm Chủ khảo các khoa thi, ông đã phát hiện và rèn luyện được nhiều nhân tài cho tổ quốc. Khi Nguyễn Tri Phương vào Nam chống giặc Pháp xâm lược, ông có bài thơ tiễn: Nước non xưa vẫn nước non này. Cõi bắc ngàn năm suốt một dây. Ba tỉnh cát lầm đang rộn nỗi, Chín lần gươm báu phải trao tay. Đẩy xe vâng chỉ không dong giặc, Truyền hịch ra quân sớm định ngày. Cờ tía những mong tin báo tiệp, Tên ghi gác khói tượng đài mây. Khi làm quan ở Huế, ông dâng nhiều sớ đề nghị cải cách công tác quốc phòng, kinh tế rất sâu sắc. Cho đến lúc sắp mất, ông vẫn còn lưu lại một bài trần tình xin triều đình kíp chỉnh đốn mọi mặt để đối phó với thời cuộc nóng bỏng lúc bấy giờ. Năm Tân dậu ngày 4-4 (1861) ông mất, hưởng dương 54 tuổi. Các nhân sĩ tỉnh Ninh Bình có bài thơ tưởng niệm ông: Bảng vàng bia đá bậc tam khôi, Giấc mộng phù sinh luống ngậm ngùi. Nền Hạnh mây mờ sao điểm tối, Rừng Quỳnh nắng dọi đóa mai rơi. Vài tờ chương sớ nghìn thu để, Hai chữ châu phê chín bệ soi. Trên chốn đô môn ngày vĩnh quyết, Tình này cảnh ấy thuở nào nguôi. Các tác phẩm của ông có: - Bồng Châu Vũ tiên sinh thi văn tập - Trừng Phủ thi văn tập - Chế khoa Bảng nhãn Vũ Duy Thanh tập là những tác phẩm văn chương có giá trị của lịch sử văn học Việt Nam cận đại."
 }

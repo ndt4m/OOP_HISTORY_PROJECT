@@ -1,18 +1,14 @@
 {
-  "dateOfBirth": "Xã Đàm Di, thuộc Lam Sơn, huyện Thọ Xuân, Thanh Hóa, Việt Nam\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath": "1437\n----------------------------------------------\nKhông rõ",
-  "hometown": "xã Đàm Di, thuộc Lam Sơn, huyện Thọ Xuân, Thanh Hóa, Việt Nam.\n----------------------------------------------\nquê huyện Thụy Nguyên, tỉnh Thanh Hóa",
-  "occupation": "Thuộc\n----------------------------------------------\nVõ tướng đời Lê Thái tổ",
-  "workTenure": "1418-1428\n----------------------------------------------\nKhông rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Thuộc Minh": 33,
-    "nhà Lê": null,
-    "Triều Lê Sơ": 7
-  },
-  "id": 2492,
-  "entityName": "Lê Ngân",
-  "aliases": [],
-  "overview": "Lê Ngân (chữ Hán: 黎銀, ?-1437) là công thần khai quốc nhà Lê sơ trong lịch sử Việt Nam, người xã Đàm Di, thuộc Lam Sơn, huyện Thọ Xuân, Thanh Hóa, Việt Nam.\n----------------------------------------------\nNhiệt thành ái quốc, ông theo dưới cờ giải phóng của Bình Định vương Lê Lợi ngay từ khi mới dấy quân. Trong các trận đánh ải Khả Lưu và vây thành Nghệ An, ông lập nhiều chiến công hiển hách. Cuộc khởi nghĩa thành công, ông được phong tước Á Thượng Hầu, nghiễm nhiên là vị đại thần tại triều. Đời Lê Thái tông, ông làm phụ tướng (Ất mão 1435) nhưng được ít lâu thì bị ghép vào tội nặng, phải tự tử. Sang đời Lê Nhân tông, khoảng năm Mậu thìn 1448, nhà vua truy niệm công lao ông, ban cho con cháu ông 100 mẫu ruộng. Đến đời Thánh tông, Giáp thìn 1484, truy tặng ông là Thái phó."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 2492,
+  "entityName" : "Nguyễn Văn Thắng",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Văn Thắng là một tên người Việt rất phổ biến, có thể là tên của:"
 }

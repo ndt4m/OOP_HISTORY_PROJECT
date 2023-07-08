@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "…",
-  "dateOfDeath": "Ất Mão 1735",
-  "hometown": "Không rõ",
-  "occupation": "Vua nhà Hậu Lê",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "nhà Mạc" : null
   },
-  "id": 916,
-  "entityName": "Lê Duy Phương",
-  "aliases": [
-    "Duy Phường"
-  ],
-  "overview": "Ông lên ngôi năm Kỉ dậu 1729, đến tháng 8 năm Nhâm tí 1732 ông bị Uy Nam vương Trinh Giang vu cho tư thông với vợ Trịnh Cương, giáng xuống làm Hôn Đức Công. Năm Ất mão 1735, ông lại bị Trịnh Giang giết, táng bằng sô tượng tại làng Kim Lữ, huyện Thanh Trì, Hà Nội. Ông ở ngôi 4 năm, hiệu năm là Vĩnh Khánh: tháng 4 Kỉ dậu 1729 - tháng 8 Nhâm tí 1732."
+  "id" : 916,
+  "entityName" : "Mạc Cảnh Huống",
+  "aliases" : [ ],
+  "overview" : "Mạc Cảnh Huống (1542-1677 ) là người xuất thân trong hoàng tộc nhà Mạc, em của Khiêm vương Mạc Kính Điển và đồng thời là chú của Quận chúa Mạc Thị Giai (người sau này trở thành vương phi của Chúa Sãi Nguyễn Phúc Nguyên). Ông được sử triều Nguyễn ghi nhận là một trong những bậc khai quốc công thần của nhà Nguyễn buổi sơ khai trên đất Thuận Hóa. Ông cũng là người sùng bái đạo Phật. Tương truyền, do Mạc Cảnh Huống chuyên tâm thực hiện những phương pháp thiền của Phật giáo mà ông đã sống tới hơn 100 tuổi."
 }

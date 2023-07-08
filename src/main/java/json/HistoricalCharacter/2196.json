@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "1827\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath": "1866\n----------------------------------------------\nBính Dần 1866",
-  "hometown": "Không rõ",
-  "occupation": "Anh hùng chống Pháp, tổ tiên gốc ở miền Trung, sau dời vào ở Gia Định.",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Nhâm Tuất 1922",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "tại Cao Lãnh, tỉnh Kiến Phong (nay thuộc tỉnh Đồng Tháp) Từ năm 1945 ông từng làm giáo viên Việt ngữ ở Campuchia",
+  "occupation" : "Nhà nghiên cứu văn hóa Việt Khmer",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nước Việt Nam mới" : 29
   },
-  "id": 2196,
-  "entityName": "Võ Duy Dương",
-  "aliases": [
-    "Thiên Hộ Dương"
-  ],
-  "overview": "Võ Duy Dương (chữ Hán: 武維楊; Hán Việt: Vũ Duy Dương; 1827-1866), còn gọi là Thiên Hộ Dương (千戶楊, do giữ chức Thiên hộ), là lãnh tụ cuộc khởi nghĩa chống thực dân Pháp (1862-1866) ở Đồng Tháp Mười, Việt Nam.\n----------------------------------------------\nÔng giỏi nghề võ, có tài sản và thường đem của cải làm việc phúc lợi cho nhân dân, nên được triều đình phong tặng chức Thiên hộ, đời sau gọi ông là Thiên Hộ Dương. Và vì ông có tài nhắc một lúc năm trái linh bằng sắt, nên nhân dân cũng xưng tụng ông là Ngũ Linh Thiên Hộ Dương. Ông kết nghĩa thâm giao với Trương Định, khi giặc Pháp xâm chiếm Nam Kì, ông đứng trong hàng ngũ kháng chiến do Trương Định lãnh đạo. Năm 1864 chủ soái Trương Định hi sinh, ông về Đồng Tháp Mười lập chiến khu tiếp tục đánh quân cướp nước. Nghĩa quân của ông thắng lợi nhiều trận vang dội ở Mĩ Trà, Cao Lãnh, Cai Lậy. Về sau, tướng Pháp De Lagrandière đưa quân đàn áp ác liệt ở vùng Đồng Tháp, ông rút quân về An Giang, định cùng Thủ khoa Nguyễn Hữu Huân bổ sung lực lượng rồi sẽ phối hợp kháng chiến. Nào ngờ quan lại ở An Giang và Đỗ Hữu Phương bắt Thủ khoa Nguyễn Hữu Huân nộp cho Pháp, nhưng ông vẫn tiếp tục đánh Pháp ở Đồng Tháp Mười. Theo Đại Nam thực lục chính biên thì ông rời căn cứ Tháp Mười ngồi thuyền định ra miền Trung chiêu tập dân quân để phục thù, chẳng may giữa đường gặp bão chìm thuyền, mất tích ở cửa biển Thần Mẫu, tỉnh Khánh Hoà trong năm 1866. Cảm niệm ông, Nguyễn Liên Phong trong Nam Kỉ phong tục nhơn vật diễn ca viết: Ông Dương võ nghệ cao tay, Chiêu qui binh chúng chiếm ngay xưng hùng. Mịt mù bốn phía mênh mông, Tấn công thối thủ đất không thế thần. Hiếu trung lòng dốc chuyên cần, Nghịch trời đem sức xét trần dạng đâu ? Thoát thân về với ghe bầu Khỏi nơi Cần Hải tiền xu đón thoàn. Giấc nồng đêm dậy nhảy khan Hồn chôn bụng cá ưng oan chẳng cầu. Miễn tròn danh giá về sau Ức dương nghị luận mặc âu thế tình."
+  "id" : 2196,
+  "entityName" : "Lê Quang Hương",
+  "aliases" : [ "Lê Hương" ],
+  "overview" : "Sau hiệp định Genève ông là thông tín viên Việt Tấn Xã (Sài Gòn) tại Nam Vang, năm 1958 về làm việc tại Bộ Thông tin rồi tại Phủ Quốc vụ khanh Đặc trách văn hóa Sài Gòn (1972-1975). Các tác phẩm chính: - Tự học chữ Miên (1963) - Truyện cổ quôc tế (1969) - Truyện vui quốc tẽ (1969) - Nguời Việt gốc Miên (1969) - Truyện cổ Cao Miên I, II (1969) - Angkor (1970) - Bùa ngải Cao Miên (1970) - Chợ trời biên giới Việt Nam - Cao Miên (1969) - Sử Cao Miên (1970) - Việt Kiều ở Kampuchia (1971) - Sử liệu Phù Nam (1970) - Người hùng (1970) - Truyện cổ Ấn Độ (1970) - Truyện cổ tích Việt Nam (1970) - Quả đâm thôi sơn (1952) Và một số truyện ngắn in trên các báo từ năm 1945-1975: Trung Bắc chủ nhật, Tiểu thuyết thứ bảy ở Hà Nội cùng một số bản thảo: Cổ tục Cao Miên, Truyện nghẹt thở, Truyện cổ Cao Miên III - IV, Lịch sử Cao Lãnh và Đồng Tháp Mười."
 }

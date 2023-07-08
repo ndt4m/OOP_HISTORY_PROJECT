@@ -1,19 +1,17 @@
 {
-  "dateOfBirth": "Giáp Thìn 1904",
-  "dateOfDeath": "Đinh Sửu 1937",
-  "hometown": "quê làng Tân Thạnh (Sơn Định), huyện Chợ Lách, tỉnh Vĩnh Long (nay thuộc Bến Tre)",
-  "occupation": "Nhà báo",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "1247\n----------------------------------------------\n…",
+  "dateOfDeath" : "1330\n----------------------------------------------\nCanh Ngọ 1330",
+  "hometown" : "quê ở Anh Sơn (có sách chép Giáp Sơn), tỉnh Hải Dương)",
+  "occupation" : "Võ tướng đời Trần Anh tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Trần" : 15,
+    "nhà Trần" : null
   },
-  "id": 759,
-  "entityName": "Nguyễn Văn Bá",
-  "aliases": [
-    "Thới Xuyên",
-    "Tiểu Vân"
-  ],
-  "overview": "Ông tốt nghiệp trường Sư phạm Sài Gòn, từng là giáo sư có phong cách một người thầy gương mẫu, khi còn dạy học, ông thường giúp đỡ các học sinh con nhà nghèo khó mà ham học. Những năm 30, ông bị bệnh, từ chức giáo học, gia nhập làng văn, viết báo, từng làm chủ nhiệm báo Thần Chung - một tờ báo có tiếng và bề thế vào hàng nhất nhì ở Sài Gòn trước thế chiến. Ông là tác giả tiểu thuyết: Người vợ hiền từng được giải thưởng của Hội luân lí Nam Kì. Những năm 1930-1932, Thiếu Sơn trong Phê bình và Cảo luận viết về ông: \"Ông (NVB) cộng tác với nhiều báo, viết bài có bút danh là Tiểu Vân và làm báo Thần Chung với Diệp Văn Kì. Trong cuộc đời dạy học và viết văn, làm báo, ông đã truyền bá tinh thền yêu nước, đạo đức con người và đấu tranh chống áp bức bất công\". Ông mất năm 1937 lúc mới 33 tuổi đang tuổi năng nổ của một nhà báo."
+  "id" : 759,
+  "entityName" : "Đỗ Khắc Chung",
+  "aliases" : [ "Trần Khắc Chung" ],
+  "overview" : "Trần Khắc Chung (chữ Hán: 陳克終, 1247–1330) là một nhân vật lịch sử đời nhà Trần.\n----------------------------------------------\nÔng xuất thân là Chi hậu cục thủ, một chức nhỏ, nhưng có tài. Năm Bính tuất 1286, quân Nguyên đóng ở Đông Bộ đầu, Hưng Đạo vương cố thủ ở mé bờ Nam. Trần Nhân tông muốn sai người đi dọ thám tình hình giặc, Đỗ Khắc Chung xin đi, Nhân tông khen: \"Ngờ đâu xe muối mà có ngựa kì ngựa kí như thế\", rồi trao thư cho ông đi đến trại quân Nguyên xin hòa, làm chước hoãn binh. Hoàn thành sứ mạng, ông được trọng dụng. Về sau làm đến Ngự sử đại phu, ít lâu thăng Đại hành khiển. Và được cho theo họ vua, nên cũng gọi là Trần Khắc Chung, rồi thăng làm Thượng thư Tả bộc xạ. Đến đời Trần Anh tông, chính ông đã sang Chiêm Thành cứu Huyền Trân công chúa khỏi phải lên hỏa đàn. Đương thời, ông bị nhiều người chê trách cho là ông có tâm địa xấu. Như khi Huệ Võ vương Trần Quốc Điền bị Văn Hiến Hầu vu làm phản đang giam trong ngục, Trần Minh tông hỏi ý kiến ông xem nên xử thế nào. Ông vốn cùng phe với Văn Hiến Hầu, thản nhiên nói: \"trói cọp dễ, thả cọp khó\". Quốc Điền do đó bị hại. Đến năm Canh ngọ 1330, ông mất được tặng hàm Thiếu sư. Sau đó, bị gia nô của Quốc Điền là Thiếu Võ đào mả lên lấy thây chật đầu và nghiền xương để trả thù cho chủ."
 }

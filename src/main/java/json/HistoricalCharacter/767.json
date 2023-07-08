@@ -1,16 +1,18 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "huyện Bạch Hạc, Phong Châu) nay thuộc tỉnh Vĩnh Phú",
-  "occupation": "Một trong 12 sứ quân cuối đời Ngô",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Ngô": 25
+  "dateOfBirth" : "1362\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "1407\n----------------------------------------------\nKhông rõ",
+  "hometown" : "quê làng Bái Trại, huyện An Định",
+  "occupation" : "Văn thần nhà Hồ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "nhà Hồ" : null,
+    "Nhà Trần" : 15,
+    "Nhà Hồ" : 9
   },
-  "id": 767,
-  "entityName": "Kiều Công Hãn",
-  "aliases": [],
-  "overview": "Khi Đinh Tiên Hoàng thống nhất đất nước. Ông tránh sang Trường Châu, rồi đến An Lũng (thuộc vùng Bái Dương, Hiệp Lực), tình thế khẩn bức, ông tự tử. Sau, được nhân dân lập đền thờ tại địa phương. Đời lĩền Lê, có sai sửa miếu thờ ông, ghi tên vào tự điển. Đời Lý Nhân tông, vẫn có sắc phong thần. Đời Lê Nhân tông và mãi đến đời nhà Nguyễn cũng có ban sắc phong thần. Các xã Kì Bố, Bộ Xuyên, Nam Châu, Hiệp Lực, Bái Dương (thuộc huyện Võ Trân, tỉnh Nam Định; nay vẫn thuộc tỉnh Nam Định) đều có đền thờ ông."
+  "id" : 767,
+  "entityName" : "Hoàng Hối Khanh",
+  "aliases" : [ ],
+  "overview" : "Hoàng Hối Khanh (chữ Hán: 黃晦卿, 1362-1407) là quan nhà Hồ trong lịch sử Việt Nam, người huyện Lệ Thuỷ, tỉnh Quảng Bình, Việt Nam.\n----------------------------------------------\nNăm Giáp tí 1384, đời Trần phế đế, ông đỗ Thái học sinh, làm An phủ sứ. Sau theo Hồ Quí Ly, được Quí Ly cho làm Chính hình viện đại phu. Rồi khi Hồ Qúi Ly cướp quyền nhà Trần, Hoàng Hối Khanh được phong làm Hành khiển. Khi quân Minh sang xâm lược, Hoàng Hối Khanh bị Trương Phụ bắt giải về hành dinh. Khi đến cửa bể Đan nhai, ông tự tử... Phụ bêu đầu ông ở chợ Đông Đô."
 }

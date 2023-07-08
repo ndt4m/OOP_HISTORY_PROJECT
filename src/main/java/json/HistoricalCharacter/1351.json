@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "1396",
-  "dateOfDeath": "1465",
-  "hometown": "xã Nghi Hợp, huyện Nghi Lộc, Nghệ An, gốc người làng Cương Gián, huyện Nghi Xuân, Hà Tĩnh, Việt Nam.",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Hậu Lê": null
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Vua",
+  "workTenure" : "1519–1519",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Hậu Lê – giai đoạn Lê sơ" : 20
   },
-  "id": 1351,
-  "entityName": "Nguyễn Xí",
-  "aliases": [],
-  "overview": "Nguyễn Xí (chữ Hán: 阮熾; 1396-1465) là một vị tướng, nhà chính trị, công thần khai quốc nhà Hậu Lê và là đại thần trải qua 4 đời vua thời Hậu Lê trong lịch sử Việt Nam, sinh ra ở xã Nghi Hợp, huyện Nghi Lộc, Nghệ An, gốc người làng Cương Gián, huyện Nghi Xuân, Hà Tĩnh, Việt Nam."
+  "id" : 1351,
+  "entityName" : "Lê Do",
+  "aliases" : [ ],
+  "overview" : "Lê Do (Chữ Hán: 黎槱; Hán Việt: Lê Dữu ?-1519) là một vị hoàng đế nhà Lê sơ trong lịch sử Việt Nam. Do được lập lên ngôi và thất bại trong thời gian loạn lạc ngắn ngủi, ông ít được nhắc tới trong danh sách các vị vua chính thống của Việt Nam."
 }

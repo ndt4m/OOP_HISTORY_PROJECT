@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "Canh Ngọ 1870",
-  "dateOfDeath": "Mậu Dần 1938",
-  "hometown": "quê làng Cót, xã Yên Quyết, huyện Từ Liêm, tỉnh Hà Đông (nay thuộc Hà Nội)",
-  "occupation": "Danh sĩ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "Tân Dậu 1861",
+  "dateOfDeath" : "Kỉ Dậu 1909",
+  "hometown" : "tại Cù lao Giêng, tỉnh An Giang (nay thuộc huyện Phú Châu, tỉnh An Giang)",
+  "occupation" : "Tay sai thực dân Pháp, con Trần Bá Lộc (là tay chân thân Pháp, sát hại rất nhiều lương dân, nghĩa sĩ Việt Nam)",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 2343,
-  "entityName": "Hoàng Thúc Hội",
-  "aliases": [
-    "Gia Phủ",
-    "Cúc Hương"
-  ],
-  "overview": "Ông nổi tiếng văn chương, có tài đưc được sĩ phu trọng vọng. Ông có bài thơ dự thi trong cuộc thi thơ đề vịnh Trưng vương, được giải nhất và được khắc vào bia đá nơi đền thờ Hai Bà Trưng: Ngụa Gióng đã lên không, Rừng Thanh voi chửa lồng. Nẩy chồi hoa lưu Lạc, Mở mặt nước non Hồng. Trăng dọc gương hồ Bạc, Mây tan dấu cột đồng, Nén hương lòng cố quốc, Xin khấn một lời chung. Ông cũng soạn và xuất bản quyển Trưng vương lịch sử có giá trị. Con ông là Hoàng Thúc Trâm là một nhà nghiên cứu văn học cổ đại có tiếng của nước ta. Tác phẩm của ông gồm: - An Sơn tùy bút tập (3 quyển) - Sài Sơn thực lục - Hà đê đối sách - Đàm Phật lục..."
+  "id" : 2343,
+  "entityName" : "Trần Bá Thọ",
+  "aliases" : [ "Joseph" ],
+  "overview" : "Thuở nhỏ được quan thầy cho sang Pháp học vì cha Thọ từng giết hại nhiều sinh linh người Việt nên được Pháp thưởng \"mề đay điều\" (Commandeur de lá Légion d'Honneur). Học xong, về nước làm quan nhiều nơi ở miền Nam đến chức Đốc phủ sứ. Khi làm tay sai cho Pháp, ông ta bị sạt nghiệp vì khai khẩn đất hoang; thiếu nợ ngân hàng nên gia tài bị phát mãi. Nhục nhã bị quan thầy bỏ rơi, chủ nợ kiện tịch thu tài sản... Phẫn chí, Thọ dùng súng lục tự tử năm 1909. Trước khi chết C.K có gởi cho ông ta bài thơ có nhan đề: Gởi cho Trần Bá... trước 15 ngày đùng Vững cầm đức cậy cựu tri ôi! Chúa thử lòng mình một ít thôi, Ép chí, nghe lời qua khổ ải, Đừng xui chước quỉ khốn vô hồi. Các em của Thọ: Trần Bá Tường làm huyện ở Cai Lậy; Đốc phủ ở Cần Thơ chết năm 1882; Nicolas Trần Bá Hữu làm huyện ở Long Thành (thuộc Biên Hòa) bị nghĩa quân giết tại nhiệm sở."
 }

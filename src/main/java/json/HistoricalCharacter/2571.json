@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "Mậu Ngọ 1918",
-  "dateOfDeath": "Đinh Tị 1977",
-  "hometown": "sinh quán tỉnh Bạc Liêu (nay vẫn là Bạc Liêu), ông là nhà văn của đồng ruộng miền Nam, nổi tiếng qua các tác phẩm viết về nông thôn",
-  "occupation": "Nhà văn hiện đại Việt Nam",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Lai Hạ, huyện Thanh Lâm, tỉnh Hải Dương",
+  "occupation" : "Văn thần, danh sĩ đời Trần Thái tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Trần" : 15
   },
-  "id": 2571,
-  "entityName": "Lâm Thế Nhơn",
-  "aliases": [
-    "Phi Vân"
-  ],
-  "overview": "Ngày 1 1-1-1977 ông mất tại Thành phố Hồ Chí Minh, hưởng dương 59 tuổi. Còn để lại các tác phẩm: - Đồng quê (1943) - Dân quê (1968) - Tình quê (1970) Trong hai cuộc kháng chiến chống Pháp, Mĩ, ông sống tại Sài Gòn với nghề cầm bút với lương tri của một người trí thức"
+  "id" : 2571,
+  "entityName" : "Nguyễn Thuyên",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Thuyên có thể là:\n----------------------------------------------\nNăm Bính thìn 1256 ông đỗ Thái học sinh, làm quan đến Thượng thư bộ Hình. Sử thường gọi ông là Hàn Thuyên vì theo sử chép: mùa thu năm Nhâm ngọ 1282, có cá sấu đến sông Phú Lương (Nhị Hà) hoành hành. Ông vâng lệnh triều đình lo đuổi loài cá dữ. Ông thảo một bài thơ đọc ở bờ sông, rồi ném xuống. Sau đó loài sấu đi mất. Vua cho việc ấy giống như Hàn Dũ ở Trung Quốc đã làm nên gọi ông theo họ Hàn (Hàn Thuyên). Ông là sĩ phu đầu tiên đem chữ Nôm dùng vào văn học, có Nguyễn Sĩ Cố và một vài người khác phụ họa. Ông còn để lại bộ Phi sa tập (do câu Phi sa giản kim: Đãi cát lọc vàng), trong đó có nhiều thơ Quốc âm. Bài thơ ĐUỔI CÁ SẤU tương truyền như sau: Ngạc ngư kia hỡi mày có hay? Biển đông rộng rãi là nơi mày. Phú Lương đây thuộc về thánh vực, Lạc lối đâu mà lại đến đây. Há chằng nhớ rằng nước Việt xưa, Dân quen chài lưới chẳng tay vừa, Đời Hùng vẽ mình vua từng dạy, Xuống nước giao long cũng phải chừa. Thánh thần nối dõi bản triều nay, Dấy từ Hải ấp ngôi trời thay. Võ công lừng lẫy bốn phương tĩnh, Biển lặng sông trong mới có rày. Hùm thiêng ra dấu dân cày cấy, Nhân vật đều yên đâu ở đấy. Ta vâng đế mạng bảo cho mày, Hãy về biển đông mà vùng vẫy! Đương thời vua Tự Đức đề vịnh: \"Quốc ngữ văn chương thủy nhiễm hàn, Bất vong đôn bản bị nham khan, Lư giang di ngạc hà thần tốc, Bác đắc quân vương tứ tính Hàn. Bản dịch: Quốc ngữ văn chương mới nhúng tay, Chẳng quên tiếng mẹ khá khen thay. Sông Lư đuổi sấu in Hàn Dũ, Nên đuợc nhà vua đổi họ ngay. Ngoài ra ông còn là tác giả bộ Phi Sa tập."
 }

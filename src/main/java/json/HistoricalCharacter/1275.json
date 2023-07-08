@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "…",
-  "dateOfDeath": "Canh Tuất 1190",
-  "hometown": "quê ở Ô Diên",
-  "occupation": "Thiền sư đời Lý Cao tông, không rõ tên thật",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Lý": 14
+  "dateOfBirth" : "Giáp Thân 1704",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Diên Hà, huyện Diên Hà, tỉnh Thái Bình",
+  "occupation" : "Danh sĩ đời Lê Dụ tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
   },
-  "id": 1275,
-  "entityName": "Nguyễn Trí Bảo",
-  "aliases": [
-    "Trí Bảo"
-  ],
-  "overview": "Ông là cậu của Thái úy Tô Hiến Thành đi tu từ thuở trẻ, về sau ông trụ trì ở chùa Thanh Tước, núi Du Hí, đứng vào thế hệ thứ 10 dòng thiền Quan Bích. Năm Canh tuất 1190, ngày 14-4 âm lịch ông viên tịch. Trước khi mất ông có bài kệ: Bản dịch: Tiền tài tri túc chớ tham, Đừng lo tranh đoạt, gắng làm từ bi. Không cho, ngọn cỏ lấy chi? Tâm lòng như ngọc mơ gì của ai."
+  "id" : 1275,
+  "entityName" : "Lê Trọng Thứ",
+  "aliases" : [ "Lê Phú Thứ" ],
+  "overview" : "Năm Giáp thìn 1724, ông đỗ đồng tiến sĩ lúc 20 tuổi, làm quan đến Hữu thị lang bộ Hộ, Nhập thị Tả chính ngôn, tước Diên Phương Bá. Ông nổi tiếng văn chương, giỏi việc chính trị, nhưng không ham mê công danh, làm quan ít lâu ông xin về trí sĩ. Sau triều đình lại triệu dụng ông phải ra làm quan một thời gian nữa. Ông được thăng đến Thượng thư bộ Hình, Tước Diên Phương Hầu, từng được cử làm Giám khảo trong các khoa thi Hội. Con ông là Lê Quí Đôn, một nhà bác học nổi tiếng của văn hóa sử Việt Nam."
 }

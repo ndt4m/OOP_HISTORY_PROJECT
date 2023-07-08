@@ -1,17 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Quê làng Đại Định, xã Thanh Oai, tỉnh Hà Đông (nay là tỉnh Hà Tây)",
-  "occupation": "Hữu thị lang bộ Lại\n----------------------------------------------\nVăn thần đời Lê Hiến tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Lê sơ, Mạc": null,
-    "Triều Lê Sơ": 7
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "nhà Lê" : null
   },
-  "id": 1325,
-  "entityName": "Lê Dực",
-  "aliases": [],
-  "overview": "Lê Dực là hữu thị lang bộ Lại thời Lê sơ, đỗ đồng tiến sĩ năm Cảnh Thống.\n----------------------------------------------\nNăm Nhâm tuất 1502, ông đỗ đồng tiến sĩ. Làm đến Hữu thị lang bộ Lại, có tiết tháo được sĩ phu trọng vọng. Năm Bính tí 1516, nhóm Trần Cảo, Trần Tung gây biến loạn, đánh chiếm kinh thành, xưng làm vua. Bấy giờ Lê Chiêu tông từ Tây Đô (Thanh Hóa) điều động binh sĩ ra đánh dẹp, ông làm Tán lí dinh Sơn Nam, họp quân cùng các nơi tiến đánh lấy lại được kinh thành. Năm Đinh hợi 1527, Mạc Đăng Dung đảo Chính. Ông không khuất phục, lánh mình ở ẩn, được người đương thời khen ngợi tiết nghĩa."
+  "id" : 1325,
+  "entityName" : "Nguyễn Chiêu Huấn",
+  "aliases" : [ ],
+  "overview" : "Bảng nhãn Nguyễn Chiêu Huấn (阮昭訓) (? ?) là một nhà thơ, quan nhà Lê trong lịch sử Việt Nam"
 }

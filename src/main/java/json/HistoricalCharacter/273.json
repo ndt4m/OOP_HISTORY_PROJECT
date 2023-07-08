@@ -1,17 +1,16 @@
 {
-  "dateOfBirth": "…",
-  "dateOfDeath": "Kỉ Sửu 1889",
-  "hometown": "quê Khê Ta Bao, châu Tuyên Hóa, tỉnh Quảng Bình",
-  "occupation": "Tay sai Pháp",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "1325\n----------------------------------------------\nẤt Sửu 1325",
+  "dateOfDeath" : "1390\n----------------------------------------------\nCanh Ngọ 1390",
+  "hometown" : "quê làng Tức Mặc, huyện Mĩ Lộc, phủ Thiên Trường, tỉnh Nam Định",
+  "occupation" : "Tư đồ\n----------------------------------------------\nDanh sĩ đời Trần",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Trần" : 15
   },
-  "id": 273,
-  "entityName": "Trương Quang Ngọc",
-  "aliases": [],
-  "overview": "Nguyên, Ngọc làm thổ tù, năm 1885 vua Hàm Nghi lập chiến khu tại Cam Lộ, các sĩ phu yêu nước và nghĩa sĩ theo về rất đông, trong đó có ông. Năm 1887 vua Hàm Nghi bị quân Pháp bao vây phải lần ra các vùng cao tỉnh Quảng Bình. Có lần vua và đoàn tùy tùng tạm trú tại nhà ông ta. Ngày 26-6 năm Mậu tí, y để cho quân Pháp bắt vua. Sau khi làm xong công việc chó săn, Ngọc được quan thầy Pháp thưởng cho một số tiền lớn và chức Hàm Lãnh binh. Nhưng đến năm 1889 Phan Đình Phùng cho Cao Thắng đem nghĩa binh lên Khê Ta Bao bắt Ngọc xử tử để răn chúng. Đời ông là gương xấu cho hậu thế."
+  "id" : 273,
+  "entityName" : "Trần Nguyên Đán",
+  "aliases" : [ "Chương Túc quốc thượng hầu", "Băng Hồ" ],
+  "overview" : "Trần Nguyên Đán (chữ Hán: 陳元旦, 1325 hay 1326? - 1390) hiệu Băng Hồ, là tôn thất nhà Trần, dòng dõi Chiêu Minh vương Trần Quang Khải. Làm quan tới Tư đồ dưới thời các vua Trần Nghệ Tông, Trần Duệ Tông và Trần Phế Đế, tước Chương Túc quốc thượng hầu. Nguyên Đán là người hiền từ, nho nhã, có phong cách của bậc quân tử thời xưa .\n----------------------------------------------\nVốn dòng tôn thất, ông được bổ dụng ngay từ trẻ, đời Dụ tông làm Ngự sử đại phu, đời Nghệ tông lên chức Tư đồ, tước Chương Túc Hầu. Nhà Trần suy vi, ông rất lo lắng về mưu đồ của Hồ Quí Ly, nên thường cảnh giác nhà vua phải lưu tâm thái độ của Quí Ly. Ít lâu, ông trí sĩ, lui về ở Côn Sơn kiến trúc vùng động Thanh Hư, sống ẩn dật từ năm Ất sửu 1385. Dù về hưu, ông vẫn lo việc nước, biểu lộ qua bài thơ DẠ QUI CHU TRUNG TÁC (Thơ làm trên thuyền trong đêm trở về): \"Vạn quốc dân sinh phí đỉnh ngư Sóc Yên đông Biện dĩ khâu khư. Qui chu vị ổn giang hồ mộng, Phân thủ cô đăng chiếu cổ thư.\" Bản dịch: Dân bị lầm than mấy vạn thừa Yên tan, Biện nát đã bao giờ. Giang hồ chiếc gối chưa yên giấc, Mượn lửa thuyền chài đọc sách xưa. Năm Canh ngọ 1390 ông mất, thọ 65 tuổi. Tác phẩm chính để lại: - Băng Hồ ngọc hác tập - Bách thế thông kỉ Nhưng đã mất nhiều, chỉ còn lại 51 bài thơ chép trong Trích diễm thi tập, Toàn Việt thi lục. Con rể ông là Nguyễn Ứng Long tức Nguyễn Phi Khanh và cháu ngoại là Nguyễn Trãi về sau làm rạng rỡ cho dân tộc."
 }

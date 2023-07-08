@@ -1,22 +1,14 @@
 {
-  "dateOfBirth": "Giáp Thân 1824",
-  "dateOfDeath": "Nhâm Thìn 1892",
-  "hometown": "Thừa Thiên-Huế",
-  "occupation": "Nữ sĩ, công chúa triều Nguyễn ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nhà Nguyễn độc lập": 30
-  },
-  "id": 31,
-  "entityName": "Nguyễn Phúc Vĩnh Trinh",
-  "aliases": [
-    "Qui Đức",
-    "Nguyệt Đinh",
-    "Trọng Khanh",
-    "Thuận Lễ"
-  ],
-  "overview": "Bà là tác giả thi tập Nguyệt Đình thi khảo có giá trị, văn chương trác tuyệt, giàu thi tính. Đề tựa thi tập này Tuy Lý Vương Miên Trinh viết: \"Phát ra. ở tình, dừng lại ở nghĩa, cùng thơ Hà Quảng, thơ Tái Tri ở Vệ Phong\". Sách Đại Nam liệt truyện viết về bà: \"Chúa thác sinh ở nhà vua lấy chồng họ quí thích mà khiêm tốn giữ gìn, không ưa xa xỉ duy chỉ thích sách vở mà thôi.\" Chồng bà là ông Phạm Thuật (con trai ông Phạm Đăng Hưng) em ruột bà Từ Dũ... Năm 1862 Pháp đánh miền Đông Nam kì, vua Tự Đức mật chiếu cho chồng bà vào Nam nghiên cứu thám sát tình hình quân sự lúc đó với chức vụ và trọng trách trọng đại nguy hiểm đó, ông đã hi sinh ở chiến trường. Sau khi thọ tang và đưa thi hài chồng về an táng tại Huế, bà làm một sinh phần cạnh mộ phu quân hơn 10 năm ở chốn thơ phòng, nên được người đương thời khen là \"khổ tiết\". Bà mất trong năm 1892, an táng cạnh phần mộ chồng, thọ 68 tuổi."
+  "dateOfBirth" : "23 tháng 2 năm 1923 Huế, Thừa Thiên Việt Nam",
+  "dateOfDeath" : "23 tháng 6, 2007 (84 tuổi) Lancaster, Pennsylvania Hoa Kỳ",
+  "hometown" : "Không rõ",
+  "occupation" : "Thuộc",
+  "workTenure" : "1941-1966",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 31,
+  "entityName" : "Nguyễn Chánh Thi",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Chánh Thi (1923-2007), nguyên là một cựu tướng lĩnh gốc Nhảy dù của Quân lực Việt Nam Cộng hòa, cấp bậc Trung tướng. Ông xuất thân từ một trường Võ bị Địa phương do Chính phủ Quốc gia trong Liên hiệp Pháp mở ra ở miền Đông Nam phần. Ông đã từng là Tư lệnh một Binh chủng được xem là xuất sắc nhất và Tư lệnh một Quân đoàn giàu truyền thống nhất của Quân đội Nam Việt Nam trong thời kỳ Chiến tranh Việt Nam. Ông là người được tạp chí Times mệnh danh là \"chuyên gia đảo chính\". Bởi vì ông là một sĩ quan quân đội dính líu đến nhiều cuộc đảo chính và phản đảo chính trong lịch sử tồn tại của Việt Nam Cộng hòa."
 }

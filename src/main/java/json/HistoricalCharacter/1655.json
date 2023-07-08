@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "16 tháng 9 năm 1929 (88 tuổi) Hưng Yên, Việt Nam",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Thuộc",
-  "workTenure": "1951-1975",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 1655,
-  "entityName": "Nguyễn Duy Hinh",
-  "aliases": [],
-  "overview": "Nguyễn Duy Hinh (1929), nguyên là một tướng lĩnh gốc Kỵ Binh của Quân lực Việt Nam Cộng hòa, cấp bậc Thiếu tướng. Ông xuất thân từ khóa đầu tiên và duy nhất ở trường Sĩ quan Trừ bị do Chính phủ Quốc gia Việt Nam với sự hỗ trợ của Quân đội Pháp mở ra vào đầu thập niên 1950 tại Bắc phần Việt Nam, nhằm mục đích đào tạo sĩ quan người Việt phục vụ Quân đội Quốc gia Việt Nam trong Quân đội Liên hiệp Pháp. Ra trường ông gia nhập binh chủng Thiết giáp. Ông đã tuần tự đảm trách từ chức vụ Chi đội trưởng cho đến Chỉ huy phó binh chủng này. Sau chuyển sang lĩnh vực Quân huấn và Tham mưu. Sau cùng ông là Tư lệnh một Sư đoàn Bộ binh."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Giáp Thân 1824",
+  "hometown" : "Không rõ",
+  "occupation" : "Nhân sĩ yêu nước vào thời Gia Long",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
+  },
+  "id" : 1655,
+  "entityName" : "Dương Đình Cúc",
+  "aliases" : [ ],
+  "overview" : "Khi họ Nguyễn Phúc chống nhà Tây Sơn nhất là sau này với hành động trả thù và truy nã ráo riết những người thuộc nghĩa quân Tây Sơn, ông tổ chức quần chúng võ trang khởi nghĩa chống lại chính quyền nhà Nguyễn. Cuộc khởi nghĩa của ông kéo dài 18 năm (1806-1824), lấy vùng rừng núi Thái Nguyên làm căn cứ chính. Cuối cùng quân nhà Nguyễn đã dẹp được cuộc khởi nghĩa này."
 }

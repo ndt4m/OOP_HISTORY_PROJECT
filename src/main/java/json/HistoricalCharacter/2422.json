@@ -1,16 +1,18 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Thương": null
+  "dateOfBirth" : "Quí Hợi 1863",
+  "dateOfDeath" : "Ất Dậu 1885",
+  "hometown" : "quê làng Phú Nhuận, phủ Bình Sơn, tỉnh Quảng Ngãi, con thứ 6 của tiến sĩ Lê Trung Lương",
+  "occupation" : "Nhà yêu nước",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "tiến sĩ Lê Trung Lương" : null
   },
-  "id": 2422,
-  "entityName": "nhà Ân",
-  "aliases": [],
-  "overview": "Nhà Thương (tiếng Trung Quốc: 商朝, Thương triều) hay nhà Ân (殷代, Ân đại), Ân Thương (殷商) là triều đại đầu tiên được công nhận về mặt lịch sử là một triều đại Trung Quốc. Theo biên niên sử dựa trên các tính toán của Lưu Hâm thì nhà Thương trị vì từ khoảng năm 1766 TCN tới khoảng năm 1122 TCN, tuy nhiên theo biên niên sử dựa theo Trúc thư kỉ niên thì khoảng thời gian này là 1556 TCN tới 1046 TCN. Các kết quả của Hạ Thương Chu đoạn đại công trình coi khoảng thời gian này là từ 1600 TCN tới 1046 TCN."
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
+  },
+  "id" : 2422,
+  "entityName" : "Lê Trung Đình",
+  "aliases" : [ ],
+  "overview" : "Năm Giáp thìn 1884, ông đỗ cử nhân, không ra làm quan, ông cùng các đồng chí chuẩn bị lực lượng chống giặc Pháp. Sĩ phu Quảng Ngãi tổ chức nghĩa hội, ông được cử làm Chánh quản hương binh. Kinh thành thất thủ, Hàm Nghi đi khánh chiến (1885), ông cùng Nguyễn Tri Tấn khởi binh đánh Pháp. Tên tay sai giặc Nguyễn Thân đàn áp bắt được ông. Chúng dụ hàng, ông bất khuất bị chúng giết ngày 18-7-1885. Trong tù, ông lưu lại bài thơ: \"Kim nhật lung trung điểu Minh triều trở thượng ngư. Thử thân hà túc tích, Xã tắc ai kì khu.\" Bản dịch: Nay là chim trong lồng, Mai đã cá trên thớt, Thân này tiếc gì đâu. Gian nan tình đất nước."
 }

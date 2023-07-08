@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "15 tháng 5, 1957 (63 tuổi) Hà Nội, Việt Nam Dân chủ Cộng hòa",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Thuộc",
-  "workTenure": "1976 – nay",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 2523,
-  "entityName": "Nguyễn Chí Vịnh",
-  "aliases": [],
-  "overview": "Nguyễn Chí Vịnh (sinh năm 1957) là sĩ quan cấp cao của Quân đội Nhân dân Việt Nam, hàm Thượng tướng. Ông hiện là Thứ trưởng Bộ Quốc phòng Việt Nam phụ trách ngoại giao, tình báo, công tác gìn giữ hòa bình. Trong Đảng Cộng sản Việt Nam, ông là Ủy viên Trung ương Đảng khóa XI, XII, Ủy viên Thường vụ Quân ủy Trung ương. Ông từng giữ chức vụ Tổng cục trưởng Tổng cục 2 , lãnh đạo công tác tình báo quân đội trong vòng gần 8 năm từ 2002 đến 2009."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Mậu Ngọ 1918",
+  "hometown" : "sinh quán huyện Mộ Đức, tỉnh Quang Ngãi",
+  "occupation" : "Nhà yêu nước ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
+  },
+  "id" : 2523,
+  "entityName" : "Bùi Đình Quảng",
+  "aliases" : [ "Phong Niên" ],
+  "overview" : "Những năm 1903-1908, ông tham gia phong trào Duy tân. Khi phong trào lên cao (1908) ông bị thực dân Pháp bắt ở Quảng Ngãi và đày ra Côn Đảo. Bùi Đình Quảng là một con người có tâm hồn và khí phách cao thượng mà Huỳnh Thúc Kháng cho là \"người trăm lần bẻ không cong, gồm cả đởm thức mà có lòng nhiệt thành cảm người một cách sâu sắc, đồng nhân ai cũng cảm phục. Một điều ít có, là thấy nghĩa thì hăng hái làm tới, thấy điều lành thì ham muốn khao khát. Mà nếu ai đem điều phi lí gán cho thì nghiêm nghị sắc mặt, phản đối cho đến cùng; nhưng gặp anh em có việc hoạn nạn, đau khổ thì ra công chịu khó hết lòng giúp đỡ, dù việc khó nhọc đến đâu cũng vui lòng cáng đáng, tuyệt không có gì trớ tránh rụt rè\". Khi ở Côn Đảo vì lao dịch cực hình ông bệnh nặng mất năm 1918. Huỳnh Thúc Kháng có câu đối khóc ông: \"Khổ sanh ngã ư Việt Nam trần thế kỉ chi sơ, bất khứ bất tử tức vi tù; khả liên lạc lạc chích thân, bộ nhục tọa kinh phao tuế nguyệt. Trung Kì quân ư Côn Đảo thập tam niên chi hậu, tài tiếp tài lệ vưu hữu tấn; hốt thử yêm yêm nhứt bệnh, hùng hồn tảo khứ tác phong lôi\". Bản dịch: Khổ sanh ta đầu thế kỉ hai mươi giữa nước Việt Nam, không đi không chết lại mang tù; Xót thay quanh quạnh chiếc than, thịt vế ngồi đưa ngày tháng chóng. Trông mong người sau mười ba năm lìa hồn Côn Đảo, lại dậy lại làm càng tấn tới. Bỗngchốc yêm yêm một bịch, hùng hồn hóa lẫn gió dông đi!"
 }

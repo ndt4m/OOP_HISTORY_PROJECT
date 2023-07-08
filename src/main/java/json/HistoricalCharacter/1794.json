@@ -1,18 +1,17 @@
 {
-  "dateOfBirth": "Mậu Tí 1468",
-  "dateOfDeath": "Nhâm Ngọ 1522",
-  "hometown": "Phú Thọ",
-  "occupation": "Danh sĩ đời Lê Thánh tông, quê làng Trình Xá, huyện Sơn Vĩ, tỉnh Sơn Tây (nay là huyện Phong Châu, tỉnh Phú Thọ)",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Triều Lê Sơ": 7
+  "dateOfBirth" : "Canh Tuất 1910",
+  "dateOfDeath" : "Đinh Mão 1987",
+  "hometown" : "quê ở Mĩ Tho (nay thuộc tỉnh Tiền Giang)",
+  "occupation" : "Nữ sĩ hiện đại",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 1794,
-  "entityName": "Võ Duệ",
-  "aliases": [
-    "Võ Nghĩa Chi"
-  ],
-  "overview": "Năm Canh tuất 1490 ông đỗ Trạng nguyên lúc mới 22 tuổi. Ông vốn tên là Võ Nghĩa Chi, Lê Thánh tông đổi tên là Duệ và có lần nói với thị thần: \"Ngày sau nước nhà có biến, ắt người này đương nổi\". Ông làm Tham chính ở Hải Dương, đến đời Lê Chiêu tông, (1520), ông được phong Trình Ý công thần, Thượng thư bộ Lại, Thiếu bảo, kiêm Đông các đại học sĩ, tước Trình Khê Bá. Khi ông làm quan, thấy Mạc Đăng Dung giết hại quan Ngự sử Đỗ Nhạc, bức hiếp vua Lê và các đại thần, ông phẫn uất tỏ niềm tâm sự trong một bài thơ: \"Ỷ nỉ tinh kì quải tịch dương, Lưỡng cung phiến phiến giá phi hoàng. Hàm tê chiến sĩ yêm giang thượng Phục trải trung thân tử đạo bàng. Vạn lí từ thanh lâm hữu đạo, Tam quân loạt tệ thác vô lương. Thăng Long tự cổ hưng vương địa, Hà bất thư hùng quyết nhất trường.\" Bản dịch: Cờ bay phấp phới dải tà dương, Thuyền chở hai cung lướt vội vàng. Chiến sĩ áo tê dồn mặt bãi, Trung thần mũ trải chết bên đường. Quan tuần muôn dặn rừng đầy trộm, Quân lẫy lừng bông lúa thế lương. Sẵn đất Thăng Long xây nghiệp đế. Sao không đem sức quyết so lường. Rõ ràng là ông có ý muốn triệt hạ phe đảng Mạc Đăng Dung để cứu loạn an dân. Nhưng Lê Chiêu tông hèn yếu, đến nỗi năm Nhâm ngọ 1522 phải bỏ ngôi chạy vào Thanh Hóa để trânh sự áp đảo của Mạc Đăng Dung. Ông cũng chạy theo vua. Vào đến Thanh Hóa thì nhà vua đã bị nhóm Trịnh Tuy bức bách đi nơi khác rồi. Ông già yếu không theo kịp nữa, đau xót tự vận chết khoảng cuối năm Nhâm ngọ 1522, hưởng dương 54 tuổi. Ngô Hoán và Nguyễn Mẫn Đốc cũng tự vận chết theo ông. Nhà Lê trung hưng, truy phong ông vào bậc nhất tiết nghĩa, làm Phúc thần thượng đẳng, dựng đền thờ phụng."
+  "id" : 1794,
+  "entityName" : "Mai Huỳnh Hoa",
+  "aliases" : [ "Mai Kim Ba" ],
+  "overview" : "Bà vốn là cháu ngoại nữ sĩ Sương Nguyệt Ánh Nguyễn Ngọc Khuê (con gái Nguyễn Đình Chiểu). Bà có tiếng thơ văn, có tinh thần yêu nước hết lòng giúp đỡ chồng con trên đường sự nghiệp. Những lúc chồng (Phan Văn Hùm) ngồi tù ra nước ngoài, hoặc bị đày Côn Đảo, bà cùng vợ Nguyễn An Ninh vẫn một lòng khảng khái thờ chồng nuôi con, giúp đỡ các nhà yêu nựớc trong thời vong quốc. Khi chồng mất, bà có mấy vần thơ truy niệm: Kể từ ngộ biến đến giờ, Xuân qua thu lại có thừa đau thương. Khóc người tử táng hà phương, Lòng tôi là huyệt ủ hương hồn người. Bà cũng là một cây bút sáng giá trên các tạp chí, tập san tại Sài Gòn trước đây. Năm Đinh mão 1987, ngày 25-7 bà mất tại thành phố Hồ Chí Minh, thọ 77 tuổi an táng tại nghĩa địa họ Phan ở thị xã Thủ Dầu Một, tỉnh Bình Dương."
 }

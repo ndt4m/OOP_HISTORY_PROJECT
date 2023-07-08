@@ -1,17 +1,17 @@
 {
-  "dateOfBirth": "Giáp Ngọ 1894",
-  "dateOfDeath": "Kỉ Hợi 1959",
-  "hometown": "quê làng Tân Động, tỉnh Sa Đéc (nay thuộc tỉnh Đồng Tháp)",
-  "occupation": "Giáo sư, cựu Phó Viện trưởng Viện Đại học Đông Dương, cựu Bộ trưởng Giáo dục",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Canh Dần 1230",
+  "dateOfDeath" : "Tân Mão 1291",
+  "hometown" : "Không rõ",
+  "occupation" : "Pháp sư cư sĩ đời Trần",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Trần" : 15,
+    "nhà Trần" : null
   },
-  "id": 552,
-  "entityName": "Nguyễn Thành Giung",
-  "aliases": [],
-  "overview": "Ông là con rể nhà duy tân, kiêm Tổng lí Công ti Liên Thành Hồ Tá Bang ở Phan Thiết Chợ Lớn. Thuở nhỏ học tại Trường Chasseloup Laubat Sài Gòn, rồi sang Pháp học tại Trường Marseille. Năm 1923 tốt nghiệp Tiến sĩ Khoa học với hạng Tối ưu (très honorable). Năm 1926 về nước làm việc ở Phòng nghiên cứu Khoa học thuộc địa rồi dạy tại Trường Sư phạm Normal, Trường Chasseloup Laubat (nay là Trường Lê Quí Đôn) Trường Pétrus Ký (nay là Trường Lê Hồng Phong). Sau đó làm Hiệu trưởng Trường Trung học Mĩ Tho (nay là Trường Nguyễn Đình Chiểu). Năm 1946, ông giữ chức Bộ trưởng Quốc gia Giáo dục trong chính phủ Nguyễn Văn Thinh. Sau khi chính phủ này đổ, ông ra Hà Nội làm giáo sư tại Đại học Khoa học Hà Nội. Năm 1952 được cử làm Bộ trưởng Giáo dục và Thanh niên kiêm Phó Viện trưởng Viện Đại học Hà Nội. Trong thời gian giữ trọng trách về giáo dục, ngày 14-10-1953 ông cho ban hành một nghị định về cải tổ giáo dục bậc Trung học theo chương trình Việt Nam. Sau năm 1955, ông về sống tại Sài Gòn và mất trong năm 1959, an táng tại Nghĩa trang đất thánh Tây (Đa Kao) Sài Gòn, năm 1982 phần mộ ông phải di dời, hài cốt được hỏa táng, tro đem về thờ ở Pháp, nơi vợ con ông sinh sống."
+  "id" : 552,
+  "entityName" : "Trần Tung",
+  "aliases" : [ "Trần Quốc Tung", "Tuệ Trung Thượng Sĩ" ],
+  "overview" : "Tuệ Trung Thượng sĩ (慧中上士; 1230 - 1291 ) tên thật là Trần Tung (陳嵩, hay Trần Quốc Tung), là một thành viên trong hoàng tộc nhà Trần với tước hiệu Hưng Ninh Vương và là một thiền sư Việt Nam. Ông là người hướng dẫn vua Trần Nhân Tông vào cửa Thiền và có nhiều ảnh hưởng đến tư tưởng của vị vua sáng lập Thiền phái Trúc Lâm Yên Tử.\n----------------------------------------------\nTâm hồn ông phóng khoáng, không màng công danh, chuyên nghiên cứu đạo Phật, say mê Thiền học. Ông thọ giáo với Thiền sư Tiêu Dao, nổi tiếng thâm thông đạo lí, được Trần Thánh tông và Nhân tông kính trọng. Khi quân Nguyên - Mông xâm lược ông có công kháng chiến cứu nước, được phong chức trọng quyền cao nhưng ông đều từ chối. Chỉ nhận tước vị Ninh vương rồi về ấp phong ở Tịnh Bang, ẩn dật nơi đấy tham cứu về thiền học. Năm Tân mão 1291 ông mất ở ấp Tịnh Bang, thọ 61 tuổi. Tác phẩm sáng giá của ông là bộ: Tuệ Trung Thượng sĩ ngữ lực. (Do sự nhẫm lẫn của các học gia đời trước nhiều sách ghi Tuệ Trung Thượng sĩ là Trần Quốc Tảng, thật ra ông là Trần Tung em Trần Quốc Tuấn, cùng cha khác mẹ)."
 }

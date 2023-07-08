@@ -1,18 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê làng Nhơn Ân, huyện Tuy Phước",
-  "occupation": "Nhà soạn tuồng",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Nhâm Tuất 1922",
+  "dateOfDeath" : "Bính Dần 1986",
+  "hometown" : "quê ở huyện Củ Chi, tỉnh Gia Định (nay thuộc huyện Củ Chi, Thành Phố Hồ Chí Minh)",
+  "occupation" : "Thiếu tướng QĐND Việt Nam",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 441,
-  "entityName": "Nguyễn Văn Diêu",
-  "aliases": [
-    "Tú Nhơn Ân"
-  ],
-  "overview": "Năm Canh thân 1860 đậu tú tài tại trường thi Bình Định, ông không ra làm quan mở trường dạy học ở quê nhà. Ông có tài về thơ văn lẫn nghệ thuật, sống cuộc đời ẩn dật, từ bỏ mọi hệ lụy xã hội. Học trò ông rất nhiều người yêu nước kiệt xuất, khi xuất chính trở nên đại thần triều Nguyễn như Đào Tấn, hoặc chí sĩ nổi tiếng như Mai Xuân Thưởng, Tăng Bạt Hổ... Tương truyền ông có viết vở tuồng Ngũ hổ bình Liêu (Tây) Công diễn được khán giả nhiệt liệt tán thưởng, nhưng đoạn chót có chỗ gượng ép. Sau khi ông qua đời, người học trò xuất sắc của ông là Đào Tấn đến lễ ông bằng một con heo quay, xin phép thầy cho mình mở cửa ải để Địch Thanh sang Liêu diệt giặc. Từ ấy vở tuồng trở nên đặc sắc. Tác phẩm của ông: - Ngũ hổ bình Liêu - Liễu đô Và rất nhiều thơ phú."
+  "id" : 441,
+  "entityName" : "Nguyễn Văn Bứa",
+  "aliases" : [ "Nguyễn Hồng Lam" ],
+  "overview" : "Ông tham gia cách mạng trước năm 1945 rồi kháng chiến chống Pháp từ 1945, cấp bậc đại đội trưởng quân giải phóng. Từng chỉ huy các trận đánh lớn ở Lạc An (Biên Hòa), bốt cầu bà Hồng (làng Nhị Bình), đánh trả ác liệt cuộc càn của Pháp vào Bàu Trâm xã An Phú. Tháng 4-1946 chống trả dũng càm cuộc càn lớn vào căn cứ giết chết 50 tên giặc... Tháng 3-1947 tỉnh Gia Định thành lập 2 trung đoàn chủ lực, ông làm trung đoàn phó trung đoàn 312, rồi sau đó giữ chức trung đoàn trưởng, tham gia trận đánh phủ đầu để đơn vị súng cối nhả đạn vào tàu giặc trên sông Sài Gòn 18-3-1950. Trong kháng chiến chống Mỹ ông mang bí danh Hồng Lâm, chỉ huy trưởng QK7, quân hàm thiếu tướng QĐND Việt Nam. Ông được Quân đội và Nhà nước Việt Nam tặng các huân chương Độc lập hạng nhất, Quân công hạng nhì..."
 }

@@ -1,17 +1,16 @@
 {
-  "dateOfBirth": "1496\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath": "1568\n----------------------------------------------\nMậu Thìn 1568",
-  "hometown": "quê ở Hoan Châu, Nghệ An (nay thuộc tỉnh Nghệ An)",
-  "occupation": "Võ tướng đời Hậu Lê",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nam - Bắc Triều": 19,
-    "nhà Hậu Lê": null
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Tân Mùi 1931",
+  "hometown" : "quê làng Đông Sơn, tỉnh Gò Công (nay thuộc tỉnh Tiền Giang)",
+  "occupation" : "Nhà báo, nhà sưu tập văn học",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 2758,
-  "entityName": "Bùi Tá Hán",
-  "aliases": [],
-  "overview": "Bùi Tá Hán (1496-1568) , là một danh tướng có công khôi phục nhà Hậu Lê (thời Lê Trung Hưng, 1533-1789) trong lịch sử Việt Nam.\n----------------------------------------------\nĐời Lê Anh tông, khoảng năm Chính Trị (1558-1571), ông được phong làm Bắc quân đô đốc, Thiếu bảo, Trần Quan Công phụng chỉ vào trấn thủ dinh Quảng Nam. Tại đấy, ông và người con trai trưởng là Bùi Tá Thế dày công khai hoang lập ấp, dẹp yên trộm cướp, giữ vững trật tự xã hội. Chính ông đã đã đốc suất dân quân xây đắp lũy dài \"Tịnh Mao\" cao 2 thước, chạy dài từ huyện Tư Nghĩa đến Mộ Đức, tỉnh Quảng Ngãi và lũy Sơn Thành ở An Tân (Quảng Nam án ngự lị sở Thừa Tuyên). Sau, vì khinh địch ông bị quan Chiêm Thành bắt giết tại khu rừng Lăng. Dân chúng chôn cất ông ngay tại khu rừng này. Khi ông mất, được truy tặng Thái bảo. Người con thứ của ông là Bùi Phụ Phang, làm đến Bố chánh tỉnh Sơn Tây, trong đời Thiệu Trị. Năm Minh Mạng 13 (Nhâm thìn 1832), gia phong là Khuông quốc Tịnh biên Thọ phục thượng đẳng thần. Đời Tự Đức, các quan địa phương có dựng bia bên mộ ông, khắc mấy chữ: \"Cố Lê đô đốc Trần Quận Công chi mộ \". Tại Thu Phổ, huyện Tư nghĩa, tỉnh Quảng Ngãi còn có mộ và miếu thờ ông."
+  "id" : 2758,
+  "entityName" : "Lê Sum",
+  "aliases" : [ "Trường Mậu" ],
+  "overview" : "Xuất thân trong một gia đình nho học ở đất Gò Công, thời trẻ ông dạy học (chữ Hán) tại quê nhà ít lâu, những năm đầu thế kỉ ông lên Sài Gòn viết báo. Từng cộng tác với các báo: Nông cổ mín đàm, Trung lập, làm chủ bút báo Công luận một thời. Trong đời cầm bút ông có công sưu tập một số thơ văn Nôm của tác giả gốc Nam Kì, trong đó có cuốn Việt âm thi tập, Việt âm văn uyển, Thi phú văn từ... Thơ ông tình tứ, giàu cá tính, như bài: Tự thuật Nghĩ mình một đứa cũng ngang tàng, Giàu cũng không dua khó chẳng than! Non nước ruổi dong ưa thú lạ, Tới lui lòn cúi tránh người sang Cánh buồm phong nguyệt năm hồ trải, Chén rượu giao du bốn biển tràn. Cũng ngộ, lòng trời chìu ý muốn Khi đài, khi các lúc quan san. Ông mất năm 1931 tại quê nhà."
 }

@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "Canh Dần 1890",
-  "dateOfDeath": "Canh Tuất 1910",
-  "hometown": "quê phủ Hưng Nguyên, tỉnh Nghệ An",
-  "occupation": "Nhà yêu nước ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "7 tháng 5, 1909 Quy Nhơn, Bình Định, Liên bang Đông Dương\n----------------------------------------------\nKỉ Dậu 1909",
+  "dateOfDeath" : "7 tháng 11, 1968 (59 tuổi) Tây Ninh, Việt Nam Cộng hòa\n----------------------------------------------\nMậu Thân 1968",
+  "hometown" : "tại Quảng Nam",
+  "occupation" : "Bác sĩ Y khoa, nhà hoạt động cách mạng, anh hùng lao động",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 1744,
-  "entityName": "Phan Lại Lượng",
-  "aliases": [],
-  "overview": "Ông tích cực hưởng ứng phong trào Đông du, Duy tân. Năm Mậu thân 1908 ông vừa 18 tuổi, cha mẹ ép cưới vợ cho ông, chưa được hai tháng, ông thoát li gia đình, cùng với Nguyễn Đức Công (tức Hoàng Trọng Mậu) và một nhóm 15 thanh niên dò đường núi sang Quảng Tây rồi đi Nhật, đến Đông Kinh được tổ chức đưa vào học ở Đồng văn thư viện. Ít lâu, ông lâm bệnh nhưng vẫn cố gắng học tập. Sau, ông trở về Hương Cảng, bệnh thêm nặng, 1910 ông xuống tàu đi Quảng Đông, phẫn chí vì bệnh không thuyên giảm, không đạt thành được nguyện vọng, ông nhảy xuống biển tự tử. Các thủy thủ cứu lên đưa vào y viện, nhưng không còn cứu được nữa. Ông mất, hưởng dương 20 tuổi. Trần Quốc Duy điếu ông: \"Phù sinh hà tác bi, khả liên quốc nạn gia cừu, tráng chí bán sinh lưu thủy thệ; Đồng đảng y nhiên tại; hội khán càn khôn hoán chuyển, anh hồn vạn lí liệt phong lai.\" Nghĩa: Phù sinh có tiếc gì, đáng thương nạn nước cừu nhà, tráng chí nửa đời theo nước chảy; Đồng đảng còn đây cả sẽ thấy trời xoay đất chuyển hồn thương muôn dặm gió đưa về."
+  "id" : 1744,
+  "entityName" : "Phạm Ngọc Thạch",
+  "aliases" : [ "Tư Đá", "Tư Thạch" ],
+  "overview" : "Phạm Ngọc Thạch (1909-1968) là một Nhà khoa học y khoa Việt Nam, Giáo sư tiến sĩ khoa học, nguyên Bộ trưởng Bộ Y tế trong chính phủ Việt Nam Dân chủ Cộng hòa. Ông được Nhà nước Cộng hòa Xã hội Chủ nghĩa Việt Nam truy tặng Giải thưởng Hồ Chí Minh năm 1997 vì các cống hiến trong lĩnh vực khoa học.\n----------------------------------------------\nTrước Cách mạng tháng Tám ông đóng góp nhiều công sức trong việc xây dựng cơ sở cách mạng ở Sài Gòn, kể cả việc thành lập Đoàn thanh niên Tiền phong, ông cũng chung lòng với bác sĩ Nguyễn Văn Thủ, Mai Văn Bộ tổ chức được nhiều cơ sở Thanh niên Tiền phong ở Nam Bộ. Trong khí thế sôi động của cuộc Cách mạng tháng Tám 1945, ông giữ chức Ủy trưởng ngoại giao, tên tuổi ông gắn bó với Lâm ủy hành chánh Nam Bộ và Thủ lĩnh Thanh niên Tiềnphong. Đến ngày 23-9-1945, cuộc kháng chiến bùng nổ, ông là Chủ tịch Ủy ban kháng chiến hành chánh khu Sài Gòn - Gia Định. Sau đó, ông vào chiến khu rồi ra Bắc về Nam mấy lượt, tích cực hoạt động trên cương vị Bộ trưởng Y tế, người đứng đầu ngành Y tế cách mạng, cống hiến cho y học và nền y tế cách mạng thật xuất sắc, đặc biệt là trong việc chống bệnh sốt rét. Ngày 7-11-1968 ông mất nơi một căn nhà tranh, giữa chiến khu miền Đông Nam Bộ, hưởng dương 59 tuổi. Sau khi mất ông được Đảng và Nhà nước Việt Nam tặng nhiều huân chương cao quí. Ông là tác giả nhiều sách về y học viết bằng tiếng Việt và tiếng Pháp, gồm một số chuyên đề in trên các tạp chí ở Hà Nội."
 }

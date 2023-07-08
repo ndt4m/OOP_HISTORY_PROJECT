@@ -1,16 +1,19 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 1637,
-  "entityName": "nhà Kim",
-  "aliases": [
-    "Đại Kim"
-  ],
-  "overview": "Nhà Kim hay triều Kim (tiếng Trung: 金朝; bính âm: Jīn Cháo; Hán-Việt: Kim triều, chữ Nữ Chân: /amba-an antʃu-un/ 1115-1234) là một triều đại do người Nữ Chân gây dựng trong lịch sử Trung Quốc. Người Nữ Chân nguyên là phiên thuộc của triều Liêu, thủ lĩnh Hoàn Nhan A Cốt Đả sau khi thống nhất các bộ lạc Nữ Chân, vào năm 1115 dựng nước đặt đô tại Hội Ninh phủ (nay thuộc A Thành, Hắc Long Giang), quốc hiệu là Đại Kim. Sau khi triều Kim lập quốc, cùng Bắc Tống định \"Liên minh trên biển\" nhằm giáp công Liêu, đến năm 1125 thì Kim diệt Liêu. Bắc Tống tiến đánh Liêu hai lần song đều thua, Kim thấy vậy liền xé bỏ hẹn ước với Bắc Tống, hai lần nam hạ Trung Nguyên, đến năm 1127 thì tiêu diệt Bắc Tống. Khi dời đô đến Trung Đô (nay thuộc Bắc Kinh), lãnh thổ Kim bao trùm Hoa Bắc, cùng khu vực Hoa Trung ở phía bắc Tần Lĩnh-Hoài Hà, khiến cho Tây Hạ cùng các bộ lạc Mạc Bắc như Tháp Tháp Nhi, Khắc Liệt phải thần phục, Nam Tống phải nhận là nước cháu (Tống gọi Kim là nước chú), xưng bá tại Đông Á."
+  "dateOfBirth" : "Bính Thân 1716\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "Bính Ngọ 1786\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Có sách chép là Duy Diêu\n----------------------------------------------\nVua",
+  "workTenure" : "1740—1786",
+  "fatherName" : {
+    "Lê Thuần Tông" : 1939
+  },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34,
+    "Nam triều – Nhà Hậu Lê – giai đoạn Lê Trung hưng" : 28
+  },
+  "id" : 1637,
+  "entityName" : "Lê Hiển Tông",
+  "aliases" : [ "Lê Hiển Tông" ],
+  "overview" : "Ông là con trưởng của Thuần tông, do Minh Vương Trịnh Doanh lập lên và phụ chính, lên ngôi vào tháng 5 năm Canh thân (1740). Ông gả nguời con gái tài hoa là Ngọc Hân cho vua Quang Trung. Năm 1786, nhằm ngày 17 tháng 7 âm lịch ông mất thọ 70 tuổi, ở ngôi vua 17 năm, hiệu năm là Cảnh Hưng. Sau khi ông mất, cháu nội là Lê Duy Kì (cũng gọi là Duy Khiêm) lên nối, tức Mẫn đế hay Chiêu Thống, đất nước càng loạn lạc hơn.\n----------------------------------------------\nLê Hiển Tông (chữ Hán: 黎顯宗 20 tháng 5 năm 1717 – 10 tháng 8 năm 1786), tên húy là Lê Duy Diêu (黎維祧), là vị hoàng đế áp chót của nhà Lê Trung hưng cũng như là thứ 26 của nhà Hậu Lê trong lịch sử Việt Nam. Ông ở ngôi từ tháng 5 năm 1740, sau khi Trịnh Doanh ép vua Lê Ý Tông nhường ngôi cho ông, đến ngày 17 tháng 7 năm 1786.Trong suốt thời gian trị vì ông chỉ dùng một niên hiệu là Cảnh Hưng."
 }

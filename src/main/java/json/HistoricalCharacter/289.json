@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Ất Sửu 1925",
-  "dateOfDeath": "Mậu Thân 1968",
-  "hometown": "quê ở Bạc Liêu",
-  "occupation": "Liệt sĩ cách mạng",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Nhâm Tuất 1922",
+  "dateOfDeath" : "Bính Ngọ 1966",
+  "hometown" : "quê xã Vĩnh Lợi, huyện Vĩnh Lợi, tỉnh Bạc Liêu (nay vẫn thuộc tỉnh Bạc Liêu)",
+  "occupation" : "Tức nhạc sĩ Quách Vĩnh Chương ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nước Việt Nam mới" : 29
   },
-  "id": 289,
-  "entityName": "Lê Thị Riêng",
-  "aliases": [],
-  "overview": "Sinh trong một gia đình nông dân nghèo, mồ côi cha mẹ sớm, giác ngộ cách mạng từ tuổi trẻ, tích cực tham gia kháng chiến từ 1945. Sau hiệp định Genève, bà được bầu làm ủy viên ủy ban Trung ương Mặt trận dân tộc Giải phóng miền Nam, và là phó hội trưởng Hội Liên hiệp phụ nữ Giải phóng miền Nam. Trong một chuyến công tác, bà bị địch bắt vào tháng 5-1967, giam tại nhà lao Biên Hòa. Địch tra tấn vô cùng dã man, bà vẫn bất khuất. Trong cuộc Tổng tiến công tết Mậu thân bà bị chúng giết chết trên đường Hồng Bàng Sài Gòn (nay là đường Hùng Vương Thành phố Hồ Chí Minh)."
+  "id" : 289,
+  "entityName" : "Quách Vĩnh Chương",
+  "aliases" : [ "Quách Vũ" ],
+  "overview" : "Ông nhiệt tình yêu nước, từ năm 1940 ông học ở Hà Nội, từng hợp tác với Lưu Hữu Phước sáng tác và phổ biến những ca khúc khơi động tinh thần cách mạng. Rồi từ sau Cách mạng tháng Tám, ông tận tụy phục vụ công tác văn hóa cứu quốc. Những bài hát của ông được nhân dân hoan nghênh. Năm 1954, nhận chỉ thị về Sài Gòn hoạt động, ông cùng Dương Tử Giang, Nguyễn Tấn Sĩ và các đồng chí tích cực cùng âm nhạc khơi động lòng yêu nước của nhân dân nội thành. Bị địch theo dõi và bắt được, ông vẫn vững ý chí bất khuất. Đến khi thoát ngục, ông trở ra chiến khu công tác và càng tích cực hơn. Ngày 9-9-1966 ông mất, hưởng dương 44 tuổi. Đến ngày 17-4-1984 Hội Văn nghệ TP. Hồ Chí Minh làm lễ truy điệu và bốc mộ cải táng ông về nghĩa trang liệt sĩ thành phố. Các ông Trương Bỉnh Tòng, Đoàn Giỏi đều có bài cảm niệm ông chí thiết."
 }

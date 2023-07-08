@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "Kỉ Tị 1929",
-  "dateOfDeath": "Ất Mão 1975",
-  "hometown": "quê ở Gò Me, tỉnh Gò Công (nay thuộc tỉnh Tiền Giang)",
-  "occupation": "Nhà thơ tham gia kháng chiến chống Pháp cứu nước",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "1506\n----------------------------------------------\nGi Áp Tí 1504",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "người làng Mộ Trạch, huyện Đường An, nay là thôn Mộ Trạch, xã Tân Hồng, huyện Bình Giang, tỉnh Hải Dương, Việt Nam;\n----------------------------------------------\nquê làng Mộ Trạch, huyện Đường An, tỉnh Hải Dương (nay vẫn thuộc tỉnh Hải Dương)",
+  "occupation" : "Cũng gọi là Lê Quang Bôn (vì chữ Bí cũng đọc là Bôn, nên có sách chép là Lê Quang Bôn), Văn thần nhà Mạc, tự Thuần Phu, hiệu Hối Trai",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "nhà Mạc" : null,
+    "Nam - Bắc Triều" : 19
   },
-  "id": 2498,
-  "entityName": "Hoàng Tố Nguyên",
-  "aliases": [],
-  "overview": "Ông từng hoạt động tại Sài Gòn, hoàn thành những công tác mật, rồi lên Biên Hòa lãnh công tác thông tin, văn nghệ thuộc miền Đông Nam Bộ. Từ cuối năm 1954 tập kết ra Bắc, ông lần lượt công tác tại báo Văn nghệ, Độc lập, Ti Thông tin Văn hóa Hà Tây và Hội văn nghệ Thái Bình. Năm 1975, khoảng tháng 6, ông mất tại Thái Bình sau một cơn bạo bệnh đột ngột. Ông còn để lại đời 6 tập thơ đã xuất bản. - Đất nước - Gò Me (1957) - Quê chung (1962) - Gởi chiến trường chống Mĩ - Hậu phương không ngủ - Trên quê hương. Hoàng Tố Nguyên là một trong các nhà thơ sáng giá của Nam Bộ trong những ngày đầu kháng chiến chống Pháp."
+  "id" : 2498,
+  "entityName" : "Lê Quang Bí",
+  "aliases" : [ "Lê Quang Bôn" ],
+  "overview" : "Lê Quang Bí (1506 - ?) là quan nhà Mạc trong lịch sử Việt Nam và là nhà thơ Việt Nam. Ông người làng Mộ Trạch, huyện Đường An, nay là thôn Mộ Trạch, xã Tân Hồng, huyện Bình Giang, tỉnh Hải Dương, Việt Nam; nguyên quán lại ở xã Lão Loạt, huyện Thuận Hựu, nay thuộc huyện Hậu Lộc, tỉnh Thanh Hoá.\n----------------------------------------------\nNăm Bính tuất 1526 ông đỗ nhị giáp tiến sĩ (hoàng giáp) 22 tuổi, đời Lê Cung Hoàng. Nhưng năm sau (1527), Mạc Đăng Dung đảo chính, ông thành bề tôi nhà Mạc, làm Tả thị lang bộ Hộ. Năm Mậu thân 1548, ông đi sứ nhà Minh, bị vua Minh giữ lại không cho về. Suốt 18 năm bị đày ở Trung Quốc, ông vẫn giữ tiết tháo, không quị lụy khiến đám quan lại nhà Minh phải cảm phục tài đức. Vì thế ông được về nước. Năm Bính dần 1566, ông về đến nước nhà tóc đã bạc phơ (62 tuổi) khiến cả triều đình đều cảm động, Mạc Mậu Hợp phong ông làm Thượng thư bộ Hộ, tước Mộ Xuyên Hầu. Sau khi mất được truy tặng Thiếu bảo tước Tô Quận Công. Ông là tác giả sách Tư hương vận lục, trong đó có nhiều thơ vịnh sử, về các nhân vật trong thân tộc như: Lê Cảnh Tuân, Lê Nại..."
 }

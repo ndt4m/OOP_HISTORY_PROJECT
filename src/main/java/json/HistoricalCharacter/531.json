@@ -1,26 +1,16 @@
 {
-  "dateOfBirth": "300",
-  "dateOfDeath": "343 Trung Quốc",
-  "hometown": "Không rõ",
-  "occupation": "Vua Thành Hán",
-  "workTenure": "338 – 343",
-  "fatherName": {
-    "Lý Tương (李驤)": null
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Quí Dậu 1033",
+  "hometown" : "Quê huyện Đông Ngạn, tỉnh Bắc Ninh",
+  "occupation" : "Thiền sư đời Lý Thái tông, không rõ tên thật",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Lý" : 14
   },
-  "motherName": {
-    "Lý Thọ là Lý Thế là một nhà nước duy nhất với tên gọi Thành Hán": null
-  },
-  "eraName": {
-    "Thành Hán": null
-  },
-  "id": 531,
-  "entityName": "Lý Thọ",
-  "aliases": [
-    "Chiêu Văn Hoàng đế (昭文皇帝)",
-    "Vũ Khảo",
-    "Lý Thọ (李壽)",
-    "Hán Hưng (漢興) 4/338-343",
-    "Trung Tông (中宗)"
-  ],
-  "overview": "Lý Thọ (giản thể: 李寿; phồn thể: 李壽; bính âm: Lǐ Shòu) (300–343), tên tự Vũ Khảo (武考), gọi theo thụy hiệu là (Thành) Hán Chiêu Văn Đế ((成)漢昭文帝), là một Hoàng đế Thành Hán trong lịch sử Trung Quốc. Ông là anh em họ của người sáng lập nên Thành Hán là Lý Hùng, ông lật đổ con trai của Lý Hùng là Lý Kỳ năm 338. Lý Thọ sau đó muốn đoạn tuyệt với chế độ mà Lý Hùng gây dựng nên đã đổi quốc hiệu từ Thành sang Hán, và còn đi xa hơn nữa khi lập một tông miếu khác. Tuy nhiên, các sử gia không coi chế độ của ông là một nước riêng và gọi chế độ từ khi Lý Hùng sáng lập nên cho đến thời con trai của Lý Thọ là Lý Thế là một nhà nước duy nhất với tên gọi Thành Hán. Lý Thọ ban đầu được biết đến với lòng khoan dung và tiết kiệm, giống như Lý Hùng, song sau đó ông chuyển sang noi theo cách cai trị của Hoàng đế Hậu Triệu là Thạch Hổ khi cai trị một cách khắc nghiệt và ngông cuồng, gây cho người dân gánh nặng rất lớn và làm tổn hại đến Thành Hán."
+  "id" : 531,
+  "entityName" : "Nghiên Bảo Tính",
+  "aliases" : [ "Bảo Tính" ],
+  "overview" : "Ông có học thức cao, nhưng chán đường công danh, cùng với hai bạn là Phạm Minh Tâm và Mai Trực (tức thiền sư Viên Chiếu) học đạo với sư La Định Hương. Về sau, ông và Phạm Minh Tâm chia nhau đi thuyết giáo ở các địa phương, lập nên những tùng lâm lớn, có uy tín trong dân gian, thu hút đệ tử thọ giáo rất nhiều. Triều đình nghe tiếng, nhà vua có lời ngợi khen và sẵn lòng hỗ trợ việc hoằng pháp, các sĩ phu cũng tỏ lòng trọng vọng. Năm Quí dậu 1033 ông mất, triều đình ban chiếu rước tro xác hỏa thiêu của ông về chùa Trường Thánh và truyền xây tháp ở chùa Quán Đình trên núi Không Lộ."
 }

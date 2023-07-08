@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Lê": null
+  "dateOfBirth" : "27 tháng 12 năm 1928 Quảng Trị, Trung Kỳ, Liên bang Đông Dương\n----------------------------------------------\nMậu Thìn 1928",
+  "dateOfDeath" : "23 tháng 11, 2003 (74 tuổi) Hà Nội, Việt Nam\n----------------------------------------------\nQuí Mùi 2003",
+  "hometown" : "tại xã Hải Tân, huyện Hải Lăng, tỉnh Quảng Trị",
+  "occupation" : "Nhạc sĩ\n----------------------------------------------\nNhạc sí cựu bộ trưởng",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 1338,
-  "entityName": "Nguyễn Văn Giai",
-  "aliases": [],
-  "overview": "Nguyễn Văn Giai (chữ Hán: 阮文階, 1553 - 1628 ) là một Tam nguyên Hoàng giáp, từng giữ chức Tể tướng, tước Thái bảo, Quận công, công thần \"khai quốc\" thời Lê trung hưng, nổi tiếng chính trực và biết giữ nghiêm pháp luật triều đình, được nhà Lê xét công đánh nhà Mạc, ông đồng thời cũng là một nhà thơ"
+  "id" : 1338,
+  "entityName" : "Nguyễn Tăng Hích",
+  "aliases" : [ "Hồ Thuận An", "Trần Hoàn" ],
+  "overview" : "Trần Hoàn (1928-2003) là tác giả của nhiều ca khúc nổi tiếng như Sơn nữ ca (1948), Tìm em, Lời người ra đi (1950), Lời Bác dặn trước lúc đi xa (1998), Thăm Bến nhà rồng (1990), Kể chuyện người cộng sản, Giữa Mạc Tư Khoa nghe câu hò Nghệ Tĩnh... Ông còn từng là Bộ trưởng Bộ Văn hóa - Thông tin Việt Nam.\n----------------------------------------------\nXuất thân trong một gia đình khoa bảng quan lại, chắt đại thần Nguyễn Tăng Doãn. Thuở nhỏ ông học ở Quảng Trị, Huế, sau Cách mạng tháng 8 năm 1945 hoạt động tại Huế, Quảng Trị trong công tác học sinh, tuyên truyền ở Liên khu 4 rồi Giám đốc sở Văn hóa Thông tin Hải Phòng. Sau hiệp định Genève ông tập kết ra Bắc phụ trách cộng tác văn hóa, văn nghệ, tuyên huấn của ĐCSVN. Sau ngày thống nhất đất nước ông về Huế làm Giám đốc Sở Văn hóa Thông tin tỉnh Bình Trị Thiên. Tại đây ông là người khởi xướng đập bỏ đàn Nam Giao của triều Nguyễn ở Huế mãi đến những năm 90 mới tái tạo lại khang trang như ngày nay. Năm 1983-1987 ông ra Hà Nội giữ chức Phó Trưởng ban Văn hóa, Văn nghệ trung ương, Trưởng ban Tuyên giáo, Phó bí thư Thành ủy Hà Nội, ủy viên ban chấp hành Trung ương Đảng Cộng sản Việt Nam (khóa VI, VII), Bộ trưởng Bộ Văn hóa - Thông tin, Phó ban, Bí thư đảng đoàn, chủ tịch ủy ban toàn quốc các Hội Văn học Nghệ thuật trung ương. Các tác phẩm chính: Sơn nữ ca, Lời người ra đi, Giữa Mạc Tư Khoa nghe câu hò Nghệ Tĩnh, Một mùa xuân nho nhỏ, Lời Bác dặn trước lúc ra đi, Lời ru trên nương, Khúc hát người Hà Nội... Ông được Đảng và Nhà nước Việt Nam tặng nhiều huân chương cao quí, trong đó có Giải thưởng Hồ Chí Minh về Văn học, Nghệ thuật. Ông mất ngày 23-11-2003 tại Hà Nội."
 }

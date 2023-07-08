@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "1837",
-  "dateOfDeath": "1868",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 3066,
-  "entityName": "Nguyễn Văn Lịch",
-  "aliases": [],
-  "overview": "Nguyễn Trung Trực (chữ Hán: 阮忠直; 1837 –1868) là thủ lĩnh phong trào khởi nghĩa chống Pháp vào nửa cuối thế kỷ 19 ở Nam Bộ, Việt Nam."
+  "dateOfBirth" : "Nhâm Dần 1482",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Thượng Cốc, huyện Lôi Dương, tỉnh Thanh Hóa",
+  "occupation" : "Văn thần đời Lê Hiến tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Triều Lê Sơ" : 7
+  },
+  "id" : 3066,
+  "entityName" : "Lê Tán Tương",
+  "aliases" : [ ],
+  "overview" : "Năm Kỉ mùi 1499, ông đỗ nhị giáp tiến sĩ mới 17 tuổi. Tuổi trẻ tài cao lại có khí tiết nên được sĩ phu yêu kính, làm quan đến Thượng thư bộ Công, thập nhị kinh diên, tước Văn Phú Hầu. Em ông là Lê Tán Thiện cũng đỗ tam giáp tiến sĩ cùng khoa với ông, làm quan đến Thượng thư bộ Hình, cháu ông là Lê Trạc Tú cũng là danh sĩ đương thời."
 }

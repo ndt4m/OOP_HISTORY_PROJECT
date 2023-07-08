@@ -1,20 +1,18 @@
 {
-  "dateOfBirth": "Dương Thành, Hà Nam",
-  "dateOfDeath": "208 TCN Hạ Thành Phụ",
-  "hometown": "Không rõ",
-  "occupation": "Vua nước Sở",
-  "workTenure": "209 TCN - 208 TCN",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Tần": null
+  "dateOfBirth" : "?",
+  "dateOfDeath" : "1005, Thạch Hà, Nghệ An",
+  "hometown" : "Không rõ",
+  "occupation" : "Đông Thành Vương",
+  "workTenure" : "989 - 1005",
+  "fatherName" : {
+    "Lê Đại Hành" : 2974
   },
-  "id": 2986,
-  "entityName": "Trần Thắng",
-  "aliases": [
-    "Ẩn Vương",
-    "Trương Sở Vương",
-    "Trần Thắng"
-  ],
-  "overview": "Trần Thắng (陳勝; ? - 208 TCN) là thủ lĩnh đầu tiên đứng lên khởi nghĩa chống lại nhà Tần, người khởi đầu cho phong trào lật đổ nhà Tần trong lịch sử Trung Quốc. Ông người Dương Thành, tỉnh Hà Nam, Trung Quốc."
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Tiền Lê" : 8
+  },
+  "id" : 2986,
+  "entityName" : "Lê Long Tích",
+  "aliases" : [ "Lê Long Tích Lê Ngân Tích", "Đông Thành Đại Vương" ],
+  "overview" : "Lê Long Tích (chữ Hán: 黎龍錫; ? - 1005) là con thứ hai của Lê Đại Hành. Sinh thời ông được nhận tước phong là Đông Thành vương (東城王). Hiện còn 2 di tích riêng thuộc cố đô Hoa Lư tỉnh Ninh Bình là nơi thờ Đông Thành Vương Lê Ngân Tích."
 }

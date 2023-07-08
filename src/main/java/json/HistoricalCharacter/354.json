@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê làng Bình Lập, Tân An (nay thuộc tỉnh Long An) được Pháp tặng chức Huyện hàm nên thường gọi là Huyện Sĩ, không rõ năm sinh, năm mất",
-  "occupation": "Tay chân thân tín thực dân Pháp",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "Tân Hợi 1671",
+  "dateOfDeath" : "Bính Thìn 1736",
+  "hometown" : "quê làng Thanh Mai, huyện nên Phong, tỉnh Sơn Tây (nay thuộc tỉnh Hà Tây)",
+  "occupation" : "Danh sĩ đời Lê Hi tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
   },
-  "id": 354,
-  "entityName": "Lê Phát Đạt",
-  "aliases": [
-    "Huyện Sĩ"
-  ],
-  "overview": "Xuất thân trong một gia đình theo đạo Thiên Chúa lâu đời tại Nam kì. Thuở nhỏ theo các cố đạo sang học Trường Dòng Truyền giáo ngoại quốc ở Pénang (Mã Lai) nhân gặp thầy dạy trùng tên nên đổi làĐạt. Khi người Pháp đem quân chiếm Nam Kì, ông ra cộng tác với thực dân. Sau khi Pháp chiếm và bình định được Nam kì, ông ta có điều kiện khai thác đất ruộng của các điền chủ theo nghĩa quân thất bại bỏ chạy trong các cuộc khởi nghĩa của nghĩa quân Nam Kì. Từ đó số ruộng đất ông chiếm hữu và khai thác được rất nhiều, nên trở thành một điền chủ lớn ở Nam Kì cuối thế kỷ XIX. Lúc đó trong dân gian có câu truyền tụng: Nhứt Sĩ, nhì Phương, tam Xường, Tứ Định. (Sĩ: Lê Phát Đạt.Hương: Tổng đốc Đỗ Hữu Phương, tay sai Pháp, đại phú gia. Xường: bá hộ Xường ở Chợ Lớn tên thật là Lý Tường Quan, xuất thân thông ngôn, tục danh là Hộ Xường. Đinh: bá hộ Định, làm hộ trưởng, họ Trần ở Chợ Lớn) nói lên được sự phú túc và thế lực ông. Từng có chân trong Hội đồng thuộc địa của Pháp ở Đông Dương, nhưng phần lớn thì giờ ông dành cho việc hoạt động vào công cuộc phát triển nông nghiệp và truyền bá đạo Thiên chúa (xây cất nhà thờ tài trợ các giáo phận và các chương trình từ thiện của giáo hội...). Khi mất, xác ông được chôn giữa thánh đường Chợ Đũi (tức nhà thờ Huyện Sĩ nay thuộc Quận 1, Thành phố Hồ Chí Minh) do ông bỏ tiền ra xây cất trên đất của mình. Vợ ông là bà Huỳnh Thị Tài cũng thuộc một gia đình theo đạo Thiên Chúa lâu đời nhất ở đất Nam Kì. Tương truyền bao nhiêu tài sản của ông đều do bà quán xuyến, kinh dinh."
+  "id" : 354,
+  "entityName" : "Lê Anh Tuấn",
+  "aliases" : [ "Địch Hiên" ],
+  "overview" : "Lê Anh Tuấn có thể là:\n----------------------------------------------\nNăm Giáp tuất 1694, ông đỗ đồng tiến sĩ 23 tuổi, làm Tả thị lang bộ Hộ. Năm Ất mùi 1715 ông sung Chánh sứ sang nhà Thanh (Trung Quốc). Khi về, làm Bồi tụng ở phủ chúa Trịnh và hầu giảng ở tòa Kinh diên, được phong tước Điện Thành Nam. Đến năm Canh tí 1720, thăng Thượng thư bộ Hình, tước Điện Quận Công, rồi cùng Nguyễn Công Hoằng và Nguyễn Công Cơ vào làm Tham tụng ở phủ chúa. Ít lâu được gia thăng Thiếu bảo kiêm Đại học sĩ Đông Các (1726); thăng Thượng thư bộ Hộ, gia Thái bảo (1730). Về sau, bị chúa Trịnh nghi kị, phải ra làm Đốc trấn Lạng Sơn và Thái Nguyên (Nhâm tí 1732), rồi lại bị giáng làm Thừa chánh sứ Lạng Sơn (Giáp dần 1734). Năm Bính thìn 1736,chúa Trịnh buộc ông phải tự tử, ông chết trong niềm uất hận, thọ 65 tưổi. Trong kinh, ngoài quận ai cũng thương về cái chết của ông. Năm Tân dậu (1741), chúa Trịnh Doanh lên nối nghiệp chúa, xét lại việc cũ truy phong lại quan tước của ông và truy tặng Thái Bảo, thụy là Đạt Nghi."
 }

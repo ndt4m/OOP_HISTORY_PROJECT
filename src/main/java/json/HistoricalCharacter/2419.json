@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "Giáp Tí 1924",
-  "dateOfDeath": "Giáp Thân 2003",
-  "hometown": "tại xã Lạc Khoái, huyện Gia Viễn, tỉnh Ninh Bình (nay vẫn thuộc tỉnh Ninh Bình)",
-  "occupation": "Giáo sư văn học, nhà nghiên cứu văn hóa",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Quê làng Đại Định, xã Thanh Oai, tỉnh Hà Đông (nay là tỉnh Hà Tây)",
+  "occupation" : "Hữu thị lang bộ Lại\n----------------------------------------------\nVăn thần đời Lê Hiến tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Lê sơ, Mạc" : null,
+    "Triều Lê Sơ" : 7
   },
-  "id": 2419,
-  "entityName": "Đinh Gia Khánh",
-  "aliases": [],
-  "overview": "Trước năm 1945 ông học tại Ninh Bình, Hà Nội, sau đó dạy các trường trung học Chu Văn An (Hà Nội), Hàn Thuyên (Bắc Ninh), Trường sư phạm thuộc khu học xá Trung ương (tại Quảng Tây, Trung Quốc). Sau hiệp định Genève đến năm 1956 ông về dạy tại khoa Ngữ văn Trường Đại học Tổng hợp Hà Nội, Trường Tuyên huấn Trung ương cho đến ngày hưu trí (1999) ông từng đảm nhiệm các chức vụ: Viện trưởng Viện Văn hóa dân gian, Tổng thư kí Hội văn nghệ dân gian, Tổng biên tập tạp chí Văn hóa dân gian, chuyê viên nghiên cứu thuộc Trung tâm khoa học xã hội và Nhân văn, được Nhà nước Việt Nam phong tặng chức danh Giáo sư và tặng thưởng Giải thưởng Hồ Chí Minh năm 1996. Các tác phẩm chính: - Hợp tuyển thơ văn Việt Nam từ thế kỉ X đến thế kỉ XVIII (1963) - Điển cố văn học (1977) - Văn học dân gian (1972) - Văn học dân gian - những lĩnh vực nghiên cứu (1989) - Địa chí văn hóa dân gian Thăng Long - Đông Đô - Hà Nội (1991) và rất nhiều chuyên đề văn hoá dân gian (vừa là dịch giả vừa là tác giả). Ông mất ngày 7 tháng 5 năm 2003, thọ 79 tuổi."
+  "id" : 2419,
+  "entityName" : "Lê Dực",
+  "aliases" : [ ],
+  "overview" : "Lê Dực là hữu thị lang bộ Lại thời Lê sơ, đỗ đồng tiến sĩ năm Cảnh Thống.\n----------------------------------------------\nNăm Nhâm tuất 1502, ông đỗ đồng tiến sĩ. Làm đến Hữu thị lang bộ Lại, có tiết tháo được sĩ phu trọng vọng. Năm Bính tí 1516, nhóm Trần Cảo, Trần Tung gây biến loạn, đánh chiếm kinh thành, xưng làm vua. Bấy giờ Lê Chiêu tông từ Tây Đô (Thanh Hóa) điều động binh sĩ ra đánh dẹp, ông làm Tán lí dinh Sơn Nam, họp quân cùng các nơi tiến đánh lấy lại được kinh thành. Năm Đinh hợi 1527, Mạc Đăng Dung đảo Chính. Ông không khuất phục, lánh mình ở ẩn, được người đương thời khen ngợi tiết nghĩa."
 }

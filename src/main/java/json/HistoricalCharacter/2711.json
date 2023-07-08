@@ -1,18 +1,19 @@
 {
-  "dateOfBirth": "Tân Tị 1881",
-  "dateOfDeath": "Mậu Thân 1908",
-  "hometown": "Quê làng Trường An, huyện Tam Kì, tỉnh Quảng Nam, nay là xã Tam Xuân, huyện Núi Thành, tỉnh Quảng Nam",
-  "occupation": "Chí sĩ cận đại",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "Giáp Thìn 1904",
+  "dateOfDeath" : "Đinh Mão 1987",
+  "hometown" : "quê làng Tứ Câu, huyện Điện Bàn, tỉnh Quảng Nam (nay là xã Điện Ngọc, huyện Điện Bàn cùng tỉnh)",
+  "occupation" : "Nhà thơ, Đông y sĩ, nhà soạn tuồng hát bội, quê làng Tứ Câu, huyện Điện Bàn, tỉnh Quảng Nam (nay là xã Điện Ngọc, huyện Điện Bàn cùng tỉnh). Nguyên tên hồi nhỏ là Nguyễn Hiếu Học, sau này con trai ông lúc đi học có tên là Nguyễn Trung Ph..",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "ông lúc đi học có tên là Nguyễn Trung Ph" : null
   },
-  "id": 2711,
-  "entityName": "Dương Đình Thạc",
-  "aliases": [
-    "Dương Thạc"
-  ],
-  "overview": "Ông và anh ruột là Dương Thưởng tính khảng khái, nhiệt tình yêu nước, thường chống đối bọn cường hào ác bá ở nông thôn và quan lại bán nước. Nhân vụ kháng thuế năm Mậu thân 1908, ông bị bắt đày đi Côn Đảo, người anh bị đày Lao Bảo, vì cả hai anh em ông đều là những người trong nhóm lănh đạo phong trào Duy tân hồi 1908. Ông bệnh nặng và chết ngoài đảo ngay năm đó. Trước khi mất ông có làm bài thơ: \"Nhất trích diêu diêu cô đảo trung, Khả liên Nam Bắc bịnh tương đồng. Viêm bang văn hiến khan do tạc, Âu hóa phong trào vị tấu công. Thủy quốc đào thinh tao mộng điệp, Cố san vân ý luyến chinh hồng. Tọa giang mạc sái Tân đình lệ, Đa khủng Côn Lôn hải nhiễm hồng. Bản dịch: Hòn đảo mồ côi giũa cõi cùng Đày ra, Nam Bắc kiếp tù chung. Nước nhà văn hiến còn in cũ, Âu hóa phong trào chửa trót công. Tiếng sóng góc trời rầy giấc điệp, Luồng mây núi cũ mến chim hồng. Thôi đừng rưới lệ Tân đình nữa, E nhuộm Côn Lôn nước biên hồng."
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
+  },
+  "id" : 2711,
+  "entityName" : "Nguyễn Mẫn",
+  "aliases" : [ ],
+  "overview" : "Xuất thân trong một gia đình Nho học có truyền thống Đông y học. Thuở nhỏ theo cả cổ học và Tây học được thân phụ (là Đông y sĩ Nguyễn Tích) truyền cho nghề thuốc chuyên về nhãn khoa nên hồi còn trẻ (khoảng 30, 40 tuổi) Nguyễn Mãn đã là một chủ nhà thuốc Đông y có tên nhà thuốc Hồi Xuân. Nhờ tay nghề cao về nhãn khoa, giúp bệnh nhân thấy lại được ánh sáng mùa xuân; đương thời đồng bào, bệnh nhân thường gọi thân mật ông là Thầy Hồi Xuân. Những năm kháng chiến chống Pháp, ông tản cư vào Quế Sơn, Tam Kì tham gia công tác kháng chiến thuộc ủy ban kháng chiến tỉnh Quảng Nam phục vụ công tác văn nghệ và khuyến nông. Trước năm 1945, ông từng được triều đình Huế thưởng giải nông nghiệp về đề tài khuyến nông. Sau năm 1958 ông vào sống tại Sài Gòn nhằm thoát khỏi khủng bố các nhà kháng chiến của chính quỳền cũ tại Quảng Nam. Tại đây ông tham gia công tác tại nội thành, nhà ông tại Sài Gòn là một trong các địa điểm nuôi giấu các cán bộ kháng chiến... nên bị cảnh sát Sài Gòn bắt giam tại khám Chí Hòa nhiều lần. Sau năm 1968 ông được trả tự do và sinh hoạt trong các tổ chức y tế, xã hội tại đây. Các chức vụ ông đảm trách: - Phó Hội trưởng Hội Đông y Quảng Nam Đà Nẵng (1947-1954) - Phó Hội trưởng Hội Đông y Quảng Nam (1955-1958 của chế độ Sài Gòn) - Phó Hội trưởng Hội Đông y Sài Gòn (1959-1975 của chế độ Sài Gòn) - Phó Hội trưởng Hội Y học dân tộc TP.HCM (1975-1986) Các tác phẩm: - Cờ đẫm máu (tuồng hát bội) - Hồn thiêng sông núi (tuồng hát bội) - Ngục trung thi (Thơ trong tù, bản thảo) - Văn tế cụ Hồ Chí Minh Cùng một số thơ văn có tính thời sự khác. Lúc nằm trong nhà lao Chí Hòa ở Sài Gòn ông có bài cảm tác: \"Cao lâu\" Mĩ ngụy thật nguy nga, Phòng biệt giam này chật quá ta! Chậu úp nằm bên: tiêu, giặt, uống, Lỗ chừa vừa lọt: muỗng, li ca. Hùm thiêng thất thế mơ rừng núi, Chó dại thi tài mặc sủa la! Giải phóng miền Nam binh dấy động, Trảm yêu phá ngục hẹn ngày ra."
 }

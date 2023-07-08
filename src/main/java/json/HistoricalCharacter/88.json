@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "Canh Tí 1900",
-  "dateOfDeath": "Canh Tuất 1970",
-  "hometown": "quê làng Đông Bàn, huyện Điện Bàn, tỉnh Quảng Nam, cháu đại thần Phạm Phú Thứ",
-  "occupation": "Nữ sĩ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Giáp Ngọ 1894",
+  "dateOfDeath" : "Tân Tị 1941",
+  "hometown" : "quê làng Yên Lộ (nay thuộc xá Yên Nghĩa, huyện Hoài Đức, Hà Nội",
+  "occupation" : "Liệt sĩ cách mạng được xưng tặng là \"Chị Cả Bắc Kì \"",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 88,
-  "entityName": "Phạm Thị Xuân Chi",
-  "aliases": [
-    "Song Thu"
-  ],
-  "overview": "Bà thông thạo Hán, Pháp văn, say mê văn học. Cùng với Cao Ngọc Anh, Tương Phố Đỗ Thị Đàm nổi tiếng tài hoa. Ngoài những bài thơ Quốc văn, bà cũng sáng tác khá nhiều thơ chữ Hán. Ngày 10-3-1970, bà mất tại nhà riêng tại đường Nguyễn Huệ (Gia Định), thọ 70 tuổi. Bà là thân mẫu nữ sĩ Phương Đài, từng cộng tác với tạp chí Phổ thông, Sinh Lực và có một lúc chủ trương tờ tuần báo Phụ Nữ Đẹp nổi tiếng là tờ báo hay và đứng đắn trong các tờ báo phụ nữ thời đất nước mất chủ quyền. Nữ sĩ Hồng Thiên có bài thơ thương tiếc bà: Mây buồn u ám phủ ngày xuân Lão hữu Song Thu vội lánh trần. Trần giới vàng thau buồn thế sự, Bồng lai hoa mộng đón thi nhân. Đàn Dao tưởng niệm bao tình bạn, Viện Trúc lưu truyền mấy áng văn. Đem khối đan tâm về cõi thọ, Trời Nam soi sáng khách thoa quần."
+  "id" : 88,
+  "entityName" : "Nguyễn Thị Thủy",
+  "aliases" : [ "Chị Cả Bắc Kì" ],
+  "overview" : "Bà là vợ của nhà nho Nguyễn Trung Để, vợ chồng bà từng tham gia các phong trào đấu tranh đòi trả tự do cho Phan Bội Châu, để tang Phan Châu Trinh... Về sau (1939) bà được kết nạp vào Đảng Cộng sản Đông Dương, tích cực hoạt động, thường liên lạc với các ông: Trường Chinh, Hoàng Văn Thụ... địa bàn hoạt động của bà trải dài từ Hà Đông đến Cao Bằng, Lạng Sơn. Hai con trai bà là Nguyễn Mạnh Quang và Nguyễn Trung Hộ cũng là những nhà cách mạng cốt cán từng bị Tổng đốc Hoàng Trọng Phu bắt giam. Năm 1941, bà bị địch bắt, tra tấn dã man, khi thả ra bị thổ huyết rồi mất vào cuối năm ấy, hưởng dương 47 tuổi."
 }

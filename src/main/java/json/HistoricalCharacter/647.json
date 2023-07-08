@@ -1,26 +1,16 @@
 {
-  "dateOfBirth": "11 tháng 4, 1606\n----------------------------------------------\nĐinh Dậu 1657",
-  "dateOfDeath": "24 tháng 9, 1682 (76 tuổi) Đông Kinh, Đàng Ngoài, Đại Việt\n----------------------------------------------\nNhâm Tuất 1862",
-  "hometown": "nguyên quán làng Sóc Sơn, huyện Vĩnh Lộc, tỉnh Thanh Hóa",
-  "occupation": "Trịnh Vương\n----------------------------------------------\nChúa thứ ba đời hậu Lê",
-  "workTenure": "1657 – 1682\n----------------------------------------------\nKhông rõ",
-  "fatherName": {
-    "Trịnh Tráng": null
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Liệt sĩ cận đại, nhiệt thành yêu nước.",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "motherName": {
-    "Trần Thị Ngọc Đài": null
-  },
-  "eraName": {
-    "Trịnh - Nguyễn": 34
-  },
-  "id": 647,
-  "entityName": "Trịnh Tạc",
-  "aliases": [
-    "Dương vương (陽王)",
-    "Trịnh Tạc (鄭柞)",
-    "Tây Vương",
-    "Hoằng Tổ (弘祖)",
-    "Tây Định vương (西定王)"
-  ],
-  "overview": "Tây Định vương Trịnh Tạc (chữ Hán: 西定王鄭柞, 11 tháng 4 năm 1606 – 24 tháng 9 năm 1682), thụy hiệu Hoằng Tổ Dương vương (弘祖陽王), là vị chúa Trịnh thứ 3 thời Lê Trung hưng, cai trị từ năm 1657 đến 1682. Trịnh Tạc là chúa Trịnh duy nhất chứng kiến cả bảy cuộc xung đột Trịnh-Nguyễn thế kỷ 17 và có công chấm dứt việc cát cứ của họ Mạc ở Cao Bằng, đưa miền Bắc nước Đại Việt bước vào thời thịnh trị.\n----------------------------------------------\nNăm 1657 chúa Trịnh Tráng mất, ông được chọn kế nghiệp trở thành chúa thứ ba đời chúa Trịnh. Thời gian cầm quyền, ông lo đánh con cháu nhà Mạc giành lại đất Cao Bằng. Từ đó, bao nhiêu quyền của vua Lê ông tước đoạt cả. Năm 1657 ông xua quân vượt sông Gianh tiến đánh chúa Nguyễn nhưng thất bại, vì chúa Nguyễn có nhiều tướng lĩnh tài giỏi như Nguyễn Hữu Dật Nguyễn Hữu Tiến. Từ đó quân chúa Trịnh phải rút về bên kia sông Gianh như cũ. Trong đời mình, ông đã giết hại em ruột là Trịnh Toàn vì nghi Toàn có ý tạo phản."
+  "id" : 647,
+  "entityName" : "Đỗ Đình Nhân",
+  "aliases" : [ ],
+  "overview" : "Năm Mậu thân 1908, ông liên kết với Lê Đình Nhuận, Nguyễn Trị Bình và người đầu bếp dinh sĩ quan Pháp là Hai Liên, mưu việc đầu độc các tướng tá và binh lính Pháp. Việc bại lộ ông bị giết. Sau đó, Phan Bội Châu viết Hà thành liệt sĩ truyện (in tại Quảng Đông - Trung Quốc), giao cho đồng chí Đỗ Cơ Quang (tức Đỗ Chân Thiết) đem về nước, phổ biến trong quân đội, ca ngợi lòng yêu nước của Đỗ Đình Nhân và các binh lính yêu nước có tham gia vụ đầu độc ấy."
 }

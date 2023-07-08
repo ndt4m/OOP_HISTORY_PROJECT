@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "1188",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Lý": null
+  "dateOfBirth" : "1811\n----------------------------------------------\nNhâm Thân 1812",
+  "dateOfDeath" : "1863\n----------------------------------------------\nKhông rõ",
+  "hometown" : "quê xã Trung Cần, tổng Trung Cần, huyện Thanh Chương, tỉnh Nghệ An",
+  "occupation" : "Danh sĩ đời ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 431,
-  "entityName": "Đỗ An Di",
-  "aliases": [],
-  "overview": "Đỗ An Di (chữ Hán: 杜安頤, ?-1188) là đại thần ngoại thích nhà Lý trong lịch sử Việt Nam. Ông giữ chức phụ chính dưới triều vua Lý Cao Tông."
+  "id" : 431,
+  "entityName" : "Nguyễn Văn Giao",
+  "aliases" : [ "Quất Lâm", "Đức", "Đạm Như" ],
+  "overview" : "Nguyễn Văn Giao (chữ Hán: 阮文交; 1811-1863), hiệu Quất Lâm (橘林), tự là Đạm Như, là một danh sĩ Việt Nam thế kỷ 19.\n----------------------------------------------\nNăm Nhâm tí 1852 đỗ cử nhân. Quí sửu 1853 đỗ Thám hoa lúc 41 tuổi. Làm quan đến Tham biện Nội các và viện Hàn lâm, ông được vua yêu mến, sĩ phu trọng vọng. Các tác phẩm: - Sử luận tập - Tam khôi bị lục - Thập tam kinh thành cú - Quất lâm thi văn - Điệp tư vân - Sách học tân tuyển - Vạn sử vinh sứ..."
 }

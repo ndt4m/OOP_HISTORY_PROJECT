@@ -1,17 +1,19 @@
 {
-  "dateOfBirth": "Giáp Tuất 1514",
-  "dateOfDeath": "Kỉ Mùi 1559",
-  "hometown": "quê làng Thổ Sơn, huyện Vĩnh Lộc, tỉnh Thanh Hóa",
-  "occupation": "Danh tướng đời Lê Trang tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Lê": null,
-    "Triều Lê Sơ": 7
+  "dateOfBirth" : "? Ái Châu, Việt Nam\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "1000 Hoa Lư, Việt Nam\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng hậu nhà Đinh và nhà Tiền Lê\n----------------------------------------------\nThái hậu, vợ Đinh Tiên hoàng",
+  "workTenure" : "968 - 979\n----------------------------------------------\nKhông rõ",
+  "fatherName" : {
+    "Dương Thế Hiển Dương Thái Huyền Dương Nhị Kha" : null
   },
-  "id": 1973,
-  "entityName": "Phạm Đốc",
-  "aliases": [],
-  "overview": "Phạm Đốc (20 tháng 5 âm lịch 1513 - 4 tháng 8 âm lịch 1558) là đại thần có công giúp nhà Lê trung hưng thời chiến tranh Lê-Mạc trong lịch sử Việt Nam.\n----------------------------------------------\nÔng gồm tài văn võ, dày công lao trận mạc. Khi điều động binh sĩ, ông giàu mưu lược, hiệu lệnh rất nghiêm, quân dân đều tuân phục. Triều đình trọng dụng ông, phong tước Dương Nghĩa Hầu. Nhà Mạc dấy lên đối lập với nhà Lê, ông từng khiến các tướng Mạc như Phạm Đức Trung phải qui thuận nhà Lê. Kỉ mão 1555 ông cùng Hoàng Đình Ái nhiều lần chống nhau với Mạc Kính Điền và dẹp yên, được thăng hàm Thượng thư bộ Binh, tước Quảng Quận Công. Năm Mậu ngọ 1558 ông được thăng thái phó, tước Đức Quận Công. Năm sau Kỉ mùi 1559 ông mất, hưởng dương 45 tuổi truy tặng là Thái úy, tước Đức Quốc Công, thụy Trung Nghị. Sách THIÊN NAM BẢO LỤC DIỄN CA đề cao: \"Phạm Đốc hành quân, Nghiêm minh ước thúc. Binh tướng tín uy, Dân di hoài phục.\" Nghĩa: Phạm Đốc vốn ung dung cẩn túc, Cầm quân nghiêm ước thúc như y. Mộ hiệu lịnh ra tín uy, Quan quân sợ phép dân di phục tùng. Quật Đình Ưng Ân vịnh: Quận công Phạm Đốc anh hào, Sử kinh đã trải lược thao gồm tài. Ra cầm quân chẳng sai hiệu lệnh. Không giết càn, thương tính mạng người. Tiếng lành như thế ít ai? Nhà nhà kính phục nơi nơi yêu vì.\u0027"
+  "motherName" : { },
+  "eraName" : {
+    "nhà Đinh" : null,
+    "Nhà Đinh" : 35
+  },
+  "id" : 1973,
+  "entityName" : "Dương Vân Nga",
+  "aliases" : [ "Hoàng hậu Hoàng thái hậu Hoàng hậu", "Dã sử xưng Dương Vân Nga (楊雲娥)", "Dương Thị Lập", "Dương Vân Nga" ],
+  "overview" : "Đại Thắng Minh hoàng hậu (chữ Hán: 大勝明皇后; ? - 1000), dã sử xưng gọi Dương Vân Nga (楊雲娥), là Hoàng hậu của 2 vị Hoàng đế thời kỳ đầu lập quốc trong Lịch sử Việt Nam là Đinh Tiên Hoàng và Lê Đại Hành. Bà đóng vai trò đặc biệt quan trọng trong việc chuyển giao quyền lực từ nhà Đinh sang nhà Tiền Lê.\n----------------------------------------------\nKhi vua Đinh mất (năm Kỉ mão 979), con là Đinh Tuệ được tôn lên nối ngôi, bà nghiễm nhiên là Thái hậu, nhiếp chính. Bà vốn là mẹ sứ quân Ngô Nhật Khánh. Đinh Tiên Hoàng dẹp xong Nhật Khánh, lấy bà làm vợ, sau đó đưa người con gái riêng của bà (tức em Ngô Nhật Khánh) làm vợ Đinh Liễn. Khi nghe tin Tiên Hoàng đã mất, tự quân còn nhỏ, nhà Tống muốn thừa cơ sang lấy nước ta. Lúc quân Tống sắp kéo sang, các tướng đồng lòng với Phạm Cự Lượng truất phế Đinh Tuệ, suy tôn Lê Hoàn lên ngôi vua. Chính bà đã tự tay lấy Hoàng bào khoác vào vai Lê Hoàn và giúp ông này làm nên việc lớn."
 }

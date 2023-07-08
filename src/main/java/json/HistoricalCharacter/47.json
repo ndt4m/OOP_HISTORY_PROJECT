@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Người đời Tiền Lê",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Tiền Lê": 8
+  "dateOfBirth" : "1393",
+  "dateOfDeath" : "1439",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "nhà Lê" : null
   },
-  "id": 47,
-  "entityName": "Hoàng Thành Nhã",
-  "aliases": [],
-  "overview": "Chán công danh, ông lánh mình ở ẩn, nghiên cứu đạo Phật, sùng tính Phật giáo. Nổi tiếng là vị cư sĩ tài năng, nên triều đình vẫn có nhiều lúc vời ông ra giúp việc. Không từ chối được ông vẫn phải gắng gượng giúp ích phần nào về văn hóa, đạo lí. Năm Đinh mùi 1007, ông phụng mạng Lê Ngọa triều (Long Đĩnh) cùng với cư sĩ Minh Xưởng đi sứ nhà Tống. Chuyến đi sứ này, ông có đem về hai bộ Cửu kinh và Địa tạng kinh. Nhà Tiền Lê suy sụp, ông mai danh ẩn tích, không tha thiết việc đời nữa."
+  "id" : 47,
+  "entityName" : "Lê Nỗ",
+  "aliases" : [ ],
+  "overview" : "Thượng tướng quân Doãn Nỗ (尹弩, 1393-1439), còn được chép là Lê Nỗ (黎弩) là một khai quốc công thần thời nhà Lê sơ. Ông là một trong 50 tướng văn, tướng võ, tham gia cuộc Khởi nghĩa Lam Sơn của Lê Lợi ngay từ lúc đầu tiên vào năm 1418."
 }

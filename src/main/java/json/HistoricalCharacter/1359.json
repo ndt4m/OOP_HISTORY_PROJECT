@@ -1,14 +1,17 @@
 {
-  "dateOfBirth": "29 tháng 11, 1932 (88 tuổi)",
-  "dateOfDeath": "1982",
-  "hometown": "Không rõ",
-  "occupation": "Thuộc",
-  "workTenure": "1949 - 2000",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 1359,
-  "entityName": "Trần Hanh",
-  "aliases": [],
-  "overview": "Trần Hanh (sinh 1932) là một tướng lĩnh Không quân Nhân dân Việt Nam cấp bậc Trung tướng. Ông là một trong những phi công đầu tiên bắn rơi máy bay Mỹ F-105 trên vùng trời Bắc Việt Nam, được phong danh hiệu Anh hùng lực lượng vũ trang nhân dân Việt Nam. Ông cũng từng là Ủy viên Dự khuyết Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa IV (1976 – 1982), Thứ trưởng Bộ Quốc phòng nước Cộng hòa Xã hội Chủ nghĩa Việt Nam, Phó Tổng Tham mưu trưởng Quân đội nhân dân Việt Nam, Chủ tịch Hội Cựu chiến binh Việt Nam nhiệm kỳ IV (2007 - 2012)"
+  "dateOfBirth" : "Kỉ Dậu 1909",
+  "dateOfDeath" : "Mậu Thìn 1988",
+  "hometown" : "Không rõ",
+  "occupation" : "Giám mục Thiên chúa giáo",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
+  },
+  "id" : 1359,
+  "entityName" : "Phạm Ngọc Chi",
+  "aliases" : [ "Phêrô M" ],
+  "overview" : "Ông được thụ phong linh mục ngày 14-5-1933, đến ngày 4-8-1950 được Tòa thánh Vatican tấn phong Giám mục trông coi Giáo phận Quảng Nam - Đà Nẵng. Ông mất ngày 21-01-1988, thọ 79 tuổi."
 }

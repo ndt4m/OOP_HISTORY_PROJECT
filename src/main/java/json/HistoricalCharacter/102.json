@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê làng Quất Động, huyện Thượng Phúc, phủ Thường Tín, tỉnh Hà Đông (nay thuộc TP",
-  "occupation": "Công thần đời Lê Thái tổ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Triều Lê Sơ": 7
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Hào kiệt cuối đời Trần",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Hậu Trần" : null
   },
-  "id": 102,
-  "entityName": "Bùi Công Hành",
-  "aliases": [],
-  "overview": "Cuối đời nhà Trần, ông dự thi, vừa lúc quân Minh sang xâm lược, khoa thi bỏ dở. Ông ẩn trong rừng, theo phù Bình Định vương Lê Lợi. Kháng chiến thành công, ông được Lê Thái tổ trọng dụng. Đến đời Lê Thái tông, khoảng năm Thiệu Bình (1434-1439), ông sung sứ bộ sang nhà Minh. Tại Yên Kinh, các quan Minh có ý thử thách, mời ông lên một tòa lầu cao, nói là để duyệt kinh Phật và hội họp ngâm thơ, rồi lén lút đi cả, rút luôn cái thang. Trên lầu chỉ có một tượng Phật, một bình nước trong và hai cây lọng dựng hai bên cửa lầu. Ông xem kĩ tượng Phật thì thấy là bằng bột. Ông vẫn tỏ ý thản nhiên bẻ tượng Phật ra ăn, uống nước, roi giương lọng ra, cặp vào nách mà lao mình xuống đất. Người Minh khen ngợi, hậu đãi ông rồi ân cần tiễn ông và sứ bộ về. Ông xin luôn hai cây lọng đem về nước làm kỉ niệm. Lê Thái tông bèn sai thợ noi theo kiểu lọng ấy mà chế lọng khác. Do đó, nghề làm lọng đời sau tôn ông là thủy tổ, lan rộng trong các làng Quất Động, Đô Quan, Tam Xá, Võ Lăng và Hướng Dương. Lê Thái tông phong ông làm Kim tử vinh lộc đại phu, sung chức Thị lang bộ Công, tước Thanh Lương Hầu, và cho theo họ vua. Khi ông mất được truy tặng Thượng thư, Thái bảo Lương Quận Công. Tại xã Đông Biểu, huyện Phong Doanh, tỉnh Nam Định (nay vẫn là Nam Định) có đền thờ ông."
+  "id" : 102,
+  "entityName" : "Bùi Một Ngôn",
+  "aliases" : [ ],
+  "overview" : "Trước kia, vua Trùng Quang có sai Lê Ngân sang triều Minh xin phong, bị giết mất. Sau, ông cùng với Hồ Ngạn Thần lại đi sứ cầu phong. Đến Yên kinh, vua Minh dò hỏi tình hình chính trị và quân sự nước ta. Hồ Ngạn Thần tỏ bày các việc, quên dè dặt. Riêng ông, cẩn thận rất mực. Nhà Minh bèn phong vua Trùng Quang chức Bố chính sứ, Hồ Ngạn Thần làm tri phủ. Xong, sứ bộ trở về nước. Bây giờ ông mới tâu về việc Hồ Ngạn Thần đã tiết lộ bí mật quân sự, có hại cho nước nhà, khiến Ngạn Thần phải tội xử chém. Sau, Trần Trùng Quang và các tướng sĩ Hóa Châu đều bị quân Minh bắt, ông tử tiết."
 }

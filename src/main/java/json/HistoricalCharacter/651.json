@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "Giáp Thân 1424",
-  "dateOfDeath": "Ất Dậu 1525",
-  "hometown": "quê làng Đại Am, huyện Thanh Trì, tỉnh Hà Đông (nay thuộc Hà Nội), ngụ tại làng Tử Dương, huyện Thượng Phúc",
-  "occupation": "Danh thần đời Lê Thái tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Triều Lê Sơ": 7
+  "dateOfBirth" : "1468",
+  "dateOfDeath" : "1522",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "nhà Lê" : null
   },
-  "id": 651,
-  "entityName": "Nguyễn Như Đỗ",
-  "aliases": [
-    "Mạnh Am",
-    "Khiêm Trai"
-  ],
-  "overview": "Năm Nhâm tuất 1442, ông đỗ Hội nguyên, rồi vào thi Đình, đỗ nhất giáp tiến sĩ, hàng thứ hai, tức là vị Bảng nhãn đầu tiên triều Lê. Sau khi thi đỗ, được bổ làm việc ở Viện Hàn lâm (1443), rồi thăng Trực học sĩ (1449). Đến đời Thánh tông ông làm Thượng thư bộ Lại, thăng Tả ti sảnh môn hộ Tả gián nghị đại phu, kiêm Hàn lâm Viện thừa chỉ học sĩ, rồi tiến lên kiêm Thượng thư bộ Lễ, Cần Đức điện đại học sĩ. Đời ông, ba lần đi sứ Trung Quốc (1443, 1450, 1499) từng làm Đề điệu (chủ khảo) hai kì thi Đình (1466-1469) và có lần theo vua đi đánh Chiêm Thành (Canh dần 1470). Sau ông bị khiển trách và thải hồi, nhưng rồi lại được phục chức làm Thượng thư bộ Lại, gia Thiếu bảo, kiêm Tế tửu Quốc tử giám. Lúc trên 70 tuổi mới về hưu, đến Ất dậu 1525 ông mất, thọ 101 tuổi. Từng làm quan trải 8 triều vua. Ông có phụng sắc soạn bài văn bia ở miếu thờ Võ Mục vương Lê Khôi và còn để lại một tập thơ. Trong Toàn Việt thi lục của Lê Quí Đôn còn lưu lại 6 bài thơ của ông."
+  "id" : 651,
+  "entityName" : "Vũ Duệ",
+  "aliases" : [ ],
+  "overview" : "Vũ Duệ (chữ Hán: 武睿, 1468-1522) , vốn tên là Vũ Nghĩa Chi, sau vua Lê Thánh Tông cho đổi tên là Vũ Duệ ; là danh thần nhà Lê sơ trong lịch sử Việt Nam."
 }

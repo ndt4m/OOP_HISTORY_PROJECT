@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "908",
-  "dateOfDeath": "967",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Ngô": null
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "không rõ năm sinh, năm mất và quê quán",
+  "occupation" : "Danh thần đời Minh Mạng",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 1584,
-  "entityName": "Nguyễn Thủ Tiệp",
-  "aliases": [],
-  "overview": "Nguyễn Thủ Tiệp (chữ Hán: 阮守捷 ; 908 - 967) hay Nguyễn Lệnh công (阮令公) là một sứ tướng trong thời Loạn 12 sứ quân cuối triều nhà Ngô trong lịch sử Việt Nam."
+  "id" : 1584,
+  "entityName" : "Cao Bá Nghi",
+  "aliases" : [ ],
+  "overview" : "Khoảng năm Nhâm ngọ 1822, chính ông đã soạn thào bài văn bia Thoại Sơn (Núi Sập) thề theo ý Thoại Ngọc Hầu Nguyễn Văn Thoại, nguyên văn chữ Hán, gồm 622 chữ, được truyền tụng đến bây giờ. (Văn bia hiện còn tại làng ông Thoại Ngọc Hầu ở Châu Đốc)."
 }

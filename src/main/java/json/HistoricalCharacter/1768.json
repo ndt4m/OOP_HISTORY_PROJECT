@@ -1,17 +1,16 @@
 {
-  "dateOfBirth": "Bính Thìn 1916",
-  "dateOfDeath": "Đinh Mùi 1967",
-  "hometown": "quê ở Hà Nội",
-  "occupation": "Giáo sư, nhà chuyên khảo sử địa",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Quí Mùi 1703",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Ngọc Lặc, huyện Tứ Kì, tỉnh Hải Dương",
+  "occupation" : "Danh sĩ đời Lê Dụ tông, quê làng Ngọc Lặc, huyện Tứ Kì, tỉnh Hải Dương",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
   },
-  "id": 1768,
-  "entityName": "Nguyễn Thiệu Lâu",
-  "aliases": [],
-  "overview": "Thuở nhỏ ông học trường Albert Sarraut, rồi du học Pháp. Ông tốt nghiệp cử nhân Sử Địa tại Đại học Sorbonne - Paris, về nước dạy tại trưởng Quốc học Huế, rổi chuyển sang làm việc tại Trường Viễn Đông bác cổ Hà Nội. Tuy làm giáo sư nhưng ông bỏ ra nhiều thời gian để nghiên cứu sử địa Việt Nam cận đại. Sau cách mạng tháng 8 năm 1945, ông làm Vụ trường Vụ Ngoại kiều Bộ Ngoại giao, Đổng lí văn phòng Bộ Nội vụ (Bộ trưởng là Huỳnh Thúc Kháng), một thời gian. Ngày Toàn quốc kháng chiến ông tản cư lên Việt Bắc, làm Giám đốc Trường Kinh tế Trung ương của Chính phủ kháng chiến. Sau đó (1950) ông vào làm công chức tại Hà Nội - Sài Gòn. Những năm 1953- 1962 ông làm việc ở Bộ Thông tin, nhưng luôn luôn tỏ ra phẫn chí trước thời cuộc. Một phần lớn thời gian còn lại ông ra công sưu tầm nghiên cứu về hai bộ môn chuyên ngành: Sử, Địa. Các công trình của ông được đăng trên các tạp chí chuyên môn ở Hà Nội, Sài Gòn. Hâu hết các tác phẩm của ông hồi sinh thời đều chưa in, sau khi ông mất mới xuất bản được bộ: Quốc sử tạp lục (1970). Năm 1967 ông mất tại Sài Gòn; thọ 71 tuổi. "
+  "id" : 1768,
+  "entityName" : "Vũ Khâm Lân",
+  "aliases" : [ "Võ Khâm Thận" ],
+  "overview" : "Ông con nhà nghèo, lam lũ mưu sinh và cố công học tập đến thành đạt vẻ vang. Năm Đinh mùi 1727 ông đỗ đồng tiến sĩ. Tính ông hào hiệp, kháng khái, gặp việc dám nói, dám làm, nổi tiếng văn thơ, từng được cử đi sứ Trung Quốc, làm đến Tham tụng, rồi giữ chúc Đô ngự sử. Ở triều tham dự chính sự, ra ngoài tán lí binh cơ, có nhiều công trạng nên về sau thăng Thượng thư, tước Ôn Đình Hầu. Con ông là Vũ Cơ cũng đỗ tiến sĩ. Ông có soạn bài kí về thân thế và cuộc đời Trạng Trình Nguyễn Bỉnh Khiêm (Bạch Vân Am cư sĩ Nguyễn Công Văn Đạt phổ kí - Bài kí phổ biến về tiểu sử vị cư sĩ ở am Bạch Vân Nguyễn Văn Đạt, tức Nguyễn Bỉnh Khiêm). Tác phẩm của ông có Phủ sát kí mật."
 }

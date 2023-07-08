@@ -1,19 +1,20 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "sinh quán tỉnh Bến Tre, không rõ năm sinh, năm mất",
-  "occupation": "Nhà văn ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "1116 Thăng Long",
+  "dateOfDeath" : "31 tháng 10 năm 1138 Điện Vĩnh Quang, Thăng Long",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Đại Việt",
+  "workTenure" : "1128 – 1138",
+  "fatherName" : {
+    "Sùng Hiền hầu" : null
   },
-  "id": 1516,
-  "entityName": "Dương Minh Đạt",
-  "aliases": [
-    "Lầu"
-  ],
-  "overview": "Thuở nhỏ học ở Bến Tre, Sài Gòn, những năm 30 của thế kỉ XX ông viết văn, làm báo tại Sài Gòn. Từng cộng tác với các báo: Nông cổ mín đàn, Lục tỉnh tân văn, Công luận... và các nhà xuất bản Xưa Nay, Bảo Tồn, Đức Lưu Phương ở Sài Gòn. Các tác phẩm chính: - Tính kế nhiệm màu (Xưa Nay, 1926) - Anh hùng ba mặt tức Bí mật phi thường (nt, 1927) - Bình vỡ gương tan (Xưa Nay, 1927) - Hồng Hoàng Gia Cát (Xưa Nay, 1927) - Anh hùng hội đào duyên (Bảo Tồn, 1928) - Trường tình bí mật (Đức Lưu Phương, 1929) - Khối tình mầu nhiệm (Đức Lưu Phương, 1930)"
+  "motherName" : {
+    "Đỗ Phu nhân" : null
+  },
+  "eraName" : {
+    "Nhà Lý" : 14
+  },
+  "id" : 1516,
+  "entityName" : "Lý Dương Hoán",
+  "aliases" : [ "Lý Dương Hoán (李陽煥)", "Thuận Thiên Quảng Vận Khâm Minh Nhân Hiếu Hoàng đế", "Thần Tông (神宗)", "Thiên Thuận (1128-1132) Thiên Chương Bảo Tự (1133-1138)" ],
+  "overview" : "Lý Thần Tông (chữ Hán: 李神宗; 1116 – 1138) là vị hoàng đế thứ năm của nhà Lý. Ông trị vì từ năm 1128 đến khi qua đời, tổng cộng là 10 năm. Mặc dù lên ngôi khi mới 11 tuổi, Lý Thần Tông đã tin dùng những người tài như Trương Bá Ngọc, Dương Anh Nhị và Lý Công Bình, thực hiện chính sách cai trị khoan dung và duy trì được sự ổn định của Đại Việt. Thời kỳ Lý Thần Tông còn chứng kiến việc Đại Việt đánh bại các cuộc xâm lược của Chân Lạp và Chiêm Thành năm 1132, 1136. Bên cạnh đó, Thần Tông bị sử sách phê phán vì quá mê tín vào các \"điềm lành\"."
 }

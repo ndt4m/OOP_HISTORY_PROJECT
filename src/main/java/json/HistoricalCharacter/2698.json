@@ -1,18 +1,17 @@
 {
-  "dateOfBirth": "Canh Ngọ 1810",
-  "dateOfDeath": "Tân Dậu 1861",
-  "hometown": "tại làng Đường Long tức Chí Long, huyện Phong Điền, tỉnh Thừa Thiên, hi sinh ngày 16 tháng giêng năm Tân dậu trong trận Kì Hòa tức Chí Hòa, Sài Gòn (25-2-1861)",
-  "occupation": "Danh thần triều Nguyễn, em ruột Nguyễn Văn Chương ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Bính Ngọ 1906",
+  "dateOfDeath" : "Đinh Mão 1987",
+  "hometown" : "quê làng Thoại Sơn, huyện Tịnh Biên, tỉnh Châu Đốc (nay thuộc tỉnh An Giang)",
+  "occupation" : "Kĩ sư công chánh",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 2698,
-  "entityName": "Nguyễn Duy",
-  "aliases": [
-    "Nhữ Hiền"
-  ],
-  "overview": "Nguyễn Duy có thể là:\n----------------------------------------------\nThuở nhỏ ông thông minh, hiếu học, năm Đinh dậu 1837 đỗ tú tài, năm Thiệu Trị nguyên niên đậu cử nhân khoa Tân sửu. Năm sau (Nhâm dần 1824), thi Đình đậu Tam giáp đồng tiến sĩ. Năm 1843, ông được bổ Biên tu ở Nội các, năm sau thăng Tu soạn, năm 1845 được bổ Tri phủ Tân An, ở Gia Định, năm 1847 chuyển về làm Tri phủ Quảng Hóa, tỉnh Thanh Hóa. Năm này thân sinh mất, ông về cư tang, qua năm sau (1848) được bổ làm Tri huyện Quảng Ninh, tỉnh Quảng Bình. Năm 1851, được thăng Tập hiền viện Thị độc, sung giảng sách ở Tòa Kinh diên, năm 1852 làm Thị giảng học sĩ, năm này sung phái bộ sang Trung Quốc. Sau khi đi sứ về được thăng Hồng Lô tự khanh sung Biện lí bộ Lại kiêm Nội các làm việc tại triều đình. Năm 1856, tàu chiến Pháp đến khiêu khích ở Đà Nẵng, ông được phái vào giúp Tổng đốc Quảng Nam là Đào Trí lo chống giặc. Năm 1860 thực dân Pháp đánh chiếm Gia Định, ông sung chức Gia Định Quân thứ Tán lí quân vụ trông coi việc quân sự. Năm 1861, Trung tướng Hải quân Pháp là Charner vây đồn Chí Hòa do Nguyễn Tri Phương trấn giữ. Dưới áp lực của quân Pháp, ông chiến đấu anh dũng và hi sinh tại trận một lần với Tôn Thất Trí, còn Nguyễn Tri Phương và Phạm Thế Hiển bị thương. Cuối cùng Nguyễn Tri Phương rút được về Biên Hòa. Sau khi mất ông được triều đình truy tặng hàm Binh bộ tả tham tri và được thờ tại đền Trung Nghĩa, Trung Hiếu cùng anh là Nguyễn Tri Phương và cháu là Nguyễn Lâm."
+  "id" : 2698,
+  "entityName" : "Nguyễn Văn Đức",
+  "aliases" : [ ],
+  "overview" : "Xuất thân trong một gia đình nông dân rất đông anh em (13 người), thuở nhỏ học ở Long Xuyên, sau vì học giỏi được cấp học bổng lên Sài Gòn học tại trường Chasseloup - Laubat (nay là trường Lê Quí Đôn). Thi đỗ Trung học, ông ra học tại Trường Cao đẳng Công chánh Hà Nội. Tốt nghiệp ông về làm việc tại Sài Gòn. Có lúc ông làm Tổng thư kí Hội Đức trí Thể dục Nam Kì (SAMIPIC) tổ chức được nhiều sinh hoạt rất khởi sắc trong việc giúp đỡ học sinh, thanh niên nghèo hiếu học. Sau khởi nghĩa tháng Tám ở Sài Gòn, ông giữ chức Phó chủ tịch Liên đoàn Công chức cách mạng Sài Gòn - Chợ Lớn. Sau ngày Nam Bộ kháng chiến (23-9-1945) ông tham gia kháng chiến với công tác chế tạo vô khí thô sơ cung cấp cho các lực lượng quân sự tại nội thành và chiến khu. Tháng 5-1946 ông bị Pháp bắt một thời gian rồi được trả tự do. Sau đó vẫn tiếp tục làm công chức của chính quyền Sài Gòn. Trong cương vị Giám đốc Sở Thủy đăng và Thủy đạo (thuộc bộ Công chánh) ông đã giúp nhiều cho lực lượng kháng chiến tại các khu vực do ngành ông quản lí. Sau khi về hưu ông giảng dạy tại các Trường Hàng hải và Công chánh Sài Gòn (Trung tâm Quốc gia Kĩ thuật Phú Thọ). Ông mất năm 1987, thọ 81 tuổi được nhà nước Việt Nam truy tặng nhiều huân chương."
 }

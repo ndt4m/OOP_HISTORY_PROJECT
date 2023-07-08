@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "người làng Uông Hạ, huyện Thanh Lâm, châu Thượng Hồng (nay là thôn Uông Hạ, xã Minh Tân, huyện Nam Sách, tỉnh Hải Dương).",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 2082,
-  "entityName": "Trần Quốc Lặc",
-  "aliases": [
-    "Mạnh Đạo Đại Vương"
-  ],
-  "overview": "Trần Quốc Lặc (chữ Hán: 陳國扐, ? - ?) là Trạng nguyên của Việt Nam, ông là người làng Uông Hạ, huyện Thanh Lâm, châu Thượng Hồng (nay là thôn Uông Hạ, xã Minh Tân, huyện Nam Sách, tỉnh Hải Dương). Tháng 2 năm 1256, ông đỗ Kinh trạng nguyên khoa Bính Thìn niên hiệu Nguyên Phong thứ 6, đời Trần Thái Tông, cùng khoa với Trại trạng nguyên Trương Xán, bảng nhãn Chu Hinh, thám hoa lang Trần Uyên . Làm quan đến Thượng thư. Sau khi mất, vua phong làm Phúc thần, hiệu là Mạnh Đạo Đại Vương ."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "huyện Bạch Hạc, Phong Châu) nay thuộc tỉnh Vĩnh Phú",
+  "occupation" : "Một trong 12 sứ quân cuối đời Ngô",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Ngô" : 25
+  },
+  "id" : 2082,
+  "entityName" : "Kiều Công Hãn",
+  "aliases" : [ ],
+  "overview" : "Khi Đinh Tiên Hoàng thống nhất đất nước. Ông tránh sang Trường Châu, rồi đến An Lũng (thuộc vùng Bái Dương, Hiệp Lực), tình thế khẩn bức, ông tự tử. Sau, được nhân dân lập đền thờ tại địa phương. Đời lĩền Lê, có sai sửa miếu thờ ông, ghi tên vào tự điển. Đời Lý Nhân tông, vẫn có sắc phong thần. Đời Lê Nhân tông và mãi đến đời nhà Nguyễn cũng có ban sắc phong thần. Các xã Kì Bố, Bộ Xuyên, Nam Châu, Hiệp Lực, Bái Dương (thuộc huyện Võ Trân, tỉnh Nam Định; nay vẫn thuộc tỉnh Nam Định) đều có đền thờ ông."
 }

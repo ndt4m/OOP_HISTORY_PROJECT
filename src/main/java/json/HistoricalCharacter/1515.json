@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "1457\n----------------------------------------------\nẤt Hợi 1455",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê xã Hải Trào, huyện Ngự Thiên, tỉnh Thái Bình",
-  "occupation": "Văn thần đời Lê Thánh tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Triều Lê Sơ": 7
+  "dateOfBirth" : "Kỉ Sửu 1889",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "tại Hà Nội, không rõ năm mất",
+  "occupation" : "Cựu Tổng đốc cuối triều Nguyễn",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 1515,
-  "entityName": "Phạm Đôn Lễ",
-  "aliases": [
-    "Lê Khanh",
-    "Lư Khanh"
-  ],
-  "overview": "Phạm Đôn Lễ (chữ Hán: 范敦禮, 1457 - ?), tự là Lư Khanh, là Trạng nguyên khoa Tân Sửu (1481), niên hiệu Hồng Đức 12, đời vua Lê Thánh Tông. Vì có công dạy dân làng dệt chiếu cói nên còn gọi là Trạng Chiếu hay Tam nguyên Đôn Lễ. . Ông làm quan đến các chức Tả thị lang, rồi Thượng Thư.\n----------------------------------------------\nNăm Tân sửu 1481 ông đỗ Trạng nguyên lúc 26 tuổi, từ thi Hương đến thi Đình ông đều đỗ đầu, nghiễm nhiên là vị Tam nguyên đầu tiên trong khoa cử nước ta. Ngày vinh qui, ông được vua ban ngựa tốt để tỏ lòng ưu ái, từ khoa sau thành lệ. Ông nổi tiếng văn chương, lại giỏi về chính trị, kinh tế, làm đến Tả thị lang. Khi ông mất, được truy tặng Thương thư. Tương truyền ông là người đã dạy cho dân ở miền Duyên Hải (Nam Định, Ninh Bình, Thái Bình) cách trồng cói và đan chiếu. Nguyên có lần ông đi sứ nhà Minh (Trung Quốc), đến Ngọc Hồ thuộc châu Quế Lâm (nay thuộc tỉnh Quảng Tây) thấy dân trong vùng chuyên sống về nghề dệt chiếu, ông lưu tâm khảo sát. Khi về nước, ông truyền bá cách trồng cói, dệt chiếu, đem lại nguồn lợi quan trọng cho đất nước."
+  "id" : 1515,
+  "entityName" : "Bùi Thiện Cơ",
+  "aliases" : [ ],
+  "overview" : "Sinh ra và lớn lên trong một gia đình vọng tộc, con trai ông Bùi Khánh Diễn, em trai Tổng đốc Bùi Thiện Căn. Xuất thân là ấm sinh, được vào học Trường Hậu bổ Hà Nội, tốt nghiệp, ông sang Pháp học tại Trường Thuộc địa ở Paris. Về nước làm Tri phủ phủ Xuân Trường Nam Định, Bình Lục, Duy Tiên ở Hà Nam. Khi còn làm tri phủ ở các địa phương Bắc kì ông đã cho xây cất Trường Nữ học ở Nam Định và một số các trường khác ở tỉnh Hà Nam. Năm 1935, ông giữ chức Tổng đốc tỉnh Hải Dương rồi về hưu trí trong năm 1943. Ngoài những hoạt động chính trong quan trường, ông còn tham gia vào nhiều công tác xã hội, từ thiện và giáo dục tại các tỉnh Bắc Kì và Hà Nội. Ông là nhạc gia của Tri phủ Quảng Oai (Sơn Tây) Vũ Uyên Văn."
 }

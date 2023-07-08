@@ -1,16 +1,19 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Ninh Thuận",
-  "occupation": "Võ tướng đời Chúa Nguyễn Phúc Khoát",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "?\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "25 tháng 1, 1540 Nhà Mạc, Đại Việt\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua",
+  "workTenure" : "1530 – 25 tháng 1 năm 1540\n----------------------------------------------\n1530–1540",
+  "fatherName" : {
+    "Mạc Thái Tổ" : 2930
   },
-  "id": 2720,
-  "entityName": "Bái Cương Hầu",
-  "aliases": [],
-  "overview": "Ông xuất thân làm cai cơ, tham gia vào việc đàn áp các cuộc nổi dậy ở mạn ngược, nên được họ Nguyễn trọng dụng, phong đến tước Hầu. Khi ông mất, được truy phong làm phúc thần. Ở chân núi Kiến Hiền, thuộc địa phận ấp Mỹ Nhân, trước kia thuộc thôn An Nhân, huyện An Phúc, đạo Ninh Thuận (nay thuộc tỉnh Ninh Thuận) có đền thờ ông. Các triều nhà Nguyễn đều có sắc phong là phúc thần."
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Mạc" : 18,
+    "Bắc triều – Nhà Mạc  và thời kỳ Cao Bằng" : null
+  },
+  "id" : 2720,
+  "entityName" : "Mạc Thái Tông",
+  "aliases" : [ "Mạc Đăng Doanh (莫登瀛)", "Khâm Triết Văn hoàng đế (欽哲文皇帝)", "Thái Tông (太宗)", "Đại Chính (大正)" ],
+  "overview" : "Mạc Thái Tông (chữ Hán: 莫太宗; ? – 25 tháng 1, 1540), là vị Hoàng đế thứ hai của nhà Mạc trong lịch sử Việt Nam. Ông ở ngôi từ năm 1530 đến 1540, tổng cộng 10 năm trị vì.\n----------------------------------------------\nMạc Thái Tông (chữ Hán: 莫太宗 1500 – 25 tháng 1 năm 1540 / 3 tháng 3 năm 1540) là vị Hoàng đế thứ hai của nhà Mạc trong lịch sử Việt Nam. Ông ở ngôi từ năm 1530 đến 1540, trị vì tổng cộng 10 năm."
 }

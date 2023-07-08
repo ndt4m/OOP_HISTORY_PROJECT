@@ -1,16 +1,14 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê làng Đồng Lạc, hạt Kim Thành, Hưng Yên, nay là thôn Bình Dân xã Tân Dân, huyện Khoái Châu, tỉnh Hưng Yên",
-  "occupation": "Danh thần đời Lê Tương Dục đế",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Triều Lê Sơ": 7
-  },
-  "id": 192,
-  "entityName": "Bùi Công Phụ",
-  "aliases": [],
-  "overview": "Năm Hồng Thuận 6 (Giáp tuất 1514), ông đỗ tam giáp đồng tiến sĩ được Lê Tương Dục trọng dụng, làm đến thượng thư, có tài văn thơ, được các sĩ phu trọng vọng. Ông hết lòng lo giúp chính sự, có công đức với nhân dân."
+  "dateOfBirth" : "1541",
+  "dateOfDeath" : "1593",
+  "hometown" : "xã Lương Xá, huyện Thiện Tài, trấn Kinh Bắc (nay là thôn Lương Xá, xã Phú Lương, huyện Lương Tài, Bắc Ninh) , cùng làng với Phạm Quang Tiến, trạng nguyên khoa thi 1565.",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 192,
+  "entityName" : "Vũ Giới",
+  "aliases" : [ ],
+  "overview" : "Vũ Giới (chữ Hán: 武玠, 1541-1593), người xã Lương Xá, huyện Thiện Tài, trấn Kinh Bắc (nay là thôn Lương Xá, xã Phú Lương, huyện Lương Tài, Bắc Ninh) , cùng làng với Phạm Quang Tiến, trạng nguyên khoa thi 1565. Đỗ trạng nguyên khoa Đinh Sửu, niên hiệu Sùng Khang thứ 12 (1577) đời Mạc Mậu Hợp . Làm quan qua các chức như Hữu thị lang, Thượng thư Lại bộ ."
 }

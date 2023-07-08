@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "1638",
-  "dateOfDeath": "1699",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Lê": null
+  "dateOfBirth" : "1468",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "nhà Mạc" : null
   },
-  "id": 1016,
-  "entityName": "Nguyễn Danh Nho",
-  "aliases": [
-    "Sằn Hiên"
-  ],
-  "overview": "Nguyễn Danh Nho (1638 - 1699), hiệu là Sằn Hiên, là danh sĩ và là quan nhà Lê trung hưng trong lịch sử Việt Nam."
+  "id" : 1016,
+  "entityName" : "Phan Đình Tá",
+  "aliases" : [ ],
+  "overview" : "Phan Đình Tá (1468–?) là một đại thần của triều Lê sơ và nhà Mạc."
 }

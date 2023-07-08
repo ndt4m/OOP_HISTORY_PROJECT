@@ -1,16 +1,14 @@
 {
-  "dateOfBirth": "Năm 225 Yên Định, Thanh Hóa",
-  "dateOfDeath": "Năm 248 Hậu Lộc, Thanh Hóa",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 654,
-  "entityName": "Triệu Ẩu",
-  "aliases": [
-    "Triệu Trinh Nương, Triệu Thị Trinh, Triệu Quốc Trinh"
-  ],
-  "overview": "Bà Triệu (chữ Hán: 趙婆), còn được gọi là Triệu Ẩu (趙嫗), Triệu Trinh Nương (趙貞娘), Triệu Thị Trinh (趙氏貞), Triệu Quốc Trinh (225–248), là một trong những vị anh hùng dân tộc trong lịch sử Việt Nam."
+  "dateOfBirth" : "20 tháng 2, 1927 Tây Sơn, Bình Định, Trung Kỳ, Đông Dương thuộc Pháp",
+  "dateOfDeath" : "20 tháng 10, 2013 (86 tuổi) Hà Nội, Việt Nam",
+  "hometown" : "Không rõ",
+  "occupation" : "Thuộc",
+  "workTenure" : "1945-1996",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 654,
+  "entityName" : "Nguyễn Nam Khánh",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Nam Khánh (20 tháng 2 năm 1927 - 20 tháng 10 năm 2013) là một cựu tướng lĩnh Quân đội Nhân dân Việt Nam. Ông từng giữ chức Phó Chủ nhiệm Tổng cục Chính trị Quân đội Nhân dân Việt Nam, hàm Thượng tướng."
 }

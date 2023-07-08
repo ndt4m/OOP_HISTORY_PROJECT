@@ -1,16 +1,20 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Thanh Hóa",
-  "occupation": "Ái nữ danh tướng yêu nước Dương Diên Nghệ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Xây nền tự chủ": 12
+  "dateOfBirth" : "còn nghi vấn huyện Tức Mặc, Nam Định.",
+  "dateOfDeath" : "20 tháng 8, 1300 Vạn Kiếp, Đại Việt (Chí Linh, Việt Nam)",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "Khâm Minh đại vương Trần Liễu" : null
   },
-  "id": 1479,
-  "entityName": "Dương Thị Như Ngọc",
-  "aliases": [],
-  "overview": "Bà cũng là một phụ nữ anh hùng. Khi chống quân xâm lược Nam Hán, bà đã giúp chồng thành lập đội Nương tử quân và tận tụy huy động lực lượng phụ nữ dốc tâm lực cứu nước."
+  "motherName" : {
+    "Thiện Đạo quốc mẫu (?)" : null
+  },
+  "eraName" : {
+    "Nhà Trần" : 15
+  },
+  "id" : 1479,
+  "entityName" : "Trần Hưng Đạo",
+  "aliases" : [ "Nhân Vũ Hưng Đạo Đại Vương", "Trần Quốc Tuấn (陳國峻)", "Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王)" ],
+  "overview" : "Trần Hưng Đạo (chữ Hán: 陳興道; ? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần."
 }

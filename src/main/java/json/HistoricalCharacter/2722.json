@@ -1,30 +1,17 @@
 {
-  "dateOfBirth": "9 tháng 5, 1441 Đông Kinh, Đại Việt\n----------------------------------------------\nTân Dậu 1441\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath": "3 tháng 10, 1459 (18 tuổi) Đông Kinh, Đại Việt\n----------------------------------------------\nKỉ Mão 1459\n----------------------------------------------\nKhông rõ",
-  "hometown": "Không rõ",
-  "occupation": "Hoàng đế Đại Việt\n----------------------------------------------\nVua đời thứ ba nhà Sơ Lê\n----------------------------------------------\nVua",
-  "workTenure": "1442 – 1459\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1442–1459",
-  "fatherName": {
-    "Lê Thái Tông": 1666,
-    "Lê Thái tông": null
+  "dateOfBirth" : "Đinh Hợi 1887",
+  "dateOfDeath" : "Ất Tị 1965",
+  "hometown" : "quê làng Hương Ngãi, huyện Thạch Thất, tỉnh Sơn Tây",
+  "occupation" : "Nhà văn ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "motherName": {
-    "Hoàng hậu Tuyên Từ": null,
-    "Nguyễn Thị Anh": 1626
-  },
-  "eraName": {
-    "Nhà Hậu Lê – giai đoạn Lê sơ": 20,
-    "Nhà Lê sơ": null,
-    "Triều Lê Sơ": 7
-  },
-  "id": 2722,
-  "entityName": "Lê Nhân Tông",
-  "aliases": [
-    "Thái Hòa (大和, 1443 - 1453) Diên Ninh (延寧, 1454 - 1459)",
-    "Nhân Tông (仁宗)",
-    "Lê Bang Cơ (黎邦基)",
-    "Lê Nhân Tông",
-    "Khâm Văn Nhân Hiếu Tuyên Minh Thông Duệ Tuyên hoàng đế (欽文仁孝宣明聰睿宣皇帝)"
-  ],
-  "overview": "Lê Nhân Tông (chữ Hán: 黎仁宗, 9 tháng 5 năm 1441 – 3 tháng 10 năm 1459), là vị hoàng đế thứ ba của nhà Hậu Lê trong lịch sử Việt Nam, trị vì trong vòng 17 năm, từ năm 1442 sau khi Lê Thái Tông qua đời đến khi bị Lê Nghi Dân ám sát vào năm 1459.\n----------------------------------------------\nÔng lên ngôi lúc mới 3 tuổi, nhằm ngày 12 tháng 8 Quí hợi 1443, đến năm Kỉ mão 1459, bị anh là Lạng Sơn vương Lê Nghi Dân giết chết để giành ngôi, hưởng dương 19 tuổi. Ở ngôi 17 năm, đổi hiệu 2 lần: Thái Hòa 11 năm, Diên Ninh 6 năm. Trong đời ông có mấy việc đáng kể: - Truy phục chức tước cũ và tặng bổng lộc cho con cháu các công thần bị giết oan: Trần Nguyên Hãn, Phạm Văn Xảo, Trịnh Khắc Phục, Lê Ngân, Lê Sát. - Trao cho Phan Phù Tiên trọng trách soạn bộ Quốc sử chép từ đời Trần Thái tông cho tới khi thuộc Minh. - Chinh phục Chiêm Thành (1446) và Bồn Man (1448).\n----------------------------------------------\nLê Nhân Tông (chữ Hán: 黎仁宗 27 tháng 5 năm 1441 – 25 tháng 10 năm 1459) tên húy là Lê Bang Cơ (黎邦基), là vị hoàng đế thứ ba của Hoàng triều Lê nước Đại Việt, trị vì trong vòng 17 năm, từ ngày 15 tháng 9 năm 1442 đến khi bị Lê Nghi Dân ám sát vào mùa đông năm 1459."
+  "id" : 2722,
+  "entityName" : "Nguyễn Tử Siêu",
+  "aliases" : [ "Trọng Khoát", "Hoa Cương", "Liên Tâm Lão Nhân" ],
+  "overview" : "Ông có tiếng văn thơ, từng dạy học và nghiên cứu đông y, thường chuyên tâm soạn sách. Có lúc ông có chân trong ban chấp hành Hội Đông y Việt Nam. Năm Ất tị 1965 ông mất tại Hà Nội. Các tác phẩm chính của ông: - Đỉnh núi cành mai - Bể tình nổi sóng - Sống chết vì tiền - Cái nạn văn chương - Bạn đời xưa Và một số tiểu thuyết lịch sử: - Vua Bố Cái - Đinh Tiên Hoàng - Lê Đại Hành - Việt Thanh chiến sử - Hai bà đánh giặc - Vua bà Triệu Ẩu"
 }

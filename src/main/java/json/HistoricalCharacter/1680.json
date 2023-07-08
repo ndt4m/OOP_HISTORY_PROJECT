@@ -1,18 +1,20 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Quê ở huyện An Định, quận Cửu Chân (Thanh Hóa), tổ tiên vốn người Trung Quốc",
-  "occupation": "Danh sĩ trong đời Bắc thuộc lần thứ III ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Bắc thuộc lần lần 3": 1
+  "dateOfBirth" : "?\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "25 tháng 1, 1540 Nhà Mạc, Đại Việt\n----------------------------------------------\nCanh Tí 1540",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua thứ hai nhà Mạc, con trưởng Mạc Đăng Dung",
+  "workTenure" : "1530 – 25 tháng 1 năm 1540\n----------------------------------------------\nKhông rõ",
+  "fatherName" : {
+    "Mạc Đăng Dung" : 1925,
+    "Mạc Thái Tổ" : 2930
   },
-  "id": 1680,
-  "entityName": "Khương Công Phụ",
-  "aliases": [
-    "Khâm Văn"
-  ],
-  "overview": "Đời Đường Đức tông, ông sang Trung Quốc dự thi, đỗ tiến sĩ, rồi được bổ sung chức Thập di. Mỗi khi triều kiến, ông tâu đối phân minh, khiến các quan đều phục. Ông thường khuyên Đức tông nên giết viên Tiết độ sứ Châu Tỉ đề trừ hậu hoạn. Đức tông không nghe. Kịp khi Châu Tỉ dấy binh đánh phá. Đức tông phải chạy ra Phụng Thiên, mới nhận ra ông là người tinh tế, bèn phong ông làm Gián nghị Đại phu, Đồng bình chương sự. Khi công chúa Đường An từ trần, Đức tông toan làm lễ chôn cất trọng hậu, ông dâng sớ can ngăn mấy lần làm vua phật ý. Bọn gian thần ghét ông, nhân cơ hội gièm pha. Ông bị giáng làm Tả thứ sử, rồi lại đổi ra làm Biệt giá ở Truyền Châu (phụ tá Thứ sử ở Truyền Châu). Ông là tác giả bài phú Bạch vân chiếu xuân hải nổi tiếng. Đến đời Thuận tông, cất nhắc ông làm Thứ sử Truyền Châu. Chẳng bao lâu thì ông mất khoảng năm Ất dậu 805."
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Mạc" : 18,
+    "Nam - Bắc Triều" : 19
+  },
+  "id" : 1680,
+  "entityName" : "Mạc Đăng Doanh",
+  "aliases" : [ "Mạc Đăng Doanh (莫登瀛)", "Khâm Triết Văn hoàng đế (欽哲文皇帝)", "Thái Tông (太宗)", "Đại Chính (大正)" ],
+  "overview" : "Mạc Thái Tông (chữ Hán: 莫太宗; ? – 25 tháng 1, 1540), là vị Hoàng đế thứ hai của nhà Mạc trong lịch sử Việt Nam. Ông ở ngôi từ năm 1530 đến 1540, tổng cộng 10 năm trị vì.\n----------------------------------------------\nCha con vẫn phải khó nhọc đương đầu tìmg đợt tấn công của nhà Lê Trung hưng, để giữ vững ngai vàng. Lại nữa, trong năm Giáp ngọ 1534, vua Minh sai Hàm Ninh Hầu Cửu Loan và Thượng thư bộ Binh là Mao Bá ôn đưa quân đến biên giới tuyên bố đánh họ Mạc. Cha con ông khiếp sợ phải cúi mình nhân nhượng với vua quan nhà Minh, nhất là nhờ tài ngoại giao của Trạng nguyên Giáp Hải mới được yên. Trong đời ông ở ngôi, các khoa thi có được khá nhiều người tài giỏi, nhưTrạng nguyên Nguyễn Bỉnh Khiêm Giáp Hải. Ông cũng có sai Đông quân Tả đô đốc Khiêm Quận Công Mạc Đình Khoa sửa sang lại nhà Quốc tử giám ở Kinh đô. Năm Canh tí 1540, ngày 25-1 âm lịch ông mất. Con là Mạc Phúc Hải nối ngôi, đặt thụy hiệu cho ông là Thái tông khâm triết Văn hoàng đế. Ông ở ngôi 11 năm, hiệu Đại Chính."
 }

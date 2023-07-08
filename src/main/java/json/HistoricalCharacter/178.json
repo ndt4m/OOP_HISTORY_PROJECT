@@ -1,17 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "979\n----------------------------------------------\nKhông rõ",
-  "hometown": "người làng Đại Đê, huyện Thiên Bản, nay thuộc huyện Vụ Bản, tỉnh Nam Định.\n----------------------------------------------\nquê ở Thiên Bân",
-  "occupation": "Nội giám nhà Đinh",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Đinh": null,
-    "Nhà Đinh": 35
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Nhâm Dần 1842",
+  "hometown" : "quê huyện Hương Trà, tỉnh Thừa Thiên",
+  "occupation" : "Danh tướng đời Minh Mạng",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 178,
-  "entityName": "Đỗ Thích",
-  "aliases": [],
-  "overview": "Đỗ Thích (chữ Hán: 杜釋; ?-979) là một vị quan nhà Đinh, là người làng Đại Đê, huyện Thiên Bản, nay thuộc huyện Vụ Bản, tỉnh Nam Định. Đỗ Thích từng làm quan ở Đồng Quan (Ninh Bình ngày nay), rồi giữ chức Chi Hậu Nội Nhân dưới thời vua Đinh Tiên Hoàng.\n----------------------------------------------\nĐỗ Thích xuất thân làm thư lại ở Đồng Quan, sau được vào cung hầu vua Đinh. Một đêm Đỗ nằm mộng thấy có ngôi sao sa vào miệng, cho là có điềm tốt, bèn có ý thoán đoạt cơ nghiệp nhà Đinh. Năm Kỉ mão 979, đang đêm Đỗ lẻn vào cung giết chết Đinh Tiên Hoàng và người con trưởng là Nam Việt vương Đinh Liễn. Việc vỡ lỡ, Đỗ chui nằm rạp trên mái cung. Cung nữ trông thấy, mách bảo Định quốc công Nguyễn Bặc, nên Đỗ bị Nguyễn bắt gịết."
+  "id" : 178,
+  "entityName" : "Phạm Hữu Tâm",
+  "aliases" : [ ],
+  "overview" : "Buổi đầu ông làm Cai cơ, phạm lỗi bị cách chức. Năm Tân tị 1821 ông được phục chức Cai đội, đổi qua Trực ban Phó vệ úy, rồi vào Nam làm trấn thủ Biên Hòa. Có công dẹp loạn ở miền Nam, ông được thăng Chưởng cơ, phong tước Tân Phước Nam, sung Tham tán đại thần ở Quân thứ Gia Định. Lại có công bình định sau cuộc nổi dậy của nhóm Lê Văn Khôi trong mấy năm 1833-34, ông được tấn phong tước Bá, hàm Thái tử Thái bảo, sung Tiền quân Đô thống Chưởng phụ sự. Nhất là trong năm Giáp ngọ 1834, khi quân Xiêm (Thái Lan) xâm lăng Cao Miên (Kampuchia) rồi tràn xuống đánh phá bờ cõi ta, ông nhận lệnh họp binh cùng Đại tướng Trương Minh Giảng và tướng Trần Văn Năng, Nguyễn Đình Tân, Lê Văn Thụy đẩy lui được quân Xiêm. Đây là chiến công hiển hách nhất, nên Trương Minh Giảng và ông đều được chạm tên trên bia Võ công dựng tại Kinh thành (tức năm Mậu tuất), Trương Minh Giảng đứng đầu, ông đứng hàng thứ 5 trong số 20 người có công to. Năm Mậu tuất 1838, tên ông ghi chạm vào bia Võ công, lại thăng tước Tân Phước Hầu, ra lãnh Tổng đốc Hà Ninh. Đến năm Nhâm dần 1842, vua triệu về đi nửa đường thì ông mất đột ngột, được truy tặng Tân Phước quận công, thụy Trung Túc. Con ông là Phạm Hữu Xuân cũng là bậc tướng tài."
 }

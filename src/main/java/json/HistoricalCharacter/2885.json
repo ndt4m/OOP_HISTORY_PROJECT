@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "22 tháng 2, 1969 (48 tuổi) Vĩnh Long, Việt Nam Cộng hòa",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Diễn viên Ca sĩ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 2885,
-  "entityName": "Lý Hùng",
-  "aliases": [],
-  "overview": "Lý Hùng (sinh năm 1969) là một diễn viên điện ảnh kiêm ca sĩ của Việt Nam. Anh từng nổi danh trong giới diễn viên điện ảnh Việt Nam thập niên 1990, và tham gia đóng trong một số phim hợp tác với điện ảnh Hồng Kông."
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Canh Ngọ 1930",
+  "hometown" : "Không rõ",
+  "occupation" : "Thường gọi là Cai Hoằng, vì nguyên là hạ sĩ quan binh đoàn Pháp đóng ở Yên Bái. Ông có lòng yêu nước, làm nội tuyến trước khi Việt Nam Quốc dân đảng khởi nghĩa ở Yên Bái.",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
+  },
+  "id" : 2885,
+  "entityName" : "Ngô Hải Hoàng",
+  "aliases" : [ "Cai Hoằng" ],
+  "overview" : "Ông bị bắt, bị địch tra tấn ác liệt. Khi ra Hội đồng đề hình (tòa án quân sự Pháp), do Poulet Osier ngồi ghế chánh án bảo ông: - Anh thật là vô ân, Đại úy Jourdain là thượng cấp của anh hết sức tử tế với anh, thế mà đêm ấy anh đã bắn chết ông ta đầu tiên. Ông đáp: -Nhưng đó là kẻ thù cướp nước chúng tôi, nên phải giết. Thực dân Pháp giết ông trong ngày 8-3-1930."
 }

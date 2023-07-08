@@ -1,23 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "1593 Việt Nam",
-  "hometown": "Không rõ",
-  "occupation": "Hoàng đế Đại Việt",
-  "workTenure": "1592 - 1593",
-  "fatherName": {
-    "Mạc Mậu Hợp": 3064
+  "dateOfBirth" : "Ất Dậu 1885",
+  "dateOfDeath" : "Nhâm Thìn 1952",
+  "hometown" : "quê làng Qui Thiên, huyện Hải Lãng, tỉnh Quảng Trị",
+  "occupation" : "Thượng thư triều Bảo Đại",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "motherName": {},
-  "eraName": {
-    "Nhà Mạc": 18
-  },
-  "id": 408,
-  "entityName": "Mạc Toàn",
-  "aliases": [
-    "Cảnh Tông",
-    "Mạc Toàn",
-    "Vũ An: 1592 - 1593",
-    "Thành Hoàng đế"
-  ],
-  "overview": "Vũ An vương Mạc Toàn (chữ Hán: 莫全; ? – 1593) là vua thứ 6 và là vua cuối cùng nhà Mạc thời kỳ Nam Bắc triều trong lịch sử Việt Nam."
+  "id" : 408,
+  "entityName" : "Thái Văn Toản",
+  "aliases" : [ ],
+  "overview" : "Xuất trong một gia đình Nho học, con ông Thái Văn Bút làm quan đời vuaThành Thái, Duy Tân, mẹ là ái nữ của Tùng Thiện vương (tên là Tôn Nữ Như Ti). Thuở nhỏ ông học ở Huế, tốt nghiệp Trường Thông ngôn Huế, từ năm 1902 làm thông dịch viên tại Phủ Thống sứ Bắc Kì, sau đổi về làm việc tại Tòa Khâm sứ Huế. Tại đây hồi năm 1905 ông là người sáng lập kiêm Hội trưởng Hội Quảng Trị. Đây là một hội có tích cách văn hóa, giáo dục, nghệ thuật hoạt động lâu năm tại Huế. Năm Mậu ngọ 1918 được thăng Hồng lô tự khanh sung chức Ngự tiền thông sự dưới triều Khải Định, rồi Quang lộc tự khanh, Thái thường tự khanh. Năm 1926 làm Tổng đốc Thanh Hóa năm 1929 thăng hàm thượng thư bộ Hộ súng Cơ mật viện đại thần, năm 1931 thăng hàm Hiệp tá đại học sĩ. Khi Bảo Đại về nước đứng đầu nội các (1933) ông làm Thượng Bộ Công kiêm Mĩ thuật và Lễ nghi sung Cơ mật viện đại thần. Con trai ông là Thái Văn Vượng, cháu là Thái Văn Kiểm (giáo sư) đã có đóng góp một phần cho học thuật Việt Nam. Sau năm 1946 ông tản cư ra Nghệ An, tham gia kháng chiến trong cương vị Cố vấn Mặt trận Liên Việt Liên khu IV. Đến năm 1952 ông mất tại xã Bạch Ngọc, huyện Anh Sơn, tỉnh Nghệ An. Ông là tác giả một số thơ, bài viết đăng trên các báo ở Huế, Hà Nội."
 }

@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "1623",
-  "dateOfDeath": "1696",
-  "hometown": "xã Hoài Bão, huyện Tiên Du (nay thuộc xã Liên Bão, huyện Tiên Du, tỉnh Bắc Ninh).",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 74,
-  "entityName": "Nguyễn Đăng Minh",
-  "aliases": [],
-  "overview": "Nguyễn Đăng Minh (chữ Hán: 阮登明, 1623-1696) người xã Hoài Bão, huyện Tiên Du (nay thuộc xã Liên Bão, huyện Tiên Du, tỉnh Bắc Ninh). Đỗ Đệ tam giáp đồng Tiến sĩ xuất thân khoa thi Bính Tuất niên hiệu Phúc Thái thứ 4 (1646) thời Lê Chân Tông, cùng khoa thi với anh trai là Nguyễn Đăng Cảo."
+  "dateOfBirth" : "1823",
+  "dateOfDeath" : "1901",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "nhà Thanh" : null
+  },
+  "id" : 74,
+  "entityName" : "Lý Hồng Chương",
+  "aliases" : [ "Wade–Giles: Li Hung-chang" ],
+  "overview" : "Lý Hồng Chương (tiếng Hán giản thể: 李鸿章; phồn thể: 李鴻章; bính âm: Lǐ Hóngzhāng; phiên âm Wade–Giles: Li Hung-chang), phiên âm tiếng Anh: Li Hongzhang) (1823 - 1901), là một đại thần triều đình nhà Thanh trong lịch sử Trung Quốc. Ông là người tỉnh An Huy, xuất thân gia đình quan lại. Trong cuộc đời quan trường của mình ông đã thành lập Hoài quân tham gia cùng với Tăng Quốc Phiên, Tả Tông Đường trấn áp phong trào Thái Bình Thiên Quốc. Vì có công lao to lớn, ông được bổ nhiệm làm tổng đốc Hồ quảng, tổng đốc Trực Lệ kiêm Bắc dương đại thần, Tổng đốc Lưỡng Quảng, Túc nghị nhất đẳng bá."
 }

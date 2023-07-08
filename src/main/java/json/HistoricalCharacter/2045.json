@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Bính Thìn 1796",
-  "dateOfDeath": "Tân Dậu 1861",
-  "hometown": "quê xã Hải Thiên, huyện Tiên Lữ, phủ Tiên Hưng, trấn Sơn Nam (Nam Định), sau sáp nhập vào tỉnh Hưng Yên",
-  "occupation": "Danh thần đời Minh Mạng",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Bính Dần 1566",
+  "dateOfDeath" : "Đinh Mão 1627",
+  "hometown" : "quê làng Quì Chử, huyện Hoằng Hóa, tỉnh Thanh Hóa",
+  "occupation" : "Danh thần đời Lê Kính tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
   },
-  "id": 2045,
-  "entityName": "Bùi Ngọc Quĩ",
-  "aliases": [],
-  "overview": "Năm Kỉ sửu 1829 đỗ tiến sĩ, làm đến Phó hiến sát, và làm Tổng đốc Bình Phú (Bình Định và Phú Yên). Năm đầu Tự Đức (Mậu thân 1848), đi sứ sang nhà Thanh. Tính ông khảng khái cương trực, kết giao thân thiết với Trương Quốc Dụng, Trần Huy Phúc, Hồ Vĩnh Trinh, cùng nổi tiếng danh sĩ đương thời. Năm Tân dậu 1861, ông mất, thọ 65 tuổi, còn để lại cho đời bộ Yên đài anh ngũ và 6 tác phẩm văn chương liên hệ tới sứ trình (Hải phái thi văn) tức Hữu Trúc thi tập, Yên hành khúc, Yên hành tổng tác, Sử trình anh thoại khúc, Bùi tiên sinh thi tập."
+  "id" : 2045,
+  "entityName" : "Lưu Đình Chất",
+  "aliases" : [ ],
+  "overview" : "Năm Đinh mùi 1607 ông đỗ nhị giáp tiến sĩ đình nguyên, 41 tuổi, làm Đô cấp sự trung, rồi thăng Tự khanh, tước Nhân Linh Bá. Quí sửu 1613, ông làm chánh sứ sang nhà Minh (Trung Quốc), khi về thăng Tả thị lang bộ Lại, tước Hầu. Ông cùng Lê Bật Tứ từng can ngăn vua chúa trong những việc sai trái, bộc lộ rõ lòng lo nước thương dân. Ông nhiều công lao với nước, được vua tin dùng, thăng làm Đô ngự sử, tiến phong Tá lí công thần, Tham tụng ở phủ chúa. Rồi thăng đến Thượng thư bộ Hộ, Thiếu bảo, tước Phúc Quận Công (Đăng khoa lục chép là Lộc Quận Công). Năm Đinh mão 1627 ông mất thọ 61 tuổi được truy tặng Thiếu sư."
 }

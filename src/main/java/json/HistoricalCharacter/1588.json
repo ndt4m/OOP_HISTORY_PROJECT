@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Kỉ Mùi 1859",
-  "dateOfDeath": "Đinh Tị 1917",
-  "hometown": "quê tổng Yên Hồ, huyện Đức Thọ, tỉnh Hà Tĩnh",
-  "occupation": "Thủ lĩnh nghĩa quân chống Pháp ở Nghệ Tĩnh",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "1 tháng 3 năm 1924\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "29 tháng 10 năm 2016\n----------------------------------------------\nẤt Dậu 1945",
+  "hometown" : "Tại Pháp, ông vẫn thường viết bài gởi về đăng trên tuần báo Phụ nữ tân văn, dưới mục Bức thư Ba Lê, đồng thời viết những bài ngắn gửi đăng các báo bên Pháp với bút hiệu Thạch Lan",
+  "occupation" : "Ký giả",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 1588,
-  "entityName": "Lê Văn Quyên",
-  "aliases": [
-    "Đại Đẩu"
-  ],
-  "overview": "Từ năm 1885 ông theo Lê Ninh, rồi về giúp Phan Đình Phùng. Chính ông cùng Cao Thắng phụ trách chế tạo vũ khí cho nghĩa quân. Sau khi Phan Đình Phùng mất (1895) ông theo Phan Bội Châu ra nước ngoài một thời gian rồi vè hoạt động ở Nghệ Tĩnh, liên kết với Ngô Quảng, Hồ Bá Phấn, Nguyễn Thị Thanh (chị cụ Hồ Chí Minh). Có lần ông cùng với Phạm Văn Ngôn đến gặp Hoàng Hoa Thám ở Yên Thế. Năm 1916 ông bị giặc Pháp truy lùng, cuối cùng không thoát được, ông tự sát hi sinh trong đêm 20-8-1917, hưởng dương 58 tuổi. Tương truyền ông có bài thơ gởi bọn tay sai: Trong cuộc hơn thua há chịu ai, Giống nòi Hồng Lạc thiếu chi người. Tấc gươm trung nghĩa cầm ngang dạ, Một gánh giang san chất nặng vai. Tình thế hùm thiêng còn dấu gót, Ai ngờ lũ chó khéo tìm hơi. Phen này chẳng khuất thằng Tây nữa, Quyết phá tung ra đứng giữa trời."
+  "id" : 1588,
+  "entityName" : "Nguyễn Văn Chính",
+  "aliases" : [ "Cao Văn Chánh", "Cao Chánh", "Thạch Lan" ],
+  "overview" : "Nguyễn Văn Chính (tên thật Cao Văn Chánh, tên thường gọi là Chín Cần; 1 tháng 3 năm 1924 – 29 tháng 10 năm 2016) là một nhà chính trị Việt Nam. Ông là Ủy viên Trung ương Đảng các khóa IV, V, VI, VII; từng giữ các chức vụ Phó Chủ tịch Hội đồng Bộ trưởng; chủ tịch Hội Nông dân Việt Nam; Bộ trưởng Bộ Lương thực, Bí thư Tỉnh ủy Long An.\n----------------------------------------------\nNăm 1933, ông về nước, hiệp với bộ biên tập mới chấn chỉnh tờ Phụ nữ tân văn. Năm sau, ông tự lực chủ trương tờ báo Pháp văn L'Annam. Không lâu L'Annam đình bản, ông gác bút xoay ra kinh doanh, lập xưởng dệt hàng vải nội hóa. Song ông vẫn yêu nghề báo, lại làm trợ bút tờ Đuốc công lí của Nam Đình Nguyễn Thế Phương. Rồi hiệp với thân hữu xuất bản tờ Thời đại. ra hàng ngày. Ngòi bút ông sắc bén, tâm chí nhiệt thành, bạn đọc mến mộ khiến thực dân vô cùng căm ghét. Ông là tác giả bài nghiên cứu cảo luận, phê phán Trương Vĩnh Ký khá gay gắt trên các báo ở Sài Gòn trước năm 1945 (trên báo Phụ nữ tân văn). Năm Ất dậu 1945, ông mất đúng vào lúc đất nước chuyển mình, nhân dân đứng lên giành độc lập."
 }

@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "3 tháng 2, 1963 (54 tuổi) Thanh Miện, Hải Dương, Việt Nam Dân chủ Cộng hòa",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 3105,
-  "entityName": "Vũ Đức Đam",
-  "aliases": [],
-  "overview": "Vũ Đức Đam (sinh năm 1963) là một chính khách Việt Nam. Ông hiện là Phó Thủ tướng Chính phủ Việt Nam (nhiệm kì 2016-2021) theo dõi, chỉ đạo các lĩnh vực công tác: Giáo dục và đào tạo, Khoa học và công nghệ, Lao động, việc làm và các vấn đề xã hội, Thông tin và truyền thông, Văn hóa, du lịch, thể dục, thể thao, Y tế, dân số, gia đình và trẻ em, Chủ tịch Ủy ban Quốc gia phòng, chống AIDS và phòng chống tệ nạn ma túy. Trong Đảng Cộng sản Việt Nam, ông giữ chức vụ Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa XI, XII . Ông có bằng Tiến sĩ Kinh tế và là Phó Thủ tướng trẻ nhất tại thời điểm bổ nhiệm trong Chính phủ của Thủ tướng Nguyễn Tấn Dũng."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Danh tướng đời Lê Thái tổ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Triều Lê Sơ" : 7
+  },
+  "id" : 3105,
+  "entityName" : "Đoàn Phát",
+  "aliases" : [ ],
+  "overview" : "Nguyên trước ông là quan nhà Hồ, bị Lê Thiện dùng mưu đánh bắt được ở đồn núi Tản Viên, ông mới chịu theo giúp Bình Định vương Lê Lợi chống quân Minh. Tướng Minh nhiều lần muốn dụ hàng ông nên bắt mẹ ông làm con tin. Lê Lợi biết, sai ông đem thụy quân mai phục ở cửa biền Thần Phù cứu được mẹ. Bà mẹ nói: \"Ta chết cũng đáng tuổi, con sao khéo lo. Ta tưởng hôm nay ra được Đông Đô mắng Trương Phụ, Hoàng Phúc rồi chết cũng hả\". Ông lạy tạ, rồi đưa mẹ về Nghệ An ra mắt Bình Định vương. Vương khen: \"Lão mẫu thật trung liệt, không kém mẹ Vương Lăng, Từ Thứ khi xưa\". Mẹ con ông đều là bậc có khí tiết. Lúc đánh quân Minh, ông có làm bài hịch khởi nghĩa, lời lẽ rất trầm hùng."
 }

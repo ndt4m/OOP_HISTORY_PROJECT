@@ -1,21 +1,14 @@
 {
-  "dateOfBirth": "2 tháng 12, 885 Thái Nguyên",
-  "dateOfDeath": "15 tháng 5, 926",
-  "hometown": "Không rõ",
-  "occupation": "Hoàng đế nhà Hậu Đường",
-  "workTenure": "13 tháng 5 năm 923 - 15 tháng 5 năm 926 3 năm, 2 ngày",
-  "fatherName": {},
-  "motherName": {
-    "Tào thái hậu": null
-  },
-  "eraName": {},
-  "id": 471,
-  "entityName": "Lý Tồn Úc",
-  "aliases": [
-    "Lý Tồn Úc",
-    "Đồng Quang (同光) 13/5/ 923 - 11/6/ 926",
-    "Trang Tông (莊宗)",
-    "Quang Thánh Thần Mẫn Hiếu Hoàng Đế (光聖神閔孝皇帝)"
-  ],
-  "overview": "Hậu Đường Trang Tông (giản thể: 后唐庄宗; phồn thể: 後唐莊宗), tên húy là Lý Tồn Úc (tiếng Trung: 李存勖 hay 李存勗; bính âm: Lǐ Cúnxù), tiểu danh Á Tử (亞子), là một nhân vật chính trị và quân sự trong thời kỳ Ngũ Đại Thập Quốc trong lịch sử Trung Quốc. Ông kế vị cha làm vương nước Tấn (908-923) và sau trở thành hoàng đế của triều Hậu Đường (923–926) do ông sáng lập."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 471,
+  "entityName" : "Đặng Chi",
+  "aliases" : [ "Dèng Zhī" ],
+  "overview" : "Đặng Chi (chữ Hán: 鄧芝; Phiên âm: Dèng Zhī; 178–251 ) là một đại thần, tướng lĩnh nhà Thục Hán thời kỳ Tam Quốc trong lịch sử Trung Quốc."
 }

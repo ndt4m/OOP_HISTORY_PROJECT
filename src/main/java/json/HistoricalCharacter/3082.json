@@ -1,14 +1,14 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "xã thuộc huyện Gia Lâm, thành phố Hà Nội, Việt Nam.",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 3082,
-  "entityName": "Dương Xá",
-  "aliases": [],
-  "overview": "Dương Xá là một xã thuộc huyện Gia Lâm, thành phố Hà Nội, Việt Nam."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 3082,
+  "entityName" : "Trương Khiên",
+  "aliases" : [ "Tử Văn" ],
+  "overview" : "Trương Khiên (giản thể: 张骞; phồn thể: 張騫; bính âm: Zhang Qian; Wade–Giles: Chang Ch'ien, 164—114 TCN), tự Tử Văn, người Thành Cố, Hán Trung , nhà lữ hành, nhà ngoại giao, nhà thám hiểm kiệt xuất đời Tây Hán trong lịch sử Trung Quốc, có đóng góp to lớn trong việc mở ra con đường Tơ Lụa, kết nối giao thông nhà Hán với các nước Tây Vực."
 }

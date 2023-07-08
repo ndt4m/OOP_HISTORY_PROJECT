@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Giáp Dần 1914",
-  "dateOfDeath": "Tâu Mùi 1931",
-  "hometown": "huyện trong các buổi mít tinh, phổ biến những chủ trương của Đảng tới quần chúng và được quần chúng tin yêu",
-  "occupation": "Đoàn viên thanh niên ưu tú và trung kiên",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê phường Đông Các, huyện Thọ Xương, thành Thăng Long (nay thuộc TP",
+  "occupation" : "Danh sĩ, tác giả",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 2092,
-  "entityName": "Cao Xuân Quế",
-  "aliases": [],
-  "overview": "Thân phụ là Cao Xuân Hoạch hội viên Việt Nam thanh niên cách mạng đồng chí hội, bị bắt năm 1929 và bị đày đi Ban Mê Thuột. Anh ông là Cao Xuân Tùng được đoàn thể đưa ra nước ngoài. Nhà nghèo, mẹ đi bán dầu ở chợ Day để nuôi con. Ông công tác ở chi bộ Đa Thọ. Sau nhiều hoạt động của ông tại Đa Thọ, Yên Lĩnh thuộc huyện Anh Sơn (nay thuộc tỉnh Nghệ An) bọn địch khủng bố gắt gao. Tháng 4-1931, cơ quan huyện ủy chủ trương rút bộ phận đầu não vào rừng Vĩnh Giang lập chiến khu. Ông cùng một số đồng chí rút lên chiến khu tiếp tục hoạt động. Một buổi sáng, ông cùng nữ đồng chí Chính tức chị Nguyễn Thị Xân xuống khe giặt quần áo, gặp địch mai phục bắt đưa về đồn Yên Lĩnh. Trước sự tra tấn dã man của địch ông nêu cao tinh thần kiên cường bất khuất không khai một lời. Ông hi sinh năm 1931 lúc mới 17 tuổi."
+  "id" : 2092,
+  "entityName" : "Trần Văn Vi",
+  "aliases" : [ "Thành Tư", "Hoài Đông" ],
+  "overview" : "Năm Ất dậu (1825) ông thi Hương đỗ cử nhân tại trường Thăng Long cùng khóa với Hoàng Tế Mĩ, Nguyễn Văn Siêu, Tô Trân... Làm quan ở Quốc sử quán triều Nguyễn thăng đến hàm Thái bộ tự Khanh. Ông là thân phụ cử nhân Trần Huy Tích (1828-...). Ông là tác giả bộ sử Lê sử toản yếu. Sách được con trai ông là Trần Huy Tích hiệu đính, bổ sung. Bộ Lê sử toản yếu (10 quyển) do ông biên soạn, con trai là Trần Huy Tích san định và viết lời Tựa. Nội dung Lê sử toản yếu là một bộ lược sử Việt Nam về triều Lê, do một tư nhân viết. Sách còn là bản thảo, bắt đầu có một bài tiểu dẫn (không đề tên, không biết rõ của ai, trang sau là bài tựa của con trai tác giả là Trần Huy Tích, viết năm Tự Đức Quí hợi, 1863, sau khi hiệu chính). Thứ đến mục lục, đầu sách nguyên đề: Quốc sử tập biên toản yếu mục lục sau sửa chữa là: Lê sử toản yếu mục lục và bài Tựa."
 }

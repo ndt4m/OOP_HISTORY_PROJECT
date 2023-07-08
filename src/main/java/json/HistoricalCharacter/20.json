@@ -1,19 +1,18 @@
 {
-  "dateOfBirth": "Mậu Thân 1908",
-  "dateOfDeath": "Kỉ Dậu 1969",
-  "hometown": "quê làng Ngọc Giáp, huyện Quảng Xương, tỉnh Thanh Hóa",
-  "occupation": "Nhà văn hiện đại",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "1160",
+  "dateOfDeath" : "1210 Đại Việt",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế nhà Trần",
+  "workTenure" : "truy tôn",
+  "fatherName" : {
+    "Trần Hấp (陈翕)" : null
   },
-  "id": 20,
-  "entityName": "Đái Đức Tuấn",
-  "aliases": [
-    "Tchya"
-  ],
-  "overview": "Ông xuất thân làm Tham tá ở Nha học chính Đông Dương từ năm 1930, đến năm 1940 thì xin nghỉ việc. Sau đó, ông cư ngụ ở Côn Minh (Trung Quốc). Từ năm 1945 đến 1949 trở về nước, làm báo. Năm 1950, ông dạy ở trường Quốc học (Huế), có một thời ông bị bắt gia nhập quân đội Sài Gòn cấp bậc Đại úy rồi giải ngũ năm 1956. Ông mất ngày 8-8-1969 tại Sài Gòn, thọ 61 tuổi. Còn để lại các tác phẩm: - Đầy vơi (tập thơ, 1940) - Thần hổ (tiểu thuyết) - Kho vàng Sầm Sơn - Đồng tiền Vạn Lịch - Ai hát giữa rừng khuya - Linh hồn hay xác thịt - Đường lên núi - Uyển ngoạn (1956) - Tình Sơn nữ (1956)..."
+  "motherName" : { },
+  "eraName" : {
+    "nhà Trần" : null
+  },
+  "id" : 20,
+  "entityName" : "Trần Lý",
+  "aliases" : [ "Nguyên Tổ (元祖)", "Trần Nguyên Tổ", "Trần Lý (陳李)", "Chiêu Hoàng Đế (昭皇帝)" ],
+  "overview" : "Trần Lý (chữ Hán: 陳李; 1160 - 1210 ), hay Trần Nguyên Tổ (陳元祖), là ông của Trần Thái Tông, người sáng lập ra triều đại nhà Trần trong lịch sử Việt Nam. Ông chính là người khởi đầu sự nghiệp cai trị Đại Việt gần 200 năm của nhà Trần."
 }

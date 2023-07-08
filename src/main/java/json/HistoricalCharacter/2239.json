@@ -1,17 +1,14 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Tân Tị 1941",
-  "hometown": "Không rõ",
-  "occupation": "Chiến sĩ Cần vương kháng Pháp thời vua Hàm Nghi",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nhà Nguyễn độc lập": 30
-  },
-  "id": 2239,
-  "entityName": "Cao Đạt",
-  "aliases": [],
-  "overview": "Ban đầu, ông đầu quân dưới cờ nghĩa quân Phan Đình Phùng, tận lực chiến đấu cho chính nghĩa. Ông từng sát cánh với anh em Cao Thắng, đánh thắng nhiều trận khiến cho quân cướp nước phải kiêng nể tinh thần dũng cảm, bất khuất của nòi Việt. Nhưng khi các lực lượng kháng chiến tan vỡ dần, ông lại ra đầu thú Pháp sống dưới ách cai trị của thực dân Pháp, lại có những hành động phản bạn, hại dân, hại nước, bị nhân dân nguyền rủa."
+  "dateOfBirth" : "1936 Triệu Phong, Quảng Trị, Đông Dương thuộc Pháp",
+  "dateOfDeath" : "12 tháng 2, 2003 (66–67 tuổi) Quận Cam, California, Hoa Kỳ",
+  "hometown" : "quê hương, về sau ông được xem như là 1 trong 4 giọng nam của nhạc vàng thời kỳ đầu (Tứ trụ nhạc vàng), 3 người còn lại là: Nhật Trường, Hùng Cường, Chế Linh.",
+  "occupation" : "Nhạc sĩ, ca sĩ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 2239,
+  "entityName" : "Nguyễn Văn Diệp",
+  "aliases" : [ ],
+  "overview" : "Duy Khánh (1936–2003), tên thật Nguyễn Văn Diệp, còn có nghệ danh Tăng Hồng, Hoàng Thanh, là nam ca sĩ, nhạc sĩ người Việt Nam. Ông nổi danh từ thập niên 1960, ban đầu với những bài hát mang âm hưởng dân ca và \"dân ca mới\" của Phạm Duy, nhạc về quê hương, về sau ông được xem như là 1 trong 4 giọng nam của nhạc vàng thời kỳ đầu (Tứ trụ nhạc vàng), 3 người còn lại là: Nhật Trường, Hùng Cường, Chế Linh. Ông còn được biết đến như một nhạc sĩ tài năng với hơn 30 ca khúc đặc sắc."
 }

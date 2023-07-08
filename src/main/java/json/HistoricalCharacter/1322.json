@@ -1,20 +1,17 @@
 {
-  "dateOfBirth": "Bính Tuất 1886",
-  "dateOfDeath": "Bính Thìn 1916",
-  "hometown": "Quê làng Đông Chử, huyện Nghi Lộc, tỉnh Nghệ An còn có tên là Trần Hữu Lực, cựu sinh viên trường Chấn Võ Tokyo phục vụ trong quân đội cách mạng của Tôn Văn ở Trung Quốc",
-  "occupation": "Chí sĩ cận đại, con trai nhà yêu nước Nguyễn Thức Tự, em ruột bác sĩ Trần Trọng Khắc",
-  "workTenure": "Không rõ",
-  "fatherName": {
-    "nhà yêu nước Nguyễn Thức Tự": null
+  "dateOfBirth" : "Quí Hợi 1923",
+  "dateOfDeath" : "Nhâm Ngọ 2002",
+  "hometown" : "nguyên quán bản Nà Cọt, xã Châu Khê, huyện Ngân Sơn, tỉnh Cao Bằng (nay là xã Cốc Đán cùng huyện, tỉnh)",
+  "occupation" : "Nhà thơ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
-  },
-  "id": 1322,
-  "entityName": "Nguyễn Thức Đường",
-  "aliases": [
-    "Trần Hữu Lực"
-  ],
-  "overview": "Năm 1915, ông cùng Trần Trung Lập, Võ Đình Mẫn với danh nghĩa quân đội Quang phục hội từ biên giới Trung Quốc đột nhập về tấn công đồn Tà Lùng của Pháp tại Lạng Sơn. Cuộc đột kích thất bại, ông trốn sang Thái Lan, đến ngày 26-6-1915 ông bị Pháp bắt ở bên ấy, chúng đem ông về xử chém tại Bạch Mai (gần Hà Nội) một lần với Nguyễn Đức Công ngày 24-1-1916. Đương thời nhân dân địa phương Nghi Lộc, Nghệ An có bài ca: Ai về Nghi Lộc, Nghệ An, Hỏi thăn con cháu cụ San thế nào? (cụ San: Nguyễn Thức Tự) Hỏi Canh: hoạt động bên Tàu, Hỏi Đường? Tây đã chặt đầu năm nao ? … Cha con sau trước bốn người, Hiến thân cho nước, cho nòi Việt Nam. Em ruột ông là chí sĩ Nguyễn Thức Bao cũng ra nước ngoài hoạt động chống Pháp, bị thực dân bắt đày Côn Đảo, ở Côn Lôn, ông hai lần tìm cách vượt nguc, nhưng đều bị bắt lại. Đến lần vượt ngục thứ ba ông mất tích giữa biển."
+  "id" : 1322,
+  "entityName" : "Nông Văn Quỳnh",
+  "aliases" : [ "Nông Quốc Chấn" ],
+  "overview" : "Ông sớm giác ngộ cách mạng, tham gia Việt Minh và du kích giải phóng quân trước cách mạng tháng 8 năm 1945. Sau ngày toàn quốc kháng chiến tham gia tỉnh ủy Bắc Kạn. Đại biểu Quốc hội khóa II, chủ tịch Hội Văn học nghệ thuật khu Việt Bắc. Từ năm 1964 giữ chức Thứ trưởng Bộ Văn hóa kiêm hiệu trưởng trường Đại học Văn hóa, Phó chủ tịch ủy ban liên hiệp các Hội văn học nghệ thuật Tổng biên tập tạp chí Toàn cảnh sự kiện và dư luận. Các tác phẩm chính: - Tiếng ca người Việt Bắc (thơ, 1959) - Người núi hoa (thơ, 1961) - Đèo gió (thơ, 1968) - Bước chân Pắc Pó (thơ, 1971) - Suối và Biển (thơ, 1984) - Một vườn hoa nhiều hương sắc (văn xuôi, 1977) - Đường ta đi (thơ, 1970) Ông được tặng Giải thưởng Hồ Chí Minh về văn học nghệ thuật. Ông mất ngày 4 tháng 2 năm 2002 tại Hà Nội, thọ 79 tuổi."
 }

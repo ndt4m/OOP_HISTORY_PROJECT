@@ -1,21 +1,20 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Vua",
-  "workTenure": "944 – 950\n----------------------------------------------\n944—950",
-  "fatherName": {
-    "Dương Đình Nghệ": 2021
+  "dateOfBirth" : "Tân Mùi 1751",
+  "dateOfDeath" : "Quí Hợi 1803",
+  "hometown" : "quê làng Hàm Giang, huyện Cẩm Giàng, tỉnh Hải Dương, con trưởng quan Tư không Đinh Công Phục và quận phu nhân Nguyễn Thị",
+  "occupation" : "Võ tuớng đời Lê Hiển tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "quan Tư không Đinh Công Phục" : null
   },
-  "motherName": {},
-  "eraName": {
-    "Nhà Ngô": 25,
-    "Nhà Ngô và Dương Tam Kha": 25
+  "motherName" : {
+    "quận phu nhân Nguyễn Thị" : null
   },
-  "id": 1905,
-  "entityName": "Dương Bình Vương",
-  "aliases": [
-    "Dương Tam Kha (楊三哥) Dương Chủ Tướng (楊主將) Dương Thiệu Hồng (楊紹洪)"
-  ],
-  "overview": "Dương Tam Kha (chữ Hán: 楊三哥), tức Dương Bình Vương (楊平王) là một vị vua Việt Nam, trị vì từ 944 đến 950, xen giữa nhà Ngô trong lịch sử Việt Nam.\n----------------------------------------------\nDương Tam Kha (chữ Hán: 楊三哥, ? - 980), tức Dương Bình Vương (楊平王), là một vị vua Việt Nam, trị vì từ 944 đến 950, xen giữa triều đại nhà Ngô trong lịch sử Việt Nam."
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
+  "id" : 1905,
+  "entityName" : "Đinh Nhạ Hành",
+  "aliases" : [ ],
+  "overview" : "Ông thông minh, hiếu học. Thời loạn lạc đành xếp bút nghiên theo việc quân sự làm đến án trấn đất Hưng Hóa. Năm Bính ngọ 1786, tháng 5, Nguyễn Hữu Chỉnh dẫn quân Tây Sơn ra Bắc Hà, biến loạn bộc khởi nhiều nơi, riêng tại Hưng Hóa, Đinh Nhạ Hành chống giữ oanh liệt. Nguyễn Huệ nghe danh ông, lấy sắc mạng vua Lê triệu ông, ông từ chối không đến. Kịp khi Nguyễn Huệ trở về Qui Nhơn, ông về Thăng Long yết vua Lê, được thăng Hiệp trấn Hải Dương. Ông không ưa Nguyễn Hữu Chỉnh, Chỉnh thì kiềng ông, lờ đi. Năm Đinh vị 1787, tháng 10, ông chống nhau với Võ Văn Nhậm tại Võ Xuyên (thuộc huyện Ý Yên). Ông được trao chức Sơn Nam đạo Bình khấu đại tướng quân, tước Hàm Quận Công, đăng đàn bái tướng tại bờ Thuận Giang. Tây Sơn đại thắng, Chiêu Thống sai Trần Danh Án sang cầu viện nhà Thanh. Ông vẫn ra sức chống cự. Em ông là Đinh Thận Võ khuyên nên lui về quê, ông dứt khoát liều chết. Chiêu Thống ẩn náu ở Lạng Giang, sai sứ giả phong ông làm Đông đạo thống lãnh thủy bộ chư dinh Bình khấu đại tướng quân và ủy cho ông tiện đường sang Khâm Châu đón quân Thanh. Năm Mậu thân 1788, tháng 9 ông sang Liêm Châu, Tổng đốc Lưỡng Quảng là Tôn Sĩ Nghị bảo ông về trước. Quân Thanh sang, Tôn Sĩ Nghị phong ông làm Đại tướng, ông nghi ngờ quân Thanh, khuyên Chiêu Thống phải dè dặt. Chiêu Thống không quan tâm đến lời ông, ông dâng sớ xin cáo quan về làng. Chiêu Thống phải an ủi lưu ông ở lại. Nhưng từ đấy ông không tin Tôn Sĩ Nghị và quân Thanh, mọi việc đều lo liệu lấy. Có lần phẫn chí thái quá, ông gieo mình xuống sông tự vẫn, các thuộc hạ vớt lên, ông không ngớt buồn phiền. Năm Kỉ dậu 1789, Lê Chiêu Thống chạy theo đám tàn quân Thanh sang Trung Quốc, ông cũng theo phò, ngậm đắng nuốt cay trước thái độ bạc đãi của triều đình Mãn Thanh. Năm Quí hợi 1803, mùa xuân, nghe tin Gia Long thống nhất đất nước, ông cùng Lê Quýnh dâng biểu xin về nước ca. Vua Thanh không cho, bảo là chờ có sứ ta sang cầu phong sẽ liệu sau. Đến tháng 7 ông bệnh nặng rồi mất, hưởng dương 52 tuổi, lưu lạc ở Trung Quốc 14 năm. Sau, con ông rước linh cữu ông theo hài cốt Lê Chiêu Thống về chôn cất tại quê nhà. Đến đời Tự Đức, mộ phần ông được trùng tu lại."
 }

@@ -1,20 +1,20 @@
 {
-  "dateOfBirth": "Kỉ Mão 1818",
-  "dateOfDeath": "Ất Tị 1905",
-  "hometown": "quê xã Quỳnh Đôi, huyện Quỳnh Lưu, tỉnh Nghệ An",
-  "occupation": "Danh sĩ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Mậu Dần 1878",
+  "dateOfDeath" : "Nhâm Thân 1932",
+  "hometown" : "tại làng Bình Tây, tỉnh Chợ Lớn (nay thuộc Q",
+  "occupation" : "Giáo tông đạo Cao Đài, tín đồ đạo Cao Đài đầu tiên, tục danh là Phủ Chiêu ",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "Ngô Văn Xuân" : null
   },
-  "id": 1254,
-  "entityName": "Phạm Đình Toái",
-  "aliases": [
-    "Song Quỳnh",
-    "Thiếu Du"
-  ],
-  "overview": "Năm Nhâm dần 1842, ông đỗ cử nhân, sơ bổ Tri huyện, rồi trải qua các chức: Tri phủ Lâm Thao (1866), Bố chánh Sơn Tây, Án sát Sơn Tây. Ông có tiếng thanh cần, chính trực. Có lúc ông phạm lỗi bị ngưng chức, sau vẫn được phục hồi, làm đến Hồng lô tự khanh, rồi về hưu (Canh ngọ 1870) ngụ ở Hà Nội. Các tác phẩm của ông: - Quỳnh Lưu tiết phụ truyện - Hán Đường Tân thi ca diễn âm - Trung dung diễn ca - Dịch quái diễn ca Ông cũng có khảo đính lại bộ Đại Nam quốc sử diễn ca của Lê Ngô Cát, trong năm 1873, rồi cho khắc ván in ở Nghệ An. Đoạn nói về Hai bà Trưng như sau: Bà Trưng quê ở Châu Phong Giận người tham bạo thù chồng chẳng quên. Chị em nặng một lời nguyền, Phất cờ nương tử thay quyền tướng quân Ngàn tây nổi áng phong trần Ầm ầm binh mã xuống gần Long Biên. Hồng quần nhẹ bước chinh yên. Đuổi thằng Tô Định dẹn tan biên thành."
+  "motherName" : {
+    "Lâm Thị Quí" : null
+  },
+  "eraName" : {
+    "Pháp đô hộ" : 11
+  },
+  "id" : 1254,
+  "entityName" : "Ngô Văn Chiêu",
+  "aliases" : [ ],
+  "overview" : "Ông sinh trưởng trong một gia đình nghèo, cha mẹ ông phải đi làm công tại nhà máy xay lúa Bình Tây. Tuổi trẻ ông rất thông minh lại nhà nghèo nên được cấp học bổng vào học tại Trường Trung học Nguyễn Đình Chiểu ở Mĩ Tho. Năm 1899 tốt nghiệp bằng Thành chung được bổ làm việc tại Sở Tân đáo Sài Gòn, nhưng đến năm 1931 thì xin thôi việc \"nhà nước\" dốc lòng vào việc tu thiền theo pháp môn Cao Đài. Ông là người khai sáng ra phái tu Chiếu minh chuyên sâu về nội tu của đạo Cao Đài. Từ năm 1930, đạo Cao Đài có khuynh hướng về chính trị và nội bộ đạo phân hóa thành nhiều hệ phái. Ông mất năm 1932 thọ 54 tuổi. Ông là tác giả một số bài thơ về giáo lí đạo Cao Đài."
 }

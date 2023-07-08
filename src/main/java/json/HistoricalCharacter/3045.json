@@ -1,14 +1,19 @@
 {
-  "dateOfBirth": "1959 xã Phú Lộc, huyện Tam Bình, tỉnh Vĩnh Long, Việt Nam Cộng hòa",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 3045,
-  "entityName": "Trương Văn Sáu",
-  "aliases": [],
-  "overview": "Trương Văn Sáu (sinh năm 1959) là một chính khách người Việt Nam. Ông nguyên là Phó Bí thư thường trực Tỉnh ủy, Chủ tịch HĐND tỉnh Vĩnh Long khóa VIII, tái đắc cử Chủ tịch HĐND tỉnh khóa IX, nhiệm kỳ 2016-2021."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "113 TCN Nam Việt\n----------------------------------------------\nKhông rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Nam Việt\n----------------------------------------------\nVua",
+  "workTenure" : "125 TCN – 113 TCN\n----------------------------------------------\n125—113TCN",
+  "fatherName" : {
+    "Triệu Hồ" : 176,
+    "Triệu Văn Đế" : null
+  },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Triệu" : 16
+  },
+  "id" : 3045,
+  "entityName" : "Triệu Minh Vương",
+  "aliases" : [ "Triệu Anh Tề (趙嬰齊)" ],
+  "overview" : "Triệu Minh Vương (趙明王), húy Triệu Anh Tề (趙嬰齊) là vị vua thứ ba nhà Triệu nước Nam Việt, ở ngôi từ năm 125 TCN đến 113 TCN."
 }

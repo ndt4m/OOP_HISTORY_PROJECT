@@ -1,17 +1,16 @@
 {
-  "dateOfBirth": "Tân Hợi 1911",
-  "dateOfDeath": "Tân Mùi 1991",
-  "hometown": "quê làng Cao Lao hạ, huyện Bố Trạch, tỉnh Quảng Bình, sau cư ngụ ở Huế, Hà Nội",
-  "occupation": "Thi sĩ lãng mạn thời tiền chiến",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Giáp Tuất 1934",
+  "dateOfDeath" : "Đinh Mùi 1967",
+  "hometown" : "quê làng Mĩ Hiệp, quận Phù Mĩ, tỉnh Bình Định",
+  "occupation" : "Nhà văn hiện đại",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nước Việt Nam mới" : 29
   },
-  "id": 1658,
-  "entityName": "Lưu Trọng Lư",
-  "aliases": [],
-  "overview": "Xuất thân trong một gia đình Nho học, thuở nhỏ học Trường Quốc học Huế, sau bỏ học gia nhập làng báo ở Hà Nội, Huế... Năm 1933 chủ trường Ngân Sơn tùng thư ở Huế, từng cộng tác với các báo Phụ nữ tân văn (Sài Gòn), Sông Hương (Huế), Phụ nữ thời đàm, Tiến Hóa, Tân thiếu niên, Tao Đàn, Hà Nội báo (Hà Nội). Sau cách mạng tháng 8-1945, toàn quốc kháng chiến (19-12-1946) ông tham gia Hội Văn hóa Cứu nước ở Huế, hoạt động tuyên truyền và văn nghệ ở chiến khu Bình Trị Thiên. Từ năm 1955 làm việc ở Bộ Văn hóa (Hà Nội), từng làm Tổng thư kí Hội nghệ sĩ sân khấu Việt Nam, Ủy viên ban chấp hành Hội Nhà văn Việt Nam... Những năm trước Thế chiến II (1932) Lưu Trọng Lư cùng một số nhà thơ có thi tài khởi xướng và phát động phong trào thơ mới mà ông là một trong những kiện tướng xuất sắc đã làm cho thơ mới càng rực rỡ. Vì thơ ông \"là tiếng lòng thổn thức cùng hòa theo tiếng thổn thức của lòng ta\" (H.T) như tiếng mùa thu đang nỉ non cùng vũ trụ nhân gian: Em không nghe mùa thu Dưới trăng mờ thổn thức? Em không nghe rạo rực Hình ảnh kẻ chinh phu Trong lòng người cô phụ ? Em không nghe rừng thu Đó là tiếng lòng của Lưu Trọng Lư mà cũng là tiếng thu của đất trời."
+  "id" : 1658,
+  "entityName" : "Đoàn Thế Hối",
+  "aliases" : [ "Lê Vĩnh Hòa" ],
+  "overview" : "Ông là con thứ trong gia đình, năm 6 tuổi ông theo thân phụ vào Nam, ngụ ở xã Vĩnh Hòa, tỉnh Rạch Giá. (có lẽ bút hiệu Lê Vĩnh Hòa xuất xứ từ đấy). Ông nhiệt thành yêu nước, khoảng năm 1950-51, ông là học sinh trường trung học kháng chiến Nguyễn Văn Tố (miền Tây). Ra trường được phân công về công tác ở văn phòng Mặt trận Liên Việt tỉnh Rạch Giá. Sau hiệp định Genève 1954, ông ở lại miền Nam. Đầu năm 1956, công tác vận động học sinh trung học, do đó, được bố trí vào học ở trường trung học tại thị xã Rạch Giá, mang tên giả Trần Văn Thành, ngồi lớp đệ lục (lớp 7 bây giờ). Trước đó, mặc dù ông có nhiều truyện, thơ, bài phê bình đăng rải rác trên các báo Nhân dân miền Nam, Tiến thủ, Gió mới… nhưng mãi đến khi viết cho tuần san Nhân loại ông mới chính thức nhập làng văn với bút hiệu Lê Vĩnh Hòa. Năm 1958 ông bị Mĩ - Diệm bắt giam, đưa qua nhiều nhà tù ở miền Nam: Chí Hòa, Thủ Đức, Phú Lợi, Sóc Trăng... Năm 1963, ông thoát khỏi ngục tù của Mĩ - Diệm và ra vùng giải phóng tiếp tục chiến đấu. Đến ngày mùng 7 tết Đinh mùi 1967, ông hi sinh trong một trận chống càn tại Long Mĩ, Xẻo Giá (Rạch Giá), hưởng dương 33 tuổi. Trong 4 năm (1963-67) ở vùng giải phóng, ông đã sáng tác hơn 30 truyện và kí và để lại khá nhiều bản thảo. Tác phẩm còn lại: - Người tị nạn. - Mái nhà thơ."
 }

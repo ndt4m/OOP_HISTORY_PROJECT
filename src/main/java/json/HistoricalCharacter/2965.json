@@ -1,31 +1,17 @@
 {
-  "dateOfBirth": "…\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath": "1546 Trung Quốc\n----------------------------------------------\nBính Ngọ 1546\n----------------------------------------------\nKhông rõ",
-  "hometown": "xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách), tỉnh Hải Dương, Việt Nam.\n----------------------------------------------\nKhông rõ\n----------------------------------------------\nKhông rõ",
-  "occupation": "Hoàng đế Đại Việt\n----------------------------------------------\nVua đời thứ ba nhà Mạc, con trưởng Mạc Đăng Doanh, được lập làm thái tử, nối ngôi vào năm Tân sửu 1541\n----------------------------------------------\nVua",
-  "workTenure": "1540 – 1546\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1540–1546",
-  "fatherName": {
-    "Mạc Đăng Doanh": 1224,
-    "Mạc Thái Tông": 1574
+  "dateOfBirth" : "Quí Mùi 1823",
+  "dateOfDeath" : "Nhâm Thìn 1892",
+  "hometown" : "quê làng Phú Khê, huyện Ý Yên, tỉnh Nam Định",
+  "occupation" : "Nhân sĩ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nhà Nguyễn độc lập" : 30
   },
-  "motherName": {},
-  "eraName": {
-    "Nhà Mạc": 18,
-    "Nam - Bắc Triều": 19,
-    "Bắc triều – Nhà Mạc  và thời kỳ Cao Bằng": null
-  },
-  "id": 2965,
-  "entityName": "Mạc Hiến Tông",
-  "aliases": [
-    "Quang Hòa",
-    "Mạc Phúc Hải",
-    "Hiển hoàng đế",
-    "Mạc Phúc Hải (莫福海) Mạc Đức Nguyên",
-    "Mạc Hữu Mệnh",
-    "Nguyễn Lập",
-    "Mạc Lập Bạo",
-    "Mạc Ngọc Liễn",
-    "Hiến Tông (憲宗)"
-  ],
-  "overview": "Mạc Hiến Tông (chữ Hán: 莫憲宗, ? – 1546) là vị Hoàng đế thứ ba của nhà Mạc trong lịch sử Việt Nam, ở ngôi từ năm 1540 đến 1546. Ông tên thật là Mạc Phúc Hải (莫福海), là người xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách), tỉnh Hải Dương, Việt Nam.\n----------------------------------------------\n\n----------------------------------------------\nMạc Hiến Tông (chữ Hán: 莫憲宗 1517 – 1546) là vị hoàng đế thứ ba của nhà Mạc trong lịch sử Việt Nam, ở ngôi từ năm 1540 đến 1546 và chỉ dùng một niên hiệu là Quảng Hoà. Ông tên thật là Mạc Phúc Hải (莫福海), là người xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách), tỉnh Hải Dương."
+  "id" : 2965,
+  "entityName" : "Hoàng Văn Tuấn",
+  "aliases" : [ ],
+  "overview" : "Năm Giáp tí 1864, ông đỗ giải nguyên, 41 tuổi, làm Tri huyện Nam Xương (Hà Nam). Giặc Pháp tấn công Bắc kì lần thứ nhất (1873), ông cùng văn thân trong huyện mộ quân chống lại. Triều đình Huế kí điều ước 1874, ra lệnh giải tán nghĩa quân, ông bất bình cáo quan về làng. Đến năm Nhâm ngọ 1882, giặc Pháp tấn công Hà Nội lần II, ông cùng các bạn đồng chí tập hợp nghĩa quân chống giặc. Ít lâu ông bị bắt giam ở Ninh Bình. Nhờ nguời quen vận động, ông được thả, bị quản thúc ở quê nhà. Ông vẫn giữ vững được khí tiết, bất khuất, chẳng bao lâu bị bệnh mất. Lúc ông bị giam, các bạn cũ đã ra hợp tác với Pháp, gởi sách và rượu vào ngục cho ông và khuyên đừng mơ mộng nữa hay thỏa hiệp với Pháp. Ông làm thơ TRONG TÙ KHÔNG NGỦ. \"Thê thê phong vũ dạ trì trì, Tức tức trùng thanh nhiễu tứ vi. Dục bả di biên lai thụy pháp, Nan tương trọc tửu áp hàn uy. Mê đồ vị tất tri kim thị, Mộng kính hà tu lãm cố phi. Hồi thủ bách niên đô thị mộng, Lân tường kê hưởng nhật tranh huy\". Bản dịch: Gió mưa buồn thảm kéo đêm dài, Tiếng dế quanh nhà váng cả tai, Sách nát không nhờ đưa ngủ tới. Rượu nồng khó át rét ra oai. Đường mê vị tất là nay đúng, Lối mộng sao đành bào trước sai. Nghĩ lại trăm năm đều mộng cả, Tiếng gà giục sáng rộn bên ngoài Ông là tác giả nhiều văn thơ có giá trị nghệ thuật"
 }

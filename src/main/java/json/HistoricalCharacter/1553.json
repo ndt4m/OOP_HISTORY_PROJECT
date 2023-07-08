@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "8 tháng 8 năm 1917 Hà Nội",
-  "dateOfDeath": "17 tháng 1, 1998 (80 tuổi) Hà Nội",
-  "hometown": "quê thôn Đại Định, xã Tam Hưng, huyện Thanh Oai, tỉnh Hà Đông nay thuộc thành phố Hà Nội.",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 1553,
-  "entityName": "Tạ Đình Đề",
-  "aliases": [
-    "Lâm Giang"
-  ],
-  "overview": "Tạ Đình Đề (còn có tên là Lâm Giang) (sinh 8 tháng 8 năm 1917 tại Hà Tây – mất 17 tháng 1 năm 1998 tại Hà Nội) là nhà cách mạng Việt Nam. Ông quê thôn Đại Định, xã Tam Hưng, huyện Thanh Oai, tỉnh Hà Đông nay thuộc thành phố Hà Nội."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Khả Lam huyện Lương Giang phủ Thanh Đô (nay là xã Xuân Lam, huyện Thọ Xuân tỉnh Thanh Hóa Việt Nam), một khai quốc công thần nhà Lê sơ, một viên tướng tài phụng sự tới 4 triều vua Lê sơ là: Lê Thái Tổ, Lê Thái Tông, Lê Nhân Tông và Lê Thánh Tông.",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "nhà Lê" : null
+  },
+  "id" : 1553,
+  "entityName" : "Lê Lộng",
+  "aliases" : [ ],
+  "overview" : "Lê Lộng, quê làng Khả Lam huyện Lương Giang phủ Thanh Đô (nay là xã Xuân Lam, huyện Thọ Xuân tỉnh Thanh Hóa Việt Nam), một khai quốc công thần nhà Lê sơ, một viên tướng tài phụng sự tới 4 triều vua Lê sơ là: Lê Thái Tổ, Lê Thái Tông, Lê Nhân Tông và Lê Thánh Tông."
 }

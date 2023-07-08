@@ -1,19 +1,17 @@
 {
-  "dateOfBirth": "Quí Sửu 1913",
-  "dateOfDeath": "…",
-  "hometown": "nguyên quán Thành phố Cần Thơ, sinh ở Hà Nội (vì thân phụ làm công chức ngành quan thuế ở Hà Nội)",
-  "occupation": "Nhà văn ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Nhâm Dần 1902",
+  "dateOfDeath" : "Quí Mùi 2003",
+  "hometown" : "tại xã Mĩ Hòa, huyện Cầu Ngang, tỉnh Trà Vinh",
+  "occupation" : "Nhà hoạt động cách mạng",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 1353,
-  "entityName": "Phạm Văn Hạnh",
-  "aliases": [
-    "Thê Húc"
-  ],
-  "overview": "Thuở nhỏ học ở Cần Thơ, Chợ Lớn, sau ra Hà Nội học trung học. Từng làm báo, viết văn ở đất Thăng Long, cộng tác với các bảo Ngày Nay, Tinh Hoa, Thanh Nghị... có mặt trong nhóm Xuân Thu Nhã tập gồm Đoàn Phú Tứ, Nguyễn Lương Ngọc, Nguyễn Xuân Khoát, Nguyễn Đỗ Cung, Nguyễn Xuân Sanh... Sau cách mạng tháng Tám năm 1945 ông viết văn kí với bút danh Thê Húc, là thành viên của nhóm lí luận và phê bình văn học hiện thực Mác Xít ở Sài Gòn, gồm các cây bút có sắc cạnh: Tam Ích, Thiên Giang, Thiếu Sơn... hoạt động văn nghệ, xã hội tại Sài Gòn trong những năm 1946-1954. Từ năm 1955, ông không sáng tác gì thêm nhiều, chỉ thỉnh thoàng có mặt trên tạp chí Bách khoa. Sau năm 1975 ông theo vợ con về định cư ở Ấn Độ (vì vợ ông là người Ấn). Các tác phẩm chính: - Giọt sương hoa (1942) - Dân chủ và dân chủ (1948) - Văn chương và xã hội (1948) - Tia nắng (1950) - Bài hát Tì Bà (1952) - Bảng toát yếu về bước đường tiến hóa của văn học Việt Nam (1953)"
+  "id" : 1353,
+  "entityName" : "Dương Quang Đông",
+  "aliases" : [ "Dương Văn Phúc", "Năm Đông" ],
+  "overview" : "Ông tham gia hoạt động cách mạng từ năm 1920 trong tổ chức Công hội bí mật của ông Tôn Đức Thắng. Năm 1927 gia nhập Việt Nam thanh niên cách mạng đồng chí hội, sau khi thống nhất các tổ chức đảng cộng sản ba miền ông giữ chức Thường vụ xứ ủy Nam Nam kì, Bí thư tỉnh ủy Trà Vinh. Sau cách mạng tháng Tám năm 1945 ông đắc cử Đại biểu Quốc hội khóa I, rồi toàn quốc kháng chiến ông làm Phó phòng Hàng hải Nam Bộ suốt 9 năm kháng chiến chống Pháp ở các mặt trận Nam Bộ. Hiệp định Genève được kí kết, ông cùng đơn vị tập kết ra Bắc, một thời gian sau khi thành lập Mặt trận Giải phóng miền Nam, ông trở về Nam đánh Mĩ. Tại miền Nam, ông từng giữ các chức vụ: - Phó ban Hàng hải Nam Bộ, - Khu ủy viên khu Sài Gòn - Gia Định, - Trưởng ban Giao Bưu A53 Trung ương cục Miền Nam, - Ủy viên Ban Thanh tra Sài Gòn - Gia Định, - Phó chủ tịch Ủy ban Mặt trận tổ quốc TP. HCM.... Suốt một đời tận tụy vì cách mạng, ông được Đảng và Nhà nước Việt Nam tặng nhiều huân chương cao quí, trong đó có Huân chương Hồ Chí Minh. Ông mất ngày 10-5-2003, thọ 102 tuổi."
 }

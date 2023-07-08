@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "Mậu Thân 1908",
-  "dateOfDeath": "Mậu Thìn 1988",
-  "hometown": "quê ở An Bình Đông, xã An Đức, huyện Ba Tri, tỉnh Bến Tre",
-  "occupation": "Nghệ sĩ sân khấu",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Nhâm Thìn 1652",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Thượng Tốn, huyện Gia Lâm, tỉnh Bắc Ninh (nay là Hà Nội)",
+  "occupation" : "Văn thần đời Lê Hi tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
   },
-  "id": 544,
-  "entityName": "Lê Long Vân",
-  "aliases": [
-    "Ba Vân"
-  ],
-  "overview": "Từ thuở nhỏ ông đã tập nhạc, tập ca hát. Từ năm 1920 ông vào nghề hát theo gánh Đồng Bào Ban rồi lần lượt hoạt động trong các gánh Tái Lập Ban, Tân Hưng Ban, Nghĩa Hiệp Ban, Phước Cương, Đại Phước Cương... Ông là một tài năng kịch nghệ sáng giá một bậc thầy diễn xuất độc đáo đủ các vai: hề, lão, độc, văn, võ... Suốt 60 năm trong nghề hát, kịch, ông nổi bật trong các vai mình thủ diễn, nhất là trong các vở Men rượu hương tình (hay Phụ phàng), VÓ ngựa truy phong, Khi người điên biết yêu, Tây Thi gái nước Việt, Người ven đô... với tài diễn xuất đặc sắc không nghệ sĩ nào sánh nổi. Danh tiếng ông lừng lẫy trên toàn quốc, được khán giả nhiệt liệt khen ngợi với biệt hiệu Quái kiệt Ba Vân. Do công lao và tài năng của mình, ông được Nhà nước Việt Nam phong tặng danh hiệu \"Nghệ sĩ nhân dân\". Ngày 24-8-1988 ông mất, thọ 80 tuổi, lễ tang trọng thể và an táng ở nghĩa trang Thành phố Hồ Chí Minh."
+  "id" : 544,
+  "entityName" : "Đỗ Công Bật",
+  "aliases" : [ ],
+  "overview" : "Năm Ất sửu 1685, ông đỗ Tam giáp tiến sĩ, làm Lễ khoa cấp sự trung. Sau, tăng Đô cấp sự trung. Con ông là Đỗ Công Đỉnh cũng có danh tiếng. Ông và một nhóm danh sĩ có đóng góp một phần lớn trong bộ Quốc sử thực lục chép từ năm đầu hiệu Cảnh Trị (Quí mão 1663) đời Lê Huyền tông, cho đến năm Đức Nguyên 2 (Ất mão 1675) cuối đời Lê Gia tông, tất cả 13 năm, do Lê Hi và Nguyễn Quí Đức biên soạn."
 }

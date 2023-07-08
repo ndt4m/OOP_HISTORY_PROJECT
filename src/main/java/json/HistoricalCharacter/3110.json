@@ -1,20 +1,17 @@
 {
-  "dateOfBirth": "1857\n----------------------------------------------\nĐinh Tị 1857",
-  "dateOfDeath": "1887\n----------------------------------------------\nBính Tuất 1886",
-  "hometown": "quê xã Trung Lễ (nay là xã Đức Trung), huyện Đức Thọ, tỉnh Hà Tĩnh",
-  "occupation": "Nhân sĩ yêu nước ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "1019\n----------------------------------------------\nKỉ Mùi 1019",
+  "dateOfDeath" : "1105\n----------------------------------------------\nẤt Dậu 1105",
+  "hometown" : "Hà Nội",
+  "occupation" : "Danh tướng, đại thần nhà Lý",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Lý" : 14,
+    "nhà Lý" : null
   },
-  "id": 3110,
-  "entityName": "Lê Ninh",
-  "aliases": [
-    "Mạnh Khang",
-    "Ấm Ninh"
-  ],
-  "overview": "Lê Ninh (1857-1887), hiệu Mạnh Khang, là người đầu tiên hưởng ứng chiếu Cần Vương ở vùng Nghệ-Tĩnh trong lịch sử Việt Nam.\n----------------------------------------------\nÔng là con quan Bố chính, nên tục gọi Ấm Ninh. Em ông là Lê Võ, tục gọi Ấm Võ cũng là chí sĩ đáng tôn kính của dân tộc. Từ trẻ ông thường học vo, không chuộng lối học khoa cử. Giặc Pháp xâm lăng, ông cùng các văn thân vùng Nghệ Tĩnh tổ chức kháng chiến. Vua Hàm Nghi lập chiến khu ở Quảng Bình (1885) phong ông làm Bang biện quân vụ Hà Tĩnh. Ông tích cực hoạt động chống giặc. Chúng trả thù bằng cách đốt phá sạch xã Trung Lễ, quê ông, đến Bính tuất 1886, chẳng may ông bị bệnh mất sớm, hưởng dương 29 tuổi. Khi ông mất Phan Đình Phùng có đôi câu đối điếu ông: \"Tuy Vân thành bại do thiên, xướng nghĩa tiên thành tồn Nghệ Tĩnh. Kham thán anh hùng vô địa, phù quân đại tiết hữu Hồng Lam\". Nghĩa: Tuy rằng thành bại tự tròi, tiếng xướng nghĩa trước tiên, còn truyền Nghệ Tĩnh. Than nhẽ anh hùng không đất, tiết phò vua cao cả, khá sánh Hồng Lam."
+  "id" : 3110,
+  "entityName" : "Lý Thường Kiệt",
+  "aliases" : [ "Ngô Tuấn" ],
+  "overview" : "Lý Thường Kiệt (chữ Hán: 李常傑; 1019 – 1105) là nhà quân sự, nhà chính trị thời nhà Lý nước Đại Việt, làm quan qua 3 triều vua Lý Thái Tông, Lý Thánh Tông và Lý Nhân Tông. Ông nổi bật với việc chinh phạt Chiêm Thành (1069), đánh phá 3 châu Khâm, Ung, Liêm nước Tống (1075-1076), rồi đánh bại cuộc xâm lược Đại Việt của quân Tống do Quách Quỳ, Triệu Tiết chỉ huy (1077). Ông đã làm tể tướng hai lần dưới thời Lý Nhân Tông và là một trong 3 người phụ chính khi vua này còn nhỏ tuổi. Năm 2013, Bộ Văn hóa, Thể và Du lịch liệt ông vào trong những 14 vị anh hùng dân tộc tiêu biểu nhất trong lịch sử Việt Nam.\n----------------------------------------------\nLúc mất, cũng có tên thụy là Quảng Châu, quê ở phủ Thái Hòa, thành Thăng Long (nay thuộc Hà Nội). Ông tài gồm văn võ, năm 23 tuổi được bổ làm Hoàng môn chi hậu rồi tăng dần đến Thái úy. Trải ba triều Thái tông, Thánh tông, Nhân tông, ông dày công phục vụ đất nước trong việc phá Tống, bình Chiêm, xây dựng đất nước phồn vinh. Lý Nhân tông xem ông như người em ruột (thiên tử nghĩa đệ), đến cả nhân dân, sĩ phu cũng đều cảm phục tài đức của ông. Năm Ất dậu 1105, ông mất, thọ 86 tuổi, được truy tặng Kiểm hiệu Thái úy Việt Quốc Công. Trong năm 1077, nhân mấy mươi vạn quân Tống do tướng Quốc Quì, Triệu Tiết kéo sang xâm lược nước ta, ông đánh chặn giặc trên suốt dọc phòng tuyến sông Cầu và đang đêm cho nguời tâm phúc đọc vang một bài thơ do ông viết trong đền thờ Trương Hống, Trương Hát (thuộc địa phận sông Như Nguyệt, khúc sông Cầu huyện Yên Phong, lộ Bắc Giang, nay là huyện Yên Phong, tỉnh Bắc Giang). Bài thơ như một bản tuyên ngôn độc lập hùng tráng đầu tiên trong lịch sử dân tộc. \"Nam quốc sơn hà Nam đế cư, Tiệt nhiên định phận tại thiên thư Như hà nghịch lỗ lai xâm phạm, Nhữ đẳng hành khan thủ bại hư'.\" Bản dịch: Núi sông Nam Việt vua Nam ở, Vằng vặc sách trời chia xứ sở, Giặc dữ cớ sao phạm đến đây? Chúng mày nhất định phải tan vỡ. Tác phẩm chính: Phòng tuyến sông Như Nguyệt (phá Tống)."
 }

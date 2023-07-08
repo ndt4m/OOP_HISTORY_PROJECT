@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Đinh Sửu 1517",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê làng Thổ Hoàng, huyện Thiên Thi, tỉnh Hưng Yên",
-  "occupation": "Danh thần đời Mạc",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nam - Bắc Triều": 19
+  "dateOfBirth" : "Mậu Ngọ 1918",
+  "dateOfDeath" : "Kỉ Sửu 1949",
+  "hometown" : "quê làng Đông Yên, huyện Duy Xuyên, tỉnh Quảng Nam (nay là xã Duy Trinh, huyện Duy Xuyên, tỉnh Quảng Nam) (ông là anh ruột ông Hoàng Bích Sơn - Hồ Liên)",
+  "occupation" : "Nhà thơ chiến sĩ cách mạng",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 1202,
-  "entityName": "Bùi Tuân",
-  "aliases": [],
-  "overview": "Năm Cảnh lịch 6 (Quí sửu 1553), đời Mạc Phúc Nguyên, ông 36 tuổi, đỗ tiến sĩ. Làm quan đến Tham chính, tính khảng khái cương trực. Các nguời cháu ông là Chân Nam, Công Trí, Công Bảo, Trọng Chính về sau đều thành đạt vẻ vang."
+  "id" : 1202,
+  "entityName" : "Hồ Thấu",
+  "aliases" : [ ],
+  "overview" : "Sinh trưởng trong một gia đình phú túc ở Duy Xuyên, học tại Hội An, Huế. Tham gia hoạt động cách mạng trước năm 1945. Sau cách mạng tháng 8 năm 1945 tham gia kháng chiến chống Pháp tại Quảng Nam. Năm 1947-1949 ông bị lao phổi về điều trị một thời gian ở Bệnh viện Dân y Quảng Nam tại Cây Sanh (nay là xã Tam Dân, huyện Phú Ninh) rồi về nghỉ bệnh tại một làng ven biển - làng Kim Đái - nay là xã Tam Anh, thị xã Tam Kì rồi mất tại đây ngày 9 tháng 10 năm 1949. Đời Hồ Thấu đối với thi hữu như nhữmg huyền thoại mà cũng là những thi thoại hiếm có trên thi đàn Việt Nam giữa thế kỉ XX."
 }

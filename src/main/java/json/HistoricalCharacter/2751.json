@@ -1,21 +1,16 @@
 {
-  "dateOfBirth": "1475\n----------------------------------------------\nẤt Mùi 1475",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê xã Mộ Trạch, huyện Đường An, phủ Bình Giang, tỉnh Hải Dương",
-  "occupation": "Danh sĩ đời Lê Hiến tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nam - Bắc Triều": 19,
-    "Triều Lê Sơ": 7
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Động Trung (nay là Võ Trung), Phủ Kiến Xương, tỉnh Thái Bình",
+  "occupation" : "Nhân sĩ, yêu nước",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 2751,
-  "entityName": "Võ Cán",
-  "aliases": [
-    "Võ Cán",
-    "Tùng Hiên",
-    "Vũ Cán"
-  ],
-  "overview": "Vũ Cán hay Võ Cán (1475 - ?) , hiệu: Tùng Hiên; là quan Nhà Lê sơ, Nhà Mạc và là nhà thơ Việt Nam.\n----------------------------------------------\nNăm Nhâm tuất 1502 ông đỗ tiến sĩ, làm quan đến Thượng thư bộ Lễ, kiêm Chưởng quản các việc ở viện Hàn lâm, tước Lễ Độ Bá. Ông từng đi sứ Trung Quốc trong năm Canh ngọ 1510. Về sau, ông lại làm quan nhà Mạc. Ngoài ra ông còn là một nhà văn có các sách: - Tùng Hiên thi văn tập (gồm có những bài kí, thuyết, linh, luận, truyện, biện... bàn về sử, địa, sinh hoạt xã hội). - Tứ lục bị lãm (sưu tập cùng các bài văn tứ lục). Khi làm quan nhà Mạc, ông thường xướng họa thơ ca với Trạng Trình Nguyễn Bỉnh Khiêm. Lúc đi hộ giá vua Mạc tiến quân ở châu Lục Yên, Nguyễn Bỉnh Khiêm cảm khái, có họa vần bài thơ ông: \"Đại giá tây tuần trú thử sơn, Nhất phương sĩ nữ vọng an toàn. Đảo huyền đân cửu lí hung đạo, Trắc đát thùy vô xúc thiện đoan. Tập bạo nhân hình thao túng ngoại, Chiết xung cơ ngụ tiếu đàm gian. Ngô tào nhược hữu trù biên sách, Ưng vị ngộ quân nhất phạm nhan.\" Bản dịch: Tuần du thánh giá đóng non tây, Trai gái cầu yên đợi dịp này. Tàn ngược dân lành sa lưới đó, Thiện lương ai chẳng xót lòng đây. Nghĩa quân dẹp bạo không thao túng, Bàn luận ngăn thù có chước hay. Yên ổn biên thùy nêu kế sách, Hãy vì thánh đế dám tâu bày."
+  "id" : 2751,
+  "entityName" : "Nguyễn Hữu Cương",
+  "aliases" : [ ],
+  "overview" : "Từ năm Quí dậu 1873, ông cùng với anh là Nguyễn Hữu Bản khởi nghĩa chống giặc Pháp ở vùng Thái Bình. Đến khi cha và anh hi sinh, ông vẫn tận tụy phục vụ dân nước đến cùng. Năm Ất dậu 1885 ông phục vụ dưới quyền điều khiển của Tuân phủ Hưng Hóa Nguyễn Quang Bích. Phong trào kháng chiến tan vỡ, ít lâu ông sa vào tay giặc bị đưa đi an trí ở Cần Thơ. rồi mất ở đó. Con gái ông là Nguyên Hồng Đính kết duyên với Lương Ngọc Quyến. Khi Lương Ngọc Quyến bị bắt giam sau vụ khởi nghĩa ở Thái Nguyên, Lương có gởi cho vợ một bài thơ song thất lục bát, coi như bức thư vĩnh quyết, nội dung hoài niệm đến ông với lòng khâm phục và mong bạn trăm năm sẽ xứng đáng là con dòng nhà họ Nguyễn, dâu họ Lương."
 }

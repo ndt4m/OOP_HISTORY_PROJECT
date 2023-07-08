@@ -1,21 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Thiền sư đời Trần mạt, có sách chép là Đại Nam",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Trần": 15,
-    "nhà Thanh": null
+  "dateOfBirth" : "Giáp Tí 1924",
+  "dateOfDeath" : "Giáp Thân 2004",
+  "hometown" : "tại Gò Công (nay thuộc tỉnh Tiền Giang)",
+  "occupation" : "Giáo sư kiến trúc, Kiến trúc sư",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nước Việt Nam mới" : 29
   },
-  "id": 2596,
-  "entityName": "nhà Nguyễn",
-  "aliases": [
-    "Nam Việt",
-    "Việt Nam",
-    "Đại Nam"
-  ],
-  "overview": "Nhà Nguyễn (Chữ Nôm: 家阮, Chữ Hán: 阮朝; Hán Việt: Nguyễn triều) là triều đại cuối cùng trong lịch sử Việt Nam, năm 1802 đến năm 1804 sử dụng quốc hiệu Nam Việt (Gia Long khi triều cống nhà Thanh tự xưng \"Nam Việt Quốc trưởng\"), năm 1804 đến năm 1839 sử dụng quốc hiệu Việt Nam, Đại Việt Nam, năm 1839, vua Minh Mạng Nguyễn Phúc Kiểu đổi quốc hiệu là Đại Nam. Nhà Nguyễn được thành lập sau khi vua Gia Long lên ngôi năm 1802 và chấm dứt hoàn toàn khi hoàng đế Bảo Đại thoái vị vào năm 1945, tổng cộng là 143 năm. Triều Nguyễn là một triều đại đánh dấu nhiều thăng trầm của lịch sử, đặc biệt là cuộc xâm lược của người Pháp giữa thế kỷ 19.\n----------------------------------------------\nNăm Tân dậu 1381 ông nhận lệnh triều đình thống suất tăng chúng trong nước đi đánh Chiêm Thành. Đạo quân toàn tu sĩ Phật giáo do ông điều động xông pha nơi chiến trường nói lên sự suy đồi của nhà Trần về mặt quân sự và tinh thần Phật giáo lúc ấy cũng sa đọa."
+  "id" : 2596,
+  "entityName" : "Nguyễn Quang Nhạc",
+  "aliases" : [ ],
+  "overview" : "Thuở nhỏ ông học ở Gò Công, Sài Gòn; sau du học Pháp. Những năm 60 ông về nước giảng dạy tại trường Đại học kiến trúc Sài Gòn đến năm 1975. Trong thời gian giảng dạy tại trường Kiến trúc Sài Gòn, ông còn giữ các chức vụ: - Khoa trưởng Đại học Kiến trúc Sài Gòn. - Trưởng bộ môn kiến trúc dân dụng Trường Đại học Kiến trúc TP.HCM. - Phó Tổng thư kí Hội Kiến trúc sư Ông được tặng thưởng: Huân chương lao động hạng 3, Giải thưởng nhà nước về kiến trúc. Ông mất ngày 17-8-2004, thọ 81 tuổi."
 }

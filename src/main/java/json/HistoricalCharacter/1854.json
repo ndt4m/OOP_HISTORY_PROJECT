@@ -1,25 +1,17 @@
 {
-  "dateOfBirth": "8 tháng 9, 685 Trường An, Đại Đường",
-  "dateOfDeath": "3 tháng 5, 762 (76 tuổi) Cam Lộ điện thuộc Thái Cực cung, Trường An, Đại Đường",
-  "hometown": "Không rõ",
-  "occupation": "Hoàng đế Đại Đường",
-  "workTenure": "13 tháng 8 năm 712 – 12 tháng 8 năm 756 (43 năm, 365 ngày)",
-  "fatherName": {
-    "Đường Duệ Tông": null
+  "dateOfBirth" : "Đinh Mùi 1907",
+  "dateOfDeath" : "Đinh Mùi 1967",
+  "hometown" : "quê làng Phú Thứ Thượng xã Đại Quang, huyện Đại Lộc, tỉnh Quảng Nam",
+  "occupation" : "Nhà thơ ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "motherName": {
-    "Chiêu Thành Đậu hoàng hậu": null
-  },
-  "eraName": {
-    "Nhà Đường (唐)": null
-  },
-  "id": 1854,
-  "entityName": "Lý Long Cơ",
-  "aliases": [
-    "Lý Long Cơ (李隆基)",
-    "Tiên Thiên (先天, 712-713) Khai Nguyên (開元, 713-741) Thiên Bảo (天寶, 742-756)",
-    "Huyền Tông (玄宗)",
-    "Chí Đạo Đại Thánh Đại Minh Hiếu Hoàng đế (玄宗至道大聖大明孝皇帝)"
-  ],
-  "overview": "Đường Huyền Tông (chữ Hán: 唐玄宗, 8 tháng 9, 685 - 3 tháng 5, 762), hay thường gọi là Đường Minh Hoàng (唐明皇), là vị Hoàng đế thứ 7 hoặc thứ 9 của Triều đại nhà Đường trong lịch sử Trung Quốc. Huyền Tông được đánh giá là một trong những vị Hoàng đế đáng chú ý nhất của nhà Đường, danh tiếng không thua kém tằng tổ phụ của ông là Đường Thái Tông Lý Thế Dân, tạo nên giai đoạn thịnh trị tột bậc cho Triều đại này."
+  "id" : 1854,
+  "entityName" : "Nguyễn Học Sĩ",
+  "aliases" : [ "Nam Trân" ],
+  "overview" : "Sau khi đỗ tú tài, ông làm Tham tá tòa Khâm sứ Huế, rồi được bổ làm Tá lí bộ Lại. Những năm đầu thế kỉ ông có bài đăng ở Tạp chí Nam Phong, tạp chí Văn học và các tuần báo Sông Hương, Phong Hóa, Tràng An, Tân Tiến... Sau Cách mạng tháng Tám, ông tham gia kháng chiến, công tác ở ủy ban kháng chiến hành chánh huyện Đại Lộc, ủy ban kháng chiến hành chánh tỉnh Quảng Nam, rồi làm Chánh văn phòng ủy ban kháng chiến hành chánh liên khu V. Năm 1954 ông tập kết ra Bắc, công tác ở Ban chấp hành hội Nhà văn Việt Nam. Năm 1959 công tác tại Viện Văn học, chuyên về dịch thuật. Ông cũng là một trong những cán bộ giảng dạy lớp Đại học Hán học đầu tiên ở miền Bắc, do Ủy ban Khoa học Xã hội Việt Nam tổ chức (1965-1968). Năm Đinh mùi 1967, ngày 1-2 Dương lịch ông mất, thọ 60 tuổi. Các tác phẩm chính của ông: - Huế đẹp và thơ (tập thơ XB năm 1939) - Thơ Đường (chủ trì việc dịch ra Việt văn, 2 tập, 1962)."
 }

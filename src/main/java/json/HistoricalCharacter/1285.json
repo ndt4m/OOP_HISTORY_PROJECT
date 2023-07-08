@@ -1,20 +1,16 @@
 {
-  "dateOfBirth": "12 tháng 3, 898 Đường Lâm\n----------------------------------------------\nKỉ Dậu 899",
-  "dateOfDeath": "18 tháng 1, 944 (45 tuổi) Tĩnh Hải quân\n----------------------------------------------\nGiáp Thân 944",
-  "hometown": "quê ở Đường Lâm, huyện Phúc Lộc, châu Giao (nay thuộc tỉnh Hà Tây)",
-  "occupation": "Ngô Vương\n----------------------------------------------\nDanh tuớng, vua người dựng lên nghiệp nhà Ngô",
-  "workTenure": "939 – 944\n----------------------------------------------\nKhông rõ",
-  "fatherName": {
-    "Ngô Mân": null
+  "dateOfBirth" : "Bính Dần 1926",
+  "dateOfDeath" : "Kỉ Mùi 1967",
+  "hometown" : "tại Bến Tre",
+  "occupation" : "Liệt sĩ hiện đại",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nước Việt Nam mới" : 29
   },
-  "motherName": {},
-  "eraName": {
-    "Nhà Ngô": 25
-  },
-  "id": 1285,
-  "entityName": "Ngô Quyền",
-  "aliases": [
-    "Ngô Quyền (吳權)"
-  ],
-  "overview": "Ngô Quyền (chữ Hán: 吳權, 897 - 944), còn được biết đến với tên gọi Tiền Ngô Vương (前吳王), là vị vua đầu tiên của nhà Ngô trong lịch sử Việt Nam. Năm 938, ông là người lãnh đạo nhân dân đánh bại quân Nam Hán trong trận Bạch Đằng nổi tiếng, chính thức kết thúc gần một thiên niên kỉ Bắc thuộc, mở ra một thời kì độc lập lâu dài của Việt Nam. Sau chiến thắng này, ông lên ngôi vua, trị vì từ năm 939 đến năm 944.\n----------------------------------------------\nÔng là vị tướng tài, được chủ tướng là Dương Diên Nghệ gả con gái là Dương Thị Như Ngọc cho. Ông cùng cha vợ đánh bại quân Nam Hán xâm lược lần thứ nhất (930-931), rồi được cha vợ ủy quyền trông coi châu Ái (Thanh Hóa). Năm Đinh dậu 937, Kiều Công Tiễn phản bội, giết chết Dương Diên Nghệ, rồi cấu kết với quân Nam Hán. Ông dấy binh giết được Công Tiễn, dẹp tan quân Nam Hán do Hoằng Thao kéo sang xâm lược lần thứ hai trên sông Bạch Đằng. Năm Kỉ hợi 939, ông xưng vương, mở nền độc lập tự chủ cho dân nước, đến Giáp thìn 944, ông mất hưởng dương 45 tuổi, trị nước được 5 năm. Sau khi ông mất, anh vợ là Dương Tam Kha phụ lời ủy thác của ông, cướp quyền con ông là Ngô Xương Văn, gây nên nội biến."
+  "id" : 1285,
+  "entityName" : "Hồ Hảo Hớn",
+  "aliases" : [ "Hai Nghị" ],
+  "overview" : "Ông nhiệt tình yêu nước, tham gia cách mạng từ năm 1946. Sau hiệp định Genève, ông được phân công tác ở bộ phận trí vận và dạy học ở một số trường tư thục ở Sài Gòn. Năm 1960, cơ sở bị lộ, ông được tổ chức rút vào khu. Năm 1962, ông là Bí thư ban cán sự sinh viên học sinh Sài Gòn, năm 1963 trở vào Sài Gòn hoạt động, đến năm 1965, ông là Phó bí thư khu đoàn Sài Gòn Gia Định, rồi Bí thư thành đoàn Thanh niên Lao động (1967). Tháng 10-1967, ông bị giặc bắt ở gần bót Bà Hòa và hi sinh tại đây, hưởng dương 41 tuổi."
 }

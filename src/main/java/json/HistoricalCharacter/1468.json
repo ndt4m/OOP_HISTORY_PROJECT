@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "Bính Tí 1936",
-  "dateOfDeath": "Quí Mão 1963",
-  "hometown": "quê ở Phú Cát, huyện Hương Thủy, tỉnh Thừa Thiên",
-  "occupation": "Nữ tu sĩ Phật giáo",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Mậu Thân 1908",
+  "hometown" : "quê làng An Ba, huyện Mộ Đức, tỉnh Quảng Ngãi, con một quan lớn triều Nguyễn, đỗ cử nhân khoa Nhâm ngọ (1882) tại trường thi Bình Định",
+  "occupation" : "Liệt sĩ cận đại",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 1468,
-  "entityName": "Ngô Thị Thu Minh",
-  "aliases": [
-    "Minh Nguyệt",
-    "Diệu Quang"
-  ],
-  "overview": "Mộ đạo Phật, cô vừa là nữ sinh Trung học vừa phát nguyện tu. Đến khi tốt nghiệp trường Sư phạm Nha Trang, cô xuống tóc trở thành nữ tu sĩ đệ tử sư cô Diệu Hoa, chùa Vạn Thạnh, Nha Trang. Phản đối chính quyền Ngô Đình Diệm đàn áp Phật giáo, sư cô tự thiêu ngày 15-8-1963 tại Ninh Hòa, tử vì đạo, hưởng dương 27 tuổi. Hiện nay ở Thành phố Hồ Chí Minh có chùa đặt tên nữ tu sĩ."
+  "id" : 1468,
+  "entityName" : "Lê Khiết",
+  "aliases" : [ "Lê Thứu Khiết", "An Ba" ],
+  "overview" : "Khi quân Pháp chiếm nước ta, ông là thuộc hạ của tên gian ác Nguyễn Thân, tham gia đàn áp các phong trào yêu nước ở miền Trung, làm đến Bố chánh. Khoảng năm 1902 ông thức tỉnh, từ quan, từ đó ông tham gia các phong trào yêu nước. Năm Mậu thân 1908, chính ông cùng Nguyễn Bá Loan, Nguyễn Thụy... lãnh đạo phong trào Duy tân, kháng thuế ở Quảng Ngãi. Bọn cầm quyền đàn áp thẳng tay, chúng cho ông là thủ phạm, cầm đầu phong trào, xử chém ông tại Quảng Ngãi. Lê Khiết là tấm gương sáng đối với những người lầm lỡ theo giặc, cuối cùng giác ngộ rồi hi sinh vì đại nghĩa. Lúc lâm hình, ông ung dung bảo: \"Cái vết nhơ của lịch sử nửa đời người tôi, nay lấy máu cổ mà rửa. Vinh hạnh biết chừng nào\""
 }

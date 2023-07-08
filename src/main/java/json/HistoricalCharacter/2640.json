@@ -1,21 +1,16 @@
 {
-  "dateOfBirth": "1844\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Chiến sĩ kháng Pháp xâm lược, không rõ năm sinh",
-  "workTenure": "Không rõ",
-  "fatherName": {
-    "Lãnh binh Trương Định anh hùng kháng Pháp": null
+  "dateOfBirth" : "1713\n----------------------------------------------\nQuí Tị 1713",
+  "dateOfDeath" : "1792\n----------------------------------------------\nNhâm Tí 1792",
+  "hometown" : "quê làng Lan Khê (sau đổi là Thượng Khê) huyện Nông Cống, tỉnh Thanh Hóa",
+  "occupation" : "Cũng gọi là Nguyễn Hoàn, Danh thần đời Lê Hiển tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
   },
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
-  },
-  "id": 2640,
-  "entityName": "Trương Quyền",
-  "aliases": [
-    "Trương Tuệ",
-    "Huệ"
-  ],
-  "overview": "Trương Quyền (1844 - ?), còn có tên Trương Huệ hay Trương Tuệ, là một thủ lĩnh trong phong trào kháng Pháp ở nửa sau thế kỷ 19 tại Nam Kỳ, Việt Nam.\n----------------------------------------------\nSau khi Trương Định hi sinh, ông cộng tác với Thiên Hộ Dương ở Đồng Tháp Mười được các chiến sĩ tôn là Nhị Lang quân (nhất lang là Thiên Hộ Dương). Ông còn hợp tác với quân kháng chiến Miên do Pu Kăm Pô đứng đầu. Ông từng chỉ huy đánh đồn Thuận Kiều ở Chợ Lớn, Bà Điểm, tấn công Trảng Bàng (ở Tây Ninh)... Sau năm 1868, nghĩa quân thiếu vũ khí tan rã, Pu Kăm Pô chạy về Nam Vang, ông lên Biên Hòa một thời gian rồi về Cai Lậy tập trung lực lượng nghĩa quân lại vào năm 1870 tiếp tục kháng Pháp. Ông hi sinh trong trận chiến ở Cai Lậy."
+  "id" : 2640,
+  "entityName" : "Nguyễn Hoản",
+  "aliases" : [ "Nguyễn Hoàn" ],
+  "overview" : "Nguyễn Hoàn (Chữ Hán 阮 院; 1713 - 1792) là đại thần, nhà Sử học, nhà Thơ thời Lê trung hưng trong lịch sử Việt Nam\n----------------------------------------------\nNăm Quí hợi 1743 ông đỗ đồng tiến sĩ lúc 30 tuổi, làm Hữu tư giảng, rồi thăng Thượng thư bộ Lại (1767), sau coi tòa Kinh diên, Quốc tử giám, Viện Hàn lâm, Đông các, rồi lại được làm tham tụng tước Hoàn Quận Công (hay Hoàn Quận Công). Năm Đinh dậu 1777 ông thăng Thái phó, Quốc lao, tham dự triều chính. Ít lâu thì về hưu rồi lại được vời ra làm Tham tụng như trước, biểu dương Phụ quốc công thần. Tuy làm quan lớn nhưng ông chỉ cầu an, phong cách bị sĩ phu chê trách nhiều, thường gọi mỉa mai ông là \"Trường lạc lão\" (ông già hưởng lạc lâu dài) như Phùng Đạo ở đời Ngũ Quí bên Trung Quốc. Năm Nhâm tí 1792 ông mất, thọ 79 tuổi. Ông có thừa lệnh chúa Trịnh Sâm, cùng với Lê Quí Đôn, Võ Miên biên tập Quốc sử tục biên từ đời Lê Hi tông đến Ý tông (1639-1739), nối bộ Đại Việt sử kí bản kỉ tục biên. Ông cùng soạn với Võ Miên, Uông Sĩ Lãng, Phan Trọng Miên bộ Đại Việt lịch triều đăng khoa lục. Đây là một bộ sách quí về khoa cử nước nhà từ khởi thủy đến thời Lê mạt"
 }

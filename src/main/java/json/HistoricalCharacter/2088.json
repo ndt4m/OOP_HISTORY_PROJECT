@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "1789",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Thanh": null
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Hành Quần, huyện Nam Trực, tỉnh Nam Định (nay thuộc Nam Định), ông đỗ cử nhân",
+  "occupation" : "Nhân sĩ yêu nước",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 2088,
-  "entityName": "Trương Triều Long",
-  "aliases": [],
-  "overview": "Trương Triều Long (張朝龍, ?-1789) là một tướng của nhà Thanh, chết trận tại Việt Nam."
+  "id" : 2088,
+  "entityName" : "Nguyễn Ngọc Tương",
+  "aliases" : [ ],
+  "overview" : "Giặc Pháp xâm lăng, ông bỏ quan, về làng tham gia với các Văn thân, mộ quân khởi nghĩa chống Pháp. Được ít lâu, thế uy yếu, ông lui về ẩn lánh ở quê nhà. Về sau, chúng khuyên dỗ ông ra làm việc, ông một mực lấy cớ già yếu mà chối từ giữ được khí tiết đến cùng. Khi nghe tin vua Hàm Nghi bị bọn Trương Quang Ngọc phản bội bắt giao ho Pháp (Mậu tí 1888), qua một đêm cảm xúc, lúc đầu năm, ông có bài thơ tỏ chí: Thâm dạ nguyên tiêu vũ tái đồ, Sầu lai độc tọa chước đồ tô. Thương tâm phong hỏa thiêm dư lí, Cực mục quan san lục xích cô. Thượng hữu cương thường xanh vũ trụ, Khẳng cam tu phác lão giang hồ. Doanh môn tri tử tri niên hỉ, Bất giải kứn ngô thị cố ngô.\" Bản dịch: Nguyên tiêu khuya quạnh mưa tuôn, Một mình cạn chén mối buồn vấn vương. Dặm nghìn khói lửa đau thương, Mắt trông xa giá nẻo đường bơ vơ Cương thường dựng lại cơ đồ, Tóc râu há chịu sông hồ phôi pha. Cháu con mừng thọ đầy nhà, Biết đâu ta vẫn là ta năm nào. Thơ ông vẫn còn truyền tụng khá nhiều."
 }

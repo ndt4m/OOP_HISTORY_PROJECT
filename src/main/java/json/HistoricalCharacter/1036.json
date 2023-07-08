@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 1036,
-  "entityName": "Phạm Ngạn",
-  "aliases": [],
-  "overview": "Phạm Ngạn(范彥), một tướng lĩnh kiệt xuất của phong trào Tây Sơn."
+  "dateOfBirth" : "Quí Tị 1413",
+  "dateOfDeath" : "Quí Mùi 1463",
+  "hometown" : "Hà Tây",
+  "occupation" : "Sau ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Triều Lê Sơ" : 7
+  },
+  "id" : 1036,
+  "entityName" : "Hoàng Tịnh Thanh",
+  "aliases" : [ "Hoàng Thanh", "Trúc Khê", "Trình Thanh", "Trực Khanh" ],
+  "overview" : "Hoàng Thanh có thể là:\n----------------------------------------------\nQuê xã Lương Xá, huyện Chương Đức phủ ứng Thiên, tỉnh Hà Đông (nay là Hà Tây). Năm Tân hợi 1431, ông đỗ khoa Hoành từ, 18 tuổi nổi tiếng văn học đương thời. Ông làm Chánh chưởng Nội mật viện (Quí hợi 1443), rồi thăng Hàn lâm thị độc (1447), Tham tri (1462), hai lần làm Phó sứ sang nhà Minh: lần I trong năm 1443, lần II năm 1459. Khi trấn nhậm ở biên cương, ông dâng sớ điều trần khuyên nhà vua tiết kiệm, khéo dùng người, chăm lo việc vó để giữ nước, giúp dân. Quí mùi 1463 ông mất, thọ 50 tuổi. Con cháu ông về sau đỗ đạt rất nhiều, nghiễm nhiên là một họ có danh vọng thời bấy giờ. Tính ông thanh liêm, thẳng thắn. Lương Nhữ Hộc đề bài tán vào bức di tượng ông: \"Lúc trẻ tuổi quen biết vua Thái tổ, lúc lớn vua Thánh tông tin dùng, sự thể đầy đủ mà dụng được châu đáo. Làm con hiếu, làm bề tôi trung; làm quan bốn triều một lòng sau trước. Thi thư đời ấy, đời khác, cháu chắt theo đường khoa hoạn. Thật là một họ to ở Ứng Thiên\"."
 }

@@ -1,25 +1,16 @@
 {
-  "dateOfBirth": "8 tháng 4, 566",
-  "dateOfDeath": "25 tháng 6, 635 (69 tuổi) Trường An, Đại Đường",
-  "hometown": "Không rõ",
-  "occupation": "Hoàng đế Đại Đường",
-  "workTenure": "18 tháng 6 năm 618 - 4 tháng 9 năm 626 (8 năm, 19 ngày)",
-  "fatherName": {
-    "Đường Thế Tổ": null
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Phúc Thái, huyện Bạch Hạc, tỉnh Phú Thọ",
+  "occupation" : "Văn thần đời Lê Thánh tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Triều Lê Sơ" : 7
   },
-  "motherName": {
-    "Nguyên Trinh hoàng hậu": null
-  },
-  "eraName": {
-    "Nhà Đường": null
-  },
-  "id": 143,
-  "entityName": "Lý Uyên",
-  "aliases": [
-    "Vũ Đức (武德)",
-    "Lý Uyên (李淵)",
-    "Cao Tổ (高祖)",
-    "Thần Nghiêu Đại Thánh Đại Quang Hiếu Hoàng Đế (神堯大聖大光孝皇帝)"
-  ],
-  "overview": "Đường Cao Tổ (chữ Hán: 唐高祖, 8 tháng 4, 566 – 25 tháng 6, 635), là vị hoàng đế khai quốc của triều Đường trong lịch sử Trung Quốc. Ông trị vì từ năm 618 đến năm 626, tổng cộng 8 năm."
+  "id" : 143,
+  "entityName" : "Lưu Túc",
+  "aliases" : [ ],
+  "overview" : "Năm Đinh mùi 1487, ông đỗ đồng tiến sĩ làm đến Thượng thư, ông là người có khí tiết thanh cần, liêm chính. Năm Đinh hợi 1527, Mạc Đăng Dung tiếm ngôi. Ông không khuất phục lánh mình ở ẩn, được người đương thời khen ngợi là bậc tiết nghĩa."
 }

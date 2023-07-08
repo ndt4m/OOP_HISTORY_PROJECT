@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "Nguyễn Chí Thành 15 tháng 10, 1065 xã Gia Thắng, Gia Viễn, Ninh Bình",
-  "dateOfDeath": "1141 Đại Việt",
-  "hometown": "Không rõ",
-  "occupation": "Lý triều Quốc sư",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 406,
-  "entityName": "Lý Quốc Sư",
-  "aliases": [
-    "Nguyễn Minh Không"
-  ],
-  "overview": "Lý Quốc Sư (chữ Hán: 李國師 15 tháng 10 năm 1065 – 1141) là tên gọi theo quốc tính họ Vua do nhà Lý ban cho và ghép với chức danh pháp lý cao nhất của một vị thiền sư từng là dược sư, pháp sư, đại sư rồi quốc sư tên hiệu Nguyễn Minh Không (chữ Hán: 阮明空). Ông là một vị cao tăng đứng đầu tổ chức Phật giáo của triều đại nhà Lý trong lịch sử, được xem là vị thiền sư sáng lập nên nhiều ngôi chùa nhất ở Việt Nam và được tôn vinh là ông tổ nghề đúc đồng."
+  "dateOfBirth" : "Kỉ Sửu 1769",
+  "dateOfDeath" : "Bính Tuất 1826",
+  "hometown" : "quê làng Phù Mĩ, tỉnh Bình Định",
+  "occupation" : "Có sách chép là Lê Văn Chất hoặc Lê Tôn Chất ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Tây Sơn" : 21,
+    "Nhà Nguyễn độc lập" : 30
+  },
+  "id" : 406,
+  "entityName" : "Lê Chất",
+  "aliases" : [ "Hậu Quân Chất" ],
+  "overview" : "Lê Chất (chữ Hán: 黎質, 1769 - 1826còn gọi là Hậu Quân Chất là danh tướng của triều Tây Sơn, sau theo triều Nguyễn.\n----------------------------------------------\nNăm Mậu ngọ 1798, nhà Tây Sơn suy vi có nội biến, Lê Trung bị giết vì tình nghi phản bội. Ông bỏ trốn ít lâu, rồi theo Nguyễn Ánh, được phong làm Tả đồn Đô thống chế. Năm Tân dậu 1801, được phong tước Quận Công. Năm Nhâm tuất 1802, làm Khâm sai chưởng hậu quân Bình tây tướng quân, cùng bộ binh đi đánh ở miền Bắc. Năm Quí hợi 1803, ông cùng Phạm Văn Nhân, Nguyễn Văn Khiêm trông coi việc xây dựng kinh thành Huế. Năm Canh ngọ 1810, ông làm Hiệp Tổng trấn Bắc thành, cùng với Phó trấn là Nguyễn Huỳnh Đức, Tham hiệp Tổng trấn Phạm Như Đăng cai trị miền Bắc. Đến Mậu dần 1818, ông lên làm Tổng trấn Bắc thành. Năm Bính tuất 1826, mùa thu, ông mất, hưởng dương 57 tuổi, được truy tặng Thiếu phó, thụy là Trung Nghi. Nhưng mười năm sau khi ông mất (Bính thân 1836), có Lê Bá Tú dâng sớ truy hặc ông về 16 tội! Minh Mạng phán quyết sai Tổng đốc Bình Phú là Võ Xuân Cẩn san phẳng mộ ông rồi khắc bia dựng lên trên đề to mấy chữ \"Chỗ này là nơi Lê Chất phục pháp\" Mãi đến năm Mậu thân 1868, Tự Đức mới truy phục tước và chức vụ cũ cho Lê Chất. Riêng hài cốt Lê Chất, năm 1910 khi sở Công chánh Hà Nội đào quãng đường từ đền Quan Thánh đến phủ Toàn quyền để đặt trụ điện, mới tìm thấy cân đai, áo mũ hãy còn nguyên vẹn. Chính quyền đương thời cho cải táng ở bên vườn Bách thú Hà Nội. Trước năm 1945, Phan Khôi có bài thơ VIẾNG MỘ LÊ CHẤT. Bình Tây trấn Bắc sử nghìn thu Ải cỏ mờ rêu đất một u Ấy dũng ấy trung là thế thế! Mà ân mà nghĩa ở mô mô? Chim gào hờn xót xuân âm ỉ Hùm thét oai lưa gió vụt vù, Câu chuyện anh hùng ai nhắc nữa Hồ Tây văng vẳng tiếng chuông bu Ngoài một võ quan, Lê Chất còn là một tác giả, lúc làm quan đời Gia Long ông cùng Nguyễn Văn Lý hợp soạn Bắc thành địa dư chí. Bắc Thành địa dư chí được biên soạn vào thời Gia Long (1802-1819) do sáng kiến của ông, đến năm Thiệu Trị thứ 5 (1845) Nguyễn Văn Lý sửa chữa lại và làm bài tựa, có đề rõ: (Năm Ất tị, niên hiệu Thiệu Trị thứ 5 1845 tháng 2 hồi đầu tháng, người Hà Nội, hiệu Vĩnh Xương, Nguyễn Đông Khuê tức là tên hiệu của Nguyễn Văn Lý kính cẩn đề tựa). Sách này nói riêng về các trấn ở Bắc Thành từ Sơn Nam đến Lạng Sơn."
 }

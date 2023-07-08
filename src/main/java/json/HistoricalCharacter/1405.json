@@ -1,19 +1,14 @@
 {
-  "dateOfBirth": "1370\n----------------------------------------------\nCanh Tuất 1370",
-  "dateOfDeath": "1399\n----------------------------------------------\nKỉ Mão 1399",
-  "hometown": "quê làng Hà Lãng, huyện Vĩnh Ninh (nay thuộc huyện Vĩnh Lộc, tỉnh Thanh Hóa)",
-  "occupation": "Danh tướng đời Trần Nghệ tông, dòng dõi Bảo Nghĩa vương Trần Bình Trọng quê làng Hà Lãng, huyện Vĩnh Ninh (nay thuộc huyện Vĩnh Lộc, tỉnh Thanh Hóa). Ông có tài quân sự",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Trần": 15,
-    "nhà Trần": null
-  },
-  "id": 1405,
-  "entityName": "Trần Khát Chân",
-  "aliases": [
-    "Võ Tiết Quan Nội Hầu"
-  ],
-  "overview": "Trần Khát Chân (chữ Hán: 陳渴真; 1370-1399) là một danh tướng nhà Trần trong lịch sử Việt Nam, người có công lớn trong việc đánh thắng quân Chiêm Thành.\n----------------------------------------------\nNăm Kỉ mão 1399, nhân Hồ Quí Ly giết Trần Thuận tông và có ý soán đoạt nhà Trần, ông mật mưu với các vương hầu và dũng sĩ định ám sát Hồ Quí Ly vào dịp hội thề ở Đốn Sơn huyện Vĩnh Lộc. Việc bại lộ, ông và nhóm ông gồm 370 người đều bị giết. Lúc sắp chém, ông phẫn uất gào to ba tiếng vang dội Đốn Sơn, hưởng dương 29 tuổi. Đời sau có thơ văn ca ngợi tiết nghĩa của ông khá nhiều. Nhân dân lập đền thờ ông ở làng Phương Nhai và sườn núi Đốn. Ba tổng Cao Mật, Bỉnh Bút, Nam Cai có tới 29 làng đều thờ phụng ông. Ở Thăng Long, nhân dân vùng Kẻ Mơ cũng có lập đền thờ, tạc tượng và ghi nhớ công đức ông."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 1405,
+  "entityName" : "Trần Na",
+  "aliases" : [ ],
+  "overview" : "Trần-na (zh. 陳那, sa. (mahā-)dignāga, diṅnāga), ~480-540, cũng được gọi theo tên dịch nghĩa là (Đại) Vực Long, là một Luận sư nổi tiếng của Duy thức tông (sa. vijñānavādin, yogācārin). Sư là người cải cách và phát triển ngành Nhân minh học (sa. hetuvidyā), một môn lý luận học độc đáo cho tông này và Ấn Độ nói chung. Phần lớn tác phẩm của Sư nhấn mạnh đến tính lý luận. Chúng chỉ còn trong bản dịch tiếng Hán và Tây Tạng. Tác phẩm quan trọng nhất của Sư là Tập lượng luận (sa. pramāṇasamuccaya). Ngoài ra Sư cũng soạn một bài luận quan trọng về A-tì-đạt-ma-câu-xá luận."
 }

@@ -1,23 +1,17 @@
 {
-  "dateOfBirth": "Ất Mão 1915",
-  "dateOfDeath": "Quí Hợi 1983",
-  "hometown": "tại làng Phước Sơn, huyện Quế Sơn, tỉnh Quảng Nam, con Tiến sĩ Phan Quang, em ruột Giáo sư Phan Khoang, anh họ Đại tá Bộ trưởng Võ Đông Giang (Phan Bá)",
-  "occupation": "Nhà văn ",
-  "workTenure": "Không rõ",
-  "fatherName": {
-    "Phan Quang": 1427
+  "dateOfBirth" : "Canh Tuất 1910",
+  "dateOfDeath" : "Ất Sửu 1985",
+  "hometown" : "nguyên quán Thành phố Hà Nội sinh tháng 8 năm 1910 tại Hà Nội",
+  "occupation" : "Nhà tài chánh kế toán, Giám đốc Nhà Đoan ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
-  },
-  "id": 637,
-  "entityName": "Phan Du",
-  "aliases": [
-    "Lan Chi",
-    "Hữu Phương",
-    "Phong Kiều"
-  ],
-  "overview": "Năm 1942 có truyện ngắn đăng trên các báo ở Hà Nội (Thời vụ, Tiểu thuyết thứ bảy...). Sau năm 1954 truyện ngắn Uất hận lên men in trên tạp chí Bách khoa ở Sài Gòn năm 1957, rồi sau in thành sách. Những năm 60 ông làm việc ở Bộ Văn hóa Sài Gòn, Đài phát thanh Huế, ngoài thì giờ làm công chức ông cộng tác với các báo tại Sài Gòn. Về công tác nghiên cứu, sáng tác ông viết khá đều và rất nghiêm túc trong tác phẩm của mình dù trong sáng tác hoặc biên khảo. Từng được giải thưởng về truyện ngắn Thơ văn Á Châu của Trung tâm văn bút Philippin với tập truyện ngắn: Hai chậu lan Tố Tâm. Sau năm 1975 ông về sống ở Đà Nẵng và đến ngày 11-3-1983 ông mất tại đây thọ 68 tuổi. Các tác phẩm chính: - Cô gái xóm nghèo (truyện, 1959) - Hai chậu lan Tố tâm (truyện, 1965) - Uất hận lên men (truyện, 1964) - Truyện con người (biên khảo, 1968) - Dinh Thầy (truyện, 1969) - Mộng kinh sư (biên khảo, 1971) - Những quả cà chua (1971) - Của báu nhà họ Vương (1970) - Quảng Nam trong lịch sử (1973, biên khảo) - Hang động mới (truyện, 1970) Truyện con người NXB Cảo Thơm, xuất bản năm 1958. Sách là một công trình về nhân chủng học, nghiên cứu về sự hình thành loài người, con người từ thời tiền sử đến hiện đại. Tác giả đã phác họa được lịch trình tiến hóa của loài người từ một quá khứ sinh vật theo quan điểm tiến hóa luận của ngành cổ sinh vật học và khảo cổ tiền sử gần đây. \u0027"
+  "id" : 637,
+  "entityName" : "Trịnh Văn Bính",
+  "aliases" : [ ],
+  "overview" : "Xuất thân trong một gia đình Nho học, buôn bán tơ lụa ở Hà Nội. Ông là cựu học sinh trường Albert Sarraut, sau du học Pháp, tốt nghiệp Trường Cao học Thương mại Paris (Hautes études Commerciales de Paris) về nước làm việc tại Nha Quan thuế Đông Dương ở Bắc Kì, rồi Phó Giám đốc cơ quan này một thời gian rồi làm giám đốc Nha Quan thuế. Sau Tổng khởi nghĩa tháng tám năm 1945, ông vẫn tiếp tục làm việc chuyên môn thuộc ngành này. Ngày 17-4-1946 tham gia phái đoàn Hội nghị Đà Lạt làm Trưởng ban Kinh tế và Tài chính của chính phủ VNDCCH. Tháng 11 năm 1946, chính phủ \"Liên hiệp Quốc gia\" thay đổi thành phần nhân sự ông được giữ chức Thứ trưởng Bộ Tài chánh (Bộ trưởng là ông Lê Văn Hiến). Tháng 5 năm 1946, ông là thành viên của phái đoàn Việt Nam tham dự hội nghị Fontainebleau tại Pháp (Trưởng ban Kinh tế Tài chính và Liên bang Trung Ấn) hội nghi tan rã vì thái độ cương ngạnh của Pháp. Sau khi về nước ông vẫn tiếp tục giữ chức vụ trên suốt chín năm kháng chiến chống Pháp. Năm 1960 ông về hưu sống tại Hà Nội, đến năm 1985 ông qua đời ngày 10-11-1985 tại nhà riêng ở Hà Nội, thọ 75 tuổi. Ông từng được Nhà nước Việt Nam tặng Huân chương độc lập."
 }

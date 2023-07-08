@@ -1,17 +1,18 @@
 {
-  "dateOfBirth": "Đinh Mùi 1727",
-  "dateOfDeath": "Canh Thân 1800",
-  "hometown": "quê làng Thanh Quít, huyện Diên Phước, phủ Điện Bàn, tỉnh Quảng Nam (nay là thị trấn Thanh Quít, huyện Điện Bàn, tỉnh Quảng Nam)",
-  "occupation": "Danh thần nhà Tây Sơn",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34,
-    "Nhà Tây Sơn": 21
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Vua",
+  "workTenure" : "1573–1599",
+  "fatherName" : {
+    "Lê Anh Tông" : 2949
   },
-  "id": 1494,
-  "entityName": "Trương Công Hi",
-  "aliases": [],
-  "overview": "Ông xuất thân hương cống thời chúa Thế tông Nguyễn Phước Khoát (1738-1756), làm quan đời Thái Đức Nguyễn Nhạc với chức tri phủ Điện Bàn. Trong triều Quang Trung (1788-1792), ông từng làm Binh bộ, Hình bộ, thượng thư tước Thùy Ân hầu, khâm sai đại thần tỉnh Quảng Nam cho đến khi qua đời. Hiện nay tại địa phương còn bia mộ ông."
+  "motherName" : { },
+  "eraName" : {
+    "Nam triều – Nhà Hậu Lê – giai đoạn Lê Trung hưng" : 28
+  },
+  "id" : 1494,
+  "entityName" : "Lê Thế Tông",
+  "aliases" : [ ],
+  "overview" : "Lê Thế Tông (chữ Hán: 黎世宗 1567 - 12 tháng 10 năm 1599), tên húy là Lê Duy Đàm (黎維潭), là vị hoàng đế thứ tư của Hoàng triều Lê - giai đoạn Trung hưng và thứ 15 của triều Hậu Lê nước Đại Việt, ở ngôi từ năm 1573 đến năm 1599. Ông là hoàng đế nhà Lê đầu tiên trở lại nhập chủ Thăng Long sau 66 năm nhà Lê Sơ bị họ Mạc cướp ngôi (1527-1593) và hoàn thành công cuộc trung hưng vương triều."
 }

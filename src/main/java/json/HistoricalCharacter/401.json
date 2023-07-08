@@ -1,20 +1,17 @@
 {
-  "dateOfBirth": "1763\n----------------------------------------------\nQuí Mùi 1763",
-  "dateOfDeath": "1818\n----------------------------------------------\nMậu Dần 1818",
-  "hometown": "quê làng Tiên Điền, huyện Nghi Xuân, tỉnh Hà Tĩnh",
-  "occupation": "Danh sĩ cuối đời Hậu Lê",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34,
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Ất Sửu 1925",
+  "dateOfDeath" : "Tân Mùi 1991",
+  "hometown" : "Nguyên quán làng Kim Bồng huyện Điện Bàn, tỉnh Quảng Nam (nay thuộc thị xã Hội An, tỉnh Quảng Nam), thuở nhỏ học ở Qui Nhơn",
+  "occupation" : "Nhà văn ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 401,
-  "entityName": "Nguyễn Thiện",
-  "aliases": [
-    "Khả Dục",
-    "Thích Hiên"
-  ],
-  "overview": "Nguyễn Thiện (1763-1818), tự: Khả Dục, hiệu: \u0027Thích Hiên\u0027, là một nhà thơ Việt Nam thời Lê trung hưng và thời Nguyễn.\n----------------------------------------------\nNăm Nhâm dần 1782, ông đỗ Hương Cống, sống ẩn dật không ra làm quan. Ông là người nhuận sắc truyện Hoa Tiên của Nguyễn Huy Tự. Ngoài ra ông còn có các tác phẩm: Đông phủ thi tập, Huyền cơ đạo thuật bí thư. Năm Mậu dần 1818 ông mất hưởng dương 55 tuổi."
+  "id" : 401,
+  "entityName" : "Nguyễn Thành Long",
+  "aliases" : [ "Lưu Quỳnh", "Phan Minh Thảo" ],
+  "overview" : "Sau cách mạng tháng 8-45, ông tham gia hoạt động văn nghệ trong những năm kháng chiến chống Pháp ở Liên khu 5. Năm 1954, tập kết ra Bắc, ông chuyển về sáng tác và biên tập báo chí, nhà xuất bản, có thời gian còn tham gia dạy ở Trường Viết văn Nguyễn Du. Ông mất ngày 6-5-1991 tại Hà Nội, thọ 66 tuổi. Các tác phẩm của ông đã xuất bản: - Bát cơm Cụ Hồ (1955) - Chuyện nhà chuyện xưởng (1962) - Những tiếng vỗ cánh (1967) - Giữa trong xanh (1972) - Nửa đêm về sáng (1978) - Lý Sơn mùa tỏi (1980) - Sáng mai nào, xế chiều nào (1984) - Lặng lẻ Sapa - Hạnh Nhơn - Núi Đỗ Quyên... Ông từng được Giải thưởng Phạm Văn Đồng trong kháng chiến chống Pháp ở liên khu 5 với tập truyện kí Bát cơm Cụ Hồ (1953)."
 }

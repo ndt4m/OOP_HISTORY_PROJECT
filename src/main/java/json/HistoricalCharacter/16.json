@@ -1,25 +1,16 @@
 {
-  "dateOfBirth": "1753 Bình Định, Đàng Trong, Đại Việt",
-  "dateOfDeath": "16 tháng 9, 1792 (38–39 tuổi) Phú Xuân, Đại Việt",
-  "hometown": "Không rõ",
-  "occupation": "Hoàng đế Đại Việt",
-  "workTenure": "22 tháng 12 năm 1788 – 16 tháng 9 năm 1792 (4 năm, 268 ngày)",
-  "fatherName": {
-    "Nguyễn Phi Phúc": null
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Đồng Lạc, hạt Kim Thành, Hưng Yên, nay là thôn Bình Dân xã Tân Dân, huyện Khoái Châu, tỉnh Hưng Yên",
+  "occupation" : "Danh thần đời Lê Tương Dục đế",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Triều Lê Sơ" : 7
   },
-  "motherName": {},
-  "eraName": {
-    "Nhà Tây Sơn": 21
-  },
-  "id": 16,
-  "entityName": "Phạm Thị Liên",
-  "aliases": [
-    "Long Nhương Tướng quân Bắc Bình Vương Hoàng đế",
-    "Hồ Thơm Nguyễn Huệ",
-    "Bắc Bình Vương",
-    "Quang Trung (光中: 1788 - 1792)",
-    "Tây Sơn Thái Tổ (西山太祖)",
-    "Võ Hoàng đế (武皇帝)"
-  ],
-  "overview": "Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đưa ra nhiều cải cách kinh tế, xã hội nổi bật trong lịch sử Việt Nam."
+  "id" : 16,
+  "entityName" : "Bùi Công Phụ",
+  "aliases" : [ ],
+  "overview" : "Năm Hồng Thuận 6 (Giáp tuất 1514), ông đỗ tam giáp đồng tiến sĩ được Lê Tương Dục trọng dụng, làm đến thượng thư, có tài văn thơ, được các sĩ phu trọng vọng. Ông hết lòng lo giúp chính sự, có công đức với nhân dân."
 }

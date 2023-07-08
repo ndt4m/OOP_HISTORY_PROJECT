@@ -1,18 +1,17 @@
 {
-  "dateOfBirth": "Tân Dậu 1861",
-  "dateOfDeath": "Kỉ Dậu 1909",
-  "hometown": "tại Cù lao Giêng, tỉnh An Giang (nay thuộc huyện Phú Châu, tỉnh An Giang)",
-  "occupation": "Tay sai thực dân Pháp, con Trần Bá Lộc (là tay chân thân Pháp, sát hại rất nhiều lương dân, nghĩa sĩ Việt Nam)",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "Quí Sửu 1913",
+  "dateOfDeath" : "Nhâm Thân 1992",
+  "hometown" : "nguyên quán TP",
+  "occupation" : "Giáo sư",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 980,
-  "entityName": "Trần Bá Thọ",
-  "aliases": [
-    "Joseph"
-  ],
-  "overview": "Thuở nhỏ được quan thầy cho sang Pháp học vì cha Thọ từng giết hại nhiều sinh linh người Việt nên được Pháp thưởng \"mề đay điều\" (Commandeur de lá Légion d\u0027Honneur). Học xong, về nước làm quan nhiều nơi ở miền Nam đến chức Đốc phủ sứ. Khi làm tay sai cho Pháp, ông ta bị sạt nghiệp vì khai khẩn đất hoang; thiếu nợ ngân hàng nên gia tài bị phát mãi. Nhục nhã bị quan thầy bỏ rơi, chủ nợ kiện tịch thu tài sản... Phẫn chí, Thọ dùng súng lục tự tử năm 1909. Trước khi chết C.K có gởi cho ông ta bài thơ có nhan đề: Gởi cho Trần Bá... trước 15 ngày đùng Vững cầm đức cậy cựu tri ôi! Chúa thử lòng mình một ít thôi, Ép chí, nghe lời qua khổ ải, Đừng xui chước quỉ khốn vô hồi. Các em của Thọ: Trần Bá Tường làm huyện ở Cai Lậy; Đốc phủ ở Cần Thơ chết năm 1882; Nicolas Trần Bá Hữu làm huyện ở Long Thành (thuộc Biên Hòa) bị nghĩa quân giết tại nhiệm sở."
+  "id" : 980,
+  "entityName" : "Ngụy Như Kontum",
+  "aliases" : [ ],
+  "overview" : "Xuất thân trong một gia đình công chức, lúc nhỏ học tại Huế, sau du học Pháp, từng đỗ các văn bằng Cử nhân Vật lý, Thạc sĩ Vật lý. Những năm 40 về nước dạy tại các trường trung học ở Sài Gòn, Hà Nội. Thành viên của tạp chí Khoa học, Thanh Nghị chuyên về các đề tài vật lí hiện đại, hội viên Hội Tân Việt Nam (một tổ chức chính trị, tiền thân đảng Dân chủ Việt Nam). Năm 1945 tham gia kháng chiến chống Pháp, dạy tại trường Dự bị Đại học ở Việt Bắc. Sau năm 1955 ông làm giáo sư tại Trường Đại học Tổng hợp Hà Nội rồi giữ chức vụ Hiệu trưởng Trường Đại học này cho đến ngày về hưu. Ông là tác giả nhiều công trình nghiên cứu vật lí hiện đại và cũng là một giáo sư tài ba, đào tạo được nhiều chuyên gia khoa học tự nhiên hiện đại Việt Nam. Ông mất năm 1992 tại Hà Nội, thọ 79 tuổi. Ông là tác giả một số giáo trình vật lí cao cấp dùng làm tài liệu giảng dạy tại các Đại học trong toàn quốc từ 1954-1985."
 }

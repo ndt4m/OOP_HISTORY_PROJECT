@@ -1,17 +1,16 @@
 {
-  "dateOfBirth": "Bính Thân 1836",
-  "dateOfDeath": "Mậu Tuất 1898",
-  "hometown": "quê làng Thâm Triều, huyện Đăng Xương (nay thuộc huyện Triệu Phong) tỉnh Quảng Trị",
-  "occupation": "Nhà giáo dục, thiền gia",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Tân Tị 1881",
+  "dateOfDeath" : "Ất Dậu 1945",
+  "hometown" : "quê làng Bảo An, huyện Điện Bàn, tỉnh Quảng Nam (nay là xã Điện Quang, huyện Điện Bàn cùng tỉnh)",
+  "occupation" : "Nhà văn",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 1602,
-  "entityName": "Trần Viết Thọ",
-  "aliases": [],
-  "overview": "Tuổi trẻ ông học tại quê nhà, trường Đốc Quảng Trị, năm 1867 thi đậu cử nhân tại Trường Thừa Thiên, đến năm 1871 đậu phó bảng khoa Tân mùi niên hiệu Tự Đức thứ 24. Ông làm quan đến chức Đốc học Quảng Trị, sau đó từ quan lúc chưa đến tuổi trí sĩ đi tu thiền một thời gian. Đến năm 1898, một hôm ông chất một đống củi bốn phía cao, rồi lên đó châm lửa tự thiêu mình để về nước Phật. Cảm vì cuộc đời và cái chết thản nhiên tự tại ấy, Tổng tài Quốc sử quán cuối triều Nguyễn là Nguyễn Thuật có câu đối điếu ông: \"Tu đáo thử khởi vô nhân, mạc vấn sanh thiên tiền thành Phật hậu; Tử như hà bất khả biện, chỉ tranh khảng khái dị thung dung nan.\" Nghĩa: Tu tới mức này há không nguyên nhân, đừng hỏi sinh lên trời rồi sau mới thành Phật; Chết như thế nào không thể nói, chỉ điều khảng khái dễ, ung dung như vầy quá khó khăn."
+  "id" : 1602,
+  "entityName" : "Nguyễn Bá Trác",
+  "aliases" : [ "Tiêu Đẩu" ],
+  "overview" : "Năm Bính ngọ 1906, ông đỗ Cử nhân. Hưởng ứng phong trào Duy tân, Đông du, ông sang Nhật Bản du học. Sau khi chính phủ Nhật cấu kết với Pháp giải tán học sinh Việt Nam và trục xuất các nhà yêu nước của ta, ông sang Trung Quốc. Trong thời gian này Nguyễn Bá Trác ngầm phản bội trở nên tay chân Pháp. Khi về Hà Nội, Nguyễn làm ở phòng báo chí phủ Toàn quyền Đông Dương, chủ bút tờ Cộng Thị báo bằng chữ Hán nhằm cám dỗ trí thức Hán học thời ấy (1914-1916). Đến năm 1917 làm chủ bút phần chữ Hán cho tờ tạp chí Nam Phong do Phạm Quỳnh làm chủ bút. Sau đó vào Huế làm Tá lí bộ Học, ít lâu thăng Tuần phủ Quảng Ngãi, Tổng đốc Thanh Hóa, Bình Định. Cách mạng tháng Tam thành công, ông bị các lực lượng cách mạng xử bắn tại Quảng Ngãi năm 1945. Nguyễn Bá Trác là tác giả một số bài báo trên Nam Phong và đã xuất bản các sách: - Hoàng Việt Giáp tí niên biểu (1925) - Hán học văn học khảo cùng một số thơ, văn in trong tạp chí Nam Phong (1917-1932) - Hãn mạn du kí (1920) kèm bản dịch Hồ Trường - Cổ học viện thư tịch thủ sách (1921) - Bàn về Hán học (chữ Hán) Nam Phong, (1920) - Bàn về học thuật nước Tàu, Nam Phong (1918) - Mâý lời chung cáo với các bạn nhà Nho, Nam Phong, (1921) - Hương giang mộng, Nam Phong, (1920) - Ngã An Nam dân tộc Nam tiến chi lịch sử, Nam Phong, (1921) - Nguyễn Bá Học tiên sinh chi lược sử cập kì di ngôn, (1921) - Lĩnh Nam dật sử nghi án, Nam Phong, (1921) - Du thanh hòa kí, Nam Phong, (1921)…"
 }

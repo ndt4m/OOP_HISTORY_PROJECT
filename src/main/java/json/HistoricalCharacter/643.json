@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê làng Trung Hàng, huyện An Dương, tỉnh Kiến An (nay thuộc TP",
-  "occupation": "Danh thần, không rõ tên, năm sinh, năm mất",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "Mậu Dần 1878",
+  "dateOfDeath" : "Bính Thìn 1916",
+  "hometown" : "quê làng Bảo An, huyện Điện Bàn, tỉnh Quảng Nam",
+  "occupation" : "Nhà yêu nước ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 643,
-  "entityName": "Bùi Sinh",
-  "aliases": [],
-  "overview": "Ông vốn là học trò Trạng Trình Nguyễn Bình Khiêm, có tài nhưng thất vận. Trạng Trình thường bảo ông: \"Anh ngày sau tất nhiên phát đạt \". Nhưng đến ngoài 50 tuổi mà vẫn chưa làm nên sự nghiệp gì. Thường than với bạn: \"Thầy ta vốn minh đạt tiên tri, nhưng cũng có việc nói không trúng, nghiệm như việc ta thì đủ biết\". Cụ Trạng Trình có nghe mách lại, cười thầm mà chẳng nói gì. Một hôm, Trạng Trình gọi ông đến bảo: \"Vận đạt của anh đã tới, anh cứ mượn lấy chiếc thuyền chực sẵn ngoài cửa biển Vạn Ninh. Đến ngày giờ ấy, gặp vật gì trôi thì cứ vớt đem về. Đó là tiến trình phát đạt của anh\". Ông nghe lời, nhưng lòng vẫn không tin. Đúng hẹn, ông thấy có vật trôi sông, ông đem thuyền đến vớt, thì ra đó là một bà lão, xem cách phục sức thì là nhà quyền quí ông nghi hoặc, cứu sống và đem về nuôi xem rồi sẽ ra sao? Được mấy hôm, có sứ Trung Quốc sang, xin tìm giúp vị Thái phu nhân đắm thuyền chẳng rõ có trôi dạt vào hải phận ta chăng. Nhà vua truyền yết bảng hỏi dân gian. Ông lập tức đưa bà lão vào triều. Sứ Trung Quốc cả mừng hậu tạ ông. Nhà vua cũng phong chức cho ông. Được thời ông thi thố tài năng, càng được trọng dụng. Sau, làm đến Thượng thư, tước Thao Quận Công."
+  "id" : 643,
+  "entityName" : "Phan Thành Tài",
+  "aliases" : [ "Đạt Đức" ],
+  "overview" : "Tuy xuất thân trong một gia đình nho học truyền thống, nhưng ông theo Tây học khá sớm. Từ năm 1900-1904 ông là nhân vật tham gia tích cực vào phong trào Duy tân tự cường tại Quảng Nam. Ông từng làm giáo sư Pháp văn tại các nghĩa thục Diên Phong, Quảng Cái. Năm 1908 phong trào Duy tân bị khủng bố trắng, các chiến sĩ bị lưu đày Lao Bảo, Côn Đảo, ông bị bắt giam tại nhà lao Quảng Nam (Hội An). Ra tù sống ẩn dật ở quê nhà một thời gian, năm 1916 ông là một trong các nhân vật quyết định cuộc khởi nghĩa Duy Tân do Trần Cao Vân và Thái Phiên lãnh đạo. Cuộc khởi nghĩa nếu thành công, Việt Nam sẽ có một cơ chế gọi là Việt Nam quân chính phủ hay Tân Việt Nam, và ông sẽ giữ chức kinh lược Quảng Nam Quảng Ngãi. Theo kế hoạch cuộc khởi nghĩa sẽ xảy ra ngày 3-5-1916, nhưng bị bại lộ các chiến hữu bị thảm sát, ông trốn thoát ẩn ở miền Hiên, Giằng thuộc miền Tây Quảng Nam một thời gian ngắn. Sau đó bị thực dân bắt về xử trảm tại Vĩnh Điện ngày 9-6-1916, hưởng dương 38 tuổi. Cảm vì sự hi sinh oanh liệt của ông Huỳnh Thúc Kháng có bài thơ khóc ông và Thái Phiên: \"Khảng bả tây văn khứ tác nô, Bất thành cam tự đoạn đầu lô. Quốc trung Tây học nhân như tức, Thanh dạ môn tâm quí tử vô.\" Bản dịch: Âu học không đem rút của người, Chả thành đời sống vứt như chơi. Kìa phường học mới đông như kiến, Đêm hỏi lòng chăng có hổ ngươi!"
 }

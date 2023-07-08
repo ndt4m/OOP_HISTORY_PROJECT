@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Chu": null
+  "dateOfBirth" : "Kỉ Tị 1449",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê xã Thuần Khang, huyện Siêu Loại, tỉnh Bắc Ninh",
+  "occupation" : "Danh thần đời Lê Thánh tông, không rõ năm mất",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Triều Lê Sơ" : 7
   },
-  "id": 2858,
-  "entityName": "Ngô Quốc",
-  "aliases": [
-    "Câu Ngô",
-    "Công Ngô"
-  ],
-  "overview": "Ngô quốc (Phồn thể: 吳國; giản thể: 吴国), còn gọi là Câu Ngô (句吴) hay Công Ngô (工吴; 攻吾), là các tên gọi của một nước chư hầu của nhà Chu từ khi triều đại này ra đời cho tới khi kết thúc giai đoạn Xuân Thu trong lịch sử Trung Quốc."
+  "id" : 2858,
+  "entityName" : "Đào Cử",
+  "aliases" : [ "Thuấn Cử" ],
+  "overview" : "Năm Bính tuất 1466. Ông đỗ Đệ tam giáp tiến sĩ, được bổ Tri huyện. Năm sau, Đinh hợi 1467, nhân có khoa Hoành từ ông lại dự thi, trúng tuyến, bổ vào Bí giám làm Độc thư, rồi thăng chức Thi chế Viện Hàn lâm, sau được vinh thăng Tri chế cáo. Năm Bính thân 1476, do chức Thi thư Viện Hàn lâm, ông được thăng Hiệu thư đông các. Năm Nhâm dần 1482, ông hộ giá Lê Thánh tông thân chinh Chiêm Thành và Lão Qua. Rồi thăng Đông các đại học sĩ. Sau làm đến Thượng thư bộ Hộ coi Tú lâm cuộc ở Sùng văn quán. Ông có chân trong Tao đàn nhị thập bát tú từng cùng Thân Nhân Trung soạn bộ Thiên nam dư hạ tập và tập Thân chinh kỉ sự. Cũng có phê bình tập thơ Cố tâm bách vịnh. Trong Quỳnh Uyển cửu ca có bài tựa của ông. Ông mất trong đời Lê Hiến tông. Bộ Toàn Việt thi lục của Lê Quí Đôn còn sao lại 10 bài thơ của ông. Ông cũng có soạn bài văn bia các tiến sĩ triều Lê, dựng ngày 15-8, Hồng Đức 15 (1484)."
 }

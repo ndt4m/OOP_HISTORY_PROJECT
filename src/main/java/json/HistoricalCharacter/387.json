@@ -1,14 +1,14 @@
 {
-  "dateOfBirth": "852",
-  "dateOfDeath": "936",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 387,
-  "entityName": "Đinh La Quý",
-  "aliases": [],
-  "overview": "Đinh La Quý (852-936) là vị thiền sư Việt Nam thuộc thế hệ 10 của thiền phái Tì-ni-đa-lưu-chi. Hoạt động của ông có liên quan tới lịch sử Việt Nam thời kỳ phục quốc sau ngàn năm Bắc thuộc."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 387,
+  "entityName" : "Lý Đường",
+  "aliases" : [ ],
+  "overview" : "Lý Đường có thể là:"
 }

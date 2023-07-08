@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Bính Dần 1686",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Quê xã Tả Thanh Oai, huyện Thanh Oai, tỉnh Hà Đông (nay là Hà Tây)",
-  "occupation": "Văn thần đời Lê Dụ tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "Kỉ Tị 1929",
+  "dateOfDeath" : "Mậu Thân 1968",
+  "hometown" : "quê tại Sài Gòn",
+  "occupation" : "Anh hùng lực lượng vũ trang Việt Nam, chiến sĩ đặc công nội thành Sài Gòn",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nước Việt Nam mới" : 29
   },
-  "id": 1282,
-  "entityName": "Ngô Đình Chất",
-  "aliases": [
-    "Đình Oánh"
-  ],
-  "overview": "Năm Tân sửu 1721 ông đỗ tam giáp đồng tiến sĩ, 35 tuổi. Làm Hiến sứ ở Thanh Hóa. Không bao lâu được vời về triều làm Thiên sai đô ngự sử. Dày công lao, ông được liệt vào hàng Tuyên lực công thần, phong chức Thượng thư bộ Binh; tước Phương Đình Hầu. Năm Canh ngọ 1750, tuổi đã 64, ông xin về hưu đôi ba phen chúa Trịnh mới chấp thuận. Các quan tiễn đưa trọng thể, văn thơ chúc tụng thắm thiết. Khi triều đình có việc, vua Lê chúa Trịnh vẫn triệu ông đến, xem như cố vấn. Khi ông mất, được truy tặng Thái bảo, tước Nhuệ Quận Công. Anh ông là Đình Thạc cũng là bậc nhân tài."
+  "id" : 1282,
+  "entityName" : "Bùi Văn Ba",
+  "aliases" : [ ],
+  "overview" : "Ông nhập ngũ từ sau cách mạng tháng 8-1945, chiến đấu trong 2 cuộc kháng chiến chống Pháp, Mĩ. Từng tham gia nhiều trận đánh lớn ở miền Đông Nam Bộ, sân bay Tân Sơn Nhất, kho đạn Phú Thọ (Tân Bình)... Ông được nhà nước truy tặng danh hiệu anh hùng lực lượng võ trang."
 }

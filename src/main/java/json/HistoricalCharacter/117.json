@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "? thôn Bảo Tháp, xã Đông Cứu, huyện Gia Bình,tỉnh Bắc Ninh\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath": "? Phú Thọ\n----------------------------------------------\nKhông rõ",
-  "hometown": "huyện 3 động thuộc châu Quảng Nguyên, cho Đại Việt (nay là Việt Nam)\n----------------------------------------------\nquê ở Đông Cừu, huyện An Định, lộ Bắc Giang (trước là tỉnh Bắc Ninh, nay là tỉnh Hà Bắc)",
-  "occupation": "Thái sư nhà Lý\n----------------------------------------------\nVăn thần đời Lý Nhân tông",
-  "workTenure": "1085-1095\n----------------------------------------------\nKhông rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Lý": 14,
-    "nhà Tống": null
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Giáp Ngọ 1354",
+  "hometown" : "quê làng Phúc Thành, huyện An Khánh (sau đổi là Gia Khánh) tỉnh Ninh Bình",
+  "occupation" : "Danh sĩ, tác giả đời Trần Anh tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Trần" : 15
   },
-  "id": 117,
-  "entityName": "Lê Văn Thịnh",
-  "aliases": [
-    "Lê Thái sư Đại vương"
-  ],
-  "overview": "Lê Văn Thịnh (chữ Hán: 黎文盛, 11-2-1050 - ? ), là người đỗ đầu trong khoa thi đầu tiên của Nho học Việt Nam, được bổ làm quan, dần trải đến chức Thái sư triều Lý. Năm 1084, ông thành công trong việc bàn nghị về việc cương giới với quan nhà Tống, khiến nước này phải trả lại 6 huyện 3 động thuộc châu Quảng Nguyên, cho Đại Việt (nay là Việt Nam). Tuy nhiên đến năm 1096 thì ông bị đày rồi mất, sau khi xảy ra \"Vụ án hồ Dâm Đàm\" (1095).\n----------------------------------------------\nNăm Ất mão 1075, ông đỗ Trạng nguyên khoa thi đầu tiên trong nước, liền được vua trọng dụng, phong làm Thị lang bộ Binh. Năm Giáp tí 1084, ông được cử làm Chánh sứ cùng với Nguyễn Bồi tới trại Vĩnh Bình (thuộc Châu Ung, nay thuộc tỉnh Quảng Tây) thương nghị việc biên giới, đòi nhà Tống trả lại các miếu Vật Dương, Vật Ác thuộc châu Quảng Nguyên (nay là phần đất Tây Bắc tỉnh Cao Bằng) mà Nùng Trí Cao đã đem nộp hàng nhà Tống. Cuộc tranh luận giữa ông với viên Chánh sứ nhà Tống là Thành Trạc đạt thắng lợi. Trở về nước, ông được cất lên chức Thái sư. Suốt 12 năm ở cương vị Thái sư đến năm Bính tí 1096, ông bị nghi kị có ý phản vua (sách chép chuyện hoang đường: ông hóa hổ để ám hại Lý Nhân tông khi nhà vua ra hồ Dâm Đàm - Hồ Tây), bị cách chức và đày lên miền thượng lưu sông Thao (sông Hương, Thanh Hóa). Về sau không rõ sống chết ra sao. Trong vụ hạ bệ và đày đi Lê Văn Thịnh, nhà vua ban thưởng cho Mục Thận rất hậu, kể là có công với vua. Dựa vào truyền thuyết hoang đường, vua Tự Đức vịnh: \"Văn học đô vi tiến thủ tư, Man nô tư súc nhật căng kì. Thân qua nhất kích hôn phần tán Yên hổ nguyên lai thệ Thái sư\". Bản dịch: Văn học toàn dùng để tiến thân, Học thâm tôi tớ thuật kì gian. Giáo thần ném tới tà ma hết, Hổ quỉ nguyên hình chính đại thần. Ông là tác giả một số thơ, văn sử nhưng hầu hết đã thất truyền."
+  "id" : 117,
+  "entityName" : "Trương Hán Siêu",
+  "aliases" : [ "Đôn Tẩu", "Thăng Phủ" ],
+  "overview" : "Trương Hán Siêu (chữ Hán: 張漢超；?-1354), tên tự là Thăng Phủ hoặc Thăng Am, hiệu Đôn Tẩu, là một vị quan, một danh nhân văn hóa đời Trần, kiệt tác văn chương nổi tiếng nhất trong sự nghiệp sáng tác của ông là bài Bạch Đằng giang phú - một áng thiên cổ hùng văn rất được lưu truyền...\n----------------------------------------------\nÔng vốn là môn khách của Hưng Đạo vương, năm 1308 ông được Anh tông bổ làm Hàn lâm học sĩ. Đời Minh tông giữ chức Hành khiển. Sang đời Hiến tông làm Môn hạ hữu ti Lang trung, đến đời Dụ tông đổi sang Tả Tư lang kiêm chức Kinh lược sứ ở Lạng Giang, rồi thăng Gián nghị Đại phu Tham chính sự. Năm Qúi tị 1353, ông lãnh Thần sách quân trấn nhậm ở Hóa Châu. Không bao lâu ông cáo bệnh xin về nghỉ, nhưng về chưa đến kinh sư thì ông mất trong năm 1354. Sau khi mất được truy tặng là Thái bảo. Ông có bài Bạch Đằng giang phú được truyền tụng và soạn: - LinhTế tháp kí (bài kí Tháp Linh Tế) - Quảng Nghiêm tự bi văn (bài văn bia chùa Quảng Nghiêm). Ngoài ra, ông và Nguyễn Trung Ngạn hợp soạn bộ Hoàng triều đại điển, Hình luật thư. Bài thơ đề núi Dục Thúy của ông được khắc bên sườn núi, hãy còn bút tích: \"Sơn sắc chính y y, Du nhân hồ bất qui? Trung lưu quang tháp ảnh, Thượng giới khải nham phi, Trần thế như kim thị, Phù sinh ngộ tạc phi. Ngũ hổ thiên địa khoát, Hảo phỏng cựu ngư ki.\" Bản dịch: Núi một màu xanh ngắt, Du tử về chăng đây? Giữa dòng soi bóng tháp, Trên cốl mở rèm mây. Trần thế như nay phải, Phù sinh nhận trước sau, Năm hồ trời đất rộng, Tìm bạn cũ câu chơi. Ông có danh tiếng về văn chương chính trị. Các vua Trần Hiến tông, Trần Dụ tông đều gọi ông bằng thầy. Bộ Hình luật thư (1 quyển) Vào đời Trần Dụ tông, vua sai ông và Nguyễn Trung Ngạn soạn thảo bộ hình luật này. Về việc làm sách này Đại Việt sử kí toàn thư ghi lại như sau: \"Vào niên hiệu Thiệu Phong thứ nhất mùa thu tháng tám (9-1341) nhà vua giao cho Trương Hán Siêu, Nguyễn Trung Ngạn biên định sách Hoàng triều đại điển và soạn Hình thư để ban hành trong nước\"."
 }

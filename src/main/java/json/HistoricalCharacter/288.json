@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "1838",
-  "dateOfDeath": "1888",
-  "hometown": "Không rõ",
-  "occupation": "Bố chính sứ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 288,
-  "entityName": "Vũ Giác",
-  "aliases": [
-    "Tùng Trai"
-  ],
-  "overview": "Vũ Giác (1838-1888) là quan chức nhà Nguyễn, có nhiều công lao trong phong trào chống Pháp trong lịch sử Việt Nam ."
+  "dateOfBirth" : "?\n----------------------------------------------\n…",
+  "dateOfDeath" : "1593 Cao Bình, Đại Việt\n----------------------------------------------\nMậu Dần 1638",
+  "hometown" : "xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách, tỉnh Hải Dương, Việt Nam).\n----------------------------------------------\nKhông rõ",
+  "occupation" : "Hoàng đế Đại Việt (nhà Mạc thời hậu kì)\n----------------------------------------------\nVua áp cuối đời nhà Mạc, cháu gọi Kính Điển bằng ông, Kính Cung bằng chú.",
+  "workTenure" : "1623 – 1638\n----------------------------------------------\nKhông rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Mạc" : 18,
+    "Nam - Bắc Triều" : 19
+  },
+  "id" : 288,
+  "entityName" : "Mạc Kính Khoan",
+  "aliases" : [ "Mạc Kính Khoan", "Khánh Vương", "Niên hiệu Long Thái (1623 – 1638)" ],
+  "overview" : "Mạc Kính Khoan (chữ Hán: 莫敬寬, ? - 1638) là vua nhà Mạc thứ 3 thời hậu kỳ, khi đã rút lên Cao Bằng. Nguyên quán Mạc Kính Khoan là người xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách, tỉnh Hải Dương, Việt Nam).\n----------------------------------------------\nÔng được phong là Khánh vương, khi Mậu Hợp và Kính Chỉ bỏ trốn, ông riêng chiếm một vùng Đại Từ, Vũ Nhai làm căn bản. Trong khi ấy các thân vương nhà Mạc như Trang vương Kính Chương, Uy vương Kính Dụng. Đôn hậu công Kính Cung đều biệt lập xưng vua, cố sức dựng lại nhà Mạc đã xiêu đổ. Kính Khoan ẩn náu chốn rừng núi, vẫn nuôi chí phục hận, thỉnh thoảng cũng đem quân đánh phá các nơi đóng quân trọng yếu của nhà Lê. Đến năm Quí hợi 1623 ông chính thức lên ngôi ở Cao Bằng, đặt hiệu năm là Long Thái, lập cung điện bằng tranh lá ở xã Vu Toàn. Vua Lê chúa Trịnh nhiều phen cử binh tướng đi đánh dẹp dư đảng nhà Mạc, ông không chống nổi thường phải lẩn tránh, rồi vẫn dọc ngang một cõi Cao Bằng. Năm Ất sửu 1625 Mạc Kính Cung bị bắt giết, ông lẩn trốn vào vùng sắc dân Dao trong động núi. Ít lâu ông lại dụng mưu trá hàng, sai người tới kinh đô dâng biểu xin qui thuận. Triều đình Lê Trịnh chấp nhận, phong ông chức Thái úy, tước Thông Quận Công. Từ ấy, suốt 10 năm ông an phận không khuấy động gì nữa. Năm Mậu dần 1638 ông mất, con ông là Kính Vũ lại nổi dậy phản kháng nhà Lê."
 }

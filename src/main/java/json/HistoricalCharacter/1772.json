@@ -1,22 +1,16 @@
 {
-  "dateOfBirth": "499?\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath": "555 động Dã Năng\n----------------------------------------------\nKhông rõ",
-  "hometown": "Không rõ",
-  "occupation": "Vua nước Dã Năng\n----------------------------------------------\nVua",
-  "workTenure": "548 – 555\n----------------------------------------------\n549—555",
-  "fatherName": {
-    "Lý Toản": null
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Canh Dần 1050",
+  "hometown" : "quê ở Chu Minh, lộ Bắc Giang (nay thuộc tỉnh Bắc Giang)",
+  "occupation" : "Thiền sư đời Lý Thánh tông, không rõ tên thật",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Lý" : 14
   },
-  "motherName": {},
-  "eraName": {
-    "Nhà Tiền Lý": 36,
-    "Nhà Tiền Lý và Triệu Việt Vương": 36
-  },
-  "id": 1772,
-  "entityName": "Đào Lang Vương",
-  "aliases": [
-    "Lý Thiên Bảo",
-    "Đào Lang Vương"
-  ],
-  "overview": "Lý Thiên Bảo (chữ Hán:李天寶; 499?-555) vua nước Dã Năng (tồn tại phía tây với nhà Tiền Lý) trong lịch sử Việt Nam. Ông tham gia cuộc chiến chống quân Lương giữ nước Vạn Xuân và cát cứ ở Dã Năng thời Triệu Việt Vương."
+  "id" : 1772,
+  "entityName" : "Lữ Định Hương",
+  "aliases" : [ "Định Hương" ],
+  "overview" : "Thuở trẻ, ông học với sư Đa Bảo ở chùa Kiến Sơ (Bắc Ninh) suốt 24 năm. Trong hàng đệ tử của Đa Bảo, ông và Quốc sư Bảo Hòa đạo hạnh cao hơn cả. Ông được trọng vọng vào hàng trưởng lão được truyền tâm ấn, ông thuộc thế hệ thứ sáu dòng thiền Quan Bích. Về sau, viên Đô tướng thành hoàng sứ là Nguyễn Tuân ở kinh đô, rước ông đến trụ trì ở chùa Cảm ứng, núi Ba Sơn, thuộc châu Cổ Pháp, tỉnh Bắc Ninh. Ngày 3-3 Canh dần (28-3-1050) ông mất. Còn lưu truyền một bài kệ: \"Bản lai vô xứ sở, Xứ sở thị chân tông Chân tông như thị huyễn, Huyễn hữu tức không không.\" Nghĩa: Vốn xưa không xứ sở, Xứ sở ấy chân tông. Chân tông huyễn như thế Huyễn hữu cũng không không."
 }

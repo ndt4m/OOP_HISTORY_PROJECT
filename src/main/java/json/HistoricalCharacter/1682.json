@@ -1,17 +1,14 @@
 {
-  "dateOfBirth": "Đinh Mùi 1907",
-  "dateOfDeath": "Không rõ",
-  "hometown": "tại Gò Công (nay là Thị xã Gò Công, tỉnh Tiền Giang)",
-  "occupation": "Nhà văn, Bác sĩ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
-  },
-  "id": 1682,
-  "entityName": "Dương Tấn Tươi",
-  "aliases": [],
-  "overview": "Thuở trẻ học ở Mĩ Tho, Sài Gòn, tốt nghiệp y khoa bác sĩ, từng giữ chức Ty trưởng ty vệ sinh Sài Gòn, Giám đốc Ty y tế Cái Sắn thuộc tỉnh Kiên Giang. Sau đổi về Sài Gòn trông coi về Y luật tại tòa Thượng thẩm Sài Gòn. Trong đời cầm bút, ông từng được tặng thưởng về giải văn chương biên khảo triết học. Các tác phẩm chính: - Đông lai bác nghị (biên khảo triết học Trung Hoa, 1950) - Cười (Nguyên nhân và thực chất), 1968. - Đề cũ luận mới (Về sự chết đứng của Từ Hải)."
+  "dateOfBirth" : "4 tháng 2, 1925 Hương Sơn, Hà Tĩnh",
+  "dateOfDeath" : "25 tháng 1, 2017 (91 tuổi) Hà Nội",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 1682,
+  "entityName" : "Đinh Xuân Lâm",
+  "aliases" : [ ],
+  "overview" : "Đinh Xuân Lâm (4 tháng 2 năm 1925 - 25 tháng 1 năm 2017) là một trong những người góp công đầu xây dựng Bộ môn Lịch sử cận – hiện đại Việt Nam, phó chủ tịch Hội Khoa học Lịch sử Việt Nam khóa IV, Chủ tịch Hội đồng khoa học Trung tâm UNESCO Thông tin tư liệu lịch sử và văn hóa Việt Nam ."
 }

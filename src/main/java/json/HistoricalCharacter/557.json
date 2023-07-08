@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "1476\n----------------------------------------------\n…",
-  "dateOfDeath": "1517\n----------------------------------------------\nĐinh Sửu 1517",
-  "hometown": "Không rõ",
-  "occupation": "Công trình sư đời Lê Tương Dực, ông có tài về khoa kiến trúc giỏi nhất vào thời ấy. Chính ông là họa sư và thân làm đốc công trông coi việc xây dựng cung điện cho nhà vua.",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Triều Lê Sơ": 7
+  "dateOfBirth" : "Ất Sửu 1925",
+  "dateOfDeath" : "Quí Dậu 1993",
+  "hometown" : "tại xã Quỳnh Đôi, huyện Quỳnh Lưu, tỉnh Nghệ An",
+  "occupation" : "Nhà thơ ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nước Việt Nam mới" : 29
   },
-  "id": 557,
-  "entityName": "Võ Như Tô",
-  "aliases": [
-    "Vũ Như Tô"
-  ],
-  "overview": "Vũ Như Tô (chữ Hán: 武如蘇, 1476-1517) là một người thợ xây dựng tài ba thời Lê. Ông được cho là tác giả phác thảo kiến trúc của Cửu Trùng Đài và cung điện trăm nóc, một công trình kiến trúc cực kỳ tráng lệ trong Hoàng Thành Thăng Long, được mô tả là \"tuy chưa hoàn thành mà bóng rợp nửa hồ Tây\" .\n----------------------------------------------\nCông trình thiết kế xây dựng nổi tiếng của ông là cung điện trăm nóc, đài chín tầng. Lúc đầu, khi vua Lê vời ông đến giao việc kiến trúc cửu trùng đài, ông từ chối, vì ngại hoang phí tài sức và công sức dân chúng. Vua Lê bắt ông hạ ngục. Trong tù, ông nghĩ lại việc xa hoa là tự vua, còn ông chỉ là người thừa hành mà thôi không tội gì với nhân dân. Nghĩ thế, ông chấp nhận làm theo ý vua nên được thả ra để thi công. Việc kiến trúc hoàn thành, ông được trọng thưởng và cũng lấy làm mãn nguyện về tài nghệ của mình. Sau đó xảy ra binh biến, Lê Tương Dực bị giết chết trong năm Bính tí 1516, ông bị An Hòa Hầu Nguyễn Hoằng Dũ kết tội là hùa theo vua xa xỉ đem ông xử chém ở ngoại thành Thăng Long trong năm 1517. Đúng là kẻ thức giả thường phải đi giữa hai lằn đạn!"
+  "id" : 557,
+  "entityName" : "Hoàng Trung Thông",
+  "aliases" : [ ],
+  "overview" : "Thuở nhỏ học ở Nghệ An, tham gia cách mạng từ trước năm 1945, sau ngày tổng khởi nghĩa ông phục vụ ngành văn nghệ. Từng giữ các chức vụ: Cán sự ban văn nghệ khu ủy, Ủy viên tiểu ban văn nghệ khu IV, Thư kí tòa soạn báo Văn nghệ, Giám đốc nhà xuất bản Văn học, Viện trưởng Viện Văn học Việt Nam. Ông mất tại Hà Nội ngày 4-1-1993, thọ 68 tuổi. Các tác phẩm: - Quê hương chiến đấu (thơ, 1955) - Đầu sóng (thơ, 1968) - Đường chúng ta đi (1960) - Trong gió lửa (thơ, 1971) - Chặng đường mới của văn học chúng ta (1961) - Ô kê cuốn gói (thơ, 1973) - Như đi trong mơ (1977) - Cuộc sống thơ, thơ cuộc sống (tiểu luận, 1979) - Hương mùa thơ (thơ, 1984) - Tiếng thơ không dứt (thơ, 1989) - Mời trăng (thơ, 1992) - Những ngày thu ở Liên Xô (kí, 1983) - Vương Quí và Lý Hương Hương (dịch)."
 }

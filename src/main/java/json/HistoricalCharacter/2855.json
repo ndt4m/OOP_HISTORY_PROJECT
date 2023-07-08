@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Nhâm Ngọ 1822",
-  "dateOfDeath": "Nhâm Thìn 1892",
-  "hometown": "quê huyện Lễ Dương, tỉnh Quảng Nam (nay thuộc huyện Thăng Bình, tỉnh Quảng Nam)",
-  "occupation": "Danh thần triều Nguyễn",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Canh Tí 1420",
+  "dateOfDeath" : "Tân Dậu 1501",
+  "hometown" : "quê xã Hồng Liễu, huyện Trường Tân, (sau đổi là xã Thanh Liễu, huyện Gia Lộc) tỉnh Hải Dương",
+  "occupation" : "Danh sĩ đời Lê Thái tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Triều Lê Sơ" : 7
   },
-  "id": 2855,
-  "entityName": "Nguyễn Tạo",
-  "aliases": [
-    "Thăng Chi"
-  ],
-  "overview": "Kế đó ông được bổ Tri phủ Hoài Đức, rồi thăng Thị độc, lãnh Án sát tỉnh Hải Dương. Trong tỉnh có giặc Tàu Ô vào cướp phá, ông cùng Tôn Thất Thuyết đánh dẹp yên cả, nhân dân được sống trong cảnh yên ổn. Năm 1874, ông ngầm tham gia và ủng hộ phong trào Vân thân của Đặng Như Mai ở vùng Quảng Bình và Hà Tĩnh. Sau đó ông đổi ra Nam Định, rồi về Sơn phòng sứ ở Quảng Nam. Đời Hàm Nghi ông được thăng Trước tác sung Cơ mật viện ở Nội các. Năm 1885 kinh thành Huế thất thủ, vua Hàm Nghi ra Cam Lộ kháng chiến. Bị thực dân Pháp nghi là có hợp tác với nghĩa quân, ông bị đổi đi xa (em trai ông là cử nhân Nguyễn Duật tức Nguyễn Uýnh bị Nguyễn Thân giết vì tham gia Nghĩa hội 1885). Sau đó thăng ông sung chức Thừa biện sử quán, ông nhận việc một thời gian ngắn, xin về quê rồi bị bệnh mất năm 1892 thọ 70 tuổi. Sau khi mất được triều đình truy tặng thực thụ Hàn lâm viện Thị độc. Ông là người nổi tiếng thanh liêm, mẫn cán làm quan trải nhiều đời vua, được nhân dân sĩ phu tiến bộ trọng vọng. Vua Tự Đức phê rằng: \"Lương lai nan đắc\" (Khó được người hiền như thế). Tuy nhiên hoạn lộ của ông cũng lắm phen điên đảo, nên người trí thức đều tiếc cho ông sinh nhầm thời đại."
+  "id" : 2855,
+  "entityName" : "Lương Nhữ Hộc",
+  "aliases" : [ "Tường Phủ" ],
+  "overview" : "Năm Nhâm tuất 1442, ông đỗ Thám hoa, 22 tuổi, làm đến Đô ngự sử, từng đi sứ nhà Minh 2 lần vào năm 1443 và 1459. Theo sách Hải Dương phong vật chí, hai lần đi sứ Trung Quốc, ông chú ý đến việc in sách, quan sát kĩ và học được nghề khắc ván in. Về nước, ông là người đầu tiên truyền dạy dân trong vùng Liễu Tràng, Gia Lộc, mở mang nghề in sách. Do đấy ông được thờ làm tiên sư trong ngành. Năm Tân dậu 1501, ông mất thọ 81 tuổi, còn để lại đời bộ: - Hồng Châu quốc ngỡ thi tập - Cổ kim chế từ tập - Tiêu Tương bát cảnh thi - Ông có duyệt lại bộ sách: Cổ kim thi gia tinh tuyển hay Tính tuyển chư gia thi tập do Dương Đức Nhan sưu tập; gồm 5 quyển 472 bài thơ của 13 nhà thơ cuối đời Trần, Hồ và Lê, có chú thích. Cổ Kim chế từ tập do ông biên soạn (theo Phan Huy Chú) ; sách hiện nay đã thất lạc. Ngoài ra ông có một số thơ in trong Toàn Việt thi lục và Hoàng Việt thi tuyển do Bùi Huy Bích tuyển chọn."
 }

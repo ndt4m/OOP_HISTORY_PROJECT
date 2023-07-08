@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "Ất Mão 1915",
-  "dateOfDeath": "Canh Ngọ 1990",
-  "hometown": "quê xã Đức Long, huyện Hòa An, tỉnh Cao Bằng",
-  "occupation": "Tướng lãnh ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Giáp Dần 1434",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Đồng Trình (sau đổi là Tỉnh Thạch), huyện Thiên Lộc (sau là Can Lộc), tỉnh Hà Tĩnh",
+  "occupation" : "Danh thần đời Lê Thánh tông, quê làng Đồng Trình ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Triều Lê Sơ" : 7
   },
-  "id": 633,
-  "entityName": "Nguyên Cao Cơ",
-  "aliases": [
-    "Bằng Giang"
-  ],
-  "overview": "Ông tham gia cách mạng từ năm 1932 từng bị Pháp bắt giam từ nhiều lần. Từ năm 1941 là Thường vụ ủy viên liên tỉnh Cao Bắc Lạng, khu trưởng Quân sự khu I, khu X… Năm 1957-1975 Tư lệnh Quân khu Tây Bắc, Tư lệnh Quân khu Việt Bắc kiêm chủ tịch ủy ban hành chánh khu Tự trị Việt Bắc. Năm 1976-1978 giữ chức phó Tổng thanh tra Quân đội, Đại biều Quốc hội khóa III-VI. Ông được Đảng và Nhà nước Việt Nam tặng nhiều huân chương cao quí, trong đó có Huân chương Hồ Chí Minh. Ông mất năm 1990, thọ 75 tuổi."
+  "id" : 633,
+  "entityName" : "Hà Công Trình",
+  "aliases" : [ "Tỉnh Thạch" ],
+  "overview" : "Năm Bính tuất 1466, ông 32 tuổi đỗ Nhị giáp tiến sĩ, làm đến Thượng thư bộ Binh; Quốc tử tế tửu, Nhập thị kinh diên. Theo sách Thoái thực kí văn, chương I Trung kì: Thuở trẻ ông hàn vi, có lần say rượu nằm ngủ trên hòn đá bên đường, mộng thấy có người tới khuyên bảo: \"Sao không về đi học, bỏ uổng mất cái tài lỗi lạc, ông tỉnh dậy, trở về theo đòi nghiên bút đến nên danh. Khi đã quí hiển, ông mới xin đổi tên làng là Tỉnh Thạch (hòn đá thức tỉnh) như đã nói trên."
 }

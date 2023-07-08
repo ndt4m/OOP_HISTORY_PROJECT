@@ -42,7 +42,7 @@ public class EraDetailScreenController {
     private Text overviewText;
 
     @FXML
-    private TopBarController topBarController;
+    private TopBarController topBarController = new TopBarController();
 
     private Era era;
 

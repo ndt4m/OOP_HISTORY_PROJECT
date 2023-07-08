@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Cư sĩ, danh thần đời Lý Cao tông, có sách chép tên là Liễm.",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Lý": 14
+  "dateOfBirth" : "Đinh Mão 1687",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê xã Khôi Trì, huyện Yên Mô, tỉnh Ninh Bình (nay là xã Yên Mĩ, huyện Tam Điệp, tỉnh Ninh Bình)",
+  "occupation" : "Văn thần đời Lê Dụ tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
   },
-  "id": 444,
-  "entityName": "Đoàn Văn Khâm",
-  "aliases": [],
-  "overview": "Ông làm đến Thượng thư bộ Công, mộ đạo Phật, ông hay giao du với khách thiền lâm, có ý muốn từ quan, thời thường quấn khăn vải, mặc áo nâu. Ngoài ra, ông còn là một nhà thơ nổi tiếng đương thời. Tác phẩm ông phần lớn đã thất lạc chỉ còn lại một ít bài, chẳng hạn bài \"TẶNG SƯ QUẢNG TRÍ\" Trụ tích nguy phong bãi lục trần, Mặc cư huyễn mộng vấn phù vân. Ân cần vô kế tham Trừng, Thập, Sách bạn trâm anh tại lộ quần, Bản dịch: Chống gậy non cao rũ bụi đời, Nằm trong mộng huyễn ngắn mây trôi. Ân cần khôn cách theo Trừng, Thập, Trót vuớng bầy cò lớp mũ đai. Khi Quảng Trí mất, ông cũng có thơ viếng và có thơ truy điệu sư Chân Không (Vương Hải Thiềm). Đoàn Văn Khâm là một cư sĩ Phật giáo nổi tiếng của Phật giáo Việt Nam vào thời cực thịnh Lý Trần."
+  "id" : 444,
+  "entityName" : "Ninh Địch",
+  "aliases" : [ ],
+  "overview" : "Năm Mậu tuất 1718 ông đỗ nhị giáp tiến sĩ, có tiếng văn thơ, làm quan đến Đông các đại học sĩ. Tài đức được sĩ phu trọng vọng. Ông là cháu tằng tôn của tiến sĩ Ninh Đạt Họ Ninh phát đạt từ lúc mở mang vùng xã Khôi Trì, mà Ninh Đạt là người mở đầu trong gia phả danh giá (X. Ninh Đạt). Đến đời ông, họ Ninh càng rạng rỡ hơn, rồi đến người cháu gọi ông bằng chú ruột là Ninh Tốn, thêm nổi bật về văn học."
 }

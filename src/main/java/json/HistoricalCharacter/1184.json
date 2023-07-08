@@ -1,18 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê làng Đường An, tỉnh Hải Dương",
-  "occupation": "Nhân sĩ đời Gia Long",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Mậu Thân 1908",
+  "dateOfDeath" : "Bính Thìn 1976",
+  "hometown" : "quê ở làng Hương Điềm, tỉnh Bến Tre (nay là tỉnh Bến Tre)",
+  "occupation" : "Bác sĩ, nhà văn",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 1184,
-  "entityName": "Phạm Hội",
-  "aliases": [
-    "Dưỡng Am"
-  ],
-  "overview": "Ông đỗ cử nhân, có tiếng thơ văn, có khí tiết được sĩ phu trọng vọng. Ông vốn là học trò danh sĩ Phạm Quý Thích. Làm giáo thụ phủ Ánh Sơn ít lâu, ông xin nghỉ, về quê sống cuộc đời ẩn dật. Ông mồ côi cha sớm, thờ mẹ rất hiếu, nhà thanh bạch, ông ngồi dạy học, gần xa yêu chuộng. Ông có câu đối hán ở bàn viết: \"Thị thành khỉ bất hoài nông nghiệp, Văn tự hà năng hệ sĩ phong\". Em trai ông hiệu Khiêm Trai cũng có tính hiền hiếu. Phạm Quỳnh - chủ bút tạp chí Nam Phong - là huyền tôn của ông Phạm Xuân Khôi có thơ vịnh về lòng hiếu của ông: Này ông Phạm Hội Hải Dương ta, Theo mẹ cùng lên học tỉnh Hà. Hai chị nuôi em nên quá lứa, Môt mình kính mẹ cũng như cha. Nước Hồ Tây sạch thường đi lấy, Tình nẹ già nay chẳng ngại xa Me khuất, hiển vinh về dưỡng chị Khen thay! hiếu hạnh vẹn hòa ba."
+  "id" : 1184,
+  "entityName" : "Lê Văn Ngôn",
+  "aliases" : [ "Bảo Hương" ],
+  "overview" : "Ông nổi tiếng thơ văn, lúc sinh hoạt ở Cần Thơ, ông là hội trưởng Hội Khuyến học Cần Thơ. Trong lãnh vực sinh hoạt của hội, có lúc mở cuộc thi văn chương (giải nhất về quyển Đồng quê của Phi Vân Lâm Thế Nhơn) và đứng ra trùng tu ngôi mộ Thủ khoa Bùi Hữu Nghĩa trong năm 1943. Hội cũng đã xuất bản một tập san Xuân Tây đô trong xuân Quí mùi 1943, có giá trị về sử học, văn học. Trong lãnh vực y học, văn học, ông tích cực đóng góp nhiều tác phẩm nổi tiếng. Ngày 27-11-1976 Dương lịch ông mất, an táng tại Gò Dưa, Tam Bình (Thủ Đức). Còn để lại các tác phẩm: - Nợ vu sơn - Bịnh ho lao Ông là em ruột học giả Lê Thọ Xuân."
 }

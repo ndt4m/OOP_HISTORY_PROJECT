@@ -1,20 +1,16 @@
 {
-  "dateOfBirth": "Tân Dậu 1441",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Quê làng Liễu Lâm, huyện Siêu Loại, xứ Kinh Bắc, tỉnh Bắc Ninh (nay thuộc huyện Thuận Thành, tỉnh Bắc Ninh)",
-  "occupation": "Danh sĩ đời Lê Thánh tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Triều Lê Sơ": 7
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Danh tướng đời hậu Trần, cương quyết chống quân cướp nước đến cùng.",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Hậu Trần" : null
   },
-  "id": 1823,
-  "entityName": "Thái Thuận",
-  "aliases": [
-    "Lữ Đường",
-    "Lục Khê",
-    "Nghĩa Hòa"
-  ],
-  "overview": "Ông xuất thân trong một gia đình quân sự, có lúc ở trong quân ngũ, sau xuất ngũ về đi học lại, năm Ất hợi (1475) thi đỗ tiến sĩ đời Lê Thánh tông. Làm quan ở Viện Hàn lâm nhiều năm, sau làm Tham chánh sứ Hải Dương và thường đi công cán nhiều nơi trong nước. Ông là người đạo đức, nổi tiếng văn chương, có chân trong Tao đàn Nhị thập bát tú có lúc làm Tao đàn phó nguyên súy. Ông là tác giả nhiều thơ ca được người đời tán thưởng, truyền tụng. Sau khi ông mất, thơ ông được con trai là Thái Đôn Khắc và học trò là Đỗ Chính Mô sưu tầm, viết tựa rồi cho khắc in vào năm 1510. Sách có nhan đề: Lữ Đường di thảo (Lã Đường di cảo). Toàn bộ di thảo gồm 264 bài viết về nhiều chủ đề, đa số các văn nhân, học giả đương thời và cận đại đều cho ông là một nhà thơ xuất sắc của làng thơ Việt Nam đương thời. Bộ Lữ Đường di thảo (4 quyển) do ông soạn, con trai là Thái Đôn Khắc biên tập, học trò là Hà Chính Mô viết tựa. Phan Huy Chú nhận định rằng thơ văn của Thái Thuận \"phần nhiều thanh nhã mà hay, có phong cách thơ đời vãn Đường. xứng đáng là một danh gia.\" Hiện nay, TVKHXH (Hà Nội) còn có một bản in tập thơ này, giấy khổ nhỏ gồm 78 tờ, nhan đề Lữ Đường di cảo thi tập kí hiệu: A.2437; TVQG cũng có một bản chép tay, tên sách như trên, 61 tờ kí hiệu R.318. Sách có bản mục lục, kê khoảng 300 bài thơ chữ Hán, vừa ngũ ngôn vừa thất ngôn, có điều là không chia theo số quyển như Lê Quý Đôn đã ghi là 4 quyển. Theo bài tựa của Đỗ Chính Mô thì thầy học của ông đương thời sáng tác nhiều thơ, nhưng không lưu ý đến việc biên chép để lưu truyền cho đời sau. Vì vậy sau khi Thái Thuận mất, con ông là Thái Đôn Khắc cùng với Đỗ Chính Mô lo việc sưu tầm, nhặt nhạnh các bản sao chép hoặc ghi chép lại những bài người khác thuộc lòng... biên soạn được tập di cảo này để cho thơ ông khỏi bị thất truyền. Tập thơ này trước đây đã được thi sĩ Quách Tấn ở Nha Trang trích dịch một số bài đăng trên các báo ở Sài Gòn."
+  "id" : 1823,
+  "entityName" : "Đinh Mỹ",
+  "aliases" : [ ],
+  "overview" : "Ông đã cùng các đồng chí tổ chức những chiến khu, quyết tâm đánh đuổi quân Minh cướp nước. Khi bị Trương Phụ bắt, giặc khuyên dỗ ông hàng, ông quyết không khuất phục, Trương Phụ đem chém, ông vẫn khảng khái. Người sau có thơ đề vịnh: \"Trượng phu anh khí lệ cần vương. Tuy tử tâm trung thệ bất hàng. Trung quán lưỡng gian huyền nhật nguyệt, Thiên thu thanh sử vĩnh lưu phương\". Bản dịch: Trượng phu anh khí dốc cần vương, Tuy chết trong lòng thệ chẳng hàng Trung nghĩa sáng soi vầng nhật nguyệt Nghìn thu thanh sử vẫn lưu phương."
 }

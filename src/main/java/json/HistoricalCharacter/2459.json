@@ -1,17 +1,14 @@
 {
-  "dateOfBirth": "1442",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 2459,
-  "entityName": "Nguyễn Anh Vũ",
-  "aliases": [
-    "Anh Vũ",
-    "Nguyễn Tạc Tổ"
-  ],
-  "overview": "Nguyễn Anh Vũ, tên thật là Nguyễn Tạc Tổ, hiệu Anh Vũ, (1442 - ?) là người con của Nguyễn Trãi và người vợ thứ tư của ông là bà Phạm Thị Mẫn, còn sống sót sau Vụ án Lệ Chi Viên nhưng phải đổi sang họ mẹ là Phạm Anh Vũ. Năm 1464, sau khi Lê Thánh Tông xuống chiếu chiêu tuyết cho Nguyễn Trãi, Nguyễn Anh Vũ (khi đó đã đỗ hương cống), được bổ nhiệm làm tri huyện và ban cho 100 mẫu ruộng ."
+  "dateOfBirth" : "sinh ngày 31 tháng 3 năm 1942",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 2459,
+  "entityName" : "Nguyễn Văn Hảo",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Văn Hảo (sinh ngày 31 tháng 3 năm 1942) nhà kinh tế Việt nam, từng là Thống đốc Ngân hàng và Phó Thủ tướng của Việt Nam Cộng hòa trước ngày 30 tháng 4 năm 1975. Ông tốt nghiệp kinh tế tại một đại học Thụy Sĩ."
 }

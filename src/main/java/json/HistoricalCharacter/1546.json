@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "sinh năm 1950",
-  "dateOfDeath": "Không rõ",
-  "hometown": "xã An Thịnh, huyện Lương Tài, tỉnh Bắc Ninh) là Trung tướng, Tư lệnh Quân khu Thủ đô.",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 1546,
-  "entityName": "Nguyễn Như Hoạt",
-  "aliases": [],
-  "overview": "Nguyễn Như Hoạt (sinh năm 1950 tại thôn An trụ, xã An Thịnh, huyện Lương Tài, tỉnh Bắc Ninh) là Trung tướng, Tư lệnh Quân khu Thủ đô. Ông được phong tặng danh hiệu Anh hùng lực lượng vũ trang nhân dân ngày 25 tháng 8 năm 1970. Ông là đảng viên Đảng Cộng sản Việt Nam."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Hà Nội",
+  "occupation" : "Có sách chép là Đặng Mậu Lân, em bà Chúa Chè ĐặngThi Huệ, tục gọi Cậu Trời vì thành tích \"du đãng\", lộng hành không kiêng nể gì của ông ta.",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
+  "id" : 1546,
+  "entityName" : "Đặng Đình Lân",
+  "aliases" : [ ],
+  "overview" : "Đương thời nhân dân xem Đặng Đình Lân là một con quỉ râu xanh, một hung thần. Trong Hoàng Lê Nhât thống chí, Ngô Thì Chí có viết về Đặng Đình Lân: \"...Thường thường Lân đem vài chục thủ hạ võ trang, đi nghênh ngang khắp kinh đô. Hễ gặp võng lọng, bất kì quan quan lớn nhỏ, chức tước gì, Lân cũng kiếm chuyện đánh một trận để làm nhục chơi. Được thế Lân lấy làm khoái trá Đàn bà, con gái qua đường, người nào Lân vừa bụng, tức thì sai quân bắt vào hãm hiếp. Ai không chịu, Lân cắt hai đầu vú. Cha hay chồng các phụ nữ vô phúc nếu kêu ca lấy nửa lời, lập tức bị hung thần sai lấy kềm bẻ răng, có người bị đánh đến chết... \". Về sau Đặng Đình Lân chết thảm khốc do nạn kiêu binh vào thời ấy."
 }

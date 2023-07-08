@@ -1,16 +1,20 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Lý": null
+  "dateOfBirth" : "569",
+  "dateOfDeath" : "11 tháng 4, 618",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Đại Tùy",
+  "workTenure" : "21 tháng 8 năm 604 – 11 tháng 4 năm 618 (13 năm, 233 ngày)",
+  "fatherName" : {
+    "Tùy Văn Đế" : null
   },
-  "id": 1919,
-  "entityName": "Lý Công Bình",
-  "aliases": [],
-  "overview": "Lý Công Bình (chữ Hán: 李公平, ? - ?) là một tướng lĩnh, đại thần nhà Lý trong lịch sử Việt Nam. Ông có công đánh bại hai cuộc tấn công của quân đội Chân Lạp (Đế quốc Khmer hay vương triều Angkor) vào năm 1128 và 1137, thời vua Lý Thần Tông."
+  "motherName" : {
+    "Văn Hiến Hoàng hậu Độc Cô thị" : null
+  },
+  "eraName" : {
+    "Nhà Tùy" : null
+  },
+  "id" : 1919,
+  "entityName" : "Dương Quảng",
+  "aliases" : [ "Tấn Vương Hoàng đế nhà Tùy", "Dương Quảng (杨廣) hay Dương Anh (杨英)", "Dương Anh", "Dạng Đế (煬帝)", "Đại Nghiệp (大業: 605–617)", "Thế Tổ (世祖)", "A Ma" ],
+  "overview" : "Tùy Dạng Đế (chữ Hán: 隋炀帝, 569 - 11 tháng 4, 618), tên thật là Dương Quảng (楊廣 hay 杨廣) hay Dương Anh (楊英 hay 杨英), tiểu tự là A Ma (阿?) là vị Hoàng đế thứ hai của triều đại nhà Tùy trong lịch sử Trung Quốc."
 }

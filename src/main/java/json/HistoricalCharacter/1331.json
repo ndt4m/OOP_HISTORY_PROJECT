@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Đại thần đời Lý Cao tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Lý": 14
+  "dateOfBirth" : "Canh Ngọ 1690",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Cấn xá, huyện Gia Bình tỉnh Bắc Ninh",
+  "occupation" : "Danh nhân đời Lê Trung hưng",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
   },
-  "id": 1331,
-  "entityName": "Đỗ Anh Kiệt",
-  "aliases": [],
-  "overview": "Tính ông khảng khái, chính trực, thường bênh vực người ngay thẳng lâm nạn, thẳng tay trừng trị những quan lại tham ô nhiễu hại dân lành, nên Lý Cao tông rất tin dùng ông. Gặp khi Đàm Dĩ Mông và Quách Bốc gây biến loạn, ông bảo thẳng vào mặt Dĩ Mông: \"Mày làm đại thần lại nhận ngụy chức của lũ nghịch nay lại còn ở đây mà đứng cùng hàng với chúng ta nữa hay sao?\" Khiến Đàm Dĩ Mông vừa thẹn, vừa sợ lui mất. Chính ông đã giúp cho nhà Lý đứng vững được phần nào trong lúc vận nước đã suy vi."
+  "id" : 1331,
+  "entityName" : "Bạch Phấn Ưng",
+  "aliases" : [ ],
+  "overview" : "Ông sinh trong đời Lê Hi tông, nổi tiếng thông minh hiếu học, nhưng gia cảnh nghèo khó ông chật vật trên đường công danh mà giữ chí tiến thủ. Năm Bảo Thái 5 đời Lê Dụ tông (Giáp thìn 1724), ông 34 tuổi ra thi, đỗ tam giáp đồng tiến sĩ xuất thân, làm đến Thừa chính sứ tỉnh Sơn Tây (nay là Hà Sơn Bình). Được nhân dân đương thời trọng vọng tài đức"
 }

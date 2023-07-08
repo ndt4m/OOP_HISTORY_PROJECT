@@ -1,16 +1,20 @@
 {
-  "dateOfBirth": "Canh Thân 1860",
-  "dateOfDeath": "Nhâm Ngọ 1942",
-  "hometown": "xã An Dương, huyện Duy Xuyên, tỉnh Quảng Nam (nay thuộc thị trấn Nam Phước, huyện Duy Xuyên, tỉnh Quảng Nam)",
-  "occupation": "Danh sĩ, nhà giáo dục đời Thành Thái",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "26 tháng 7, 1507 Đông Kinh",
+  "dateOfDeath" : "15 tháng 6, 1527 (19 tuổi) Tây cung, Đông Kinh, Đại Việt",
+  "hometown" : "Không rõ",
+  "occupation" : "Hoàng đế Đại Việt",
+  "workTenure" : "22 tháng 7 năm 1522 – 15 tháng 6 năm 1527 (4 năm, 328 ngày)",
+  "fatherName" : {
+    "Lê Minh Tông" : null
   },
-  "id": 2121,
-  "entityName": "Hồ Trung Lượng",
-  "aliases": [],
-  "overview": "Năm Tân mão 1891, ông đỗ cử nhân. Nhâm thìn 1892 đỗ tiến sĩ, 32 tuổi. Được bổ Tri phủ Tư Nghĩa, rồi thăng Đốc học Bình Định. Trong một khoa khảo hạch ở tỉnh Bình Định, do ông làm chủ khảo, xảy ra việc Phan Châu Trinh, Huỳnh Thúc Kháng, Trần Quí Cáp phổ biến bài thơ Chí thành thông thánh và bài phú Danh sơn Lương ngọc làm vang động cả nước về chính trị văn hóa, cảnh tỉnh sĩ phu trong học giới rất mạnh. Tuy ông biết rõ tác giả bài thơ, bài phú ấy đích thực của ba nhà chí sĩ trên, nhưng ông không hề tiết lộ với bọn quan lại tay sai hồi ấy. Đương thời các chiến sĩ yêu nước như Phan Châu Trinh, Huỳnh Thúc Kháng, Trần Quí Cáp... rất kính trọng và hâm mộ ông về tài đức."
+  "motherName" : {
+    "Trịnh Thị Loan" : null
+  },
+  "eraName" : {
+    "Nhà Lê sơ" : null
+  },
+  "id" : 2121,
+  "entityName" : "Lê Xuân",
+  "aliases" : [ "Lê Xuân (黎椿)", "Cung Hoàng đế (恭皇帝)", "Thống Nguyên (統元)" ],
+  "overview" : "Lê Cung Hoàng (chữ Hán: 黎恭皇; 26 tháng 7, 1507 – 15 tháng 6, 1527), là vị hoàng đế thứ 11 của nhà Hậu Lê, ở ngôi từ năm 1522 đến 1527, tổng cộng 5 năm. Ông là vị hoàng đế cuối cùng của nhà Lê sơ."
 }

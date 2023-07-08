@@ -1,16 +1,14 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Văn thần đời Gia Long",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
-  },
-  "id": 1566,
-  "entityName": "Nguyễn Thế Trung",
-  "aliases": [],
-  "overview": "Ông có tiếng văn thơ. Giao du thân thiết với Ân Quang Hầu Trần Công Hiến, Phác Ngọc Bá Trần Huy Phác. Khi ông làm đốc học Hải Dương gặp lúc Trần Công Hiến mở Hải Học đường để viết và xuất bản sách, ông cùng Trần Huy Phác cộng tác với Trần Công Hiến trong việc biên soạn bộ Danh thi hợp tuyển gồm 12 quyển (Trần Công Hiến phác thảo biên tập, ông và Trần Huy Phác khảo đính). Về lúc cuối đời ông được phong tước Trung Chính Bá."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 1566,
+  "entityName" : "Dương Bộc",
+  "aliases" : [ ],
+  "overview" : "Dương Bộc (chữ Hán phồn thể: 楊僕; chữ Hán giản thể: 杨仆, ? - ?) là tướng lĩnh thời Tây Hán, người huyện Nghi Dương."
 }

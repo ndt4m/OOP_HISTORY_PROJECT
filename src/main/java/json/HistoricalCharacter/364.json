@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "Quí Sửu 1913",
-  "dateOfDeath": "Giáp Thân 1944",
-  "hometown": "quê làng Cam Đà, huyện Tùng Thiện, nay thuộc tỉnh Hà Tây",
-  "occupation": "Nhà nghiên cứu văn học",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Thủ lĩnh dân tộc miền núi",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Trần" : 15
   },
-  "id": 364,
-  "entityName": "Lê Thanh",
-  "aliases": [
-    "Khiết Phủ",
-    "Nguyễn Văn Thanh"
-  ],
-  "overview": "Sau khi tốt nghiệp trung học, ông vào làm thư kí Sở Tài Chánh ở Hà Nội. Từ năm 1935, ông bước vào làng văn, viết những bài phê bình trên tờ Tin văn. Ông cũng có viết một số tiểu thuyết như Li dị và Nấm mồ thanh niên. Năm 1939, ông viết và xuất bản tập phê bình Thi sĩ Tản Đà. Từ năm 1937 đến 1938, ông làm việc ở tòa soạn báo Phụ nữ và đến 1941 ông là trợ bút thường xuyên của tạp chí Tri Tân. Trên tờ tạp chí này ông lần lưọt viết những bài nghiên cứu về các nhà văn Tú Mỡ, Trương Vĩnh Kí v.v... những bài phỏng vấn các nhà văn, góp tài liệu viết một cuốn Văn học Việt nam hiện đại. Ngoài ra, ông còn viết những bài như Tin Lào có tính chất thời sự. Ông mất ngày 24 tháng 4 năm 1944 tại Hà Nội, hưởng dương 31 tuổi. Các tác phẩm chính: - Nấm mồ thanh niên (tiểu thuyết) - Ly dị (tiểu thuyết) - Phê bình về Tản Đà (1939) - Trương Vĩnh Kí (1943) - Cuốn sổ văn học (1942) Và một số bài đăng trên các báo Phụ nữ, Tri tân... Cuốn Trương Vĩnh Kí, Hà Nội, 1943 là một tập nghiên cứu về nhà văn hóa lớn Việt Nam sinh trưởng tại đất Nam Kì, nguời đương thời được giới trí thức thế giới sắp vào hàng 18 nhà bác học trên thế giới. Với cuốn này, Lê Thanh giới thiệu khá đầy đủ tác phẩm (gần 100 cuốn) của Trương Vĩnh Kí. Ông tham khảo khá kĩ các tác giả khác và cũng bỏ cả một khoảng thời gian vào Chợ Lớn (nhà thờ Trương Vĩnh Kí) để khảo chứng các tác phẩm hiện còn lúc đó. Có thể nói đây là cuốn sách viết bằng tiếng Việt về Trương Vĩnh Kí đầy đủ và không thiếu tính khoa học chính xác (cùng với các cuốn viết bằng fiếng Pháp) ra đời trước thế chiến II ở miền Bắc."
+  "id" : 364,
+  "entityName" : "Hà Đặc",
+  "aliases" : [ ],
+  "overview" : "Năm Kỉ mão 1279, giặc Nguyên sang xâm lược, vượt sông Thiên Mạc, tiến binh đến huyện Phù Ninh. Ông đem dân binh lên núi Trĩ cố thủ, quân Nguyên đóng đồn ở động Cự Đà ông làm kế nghi binh để cầm chân giặc rồi bện tre làm bù nhìn cho mặc áo quần giống như người thật, hằng đêm dàn đám bù nhìn ấy ra. Giặc Minh nghi không dám giao chiến. Chẳng bao lâu quân tiếp viện kéo đến, ông hiệp sức đánh phá, giặc tan vỡ. Ông đuổi theo đến vùng A Lạc, rồi bắc cầu nổi sang sông, đánh đuổi cho kì quân địch tan vỡ mới thôi. Em ông là Hà Chương cũng nổi danh anh hùng liệt sĩ kháng Nguyên."
 }

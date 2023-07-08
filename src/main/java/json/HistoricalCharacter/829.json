@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 829,
-  "entityName": "Hồ Bắc",
-  "aliases": [],
-  "overview": "Hồ Bắc (tiếng Trung: 湖北; bính âm: Húběi [nghe] (trợ giúp·thông tin), tiếng Vũ Hán: Hŭbě) là một tỉnh ở miền trung của Cộng hòa Nhân dân Trung Hoa. Giản xưng chính thức của tỉnh Hồ Bắc là \"Ngạc\" (鄂), lấy theo tên một nước chư hầu thời xưa, sau trở thành đất thuộc nước Sở và Nhà Tần, nay nằm ở phía đông của tỉnh. Tên Hồ Bắc ám chỉ về vị trí của tỉnh này nằm ở phía bắc của hồ Động Đình. Giản xưng không chính thức của Hồ Bắc là Sở (楚), gọi theo nước Sở hùng mạnh ở đây vào thời Xuân Thu Chiến Quốc."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Giáp Ngọ 1174",
+  "hometown" : "Thanh Hóa",
+  "occupation" : "Thiền sư đời Lí",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Lý" : 14
+  },
+  "id" : 829,
+  "entityName" : "Đạo Dung",
+  "aliases" : [ ],
+  "overview" : "Đạo Dung là pháp hiệu, không rõ tên, hiệu là Tăng Phán, tên là Huyền Nghi. Năm Đinh mão 1087 sư Đạo Dung được vua Lý Nhân tông triệu tới kinh, lập đạo trong hoàng cung. Năm Nhâm dần (1122) sư trở về thăm quê cũ, dựng chùa để ở đến lúc tuổi già. Sư Đạo Dung là một cao tăng đời Lý và có những liên hệ tình cảm thắm thiết với Lưu Khánh Đàm và Lý Thường Kiệt, Bia chùa Hương Nghiêm có ghi rõ hành trạng công nghiệp của sư và danh tướng kiệt xuất Lý Thường Kiệt. Ông mất ngày 5-2 năm Giáp ngọ 1174. Sau khi sư mất, học trò là cao tăng Tăng Đạo Lâm làm lễ hỏa táng, xây tháp ở núi Lân Ni thuộc tỉnh Thanh Hóa"
 }

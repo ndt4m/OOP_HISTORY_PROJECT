@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Mậu Ngọ 1678",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê làng Bật Viễn, huyện Nghi Xuân, tỉnh Hà tĩnh",
-  "occupation": "Dật sĩ đời Lê Dụ tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê xã An Xá, huyện Lệ Thủy, tỉnh Quảng Bình",
+  "occupation" : "Võ tướng đời Mạc",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nam - Bắc Triều" : 19
   },
-  "id": 2058,
-  "entityName": "Đặng Thái Phương",
-  "aliases": [],
-  "overview": "Ông đỗ khoa Hoành từ năm 22 tuổi, sơ bổ Tri phủ Giáp Sơn, rồi đổi sang phủ Đông Trạch. Chán công danh, ông xin về hưu. Trong 18 năm không giao du với ai cả, chuyên tâm đọc sách, đặc biệt nghiên cứu Kinh Dịch. Năm Quí hợi 1743, tuổi ông đã gần 70 mà triều đình vẫn còn yêu dùng, bổ ông làm Tham nghị tại Sơn Nam. Ông còn để lại tác phẩm Châu dịch quốc âm giải nghĩa 2 quyển. Có bài tựa của Hạo Hiệp Nguyễn Kiều và tựa của Di Trai Võ Khâm Lân."
+  "id" : 2058,
+  "entityName" : "Đổng Hiền",
+  "aliases" : [ ],
+  "overview" : "Ông tài gồm văn võ. Xuất thân được dân xã tín nhiệm, đề cử làm đầu trong xã. Gặp hồi biến loạn, dân trong hạt theo chân giặc cướp phá khuấy xóm làng, ông theo Viên đàm bá Hoàng Bôi đi đánh dẹp. Suốt hai năm ròng xông pha nơi rừng núi, có nhiều công lao, được thăng Phó tham tướng, tước Tĩnh Sơn Bá. Sau, trong trận đánh dẹp giặc cướp dấy lên ở hạt nhà, ông bị dư đảng giặc là Lê Phi Thừa giết."
 }

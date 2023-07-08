@@ -1,19 +1,17 @@
 {
-  "dateOfBirth": "Đinh Sửu 17",
-  "dateOfDeath": "43\n----------------------------------------------\nQuí Mão 43",
-  "hometown": "Vĩnh Phúc",
-  "occupation": "Công chúa",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trưng Nữ Vương": 10
+  "dateOfBirth" : "Mậu Thân 1908",
+  "dateOfDeath" : "Kỉ Dậu 1969",
+  "hometown" : "quê làng Ngọc Giáp, huyện Quảng Xương, tỉnh Thanh Hóa",
+  "occupation" : "Nhà văn hiện đại",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 111,
-  "entityName": "Vũ Thị Thục",
-  "aliases": [
-    "Bát Nàn",
-    "Bát Não"
-  ],
-  "overview": "Bát Nàn, có nơi gọi là Bát Nạn hay Bát Não (?-43) là một nữ tướng thời Hai Bà Trưng trong lịch sử Việt Nam. Bà được xem là một trong những tướng lĩnh có đóng góp lớn cho cuộc khởi nghĩa.\n----------------------------------------------\nTheo truyền thuyết và theo thần tích làng Tiên La, huyện Duyên Hà, tỉnh Thái Bình, cùng thần tích thờ miếu ở xa Phượng Lâu, huyện Phù Ninh - nay thuộc Vĩnh Phú (thần tích do danh thần thái hậu Lê là Hàn Lâm đại học sĩ Nguyễn Bính phụng soạn): Bát Nạn công chúa là vị anh thư thời Trưng Vương. Bà vốn là con của Võ Công Chất và Hoàng Thị Mầu. Thân phụ bà là hào trưởng ở Phượng Lâu. Khi bà chào đời, cha mẹ đặt tên là Thục, về sau bà nổi tiếng tài sắc, tục gọi Thục nương. Bà có chồng là Phạm Danh Hương (có sách chép là vi Lạc hầu Trương Quân) quê ở Đức Bác (tức Liệp Trang, huyện Lập Thạch). Vợ chồng bà đều có lòng yêu nước, ngầm lo việc cứu nước, giúp dân. Bấy giờ có tên hào mục là Trần căm tức vì không cưới được Thục nương, bèn ton hót với Thái Thú Tô Định rằng vợ chồng Thục nương có ý \"làm phản\", nên bắt giết đi. Năm Kì hợi 39, khi Đặng Thi Sách bị giết ở Châu Diên, thì chồng bà cũng bị giết ở Duyên Hà. Quân Tô Định vây dinh trại, chồng bà bị hại, nửa đêm bà cầm song đao, mở đường máu chạy đến làng Tiên La, vào chùa ẩn thân. Từ ấy, nặng nợ nước thù nhà, bà quyết chí báo phục, đêm ngày chiêu tập hào kiệt dựng cờ khởi nghĩa. Năm Canh tí 40, tháng 3, Hai Bà Trưng lãnh đạo nhân dân toàn quận phát động cuộc khởi nghĩa. Bà theo giúp, cùng với nữ tướng Lê Chân thống lãnh quân tiên phong. Cứu quốc thành công nước nhà độc lập Trưng Tương phong bà làm Bát Nạn đại tướng quân Trinh thục công chúa. Bà từ chối tước lộc, chỉ xin đem đầu giặc tế chồng một tuần. Tế xong, bà cởi bỏ nhung trang, trở lại chùa làng Tiên La. Nhưng chẳng bao lâu nghe an Mã Viện kéo binh sang, bà dấn thân cứu nước lần nữa. Chị em Trưng vương tuẫn quốc trong ngày 6 tháng 2, bà cũng tử tiết trong ngày 16 tháng 3 năm Quí mão 43. Các triều đại sau đều có truy phong bà làm thần: - Đời Lê Thánh tông, sắc phong: Ý đức đoan trang Trinhh thục công chúa. - Đời Minh Mạng nhà Nguyễn sắc phong: Dục bảo trung hưng linh phù chi thần. - Đời Khải Định sắc phong: Dực bảo trung hưng linh phù thượng đẳng thần. Vì khi cầm binh đuổi giặc, từ cửa sông Đáy về ngã ba sông Nông, bà thường cai quản những 18 cửa ngàn, nên tục gọi bà là bà Thượng ngàn. Và ngôi chùa mà bà ở tu, sách chép là chùa Nam Liên ở trên núi, nên tục cũng gọi bà là sư nữ Nam Liên. Nơi chùa Nam Liên có đôi liễn thờ bà: \"Vị quốc Nguyên khu, quắc thước thoa quần bình Bắc khấu; Xuất gia đầu Phật, anh hoa khí tiết bạn Nam Liên\" Bản dịch: Vì nước quên mình, quắc thước thoa quần bình giặc Bắc; Tìm về cõi tịch, anh hoa khí tiết rạng chùa Nam."
+  "id" : 111,
+  "entityName" : "Đái Đức Tuấn",
+  "aliases" : [ "Tchya" ],
+  "overview" : "Ông xuất thân làm Tham tá ở Nha học chính Đông Dương từ năm 1930, đến năm 1940 thì xin nghỉ việc. Sau đó, ông cư ngụ ở Côn Minh (Trung Quốc). Từ năm 1945 đến 1949 trở về nước, làm báo. Năm 1950, ông dạy ở trường Quốc học (Huế), có một thời ông bị bắt gia nhập quân đội Sài Gòn cấp bậc Đại úy rồi giải ngũ năm 1956. Ông mất ngày 8-8-1969 tại Sài Gòn, thọ 61 tuổi. Còn để lại các tác phẩm: - Đầy vơi (tập thơ, 1940) - Thần hổ (tiểu thuyết) - Kho vàng Sầm Sơn - Đồng tiền Vạn Lịch - Ai hát giữa rừng khuya - Linh hồn hay xác thịt - Đường lên núi - Uyển ngoạn (1956) - Tình Sơn nữ (1956)..."
 }

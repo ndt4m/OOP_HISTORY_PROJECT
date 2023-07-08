@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "Canh Tuất 1910",
-  "dateOfDeath": "Bính Thìn 1976",
-  "hometown": "quê ở Thạch Hãn, tỉnh Quảng Trị",
-  "occupation": "Nữ sĩ hiện đại",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Mậu Dần 1938",
+  "hometown" : "quê ở Bạc Liêu",
+  "occupation" : "Liệt sĩ cách mạng",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 1995,
-  "entityName": "Lê Liễu Huê",
-  "aliases": [
-    "Ái Lan"
-  ],
-  "overview": "Gia đình bà sinh hoạt ở miền Nam nhiều hơn, chồng bà là nhà báo Công Minh Triệu Thường Thế. Bà làm thơ, viết báo, cộng tác với nhiều báo ngay từ năm 1928: Đông Pháp thời báo, Đuốc nhà Nam, Phụ nữ tân văn, Phóng sự tuần báo, Sông Hương, Đời mới và các báo hàng ngày: Tiếng chuông, Buổi sáng, Ánh sáng, Sài Gòn mới, Tân sanh, Dân ta, Tạp chí Phổ thông. Anh ruột bà là nhà báo Lê Trung Nghĩa, bút danh Việt Nam, và các em Bút Sơn Lê Minh Đức, Lê Chuyên Pha cũng đều nổi tiếng trong làng báo và làng văn ở miền Nam. Bà nhiệt tình yêu nước, yêu văn hóa dân tộc. Khi đất nước thống nhất bà là cố Vấn Hội Văn nghệ Giải phóng Thành phố Hồ Chí Minh (Sài Gòn). Ngày 19-10-1976, bà mất, thọ 66 tuổi, an táng ở nghĩa trang Phú Thọ Hòa, Thành phố Hồ Chí Minh. Bà có tập thơ Trên đường, xuất bản năm 1953."
+  "id" : 1995,
+  "entityName" : "Tạ Lợi",
+  "aliases" : [ ],
+  "overview" : "Ông giác ngộ cách mạng rất sớm, gia nhập đảng Cộng sản Đông Dương, tích cực hoạt động chống Pháp. Ông là người cộng sản đầu tiên của vùng đất Long Điền Đông. Sau một thời gian đi huấn luyện và sinh hoạt Đảng ở nhiều nơi, đến năm 1930, ông trở về quê Long Điền Đông gây dựng cơ sở, tổ chức cho nhân dân tỉnh Bạc Liêu vùng lên chống Pháp cứu nước. Năm Mậu dần 1938, ông bị bắt rồi bị đày ở Bà Rá, bị giặc Pháp tra tấn tàn nhẫn ông hi sinh trong tù."
 }

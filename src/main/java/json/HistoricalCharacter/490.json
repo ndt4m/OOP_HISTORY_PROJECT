@@ -1,14 +1,14 @@
 {
-  "dateOfBirth": "13 tháng 3, 1912 Hà Nội, Đông Dương thuộc Pháp",
-  "dateOfDeath": "22 tháng 1, 1996 (83 tuổi) Hà Nội, Việt Nam",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 490,
-  "entityName": "Vũ Trọng Khánh",
-  "aliases": [],
-  "overview": "Vũ Trọng Khánh (1912–1996) là một luật sư người Việt Nam. Ông là Bộ trưởng Bộ Tư pháp đầu tiên của Chính phủ Lâm thời Việt Nam Dân chủ Cộng hòa, Thị trưởng Thành phố Hải phòng."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 490,
+  "entityName" : "Võ Giàng",
+  "aliases" : [ ],
+  "overview" : "Võ Giàng là một huyện cũ của Việt Nam, nay là một phần huyện Quế Võ và một phần thành phố Bắc Ninh, tỉnh Bắc Ninh."
 }

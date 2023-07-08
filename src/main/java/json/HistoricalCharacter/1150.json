@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Giáp Thân 1824",
-  "dateOfDeath": "Bính Tuất 1886",
-  "hometown": "quê làng Lương Mĩ, huyện Bảo Hựu, phủ Hoằng Trị, tỉnh Bến Tre (nay là làng Mĩ Thạnh cùng tỉnh Bến Tre)",
-  "occupation": "Danh thần đời ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Nhâm Ngọ 1882",
+  "dateOfDeath" : "Tân Tị 1941",
+  "hometown" : "quê làng Sơn Tân, huyện Hương Sơn, tỉnh Nghệ An",
+  "occupation" : "Chí sĩ hiện đại",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "id": 1150,
-  "entityName": "Phạm Viết Chánh",
-  "aliases": [
-    "Phạm Hữu Chánh"
-  ],
-  "overview": "Thuở nhỏ ông học tại gia, trường Đốc Vĩnh Long, đậu cử nhân khoa Bính ngọ, năm Thiệu Trị thứ sáu (1846) tại trường thi Gia Định. Làm quan nhiều nơi, năm 1867 ông đang giữ chức Án sát tỉnh Châu Đốc. Ngày 21-6-1867 ngay từ sáng sớm quân Pháp tiến chiếm Châu Đốc (trước đó ngày 20 Vĩnh Long đã mất về tay Pháp) ông bị Pháp bắt ngay tại bản doanh Châu Đốc đem giam dưới tàu chiến buộc ông và các chức sắc giao thành Châu Đốc, nhưng ông không giao thành. Bị Pháp giam một thời gian, sau đó chúng trả tự do cho ông. Từ đó (1868) ông lui về quê Bến Tre dưỡng bệnh và bị triều định cắt chức và tội trượng (đánh bằng gậy). Lúc nghe tin Phan Thanh Giản tử tiết, ông có câu đối và thơ điếu họ Phan thống thiết mà giàu tính sử học. \"Sổ hàng di biểu lưu thiên địa; Nhất phiến đan tâm phó sử thư\". Nghĩa: Đôi hàng biểu để lòa trời đất, Một tấm lòng son tạc sử xanh. Và bài thơ: Phan công tiết nghĩa sánh cao dày, Thương đấy vì đây khiến chằng may! Hết dạ giúp vua trời đất biết, Nát lòng vì nước quỉ thần hay. Tuyệt lương một tháng rau xanh mặt, Bị cách ba phen lửa đỏ mày. Chỉn sợ sử thần biên chẳng ráo, Tấm lòng ấm ức phải thày lay. Ông mất ngày 22 tháng giêng năm Bính tuất (1886) tại quê nhà, thọ 62 tuổi. Những năm đầu thế kỉ XX (1909) nhà yêu nước và cũng là một nhà thơ trong sách Điếu cổ hạ kim thi tập có khóc Phạm Viết Chánh: Cuộc đời dâu bể nghĩ thon von, Chạnh nhớ người xưa tiếng hãy còn. Ngòi viết chẳng rời bên dĩa mực, Mão đai từng dựa chốn đài son. Ven tròn ngay thảo niềm tôi chúa, Đông đảo sang giàu phận rể con. Hoằng Trị gương thơm ngời dâu để Lâu dài phước đức sánh tày non. (Nguyễn Liên Phong)"
+  "id" : 1150,
+  "entityName" : "Nguyễn Đình Kiên",
+  "aliases" : [ "Tú Kiên", "Hi Cao" ],
+  "overview" : "Thuở nhỏ ông theo học khoa cử, nhưng khuynh hướng về cái học thực nghiệp, mở mang dân trí, dân sinh, dân quyền... Năm Mậu thân 1908 ông cùng các chiến sĩ yêu nước tham gia phong trào Duy tân ở Nghệ An, Hà Tĩnh trong tổ chức Minh xã, (khác với Ám xã của Phan Bội Châu) Triều dương với Ngô Đức Kế, Đặng Nguyên Cẩn... Tháng 6 năm 1908 phong trào bị Pháp khủng bố trắng, ông bị Nam triều bắt kết án chung thân, đày Côn Đảo một thời gian dài. Năm 1917, ông cùng 4 bạn tù (Trần Hoành, Nguyễn Kim Đài và 2 thường phạm khác) dùng bè gỗ vượt Côn Đảo. Bè của ông và các bạn lênh đênh trên biển 6 ngày đêm thì tấp vào một làng chài thuộc huyện Hàm Tân, tỉnh Bình Thuận. Tại đây ông được một đồng chí cũ là Nguyễn Hữu Hoàn cùng tri huyện sở tại là cử nhân Lương Trọng Hối ngầm giúp đỡ cho giấy thuế thân để thoát khỏi tỉnh Bình Thuận vì đang có lệnh truy nã gắt. Từ đó ông cùng Nguyễn Kim Đài đi bộ ra sát biên giới Trung Quốc để sang Nhật, nhưng sau vụ khởi nghĩa Thái Nguyên Pháp và tay sai kiểm soát biên giới rất gắt, ông và bạn Kim Đài phải lui vào Nam dùng đường biển sang Trung Hoa. Tàu vừa đến Thượng Hải thì bị Phan Bá Ngọc chỉ điểm cho Pháp, nên ông và Kim Đài bị Pháp bắt cóc đưa về giam ở Hỏa Lò (Hà Nội) rồi đày ra Côn Đảo một lần nữa (riêng ông Nguyễn Kim Đài bị bệnh chết ở nhà lao Hỏa Lò) còn Trần Hoành về đến Đà Nẵng bị bắt lại và đày ra Côn Đảo như ông. Năm 1926 ông được Pháp trả tự do về sống tại quê nhà đến năm 1928 ông tham gia cùng Lê Văn Huân thành lập đảng Phục Việt (sau đổi tên là Tân Việt với chức vụ phó Đảng, đảng trưởng là Lê Văn Huân). Sau khi đảng bị vỡ, ông bị bắt cùng một lần với đảng trưởng Lê Văn Huân giam tại khám lớn Sài Gòn mãi đến năm 1933 mới được trả tự do. Sau khi ra tù ông về sống tại quê nhà rồi bị bệnh mất trong năm 1941, thọ 59 tuổi"
 }

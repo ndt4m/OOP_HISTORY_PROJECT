@@ -1,14 +1,17 @@
 {
-  "dateOfBirth": "1545",
-  "dateOfDeath": "1787",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 460,
-  "entityName": "nhà Trịnh",
-  "aliases": [],
-  "overview": "Chúa Trịnh (chữ Hán: 鄭王 / Trịnh vương, chữ Nôm: 主鄭; 1545 – 1787) là một vọng tộc phong kiến kiểm soát quyền lực Đàng Ngoài suốt thời Lê Trung hưng, khi nhà vua tuy không có thực quyền vẫn được duy trì ngôi vị. Bộ máy triều đình lúc này hoạt động theo thể chế lưỡng đầu. Tổng cộng có 11 chúa Trịnh chính thức (nếu tính luôn Trịnh Kiểm là có 12 chúa) cai quản xứ Đàng Ngoài trong hơn 2 thế kỷ."
+  "dateOfBirth" : "1577\n----------------------------------------------\nĐinh Sửu 1577",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Đại Toán, huyện Quế Dương, tỉnh Bắc Ninh (nay là Quế Võ, tỉnh Bắc Ninh)",
+  "occupation" : "Danh sĩ đời Lê Kính tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34,
+    "nhà Lê" : null
+  },
+  "id" : 460,
+  "entityName" : "Nguyễn Đăng",
+  "aliases" : [ ],
+  "overview" : "Nguyễn Đăng (1577-?) là đại thần nhà Lê trung hưng trong lịch sử Việt Nam.\n----------------------------------------------\nNăm Nhâm dần 1602 ông đỗ hoàng giáp, 25 tuổi. Các kì thi Hương, Hội, Đình và Ứng chế ông đều đỗ đầu, nghiễm nhiên là vị \"Tứ nguyên\" có tiếng nhất trong lịch sử khoa cử Việt Nam thuở xưa. Năm Quí sửu 1613 ông cùng Lưu Đình Chất nhận lệnh vua đi sứ Trung Quốc, đến nơi cùng sứ Trung Quốc đối đáp nổi tiếng, ông có làm bài phú tả cảnh chùa Phi Lai được truyền tụng. Lúc về thăng làm Hầu thị lang bộ Hộ, tước Phúc Nam Hầu. Khi mất được truy phong làm phúc thần ở xã Mạc Đà. Ông sở trường nhất về phú, đương thời có câu ca ngợi: \"Phú ông Tỏi, hỏi làm chi\". Vì ông ở làng Đại Toản (tên nôm là làng Tỗi), nên tục gọi là ông Tỏi. Ông lại nổi tiếng ngang với Nguyễn Quang Trạch người làng Kiệt Đặc và cũng sở trường lối phú, nên cũng có câu \"Phú ông Trạch sách ông Đăng\"."
 }

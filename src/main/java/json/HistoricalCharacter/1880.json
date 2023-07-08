@@ -1,19 +1,14 @@
 {
-  "dateOfBirth": "Đinh Mão 1807",
-  "dateOfDeath": "Nhâm Thân 1872",
-  "hometown": "quê huyện Yên Mô, tỉnh Ninh Bình",
-  "occupation": "Danh sĩ đời T",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
-  },
-  "id": 1880,
-  "entityName": "Vũ Phạm Khải",
-  "aliases": [
-    "Đông Dương",
-    "Phương Trì"
-  ],
-  "overview": "Năm 1831 đậu cử nhân, được bổ làm Lễ khoa cấp sự trung, năm 1841 thăng Hồng lô tự khanh, Toản tu Quốc sử quán. Năm 1848, sau khi Hồng Nhậm lên ngôi (Tự Đức) ông bất bình với việc truất phế Hồng Bảo, phát biểu chính kiến trái với các thủ đoạn xảo quyệt của bọn nịnh thần nên bị cách chức. Năm 1850 lại được vời vào Huế thăng Thị độc học sĩ, rồi Bố chánh tỉnh Thái Nguyên. Ít lâu sau ông mất tại chức. Các tác phẩm chính của ông: - Lịch đại chính hình thông khảo - Đông Dương văn tập - Trần Lê ngoại truyện - Ngu Sơn toàn tập - Phượng Trì văn tập - Thực lục tiền biên Đại Nam thực lục tiền biên còn gọi là Liệt thánh thực lục tiền biên (13 quyển) kể cả quyển thủ, chép các việc từ chúa Nguyễn Hoàng (chúa Tiên), năm Mậu ngọ Chính Trị thứ nhất (1558) đến năm Đinh dậu Duệ tông Hiếu Thuận hoàng đế năm Cảnh Hưng thứ 38."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "xã thuộc huyện Gia Lâm, thành phố Hà Nội, Việt Nam.",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 1880,
+  "entityName" : "Đặng Xá",
+  "aliases" : [ ],
+  "overview" : "Đặng Xá là một xã thuộc huyện Gia Lâm, thành phố Hà Nội, Việt Nam."
 }

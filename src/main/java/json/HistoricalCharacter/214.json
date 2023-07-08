@@ -1,22 +1,14 @@
 {
-  "dateOfBirth": "1709\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath": "1735 (25–26 tuổi)\n----------------------------------------------\nKhông rõ",
-  "hometown": "Không rõ",
-  "occupation": "Hoàng đế Đại Việt\n----------------------------------------------\nVua",
-  "workTenure": "1729 – 1732\n----------------------------------------------\n1729—1732",
-  "fatherName": {
-    "Lê Dụ Tông": 2219
-  },
-  "motherName": {},
-  "eraName": {
-    "Nhà Lê trung hưng": null,
-    "Nam triều – Nhà Hậu Lê – giai đoạn Lê Trung hưng": 28
-  },
-  "id": 214,
-  "entityName": "Lê Đế Duy Phường",
-  "aliases": [
-    "Vĩnh Khánh (永慶)",
-    "Lê Duy Phường"
-  ],
-  "overview": "Lê Duy Phường (1709 – 1735) hay Vĩnh Khánh đế hoặc Hôn Đức công, là vị hoàng đế thứ 12 của nhà Lê trung hưng trong lịch sử Việt Nam.\n----------------------------------------------\nLê Duy Phường (chữ Hán: 黎維祊, 1709 – 1735) hay Vĩnh Khánh Đế hoặc Hôn Đức công, là vị Hoàng đế thứ 12 của nhà Lê Trung hưng và thứ 23 của triều Hậu Lê trong lịch sử Việt Nam."
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "người làng Uông Hạ, huyện Thanh Lâm, châu Thượng Hồng (nay là thôn Uông Hạ, xã Minh Tân, huyện Nam Sách, tỉnh Hải Dương).",
+  "occupation" : "Không rõ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 214,
+  "entityName" : "Trần Quốc Lặc",
+  "aliases" : [ "Mạnh Đạo Đại Vương" ],
+  "overview" : "Trần Quốc Lặc (chữ Hán: 陳國扐, ? - ?) là Trạng nguyên của Việt Nam, ông là người làng Uông Hạ, huyện Thanh Lâm, châu Thượng Hồng (nay là thôn Uông Hạ, xã Minh Tân, huyện Nam Sách, tỉnh Hải Dương). Tháng 2 năm 1256, ông đỗ Kinh trạng nguyên khoa Bính Thìn niên hiệu Nguyên Phong thứ 6, đời Trần Thái Tông, cùng khoa với Trại trạng nguyên Trương Xán, bảng nhãn Chu Hinh, thám hoa lang Trần Uyên . Làm quan đến Thượng thư. Sau khi mất, vua phong làm Phúc thần, hiệu là Mạnh Đạo Đại Vương ."
 }

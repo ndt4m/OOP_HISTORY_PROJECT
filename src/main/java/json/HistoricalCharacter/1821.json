@@ -1,14 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 1821,
-  "entityName": "Nguyễn Văn Tuyết",
-  "aliases": [],
-  "overview": "Nguyễn Văn Tuyết có thể là:"
+  "dateOfBirth" : "Giáp Ngọ 1894",
+  "dateOfDeath" : "Kỉ Hợi 1959",
+  "hometown" : "quê làng Tân Động, tỉnh Sa Đéc (nay thuộc tỉnh Đồng Tháp)",
+  "occupation" : "Giáo sư, cựu Phó Viện trưởng Viện Đại học Đông Dương, cựu Bộ trưởng Giáo dục",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
+  },
+  "id" : 1821,
+  "entityName" : "Nguyễn Thành Giung",
+  "aliases" : [ ],
+  "overview" : "Ông là con rể nhà duy tân, kiêm Tổng lí Công ti Liên Thành Hồ Tá Bang ở Phan Thiết Chợ Lớn. Thuở nhỏ học tại Trường Chasseloup Laubat Sài Gòn, rồi sang Pháp học tại Trường Marseille. Năm 1923 tốt nghiệp Tiến sĩ Khoa học với hạng Tối ưu (très honorable). Năm 1926 về nước làm việc ở Phòng nghiên cứu Khoa học thuộc địa rồi dạy tại Trường Sư phạm Normal, Trường Chasseloup Laubat (nay là Trường Lê Quí Đôn) Trường Pétrus Ký (nay là Trường Lê Hồng Phong). Sau đó làm Hiệu trưởng Trường Trung học Mĩ Tho (nay là Trường Nguyễn Đình Chiểu). Năm 1946, ông giữ chức Bộ trưởng Quốc gia Giáo dục trong chính phủ Nguyễn Văn Thinh. Sau khi chính phủ này đổ, ông ra Hà Nội làm giáo sư tại Đại học Khoa học Hà Nội. Năm 1952 được cử làm Bộ trưởng Giáo dục và Thanh niên kiêm Phó Viện trưởng Viện Đại học Hà Nội. Trong thời gian giữ trọng trách về giáo dục, ngày 14-10-1953 ông cho ban hành một nghị định về cải tổ giáo dục bậc Trung học theo chương trình Việt Nam. Sau năm 1955, ông về sống tại Sài Gòn và mất trong năm 1959, an táng tại Nghĩa trang đất thánh Tây (Đa Kao) Sài Gòn, năm 1982 phần mộ ông phải di dời, hài cốt được hỏa táng, tro đem về thờ ở Pháp, nơi vợ con ông sinh sống."
 }

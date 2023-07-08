@@ -1,23 +1,14 @@
 {
-  "dateOfBirth": "1396\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath": "?\n----------------------------------------------\nKhông rõ",
-  "hometown": "Không rõ",
-  "occupation": "Hoàng đế Đại Việt\n----------------------------------------------\nVua",
-  "workTenure": "1398 - 1400\n----------------------------------------------\n1398—1400",
-  "fatherName": {
-    "Trần Thuận Tông": 279
-  },
-  "motherName": {
-    "Khâm Thánh hoàng hậu": null
-  },
-  "eraName": {
-    "Nhà Trần": 15
-  },
-  "id": 907,
-  "entityName": "Trần Thiếu Đế",
-  "aliases": [
-    "Kiến Tân (建新)",
-    "Trần An (陳 )"
-  ],
-  "overview": "Trần Thiếu Đế (chữ Hán: 陳少帝; 1396 - ?), là vị Hoàng đế thứ 12 và là vị Hoàng đế cuối cùng của Triều đại nhà Trần trong lịch sử Việt Nam.\n----------------------------------------------\nvua Trần Thiếu Đế (chữ Hán: 陳少帝; 1396 - ?) là vị Vua thứ 13 và là vị vua cuối cùng của Triều đại nhà Trần trong lịch sử Việt Nam."
+  "dateOfBirth" : "7 tháng 2 năm 1924 Vĩnh Bảo, Thành phố Hải Phòng, Liên bang Đông Dương",
+  "dateOfDeath" : "3 tháng 11, 2016 (92 tuổi) Thành phố Hồ Chí Minh, Việt Nam",
+  "hometown" : "Không rõ",
+  "occupation" : "Thuộc",
+  "workTenure" : "1945-1987",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : { },
+  "id" : 907,
+  "entityName" : "Trần Văn Giang",
+  "aliases" : [ ],
+  "overview" : "Trần Văn Giang (1924 - 2016) là một tướng lĩnh cấp cao của Quân đội Nhân dân Việt Nam, nguyên Chính ủy Quân chủng Hải quân Việt Nam, hàm Chuẩn đô đốc. ."
 }

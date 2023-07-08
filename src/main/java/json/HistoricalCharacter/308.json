@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Chí sĩ cận đại",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "Đinh Mão 1627",
+  "dateOfDeath" : "Đinh Sửu 1697",
+  "hometown" : "quê tỉnh Hà Đông",
+  "occupation" : "Danh thần đời Lê Chân tông, con Liêm quận công Đặng Thế Khoa, dòng dõi Nghĩa quận công Đặng Huấn, nguyên họ Trần",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
   },
-  "id": 308,
-  "entityName": "Đinh Kinh Luân",
-  "aliases": [
-    "Tiến Nhi"
-  ],
-  "overview": "Khoảng năm 1913, ông tham gia Việt Nam Quang phục hội ở Bắc Kì. Ông lại đàm nhận sứ mạng điều động và tiếp tế nhân lực tài chánh, võ khí cho các vị chỉ huy những chiến khu kháng cự quân cướp nước. Ông và Am Vệ Tân tận tụy hi sinh cho cách mạng, bị mật thám Pháp theo dõi. Đến khi sắp sa vào cạm bẫy, ông tự sát để khỏi lộ những điều bí mật."
+  "id" : 308,
+  "entityName" : "Đặng Tiến Thự",
+  "aliases" : [ ],
+  "overview" : "Năm Giáp thân 1644 ông mới 17 tuổi được bổ làm trấn thủ Nghệ An càng lúc càng được chúa Trịnh tin dùng được chúa ban cho tên họ là Trịnh Thế (có sách chép là Trịnh Liễu). Dần dần làm đến Thái phó, tườc Yên quận công. Năm Đinh sửu 1697 ông mất thọ 70 tuổi được truy tặng Thái tề và phong làm phúc thần. Ông có 17 nguời con, năm người hiển đạt nhất là Tiến Sở, Tiến Lân, Tiến Luân, Tiến Trứ và Đình Tướng. Đặng Đình Tướng sau này nổi danh trong khoa cử và quan trường đương thời của nước ta."
 }

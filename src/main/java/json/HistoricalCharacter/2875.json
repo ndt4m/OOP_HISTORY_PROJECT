@@ -1,20 +1,16 @@
 {
-  "dateOfBirth": "257 TCN huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (nay là huyện Chính Định (正定), tỉnh Hà Bắc), Trung Quốc\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath": "137 TCN (120 tuổi) Phiên Ngung (nay là thành phố Quảng Châu, tỉnh Quảng Đông, Trung Quốc)\n----------------------------------------------\nKhông rõ",
-  "hometown": "quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà Bắc), miền Bắc Trung Quốc.\n----------------------------------------------\nKhông rõ",
-  "occupation": "Hoàng đế Nam Việt\n----------------------------------------------\nVua",
-  "workTenure": "70 năm\n----------------------------------------------\n204—137TCN",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Triệu": 16
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Không rõ",
+  "occupation" : "Vua",
+  "workTenure" : "?–?",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Hồng Bàng" : 17
   },
-  "id": 2875,
-  "entityName": "Triệu Vũ Vương",
-  "aliases": [
-    "Triệu Đà (趙佗)",
-    "Bá Uy",
-    "Vũ Hoàng đế (武皇帝)"
-  ],
-  "overview": "Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà Bắc), miền Bắc Trung Quốc.\n----------------------------------------------\nTriệu Vũ Đế (chữ Hán: 趙武帝, 257 TCN hoặc 235 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), là vị vua đầu tiên của nước Nam Việt, án ngữ tại Quảng Đông và miền bắc Việt Nam. Ông vốn là người Trung Quốc, quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山) (ngày nay là huyện Chính Định (正定), tỉnh Hà Bắc), miền Bắc Trung Quốc."
+  "id" : 2875,
+  "entityName" : "Hùng Vương thứ 12",
+  "aliases" : [ ],
+  "overview" : "Hùng Vương (chữ Hán: 雄王) hay vua Hùng (chữ Nôm: \uD852\uDD30雄) là cách gọi dành cho các vị vua nước Văn Lang của người Lạc Việt, tồn tại vào khoảng thế kỷ 7 tới thế kỷ 2 trước công nguyên."
 }

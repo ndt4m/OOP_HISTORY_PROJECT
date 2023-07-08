@@ -1,21 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Thuộc hạ của Mạc Thiên Tích ở trấn Hà Tiên, tác giả, không rõ năm sinh năm mất, còn có tên khác nữa là Vi",
-  "workTenure": "Không rõ",
-  "fatherName": {
-    "Mạc Thiên Tích tại thời điểm ra đời của cuốn gia phả này": null
+  "dateOfBirth" : "1907\n----------------------------------------------\nĐinh Mùi 1907",
+  "dateOfDeath" : "1946\n----------------------------------------------\nBính Tuất 1946",
+  "hometown" : "quê ở Thái Bình, sinh sống bằng ngòi bút ở Hà Nội",
+  "occupation" : "Nhà văn chuyên viết tiểu thuyết lịch sử kí sự",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
   },
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34,
-    "Nam - Bắc Triều": 19
-  },
-  "id": 1641,
-  "entityName": "Võ Thế Dinh",
-  "aliases": [
-    "Vũ Thế Dinh"
-  ],
-  "overview": "Hà Tiên trấn Hiệp trấn Mạc thị gia phả (nguyên tác bằng Hán văn: 河僊鎮協鎮鄚氏家譜; nghĩa là \"gia phả của dòng họ Mạc của quan Hiệp trấn trấn Hà Tiên\") hay gọi ngắn gọn là Mạc thị gia phả (鄚氏家譜), là một bộ gia phả về dòng họ Mạc ở Nam bộ do Vũ Thế Dinh (武世營), con nuôi của Mạc Thiên Tích biên soạn. Đây được coi là một bộ gia phả cổ nhất của miền đất Nam bộ Việt Nam. Hiệp trấn là chức quan của Mạc Công Du, con trai của Mạc Thiên Tích tại thời điểm ra đời của cuốn gia phả này.\n----------------------------------------------\nÔng có tài văn thơ, chính trị, lại được gần với nhóm danh sĩ Chiêu Anh Các thời ấy nên ông được họ Mạc trọng dụng và được chúa Nguyễn phong thưởng, từng làm Cai đội trấn Hà Tiên, tước Dinh Đức Hầu. Ông là tác giả sách: Mạc thị gia phả cũng gọi là Hà Tiên Hiệp trấn Mạc thị gia phả."
+  "id" : 1641,
+  "entityName" : "Phan Trần Chúc",
+  "aliases" : [ ],
+  "overview" : "Phan Trần Chúc (1907-1946), là nhà văn Việt Nam, thời tiền chiến.\n----------------------------------------------\nÔng sáng tác văn học khá nhiều, từng cộng tác với các báo Tân Việt Nam, Ngọ báo, Việt báo xuất bản ở Hà Nội. Các tác phẩm chính của ông đã xuất bản đều thuộc loại lịch sử kí sự, lịch sử tiểu thuyết. Năm Bính tuất 1946 ông mất tại Hoài Đức tỉnh Hà Đông hưởng dương 39 tuổi. Các tác phẩm của ông đã xuất bản: - Triều Tây Sơn (1942) - Vua Hàm Nghi (Hà Nội, 1935) - Bùi Viện với cuộc duy tân của triều Tự Đức (1942) - Lê Hoàn (1939) - Hồi chuông Thiên Mụ (1940) - Cần vương (1941) - Vua Quang Trung (1940) - Dưới lũy Trường Dục (1942) - Bánh xe khứ quốc. (Hà Nội. Đời mới, Thụy Kí, 1941) - Một kiếp trước của Phật Thích Ca (1942) - Danh nhân Việt Nam qua các triều đại (1942) - Ngày mai với tập hồ sơ của một thời đại (Hà Nội, 1942) - Việt Nam sử học (Thế kỉ 18 - 1942) - Thế kỉ XVIII: Bằng Quận Công (Mai Lĩnh, 1942) - Triều Tây Sơn (1942) - Giọt máu sau cùng (tiểu thuyết, 1943) - Từ nhà Chùa đến nhà Chúa (Hương Sơn, 1942) - Phạm Nhan (loại học sinh). Hà Nội, Xuân Thu (1943) - Năm bộ da dê hay là một tấm gương kiên nhẫn (Thụy Kí, 1943) Hầu hết tác phẩm của Phan Trần Chúc đều lấy đề tài và cảm hứng từ các nhân vật lịch sử của sử để hình thành. Có thể nói ông là nhà văn viết tiểu thuyết lịch sử (chứ không phải sử học) khá đều tay so với các nhà văn khác. Đọc ông, tác giả Nhà văn hiện đại (Vũ Ngọc Phan) cho rằng: \"Trong các sách của Phan Trần Chúc chỉ được có cái đặc sắc là lối nghị luận. Lời nghị luận của ông bao giờ cũng sáng suốt. Nếu muốn tìm giá trị họa chăng đó là giá trị những văn phẩm của ông. Còn những tài liệu ông dùng phần nhiều không được chắc chắn, nên ông đã không tránh được những sự mâu thuẫn là những điều không nên có trong một quyển sử.\""
 }

@@ -1,17 +1,16 @@
 {
-  "dateOfBirth": "…",
-  "dateOfDeath": "979\n----------------------------------------------\nTân Tị 981",
-  "hometown": "người làng Trà Hương, Nam Sách, Hải Dương.\n----------------------------------------------\nquê ở Nam Sách, tỉnh Hải Dương",
-  "occupation": "Võ tướng nhà Đinh",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Trần": null,
-    "Nhà Đinh": 35
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê ở Tri Minh, huyện Cẩm Giang, tỉnh Hải Dương (nay là Cẩm Bình, thuộc tỉnh Hải Dương)",
+  "occupation" : "Có sách chép là Phạm Công Bân, Danh y đời Trần Anh tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Trần" : 15
   },
-  "id": 2629,
-  "entityName": "Phạm Hạp",
-  "aliases": [],
-  "overview": "Phạm Hạp (范盍, ?-979) là một võ tướng đồng thời cũng là một trong những vị quan trung thần của vua Đinh Tiên Hoàng. Ông là người làng Trà Hương, Nam Sách, Hải Dương. Theo sách Tông phả kỷ yếu tân biên của Phạm Côn Sơn dẫn gia phả họ Phạm, ông là tổ 8 đời của tướng Phạm Ngũ Lão thời nhà Trần . Ông được sử sách Trung Hoa liệt vào danh sách \"Giao Châu thất hùng\", tức 7 anh hùng người Giao Châu gồm: Đinh Bộ Lĩnh, Đinh Liễn, Lê Hoàn, Đinh Điền, Nguyễn Bặc, Phạm Hạp và Phạm Cự Lượng.\n----------------------------------------------\nÔng nội là Thiên, làm Đồng giáp tướng quân đời Ngô Vương Quyền, cha là Mạn, làm Tham chính Đô đốc đời Hậu Ngô. Ông làm Vệ úy đời Đinh Tiên Hoàng. Kỉ mão 979 Đinh Tiên Hoàng bị Đỗ Thích ám sát chết. Đình thần tôn Đinh Tuệ mới 6 tuổi lên ngôi. Thập đại tướng quân Lê Hoàn nhiếp chính, tư thông với Dương hậu (Thái hậu Dương Vân Nga). Căm giận Lê Hoàn, ông đồng mưu với Đinh Điền, Nguyễn Bặc đem quân đánh Lê Hoàn, bị Lê Hoàn đánh bắt được cả 3 người, đem chém trong năm Tân tị 981. Về sau, em ông là Phạm Cự Lượng lại là người chủ xướng việc tôn phù Lê Hoàn lên ngôi, dựng nhà Tiền Lê."
+  "id" : 2629,
+  "entityName" : "Phạm Bân",
+  "aliases" : [ "Phạm Công Bân" ],
+  "overview" : "Ông là cha vợ Hồ Quý Ly, ông ngoại Hồ Nguyên Trừng, dòng dõi làm nghề thuốc. Trần Anh tông vời ông làm chức Thái y, ông thường mua thuốc và lúa gạo trữ tại nhà sẵn lòng nuôi và chữa bệnh cho những người nghèo khổ, neo đơn. Gặp năm đói kém, bệnh hoạn lan tràn, ông càng hết sức cứu giúp, nhân dân đều xưng tụng công đức. Có lần ông gấp đi cứu một người đàn bà nghèo lâm bệnh ngặt, bất chấp lệnh vua truyền vào cung điều trị cho quý phi. Sứ giả cảnh cáo ông có thể bị quở phạt nặng. Ông vẫn thản nhiên làm theo lương tâm. Cứu bệnh xong, ông ung dung vào cung bày tỏ sự tình: \"Vì có bệnh nặng cần cứu gấp nên hạ thần đành trái lệnh trên, xin luợng thứ.\" Trần Anh tông cảm phục khen ngợi: \"Khanh thật là một lương y, đã giỏi nghề lại giàu nhân đức, thật xứng đáng với lòng tin yêu của Trẫm.\" Về sau, con cháu ông có nhiều người hiển đạt và làm thuốc giỏi, công đức tốt đẹp."
 }

@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "Tân Dậu 1921",
-  "dateOfDeath": "Canh Thìn 2000",
-  "hometown": "quê xã Đông Sơn, huyện Đô Lương, tỉnh Nghệ An",
-  "occupation": "Tướng lãnh ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "Giáp Tí 1804",
+  "hometown" : "quê ở Bình An, tỉnh Biên Hòa",
+  "occupation" : "Cũng gọi là Hồ Văn Vui, Ngoại thích triều Nguyễn",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Tây Sơn" : 21,
+    "Nhà Nguyễn độc lập" : 30
   },
-  "id": 2994,
-  "entityName": "Hoàng Kiện",
-  "aliases": [],
-  "overview": "Ông nhập ngũ từ năm 1945, tham gia đánh Pháp, Mĩ từ ngày toàn quốc kháng chiến đến ngày giải phóng toàn thể miền Nam Việt Nam. Từng giữ các chức vụ Tham mưu trường các Đại đoàn 312, Đại đoàn 367 thuộc Bộ Tư lệnh pháo binh. Từ năm 1958 - 1962 tư lệnh Phòng không, Sư đoàn trưởng sư đoàn 304, sư đoàn I, Phó tư lệnh phòng không kiêm tư lệnh phòng không Quân khu 4. Từ tháng 8 năm 1974 là Giám đốc Học viện Hậu cần QĐNDVN, đến năm 1981-1986 Viện phó Học viện quân sự cao cấp. Suốt hành trình trong quân ngũ ông được tặng nhiều huân chương vẻ vang nhất là Huân chương quân công hạng nhất. Ông mất trong năm 2000, thọ 79 tuổi."
+  "id" : 2994,
+  "entityName" : "Hồ Văn Bôi",
+  "aliases" : [ "Hồ Văn Vui" ],
+  "overview" : "Xuất thân làm đội trưởng, ông từng hai phen theo Nguyễn Ánh lưu vong ở Vọng Các (Xiêm - Thái Lan), rồi làm thuộc nội Cai đội. Năm Nhâm tuất 1802, thăng Tả thị trung Tả nhất Vệ úy, rồi đổi làm Khâm sai thuộc nội Chưởng cơ. Nhưng chỉ hai năm sau - Giáp tí 1804 ông cáo bệnh về hưu, mất trong năm này. Năm Bính dần 1806, con gái ông là Hồ Thị Hoa được chọn làm vợ Đông cung Nguyễn Phúc Đảm (sau là vua Minh Mạng, bà nghiễm nhiên là Tá Thiên nhân hoàng hậu). Năm Bính tuất 1826, vua Minh Mạng (con rể ông) truy tặng ông Nghiêm oai tướng quân, Thượng quân, Thống chế. NămTân sửu 1841, vua Thiệu Trị truy tặng là Đắc tiến tráng Võ tướng quân, Tả quân Đô thống phủ, Đô thống chưởng phủ sự, Thái bảo, tước Phúc Quốc Công. Vợ chính ông là Huỳnh thị được truy phong Nhất phẩm Phúc Quốc phu nhân. Vua Thiệu Trị lại truyền lập nhà thờ họ Hồ gọi là Hồ tộc từ, và truy phong họ Hồ đến 4 đời trước. Tân hợi 1851 vua Tự Đức đổi tên nhà thờ lại là Dũ Trạch Từ."
 }

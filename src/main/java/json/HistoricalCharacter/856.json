@@ -1,17 +1,16 @@
 {
-  "dateOfBirth": "05 tháng 8, 1903 Đông Ngạc, Từ Liêm, Hà Nội\n----------------------------------------------\nQuí Mão 1903",
-  "dateOfDeath": "21 tháng 11, 1958 (55 tuổi) Hà Nội\n----------------------------------------------\nMậu Tuất 1958",
-  "hometown": "quê làng Đông Ngạc, huyện Hoài Đức, tỉnh Hà Đông (nay thuộc huyện Từ Liêm, Thành Phố Hà Nội)",
-  "occupation": "Bác sĩ Y khoa",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Quê phủ Bình Giang, châu Thượng Hồng, lộ Lạng Giang tỉnh Hưng Yên (nay thưộc tỉnh Hải Hưng)",
+  "occupation" : "Văn thần đời Trần Anh tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Trần" : 15
   },
-  "id": 856,
-  "entityName": "Hoàng Tích Trí",
-  "aliases": [],
-  "overview": "Hoàng Tích Trý (hay còn được viết là Hoàng Tích Trí) (5 tháng 8 năm 1903 - 21 tháng 11 năm 1958) là giáo sư, bác sĩ vi trùng học và là Bộ trưởng Bộ Y tế Việt Nam trong những năm 1946-1958.\n----------------------------------------------\nXuất thân trong một gia đình Nho học truyền thống, thuở nhỏ học ở Hà Nội; tốt nghiệp Bác sĩ Y khoa tại trường Đại học Y khoa Hà Nội, làm việc tại các bệnh viện ở Bắc Bộ. Sau Cách mạng tháng 8 năm 1945, ông tham gia Mặt trận Việt Minh giữ chức Thứ trưởng Bộ Y tế trong chính phủ liên hiệp lâm thời (1-1-1946). Ngày 6 tháng 1 năm 1946, Tổng tuyển cử Quốc hội lần đầu tiên, ông đắc cử Đại biểu Quốc hội khóa I (đơn vị tỉnh Hà Đông), rồi giữ chức Bộ trưởng Bộ Y tế trong chính phủ liên hiệp Quốc dân (3-11-1946), đến năm 1955 ông vẫn kiêm nhiệm giáo sư y khoa cho đến ngày qua đời (21-11-58). Bác sĩ Hoàng Tích Trí là một nhà khoa học, một giáo sư y khoa tận tụy với nghề và đã đào tạo được nhiều thế hệ bác sĩ Việt Nam. Ông là tác giả nhiều công trình nghiên cứu y khoa đã công bố trên các tạp chí chuyên ngành. Các tác phẩm của ông phần lớn viết bằng tiếng Pháp."
+  "id" : 856,
+  "entityName" : "Doãn Ân Phủ",
+  "aliases" : [ ],
+  "overview" : "Năm 1317, đời Trần Minh tông, ông được cử đi sứ nhà Nguyên. Khi đi sứ ông có nhiều thơ văn được danh sĩ Trung Quốc đương thời tán tụng. Trong An Nam chí lược, Lê Tắc chép là Doãn Thế Thôn (có lẽ là hiệu của Ân Phủ) làm quan đến bậc Đại phu. Có đi sứ cùng với Định Quan sang Trung Quốc nhiều lần."
 }

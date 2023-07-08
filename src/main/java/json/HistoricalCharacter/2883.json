@@ -1,19 +1,18 @@
 {
-  "dateOfBirth": "Mậu Thân 1908",
-  "dateOfDeath": "Bính Thìn 1976",
-  "hometown": "quê ở làng Hương Điềm, tỉnh Bến Tre (nay là tỉnh Bến Tre)",
-  "occupation": "Bác sĩ, nhà văn",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Tân Mùi 1691",
+  "dateOfDeath" : "Ất Tị 1725",
+  "hometown" : "quê huyện Hương Trà, tỉnh Thừa Thiên",
+  "occupation" : "Võ tướng thời chúa Nguyễn Phúc Chu, con thứ ba Bảng Trung Hầu Nguyễn Khoa Chiêm",
+  "workTenure" : "Không rõ",
+  "fatherName" : {
+    "Bảng Trung Hầu Nguyễn Khoa Chiêm" : null
   },
-  "id": 2883,
-  "entityName": "Lê Văn Ngôn",
-  "aliases": [
-    "Bảo Hương"
-  ],
-  "overview": "Ông nổi tiếng thơ văn, lúc sinh hoạt ở Cần Thơ, ông là hội trưởng Hội Khuyến học Cần Thơ. Trong lãnh vực sinh hoạt của hội, có lúc mở cuộc thi văn chương (giải nhất về quyển Đồng quê của Phi Vân Lâm Thế Nhơn) và đứng ra trùng tu ngôi mộ Thủ khoa Bùi Hữu Nghĩa trong năm 1943. Hội cũng đã xuất bản một tập san Xuân Tây đô trong xuân Quí mùi 1943, có giá trị về sử học, văn học. Trong lãnh vực y học, văn học, ông tích cực đóng góp nhiều tác phẩm nổi tiếng. Ngày 27-11-1976 Dương lịch ông mất, an táng tại Gò Dưa, Tam Bình (Thủ Đức). Còn để lại các tác phẩm: - Nợ vu sơn - Bịnh ho lao Ông là em ruột học giả Lê Thọ Xuân."
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
+  "id" : 2883,
+  "entityName" : "Nguyễn Khoa Đăng",
+  "aliases" : [ ],
+  "overview" : "Ông tuổi trẻ tài cao, làm đến Nội tán kiêm Án sát sứ, Tổng tri quân quốc trọng sự. Giàu mưu lược, xét đoán sáng suốt, ông dẹp tan được nhiều đám giặc cướp, bình định một vùng truông nhà Hồ nổi tiếng thiếu an ninh. Do đó, có ca dao truyền tụng: Thương em anh cũng muốn vô, Sợ truông nhà Hồ sợ phá Tam G'ang. Phá Tam Giang ngày rày đã cạn, Truông nhà Hồ nội tán cấm nghiêm. Tính ông cương trực, khiến đám quyền thần và bọn cường hào ác bá đều kiêng oai...Tuy nhiên do quá cứng rắn, thiếu cảnh giác, ông bị kẻ cướp giết chết trong năm Ất tị 1725, hưởng dương 34 tuổi con ông là Nguyễn Khoa Toàn cũng là bậc tài giỏi."
 }

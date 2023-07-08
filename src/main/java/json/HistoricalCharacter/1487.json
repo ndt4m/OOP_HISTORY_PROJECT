@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Hà Tây",
-  "occupation": "Liệt sĩ cận đại, người tỉnh Hà Đông ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11
+  "dateOfBirth" : "Ất Mùi 1895",
+  "dateOfDeath" : "Tân Sửu 1961",
+  "hometown" : "Quê làng Phổ Nhì, tổng Lại Đức, huyện Mộ Hoa (sau đổi là Mộ Đức) tỉnh Quảng Ngãi",
+  "occupation" : "Cao tăng hiện đại",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 1487,
-  "entityName": "Hà Tử Kính",
-  "aliases": [],
-  "overview": "Ông nhiệt thành yêu nưóc, xuất dương sang Trung Quốc, gia nhập Việt Nam Quang phục hội. Ông cùng bạn đồng hương là Nguyễn Tông Duy tích cực hoạt động cách mạng, được các đồng chí quí trọng. Ít lâu, ông bệnh mất ở Dương Thành (Quảng Châu). Nguyễn Tông Duy mất ở Long Châu. Đặng Đoàn Bằng có thơ điếu ông và Nguyên Tông Duy, cùng với Lê Thanh Hương - người Nam Định, mất ở Băng Cốc (Thái Lan). \"Thiên trùng vân sự vạn trùng san, Tứ cố thương mang lệ ám đàn. Nguyệt ám đăng vi nhân ảnh đạm, Phong thê vũ thiết kiếm quang hàn. Mộng trung xích tử đề thinh khổ, Cục lí thần châu chiến huyết ân. Bằng bối linh tinh cừu vị báo! Hải thiêm phủ ngương đoạn sầu nan.\" Bản dịch: Mây núi xa xa mấy vạn trùng, Mênh mang bốn phía lệ tuôn ròng. Trăng mờ đêm tối người phai bóng, Gió thảm mưa thê kiếm lạnh lùng! Mộng thấy trẻ con gào tiếng khóc, Cuộc nhìn trận đánh, máu xông hồng. Bạn bầu thưa thớt thù chưa báo! Trời bể sầu này khó dứt xong."
+  "id" : 1487,
+  "entityName" : "Võ Hóa",
+  "aliases" : [ "Chơn Húy", "Khánh Anh" ],
+  "overview" : "Xuất thân trong một gia đình truyền thống nho học, ông theo học chữ Hán rất sớm, đến năm 1916 ông xuất gia tu học ở các chùa ở Mộ Đức. Năm 1927 vào Nam hóa đạo và tu dạy ở chùa Giác Hoa, tỉnh Bạc Liêu, năm 1931 trụ trì chùa Long An, Trà Ôn (Cần Thơ) thuộc Nam Kì Phật học hội. Năm 1935 ông làm giảng sư tại Phật học đường Lưỡng Xuyên ở Trà Vinh và cũng là người sáng lập tạp chí Duy tâm Phật học là cơ quan hoằng pháp của Lưỡng Xuyên Phật học hội. Năm 1957 ông được suy tôn ngôi Pháp chủ Giáo hội tăng già Việt Nam, đến năm 1959 được Giáo hội Phật giáo Việt Nam tấn phong Thượng chủ (Tăng thống) Giáo hội tăng già Việt Nam. Hòa thượng viên tịch ngày 16-4-1961, thọ 66 tuổi. Hòa thượng Khánh Anh là một dịch giả Phật học, một vị chân tu đã có công đào tạo được nhiều trí thức Phật giáo hiện đại ở Nam Bộ. Tên tuổi ông được gắn liền với Lưỡng xuyên Phật học hội và Giáo hội tăng già Nam Việt."
 }

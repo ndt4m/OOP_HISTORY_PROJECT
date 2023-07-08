@@ -1,18 +1,19 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "quê huyện Nghi Xuân, tỉnh Hà Tĩnh",
-  "occupation": "Ái nữ danh sĩ Nguyễn Công Trứ, không rõ tên thật",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "1754\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath" : "1787\n----------------------------------------------\nKhông rõ",
+  "hometown" : "sinh quán ấp Tây Sơn Thượng, phủ Qui Ninh, tỉnh Bình Định (nay thuộc huyện Tây Sơn, tỉnh Bình Định)",
+  "occupation" : "Võ tướng em ruột Nguyễn Nhạc, anh kế Nguyễn Huệ, con ông Hồ Phi Phúc gốc người Nghệ An ",
+  "workTenure" : "1786 - 1787\n----------------------------------------------\nKhông rõ",
+  "fatherName" : {
+    "Nguyễn Phi Phúc" : null,
+    "Hồ Phi Phúc gốc người Nghệ An" : null
   },
-  "id": 1361,
-  "entityName": "Diệu Điển",
-  "aliases": [
-    "Diệu Điển"
-  ],
-  "overview": "Bà có nhan sắc và cũng lắm thi tài, nhưng lại nương thân chốn cửa thiền. Bà có câu thơ tự thuật: \"Nhạt màu son phấn say mùi đạo; Mở cánh từ bi, khép cánh tình\". Tao nhân mặc khách lấy làm tiếc trang khuê các có văn tài, thường gởi thơ văn trêu cợt. Bà làm một bài thơ toàn vận khó, thách họa, không ai họa được trôi chảy, thơ chế giễu, cố ý tuyệt đường khách phong hoa tuyết nguyệt của bọn văn sĩ mồm mép đương thời. Bấy lâu hì hục một vần thơ Ván đã trơn lì chiếu đã xơ. Lắc vế ngâm nga câu chẳng vẹn, Rờ cằm nhổ sạch bút còn trơ. Mực bôi bản thảo đen trăm vạch, Phấn rắc hoa tiên trắng một tờ. Nhắn nhủ tao ông ai đó tá, Đây là cửa sấm biết hay chưa? Thơ bà giọng chua cay mà thâm trầm, phần lởn đều thất lạc, không còn bao nhiêu."
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Tây Sơn" : 21
+  },
+  "id" : 1361,
+  "entityName" : "Nguyễn Lữ",
+  "aliases" : [ "Đức ông Bảy", "Nguyễn Lữ" ],
+  "overview" : "Nguyễn Lữ (chữ Hán: 阮侶; 1754-1787) hay còn gọi là Nguyễn Văn Lữ (chữ Hán: 阮文侶) là em của vua Thái Đức Hoàng đế Nguyễn Nhạc và Quang Trung Hoàng đế Nguyễn Huệ nhà Tây Sơn, một trong những triều đại hiển hách nhất về võ công của Việt Nam.\n----------------------------------------------\nĐương thời tục gọi là Đức ông Bảy. Ông cùng nghĩa quân Tây Sơn vào Nam ra Bắc đánh Nguyễn, diệt Trịnh lập nhiều chiến công rạng rỡ. Mùa xuân năm 1776, lần đầu tiên ông cầm quân vào Gia Định, so tài với nhóm quân Đông Sơn do Đỗ Thanh Nhơn cầm đầu. Chiến thắng, ông được thăng hàm Thiếu phó. Sau khi bình được đất Gia Định, ông rút quân về Qui Nhơn. Đầu năm Mậu tuất 1778, Nguyễn Nhạc lên ngôi Hoàng đế phong ông làm Tiết chế, Đông Đinh vương trông coi đất Gia Định. Tương truyền bản chất ông yếu mềm, dễ dao động nên việc cầm quân của ông không xuất sắc như anh và em ông. Ngoài ra ông còn kiêm thêm chức Giáo chủ đạo Chàm Ba Ni (đạo Hồi)."
 }

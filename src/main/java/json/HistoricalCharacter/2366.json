@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "sinh năm 1601",
-  "dateOfDeath": "Không rõ",
-  "hometown": "xã Hải Ninh, huyện Tĩnh Gia, tỉnh Thanh Hóa).",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 2366,
-  "entityName": "Lê Văn Hiểu",
-  "aliases": [
-    "Lê Tiến Hàn"
-  ],
-  "overview": "Lê Văn Hiểu (tức Lê Tiến Hàn, hay Hàn Tiến [1], Trịnh Đào, Quan Phủ Tướng Hàn) có đền thờ tại làng Năng Cải (nay là làng Cồn Vàng, thôn Hồng Phong và thôn Hạnh Phúc, xã Hải Ninh, huyện Tĩnh Gia, tỉnh Thanh Hóa). Ông sinh năm 1601 (đời vua Lê Kính Tông năm thứ 2). Sinh thời ông được phủ Chúa Trịnh đưa về nuôi dưỡng (vì thuộc dòng giống vua Lê), lớn lên ông được Chúa Trịnh Tùng gả con gái là Quận chúa Phù Dung. Do văn võ song toàn ông được phong Tiến lộc hầu, rồi được phong Tiến quận công.[2]"
+  "dateOfBirth" : "Bính Dần 1686",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "Quê xã Tả Thanh Oai, huyện Thanh Oai, tỉnh Hà Đông (nay là Hà Tây)",
+  "occupation" : "Văn thần đời Lê Dụ tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trịnh - Nguyễn" : 34
+  },
+  "id" : 2366,
+  "entityName" : "Ngô Đình Chất",
+  "aliases" : [ "Đình Oánh" ],
+  "overview" : "Năm Tân sửu 1721 ông đỗ tam giáp đồng tiến sĩ, 35 tuổi. Làm Hiến sứ ở Thanh Hóa. Không bao lâu được vời về triều làm Thiên sai đô ngự sử. Dày công lao, ông được liệt vào hàng Tuyên lực công thần, phong chức Thượng thư bộ Binh; tước Phương Đình Hầu. Năm Canh ngọ 1750, tuổi đã 64, ông xin về hưu đôi ba phen chúa Trịnh mới chấp thuận. Các quan tiễn đưa trọng thể, văn thơ chúc tụng thắm thiết. Khi triều đình có việc, vua Lê chúa Trịnh vẫn triệu ông đến, xem như cố vấn. Khi ông mất, được truy tặng Thái bảo, tước Nhuệ Quận Công. Anh ông là Đình Thạc cũng là bậc nhân tài."
 }

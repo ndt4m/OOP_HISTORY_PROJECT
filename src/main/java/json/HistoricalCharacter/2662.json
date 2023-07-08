@@ -1,16 +1,16 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Không rõ",
-  "hometown": "Không rõ",
-  "occupation": "Không rõ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "nhà Mạc": null
+  "dateOfBirth" : "Đinh Tị 1917",
+  "dateOfDeath" : "Mậu Tuất 1958",
+  "hometown" : "tại xã Hương Mỹ, huyện Mỏ Cày, tỉnh Bến Tre, lên Sài Gòn học Trường bá nghệ (tức trường Cao Thắng ngày nay)",
+  "occupation" : "Liệt sĩ hiện đại ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nước Việt Nam mới" : 29
   },
-  "id": 2662,
-  "entityName": "Mạc Cảnh Huống",
-  "aliases": [],
-  "overview": "Mạc Cảnh Huống (1542-1677 ) là người xuất thân trong hoàng tộc nhà Mạc, em của Khiêm vương Mạc Kính Điển và đồng thời là chú của Quận chúa Mạc Thị Giai (người sau này trở thành vương phi của Chúa Sãi Nguyễn Phúc Nguyên). Ông được sử triều Nguyễn ghi nhận là một trong những bậc khai quốc công thần của nhà Nguyễn buổi sơ khai trên đất Thuận Hóa. Ông cũng là người sùng bái đạo Phật. Tương truyền, do Mạc Cảnh Huống chuyên tâm thực hiện những phương pháp thiền của Phật giáo mà ông đã sống tới hơn 100 tuổi."
+  "id" : 2662,
+  "entityName" : "Đoàn Văn Bơ",
+  "aliases" : [ "Cao Hoài Đông" ],
+  "overview" : "Ông tham gia cách mạng, sau khi Nhật đảo chính ngày 9-3-1945, hoạt động trong tổ chức Thanh niên tiền phong. Ngày 23-9-1945 cuộc kháng chiến chống Pháp bùng nổ, ông theo tổ chức vào chiến khu. Cuối năm 1946, vì nhu cầu công tác ông trở về thành phố, trở lại làm việc tại xưởng Ba Son. Năm 1952 bị lộ nên lại vào chiến khu. Năm 1954, ông ở lại hoạt động ở nội thành được cử vào Thượng vụ Đặc khu Sài Gòn Chợ Lớn. Năm 1958 (ngày 31 tháng 10) ông bị bắt và mất tại nhà lao Hàng Keo Gia Định."
 }

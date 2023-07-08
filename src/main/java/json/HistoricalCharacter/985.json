@@ -1,18 +1,16 @@
 {
-  "dateOfBirth": "Giáp Tí 1684",
-  "dateOfDeath": "Mậu Dần 1758",
-  "hometown": "quê làng Kim Lũ, huyện Thanh Trì, tỉnh Hà Đông (nay là TP",
-  "occupation": "Có sách chép là Nguyễn Công Thể, Văn thần đời Lê Dụ tông",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "Quí Mùi 1477",
+  "dateOfDeath" : "Ất Dậu 1518",
+  "hometown" : "xã Câu Nhi, thôn Câu Lãm, huyện Hải Lăng, tỉnh Quảng Trị",
+  "occupation" : "Danh thần đời Lê Túc tông",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Triều Lê Sơ" : 7
   },
-  "id": 985,
-  "entityName": "Nguyễn Công Thái",
-  "aliases": [
-    "Nguyễn Công Thể"
-  ],
-  "overview": "Ông thi Hương đỗ giải nguyên, Ất mùi 1715, đỗ đồng tiến sĩ, làm Tế tửu Quốc tử giám, rồi kiêm chức Hiệu thư Đông các. Năm Quí tị 1773, thăng Tả thị lang bộ Công, rồi làm Hữu thị lang bộ Hình. Sau làm Tả thị lang bộ Lại, tước Quảng Quận Công và vẫn làm Bồi tụng ở phủ chúa."
+  "id" : 985,
+  "entityName" : "Bùi Dục Tài",
+  "aliases" : [ ],
+  "overview" : "Năm Cảnh Thống 5 (Nhâm tuất 1502), ông đỗ tiến sĩ, từ thi Hội đến thi Đình văn ứng chế đều được khen ngợi, nổi tiếng văn học uyên bác. Được bổ vào Viện Hàn lâm, làm Hiệu lí, rồi làm Tham Chính đạo Thanh Hoa. Năm đầu Hồng Thuận (Kỉ tị 1509) đời Lê Tương Dực, phải khi trong nước có biến loạn, ông khéo lo cho dân, được thăng Tả thị lang bộ Lại. Trong nhiệm vụ này, ông thuyên chuyển quan lại rất mực ngay thẳng, đương thời xưng tụng đức tính liêm khiết công bằng. Năm đầu Quang Thiệu (Bính tí 1516), đời Lê Chiêu tông, được cử làm Tham tướng, ông càng dốc lòng lo việc kinh lí, bảo an dân chúng. Sau, vì tính ông thẳng thắn, bọn gian thần lấy làm ghen ghét, mưu giết chết ông. Sau khi mất được truy tặng Lễ Bộ Thượng thư. Con ông là Bùi Vĩ sau cũng bị hại."
 }

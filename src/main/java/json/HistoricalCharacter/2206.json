@@ -1,19 +1,20 @@
 {
-  "dateOfBirth": "Đinh Sửu 1757",
-  "dateOfDeath": "Tân Mão 1831",
-  "hometown": "Quê làng Đại Hòa, huyện Hải Hưng, phủ Triệu Phong, tỉnh Quảng Trị",
-  "occupation": "Nhà toán học, danh sĩ thời Nguyễn sơ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Trịnh - Nguyễn": 34
+  "dateOfBirth" : "…",
+  "dateOfDeath" : "1546 Trung Quốc\n----------------------------------------------\nBính Ngọ 1546",
+  "hometown" : "xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách), tỉnh Hải Dương, Việt Nam.\n----------------------------------------------\nKhông rõ",
+  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua đời thứ ba nhà Mạc, con trưởng Mạc Đăng Doanh, được lập làm thái tử, nối ngôi vào năm Tân sửu 1541",
+  "workTenure" : "1540 – 1546\n----------------------------------------------\nKhông rõ",
+  "fatherName" : {
+    "Mạc Đăng Doanh" : 1224,
+    "Mạc Thái Tông" : 1574
   },
-  "id": 2206,
-  "entityName": "Nguyễn Hữu Thận",
-  "aliases": [
-    "Ý Trai",
-    "Chân Nguyên"
-  ],
-  "overview": "Ông say mê toán học từ thuở trẻ, hằng chuyên tâm nghiên cứu về môn học này. Khoảng năm Bính ngọ 1786, ông ra giúp nhà Tây Sơn, thăng đến chức Hữu thị lang bộ Hộ. Năm Nhâm tuất 1802 ông phải ra làm việc với triều đại mới - Gia Long. Buổi đầu ông làm Chế cáo ở Viện Hàn lâm, rồi làm Thiêm sự ở bộ Lại. Ít lâu vào làm Cai bạ ở Quảng Nghĩa. Năm Kỉ tị 1809 ông về triều nhậm chức Hữu tham tri bộ Lại, vài tháng sau được cử làm Chánh sứ cùng với hai Phó sứ Lê Đắc Tần và Ngô Thì Vị sang Trung Quốc. Thời gian ở Bắc Kinh ông lưu tâm tìm mua được nhiều sách quí về lịch số và toán học. Đi sứ về (tháng 5-1811) ông chuyển qua làm Hữu tham tri bộ Hộ. Năm 1812, ông làm Phó quản lí Khâm thiên giám, sau đó triều đình điều ông ra làm Hộ tào Bắc Thành, ít lâu lại trở về triều làm Thượng thư bộ Lại. Năm 1820, ông đổi làm Thượng thư bộ Hộ, trông coi việc ở Khâm thiên giám. Thời gian này ông gia công biên soạn các sách về tuổi, lịch số và toán học. Ngày 12-8-1831 (5-7 Tân mão) ông mất, thọ 74 tuổi. Các tác phẩm chính của ông: - Ý Trai toán pháp nhất đắc lục (Một điều tâm đắc về toán Pháp của Ý Trai) - Tam thiên tự lịch đại văn chú (Ba nghìn chữ chú giải văn chương các đời - dịch sách Trung Quốc) - Bách ti chức chế (nói về nhiệm vụ và thể chế các ti các sở của triều Nguyễn) biên tập chung với nhiều người."
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Mạc" : 18,
+    "Nam - Bắc Triều" : 19
+  },
+  "id" : 2206,
+  "entityName" : "Mạc Phúc Hải",
+  "aliases" : [ "Quang Hòa", "Hiển hoàng đế", "Mạc Phúc Hải (莫福海) Mạc Đức Nguyên", "Mạc Hữu Mệnh", "Nguyễn Lập", "Mạc Lập Bạo", "Mạc Ngọc Liễn", "Hiến Tông (憲宗)" ],
+  "overview" : "Mạc Hiến Tông (chữ Hán: 莫憲宗, ? – 1546) là vị Hoàng đế thứ ba của nhà Mạc trong lịch sử Việt Nam, ở ngôi từ năm 1540 đến 1546. Ông tên thật là Mạc Phúc Hải (莫福海), là người xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách), tỉnh Hải Dương, Việt Nam.\n----------------------------------------------\n"
 }

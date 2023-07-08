@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "Mậu Dần 1818",
-  "dateOfDeath": "Nhâm Tuất 1862",
-  "hometown": "quê ở La Châu, huyện Hòa Vang, phủ Điện Bàn, tỉnh Quảng Nam",
-  "occupation": "Danh sĩ đời ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Nhâm Dần 1902",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Yên Lương Động, tỉnh Gò Công (nay thuộc tỉnh Tiền Giang), không rõ năm mất",
+  "occupation" : "Luật sư quê làng Yên Lương Động, tỉnh Gò Công ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 1204,
-  "entityName": "Đỗ Thúc Tịnh",
-  "aliases": [],
-  "overview": "Năm Mậu thân 1848, ông đỗ tiến sĩ, lúc 32 tuổi (đỗ Cử nhân trong khoa Bính ngọ 1846). Sơ bổ Tri phủ Thiệu Hóa, kế đổi vào phủ Diên Khánh. Ông mộ dân lập ấp, khai khấn ruộng hoang, dân đều thương mến. Sau thăng án sát tỉnh Khánh Hòa, kế lên Hồng lô tự khanh, lãnh Bố chính sứ, rồi lại được triệu về làm Biện lí bộ Binh tại kinh đô Huế. Ông nhiệt thành yêu nước, chủ trương phải chiến đấu chống quân Pháp xâm lược. Nhất là sau khi quân Pháp chiếm ba tỉnh miền Đông Nam Kì, ông cũng phẫn uất, liền dâng sớ tình nguyện xin vào Nam chiến đấu. Ông nhận chức Khâm sai quân vụ tại các tỉnh miền Nam, hằng hiệu triệu quân dân đoàn kết cứu nước. Phong trào kháng Pháp cứu nước ở trong Nam phát triển mạnh, chính ông đã đóng góp rầt nhiều tâm huyết vào đót Nhưng chí lớn chưa thành thì ông nhuốm bệnh rồi mất, được triều đình truy tặng là Tuần phủ Định Tường, nhân dân hết lòng hâm mộ."
+  "id" : 1204,
+  "entityName" : "Vương Quang Nhường",
+  "aliases" : [ ],
+  "overview" : "Thuở nhỏ học ở Sài Gòn, sau du học Pháp, tốt nghiệp cử nhân luật Đại học Paris, từng đậu bằng Cao học công pháp và Cao học kinh tế học. Năm 1930 đậu tiến sĩ luật khoa với luận án có tên: \"Những mâu thuẫn pháp lí ở Đông Dương\" (Des Conflits de lois Indochine). Ở Pháp, ông tập sự luật sư và làm thư kí cho luật sư V.M.Hersant, rồi làm luật sư tại Tham chính viện và tòa phá án Paris. Năm 1932 ông về nước, gia nhập luật sư đoàn Nam Kì - Campuchia, và là luật sư tòa Thượng thẩm Sài Gòn trong những năm 1937-1938, 1938-1939 và 1939-1940. Tại Sài Gòn ông là thành viên Ủy ban Tương trợ Xã hội trung ương của Thành phố Sài Gòn - Chợ Lớn. Năm 1945 ông tham chánh, tham gia Hội đồng dự thảo hiên pháp (do vua Bảo Đại mời) tại Huế (theo Dụ ngày 30-6-1945), ngày 18-1-1950 giữ chức Bộ trưởng Quốc gia Giáo dục trong nội các Nguyễn Phan Long, Trần Văn Hữu (6-5-1950) Sài Gòn, đến năm 1951 kiêm nhiệm Tổng trưởng phụ tá Phủ Thủ tướng rồi Bộ trưởng Bộ tư pháp. Sau năm 1955 ông sang cư ngụ với gia đình (vợ ông là con gái vua Thành Thái, em ruột ông là Bác sĩ Vương Quang Trường) tại Pháp. Ông là tác giả các chuyên đề luật học và đồng tác giả: - Luật dân sự Trung kì (1938) - Luật hình Hoàng Việt (1933)"
 }

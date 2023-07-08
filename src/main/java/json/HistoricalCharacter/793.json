@@ -1,16 +1,17 @@
 {
-  "dateOfBirth": "Không rõ",
-  "dateOfDeath": "Ất Hợi 1875",
-  "hometown": "Tiền Giang",
-  "occupation": "Chí sĩ cận đại, nhiệt liệt tham gia kháng Pháp",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Nhà Nguyễn độc lập": 30
+  "dateOfBirth" : "Canh Tí 1900",
+  "dateOfDeath" : "Bính Thân 1956",
+  "hometown" : "quê làng Đông Bàn, huyện Diên Phước tỉnh Quảng Nam (nay là xã Điện Trung, huyện Điện Bàn, tỉnh Quảng Nam)",
+  "occupation" : "Thi sĩ, nhân sĩ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11,
+    "Nước Việt Nam mới" : 29
   },
-  "id": 793,
-  "entityName": "Âu Dương Lân",
-  "aliases": [],
-  "overview": "Ông sinh trưởng ở vùng Phú Kiết - Tịnh Hà, tỉnh Định Tường (Mĩ Tho; nay là tỉnh Tiền Giang). Xuất thân làm Tri huyện ở Thang Trông; nhưng ông chống quân cướp nước đến cùng. Giặc Pháp sai tay sai Trần Bá Lộc vừa đàn áp vừa khuyến dụ nhưng không lay chuyển được tấm lòng yêu nước của ông. Đến khi ông bị bắt, ông thản nhiên tỏ vẻ khinh bỉ quân phản bội giống nòi. Giặc hành hạ ông và cuối cùng đem chém ông tại mé sông Mĩ Tho. Mộ ông nay còn tại Mĩ Tho, xây cao với ba lớp đá ong."
+  "id" : 793,
+  "entityName" : "Phạm Phú Thuần",
+  "aliases" : [ ],
+  "overview" : "Xuất thân trong một gia đình vọng tộc khoa bảng, cháu đại thần, danh sĩ Phạm Phú Thứ. Thời trai trẻ học ở Hội An và Huế. Năm 1938, nhân bằng hữu và gia đình rước hài cốt Trần Quí Cáp (1870-1908) từ Khánh Hòa về cải táng tại Bất Nhị, ông có bài thơ truy niệm chí sĩ họ Trần: \"Bằng hướng Thai Xuyên điện nhứt tôn, Lâm phong hoài tưởng điếu trung hồn. Văn Sơn thâu nhiệm cương thường trọng, Vô Mục oan trần nhựt nguyệt hôn. Để cuộc hoàn danh thù tổ quốc, Thử sanh đại tiết khởi nho môn. Như kim phong thạch nguy nhiên trỉ, Ưng dữ hà sơn vĩnh viễn tồn. Dịch thơ: Trước mộ Thai Xuyên rót chén vàng, Viếng hồn trung liệt ngậm ngùi than! Cương thường gánh vác Văn Sơn nặng, Nhật nguyệt lu mờ Võ Mục oan. Một thác tiếng tròn vì tổ quốc, Ngàn năm tiết rạng chói nho quan. Tấm bia đồ sộ đầy ghi tạc, Mãi với non sông được vững vàng. (Cổ học tinh hoa Quảng Nam, 1960) Sau ngày toàn quốc kháng chiến (19-12-1946) ông tham gia công tác văn nghệ tại Quảng Nam và Liên khu 5 ở Bình Định. Bài thơ Về thăm làng vùng bị chiếm in lần đầu tiên ở Hà Nội (đầu năm 1948) nói lên được cuộc trường kì kháng chiến và tinh thần chịu đựng gian khổ, hi sinh của đồng bào Quảng Nam trong những. ngày đầu đánh Pháp."
 }

@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "Đinh Mùi 1907",
-  "dateOfDeath": "Đinh Mùi 1967",
-  "hometown": "quê làng Phú Thứ Thượng xã Đại Quang, huyện Đại Lộc, tỉnh Quảng Nam",
-  "occupation": "Nhà thơ ",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê làng Anh Sơn, tỉnh Nghệ An",
+  "occupation" : "Võ tướng nhà Tây Sơn",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Nhà Tây Sơn" : 21
   },
-  "id": 58,
-  "entityName": "Nguyễn Học Sĩ",
-  "aliases": [
-    "Nam Trân"
-  ],
-  "overview": "Sau khi đỗ tú tài, ông làm Tham tá tòa Khâm sứ Huế, rồi được bổ làm Tá lí bộ Lại. Những năm đầu thế kỉ ông có bài đăng ở Tạp chí Nam Phong, tạp chí Văn học và các tuần báo Sông Hương, Phong Hóa, Tràng An, Tân Tiến... Sau Cách mạng tháng Tám, ông tham gia kháng chiến, công tác ở ủy ban kháng chiến hành chánh huyện Đại Lộc, ủy ban kháng chiến hành chánh tỉnh Quảng Nam, rồi làm Chánh văn phòng ủy ban kháng chiến hành chánh liên khu V. Năm 1954 ông tập kết ra Bắc, công tác ở Ban chấp hành hội Nhà văn Việt Nam. Năm 1959 công tác tại Viện Văn học, chuyên về dịch thuật. Ông cũng là một trong những cán bộ giảng dạy lớp Đại học Hán học đầu tiên ở miền Bắc, do Ủy ban Khoa học Xã hội Việt Nam tổ chức (1965-1968). Năm Đinh mùi 1967, ngày 1-2 Dương lịch ông mất, thọ 60 tuổi. Các tác phẩm chính của ông: - Huế đẹp và thơ (tập thơ XB năm 1939) - Thơ Đường (chủ trì việc dịch ra Việt văn, 2 tập, 1962)."
+  "id" : 58,
+  "entityName" : "Lê Quốc Cầu",
+  "aliases" : [ ],
+  "overview" : "Thân phụ ông là Lê Quốc Cơ, sinh bốn trai, ông là con trưởng, ba nguời em là Lê Quốc Lý, Lê Quốc Đạm và Lê Quốc Trân. Cả bốn anh em ông đều tham gia nghĩa quân Tây Sơn. Năm Nhâm tí 1792, ông được phong tước Bá, rồi tước Hầu (Quí sửu 1793), đến Bính thìn 1796, ông được phong làm Vệ Quốc tướng quân, Đô đốc, Cầu Ngọc Hầu. Ba người em của ông cũng đều được phong tặng. Nay gia đình họ Lê Quốc ở Nghệ Tĩnh hãy còn giữ được các sắc phong."
 }

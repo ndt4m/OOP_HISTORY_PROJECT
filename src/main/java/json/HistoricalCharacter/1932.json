@@ -1,14 +1,16 @@
 {
-  "dateOfBirth": "23 tháng 2 năm 1923 Huế, Thừa Thiên Việt Nam",
-  "dateOfDeath": "23 tháng 6, 2007 (84 tuổi) Lancaster, Pennsylvania Hoa Kỳ",
-  "hometown": "Không rõ",
-  "occupation": "Thuộc",
-  "workTenure": "1941-1966",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {},
-  "id": 1932,
-  "entityName": "Nguyễn Chánh Thi",
-  "aliases": [],
-  "overview": "Nguyễn Chánh Thi (1923-2007), nguyên là một cựu tướng lĩnh gốc Nhảy dù của Quân lực Việt Nam Cộng hòa, cấp bậc Trung tướng. Ông xuất thân từ một trường Võ bị Địa phương do Chính phủ Quốc gia trong Liên hiệp Pháp mở ra ở miền Đông Nam phần. Ông đã từng là Tư lệnh một Binh chủng được xem là xuất sắc nhất và Tư lệnh một Quân đoàn giàu truyền thống nhất của Quân đội Nam Việt Nam trong thời kỳ Chiến tranh Việt Nam. Ông là người được tạp chí Times mệnh danh là \"chuyên gia đảo chính\". Bởi vì ông là một sĩ quan quân đội dính líu đến nhiều cuộc đảo chính và phản đảo chính trong lịch sử tồn tại của Việt Nam Cộng hòa."
+  "dateOfBirth" : "Canh Tuất 1910",
+  "dateOfDeath" : "Ất Dậu 1945",
+  "hometown" : "tại Gò Công, sống và làm việc tại Sài Gòn",
+  "occupation" : "Bác sĩ y khoa, Thủ lãnh Phụ nữ Tiền phong ",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Pháp đô hộ" : 11
+  },
+  "id" : 1932,
+  "entityName" : "Nguyễn Thị Sương",
+  "aliases" : [ "Madame Hồ Vĩnh Ký" ],
+  "overview" : "Thuở nhỏ học tại Trường Nữ học Sài Gòn, năm 1924 sang Pháp học ở Trường Marseille, Nice...đỗ Tú tài Triết học năm 1927. Sau đó thi đỗ vào học Trường Đại học Y khoa Paris, đến năm 1934 tốt nghiệp Bác sĩ Y khoa, năm 1935 về làm phụ giảng tại Đại học Y khoa Hà Nội. Tại đây bà kết hôn với ông Hồ Vĩnh Ký lúc ấy là sinh viên Đại học Luật khoa Hà Nội (sau ông Ký trở thành luật sư về mở văn phòng tại Sài Gòn). Năm 1943 gia đình bà về Sài Gòn, tại đây bà là người năng nỗ trong công tác xã hội. Ngày 15-4-1945 trong Đại hội Thanh niên Sài Gòn, họ (Phạm Ngọc Thạch, Kha Vạn Cân, Nguyễn Văn Thủ, bà Hồ Vĩnh Ký...) nhất trí cho ra đời một tổ chức gọi là Thanh niên Tiền phong, và bên cạnh đó có một bộ phận Phụ nữ Tiền phong do bà Hồ Vĩnh Ký làm thủ lãnh (ra đời vào trung tuần tháng 7-45). Phụ nữ Tiền phong cùng Thanh niên Tiền phong là tổ chức phục vụ xã hội, y tế đắc lực; đồng thời khơi dậy lòng yêu nước đối với giới trẻ hồi ấy, góp phần đưa đến thắng lợi trong cuộc khởi nghĩa tháng 8 năm 1945 tại Sài Gòn. Sau ngày Pháp tái chiếm Sài Gòn, gia đình bà tản cư, vừa đến Thủ Đức (nay là quận Thủ Đức) ông bà bị Ba Nhỏ (một tên giang hồ theo kháng chiến, sau bị tướng Nguyễn Bình đem ra tòa xử tử hình) bắt cóc đem đi thủ tiêu cuối năm 1945 đề cướp của."
 }

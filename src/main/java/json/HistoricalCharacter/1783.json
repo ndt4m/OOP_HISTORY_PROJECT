@@ -1,19 +1,16 @@
 {
-  "dateOfBirth": "Đinh Tị 1917",
-  "dateOfDeath": "Ất Mão 1975",
-  "hometown": "quê làng Bảo An, huyện Điện Bàn, tỉnh Quảng Nam (nay là xã Điện Quang cùng tỉnh)",
-  "occupation": "Nhà văn",
-  "workTenure": "Không rõ",
-  "fatherName": {},
-  "motherName": {},
-  "eraName": {
-    "Pháp đô hộ": 11,
-    "Nước Việt Nam mới": 29
+  "dateOfBirth" : "Không rõ",
+  "dateOfDeath" : "Không rõ",
+  "hometown" : "quê huyện Gia Hưng, tỉnh Thanh Hóa",
+  "occupation" : "Có sách chép sai là Hoàng Thiếu Hoa",
+  "workTenure" : "Không rõ",
+  "fatherName" : { },
+  "motherName" : { },
+  "eraName" : {
+    "Trưng Nữ Vương" : 10
   },
-  "id": 1783,
-  "entityName": "Nguyễn Đình",
-  "aliases": [
-    "Hàm Minh"
-  ],
-  "overview": "Thuở nhỏ học ở Huế, sau năm 1945 tham gia kháng chiến ở vùng tự do Quảng Nam. Năm 1954 tập kết ra Bắc, tham gia Hội nhà văn Việt Nam. Năm 1975 (ngày 14-11) ông mất tại Hà Nội, thọ 58 tuổi. Các tác phẩm: - Luật hỏi ngã (1939) - Đánh mấy vần (thơ, 1959) - Ngọn lửa mới nhen (thơ, 1960) - Những mũi tên nhọn (1961) - Thơ Nguyễn Đình (1978)"
+  "id" : 1783,
+  "entityName" : "Hoàng Thiều Hoa",
+  "aliases" : [ ],
+  "overview" : "Khi Hai Bà Trưng khởi nghĩa, bà nhiệt thành đóng góp công lao, tận tụy phụng sự dân tộc. Chính bà và bà Lê Chân nhận nhiệm vụ huấn luyện đoàn Nương tử quân và thường tổ chức môn thể thao \"Đánh phết ' còn lưu truyền đến nay. Kháng chiến thành công, Trưng vương phong bà là Đông cung tướng quân. Khi được phong tặng bà khiêm tốn: \"Tôi là người con gái cô đơn có cần chức tước làm chi. Quí hồ làm hết phận sự mình đối với đất nước là đủ vui rồi\". Tại làng Hiếu Quan, huyện Tam Nông, còn có đền thờ bà, hàng năm ngày 12-13 tháng giêng là ngày hội giỗ long trọng tưởng nhớ bà."
 }
