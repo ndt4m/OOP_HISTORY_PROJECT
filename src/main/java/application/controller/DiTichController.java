@@ -2,7 +2,6 @@ package application.controller;
 
 import java.io.IOException;
 
-import application.App;
 import collection.HistoricalSiteCollection;
 import entity.HistoricalSite;
 import javafx.collections.FXCollections;
@@ -96,7 +95,7 @@ public class DiTichController extends PreviousStack{
                     try {
                         previous.addAll(FXCollections.observableArrayList(siteRoot.getChildren()));
 
-                        FXMLLoader loader = new FXMLLoader(App.convertToURL("/application/DiTichDetail.fxml"));
+                        FXMLLoader loader = new FXMLLoader(getClass().getResource("/application/DiTichDetail.fxml"));
                         ScrollPane root = loader.load();
                         DiTichDetailController controller = loader.getController();
                         controller.setHistoricSite(site);
