@@ -1,29 +1,29 @@
-package application.controller;
+package newApp.controller;
+
+import java.io.IOException;
+import java.util.Map;
 
 import application.App;
+import application.controller.FigureDetailScreenController;
+import collection.HistoricalCharCollection;
 import entity.Festival;
 import entity.HistoricalCharacter;
-import collection.HistoricalCharCollection;
-import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Node;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
+import javafx.scene.control.ScrollPane;
+import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.FlowPane;
 import javafx.scene.paint.Color;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
-import java.io.IOException;
-import java.util.Map;
-
-public class FesDetailScreenController {
-    @FXML
-    private Text overviewText;
+public class FestivalDetailController {
 
     @FXML
-    private Text nameText;
+    private FlowPane aliasFlowPane;
 
     @FXML
     private Text dateText;
@@ -32,20 +32,18 @@ public class FesDetailScreenController {
     private Text locationText;
 
     @FXML
-    private TopBarController topBarController = new TopBarController();
+    private Text nameText;
+
+    @FXML
+    private Text overviewText;
 
     @FXML
     private FlowPane relatedCharsFlowPane;
 
     @FXML
-    private FlowPane aliasFlowPane;
+    private ScrollPane fesDetailRoot;
 
-    private Festival fes;
 
-    @FXML
-    public void onClickBack(ActionEvent event) throws IOException {
-        topBarController.switchByGetFxml("/application/FestivalScreen.fxml", event);
-    }
 
     public void setFestival(Festival fes) {
         HistoricalCharCollection historicalCharCollection = new HistoricalCharCollection();
@@ -56,7 +54,6 @@ public class FesDetailScreenController {
             e.printStackTrace();
         }
 
-        this.fes = fes;
         nameText.setText(fes.getEntityName());
         dateText.setText(fes.getTime());
         locationText.setText(fes.getLocation());
@@ -78,15 +75,14 @@ public class FesDetailScreenController {
                 figureText.setOnMouseClicked(mouseEvent -> {
                     HistoricalCharacter figure = historicalCharCollection.get(entry.getValue());
                     try {
-                        FXMLLoader loader = new FXMLLoader(App.convertToURL("/application/FigureDetailScreen.fxml"));
-                        Parent root = loader.load();
-                        FigureDetailScreenController controller = loader.getController();
+                        FXMLLoader loader = new FXMLLoader(getClass().getResource("/newApp/CharacterDetail"));
+                        ScrollPane root = loader.load();
+                        CharacterDetailController controller = loader.getController();
                         controller.setFigure(figure);
-                        Scene scene = new Scene(root);
-                        Stage stage = (Stage)((Node)mouseEvent.getSource()).getScene().getWindow();
-                        stage.setScene(scene);
-                        stage.setResizable(false);
-                        stage.show();
+
+                        BorderPane parent = (BorderPane)fesDetailRoot.getParent();
+                        parent.setCenter(root);
+                        relatedCharsFlowPane.getChildren().add(figureText);
                     } catch (IOException e){
                         e.printStackTrace();
                     }
@@ -95,4 +91,5 @@ public class FesDetailScreenController {
             relatedCharsFlowPane.getChildren().add(figureText);
         }
     }
+
 }

@@ -63,12 +63,15 @@
                                                         <Insets />
                                                     </HBox.margin>
                                                 </VBox>
-                                    <TextFlow fx:id="aliasTextFlow" prefHeight="200.0" prefWidth="200.0">
+                                    <TextFlow fx:id="aliasTextFlow">
                                        <HBox.margin>
                                           <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
                                        </HBox.margin>
                                     </TextFlow>
                                             </children>
+                                 <VBox.margin>
+                                    <Insets />
+                                 </VBox.margin>
                                         </HBox>
                                         <HBox>
                                             <children>
@@ -88,7 +91,7 @@
                                                     <children>
                                                         <Text fx:id="hometownText" strokeType="OUTSIDE" strokeWidth="0.0" text="hometownText" wrappingWidth="627.130744934082">
                                                             <VBox.margin>
-                                                                <Insets bottom="10.0" left="10.0" top="10.0" />
+                                                                <Insets bottom="10.0" left="10.0" />
                                                             </VBox.margin>
                                                         </Text>
                                                     </children>
@@ -162,7 +165,7 @@
                                                         </Label>
                                                     </children>
                                                     <HBox.margin>
-                                                        <Insets top="10.0" />
+                                                        <Insets />
                                                     </HBox.margin>
                                                 </VBox>
                                                 <VBox HBox.hgrow="ALWAYS">

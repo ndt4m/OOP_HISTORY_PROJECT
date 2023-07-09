@@ -26,7 +26,6 @@ public abstract class EntityCollection <T extends Entity>
         for(Entity e: this.data)
         {
             e.setId(i);
-            //System.out.println(i);
             i++;
         }
 
