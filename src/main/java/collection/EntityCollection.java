@@ -2,13 +2,13 @@ package collection;
 
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
-import javafx.collections.transformation.FilteredList;
 
 import java.util.Collection;
 
 import entity.Entity;
+import javafx.collections.transformation.FilteredList;
 
-public abstract class EntityCollection <T extends Entity>
+public abstract class EntityCollection <T extends Entity> implements JsonFilesHandling
 {
     protected ObservableList<T> data = FXCollections.observableArrayList();
 
@@ -60,5 +60,4 @@ public abstract class EntityCollection <T extends Entity>
     public FilteredList<T> searchByName(String name){
         return new FilteredList<>(data, entity -> entity.searchName(name));
     }
-
 }

@@ -12,8 +12,10 @@ import java.nio.file.Path;
 import java.io.IOException;
 
 
-public class EventCollection extends EntityCollection<Event> implements EventJsonFilesHandling
+public class EventCollection extends EntityCollection<Event>
 {
+    public final static String DIR_NAME = "\\Event";
+
     public void toJsonFiles()
     {
         for (Entity event: this.getData())
@@ -25,7 +27,7 @@ public class EventCollection extends EntityCollection<Event> implements EventJso
 
     public void loadJsonFiles() throws IOException
     {
-        List<Event> eventList = new ArrayList<>();
+        List<Event> eventList = new ArrayList<Event>();
         Stream<Path> paths = Files.list(Paths.get(JsonUtils.PREFIX_URL + EventCollection.DIR_NAME));
         paths.forEach(path -> {
             eventList.add(JsonUtils.fromJsonFile(path.toString(), Event.class));

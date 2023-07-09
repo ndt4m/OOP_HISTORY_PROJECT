@@ -11,8 +11,10 @@ import java.util.stream.Stream;
 import java.nio.file.Paths;
 import java.nio.file.Path;
 
-public class HistoricalSiteCollection extends EntityCollection<HistoricalSite> implements HistoricalSiteJsonFilesHandling
+public class HistoricalSiteCollection extends EntityCollection<HistoricalSite>
 {
+    public final static String DIR_NAME = "\\HistoricalSite";
+
     public void toJsonFiles()
     {
         for (Entity historicalsite: this.getData())

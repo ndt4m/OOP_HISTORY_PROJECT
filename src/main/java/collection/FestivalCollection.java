@@ -11,8 +11,10 @@ import java.util.stream.Stream;
 import java.nio.file.Paths;
 import java.nio.file.Path;
 
-public class FestivalCollection extends EntityCollection<Festival> implements FestivalJsonFilesHandling
+public class FestivalCollection extends EntityCollection<Festival>
 {
+    public final static String DIR_NAME = "\\Festival";
+
     public void toJsonFiles()
     {
         for (Entity festival: this.getData())

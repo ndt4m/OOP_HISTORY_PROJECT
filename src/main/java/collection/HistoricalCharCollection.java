@@ -11,8 +11,10 @@ import java.util.stream.Stream;
 import java.nio.file.Paths;
 import java.nio.file.Path;
 
-public class HistoricalCharCollection extends EntityCollection<HistoricalCharacter> implements HistoricalCharJsonFilesHandling
+public class HistoricalCharCollection extends EntityCollection<HistoricalCharacter>
 {
+    public final static String DIR_NAME = "\\HistoricalCharacter";
+
     public void toJsonFiles()
     {
         for (Entity historicalchar: this.getData())
