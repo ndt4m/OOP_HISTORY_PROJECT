@@ -112,7 +112,6 @@ public class CrawlHistoricalSiteFromNKS extends CrawlHistoricalSite
             for (Element a : doc.select("#content > div.com-tags-tag.tag-category > div.com-tags__items > ul > li > a"))
             {
                 urls.add("https://nguoikesu.com" + a.attr("href"));
-                //System.out.println("https://nguoikesu.com" + a.attr("href"));
                 //break;
             }
         }

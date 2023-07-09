@@ -31,7 +31,7 @@ public class EventController extends PreviousStack{
     private TableView<Event> eventTable;
 
     @FXML
-    private searchBarController searchBarController;
+    private SearchBarController searchBarController;
 
     @FXML
     private BorderPane eventRoot;
@@ -47,7 +47,6 @@ public class EventController extends PreviousStack{
         try {
             eventCollection.loadJsonFiles();
         } catch (IOException e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
 
@@ -66,7 +65,7 @@ public class EventController extends PreviousStack{
         eventTable.setItems(eventCollection.getData());
 
         searchBarController.setSearchBoxListener(
-                new searchBoxListener() {
+                new SearchBoxListener() {
                     @Override
                     public void handleSearchName(String name) {
                         eventTable.setItems(eventCollection.searchByName(name));

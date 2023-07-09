@@ -5,7 +5,7 @@ import javafx.fxml.FXML;
 import javafx.scene.control.ComboBox;
 import javafx.scene.control.TextField;
 
-public class searchBarController {
+public class SearchBarController {
 
     @FXML
     private ComboBox<String> filterComboBox;
@@ -13,12 +13,11 @@ public class searchBarController {
     @FXML
     private TextField searchBox;
 
-    private searchBoxListener searchBoxListener;
+    private SearchBoxListener searchBoxListener;
 
-    public void setSearchBoxListener(searchBoxListener searchBoxListener) {
+    public void setSearchBoxListener(SearchBoxListener searchBoxListener) {
         this.searchBoxListener = searchBoxListener;
     }
-
 
     @FXML
     public void initialize() {
@@ -27,7 +26,7 @@ public class searchBarController {
 
         filterComboBox.getSelectionModel().selectFirst();
 
-        filterComboBox.setOnAction((e) -> {
+        filterComboBox.setOnAction(e -> {
             if (searchBox.getText().isBlank()){
                 searchBoxListener.handleBlank();
             } else {

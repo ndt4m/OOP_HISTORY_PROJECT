@@ -17,6 +17,7 @@ import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.FlowPane;
 import javafx.scene.paint.Color;
 import javafx.scene.text.Text;
+import javafx.scene.text.TextFlow;
 
 public class EraDetailController extends PreviousStack{
 
@@ -33,7 +34,7 @@ public class EraDetailController extends PreviousStack{
     private Text nameText;
 
     @FXML
-    private Text overviewText;
+    private TextFlow overviewTextFlow;
 
     @FXML
     private FlowPane relatedCharFlowPane;
@@ -42,14 +43,14 @@ public class EraDetailController extends PreviousStack{
     private Text timeText;
 
     @FXML
-    private ScrollPane EraDetailRoot;
+    private ScrollPane eraDetailRoot;
 
     @FXML
     private Button back;
 
     @FXML
     void backPressed(ActionEvent event) {
-        BorderPane parent = (BorderPane) EraDetailRoot.getParent();
+        BorderPane parent = (BorderPane) eraDetailRoot.getParent();
         Node preNode = previous.remove(previous.size() - 1);
         parent.setCenter(preNode);
     }
@@ -59,7 +60,6 @@ public class EraDetailController extends PreviousStack{
         try {
             historicalCharCollection.loadJsonFiles();
         } catch (IOException e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
         nameText.setText(era.getEntityName());
@@ -76,7 +76,7 @@ public class EraDetailController extends PreviousStack{
             aliasFlowPane.getChildren().add(new Text("Không rõ"));
         }
 
-        overviewText.setText(era.getOverview());
+        overviewTextFlow.getChildren().add(new Text (era.getOverview()));
         for(Map.Entry<String, Integer> entry : era.getRelatedCharacters().entrySet()){
             Text relatedCharText = new Text(entry.getKey());
             if(entry.getValue() != null) {
@@ -84,13 +84,13 @@ public class EraDetailController extends PreviousStack{
                 relatedCharText.setOnMouseClicked(mouseEvent -> {
                     HistoricalCharacter figure = historicalCharCollection.get(entry.getValue());
                     try {
-                        previous.addAll(FXCollections.observableArrayList(EraDetailRoot));
+                        previous.addAll(FXCollections.observableArrayList(eraDetailRoot));
                         FXMLLoader loader = new FXMLLoader(getClass().getResource("/application/CharacterDetail.fxml"));
                         ScrollPane root = loader.load();
                         CharacterDetailController controller = loader.getController();
                         controller.setFigure(figure);
 
-                        BorderPane parent = (BorderPane) EraDetailRoot.getParent();
+                        BorderPane parent = (BorderPane) eraDetailRoot.getParent();
                         parent.setCenter(root);
 
 

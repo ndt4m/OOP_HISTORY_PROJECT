@@ -3,8 +3,8 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.layout.BorderPane?>
 
-<BorderPane fx:id="trangchu" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1">
+<BorderPane xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1">
    <center>
-      <AnchorPane styleClass="background" stylesheets="@../stylesheet/mainStyleSheet.css" BorderPane.alignment="CENTER" />
+      <AnchorPane minHeight="350.0" minWidth="750.0" styleClass="background" stylesheets="@../stylesheet/mainStyleSheet.css" BorderPane.alignment="CENTER" />
    </center>
 </BorderPane>

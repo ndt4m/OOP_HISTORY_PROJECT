@@ -44,7 +44,6 @@ public class Crawler
     public boolean isUpperCase(String s)
     {
         String words[] = s.split("_");
-        //System.out.println(new ArrayList<String>(Arrays.asList(s.split(" "))));
         for (String word : words)
         {
             if (!Character.isUpperCase(word.charAt(0)))
@@ -75,8 +74,6 @@ public class Crawler
                 {
 
                     result.add(normalWord);
-                    //System.out.println(normalWord);
-
                 }
             }
         }
@@ -259,8 +256,6 @@ class NewVNCoreNLP extends VnCoreNLP
 
     public void annotate(NewAnnotation newAnnotation) throws IOException {
         List<String> rawSentences = Tokenizer.joinSentences(Tokenizer.tokenize(newAnnotation.getRawText()));
-        // System.out.println("=============="+rawSentences.size()+"=============");
-        // System.out.println("=============="+annotation.getRawText().split(".").length+"=============");
         newAnnotation.setNewSentences(new ArrayList<>());
         for (String rawSentence : rawSentences) {
             if (rawSentence.trim().length() > 0) {

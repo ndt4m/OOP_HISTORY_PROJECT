@@ -48,7 +48,7 @@ public class CharacterDetailController extends PreviousStack{
     private Text occupationText;
 
     @FXML
-    private Text overviewText;
+    private TextFlow overviewTextFlow;
 
     @FXML
     private ScrollPane charDetailRoot;
@@ -94,7 +94,7 @@ public class CharacterDetailController extends PreviousStack{
 
         dateOfBirthText.setText(character.getDateOfBirth());
         dateOfDeathText.setText(character.getDateOfDeath());
-        overviewText.setText(character.getOverview());
+        overviewTextFlow.getChildren().add(new Text (character.getOverview()));
         workTenureText.setText(character.getWorkTenure());
         hometownText.setText(character.getHometown());
         occupationText.setText(character.getOccupation());

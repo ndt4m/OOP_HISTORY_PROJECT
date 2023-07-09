@@ -28,7 +28,7 @@ public class CharacterController extends PreviousStack{
     private TableView<HistoricalCharacter> tblFigure;
 
     @FXML
-    private searchBarController searchBarController;
+    private SearchBarController searchBarController;
 
     @FXML
     private BorderPane charRoot;
@@ -43,7 +43,6 @@ public class CharacterController extends PreviousStack{
         try {
             historicalCharCollection.loadJsonFiles();
         } catch (IOException e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
 
@@ -58,7 +57,7 @@ public class CharacterController extends PreviousStack{
 
 
         searchBarController.setSearchBoxListener(
-                new searchBoxListener() {
+                new SearchBoxListener() {
                     @Override
                     public void handleSearchName(String name) {
                         tblFigure.setItems(historicalCharCollection.searchByName(name));

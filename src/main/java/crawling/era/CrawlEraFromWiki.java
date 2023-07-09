@@ -80,8 +80,7 @@ public class CrawlEraFromWiki extends CrawlEra
             result.set(0, matcher.group(1));
             result.set(1, matcher.group(2));
         }
-        //System.out.println(result.get(0));
-        //System.out.println(result.get(1));
+
         return result;
     }
 
@@ -177,8 +176,7 @@ public class CrawlEraFromWiki extends CrawlEra
         Elements childDivElement = doc.selectFirst("div[class=mw-parser-output]").children();
 
         Element founderAndCapital = doc.selectFirst("#mw-content-text > div.mw-parser-output > table:nth-child(91) > tbody");
-        //System.out.println(childDivElement.get(3).tagName());
-        //int j = 1;
+
         for (int i = 0; i < childDivElement.size(); i++)
         {
             Element currentElement = childDivElement.get(i);
@@ -195,7 +193,6 @@ public class CrawlEraFromWiki extends CrawlEra
             ArrayList<String> relatedCharacters = new ArrayList<>();
 
             String textSpanClass = currentElement.selectFirst("span[class=mw-headline]").text();
-            //System.out.println("----/"+ currentElement + "\\-----");
             if (textSpanClass.isEmpty())
             {
                 continue;
@@ -255,7 +252,6 @@ public class CrawlEraFromWiki extends CrawlEra
                         aliases.add(result.get(2));
                     }
 
-                    //System.out.println("-----------------------------------------" + j + "--------------------------------------------------------");
                     outPutStream.println("eraName: " + eraName);
                     outPutStream.println("time: " + time);
                     outPutStream.println("overview: " + overview);
@@ -274,7 +270,6 @@ public class CrawlEraFromWiki extends CrawlEra
                             new HashSet<>(relatedCharacters)));
 
 
-                    //j++;
                     overview = "Không rõ";
                     relatedCharacters.clear();
                     aliases.clear();

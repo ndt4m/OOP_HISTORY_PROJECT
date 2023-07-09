@@ -31,6 +31,10 @@ public abstract class EntityCollection <T extends Entity>
 
     }
 
+    /**
+     * tìm kiếm theo id của dữ liệu
+     * @param id id cần tìm kiếm
+     */
     public T get(Integer id)
     {
         if (id == null)
@@ -48,6 +52,11 @@ public abstract class EntityCollection <T extends Entity>
         return null;
     }
 
+    /**
+     *
+     * @param name kí tự cần tìm kiếm
+     * @return danh sách các dữ liệu có chứa những kí tự tìm kiếm
+     */
     public FilteredList<T> searchByName(String name){
         return new FilteredList<>(data, entity -> entity.searchName(name));
     }

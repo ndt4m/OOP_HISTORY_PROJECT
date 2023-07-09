@@ -21,7 +21,6 @@ public class JsonUtils
             FileWriter fileWriter = new FileWriter(PREFIX_URL + fileName);
             GSON.toJson(object, fileWriter);
             fileWriter.close();
-//            System.out.println("[+] Object has saved successfully into " + PREFIX_URL + fileName);
 
         } catch (IOException e){
 //            System.err.println("[-] Error in saving a json file.");
@@ -33,7 +32,6 @@ public class JsonUtils
             FileReader fileReader = new FileReader(filePath);
             T entity = GSON.fromJson(fileReader, typeClass);
             fileReader.close();
-//            System.out.println("[+] Object has been loaded successfully from " + filePath);
 
             return entity;
         } catch (IOException e) {

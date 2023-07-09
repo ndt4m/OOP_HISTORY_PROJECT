@@ -2,7 +2,6 @@ package application.controller;
 
 import java.io.IOException;
 
-
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
@@ -17,10 +16,10 @@ public class MainController extends PreviousStack{
     private ButtonBar buttonBar;
 
     @FXML
-    private ToggleButton Era;
+    private ToggleButton era;
 
     @FXML
-    private ToggleButton HisSite;
+    private ToggleButton hisSite;
 
     @FXML
     private ToggleButton character;
@@ -38,7 +37,7 @@ public class MainController extends PreviousStack{
     private BorderPane main;
 
     @FXML
-    private ToggleButton trangchu;
+    private ToggleButton trangChu;
 
 
     @FXML
@@ -50,11 +49,12 @@ public class MainController extends PreviousStack{
     private BorderPane eventBox;
     private BorderPane fesBox;
     private BorderPane eraBox;
-    private ToggleButton currentButton = trangchu;
+    private ToggleButton currentButton = trangChu;  // lưu trang đang hiện thị hiện tại
 
     @FXML
-    void EraPressed(ActionEvent event) {
-        if (currentButton != Era){
+    void eraPressed(ActionEvent event) {
+        checkPrevious();
+        if (currentButton != era){
             FXMLLoader loadEra = new FXMLLoader(getClass().getResource("/application/Era.fxml"));
             try {
                 eraBox = loadEra.load();
@@ -62,14 +62,15 @@ public class MainController extends PreviousStack{
                 e.printStackTrace();
             }
             main.setCenter(eraBox);
-            currentButton = Era;
+            currentButton = era;
         }
-        Era.setSelected(true);
+        era.setSelected(true);
     }
 
     @FXML
-    void HisSitePressed(ActionEvent event) {
-        if (currentButton != HisSite){
+    void hisSitePressed(ActionEvent event) {
+        checkPrevious();
+        if (currentButton != hisSite){
             FXMLLoader loadDiTich = new FXMLLoader(getClass().getResource("/application/DiTich.fxml"));
             try {
                 diTichBox = loadDiTich.load();
@@ -77,14 +78,15 @@ public class MainController extends PreviousStack{
                 e.printStackTrace();
             }
             main.setCenter(diTichBox);
-            currentButton = HisSite;
+            currentButton = hisSite;
         }
-        HisSite.setSelected(true);
+        hisSite.setSelected(true);
     }
 
 
     @FXML
     void characterPressed(ActionEvent event) {
+        checkPrevious();
         if (currentButton != character){
             FXMLLoader loadChar = new FXMLLoader(getClass().getResource("/application/Character.fxml"));
             try {
@@ -100,6 +102,7 @@ public class MainController extends PreviousStack{
 
     @FXML
     void eventPressed(ActionEvent event1) {
+        checkPrevious();
         if (currentButton != event){
             FXMLLoader loadEvent = new FXMLLoader(getClass().getResource("/application/Event.fxml"));
             try {
@@ -115,6 +118,7 @@ public class MainController extends PreviousStack{
 
     @FXML
     void festivalPressed(ActionEvent event) {
+        checkPrevious();
         if (currentButton != festival){
             FXMLLoader loadFes = new FXMLLoader(getClass().getResource("/application/Festival.fxml"));
             try {
@@ -130,12 +134,13 @@ public class MainController extends PreviousStack{
     }
 
     @FXML
-    void trangchuPressed(ActionEvent event) {
-        if(currentButton != trangchu){
+    void trangChuPressed(ActionEvent event) {
+        checkPrevious();
+        if(currentButton != trangChu){
             main.setCenter(homeBox);
-            currentButton = trangchu;
+            currentButton = trangChu;
         }
-        trangchu.setSelected(true);
+        trangChu.setSelected(true);
     }
 
     @FXML
@@ -146,6 +151,13 @@ public class MainController extends PreviousStack{
 
         } catch (IOException e) {
             e.printStackTrace();
+        }
+    }
+
+    void checkPrevious(){
+        if (!previous.isEmpty()) {
+            currentButton = null;
+            previous.clear();
         }
     }
 }

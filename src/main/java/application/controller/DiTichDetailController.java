@@ -59,7 +59,6 @@ public class DiTichDetailController extends PreviousStack{
         try {
             historicalCharCollection.loadJsonFiles();
         } catch (IOException e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
 

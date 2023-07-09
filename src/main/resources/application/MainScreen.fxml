@@ -30,7 +30,7 @@
                     <children>
                         <ButtonBar fx:id="buttonBar" buttonMinWidth="30.0" stylesheets="@../stylesheet/mainScreen.css">
                             <buttons>
-                                <ToggleButton fx:id="trangchu" cache="true" mnemonicParsing="false" onAction="#trangchuPressed" selected="true" text="Trang chủ">
+                                <ToggleButton fx:id="trangChu" cache="true" mnemonicParsing="false" onAction="#trangChuPressed" selected="true" text="Trang chủ">
                                     <font>
                                         <Font size="14.0" />
                                     </font>
@@ -49,7 +49,7 @@
                                         <Cursor fx:constant="HAND" />
                                     </cursor>
                                 </ToggleButton>
-                                <ToggleButton fx:id="HisSite" layoutX="596.0" layoutY="43.0" mnemonicParsing="false" onAction="#HisSitePressed" text="Di tích" toggleGroup="$identify">
+                                <ToggleButton fx:id="hisSite" layoutX="596.0" layoutY="43.0" mnemonicParsing="false" onAction="#hisSitePressed" text="Di tích" toggleGroup="$identify">
                                     <font>
                                         <Font size="14.0" />
                                     </font>
@@ -57,7 +57,7 @@
                                         <Cursor fx:constant="HAND" />
                                     </cursor>
                                 </ToggleButton>
-                                <ToggleButton fx:id="Era" layoutX="605.0" layoutY="43.0" mnemonicParsing="false" onAction="#EraPressed" text="Triều đại" toggleGroup="$identify">
+                                <ToggleButton fx:id="era" layoutX="605.0" layoutY="43.0" mnemonicParsing="false" onAction="#eraPressed" text="Triều đại" toggleGroup="$identify">
                                     <font>
                                         <Font size="14.0" />
                                     </font>

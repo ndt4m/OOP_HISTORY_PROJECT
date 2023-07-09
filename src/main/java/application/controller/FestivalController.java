@@ -31,7 +31,7 @@ public class FestivalController extends PreviousStack{
     private TableView<Festival> fesTable;
 
     @FXML
-    private searchBarController searchBarController;
+    private SearchBarController searchBarController;
 
     @FXML
     private BorderPane fesRoot;
@@ -41,14 +41,12 @@ public class FestivalController extends PreviousStack{
 
 
 
-
     @FXML
     void initialize() {
         FestivalCollection festivalCollection = new FestivalCollection();
         try {
             festivalCollection.loadJsonFiles();
         } catch (IOException e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
 
@@ -67,7 +65,7 @@ public class FestivalController extends PreviousStack{
         fesTable.setItems(festivalCollection.getData());
 
         searchBarController.setSearchBoxListener(
-                new searchBoxListener() {
+                new SearchBoxListener() {
                     @Override
                     public void handleSearchName(String name) {
                         fesTable.setItems(festivalCollection.searchByName(name));

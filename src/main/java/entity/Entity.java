@@ -84,6 +84,11 @@ public abstract class Entity
         return false;
     }
 
+    /**
+     * tìm kiếm tên theo tên thật và tên khác
+     * @param name tên tìm kiếm
+     * @return true/ false
+     */
     public boolean searchName(String name){
         Set<String> lowercaseAliases = new HashSet<>();
         for (String alias : getAliases()) {

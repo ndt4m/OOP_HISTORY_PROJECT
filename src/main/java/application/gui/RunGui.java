@@ -19,6 +19,7 @@ public class RunGui extends Application{
         try {
             rootParent = loader.load();
             scene = new Scene(rootParent, 1100, 600);
+            stage.setTitle("History of Vietnam");
             stage.getIcons().add(new Image(getClass().getResourceAsStream("/images/logo.png")));
             stage.setScene(scene);
             stage.show();

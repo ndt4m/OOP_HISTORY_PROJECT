@@ -5,7 +5,7 @@ package application.controller;
  * tìm kiếm khi sử dụng thanh tìm kiếm trên giao diện
  */
 
-public interface searchBoxListener {
+public interface SearchBoxListener {
 
     /**
      * Định nghĩa phương thức thực thi khi có sự kiện tìm kiếm theo tên

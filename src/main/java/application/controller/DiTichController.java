@@ -30,7 +30,7 @@ public class DiTichController extends PreviousStack{
     private TableView<HistoricalSite> siteTable;
 
     @FXML
-    private searchBarController searchBarController;
+    private SearchBarController searchBarController;
 
     @FXML
     private BorderPane siteRoot;
@@ -44,7 +44,6 @@ public class DiTichController extends PreviousStack{
         try {
             historicalSiteCollection.loadJsonFiles();
         } catch (IOException e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
 
@@ -60,7 +59,7 @@ public class DiTichController extends PreviousStack{
         siteTable.setItems(historicalSiteCollection.getData());
 
         searchBarController.setSearchBoxListener(
-                new searchBoxListener() {
+                new SearchBoxListener() {
                     @Override
                     public void handleSearchName(String name) {
                         siteTable.setItems(historicalSiteCollection.searchByName(name));

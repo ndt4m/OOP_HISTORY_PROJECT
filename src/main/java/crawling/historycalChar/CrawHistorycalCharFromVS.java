@@ -106,7 +106,6 @@ public class CrawHistorycalCharFromVS extends CrawlHistoricalChar
     public List<String> extractFatherNameAndMotherNameBy(String s)
     {
         List<String> result = new ArrayList<String>();
-        //System.out.println(result);
         String regex = "(?:con trai của|con gái của|ông là con của|mẹ của ông là|bố của ông là|thân sinh là|Ông là con|con chí sĩ|con trai lớn của|con trai lớn (?:ông|bà)|con xử sĩ|con ông|con trưởng|con thứ (?:hai|ba|tư|năm|sáu|bảy|tám|chín|mười|\\d+)(?: của|)|con tiến sĩ|con ông|con của|con trai|con trai của) *(.+?)[,.;()]";
         Pattern pattern = Pattern.compile(regex, Pattern.CASE_INSENSITIVE);
         Matcher matcher = pattern.matcher(s);
@@ -252,13 +251,9 @@ public class CrawHistorycalCharFromVS extends CrawlHistoricalChar
             for (Element a : doc.select("body > div.ui.container > table > tbody > tr > td:nth-child(1) > a:nth-child(1)"))
             {
                 urls.add("https://vansu.vn" + a.attr("href"));
-                //System.out.println("https://vansu.vn" + a.attr("href"));
-                //break;/////////////////REMEMBER TO DELETE THIS//////////
             }
             //break;
         }
-        //System.out.println(urls.size());
-
         return urls;
     }
 
@@ -284,7 +279,6 @@ public class CrawHistorycalCharFromVS extends CrawlHistoricalChar
 
 
         charName = (doc.selectFirst("div[class=active section]") != null) ? doc.selectFirst("div[class=active section]").text() : "Không rõ";
-        //System.out.println(charName);
 
         Element table = doc.selectFirst("table[class=ui selectable celled table] > tbody");
         if (table == null)
@@ -307,10 +301,8 @@ public class CrawHistorycalCharFromVS extends CrawlHistoricalChar
         int tableSize = table.children().size();
 
         overview = table.child(tableSize - 1).select("p:not(:first-child)").text();
-        //System.out.println(overview);
 
         eraName = extractEraNameBy(table.child(tableSize - 2).selectFirst("td:nth-child(2)").text());
-        //System.out.println(eraName);
 
         List<String> result;
 
@@ -328,9 +320,7 @@ public class CrawHistorycalCharFromVS extends CrawlHistoricalChar
         }
 
         occupation = extractOccupationBy(first_pTagContent);
-        //System.out.println("------/" + occupation + "\\-----");
         result = extractHometownBy(first_pTagContent);
-        //System.out.println("------/" + result + "\\-----");
 
         if (result.get(1).equals("Không rõ"))
         {
@@ -340,7 +330,6 @@ public class CrawHistorycalCharFromVS extends CrawlHistoricalChar
         {
             hometown = result.get(1);
         }
-        //System.out.println(first_pTagContent);
 
         if (tableSize == 3)
         {
@@ -408,18 +397,6 @@ public class CrawHistorycalCharFromVS extends CrawlHistoricalChar
 
         }
 
-        // System.out.println("charName: " + charName);
-        // System.out.println("eraName: " + eraName);
-        // System.out.println("dateOfBirth: " + dateOfBirth);
-        // System.out.println("dateOfDeath: " + dateOfDeath);
-        // System.out.println("fatherName: " + fatherName);
-        // System.out.println("motherName: " + motherName);
-        // System.out.println("hometown: " + hometown);
-        // System.out.println("occupation: " + occupation);
-        // System.out.println("workTenure: " + workTenure);
-        // System.out.println("overview: " + overview);
-        // System.out.println("aliases: " + aliases);
-        // System.out.println("=================================================================");
         fw.write("charName: " + charName + "\n");
         fw.write("eraName: " + eraName + "\n");
         fw.write("dateOfBirth: " + dateOfBirth + "\n");

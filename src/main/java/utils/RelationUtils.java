@@ -17,6 +17,9 @@ import entity.Festival;
 import entity.HistoricalCharacter;
 import entity.HistoricalSite;
 
+/**
+ * tạo những tìm kiếm có liên quan giữa các dữ liệu với nhau
+ */
 public class RelationUtils
 {
     public static void relateCharToEra(EraCollection eraCollection, HistoricalCharCollection charCollection, EraCollection newEraCollection)
@@ -262,10 +265,6 @@ public class RelationUtils
         HistoricalCharCollection newCharCollection2 = new HistoricalCharCollection();
         RelationUtils.relate_Father_Mother_ToChar(charCollection, newCharCollection2);
         newCharCollection2.toJsonFiles();
-        // for (HistoricalCharacter figure: newCharCollection2.getData())
-        // {
-        //     String fileName = "\\test\\" + figure.getId() + ".json";
-        //     JsonUtils.toJsonFile(fileName, figure);
-        // }
+
     }
 }

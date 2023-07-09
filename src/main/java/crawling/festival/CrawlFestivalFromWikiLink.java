@@ -124,7 +124,6 @@ public class CrawlFestivalFromWikiLink extends CrawlFestival
         Elements liTags = doc.select("#mw-content-text > div.mw-parser-output > ul:nth-child(27) > li");
         liTags.remove(liTags.size() - 1);
         liTags.select("sup").remove();
-        //System.out.println(liTags.get(liTags.size()-1).text());
 
         for (Element liTag : liTags)
         {

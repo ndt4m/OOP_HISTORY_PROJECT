@@ -67,7 +67,6 @@ public class CrawlHistoricalSiteFromFirstWikiLink extends CrawlHistoricalSite
     {
         List<HistoricalSite> historicalsiteList = new ArrayList<HistoricalSite>();
 
-        //PrintStream outPutStream = new PrintStream("output.txt");
         PrintStream outPutStreamHistorycalSite = new PrintStream("outputHistoricalSiteWiki1.txt");
 
         Document doc = Jsoup.connect(url).get();
@@ -167,14 +166,6 @@ public class CrawlHistoricalSiteFromFirstWikiLink extends CrawlHistoricalSite
                     }
                 }
 
-                // System.out.println("historicalSiteName: " + historicalSiteName);
-                // System.out.println("Location: " + location);
-                // System.out.println("establishment: " + establishment);
-                // System.out.println("Category: " + category);
-                // System.out.println("aliase: " + aliases);
-                // System.out.println("RelatedCharacter: " + relatedCharacters);
-                // System.out.println("overview: " + overview);
-                // System.out.println("================================================================================");
                 // outPutStream.println(relatedCharacters);
                 outPutStreamHistorycalSite.println("historicalSiteName: " + historicalSiteName);
                 outPutStreamHistorycalSite.println("Location: " + location);

@@ -21,7 +21,7 @@
                             <children>
                                 <HBox>
                                     <children>
-                                        <VBox prefHeight="37.0" prefWidth="176.0">
+                                        <VBox minWidth="176.0" prefHeight="37.0" prefWidth="176.0">
                                             <children>
                                                 <Label prefHeight="18.0" prefWidth="151.0" text="Tên khác">
                                                     <font>
@@ -49,7 +49,7 @@
                                 </HBox>
                                 <HBox>
                                     <children>
-                                        <VBox prefHeight="18.0" prefWidth="176.0">
+                                        <VBox minWidth="176.0" prefHeight="18.0" prefWidth="176.0">
                                             <children>
                                                 <Label text="Quê quán">
                                                     <font>
@@ -74,7 +74,7 @@
                                 </HBox>
                                 <HBox>
                                     <children>
-                                        <VBox prefHeight="18.0" prefWidth="176.0">
+                                        <VBox minWidth="176.0" prefHeight="18.0" prefWidth="176.0">
                                             <children>
                                                 <Label text="Thời gian tại chức">
                                                     <font>
@@ -99,7 +99,7 @@
                                 </HBox>
                                 <HBox>
                                     <children>
-                                        <VBox prefHeight="18.0" prefWidth="176.0">
+                                        <VBox minWidth="176.0" prefHeight="18.0" prefWidth="176.0">
                                             <children>
                                                 <Label text="Mẹ">
                                                     <font>
@@ -127,7 +127,7 @@
                                 </HBox>
                                 <HBox>
                                     <children>
-                                        <VBox prefHeight="18.0" prefWidth="176.0">
+                                        <VBox minWidth="176.0" prefHeight="18.0" prefWidth="176.0">
                                             <children>
                                                 <Label text="Cha">
                                                     <font>
@@ -155,7 +155,7 @@
                                 </HBox>
                                 <HBox>
                                     <children>
-                                        <VBox prefHeight="18.0" prefWidth="176.0">
+                                        <VBox minWidth="176.0" prefHeight="18.0" prefWidth="176.0">
                                             <children>
                                                 <Label text="Chức vụ">
                                                     <font>
@@ -180,7 +180,7 @@
                                 </HBox>
                                 <HBox>
                                     <children>
-                                        <VBox prefHeight="18.0" prefWidth="176.0">
+                                        <VBox minWidth="176.0" prefHeight="18.0" prefWidth="176.0">
                                             <children>
                                                 <Label text="Tổng quan">
                                                     <font>
@@ -193,19 +193,25 @@
                                             </children>
                                         </VBox>
                                         <VBox>
-                                            <children>
-                                                <Text fx:id="overviewText" strokeType="OUTSIDE" strokeWidth="0.0" text="overviewText" wrappingWidth="620.0" VBox.vgrow="ALWAYS">
-                                                    <VBox.margin>
-                                                        <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
-                                                    </VBox.margin>
-                                                </Text>
-                                            </children>
+                                 <children>
+                                    <TextFlow fx:id="overviewTextFlow">
+                                       <VBox.margin>
+                                          <Insets bottom="10.0" left="10.0" right="30.0" top="10.0" />
+                                       </VBox.margin>
+                                       <padding>
+                                          <Insets right="30.0" />
+                                       </padding>
+                                    </TextFlow>
+                                 </children>
+                                 <HBox.margin>
+                                    <Insets right="10.0" />
+                                 </HBox.margin>
                                         </VBox>
                                     </children>
                                 </HBox>
                                 <HBox>
                                     <children>
-                                        <VBox prefHeight="18.0" prefWidth="176.0">
+                                        <VBox minWidth="176.0" prefHeight="18.0" prefWidth="176.0">
                                             <children>
                                                 <Label text="Năm mất">
                                                     <font>
@@ -230,7 +236,7 @@
                                 </HBox>
                                 <HBox>
                                     <children>
-                                        <VBox prefHeight="18.0" prefWidth="176.0">
+                                        <VBox minWidth="176.0" prefHeight="18.0" prefWidth="176.0">
                                             <children>
                                                 <Label text="Năm sinh">
                                                     <font>
@@ -255,7 +261,7 @@
                                 </HBox>
                                 <HBox>
                                     <children>
-                                        <VBox prefHeight="18.0" prefWidth="176.0">
+                                        <VBox minWidth="176.0" prefHeight="18.0" prefWidth="176.0">
                                             <children>
                                                 <Label text="Triều đại">
                                                     <font>

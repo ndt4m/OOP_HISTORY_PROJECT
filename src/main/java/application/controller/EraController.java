@@ -32,7 +32,7 @@ public class EraController extends PreviousStack{
     private TableView<Era> eraTable;
 
     @FXML
-    private searchBarController searchBarController;
+    private SearchBarController searchBarController;
 
     @FXML
     private BorderPane eraRoot;
@@ -49,7 +49,6 @@ public class EraController extends PreviousStack{
         try {
             eraCollection.loadJsonFiles();
         } catch (IOException e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
 
@@ -68,7 +67,7 @@ public class EraController extends PreviousStack{
         eraTable.setItems(eraCollection.getData());
 
         searchBarController.setSearchBoxListener(
-                new searchBoxListener() {
+                new SearchBoxListener() {
                     @Override
                     public void handleSearchName(String name) {
                         eraTable.setItems(eraCollection.searchByName(name));
