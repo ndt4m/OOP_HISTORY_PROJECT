@@ -1,5 +1,6 @@
 package crawling.era;
 
+
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -18,7 +19,7 @@ import java.util.regex.Pattern;
 import entity.Era;
 
 public class CrawlEraFromWiki extends CrawlEra
-{
+{   
     public String extractOverview(String href) throws IOException
     {
         String link = "https://vi.wikipedia.org" + href;
@@ -36,7 +37,7 @@ public class CrawlEraFromWiki extends CrawlEra
             }
 
             if (element.selectFirst("b") == null)
-            {
+            {   
                 continue;
             }
 
@@ -80,7 +81,8 @@ public class CrawlEraFromWiki extends CrawlEra
             result.set(0, matcher.group(1));
             result.set(1, matcher.group(2));
         }
-
+        //System.out.println(result.get(0));
+        //System.out.println(result.get(1));
         return result;
     }
 
@@ -108,7 +110,7 @@ public class CrawlEraFromWiki extends CrawlEra
         }
 
         Element aElement = spanElement.selectFirst("a");
-
+        
         if (aElement == null)
         {
             return result;
@@ -147,10 +149,10 @@ public class CrawlEraFromWiki extends CrawlEra
         {
             Element trTag = trTags.get(i);
             Elements tdTags = trTag.children();
-
+            
             if (eraName.contains(tdTags.get(0).text()) ||
-                    tdTags.get(0).text().contains(eraName) ||
-                    tdTags.get(1).text().contains(eraName))
+                tdTags.get(0).text().contains(eraName) ||
+                tdTags.get(1).text().contains(eraName))
             {
                 tdTags.get(3).select("sup").remove();
                 result.set(0, tdTags.get(1).text());
@@ -176,9 +178,10 @@ public class CrawlEraFromWiki extends CrawlEra
         Elements childDivElement = doc.selectFirst("div[class=mw-parser-output]").children();
 
         Element founderAndCapital = doc.selectFirst("#mw-content-text > div.mw-parser-output > table:nth-child(91) > tbody");
-
+        //System.out.println(childDivElement.get(3).tagName());
+        //int j = 1;
         for (int i = 0; i < childDivElement.size(); i++)
-        {
+        {   
             Element currentElement = childDivElement.get(i);
             if (!currentElement.tagName().equals("h2"))
             {
@@ -191,19 +194,20 @@ public class CrawlEraFromWiki extends CrawlEra
             String capital = "Không rõ";
             ArrayList<String> aliases = new ArrayList<>();
             ArrayList<String> relatedCharacters = new ArrayList<>();
-
+    
             String textSpanClass = currentElement.selectFirst("span[class=mw-headline]").text();
+            //System.out.println("----/"+ currentElement + "\\-----");
             if (textSpanClass.isEmpty())
             {
                 continue;
             }
-
+                
             if (!Pattern.matches("Thời.+|Bắc.+|Chống.+", textSpanClass))
             {
                 continue;
             }
 
-
+            
             while (!childDivElement.get(i+1).tagName().equals("h2"))
             {
                 i++;
@@ -216,7 +220,7 @@ public class CrawlEraFromWiki extends CrawlEra
                     time = (result.get(1) != null) ? result.get(1) : "Không rõ";
                     overview = (result.get(2) != null) ? result.get(2) : "Không rõ";
                 }
-
+                
                 if (nextElement.tagName().equals("table") && nextElement.attr("cellpadding").equals("2"))
                 {
                     result = extractTableCellPadding2(nextElement);
@@ -224,7 +228,7 @@ public class CrawlEraFromWiki extends CrawlEra
                     time = (result.get(1) != null) ? result.get(1) : "Không rõ";
                     overview = (result.get(2) != null) ? result.get(2) : "Không rõ";
                 }
-
+                
                 if (nextElement.tagName().equals("table") && nextElement.hasClass("wikitable") && !nextElement.hasAttr("cellpadding"))
                 {
                     result = extractTableWithoutCellpadding(nextElement);
@@ -232,7 +236,7 @@ public class CrawlEraFromWiki extends CrawlEra
                     time = (result.get(1) != null) ? result.get(1) : "Không rõ";
                     overview = (result.get(2) != null) ? result.get(2) : "Không rõ";
                 }
-
+                
                 if (nextElement.tagName().equals("table") && nextElement.attr("cellpadding").equals("0"))
                 {
                     Elements tdTags = nextElement.select("tbody > tr > td:nth-child(2)");
@@ -242,16 +246,17 @@ public class CrawlEraFromWiki extends CrawlEra
                         Element aTag = td.selectFirst("a");
                         relatedCharacters.add(aTag.text());
                     }
-
+                    
                     result = extractFounderAndCapital(eraName, founderAndCapital);
                     founder = (result.get(0) != null) ? result.get(0) : "Không rõ";
                     capital = (result.get(1) != null) ? result.get(1) : "Không rõ";
-
+                    
                     if (result.get(2) != null)
                     {
                         aliases.add(result.get(2));
                     }
 
+                    //System.out.println("-----------------------------------------" + j + "--------------------------------------------------------");
                     outPutStream.println("eraName: " + eraName);
                     outPutStream.println("time: " + time);
                     outPutStream.println("overview: " + overview);
@@ -260,7 +265,7 @@ public class CrawlEraFromWiki extends CrawlEra
                     outPutStream.println("aliases: " + aliases);
                     outPutStream.println("relatedCharacters: " + relatedCharacters);
                     outPutStream.println("===========================================================================");
-
+                    
                     eraList.add(new Era(eraName,
                             time,
                             founder,
@@ -269,7 +274,8 @@ public class CrawlEraFromWiki extends CrawlEra
                             new HashSet<>(aliases),
                             new HashSet<>(relatedCharacters)));
 
-
+                    
+                    //j++;
                     overview = "Không rõ";
                     relatedCharacters.clear();
                     aliases.clear();
@@ -282,7 +288,7 @@ public class CrawlEraFromWiki extends CrawlEra
 
 
     }
-
+ 
     public void crawlEra() throws IOException
     {
         crawlFromWiki();
@@ -298,6 +304,6 @@ public class CrawlEraFromWiki extends CrawlEra
         System.out.println(eraCollection.getData().get(2).getId());
         eraCollection.getData().get(2).setId(55);
         System.out.println(eraCollection.getData().get(2).getId());
-        eraCollection.toJsonFiles();
+        eraCollection.toJsonFiles(); 
     }
 }

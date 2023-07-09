@@ -23,17 +23,17 @@ public class CrawlHistoricalCharFromNKS extends CrawlHistoricalChar
     public boolean isAliase(String s)
     {
         return s.equalsIgnoreCase("tên đầy đủ") ||
-                s.equalsIgnoreCase("thụy hiệu")  ||
-                s.equalsIgnoreCase("tên khác")   ||
-                s.equalsIgnoreCase("tên thật")   ||
-                s.equalsIgnoreCase("tên húy")    ||
-                s.equalsIgnoreCase("niên hiệu")  ||
-                s.equalsIgnoreCase("tự")         ||
-                s.equalsIgnoreCase("bút danh")   ||
-                s.equalsIgnoreCase("tước hiệu")  ||
-                s.equalsIgnoreCase("miếu hiệu")  ||
-                s.equalsIgnoreCase("tên bản ngữ")||
-                s.equalsIgnoreCase("nghệ danh");
+               s.equalsIgnoreCase("thụy hiệu")  ||
+               s.equalsIgnoreCase("tên khác")   ||
+               s.equalsIgnoreCase("tên thật")   ||
+               s.equalsIgnoreCase("tên húy")    ||
+               s.equalsIgnoreCase("niên hiệu")  ||
+               s.equalsIgnoreCase("tự")         ||
+               s.equalsIgnoreCase("bút danh")   ||
+               s.equalsIgnoreCase("tước hiệu")  ||
+               s.equalsIgnoreCase("miếu hiệu")  ||
+               s.equalsIgnoreCase("tên bản ngữ")||
+               s.equalsIgnoreCase("nghệ danh");
     }
 
     public boolean isUnique(String alterName, List<String> aliases, String charName)
@@ -42,7 +42,7 @@ public class CrawlHistoricalCharFromNKS extends CrawlHistoricalChar
         {
             return false;
         }
-
+        
         for (String name : aliases)
         {
             if (alterName.equals(name))
@@ -65,13 +65,13 @@ public class CrawlHistoricalCharFromNKS extends CrawlHistoricalChar
         }
         return true;
     }
-
+    
     public boolean isEraName(String s)
     {
         return s.equalsIgnoreCase("triều đại")  ||
-                s.equalsIgnoreCase("hoàng tộc")  ||
-                s.equalsIgnoreCase("kỷ nguyên")  ||
-                s.equalsIgnoreCase("gia tộc");
+               s.equalsIgnoreCase("hoàng tộc")  ||
+               s.equalsIgnoreCase("kỷ nguyên")  ||
+               s.equalsIgnoreCase("gia tộc");
     }
 
     public boolean isDateOfBirth(String s)
@@ -87,8 +87,8 @@ public class CrawlHistoricalCharFromNKS extends CrawlHistoricalChar
     public boolean isFatherName(String s)
     {
         return s.equalsIgnoreCase("thân phụ")   ||
-                s.equalsIgnoreCase("cha mẹ")     ||
-                s.equalsIgnoreCase("bố mẹ");
+               s.equalsIgnoreCase("cha mẹ")     ||
+               s.equalsIgnoreCase("bố mẹ");
     }
 
     public boolean isMotherName(String s)
@@ -99,18 +99,18 @@ public class CrawlHistoricalCharFromNKS extends CrawlHistoricalChar
     public boolean isHometown(String s)
     {
         return s.equalsIgnoreCase("quê quán")   ||
-                s.equalsIgnoreCase("nơi ở")      ||
-                s.equalsIgnoreCase("quê");
+               s.equalsIgnoreCase("nơi ở")      ||
+               s.equalsIgnoreCase("quê"); 
     }
 
     public boolean isOccupation(String s)
     {
         return s.equalsIgnoreCase("chức vụ")    ||
-                s.equalsIgnoreCase("nghề nghiệp")||
-                s.equalsIgnoreCase("công việc")  ||
-                s.equalsIgnoreCase("cấp bậc")    ||
-                s.equalsIgnoreCase("dơn vị")     ||
-                s.equalsIgnoreCase("chức quan cao nhất");
+               s.equalsIgnoreCase("nghề nghiệp")||
+               s.equalsIgnoreCase("công việc")  ||
+               s.equalsIgnoreCase("cấp bậc")    ||
+               s.equalsIgnoreCase("dơn vị")     ||
+               s.equalsIgnoreCase("chức quan cao nhất");
     }
 
     public boolean isOccupation(Element nextElement)
@@ -121,21 +121,21 @@ public class CrawlHistoricalCharFromNKS extends CrawlHistoricalChar
     public boolean isWorkTenure(String s)
     {
         return s.equalsIgnoreCase("tại vị")     ||
-                s.equalsIgnoreCase("nhiệm kì")   ||
-                s.equalsIgnoreCase("năm tại ngũ")||
-                s.equalsIgnoreCase("trị vì");
+               s.equalsIgnoreCase("nhiệm kì")   ||
+               s.equalsIgnoreCase("năm tại ngũ")||
+               s.equalsIgnoreCase("trị vì");
     }
 
     public List<String> extractAliasesBy(String pTagContent, List<String> aliases, String charName)
-    {
+    {   
         List<String> result = new ArrayList<String>();
-
+    
         String regex = "(còn có tên là|phiên âm|hiệu là|hiệu|tên chữ là|hay|bút danh là|bút danh|tên thường gọi|còn gọi là|tên thật là|tên thật|tên khai sinh là|tên khai sinh|tự xưng là|tự là|tự|thuở nhỏ tên là|đổi tên thành|sau đổi thành|miếu hiệu là|miếu hiệu cho ông là|thụy hiệu đầy đủ là|tức|tước vị lúc sống là|nguyên danh|niên hiệu|tên cũ|dã sử xưng gọi|thụy hiệu|bút danh|thông gọi|đổi tên là|đổi là|bí danh|pháp danh|tên húy là|có sách gọi|tên gốc là|còn được gọi là|thường gọi là|thường gọi|trước tên là|đổi lại là|tên chữ|lấy tên là|húy là|cũng gọi là|cũng gọi|lấy húy kị|đời sau quen gọi là|tước hiệu|được gọi tắt là|và(?=[\\p{L} ]+\\([\\p{L} \\w\\d]*\\)))[ :]([^,\\.;()]*?)(?=(?:[,\\.;()]| là))";
         Pattern pattern = Pattern.compile(regex, Pattern.CASE_INSENSITIVE);
         Matcher matcher = pattern.matcher(pTagContent);
-
+        
         while (matcher.find())
-        {
+        {   
             if (matcher.group(2).isEmpty())
             {
                 continue;
@@ -165,7 +165,7 @@ public class CrawlHistoricalCharFromNKS extends CrawlHistoricalChar
         {
             return result;
         }
-
+        
         List<String> birthAndDeath = new ArrayList<>(Arrays.asList(matcher.group(0).split("[-–]")));
         if (birthAndDeath.size() == 2)
         {
@@ -182,7 +182,7 @@ public class CrawlHistoricalCharFromNKS extends CrawlHistoricalChar
         {
             result.set(1, birthAndDeath.get(0).trim());
         }
-
+        
         return result;
     }
 
@@ -229,23 +229,23 @@ public class CrawlHistoricalCharFromNKS extends CrawlHistoricalChar
         }
         return result;
     }
-
+    
 
 
     public List<String> crawlALLUrlsFrom(String url) throws IOException
-    {
+    {   
         List<String> urls = new ArrayList<String>();
 
         Document doc = Jsoup.connect(url).timeout(120000).get();
 
-        int pageNum = Integer.parseInt(doc.selectFirst("#content > div.com-content-category-blog.blog > div.com-content-category-blog__navigation.w-100 > p").text().split("/")[1].substring(1));
-
+        int pageNum = Integer.parseInt(doc.selectFirst("#content > div.com-content-category-blog.blog > div.com-content-category-blog__navigation.w-100 > p").text().split("/")[1].substring(1)); 
+        
         for (int i = 0; i < pageNum; i++)
         {
             doc = Jsoup.connect("https://nguoikesu.com/nhan-vat?start=" + i*5).timeout(120000).get();
 
             Elements aTags = doc.select("#content > div.com-content-category-blog.blog > div.com-content-category-blog__items.blog-items > div > div > div > h2 > a");
-
+            
             for (Element a: aTags)
             {
                 urls.add("https://nguoikesu.com" + a.attr("href"));
@@ -298,10 +298,10 @@ public class CrawlHistoricalCharFromNKS extends CrawlHistoricalChar
                 String thContent = thTag.text();
 
                 if (isOccupation(thContent) && occupation.equals("Không rõ"))
-                {
+                {   
                     occupation = tdTag.text();
                 }
-
+                
                 else if (isAliase(thContent))
                 {
                     aliases.add(tdTag.text());
@@ -361,32 +361,32 @@ public class CrawlHistoricalCharFromNKS extends CrawlHistoricalChar
         {
             System.err.println("Don't have the first p Tag: " + url);
             fw.close();
-            return new HistoricalCharacter(charName,
-                    eraName,
-                    dateOfBirth,
-                    dateOfDeath,
-                    fatherName,
-                    motherName,
-                    hometown,
-                    occupation,
-                    workTenure,
-                    overview,
-                    new HashSet<>(aliases));
+            return new HistoricalCharacter(charName, 
+                                           eraName, 
+                                           dateOfBirth, 
+                                           dateOfDeath, 
+                                           fatherName, 
+                                           motherName, 
+                                           hometown, 
+                                           occupation, 
+                                           workTenure, 
+                                           overview, 
+                                           new HashSet<>(aliases));
         }
-
+        
         first_pTag.select("sup").remove();
         String pTagContent = first_pTag.text();
 
         overview = pTagContent;
 
         List<String> result;
-
+        
         result = extractAliasesBy(pTagContent, aliases, charName);
         for(String name : result)
         {
             aliases.add(name);
         }
-
+        
         result = extractDateOfBirthAndDateOfDeathBy(pTagContent);
         if (dateOfBirth.equals("Không rõ") && !result.get(0).equals("?"))
         {
@@ -412,7 +412,7 @@ public class CrawlHistoricalCharFromNKS extends CrawlHistoricalChar
         {
             motherName = result.get(1);
         }
-
+        
         Elements aTags = first_pTag.select("a");
         for (Element a : aTags)
         {
@@ -437,18 +437,18 @@ public class CrawlHistoricalCharFromNKS extends CrawlHistoricalChar
         fw.write("=========================================================================================" + "\n");
         fw.close();
 
-        return new HistoricalCharacter(charName,
-                eraName,
-                dateOfBirth,
-                dateOfDeath,
-                fatherName,
-                motherName,
-                hometown,
-                occupation,
-                workTenure,
-                overview,
-                new HashSet<>(aliases));
-
+        return new HistoricalCharacter(charName, 
+                                       eraName, 
+                                       dateOfBirth, 
+                                       dateOfDeath, 
+                                       fatherName, 
+                                       motherName, 
+                                       hometown, 
+                                       occupation, 
+                                       workTenure, 
+                                       overview, 
+                                       new HashSet<>(aliases));
+        
     }
 
     public void crawlAllChar(List<String> urls) throws IOException

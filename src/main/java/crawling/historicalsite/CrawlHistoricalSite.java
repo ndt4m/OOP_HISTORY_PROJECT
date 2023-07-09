@@ -10,7 +10,7 @@ public abstract class CrawlHistoricalSite extends Crawler
 {
     protected EntityCollection<HistoricalSite> historicalSiteCollection = new HistoricalSiteCollection();
 
-    public HistoricalSiteCollection getHistoricalSiteCollection()
+    public HistoricalSiteCollection getHistoricalSiteCollection() 
     {
         if (historicalSiteCollection instanceof HistoricalSiteCollection)
         {

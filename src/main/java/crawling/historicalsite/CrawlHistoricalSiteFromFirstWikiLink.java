@@ -18,7 +18,7 @@ import org.jsoup.select.Elements;
 import entity.HistoricalSite;
 
 public class CrawlHistoricalSiteFromFirstWikiLink extends CrawlHistoricalSite
-{
+{   
     public List<String> extractOverviewAndRelatedChar(Elements aTags) throws IOException
     {
         List<String> result = new ArrayList<String>();
@@ -32,7 +32,7 @@ public class CrawlHistoricalSiteFromFirstWikiLink extends CrawlHistoricalSite
             {
                 continue;
             }
-
+            
             if (aTag.hasClass("external text"))
             {
                 continue;
@@ -67,12 +67,13 @@ public class CrawlHistoricalSiteFromFirstWikiLink extends CrawlHistoricalSite
     {
         List<HistoricalSite> historicalsiteList = new ArrayList<HistoricalSite>();
 
+        //PrintStream outPutStream = new PrintStream("output.txt");
         PrintStream outPutStreamHistorycalSite = new PrintStream("outputHistoricalSiteWiki1.txt");
 
         Document doc = Jsoup.connect(url).get();
 
         String historicalSiteName = "Không rõ";
-        Set<String> aliases = new HashSet<String>();
+        Set<String> aliases = new HashSet<String>(); 
         String location = "Không rõ";
         String establishment = "Không rõ";
         String category  = "Không rõ";
@@ -85,11 +86,11 @@ public class CrawlHistoricalSiteFromFirstWikiLink extends CrawlHistoricalSite
         // {
         //     System.out.println(wikitables.get(12).child(15));
         // }
-
+        
         for (Element wikitable : wikitables)
-        {
+        {      
             for (int i = 1; i < wikitable.children().size(); i++)
-            {
+            {   
                 Element ith_Row = wikitable.child(i);
                 Elements aTags;
                 List<String> result = new ArrayList<String>();
@@ -99,22 +100,22 @@ public class CrawlHistoricalSiteFromFirstWikiLink extends CrawlHistoricalSite
                     {
                         historicalSiteName = ith_Row.child(0).text();
                     }
-
+                    
                     if (!ith_Row.child(1).text().isEmpty())
                     {
                         location = ith_Row.child(1).text();
                     }
-
+                    
                     if (!ith_Row.child(2).text().isEmpty())
                     {
                         category = ith_Row.child(2).text();
                     }
-
+                    
                     if (ith_Row.childrenSize() > 3 && !ith_Row.child(3).text().isEmpty())
                     {
                         establishment = ith_Row.child(3).text();
                     }
-
+                    
                     aTags = ith_Row.child(0).select("a");
                     if (aTags != null)
                     {
@@ -166,6 +167,14 @@ public class CrawlHistoricalSiteFromFirstWikiLink extends CrawlHistoricalSite
                     }
                 }
 
+                // System.out.println("historicalSiteName: " + historicalSiteName);
+                // System.out.println("Location: " + location);
+                // System.out.println("establishment: " + establishment);
+                // System.out.println("Category: " + category);
+                // System.out.println("aliase: " + aliases);
+                // System.out.println("RelatedCharacter: " + relatedCharacters);
+                // System.out.println("overview: " + overview);
+                // System.out.println("================================================================================");
                 // outPutStream.println(relatedCharacters);
                 outPutStreamHistorycalSite.println("historicalSiteName: " + historicalSiteName);
                 outPutStreamHistorycalSite.println("Location: " + location);
@@ -176,13 +185,13 @@ public class CrawlHistoricalSiteFromFirstWikiLink extends CrawlHistoricalSite
                 outPutStreamHistorycalSite.println("overview: " + overview);
                 outPutStreamHistorycalSite.println("================================================================================");
 
-                historicalsiteList.add(new HistoricalSite(historicalSiteName,
-                        location,
-                        establishment,
-                        category,
-                        overview,
-                        aliases,
-                        relatedCharacters));
+                historicalsiteList.add(new HistoricalSite(historicalSiteName, 
+                                                          location, 
+                                                          establishment, 
+                                                          category, 
+                                                          overview, 
+                                                          aliases, 
+                                                          relatedCharacters));
 
                 historicalSiteName = "Không rõ";
                 location = "Không rõ";
@@ -203,7 +212,7 @@ public class CrawlHistoricalSiteFromFirstWikiLink extends CrawlHistoricalSite
         this.crawlHistoricalSiteFrom("https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_Di_t%C3%ADch_qu%E1%BB%91c_gia_Vi%E1%BB%87t_Nam");
     }
 
-    public static void main(String[] args) throws IOException
+    public static void main(String[] args) throws IOException 
     {
         CrawlHistoricalSiteFromFirstWikiLink crawler = new CrawlHistoricalSiteFromFirstWikiLink();
         //crawler.extractPersonalNameEntityFrom("Thờ các vua đầu nhà Trần: Thái Tông, Thánh Tông, Nhân Tông, Anh Tông, Trần Hưng Đạo, Trần Quang Khải và hoàng hậu Thuận Thiên đã lập ra hành cung Vũ Lâm");

@@ -1,19 +1,0 @@
-
-n
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÊÅñ
-o
-java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(“áø²
-t
-java:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø‹œßúÿÿÿÿ
-o
-java:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(½¿…
-`
-java:S1192!"KDefine a constant instead of duplicating this literal "KhÃ´ng rÃµ" 4 times.(£Œœ0
-_
-java:S2095"IUse try-with-resources or close this "PrintStream" in a "finally" clause.(ÖÛëµ
-C
-java:S5854"(Use the CANON_EQ flag with this pattern.(ìŸÄÿûÿÿÿÿ
-a
-java:S5866"FAlso use "Pattern.UNICODE_CASE" to correctly handle non-ASCII letters.(¤¬Úúÿÿÿÿ
-o
-java:S5843"TSimplify this regular expression to reduce its complexity from 30 to the 20 allowed.(ìŸÄÿûÿÿÿÿ

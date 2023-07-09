@@ -11,7 +11,7 @@ public abstract class CrawlFestival extends Crawler
 {
     protected EntityCollection<Festival> festivalCollection = new FestivalCollection();
 
-    public FestivalCollection getFestivalCollection()
+    public FestivalCollection getFestivalCollection() 
     {
         if (festivalCollection instanceof FestivalCollection)
         {

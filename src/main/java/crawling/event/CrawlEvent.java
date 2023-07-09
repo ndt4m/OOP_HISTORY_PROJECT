@@ -6,11 +6,11 @@ import entity.Event;
 import collection.EntityCollection;
 import java.io.IOException;
 
-public abstract class CrawlEvent extends Crawler
+public abstract class CrawlEvent extends Crawler 
 {
     protected EntityCollection<Event> eventCollection = new EventCollection();
 
-    public EventCollection getEventCollection()
+    public EventCollection getEventCollection() 
     {
         if (eventCollection instanceof EventCollection)
         {

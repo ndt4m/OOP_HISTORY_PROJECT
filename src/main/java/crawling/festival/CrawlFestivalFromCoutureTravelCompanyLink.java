@@ -24,7 +24,7 @@ public class CrawlFestivalFromCoutureTravelCompanyLink extends CrawlFestival
         PrintStream outPutStream = new PrintStream("outputFestivalCoutureTravelCompany.txt");
 
         String festivalName = "Không rõ";
-        Set<String> aliases = new HashSet<String>();
+        Set<String> aliases = new HashSet<String>(); 
         String time = "Không rõ";
         String location = "Không rõ";
         String overview = "";
@@ -53,7 +53,7 @@ public class CrawlFestivalFromCoutureTravelCompanyLink extends CrawlFestival
                 {
                     overview += td_post_content.child(i).text();
                 }
-
+                
             }
 
             outPutStream.println("festivalName: " + festivalName);
@@ -64,12 +64,12 @@ public class CrawlFestivalFromCoutureTravelCompanyLink extends CrawlFestival
             outPutStream.println("relatedCharacters: " + relatedCharacters);
             outPutStream.println("=============================================================================================");
 
-            festivalList.add(new Festival(festivalName,
-                    location,
-                    time,
-                    overview,
-                    aliases,
-                    relatedCharacters));
+            festivalList.add(new Festival(festivalName, 
+                                          location, 
+                                          time, 
+                                          overview, 
+                                          aliases, 
+                                          relatedCharacters));
 
             festivalName = "Không rõ";
             time = "Không rõ";

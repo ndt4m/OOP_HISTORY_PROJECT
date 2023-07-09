@@ -31,7 +31,7 @@ public class CrawlHistoricalSiteFromSecondWikiLink extends CrawlHistoricalSite
             {
                 continue;
             }
-
+            
             if (aTag.hasClass("external text"))
             {
                 continue;
@@ -66,12 +66,13 @@ public class CrawlHistoricalSiteFromSecondWikiLink extends CrawlHistoricalSite
     {
         List<HistoricalSite> historicalsiteList = new ArrayList<HistoricalSite>();
 
+        // PrintStream outPutStream = new PrintStream("output.txt");
         PrintStream outPutStreamHistorycalSite = new PrintStream("outputHistoricalSiteWiki2.txt");
 
         Document doc = Jsoup.connect(url).get();
 
         String historicalSiteName = "Không rõ";
-        Set<String> aliases = new HashSet<String>();
+        Set<String> aliases = new HashSet<String>(); 
         String location = "Không rõ";
         String establishment = "Không rõ";
         String category  = "Không rõ";
@@ -80,6 +81,7 @@ public class CrawlHistoricalSiteFromSecondWikiLink extends CrawlHistoricalSite
 
         Elements wikitables = doc.select("#mw-content-text > div.mw-parser-output > table:gt(13) > tbody");
         wikitables.select("sup").remove();
+        //System.out.println(wikitables.get(wikitables.size()-2).child(1).child(4).text());
         for (Element wikitable : wikitables)
         {
             for (int i = 1; i < wikitable.children().size(); i++)
@@ -93,7 +95,7 @@ public class CrawlHistoricalSiteFromSecondWikiLink extends CrawlHistoricalSite
                     {
                         historicalSiteName = ith_Row.child(0).text();
                     }
-
+                    
                     if (!ith_Row.child(2).text().isEmpty())
                     {
                         location = ith_Row.child(2).text();
@@ -151,7 +153,15 @@ public class CrawlHistoricalSiteFromSecondWikiLink extends CrawlHistoricalSite
                         }
                     }
                 }
-
+                // System.out.println("historicalSiteName: " + historicalSiteName);
+                // System.out.println("Location: " + location);
+                // System.out.println("establishment: " + establishment);
+                // System.out.println("Category: " + category);
+                // System.out.println("aliase: " + aliases);
+                // System.out.println("RelatedCharacter: " + relatedCharacters);
+                // System.out.println("overview: " + overview);
+                // System.out.println("================================================================================");
+                // outPutStream.println(relatedCharacters);
                 outPutStreamHistorycalSite.println("historicalSiteName: " + historicalSiteName);
                 outPutStreamHistorycalSite.println("Location: " + location);
                 outPutStreamHistorycalSite.println("establishment: " + establishment);
@@ -161,13 +171,13 @@ public class CrawlHistoricalSiteFromSecondWikiLink extends CrawlHistoricalSite
                 outPutStreamHistorycalSite.println("overview: " + overview);
                 outPutStreamHistorycalSite.println("================================================================================");
 
-                historicalsiteList.add(new HistoricalSite(historicalSiteName,
-                        location,
-                        establishment,
-                        category,
-                        overview,
-                        aliases,
-                        relatedCharacters));
+                historicalsiteList.add(new HistoricalSite(historicalSiteName, 
+                                                          location, 
+                                                          establishment, 
+                                                          category, 
+                                                          overview, 
+                                                          aliases, 
+                                                          relatedCharacters));
 
                 historicalSiteName = "Không rõ";
                 location = "Không rõ";

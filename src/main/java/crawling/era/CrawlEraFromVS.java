@@ -18,12 +18,12 @@ import org.jsoup.nodes.Element;
 import entity.Era;
 
 public class CrawlEraFromVS extends CrawlEra
-{
+{   
     public void crawlEventFrom(String url) throws IOException
-    {
+    {   
         List<Era> eraList = new ArrayList<Era>();
 
-        PrintStream outPutStream = new PrintStream("outputEraVS.txt");
+        PrintStream outPutStream = new PrintStream("outputEraVS.txt"); 
 
         String regex = "(?<=-)(?! *nước Việt Nam mới *| *thời tiền sử *)([^()]+?)\\((.+?)\\)|nước Việt Nam mới|thời tiền sử";
         Pattern pattern = Pattern.compile(regex, Pattern.CASE_INSENSITIVE);
@@ -53,7 +53,7 @@ public class CrawlEraFromVS extends CrawlEra
                         eraNamesAndTimes.put(matcher.group(1).trim(), matcher.group(2).trim());
                     }
                 }
-            }
+            }  
         }
 
         for (Map.Entry<String, String> eraNameAndTime : eraNamesAndTimes.entrySet())
@@ -68,12 +68,12 @@ public class CrawlEraFromVS extends CrawlEra
             outPutStream.println("===========================================================================");
 
             eraList.add(new Era(eraNameAndTime.getKey(),
-                    eraNameAndTime.getValue(),
-                    founder,
-                    capital,
-                    overview,
-                    aliases,
-                    relatedCharacters));
+                                      eraNameAndTime.getValue(),
+                                      founder,
+                                      capital,
+                                      overview,
+                                      aliases,
+                                      relatedCharacters));
         }
         this.eraCollection.setData(eraList);
         outPutStream.close();
@@ -84,7 +84,7 @@ public class CrawlEraFromVS extends CrawlEra
     {
         crawlEventFrom("https://vansu.vn/viet-nam/viet-nam-nhan-vat?page=");
     }
-
+    
     public static void main(String[] args) throws IOException
     {
         CrawlEraFromVS crawlerVS = new CrawlEraFromVS();

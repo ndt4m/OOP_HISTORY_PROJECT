@@ -30,7 +30,7 @@ public class CrawlHistoricalCharFromWikiLink extends CrawlHistoricalChar
             }
             String[] texts = element.html().split("<br>");
 
-            for (String text : texts)
+            for (String text : texts) 
             {
                 for (String name : text.split(","))
                 {
@@ -111,7 +111,7 @@ public class CrawlHistoricalCharFromWikiLink extends CrawlHistoricalChar
         Elements tableTags = doc.select("table[cellpadding=0]");
 
         for (int i = 0; i < tableTags.size(); i++)
-        {
+        {   
             Elements rows = tableTags.get(i).select("tr");
 
             eraName = h3Tags.get(i).text().replaceAll("\\(.+?\\)", "").replaceAll("\\[.+?\\]", "").trim();
@@ -153,19 +153,19 @@ public class CrawlHistoricalCharFromWikiLink extends CrawlHistoricalChar
                     outPutStream.println("overview: " + overview);
                     outPutStream.println("aliases: " + aliases);
                     outPutStream.println("===================================================================================================");
-
-                    historicalCharList.add(new HistoricalCharacter(charName,
-                            eraName,
-                            dateOfBirth,
-                            dateOfDeath,
-                            fatherName,
-                            motherName,
-                            hometown,
-                            occupation,
-                            workTenure,
-                            overview,
-                            aliases));
-
+                    
+                    historicalCharList.add(new HistoricalCharacter(charName, 
+                                                                   eraName, 
+                                                                   dateOfBirth, 
+                                                                   dateOfDeath, 
+                                                                   fatherName, 
+                                                                   motherName, 
+                                                                   hometown, 
+                                                                   occupation, 
+                                                                   workTenure, 
+                                                                   overview, 
+                                                                   aliases));
+                    
                     charName = "Không rõ";
                     dateOfBirth = "Không rõ";
                     dateOfDeath = "Không rõ";

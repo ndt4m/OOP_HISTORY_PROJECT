@@ -12,7 +12,7 @@ public abstract class CrawlEra extends Crawler
 {
     protected EntityCollection<Era> eraCollection = new EraCollection();
 
-    public EraCollection getEraCollection()
+    public EraCollection getEraCollection() 
     {
         if (eraCollection instanceof EraCollection)
         {

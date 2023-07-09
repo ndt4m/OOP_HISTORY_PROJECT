@@ -68,10 +68,10 @@ public class CrawlHistoricalSiteFromNKS extends CrawlHistoricalSite
     public boolean isRelatedCharacter(String s)
     {
         return s.equals("Kỹ sư công chính") ||
-                s.equals("Người sáng lập")   ||
-                s.equals("Giám đốc")         ||
-                s.equals("Thầy")             ||
-                s.equals("Kiến trúc sư");
+               s.equals("Người sáng lập")   ||
+               s.equals("Giám đốc")         ||
+               s.equals("Thầy")             ||
+               s.equals("Kiến trúc sư");
     }
 
     public boolean isAliases(String s)
@@ -82,26 +82,26 @@ public class CrawlHistoricalSiteFromNKS extends CrawlHistoricalSite
     public boolean isCategory(String s)
     {
         return s.equals("Phân loại") ||
-                s.equals("Kiểu");
+               s.equals("Kiểu");
     }
 
 
     public boolean isLocation(String s)
     {
         return s.equals("Vị trí")    ||
-                s.equals("Địa chỉ")   ||
-                s.equals("Địa điểm")  ||
-                s.equals("Khu vực");
+               s.equals("Địa chỉ")   ||
+               s.equals("Địa điểm")  ||
+               s.equals("Khu vực");
     }
 
     public boolean isEstablishment(String s)
     {
         return s.equals("Thành lập") ||
-                s.equals("Khởi lập")  ||
-                s.equals("Hoàn thành")||
-                s.equals("Công nhận") ||
-                s.equals("Xây dựng");
-    }
+               s.equals("Khởi lập")  ||
+               s.equals("Hoàn thành")||
+               s.equals("Công nhận") ||
+               s.equals("Xây dựng");
+    } 
 
     public List<String> crawlAllUrlsFrom(String url) throws IOException
     {
@@ -112,6 +112,7 @@ public class CrawlHistoricalSiteFromNKS extends CrawlHistoricalSite
             for (Element a : doc.select("#content > div.com-tags-tag.tag-category > div.com-tags__items > ul > li > a"))
             {
                 urls.add("https://nguoikesu.com" + a.attr("href"));
+                //System.out.println("https://nguoikesu.com" + a.attr("href"));
                 //break;
             }
         }
@@ -120,19 +121,19 @@ public class CrawlHistoricalSiteFromNKS extends CrawlHistoricalSite
 
 
     public HistoricalSite crawlHistoricalSiteFrom(String url) throws IOException
-    {
+    {   
         FileWriter fw = new FileWriter("outputHistoricalSiteNKS.txt",true);
 
         Document doc = Jsoup.connect(url).get();
 
         String historicalSiteName = "Không rõ";
-        Set<String> aliases = new HashSet<String>();
+        Set<String> aliases = new HashSet<String>(); 
         String location = "Không rõ";
         String establishment = "Không rõ";
         String category  = "Không rõ";
         String overview = "Không rõ";
         Set<String> relatedCharacters = new HashSet<String>();
-
+        
         Element headline = doc.selectFirst("h2[itemprop=headline]");
         if (headline != null)
         {
@@ -146,15 +147,15 @@ public class CrawlHistoricalSiteFromNKS extends CrawlHistoricalSite
                 relatedCharacters.add(a.text());
             }
         }
-
-
+        
+        
         Element infobox = doc.selectFirst("div[class=infobox]");
         if (infobox != null)
-        {
+        {   
             Element tbody = infobox.selectFirst("tbody");
             tbody.select("sup").remove();
             for (Element e : tbody.children())
-            {
+            {   
                 Element thTag = e.selectFirst("th");
                 if (thTag == null)
                 {
@@ -197,14 +198,14 @@ public class CrawlHistoricalSiteFromNKS extends CrawlHistoricalSite
 
 
         Element articleBody = doc.selectFirst("div[class=com-content-article__body]");
-
+        
         String firstTwo_pTagContent = "";
         int i = 0;
         for (Element e : articleBody.children())
         {
             if (i == 2) {break;}
             if (e.tagName().equals("p") && !e.text().isEmpty())
-            {
+            {   
                 e.select("sup").remove();
                 firstTwo_pTagContent += e.text();
                 i++;
@@ -239,13 +240,13 @@ public class CrawlHistoricalSiteFromNKS extends CrawlHistoricalSite
         fw.write("=========================================================================================" + "\n");
         fw.close();
 
-        return new HistoricalSite(historicalSiteName,
-                location,
-                establishment,
-                category,
-                overview,
-                aliases,
-                relatedCharacters);
+        return new HistoricalSite(historicalSiteName, 
+                                  location, 
+                                  establishment, 
+                                  category, 
+                                  overview, 
+                                  aliases, 
+                                  relatedCharacters);
     }
 
 
@@ -260,7 +261,7 @@ public class CrawlHistoricalSiteFromNKS extends CrawlHistoricalSite
         this.historicalSiteCollection.setData(historicalSiteList);
     }
 
-    public void crawlHistoricalSite() throws IOException
+    public void crawlHistoricalSite() throws IOException 
     {
         List<String> urls = this.crawlAllUrlsFrom("https://nguoikesu.com/di-tich-lich-su?types[0]=1&start=");
         this.crawlAllHistoricalSite(urls);
@@ -271,5 +272,5 @@ public class CrawlHistoricalSiteFromNKS extends CrawlHistoricalSite
         CrawlHistoricalSiteFromNKS crawler = new CrawlHistoricalSiteFromNKS();
         crawler.crawlHistoricalSite();
         System.out.println(crawler.getHistoricalSiteCollection().getData().get(0).getEntityName());
-    }
+    }   
 }

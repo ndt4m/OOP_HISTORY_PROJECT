@@ -24,13 +24,13 @@ public class CrawlEventFromNKS extends CrawlEvent
 
         Document doc = Jsoup.connect(url).get();
 
-
+        
         for (int i = 0; i < 15; i++)
-        {
+        {  
             doc = Jsoup.connect("https://nguoikesu.com/tu-lieu/quan-su?filter_tag[0]=&start=" + i*5).get();
 
             Elements aTags = doc.select("#content > div.com-content-category-blog.blog > div.com-content-category-blog__items.blog-items.items-leading > div > div > div > h2 > a");
-
+            
             for (Element a: aTags)
             {
                 urls.add("https://nguoikesu.com" + a.attr("href"));
@@ -40,7 +40,7 @@ public class CrawlEventFromNKS extends CrawlEvent
     }
 
     public void crawlAllEventsFrom(List<String> urls) throws IOException
-    {
+    {   
         List<Event> eventList = new ArrayList<>();
         for (String url : urls)
         {
@@ -59,14 +59,14 @@ public class CrawlEventFromNKS extends CrawlEvent
         String time = "Không rõ";
         String result = "Không rõ";
         String overview = "Không rõ";
-        Set<String> relatedCharacters = new HashSet<String>();
+        Set<String> relatedCharacters = new HashSet<String>(); 
         Set<String> aliases = new HashSet<>();
-
+        
         Document doc = Jsoup.connect(url).get();
         Element headLine = doc.selectFirst("h1[itemprop=headline]");
         System.out.println(headLine.text());//bí ẩn??????
         eventName = headLine.text().replaceAll("(?:năm|,) [\\d -]+|\\([\\d -]+\\)|\\d{4}", "").trim();
-
+        
         for (Element a : doc.selectFirst("div[class=com-content-article item-page]").select("a"))
         {
             if (a.attr("href").contains("nhan-vat") && !a.attr("href").contains("nha-"))
@@ -74,8 +74,8 @@ public class CrawlEventFromNKS extends CrawlEvent
                 relatedCharacters.add(a.text());
             }
         }
-
-
+        
+        
         Element contentBody = doc.selectFirst("div[class=com-content-article__body]");
         contentBody.select("sup").remove();
 
@@ -109,7 +109,7 @@ public class CrawlEventFromNKS extends CrawlEvent
                 }
             }
         }
-
+        
         fw.write("eventName: " + eventName + "\n");
         fw.write("location: " + location + "\n");
         fw.write("time: " + time + "\n");
@@ -120,13 +120,13 @@ public class CrawlEventFromNKS extends CrawlEvent
         fw.write("=======================================================" + "\n");
         fw.close();
 
-        return new Event(eventName,
-                location,
-                time,
-                result,
-                overview,
-                aliases,
-                relatedCharacters);
+        return new Event(eventName, 
+                         location, 
+                         time, 
+                         result, 
+                         overview, 
+                         aliases, 
+                         relatedCharacters);
         // eventName = "Không rõ";
         // location = "Không rõ";
         // time = "Không rõ";

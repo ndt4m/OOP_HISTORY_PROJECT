@@ -35,7 +35,7 @@ public class CrawlFestivalFromWikiLink extends CrawlFestival
             {
                 continue;
             }
-
+            
             if (aTag.hasClass("external text"))
             {
                 continue;
@@ -81,7 +81,7 @@ public class CrawlFestivalFromWikiLink extends CrawlFestival
 
             result.add(matcher.group(0).replace("và", "").trim());
         }
-
+        
         return result;
     }
 
@@ -93,7 +93,7 @@ public class CrawlFestivalFromWikiLink extends CrawlFestival
         Matcher matcher = pattern.matcher(s);
         while (matcher.find())
         {
-
+            
             if (matcher.group(1) != null)
             {
                 result.put(matcher.group(1).trim(), matcher.group(2).trim());
@@ -114,7 +114,7 @@ public class CrawlFestivalFromWikiLink extends CrawlFestival
         PrintStream outPutStream = new PrintStream("outputFestivalWiki.txt");
 
         String festivalName = "Không rõ";
-        Set<String> aliases = new HashSet<String>();
+        Set<String> aliases = new HashSet<String>(); 
         String time = "Không rõ";
         String location = "Không rõ";
         String overview = "Không rõ";
@@ -124,16 +124,17 @@ public class CrawlFestivalFromWikiLink extends CrawlFestival
         Elements liTags = doc.select("#mw-content-text > div.mw-parser-output > ul:nth-child(27) > li");
         liTags.remove(liTags.size() - 1);
         liTags.select("sup").remove();
+        //System.out.println(liTags.get(liTags.size()-1).text());
 
         for (Element liTag : liTags)
         {
             String[] splited_liContent = liTag.text().split(":");
             splited_liContent[1] = splited_liContent[1].replaceAll("\\(.+?\\)", "");
             location = splited_liContent[0];
-
+    
             for (Map.Entry<String, String> set : extractFestivalNameAndTime(splited_liContent[1]).entrySet())
             {
-
+                
                 festivalName = set.getKey();
                 time = set.getValue();
 
@@ -144,14 +145,14 @@ public class CrawlFestivalFromWikiLink extends CrawlFestival
                 outPutStream.println("overview: " + overview);
                 outPutStream.println("relatedCharacters: " + relatedCharacters);
                 outPutStream.println("=============================================================================================");
-
-                festivalList.add(new Festival(festivalName,
-                        location,
-                        time,
-                        overview,
-                        aliases,
-                        relatedCharacters));
-
+                
+                festivalList.add(new Festival(festivalName, 
+                                              location, 
+                                              time, 
+                                              overview, 
+                                              aliases, 
+                                              relatedCharacters));
+                
                 festivalName = "Không rõ";
                 time = "Không rõ";
             }
@@ -194,19 +195,19 @@ public class CrawlFestivalFromWikiLink extends CrawlFestival
 
             List<String> result;
             Elements aTags = row.child(2).select("a");
-            if (aTags != null)
-            {
-                result = extractOverviewAndRelatedChar(aTags);
-                if (!result.get(0).equals("Không rõ"))
+                if (aTags != null)
                 {
-                    overview = result.get(1);
-
-                    for (int j = 2; j < result.size(); j++)
+                    result = extractOverviewAndRelatedChar(aTags);
+                    if (!result.get(0).equals("Không rõ"))
                     {
-                        relatedCharacters.add(result.get(j));
+                        overview = result.get(1);
+
+                        for (int j = 2; j < result.size(); j++)
+                        {
+                           relatedCharacters.add(result.get(j));
+                        }
                     }
                 }
-            }
             outPutStream.println("festivalName: " + festivalName);
             outPutStream.println("aliases: " + aliases);
             outPutStream.println("time: " + time);
@@ -214,15 +215,15 @@ public class CrawlFestivalFromWikiLink extends CrawlFestival
             outPutStream.println("overview: " + overview);
             outPutStream.println("relatedCharacters: " + relatedCharacters);
             outPutStream.println("=============================================================================================");
-
-            festivalList.add(new Festival(festivalName,
-                    location,
-                    time,
-                    overview,
-                    aliases,
-                    relatedCharacters));
-
-
+            
+            festivalList.add(new Festival(festivalName, 
+                                              location, 
+                                              time, 
+                                              overview, 
+                                              aliases, 
+                                              relatedCharacters));
+            
+            
             festivalName = "Không rõ";
             aliases.clear();
             time = "Không rõ";

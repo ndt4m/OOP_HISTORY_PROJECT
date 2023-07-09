@@ -17,7 +17,7 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
 
-public class Crawler
+public class Crawler   
 {
     public Crawler()
     {
@@ -27,14 +27,15 @@ public class Crawler
     public boolean isUpperCase(String s, String delimiter)
     {
         String words[] = s.split("_");
+        //System.out.println(new ArrayList<String>(Arrays.asList(s.split(" "))));
         for (String word : words)
-        {
+        {   
             if (!Character.isUpperCase(word.charAt(0)))
             {
                 return false;
             }
         }
-
+    
         return true;
     }
 
@@ -55,10 +56,10 @@ public class Crawler
                 normalWord = word.getForm().replace("_", " ").replace("Vua", "").trim();
                 if (word.getNerLabel().equals("B-PER") && isUpperCase(normalWord, "_"))
                 {
-
-                    result.add(normalWord);
-                    //System.out.println(normalWord);
-
+                        
+                        result.add(normalWord);
+                        //System.out.println(normalWord);
+                        
                 }
             }
         }

@@ -11,7 +11,7 @@ public abstract class CrawlHistoricalChar extends Crawler
 {
     protected EntityCollection<HistoricalCharacter> historicalCharCollection = new HistoricalCharCollection();
 
-    public HistoricalCharCollection getHistoricalCharCollection()
+    public HistoricalCharCollection getHistoricalCharCollection() 
     {
         if (historicalCharCollection instanceof HistoricalCharCollection)
         {
