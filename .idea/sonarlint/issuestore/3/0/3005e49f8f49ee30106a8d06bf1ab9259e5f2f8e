@@ -1,0 +1,50 @@
+
+t
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(àçÜ“úÿÿÿÿ
+n
+java:S2293Y"YReplace the type specification in this constructor call with the diamond operator ("<>").(“µı
+o
+java:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(“µı
+o
+java:S2293«"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÊÅñ
+c
+java:S1192»"LDefine a constant instead of duplicating this literal "KhÃ´ng rÃµ" 17 times.(¶€Û‡
+c
+java:S1192Ü"LDefine a constant instead of duplicating this literal "cellpadding" 3 times.(ŞÊÏê
+]
+java:S1192Ü"FDefine a constant instead of duplicating this literal "table" 3 times.(ŞÊÏê
+s	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ÜÑúñÿÿÿÿÿ
+t	java:S135´"YReduce the total number of break and continue statements in this loop to use at most one.(ÜÑúñÿÿÿÿÿ
+n	java:S127Ñ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+†
+java:S13191"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ãÒıï
+‹
+java:S1319W"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ØÎøÁÿÿÿÿÿ
+‹
+java:S1319}"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÀŞ‹ øÿÿÿÿ
+‡
+java:S1319ƒ"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ø—ÿ¹
+Œ
+java:S1319‰"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ã½÷úúÿÿÿÿ
+`
+java:S2095­"IUse try-with-resources or close this "PrintStream" in a "finally" clause.(Ñíß
+€
+java:S4144ƒ"iUpdate this method so that its implementation is not identical to "extractTableCellPadding2" on line 125.(ø—ÿ¹
+=
+java:S58549"(Use the CANON_EQ flag with this pattern.(ªôÆ
+a
+java:S59989"LRefactor this repetition that can lead to a stack overflow for large inputs.(ªôÆ
+i
+java:S3776©"RRefactor this method to reduce its Cognitive Complexity from 76 to the 15 allowed.(‹Ü˜¬
+W
+java:S1854¿";Remove this useless assignment to local variable "capital".(ôôŸ¹ûÿÿÿÿ
+R
+java:S1854¾";Remove this useless assignment to local variable "founder".(Â®©ş
+s
+java:S5854É"WUse the CANON_EQ flag with "Pattern.compile(regex, CANON_EQ).matcher(input).matches()".(ÊÖóÁøÿÿÿÿ
+T	java:S106ª"9Replace this use of System.out or System.err by a logger.(èÑ›Öûÿÿÿÿ
+T	java:S106¬"9Replace this use of System.out or System.err by a logger.(èÑ›Öûÿÿÿÿ
+i
+java:S58439"TSimplify this regular expression to reduce its complexity from 42 to the 20 allowed.(ªôÆ
+İ
+java:S6541©"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 94 to 64, Complexity from 27 to 14, Nesting Level from 4 to 2, Number of Variables from 20 to 6.(‹Ü˜¬

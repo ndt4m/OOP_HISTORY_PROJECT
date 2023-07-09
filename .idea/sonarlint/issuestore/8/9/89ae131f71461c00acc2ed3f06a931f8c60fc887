@@ -1,0 +1,83 @@
+
+p
+java:S2293ƒ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ä„ƒ
+p
+java:S2293š"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ä„ƒ
+p
+java:S2293¿"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ä„ƒ
+p
+java:S2293Ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ä„ƒ
+p
+java:S2293í"YReplace the type specification in this constructor call with the diamond operator ("<>").(Øÿ»¨
+u
+java:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(”À ƒÿÿÿÿÿ
+u
+java:S2293È"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïà˜ìøÿÿÿÿ
+c
+java:S1192"LDefine a constant instead of duplicating this literal "KhÃ´ng rÃµ" 28 times.(¯°åµ
+t	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ïñÂ¦úÿÿÿÿ
+l	java:S117İ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã¹åìúÿÿÿÿ
+l	java:S117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ê«§üÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆÃ¯ˆüÿÿÿÿ
+^
+java:S2095„"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(İëó[
+U
+java:S11618":Add the "@Override" annotation above this method signature(ÎÎæ§ùÿÿÿÿ
+E
+java:S1197:"*Move the array designators [] to the type.(î•ıÒüÿÿÿÿ
+D
+java:S5854…"(Use the CANON_EQ flag with this pattern.(‰âèâşÿÿÿÿ
+F
+java:S5869…"*Remove duplicates in this character class.(‰âèâşÿÿÿÿ
+H
+java:S5855…",Remove or rework this redundant alternative.(‰âèâşÿÿÿÿ
+b
+java:S5866†"FAlso use "Pattern.UNICODE_CASE" to correctly handle non-ASCII letters.(¤¬Úúÿÿÿÿ
+D
+java:S5854 "(Use the CANON_EQ flag with this pattern.(…œ•Áÿÿÿÿÿ
+H
+java:S5855 ",Remove or rework this redundant alternative.(…œ•Áÿÿÿÿÿ
+H
+java:S5855 ",Remove or rework this redundant alternative.(…œ•Áÿÿÿÿÿ
+b
+java:S5866¡"FAlso use "Pattern.UNICODE_CASE" to correctly handle non-ASCII letters.(¤¬Úúÿÿÿÿ
+D
+java:S5854Á"(Use the CANON_EQ flag with this pattern.(µÿ’Óüÿÿÿÿ
+X
+java:S5857Á"<Replace this use of a reluctant quantifier with "[^;\\.]++".(µÿ’Óüÿÿÿÿ
+W
+java:S5857Á";Replace this use of a reluctant quantifier with "[^\\)]++".(µÿ’Óüÿÿÿÿ
+X
+java:S5857Á"<Replace this use of a reluctant quantifier with "[^\\.;]++".(µÿ’Óüÿÿÿÿ
+X
+java:S5857Á"<Replace this use of a reluctant quantifier with "[^\\.;]++".(µÿ’Óüÿÿÿÿ
+X
+java:S5857Á"<Replace this use of a reluctant quantifier with "[^\\.;]++".(µÿ’Óüÿÿÿÿ
+X
+java:S5857Á"<Replace this use of a reluctant quantifier with "[^\\.;]++".(µÿ’Óüÿÿÿÿ
+b
+java:S5866Â"FAlso use "Pattern.UNICODE_CASE" to correctly handle non-ASCII letters.(¤¬Úúÿÿÿÿ
+?
+java:S5854×"(Use the CANON_EQ flag with this pattern.(êŸ©ü
+A
+java:S5869×"*Remove duplicates in this character class.(êŸ©ü
+b
+java:S5866Ø"FAlso use "Pattern.UNICODE_CASE" to correctly handle non-ASCII letters.(¤¬Úúÿÿÿÿ
+R	java:S125ı"<This block of commented-out lines of code should be removed.(±¯€¤
+n
+java:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(å¨×Íúÿÿÿÿ
+O	java:S106ê"9Replace this use of System.out or System.err by a logger.(š—Œ®
+R	java:S125Ì"<This block of commented-out lines of code should be removed.(±¯€¤
+N	java:S106Û"9Replace this use of System.out or System.err by a logger.(éòÑ!
+b
+java:S6019…"FFix this reluctant quantifier that will only ever match 0 repetitions.(‰âèâşÿÿÿÿ
+a
+java:S6019Á"EFix this reluctant quantifier that will only ever match 1 repetition.(µÿ’Óüÿÿÿÿ
+p
+java:S5843…"TSimplify this regular expression to reduce its complexity from 70 to the 20 allowed.(‰âèâşÿÿÿÿ
+q
+java:S5843 "USimplify this regular expression to reduce its complexity from 120 to the 20 allowed.(…œ•Áÿÿÿÿÿ
+p
+java:S5843Á"TSimplify this regular expression to reduce its complexity from 35 to the 20 allowed.(µÿ’Óüÿÿÿÿ
+ã
+java:S6541‚"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 162 to 64, Complexity from 37 to 14, Nesting Level from 4 to 2, Number of Variables from 27 to 6.(å¨×Íúÿÿÿÿ

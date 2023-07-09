@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.ButtonBar?>
+<?import javafx.scene.control.ToggleButton?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="613.0" prefWidth="900.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.controller.MainController">
+    <top>
+        <HBox alignment="CENTER" minHeight="-Infinity" minWidth="-Infinity" prefHeight="114.0" prefWidth="900.0" spacing="16.0" style="-fx-background-color: #536040;" BorderPane.alignment="CENTER">
+            <children>
+                <ImageView fitHeight="90.0" fitWidth="90.0" nodeOrientation="RIGHT_TO_LEFT" pickOnBounds="true" preserveRatio="true" HBox.hgrow="ALWAYS">
+                    <image>
+                        <Image url="@../images/logo.png" />
+                    </image>
+                    <HBox.margin>
+                        <Insets />
+                    </HBox.margin>
+                </ImageView>
+                <HBox alignment="CENTER" HBox.hgrow="ALWAYS">
+                    <HBox.margin>
+                        <Insets />
+                    </HBox.margin>
+                    <children>
+                        <ButtonBar fx:id="buttonBar" buttonMinWidth="30.0" stylesheets="@../stylesheet/mainScreen.css">
+                            <buttons>
+                                <ToggleButton fx:id="trangChu" cache="true" mnemonicParsing="false" onAction="#trangChuPressed" selected="true" text="Trang chủ">
+                                    <font>
+                                        <Font size="14.0" />
+                                    </font>
+                                    <cursor>
+                                        <Cursor fx:constant="HAND" />
+                                    </cursor>
+                                    <toggleGroup>
+                                        <ToggleGroup fx:id="identify" />
+                                    </toggleGroup>
+                                </ToggleButton>
+                                <ToggleButton fx:id="character" mnemonicParsing="false" onAction="#characterPressed" text="Nhân vật lịch sử" toggleGroup="$identify">
+                                    <font>
+                                        <Font size="14.0" />
+                                    </font>
+                                    <cursor>
+                                        <Cursor fx:constant="HAND" />
+                                    </cursor>
+                                </ToggleButton>
+                                <ToggleButton fx:id="hisSite" layoutX="596.0" layoutY="43.0" mnemonicParsing="false" onAction="#hisSitePressed" text="Di tích" toggleGroup="$identify">
+                                    <font>
+                                        <Font size="14.0" />
+                                    </font>
+                                    <cursor>
+                                        <Cursor fx:constant="HAND" />
+                                    </cursor>
+                                </ToggleButton>
+                                <ToggleButton fx:id="era" layoutX="605.0" layoutY="43.0" mnemonicParsing="false" onAction="#eraPressed" text="Triều đại" toggleGroup="$identify">
+                                    <font>
+                                        <Font size="14.0" />
+                                    </font>
+                                    <cursor>
+                                        <Cursor fx:constant="HAND" />
+                                    </cursor>
+                                </ToggleButton>
+                                <ToggleButton fx:id="event" layoutX="612.0" layoutY="43.0" mnemonicParsing="false" onAction="#eventPressed" text="Sự kiện" toggleGroup="$identify">
+                                    <font>
+                                        <Font size="14.0" />
+                                    </font>
+                                    <cursor>
+                                        <Cursor fx:constant="HAND" />
+                                    </cursor>
+                                </ToggleButton>
+                                <ToggleButton fx:id="festival" layoutX="617.0" layoutY="43.0" mnemonicParsing="false" onAction="#festivalPressed" text="Lễ hội" toggleGroup="$identify">
+                                    <font>
+                                        <Font size="14.0" />
+                                    </font>
+                                    <cursor>
+                                        <Cursor fx:constant="HAND" />
+                                    </cursor>
+                                </ToggleButton>
+                            </buttons>
+                            <HBox.margin>
+                                <Insets />
+                            </HBox.margin>
+                        </ButtonBar>
+                    </children>
+                </HBox>
+            </children>
+            <padding>
+                <Insets bottom="30.0" left="16.0" right="16.0" top="20.0" />
+            </padding>
+            <BorderPane.margin>
+                <Insets />
+            </BorderPane.margin>
+        </HBox>
+    </top>
+    <center>
+        <BorderPane fx:id="main" BorderPane.alignment="CENTER" />
+    </center>
+</BorderPane>

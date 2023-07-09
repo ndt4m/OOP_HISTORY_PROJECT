@@ -1,0 +1,15 @@
+.button-bar .toggle-button {
+    -fx-background-color: #FFA500;
+}
+
+.button-bar .toggle-button:selected {
+    -fx-background-color: #fff0c4;
+}
+
+.button-bar .toggle-button:armed:selected {
+    -fx-background-color: #fff0c4;
+}
+
+.button-bar .toggle-button:pressed:selected {
+    -fx-background-color: #fff0c4;
+}

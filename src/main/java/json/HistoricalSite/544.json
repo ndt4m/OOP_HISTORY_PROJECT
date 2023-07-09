@@ -1,0 +1,15 @@
+{
+  "location": "Quận 5",
+  "establishment": "1988",
+  "category": "Lịch sử",
+  "relatedCharacters": {
+    "Vương Hồng Sển": 2808,
+    "Hồ Chí Minh": 3114,
+    "Nguyễn Tất Thành": 3114,
+    "Đỗ Hữu Phương": 1613
+  },
+  "id": 544,
+  "entityName": "Nơi đồng chí Nguyễn Tất Thành ở trước khi ra đi tìm đường cứu nước",
+  "aliases": [],
+  "overview": "Đường Châu Văn Liêm là một tuyến đường tại Thành phố Hồ Chí Minh, nối từ đường Hồng Bàng đến đường Hải Thượng Lãn Ông trên địa bàn Quận 5."
+}
