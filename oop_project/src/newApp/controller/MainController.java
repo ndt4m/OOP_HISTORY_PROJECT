@@ -5,31 +5,31 @@ import java.io.IOException;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
-import javafx.scene.control.Button;
+import javafx.scene.control.ToggleButton;
 import javafx.scene.layout.BorderPane;
 
-public class MainController {
+public class MainController extends PreviousStack{
 
     @FXML
-    private Button Era;
+    private ToggleButton Era;
 
     @FXML
-    private Button HisSite;
+    private ToggleButton HisSite;
 
     @FXML
-    private Button character;
+    private ToggleButton character;
 
     @FXML
-    private Button event;
+    private ToggleButton event;
 
     @FXML
-    private Button festival;
+    private ToggleButton festival;
 
     @FXML
     private BorderPane main;
 
     @FXML
-    private Button trangchu;
+    private ToggleButton trangchu;
 
     
     @FXML
@@ -49,7 +49,6 @@ public class MainController {
     	try {
 			eraBox = loadEra.load();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
     	main.setCenter(eraBox);
@@ -61,11 +60,11 @@ public class MainController {
     	try {
 			diTichBox = loadDiTich.load();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		main.setCenter(diTichBox);
     }
+    
     
     @FXML
     void characterPressed(ActionEvent event) {
@@ -73,7 +72,6 @@ public class MainController {
     	try {
 			characterBox = loadChar.load();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		main.setCenter(characterBox);
@@ -85,7 +83,6 @@ public class MainController {
     	try {
 			eventBox = loadEvent.load();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
     	main.setCenter(eventBox);
@@ -97,7 +94,6 @@ public class MainController {
 		try {
 			fesBox = loadFes.load();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
     	main.setCenter(fesBox);
@@ -115,7 +111,6 @@ public class MainController {
 			main.setCenter(homeBox);
 
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
     }

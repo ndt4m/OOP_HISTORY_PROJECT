@@ -1,30 +1,19 @@
 package newApp.controller;
 
 import java.io.IOException;
-import java.nio.charset.CoderMalfunctionError;
-
-import application.App;
-import application.controller.FigureDetailScreenController;
 import collection.HistoricalCharCollection;
 import entity.HistoricalCharacter;
 import javafx.collections.FXCollections;
-import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
-import javafx.scene.Node;
-import javafx.scene.Parent;
-import javafx.scene.Scene;
-import javafx.scene.control.Button;
 import javafx.scene.control.ScrollPane;
 import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableRow;
 import javafx.scene.control.TableView;
 import javafx.scene.control.cell.PropertyValueFactory;
 import javafx.scene.layout.BorderPane;
-import javafx.scene.layout.VBox;
-import javafx.stage.Stage;
 
-public class CharacterController {
+public class CharacterController extends PreviousStack{
 
     @FXML
     private TableColumn<HistoricalCharacter, Integer> colFigureId;
@@ -46,9 +35,7 @@ public class CharacterController {
     
     @FXML 
     private BorderPane charNode1;
-    
-    
-    
+       
     @FXML
     void initialize() {
     	
@@ -100,13 +87,13 @@ public class CharacterController {
         );
         
         
-//        code nayf de dua toi thong tin chi tiet screen
         tblFigure.setRowFactory(tableView -> {
             TableRow<HistoricalCharacter> row = new TableRow<>();
             row.setOnMouseClicked(event -> {
                 if(event.getClickCount() == 2 && (!row.isEmpty())){
                     HistoricalCharacter figure = row.getItem();
                     try {
+                    	previous.addAll(FXCollections.observableArrayList(charRoot.getChildren()));
                         FXMLLoader loader = new FXMLLoader(getClass().getResource("/newApp/fxml/CharacterDetail.fxml"));
                         ScrollPane root = loader.load();
                         CharacterDetailController controller = loader.getController();

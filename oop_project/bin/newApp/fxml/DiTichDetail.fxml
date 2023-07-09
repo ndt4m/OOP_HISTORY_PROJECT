@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
 <?import javafx.scene.control.Label?>
 <?import javafx.scene.control.ScrollPane?>
 <?import javafx.scene.layout.BorderPane?>
@@ -175,6 +176,7 @@
                         <Font size="36.0" />
                      </font>
                   </Text>
+                  <Button fx:id="back" mnemonicParsing="false" onAction="#backPressed" text="Quay lại" />
                </children>
             </HBox>
          </top>

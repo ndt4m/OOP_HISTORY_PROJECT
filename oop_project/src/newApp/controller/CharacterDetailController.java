@@ -2,27 +2,23 @@ package newApp.controller;
 
 import java.io.IOException;
 
-import application.App;
-import application.controller.EraDetailScreenController;
 import collection.EraCollection;
 import collection.HistoricalCharCollection;
 import entity.Era;
 import entity.HistoricalCharacter;
+import javafx.collections.FXCollections;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Node;
-import javafx.scene.Parent;
-import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.control.ScrollPane;
 import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.FlowPane;
 import javafx.scene.paint.Color;
 import javafx.scene.text.Text;
-import javafx.stage.Stage;
 
-public class CharacterDetailController {
+public class CharacterDetailController extends PreviousStack{
 
 	@FXML
 	private FlowPane aliasFlowPane;
@@ -60,11 +56,15 @@ public class CharacterDetailController {
 	@FXML
 	private Text workTenureText;
 	
-
+	@FXML
+	private Button back;
 	
-
-	
-	private HistoricalCharacter character;
+	@FXML
+	void backPressed(ActionEvent event) {
+		BorderPane parent = (BorderPane) charDetailRoot.getParent();
+		Node preNode = previous.remove(previous.size() - 1);
+		parent.setCenter(preNode);
+	}
 	
 	public void setFigure(HistoricalCharacter character) {
         HistoricalCharCollection historicalCharCollection = new HistoricalCharCollection();
@@ -82,8 +82,6 @@ public class CharacterDetailController {
             // TODO Auto-generated catch block
             e.printStackTrace();
         }
-
-        this.character = character;
 
         nameText.setText(character.getEntityName());
 
@@ -139,12 +137,14 @@ public class CharacterDetailController {
             eraText.setFill(Color.web("#3498db"));
             eraText.setOnMouseClicked(mouseEvent -> {
                 try {
+                	previous.addAll(FXCollections.observableArrayList(charDetailRoot));
+                	
                 	FXMLLoader loader = new FXMLLoader(getClass().getResource("/newApp/fxml/EraDetail.fxml"));
-                	ScrollPane eraDetail = loader.load();
-                    EraDetailController eraDetailController = loader.getController();
-                    eraDetailController.setEra(era);
+                	ScrollPane root = loader.load();
+                    EraDetailController controller = loader.getController();
+                    controller.setEra(era);
                     BorderPane parent =(BorderPane) charDetailRoot.getParent();
-                    parent.setCenter(eraDetail);
+                    parent.setCenter(root);
                     
                 } catch (IOException e){
                     e.printStackTrace();
@@ -156,26 +156,48 @@ public class CharacterDetailController {
 
         if(father != null) {
             fatherText.setFill(Color.web("#3498db"));
-            fatherText.setOnMouseClicked(mouseEvent -> setFigure(father));
+            fatherText.setOnMouseClicked(mouseEvent ->{
+            	try {
+            		previous.addAll(FXCollections.observableArrayList(charDetailRoot));
+            		FXMLLoader loader = new FXMLLoader(getClass().getResource("/newApp/fxml/CharacterDetail.fxml"));
+            		ScrollPane root = loader.load();
+            		CharacterDetailController controller = loader.getController();
+            		controller.setFigure(father);
+					BorderPane parent =(BorderPane) charDetailRoot.getParent();
+                    parent.setCenter(root);
+					
+				} catch (IOException e) {
+					e.printStackTrace();
+				}
+            }
+            );
         } else {
             fatherText.setFill(Color.web("#000000"));
         }
 
         if(mother != null) {
             motherText.setFill(Color.web("#3498db"));
-            motherText.setOnMouseClicked(mouseEvent -> setFigure(mother));
+            motherText.setOnMouseClicked(mouseEvent -> {
+            	try {
+            		previous.addAll(FXCollections.observableArrayList(charDetailRoot));
+            		
+            		FXMLLoader loader = new FXMLLoader(getClass().getResource("/newApp/fxml/CharacterDetail.fxml"));
+            		ScrollPane root = loader.load();
+            		CharacterDetailController controller = loader.getController();
+            		controller.setFigure(mother);
+					BorderPane parent =(BorderPane) charDetailRoot.getParent();
+                    parent.setCenter(root);
+					
+				} catch (IOException e) {
+					e.printStackTrace();
+				}
+            }
+            );
         } else {
             motherText.setFill(Color.web("#000000"));
         }
 
     }
 
-	public void setCharacter(HistoricalCharacter character) {
-		this.character = character;
-	}
-
-	public HistoricalCharacter getCharacter() {
-		return character;
-	}
 
 }

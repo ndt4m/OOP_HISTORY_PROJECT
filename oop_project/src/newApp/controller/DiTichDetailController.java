@@ -6,15 +6,19 @@ import java.util.Map;
 import collection.HistoricalCharCollection;
 import entity.HistoricalCharacter;
 import entity.HistoricalSite;
+import javafx.collections.FXCollections;
+import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
+import javafx.scene.Node;
+import javafx.scene.control.Button;
 import javafx.scene.control.ScrollPane;
 import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.FlowPane;
 import javafx.scene.paint.Color;
 import javafx.scene.text.Text;
 
-public class DiTichDetailController {
+public class DiTichDetailController extends PreviousStack{
 
     @FXML
     private FlowPane aliasFlowPane;
@@ -40,11 +44,17 @@ public class DiTichDetailController {
     @FXML
     private FlowPane relatedCharsFlowPane;
     
-    private HistoricalSite site;
+    @FXML
+    private Button back;
 
+    @FXML
+    void backPressed(ActionEvent event) {
+    	BorderPane parent = (BorderPane)diTichDetailRoot.getParent();
+    	Node preNode = previous.remove(previous.size() - 1);
+    	parent.setCenter(preNode);
+    }
     
     public void setHistoricSite(HistoricalSite site) {
-    	this.site = site;
         HistoricalCharCollection historicalCharCollection = new HistoricalCharCollection();
         try {
             historicalCharCollection.loadJsonFiles();
@@ -52,8 +62,7 @@ public class DiTichDetailController {
             // TODO Auto-generated catch block
             e.printStackTrace();
         }
-
-        this.site = site;
+        
         nameText.setText(site.getEntityName());
         locationText.setText(site.getLocation());
         overviewText.setText(site.getOverview());
@@ -76,6 +85,8 @@ public class DiTichDetailController {
                 figureText.setOnMouseClicked(mouseEvent -> {
                     HistoricalCharacter figure = historicalCharCollection.get(entry.getValue());
                     try {
+                    	previous.addAll(FXCollections.observableArrayList(diTichDetailRoot));
+                    	
                         FXMLLoader loader = new FXMLLoader(getClass().getResource("/newApp/fxml/CharacterDetail.fxml"));
                         
                         ScrollPane root = loader.load();

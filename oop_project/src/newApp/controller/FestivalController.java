@@ -2,33 +2,19 @@ package newApp.controller;
 
 import java.io.IOException;
 
-import application.App;
-import application.controller.SearchBarController;
-import application.controller.SearchBoxListener;
-import application.controller.SiteDetailScreenController;
-import collection.EventCollection;
 import collection.FestivalCollection;
-import collection.HistoricalSiteCollection;
-import entity.Event;
 import entity.Festival;
-import entity.HistoricalSite;
 import javafx.collections.FXCollections;
-import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
-import javafx.scene.Node;
-import javafx.scene.Parent;
-import javafx.scene.Scene;
-import javafx.scene.control.Button;
 import javafx.scene.control.ScrollPane;
 import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableRow;
 import javafx.scene.control.TableView;
 import javafx.scene.control.cell.PropertyValueFactory;
 import javafx.scene.layout.BorderPane;
-import javafx.stage.Stage;
 
-public class FestivalController {
+public class FestivalController extends PreviousStack{
 
     @FXML
     private TableColumn<Festival, Integer> colFesId;
@@ -108,13 +94,15 @@ public class FestivalController {
                     }
                 }
         );
-//doan code nay de di vao chi tiet
+
         fesTable.setRowFactory(tableView -> {
             TableRow<Festival> row = new TableRow<>();
             row.setOnMouseClicked(event -> {
                 if(event.getClickCount() == 2 && (!row.isEmpty())){
                     Festival fes = row.getItem();
                     try {
+                    	previous.addAll(FXCollections.observableArrayList(fesRoot.getChildren()));
+                    	
                         FXMLLoader loader = new FXMLLoader(getClass().getResource("/newApp/fxml/FestivalDetail.fxml"));
                         ScrollPane root = loader.load();
                         FestivalDetailController controller = loader.getController();

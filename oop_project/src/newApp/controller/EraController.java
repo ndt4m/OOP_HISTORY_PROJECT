@@ -2,28 +2,19 @@ package newApp.controller;
 
 import java.io.IOException;
 
-import application.App;
-import application.controller.EraDetailScreenController;
 import collection.EraCollection;
 import entity.Era;
-import entity.HistoricalSite;
 import javafx.collections.FXCollections;
-import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
-import javafx.scene.Node;
-import javafx.scene.Parent;
-import javafx.scene.Scene;
-import javafx.scene.control.Button;
 import javafx.scene.control.ScrollPane;
 import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableRow;
 import javafx.scene.control.TableView;
 import javafx.scene.control.cell.PropertyValueFactory;
 import javafx.scene.layout.BorderPane;
-import javafx.stage.Stage;
 
-public class EraController {
+public class EraController extends PreviousStack{
 
     @FXML
     private TableColumn<Era, String> colEraCapital;
@@ -111,6 +102,8 @@ public class EraController {
                 if (event.getClickCount() == 2 && (!row.isEmpty())) {
                     Era era = row.getItem();
                     try {
+                    	previous.addAll(FXCollections.observableArrayList(eraRoot.getChildren()));
+                    	
                         FXMLLoader loader = new FXMLLoader(getClass().getResource("/newApp/fxml/EraDetail.fxml"));
                         ScrollPane root = loader.load();
                         EraDetailController controller = loader.getController();

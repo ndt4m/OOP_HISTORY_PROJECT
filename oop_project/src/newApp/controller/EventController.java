@@ -2,32 +2,19 @@ package newApp.controller;
 
 import java.io.IOException;
 
-import application.App;
-import application.controller.EventDetailScreenController;
-import application.controller.SearchBarController;
-import application.controller.SearchBoxListener;
-import application.controller.SiteDetailScreenController;
 import collection.EventCollection;
-import collection.HistoricalSiteCollection;
 import entity.Event;
-import entity.HistoricalSite;
 import javafx.collections.FXCollections;
-import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
-import javafx.scene.Node;
-import javafx.scene.Parent;
-import javafx.scene.Scene;
-import javafx.scene.control.Button;
 import javafx.scene.control.ScrollPane;
 import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableRow;
 import javafx.scene.control.TableView;
 import javafx.scene.control.cell.PropertyValueFactory;
 import javafx.scene.layout.BorderPane;
-import javafx.stage.Stage;
 
-public class EventController {
+public class EventController extends PreviousStack{
 
     @FXML
     private TableColumn<Event, Integer> colEventId;
@@ -106,13 +93,15 @@ public class EventController {
                     }
                 }
         );
-//doan code nay de di vao chi tiet
+
         eventTable.setRowFactory(tableView -> {
             TableRow<Event> row = new TableRow<>();
             row.setOnMouseClicked(mouseEvent -> {
                 if(mouseEvent.getClickCount() == 2 && (!row.isEmpty())){
                     Event event = row.getItem();
                     try {
+                    	previous.addAll(FXCollections.observableArrayList(eventRoot.getChildren()));
+                    	
                         FXMLLoader loader = new FXMLLoader(getClass().getResource("/newApp/fxml/EventDetail.fxml"));
                         ScrollPane root = loader.load();
                         EventDetailController controller = loader.getController();

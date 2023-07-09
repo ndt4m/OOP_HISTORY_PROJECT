@@ -6,10 +6,8 @@ import application.App;
 import collection.HistoricalSiteCollection;
 import entity.HistoricalSite;
 import javafx.collections.FXCollections;
-import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
-import javafx.scene.control.Button;
 import javafx.scene.control.ScrollPane;
 import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableRow;
@@ -17,7 +15,7 @@ import javafx.scene.control.TableView;
 import javafx.scene.control.cell.PropertyValueFactory;
 import javafx.scene.layout.BorderPane;
 
-public class DiTichController {
+public class DiTichController extends PreviousStack{
 
     @FXML
     private TableColumn<HistoricalSite, Integer> colSiteId;
@@ -38,10 +36,7 @@ public class DiTichController {
     private BorderPane siteRoot;
     
     @FXML 
-    private BorderPane siteNode1;
-    
-
-    
+    private BorderPane siteNode1;   
     
     @FXML
     void initialize() {
@@ -92,7 +87,7 @@ public class DiTichController {
                     }
                 }
         );
-//doan code nay de di vao chi tiet
+
         
         siteTable.setRowFactory(tableView -> {
             TableRow<HistoricalSite> row = new TableRow<>();
@@ -100,6 +95,8 @@ public class DiTichController {
                 if(event.getClickCount() == 2 && (!row.isEmpty())){
                     HistoricalSite site = row.getItem();
                     try {
+                    	previous.addAll(FXCollections.observableArrayList(siteRoot.getChildren()));
+                    	
                         FXMLLoader loader = new FXMLLoader(App.convertToURL("/newApp/fxml/DiTichDetail.fxml"));
                         ScrollPane root = loader.load();
                         DiTichDetailController controller = loader.getController();
