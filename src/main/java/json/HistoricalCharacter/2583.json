@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Quí Tị 1953",
-  "hometown" : "quê tỉnh Ninh Bình",
-  "occupation" : "Nhà văn",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Quí Tị 1953",
+  "hometown": "quê tỉnh Ninh Bình",
+  "occupation": "Nhà văn",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 2583,
-  "entityName" : "Đinh Gia Thuyết",
-  "aliases" : [ "Thi Nham" ],
-  "overview" : "Ông là nhà văn chuyên viết báo và dịch, phiên âm, chú thích sách cổ văn, cộng tác với nhiều nhà xuất bản. Ông là trợ bút báo Tri Tân và nhiều tạp chí khác. Ông từng nghiên cứu và viết tập lịch sử tên các phố Hà Nội, đã xuất bản năm 1954, ông còn hiệu đính và chú giải một số văn Nôm như Phan Trần, Bích Câu kì ngộ, Nhị độ mai... do nhà Tân Việt xuất bản. Tác phẩm: - Mảnh tình chung (tiểu thuyết) Hà Nội, Nhà in Mạc Đình Tư, 1922 - Nữ lưu tướng (tiểu thuyết cùng viết với Phạm Văn Phương), Hà Nội, Nhà in Mạc Đình Tư, 1922. - Ngọn cờ lau (lịch sử tiểu thuyết), Hà Nội, Nhà in 1931. - Ngọn cờ vàng - Truyện bà Triệu Ẩu, Hà Nội, Nhà in Thực nghiệp, 1934. - Lịch sử các phố, Hà Nội, 1951. - Phan Trần, Tân Việt. X. B. 1956. - Nhị độ mai, Tân Việt, X. B. 1956. - Bích Câu kỳ ngộ, TânViệt, X. B. 1955."
+  "id": 2583,
+  "entityName": "Đinh Gia Thuyết",
+  "aliases": [
+    "Thi Nham"
+  ],
+  "overview": "Ông là nhà văn chuyên viết báo và dịch, phiên âm, chú thích sách cổ văn, cộng tác với nhiều nhà xuất bản. Ông là trợ bút báo Tri Tân và nhiều tạp chí khác. Ông từng nghiên cứu và viết tập lịch sử tên các phố Hà Nội, đã xuất bản năm 1954, ông còn hiệu đính và chú giải một số văn Nôm như Phan Trần, Bích Câu kì ngộ, Nhị độ mai... do nhà Tân Việt xuất bản. Tác phẩm: - Mảnh tình chung (tiểu thuyết) Hà Nội, Nhà in Mạc Đình Tư, 1922 - Nữ lưu tướng (tiểu thuyết cùng viết với Phạm Văn Phương), Hà Nội, Nhà in Mạc Đình Tư, 1922. - Ngọn cờ lau (lịch sử tiểu thuyết), Hà Nội, Nhà in 1931. - Ngọn cờ vàng - Truyện bà Triệu Ẩu, Hà Nội, Nhà in Thực nghiệp, 1934. - Lịch sử các phố, Hà Nội, 1951. - Phan Trần, Tân Việt. X. B. 1956. - Nhị độ mai, Tân Việt, X. B. 1956. - Bích Câu kỳ ngộ, TânViệt, X. B. 1955."
 }

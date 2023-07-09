@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê làng Hội Trào, huyện Hoằng Hóa, tỉnh Thanh Hóa",
-  "occupation" : "Danh sĩ đời Lê Anh tông, con cụ Bảng nhãn Lương Đắc Bằng",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nam - Bắc Triều" : 19
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "quê làng Hội Trào, huyện Hoằng Hóa, tỉnh Thanh Hóa",
+  "occupation": "Danh sĩ đời Lê Anh tông, con cụ Bảng nhãn Lương Đắc Bằng",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nam - Bắc Triều": 19
   },
-  "id" : 558,
-  "entityName" : "Lương Hữu Khánh",
-  "aliases" : [ ],
-  "overview" : "Ông nổi tiếng thông minh từ thuở bé. Vâng lời cha, ông theo học với Trạng Trình Nguyễn Bỉnh Khiêm, nguyên là học trò của cha ông khi trước nên cũng giỏi văn học và lí số. Năm Mậu tuất 1538, đời nhà Mạc, ông đỗ thứ hai thi Hội nhưng lại không vào thi Đình, vì được tin nhà Lê đang chấn chỉnh lại ở Thanh Hóa. Ông lén vào Thanh, được Trịnh Kiểm tiếp đón ân cần, đưa vào ra mắt vua Lê. Từ ấy ông dốc lòng phò Lê chống Mạc, hiến kế, công lao rất dày, được vua Lê, chúa Trịnh đều trọng đãi. Sau làm đến Thượng thư bộ Binh, tước Đạt Quận Công, nghiễm nhiên là trọng thân trong đời Trung hưng nhà Lê. Con ông là Khiêm Hanh về sau cũng là vị Hoàng giáp có danh vọng."
+  "id": 558,
+  "entityName": "Lương Hữu Khánh",
+  "aliases": [],
+  "overview": "Ông nổi tiếng thông minh từ thuở bé. Vâng lời cha, ông theo học với Trạng Trình Nguyễn Bỉnh Khiêm, nguyên là học trò của cha ông khi trước nên cũng giỏi văn học và lí số. Năm Mậu tuất 1538, đời nhà Mạc, ông đỗ thứ hai thi Hội nhưng lại không vào thi Đình, vì được tin nhà Lê đang chấn chỉnh lại ở Thanh Hóa. Ông lén vào Thanh, được Trịnh Kiểm tiếp đón ân cần, đưa vào ra mắt vua Lê. Từ ấy ông dốc lòng phò Lê chống Mạc, hiến kế, công lao rất dày, được vua Lê, chúa Trịnh đều trọng đãi. Sau làm đến Thượng thư bộ Binh, tước Đạt Quận Công, nghiễm nhiên là trọng thân trong đời Trung hưng nhà Lê. Con ông là Khiêm Hanh về sau cũng là vị Hoàng giáp có danh vọng."
 }

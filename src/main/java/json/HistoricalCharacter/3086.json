@@ -1,17 +1,20 @@
 {
-  "dateOfBirth" : "Quí Sửu 1913",
-  "dateOfDeath" : "Quí Mùi 2003",
-  "hometown" : "tại xã Dục Tú, huyện Đông Anh, TP Hà Nội",
-  "occupation" : "Nhà văn, Nhà báo",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+  "dateOfBirth": "Quí Sửu 1913",
+  "dateOfDeath": "Quí Mùi 2003",
+  "hometown": "tại xã Dục Tú, huyện Đông Anh, TP Hà Nội",
+  "occupation": "Nhà văn, Nhà báo",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11,
+    "Nước Việt Nam mới": 29
   },
-  "id" : 3086,
-  "entityName" : "Nguyễn Văn Tước",
-  "aliases" : [ "Xích Điểu", "Trần Minh Tước" ],
-  "overview" : "Xuất thân trong một gia đình Nho học yêu nước, thuở nhỏ học ở Hà Nội. Tốt nghiệp Tú tài Pháp Việt, ông gia nhập làng văn; viết cho các tờ Phụ Nữ Thời đàm, Thời báo Nông Công Thương, Le Travail, L'Essor Indochinois, Le Peuple... ở Hà Nội, Sài Gòn. Do việc viết báo và tham gia công tác Cách mạng bí mật, ông bị Pháp bắt đày lên Sơn La. Cách mạng tháng 8 và kháng chiến toàn quốc ông tham kháng chiến ở vùng Tự do suốt năm 9 năm (1946-1954). Sau hiệp định Genève ông về Hà Nội vẫn làm việc ở ngành báo chí. Từng giữ các chức vụ:Giám đốc Sở báo chí trung ương, Phó Tổng thư kí Hội nhà báo Việt Nam từ năm 1955-1975. Các tác phẩm của ông: - Trắng đen (thơ, 1960) - Sau mặt nạ nhân vị (1961) - Người hay vật (1962) - Cái đuôi chó (1969) - Cướp cũ cướp mới (1971) - Chủ nghĩa lưu manh hiện đại (1971) - Mệnh phụ cuồng mê (tiểu thuyết, 1989) Ông mất ngày 26 tháng 7 năm 2003 tại TP. Hồ Chí Minh."
+  "id": 3086,
+  "entityName": "Nguyễn Văn Tước",
+  "aliases": [
+    "Xích Điểu",
+    "Trần Minh Tước"
+  ],
+  "overview": "Xuất thân trong một gia đình Nho học yêu nước, thuở nhỏ học ở Hà Nội. Tốt nghiệp Tú tài Pháp Việt, ông gia nhập làng văn; viết cho các tờ Phụ Nữ Thời đàm, Thời báo Nông Công Thương, Le Travail, L\u0027Essor Indochinois, Le Peuple... ở Hà Nội, Sài Gòn. Do việc viết báo và tham gia công tác Cách mạng bí mật, ông bị Pháp bắt đày lên Sơn La. Cách mạng tháng 8 và kháng chiến toàn quốc ông tham kháng chiến ở vùng Tự do suốt năm 9 năm (1946-1954). Sau hiệp định Genève ông về Hà Nội vẫn làm việc ở ngành báo chí. Từng giữ các chức vụ:Giám đốc Sở báo chí trung ương, Phó Tổng thư kí Hội nhà báo Việt Nam từ năm 1955-1975. Các tác phẩm của ông: - Trắng đen (thơ, 1960) - Sau mặt nạ nhân vị (1961) - Người hay vật (1962) - Cái đuôi chó (1969) - Cướp cũ cướp mới (1971) - Chủ nghĩa lưu manh hiện đại (1971) - Mệnh phụ cuồng mê (tiểu thuyết, 1989) Ông mất ngày 26 tháng 7 năm 2003 tại TP. Hồ Chí Minh."
 }

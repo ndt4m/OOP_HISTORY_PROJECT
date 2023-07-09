@@ -1,16 +1,21 @@
 {
-  "dateOfBirth" : "Nhâm Tí 1912",
-  "dateOfDeath" : "Canh Thìn 1940",
-  "hometown" : "Quảng Bình",
-  "occupation" : "Nhà thơ ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "Nhâm Tí 1912",
+  "dateOfDeath": "Canh Thìn 1940",
+  "hometown": "Quảng Bình",
+  "occupation": "Nhà thơ ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 2440,
-  "entityName" : "Nguyễn Trọng Trí",
-  "aliases" : [ "Hàn Mặc Tử", "Minh Duệ Thị", "Phong Trần", "Lệ Thanh" ],
-  "overview" : "Ông sinh ngày 22-9-1912 tại Lệ Mĩ (Đồng Hới) tỉnh Quảng Bình, con ông Nguyễn Văn Toản và bà Nguyễn Thị Duy. Tổ tiên vốn họ Phạm và quê quán ở Thanh Hóa. Ông cố tên Phạm Chương liên can về quốc sự, gia đình bị truy nã, nên người con là Phạm Bổi trốn vào Thừa Thiên đổi ra họ Nguyễn, theo họ mẹ. Thân sinh ông (Nguyễn Văn Toản) là con trưởng cụ Phạm Bồi tức Nguyễn Bồi. Từ năm 1930-1931, ông làm thơ và bắt đầu có tiếng, nhất là có mấy bài Đường luật như Thức Khuya được Phan Bội Châu khen và họa lại. Non sông bốn mặt ngủ mơ màng, Thức chỉ mình ta dạ chẳng an. Bóng nguyệt leo song sờ sẫm gối, Gió thu lọt cửa cọ màn chăn. Khóc giùm thân thế hoa rơi lệ, Buồn giúp công danh dế dạo đàn. Chổi đập nôm na vài điệu cũ. Năm canh tâm sự vẫn chưa tàn. Phan Bội Châu họa: Chợ lợi trường danh tí chẳng màng, Sao ăn không ngọt ngủ không an ? Trăm năm ngán đó tuồng dâu bể, Muôn họ nhờ ai bạn chiếu chăn. Cửa sấm gớm ghê người đánh trống, Tai trâu mỏi mệt khách đưa đàn. Lòng sen đằng đẵng tơ sen vướng, Mưa gió bao phen gổc chẳng tàn. Ông làm việc ở sở Đạc điền Qui Nhơn (1932), thỉnh thoảng gởi thơ đăng ở tuần báo Phụ nữ Tân văn trong Nam, kí tắt với bút hiệu P.T Qui Nhơn. Đầu năm 1935 ông xin thôi việc, rồi vào Sài Gòn, giữ trang văn chương ở các báo Sài Gòn, Công Luận, Tân Thời, Trong khuê phòng. Được một năm, ông trở về Qui Nhơn, rồi mắc bệnh phong, điều trị tại nhà khá lâu không hết, ông bị cưỡng bức vào nhà thương Qui Hòa. Chẳng bao lâu ông mất vào ngày 11-11-1940, hưởng dương 28 tuổi. Ông còn để lại đời mấy tập thơ xuất sắc: - Gái quê, xuất bản 1936. - Thơ Hàn Mặc Tử (1957). Người bạn thơ Quách Tấn mộng thấy Hàn Mặc Tử: Ôi Lê Thanh! Ôi Lê Thanh! Một giấc trưa nay lại gặp mình. Nhan sắc châu sa màu phú quí Tài ba bút trổ nét tinh anh. Rượu tần thu cũ say sưa chuyện, Hương lạ trời cao bát ngát tình. Tôi khóc tôi cười vang cả mộng, Nhớ thương đưa lạc gió qua mành."
+  "id": 2440,
+  "entityName": "Nguyễn Trọng Trí",
+  "aliases": [
+    "Hàn Mặc Tử",
+    "Minh Duệ Thị",
+    "Phong Trần",
+    "Lệ Thanh"
+  ],
+  "overview": "Ông sinh ngày 22-9-1912 tại Lệ Mĩ (Đồng Hới) tỉnh Quảng Bình, con ông Nguyễn Văn Toản và bà Nguyễn Thị Duy. Tổ tiên vốn họ Phạm và quê quán ở Thanh Hóa. Ông cố tên Phạm Chương liên can về quốc sự, gia đình bị truy nã, nên người con là Phạm Bổi trốn vào Thừa Thiên đổi ra họ Nguyễn, theo họ mẹ. Thân sinh ông (Nguyễn Văn Toản) là con trưởng cụ Phạm Bồi tức Nguyễn Bồi. Từ năm 1930-1931, ông làm thơ và bắt đầu có tiếng, nhất là có mấy bài Đường luật như Thức Khuya được Phan Bội Châu khen và họa lại. Non sông bốn mặt ngủ mơ màng, Thức chỉ mình ta dạ chẳng an. Bóng nguyệt leo song sờ sẫm gối, Gió thu lọt cửa cọ màn chăn. Khóc giùm thân thế hoa rơi lệ, Buồn giúp công danh dế dạo đàn. Chổi đập nôm na vài điệu cũ. Năm canh tâm sự vẫn chưa tàn. Phan Bội Châu họa: Chợ lợi trường danh tí chẳng màng, Sao ăn không ngọt ngủ không an ? Trăm năm ngán đó tuồng dâu bể, Muôn họ nhờ ai bạn chiếu chăn. Cửa sấm gớm ghê người đánh trống, Tai trâu mỏi mệt khách đưa đàn. Lòng sen đằng đẵng tơ sen vướng, Mưa gió bao phen gổc chẳng tàn. Ông làm việc ở sở Đạc điền Qui Nhơn (1932), thỉnh thoảng gởi thơ đăng ở tuần báo Phụ nữ Tân văn trong Nam, kí tắt với bút hiệu P.T Qui Nhơn. Đầu năm 1935 ông xin thôi việc, rồi vào Sài Gòn, giữ trang văn chương ở các báo Sài Gòn, Công Luận, Tân Thời, Trong khuê phòng. Được một năm, ông trở về Qui Nhơn, rồi mắc bệnh phong, điều trị tại nhà khá lâu không hết, ông bị cưỡng bức vào nhà thương Qui Hòa. Chẳng bao lâu ông mất vào ngày 11-11-1940, hưởng dương 28 tuổi. Ông còn để lại đời mấy tập thơ xuất sắc: - Gái quê, xuất bản 1936. - Thơ Hàn Mặc Tử (1957). Người bạn thơ Quách Tấn mộng thấy Hàn Mặc Tử: Ôi Lê Thanh! Ôi Lê Thanh! Một giấc trưa nay lại gặp mình. Nhan sắc châu sa màu phú quí Tài ba bút trổ nét tinh anh. Rượu tần thu cũ say sưa chuyện, Hương lạ trời cao bát ngát tình. Tôi khóc tôi cười vang cả mộng, Nhớ thương đưa lạc gió qua mành."
 }

@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê tỉnh Gia Định xưa (nay thuộc quận 11, thành phố Hồ Chí Minh)",
-  "occupation" : "Danh sĩ đời Gia Long",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "quê tỉnh Gia Định xưa (nay thuộc quận 11, thành phố Hồ Chí Minh)",
+  "occupation": "Danh sĩ đời Gia Long",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 568,
-  "entityName" : "Diệp Minh Phụng",
-  "aliases" : [ "Kì Sơn" ],
-  "overview" : "Ông có chân trong nhóm Sơn Hội (người trong Hội, tên hiệu đều có chữ Sơn như Chỉ Sơn Trịnh Hoài Đức, Cấn Sơn Ngô Nhân Tịnh, Hối Sơn Hoàng Ngọc Uẩn...). Khoảng năm Quí mão 1783, Trịnh Hoài Đức có bài thơ tặng ông Khách Cao Miên quốc kí hoài Diệp Minh Phụng Kì Sơn: \"Tân Châu giải lăm hệ Phiên Thành Việt khách tương tư xúc xứ sinh. Đế Thích tự tiền hồ kế điệu, Nam Vinh giang thượng mạch ca thinh. Đồng ngâm nhan sắc cô bồng nguyệt, Cố quốc âm thư vạn lý trình. Cực mục phong đào hành bất đắc, Liên nhân thôi phục giá cô minh\". Bản dịch: Tân Châu mở đối, đậu Phiên Thành, Khách Việt tương tư xúc cảnh sinh Câu kệ rợ hồ chùa Đế Thích. Tiếng hò khách mạch đất Nam Vinh. Thuyền côi trăng dọi dung quang bạn, Nước cũ âm trinh mấy dặm trình. Mút mắt ba đào đi chẳng được. Giá cô kêu gọi gợi thâm tình. Ông cùng các bạn văn trong nhóm Sơn hội đều có thơ hay vào buổi đầu ở đất Gia Định xưa. Trước đây (1975) tên ông được đặt tên cho một trường tiều học ở Chợ Lớn."
+  "id": 568,
+  "entityName": "Diệp Minh Phụng",
+  "aliases": [
+    "Kì Sơn"
+  ],
+  "overview": "Ông có chân trong nhóm Sơn Hội (người trong Hội, tên hiệu đều có chữ Sơn như Chỉ Sơn Trịnh Hoài Đức, Cấn Sơn Ngô Nhân Tịnh, Hối Sơn Hoàng Ngọc Uẩn...). Khoảng năm Quí mão 1783, Trịnh Hoài Đức có bài thơ tặng ông Khách Cao Miên quốc kí hoài Diệp Minh Phụng Kì Sơn: \"Tân Châu giải lăm hệ Phiên Thành Việt khách tương tư xúc xứ sinh. Đế Thích tự tiền hồ kế điệu, Nam Vinh giang thượng mạch ca thinh. Đồng ngâm nhan sắc cô bồng nguyệt, Cố quốc âm thư vạn lý trình. Cực mục phong đào hành bất đắc, Liên nhân thôi phục giá cô minh\". Bản dịch: Tân Châu mở đối, đậu Phiên Thành, Khách Việt tương tư xúc cảnh sinh Câu kệ rợ hồ chùa Đế Thích. Tiếng hò khách mạch đất Nam Vinh. Thuyền côi trăng dọi dung quang bạn, Nước cũ âm trinh mấy dặm trình. Mút mắt ba đào đi chẳng được. Giá cô kêu gọi gợi thâm tình. Ông cùng các bạn văn trong nhóm Sơn hội đều có thơ hay vào buổi đầu ở đất Gia Định xưa. Trước đây (1975) tên ông được đặt tên cho một trường tiều học ở Chợ Lớn."
 }

@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Mậu Thân 1908",
-  "hometown" : "quê xã Lạc Phố, huyện Mộ Đức, tỉnh Quảng Ngãi",
-  "occupation" : "Chí sĩ yêu nước, con Tổng đốc Sơn Hưng Tuyên Nguyễn Bá Nghi, nên tục gọi là Ấm Loan",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "…",
+  "dateOfDeath": "Mậu Thân 1908",
+  "hometown": "quê xã Lạc Phố, huyện Mộ Đức, tỉnh Quảng Ngãi",
+  "occupation": "Chí sĩ yêu nước, con Tổng đốc Sơn Hưng Tuyên Nguyễn Bá Nghi, nên tục gọi là Ấm Loan",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 2156,
-  "entityName" : "Nguyễn Bá Loan",
-  "aliases" : [ "Ấm Loan" ],
-  "overview" : "Các năm 1906-1908 ông cùng Lê Khiết (tức Bố Khiết), Nguyễn Thụy (tức Cử Thụy hay Sụy) là ba nhân vật được xem như lãnh tụ phong trào Duy tân ở Quảng Ngãi. Ông cùng các đồng chí hoạt động hướng về ba mục đích bài trừ những tệ nạn xã hội, mở mang dân trí, giành lại chủ quyền dân tộc để mưu cầu hạnh phúc cho nhân dân. Năm 1908 phong trào Duy tân phát khởi bằng cuộc biểu tình kháng thuế chống sưu, ông là một trong những người lãnh đạo phong trào ở Quảng Ngãi. Thực dân và tay sai Nam triều khủng bố trắng, ông bị bắt giam tại nhà lao tỉnh Quảng Ngãi. Công sứ Pháp là Daudet và Tuần phủ Ưng Định khuyên ông qui hàng sẽ được Nam triều và Pháp trọng đãi, ông phản bác những lời cám dỗ, kiên quyết không khuất phục thực dân và tay sai. Ông bị giam ở Huế hơn 3 tháng rồi đưa về chém ở chợ Quảng Ngãi, hi sinh trong năm 1908."
+  "id": 2156,
+  "entityName": "Nguyễn Bá Loan",
+  "aliases": [
+    "Ấm Loan"
+  ],
+  "overview": "Các năm 1906-1908 ông cùng Lê Khiết (tức Bố Khiết), Nguyễn Thụy (tức Cử Thụy hay Sụy) là ba nhân vật được xem như lãnh tụ phong trào Duy tân ở Quảng Ngãi. Ông cùng các đồng chí hoạt động hướng về ba mục đích bài trừ những tệ nạn xã hội, mở mang dân trí, giành lại chủ quyền dân tộc để mưu cầu hạnh phúc cho nhân dân. Năm 1908 phong trào Duy tân phát khởi bằng cuộc biểu tình kháng thuế chống sưu, ông là một trong những người lãnh đạo phong trào ở Quảng Ngãi. Thực dân và tay sai Nam triều khủng bố trắng, ông bị bắt giam tại nhà lao tỉnh Quảng Ngãi. Công sứ Pháp là Daudet và Tuần phủ Ưng Định khuyên ông qui hàng sẽ được Nam triều và Pháp trọng đãi, ông phản bác những lời cám dỗ, kiên quyết không khuất phục thực dân và tay sai. Ông bị giam ở Huế hơn 3 tháng rồi đưa về chém ở chợ Quảng Ngãi, hi sinh trong năm 1908."
 }

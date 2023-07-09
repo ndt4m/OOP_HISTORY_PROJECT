@@ -1,16 +1,19 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Canh Thìn 1880",
-  "hometown" : "quê làng Gia Miêu, huyện Tống Sơn, tỉnh Thanh Hóa (nay là huyện Hà Trung, tỉnh Thanh Hóa)",
-  "occupation" : "Danh sĩ đời Nguyễn",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+  "dateOfBirth": "…",
+  "dateOfDeath": "Canh Thìn 1880",
+  "hometown": "quê làng Gia Miêu, huyện Tống Sơn, tỉnh Thanh Hóa (nay là huyện Hà Trung, tỉnh Thanh Hóa)",
+  "occupation": "Danh sĩ đời Nguyễn",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 1343,
-  "entityName" : "Nguyễn Tĩnh",
-  "aliases" : [ "Nông Hà", "Hành Đạo" ],
-  "overview" : "Năm Giáp dần 1854 sau khi thi đậu, được bổ Hàn lâm trước tác, tri huyện Thọ Xương (Hà Nội) thăng đến Tổng đốc Thanh Hóa. Đời làm quan ông thanh liêm, cương trực được nhân dân yêu mến, sĩ phu trọng vọng. Ông còn là một nhà thơ, một nhà y học nổi tiếng. Lúc làm quan ông có lập nhà chữa bệnh cho nhân dân. Ông chuyên nghiên cứu về y học. Tác phẩm chính của ông còn lại: - Thế nhân dược liệu - Nông hà thi văn sao - Sĩ học trát kí - Hà đê tấu tập (công trình thủy lợi). Ông mất năm Canh thìn 1880."
+  "id": 1343,
+  "entityName": "Nguyễn Tĩnh",
+  "aliases": [
+    "Nông Hà",
+    "Hành Đạo"
+  ],
+  "overview": "Năm Giáp dần 1854 sau khi thi đậu, được bổ Hàn lâm trước tác, tri huyện Thọ Xương (Hà Nội) thăng đến Tổng đốc Thanh Hóa. Đời làm quan ông thanh liêm, cương trực được nhân dân yêu mến, sĩ phu trọng vọng. Ông còn là một nhà thơ, một nhà y học nổi tiếng. Lúc làm quan ông có lập nhà chữa bệnh cho nhân dân. Ông chuyên nghiên cứu về y học. Tác phẩm chính của ông còn lại: - Thế nhân dược liệu - Nông hà thi văn sao - Sĩ học trát kí - Hà đê tấu tập (công trình thủy lợi). Ông mất năm Canh thìn 1880."
 }

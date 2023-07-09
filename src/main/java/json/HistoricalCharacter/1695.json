@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Canh Tị 1840",
-  "dateOfDeath" : "Bính Tuất 1886",
-  "hometown" : "nguyên quán làng Lương Ngọc, huyện Bình Giang, tỉnh Hải Dương (nay thuộc Hải Dương), ngụ xã Kim Cổ, huyện Thọ Xương, Hà Nội",
-  "occupation" : "Danh sĩ đời ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+  "dateOfBirth": "Canh Tị 1840",
+  "dateOfDeath": "Bính Tuất 1886",
+  "hometown": "nguyên quán làng Lương Ngọc, huyện Bình Giang, tỉnh Hải Dương (nay thuộc Hải Dương), ngụ xã Kim Cổ, huyện Thọ Xương, Hà Nội",
+  "occupation": "Danh sĩ đời ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 1695,
-  "entityName" : "Vũ Nhự",
-  "aliases" : [ "Đông Phần" ],
-  "overview" : "Năm Tân dậu 1861, ông đỗ cử nhân, Mận thìn 1868 đỗ Hoàng giáp, làm quan đến Đốc học Hà Nội, hàm Quang lộc tự khanh, sung Nội các. Có lúc ông lãnh chức Tuần phủ Hà Nội. Sau đó trở về kinh được thăng Tham tri Toản tu Quốc tử giám. Ông nổi tiếng thông minh, lúc trúng tuyển thi Đình, vua có tặng bài thơ: \"Chiết quế thiềm cung duyệt kỉ thu, Lục bào do trứ cựu phong lưu. Thác nghi bái tạ quỳnh lâm yến, Định thị kim triêu hiệu sắc đầu.\" Bản dịch: Bẻ quế cung thiềm trải mấy thâu (thu) Bào xanh còn rõ nếp phong lưu. Ngờ khi lạy tạ Quỳnh lâm yến. Sắc chỉ ngày nay lại đứng đầu. Năm 1866 ông mất, hưởng dương 46 tuổi. Các tác phẩm của ông có: - Quốc sử lãm yếu - Lâm Lang di thảo tập - Phương Đình tùy bút lục - Bảo huấn tập yếu - Yêm bác khoa văn"
+  "id": 1695,
+  "entityName": "Vũ Nhự",
+  "aliases": [
+    "Đông Phần"
+  ],
+  "overview": "Năm Tân dậu 1861, ông đỗ cử nhân, Mận thìn 1868 đỗ Hoàng giáp, làm quan đến Đốc học Hà Nội, hàm Quang lộc tự khanh, sung Nội các. Có lúc ông lãnh chức Tuần phủ Hà Nội. Sau đó trở về kinh được thăng Tham tri Toản tu Quốc tử giám. Ông nổi tiếng thông minh, lúc trúng tuyển thi Đình, vua có tặng bài thơ: \"Chiết quế thiềm cung duyệt kỉ thu, Lục bào do trứ cựu phong lưu. Thác nghi bái tạ quỳnh lâm yến, Định thị kim triêu hiệu sắc đầu.\" Bản dịch: Bẻ quế cung thiềm trải mấy thâu (thu) Bào xanh còn rõ nếp phong lưu. Ngờ khi lạy tạ Quỳnh lâm yến. Sắc chỉ ngày nay lại đứng đầu. Năm 1866 ông mất, hưởng dương 46 tuổi. Các tác phẩm của ông có: - Quốc sử lãm yếu - Lâm Lang di thảo tập - Phương Đình tùy bút lục - Bảo huấn tập yếu - Yêm bác khoa văn"
 }

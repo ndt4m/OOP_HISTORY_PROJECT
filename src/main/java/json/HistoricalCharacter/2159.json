@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "1919",
-  "dateOfDeath" : "1993",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 2159,
-  "entityName" : "Phạm Ngọc Mậu",
-  "aliases" : [ ],
-  "overview" : "Phạm Ngọc Mậu (1919-1993) là một cựu tướng lĩnh Quân đội Nhân dân Việt Nam, hàm Thượng tướng. Ông từng giữ chức Phó Chủ nhiệm Tổng cục Chính trị (1961-1988), Tổng cục trưởng Tổng cục cán bộ Quân đội Nhân dân Việt Nam."
+  "dateOfBirth": "1919",
+  "dateOfDeath": "1993",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 2159,
+  "entityName": "Phạm Ngọc Mậu",
+  "aliases": [],
+  "overview": "Phạm Ngọc Mậu (1919-1993) là một cựu tướng lĩnh Quân đội Nhân dân Việt Nam, hàm Thượng tướng. Ông từng giữ chức Phó Chủ nhiệm Tổng cục Chính trị (1961-1988), Tổng cục trưởng Tổng cục cán bộ Quân đội Nhân dân Việt Nam."
 }

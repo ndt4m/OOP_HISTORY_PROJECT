@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "30 tháng 7 năm 1917 Sơn Tây",
-  "dateOfDeath" : "15 tháng 11, 1998 (81 tuổi) Hà Nội",
-  "hometown" : "Không rõ",
-  "occupation" : "Nhạc sĩ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 2375,
-  "entityName" : "Lê Yên",
-  "aliases" : [ "Lê Đình Yên" ],
-  "overview" : "Lê Yên tên thật Lê Đình Yên (1917 - 1998) là một nhạc sĩ tiền chiến nổi tiếng, thuộc thế hệ tiên phong của tân nhạc Việt Nam. Ông là tác giả của những ca khúc Bẽ bàng, Xuân nghệ sĩ hành khúc, Ngựa phi đường xa..."
+  "dateOfBirth": "30 tháng 7 năm 1917 Sơn Tây",
+  "dateOfDeath": "15 tháng 11, 1998 (81 tuổi) Hà Nội",
+  "hometown": "Không rõ",
+  "occupation": "Nhạc sĩ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 2375,
+  "entityName": "Lê Yên",
+  "aliases": [
+    "Lê Đình Yên"
+  ],
+  "overview": "Lê Yên tên thật Lê Đình Yên (1917 - 1998) là một nhạc sĩ tiền chiến nổi tiếng, thuộc thế hệ tiên phong của tân nhạc Việt Nam. Ông là tác giả của những ca khúc Bẽ bàng, Xuân nghệ sĩ hành khúc, Ngựa phi đường xa..."
 }

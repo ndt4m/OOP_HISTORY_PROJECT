@@ -1,16 +1,19 @@
 {
-  "dateOfBirth" : "Giáp Thìn 1904",
-  "dateOfDeath" : "Đinh Sửu 1937",
-  "hometown" : "quê làng Tân Thạnh (Sơn Định), huyện Chợ Lách, tỉnh Vĩnh Long (nay thuộc Bến Tre)",
-  "occupation" : "Nhà báo",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "Giáp Thìn 1904",
+  "dateOfDeath": "Đinh Sửu 1937",
+  "hometown": "quê làng Tân Thạnh (Sơn Định), huyện Chợ Lách, tỉnh Vĩnh Long (nay thuộc Bến Tre)",
+  "occupation": "Nhà báo",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 1190,
-  "entityName" : "Nguyễn Văn Bá",
-  "aliases" : [ "Thới Xuyên", "Tiểu Vân" ],
-  "overview" : "Ông tốt nghiệp trường Sư phạm Sài Gòn, từng là giáo sư có phong cách một người thầy gương mẫu, khi còn dạy học, ông thường giúp đỡ các học sinh con nhà nghèo khó mà ham học. Những năm 30, ông bị bệnh, từ chức giáo học, gia nhập làng văn, viết báo, từng làm chủ nhiệm báo Thần Chung - một tờ báo có tiếng và bề thế vào hàng nhất nhì ở Sài Gòn trước thế chiến. Ông là tác giả tiểu thuyết: Người vợ hiền từng được giải thưởng của Hội luân lí Nam Kì. Những năm 1930-1932, Thiếu Sơn trong Phê bình và Cảo luận viết về ông: \"Ông (NVB) cộng tác với nhiều báo, viết bài có bút danh là Tiểu Vân và làm báo Thần Chung với Diệp Văn Kì. Trong cuộc đời dạy học và viết văn, làm báo, ông đã truyền bá tinh thền yêu nước, đạo đức con người và đấu tranh chống áp bức bất công\". Ông mất năm 1937 lúc mới 33 tuổi đang tuổi năng nổ của một nhà báo."
+  "id": 1190,
+  "entityName": "Nguyễn Văn Bá",
+  "aliases": [
+    "Thới Xuyên",
+    "Tiểu Vân"
+  ],
+  "overview": "Ông tốt nghiệp trường Sư phạm Sài Gòn, từng là giáo sư có phong cách một người thầy gương mẫu, khi còn dạy học, ông thường giúp đỡ các học sinh con nhà nghèo khó mà ham học. Những năm 30, ông bị bệnh, từ chức giáo học, gia nhập làng văn, viết báo, từng làm chủ nhiệm báo Thần Chung - một tờ báo có tiếng và bề thế vào hàng nhất nhì ở Sài Gòn trước thế chiến. Ông là tác giả tiểu thuyết: Người vợ hiền từng được giải thưởng của Hội luân lí Nam Kì. Những năm 1930-1932, Thiếu Sơn trong Phê bình và Cảo luận viết về ông: \"Ông (NVB) cộng tác với nhiều báo, viết bài có bút danh là Tiểu Vân và làm báo Thần Chung với Diệp Văn Kì. Trong cuộc đời dạy học và viết văn, làm báo, ông đã truyền bá tinh thền yêu nước, đạo đức con người và đấu tranh chống áp bức bất công\". Ông mất năm 1937 lúc mới 33 tuổi đang tuổi năng nổ của một nhà báo."
 }

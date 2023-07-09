@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Vua",
-  "workTenure" : "?–6 năm",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Hồng Bàng" : 17
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Vua",
+  "workTenure": "?–6 năm",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Hồng Bàng": 17
   },
-  "id" : 2288,
-  "entityName" : "Hùng Vương thứ 19",
-  "aliases" : [ ],
-  "overview" : "Không rõ"
+  "id": 2288,
+  "entityName": "Hùng Vương thứ 19",
+  "aliases": [],
+  "overview": "Không rõ"
 }

@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 2143,
-  "entityName" : "Lý Tín",
-  "aliases" : [ ],
-  "overview" : "Lý Tín (Chữ Hán: 李信) là một tướng nước Tần cuối thời Chiến Quốc."
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 2143,
+  "entityName": "Lý Tín",
+  "aliases": [],
+  "overview": "Lý Tín (Chữ Hán: 李信) là một tướng nước Tần cuối thời Chiến Quốc."
 }

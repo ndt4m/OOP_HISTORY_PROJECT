@@ -1,21 +1,28 @@
 {
-  "dateOfBirth" : "tháng 12, năm 1321\n----------------------------------------------\nTân Dậu 1321\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "15 tháng 12, 1394 (72–73 tuổi) Thăng Long\n----------------------------------------------\nẤt Hợi 1395\n----------------------------------------------\nKhông rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua thứ tám nhà Trần\n----------------------------------------------\nVua",
-  "workTenure" : "15 tháng 11 năm 1370 - 9 tháng 11 năm 1372 (0 năm, 359 ngày)\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1370—1372",
-  "fatherName" : {
-    "Trần Minh Tông" : 2061,
-    "Trần Minh tông" : null
+  "dateOfBirth": "tháng 12, năm 1321\n----------------------------------------------\nTân Dậu 1321\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath": "15 tháng 12, 1394 (72–73 tuổi) Thăng Long\n----------------------------------------------\nẤt Hợi 1395\n----------------------------------------------\nKhông rõ",
+  "hometown": "Không rõ",
+  "occupation": "Hoàng đế Đại Việt\n----------------------------------------------\nVua thứ tám nhà Trần\n----------------------------------------------\nVua",
+  "workTenure": "15 tháng 11 năm 1370 - 9 tháng 11 năm 1372 (0 năm, 359 ngày)\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1370—1372",
+  "fatherName": {
+    "Trần Minh Tông": 330,
+    "Trần Minh tông": null
   },
-  "motherName" : {
-    "Minh Từ quý phi" : null
+  "motherName": {
+    "Minh Từ quý phi": null
   },
-  "eraName" : {
-    "Nhà Trần" : 15
+  "eraName": {
+    "Nhà Trần": 15
   },
-  "id" : 594,
-  "entityName" : "Trần Nghệ Tông",
-  "aliases" : [ "Trần Phủ (陳暊)", "Trần Nghệ Tông", "Thiệu Khánh (紹慶; 1370 - 1372)", "Thể Thiên Kiến Cực Thuần Hiếu Hoàng Đế 體天建極純孝皇帝", "Nghệ Tông (藝宗)", "Nghệ Hoàng" ],
-  "overview" : "Trần Nghệ Tông (chữ Hán: 陳藝宗, tháng 12, năm 1321 - 15 tháng 12, năm 1394), tên húy là Trần Phủ (陳暊) hoặc Trần Thúc Minh (陳叔明), còn gọi là Nghệ Hoàng (藝皇), là vị hoàng đế thứ 8 của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi 2 năm (1370 - 1372), ở ngôi Thái thượng hoàng hơn 20 năm (1372 - 1394).\n----------------------------------------------\nVào đời Dụ tông, ông được phong tước Cung Định vương, năm 1370 ông cùng với hai em là Cung Tuyên vương Kính và Công chúa Thiên Ninh Ngọc Tha dấy quân đánh dẹp Dương Nhật Lễ khôi phục nhà Trần rồi lên ngôi vua. Ông có tài văn chương, quân sự chăm lo việc chính trị, mở mang văn hóa. Làm vua được 3 năm (1370-1372) ông nhường ngôi cho em là Duệ tông. Từ đó nhà Trần suy vi mọi việc do Hồ Quí Ly quyết đoán đẩy nhanh sự sụp đổ của nhà Trần. Ngày 15-12 năm Giáp tuất (6-1-1395) ông mất, thọ 74 tuổi. Các tác phẩm chính của ông: - Hoàng huấn - gồm 14 chương. - Đế châm - gồm 150 câu văn ban cho Trần Kính (Duệ tông). - Bảo hòa điện dư bút - Trần Nghệ tông thi tập\n----------------------------------------------\nTrần Nghệ Tông (chữ Hán: 陳藝宗) (20 tháng 12 năm 1321 – 6 tháng 1 năm 1395), tên húy là Cung Định Vương Trần Phủ (陳暊) hoặc Trần Thúc Minh (陳叔明), xưng hiệu Nghệ Hoàng (藝皇), tôn hiệu Thể khiên kiến cực thuần hiếu hoàng đế (體天建極純孝皇帝), là vị hoàng đế thứ 9 của nhà Trần nước Đại Việt. Ông giữ ngôi 2 năm (1370–1372), ở ngôi Thái thượng hoàng hơn 20 năm (1372–1394). Do trọng dụng ngoại thích Hồ Quý Ly, ông đã tạo cho Quý Ly cơ hội phát triển thế lực tiến đến giành ngôi nhà Trần sau khi ông qua đời."
+  "id": 594,
+  "entityName": "Trần Nghệ Tông",
+  "aliases": [
+    "Trần Phủ (陳暊)",
+    "Trần Nghệ Tông",
+    "Thiệu Khánh (紹慶; 1370 - 1372)",
+    "Thể Thiên Kiến Cực Thuần Hiếu Hoàng Đế 體天建極純孝皇帝",
+    "Nghệ Tông (藝宗)",
+    "Nghệ Hoàng"
+  ],
+  "overview": "Trần Nghệ Tông (chữ Hán: 陳藝宗, tháng 12, năm 1321 - 15 tháng 12, năm 1394), tên húy là Trần Phủ (陳暊) hoặc Trần Thúc Minh (陳叔明), còn gọi là Nghệ Hoàng (藝皇), là vị hoàng đế thứ 8 của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi 2 năm (1370 - 1372), ở ngôi Thái thượng hoàng hơn 20 năm (1372 - 1394).\n----------------------------------------------\nVào đời Dụ tông, ông được phong tước Cung Định vương, năm 1370 ông cùng với hai em là Cung Tuyên vương Kính và Công chúa Thiên Ninh Ngọc Tha dấy quân đánh dẹp Dương Nhật Lễ khôi phục nhà Trần rồi lên ngôi vua. Ông có tài văn chương, quân sự chăm lo việc chính trị, mở mang văn hóa. Làm vua được 3 năm (1370-1372) ông nhường ngôi cho em là Duệ tông. Từ đó nhà Trần suy vi mọi việc do Hồ Quí Ly quyết đoán đẩy nhanh sự sụp đổ của nhà Trần. Ngày 15-12 năm Giáp tuất (6-1-1395) ông mất, thọ 74 tuổi. Các tác phẩm chính của ông: - Hoàng huấn - gồm 14 chương. - Đế châm - gồm 150 câu văn ban cho Trần Kính (Duệ tông). - Bảo hòa điện dư bút - Trần Nghệ tông thi tập\n----------------------------------------------\nTrần Nghệ Tông (chữ Hán: 陳藝宗) (20 tháng 12 năm 1321 – 6 tháng 1 năm 1395), tên húy là Cung Định Vương Trần Phủ (陳暊) hoặc Trần Thúc Minh (陳叔明), xưng hiệu Nghệ Hoàng (藝皇), tôn hiệu Thể khiên kiến cực thuần hiếu hoàng đế (體天建極純孝皇帝), là vị hoàng đế thứ 9 của nhà Trần nước Đại Việt. Ông giữ ngôi 2 năm (1370–1372), ở ngôi Thái thượng hoàng hơn 20 năm (1372–1394). Do trọng dụng ngoại thích Hồ Quý Ly, ông đã tạo cho Quý Ly cơ hội phát triển thế lực tiến đến giành ngôi nhà Trần sau khi ông qua đời."
 }

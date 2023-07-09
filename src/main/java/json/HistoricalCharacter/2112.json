@@ -1,18 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Vua",
-  "workTenure" : "1407—1409",
-  "fatherName" : {
-    "Trần Nghệ Tông" : 2791
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Vua",
+  "workTenure": "1407—1409",
+  "fatherName": {
+    "Trần Nghệ Tông": 594
   },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Hậu Trần" : 23
+  "motherName": {},
+  "eraName": {
+    "Nhà Hậu Trần": 23
   },
-  "id" : 2112,
-  "entityName" : "Giản Định Đế",
-  "aliases" : [ ],
-  "overview" : "Giản Định Đế (chữ Hán: 簡定帝; 1375 – 1410) là vị hoàng đế khai lập nhà Hậu Trần trong lịch sử Việt Nam. Ông tên thật là Trần Ngỗi (陳頠), sinh tại kinh đô Thăng Long, (nay là Hà Nội). Có tài liệu phiên âm tên ông là Quỹ. Ông ở ngôi từ năm 1407 đến năm 1409, sau đó làm Thái thượng hoàng cho tới khi mất năm 1410."
+  "id": 2112,
+  "entityName": "Giản Định Đế",
+  "aliases": [],
+  "overview": "Giản Định Đế (chữ Hán: 簡定帝; 1375 – 1410) là vị hoàng đế khai lập nhà Hậu Trần trong lịch sử Việt Nam. Ông tên thật là Trần Ngỗi (陳頠), sinh tại kinh đô Thăng Long, (nay là Hà Nội). Có tài liệu phiên âm tên ông là Quỹ. Ông ở ngôi từ năm 1407 đến năm 1409, sau đó làm Thái thượng hoàng cho tới khi mất năm 1410."
 }

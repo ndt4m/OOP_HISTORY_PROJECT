@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Liệt sĩ kháng Pháp cận đại, học trò của Thái Vĩnh Chinh",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Liệt sĩ kháng Pháp cận đại, học trò của Thái Vĩnh Chinh",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 792,
-  "entityName" : "Lê Khoan Hoằng",
-  "aliases" : [ "Chánh Thiệu" ],
-  "overview" : "Ông nhiệt tình yêu nước. Giặc Pháp cướp nước, ông cùng thầy học Thái Vĩnh Chinh và Nguyễn Năng Định lãnh đạo nghĩa quân kháng chiến ở vùng Nghệ Tĩnh. Khi đó ông được vua Hàm Nghi phong hàm Lãnh binh kiêm Chánh kiêm huyện trị Hương Sơn thuộc Hà Tĩnh. Ông dũng cảm chiến đấu, hi sinh ở chiến trường, được các sĩ phu quí trọng và toàn dân thương tiếc."
+  "id": 792,
+  "entityName": "Lê Khoan Hoằng",
+  "aliases": [
+    "Chánh Thiệu"
+  ],
+  "overview": "Ông nhiệt tình yêu nước. Giặc Pháp cướp nước, ông cùng thầy học Thái Vĩnh Chinh và Nguyễn Năng Định lãnh đạo nghĩa quân kháng chiến ở vùng Nghệ Tĩnh. Khi đó ông được vua Hàm Nghi phong hàm Lãnh binh kiêm Chánh kiêm huyện trị Hương Sơn thuộc Hà Tĩnh. Ông dũng cảm chiến đấu, hi sinh ở chiến trường, được các sĩ phu quí trọng và toàn dân thương tiếc."
 }

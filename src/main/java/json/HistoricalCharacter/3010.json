@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "nhà Minh" : null
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "nhà Minh": null
   },
-  "id" : 3010,
-  "entityName" : "Trần Hiệp",
-  "aliases" : [ "Thúc Viễn" ],
-  "overview" : "Trần Hiệp (chữ Hán: 陈洽, 1370 – 1426 ), tự Thúc Viễn, người huyện Vũ Tiến , quan viên nhà Minh, tử trận khi trấn áp khởi nghĩa Lam Sơn tại Việt Nam."
+  "id": 3010,
+  "entityName": "Trần Hiệp",
+  "aliases": [
+    "Thúc Viễn"
+  ],
+  "overview": "Trần Hiệp (chữ Hán: 陈洽, 1370 – 1426 ), tự Thúc Viễn, người huyện Vũ Tiến , quan viên nhà Minh, tử trận khi trấn áp khởi nghĩa Lam Sơn tại Việt Nam."
 }

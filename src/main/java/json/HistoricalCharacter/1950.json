@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Đinh Mão 1207",
-  "hometown" : "quê làng Giang Mão",
-  "occupation" : "Thiền sư đời Lý Anh tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Lý" : 14
+  "dateOfBirth": "…",
+  "dateOfDeath": "Đinh Mão 1207",
+  "hometown": "quê làng Giang Mão",
+  "occupation": "Thiền sư đời Lý Anh tông",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Lý": 14
   },
-  "id" : 1950,
-  "entityName" : "Châu Hải Ngung",
-  "aliases" : [ "Tĩnh Giới" ],
-  "overview" : "Ông nhà nghèo, tính hạnh thuần hòa trung hậu. Năm 26 tuổi ông xuất gia, vào núi Lăng thọ giới với thiền sư Bảo Giác ở chùa Viên. Năm Trình Phù 4 (Kỉ hợi 1179). Lý Cao tông xây xong chùa Chân Giáo; triệu ông vào dinh dự hội khánh tán. Rồi về trụ trì ở chùa Quốc Thanh, núi Bí Linh, thuộc tỉnh Nghệ An. Vị châu mục ở đây là Phạm Từ rất kính trọng ông. Chính ông đã trùng tu ngôi chùa Thánh Hóa (có sách Quang Thánh ở quê ông), và quyên đúc một quả chuông. Năm Trị Bình Long Ứng 3 (Đinh mão 1207) ngày 7 tháng 7 ông viên tịch."
+  "id": 1950,
+  "entityName": "Châu Hải Ngung",
+  "aliases": [
+    "Tĩnh Giới"
+  ],
+  "overview": "Ông nhà nghèo, tính hạnh thuần hòa trung hậu. Năm 26 tuổi ông xuất gia, vào núi Lăng thọ giới với thiền sư Bảo Giác ở chùa Viên. Năm Trình Phù 4 (Kỉ hợi 1179). Lý Cao tông xây xong chùa Chân Giáo; triệu ông vào dinh dự hội khánh tán. Rồi về trụ trì ở chùa Quốc Thanh, núi Bí Linh, thuộc tỉnh Nghệ An. Vị châu mục ở đây là Phạm Từ rất kính trọng ông. Chính ông đã trùng tu ngôi chùa Thánh Hóa (có sách Quang Thánh ở quê ông), và quyên đúc một quả chuông. Năm Trị Bình Long Ứng 3 (Đinh mão 1207) ngày 7 tháng 7 ông viên tịch."
 }

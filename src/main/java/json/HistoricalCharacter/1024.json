@@ -1,17 +1,20 @@
 {
-  "dateOfBirth" : "Ất Tị 1905",
-  "dateOfDeath" : "Tân Mão 1951",
-  "hometown" : "tại làng Vĩ Dạ, TP",
-  "occupation" : "Giáo sư, nhà nghiên cứu văn học, tên đủ là Nguyễn Phước Ưng Quả",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+  "dateOfBirth": "Ất Tị 1905",
+  "dateOfDeath": "Tân Mão 1951",
+  "hometown": "tại làng Vĩ Dạ, TP",
+  "occupation": "Giáo sư, nhà nghiên cứu văn học, tên đủ là Nguyễn Phước Ưng Quả",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11,
+    "Nước Việt Nam mới": 29
   },
-  "id" : 1024,
-  "entityName" : "Nguyễn Phúc Ưng Quả",
-  "aliases" : [ "Ưng Quả", "Vân Hán" ],
-  "overview" : "Ông là cháu nội thi ông Tuy Lý Vương (1820-1897), con trai ông Hường Cát, anh ruột ông Ưng Oanh và Ưng Thuyên. Thuở nhỏ ông học ở Huế (Quốc học) sau ra Hà Nội học trường Cao đẳng Sư phạm Đông Dương. Năm 1928 tốt nghiệp được bổ giáo sư trường Quốc học Vinh (Nghệ An) rồi chuyển về trường Quốc học Huế. Năm 1942 làm Đông cung Giáo đạo dạy hoàng tử Bảo Long (con trai vua Bảo Đại) năm 1945 đồng soạn thảo chương trình Trung học Việt Nam tại Huế. Sau ngày toàn quốc kháng chiến ông tản cư ra Liên khu IV làm hiệu trưởng Trường Trung học Đào Duy Từ ở Thanh Hóa. Năm 1946 giữ chức Giám đốc Tiểu học vụ Trung Bộ, năm 1948 về Huế làm Giám đốc Học chánh Trung phần. Từng là Hội viên Thông tấn (Membre Corespondant) của Trường Viễn Đông Bác cổ Hà Nội (1948-1951), Hội viên Thực thụ Hội đồng Đại học Hà Nội (Membre de titulaire du Conseil de Université de Hà Nội) 1951. Ông mất ngày 22-12-1951 đang lúc tại chức. Sau khi ông mất người em chú bác là Thúc Giạ Thị (Ưng Bình) có thơ truy niệm ông: Xã giao ưa chuộng tánh khiêm nhường, Trung hiếu con dòng Vĩ Dạ vương Phẩm giá nâng cao nền đạo đức, Tài ba quảy nặng túi văn chương Tiên gia cảnh trí đà con lạc, Liên xã thân bằng lại nhớ thương. Kỉ niệm bài thơ dâng trước án, Hương hồn nguyện chứng tỏ tâm hương. (Huế, 1951) Các tác phẩm: - Controversé un point de l'histoire Annam (Tranh luận về một điểm trong lịch sử Việt Nam) 1926, Hà Nội. - Les chansons populaires Annamites (Ca dao Việt Nam) 1928. - La Musique de la langue et de la Litérature Annamites (Âm nhạc trong ngôn ngữ và văn chương Việt Nam), 1928. - Il y a Renaissance Annamites (Có một thời phục hưng Việt Nam) 1953. - Le plage Sâm Sơn de (Bãi biển Sầm Sơn), 1944. Và đề tựa một số sách của các tác giả khác. Ông cũng là một nhà báo tùng cộng tác lâu năm với các báo: Thần Kinh, Tiếng Dân, Sông Hương, Tràng An, Gazatte tại Huế."
+  "id": 1024,
+  "entityName": "Nguyễn Phúc Ưng Quả",
+  "aliases": [
+    "Ưng Quả",
+    "Vân Hán"
+  ],
+  "overview": "Ông là cháu nội thi ông Tuy Lý Vương (1820-1897), con trai ông Hường Cát, anh ruột ông Ưng Oanh và Ưng Thuyên. Thuở nhỏ ông học ở Huế (Quốc học) sau ra Hà Nội học trường Cao đẳng Sư phạm Đông Dương. Năm 1928 tốt nghiệp được bổ giáo sư trường Quốc học Vinh (Nghệ An) rồi chuyển về trường Quốc học Huế. Năm 1942 làm Đông cung Giáo đạo dạy hoàng tử Bảo Long (con trai vua Bảo Đại) năm 1945 đồng soạn thảo chương trình Trung học Việt Nam tại Huế. Sau ngày toàn quốc kháng chiến ông tản cư ra Liên khu IV làm hiệu trưởng Trường Trung học Đào Duy Từ ở Thanh Hóa. Năm 1946 giữ chức Giám đốc Tiểu học vụ Trung Bộ, năm 1948 về Huế làm Giám đốc Học chánh Trung phần. Từng là Hội viên Thông tấn (Membre Corespondant) của Trường Viễn Đông Bác cổ Hà Nội (1948-1951), Hội viên Thực thụ Hội đồng Đại học Hà Nội (Membre de titulaire du Conseil de Université de Hà Nội) 1951. Ông mất ngày 22-12-1951 đang lúc tại chức. Sau khi ông mất người em chú bác là Thúc Giạ Thị (Ưng Bình) có thơ truy niệm ông: Xã giao ưa chuộng tánh khiêm nhường, Trung hiếu con dòng Vĩ Dạ vương Phẩm giá nâng cao nền đạo đức, Tài ba quảy nặng túi văn chương Tiên gia cảnh trí đà con lạc, Liên xã thân bằng lại nhớ thương. Kỉ niệm bài thơ dâng trước án, Hương hồn nguyện chứng tỏ tâm hương. (Huế, 1951) Các tác phẩm: - Controversé un point de l\u0027histoire Annam (Tranh luận về một điểm trong lịch sử Việt Nam) 1926, Hà Nội. - Les chansons populaires Annamites (Ca dao Việt Nam) 1928. - La Musique de la langue et de la Litérature Annamites (Âm nhạc trong ngôn ngữ và văn chương Việt Nam), 1928. - Il y a Renaissance Annamites (Có một thời phục hưng Việt Nam) 1953. - Le plage Sâm Sơn de (Bãi biển Sầm Sơn), 1944. Và đề tựa một số sách của các tác giả khác. Ông cũng là một nhà báo tùng cộng tác lâu năm với các báo: Thần Kinh, Tiếng Dân, Sông Hương, Tràng An, Gazatte tại Huế."
 }

@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Đinh Hợi 1647",
-  "dateOfDeath" : "Quí Mão 1723",
-  "hometown" : "Quê làng Phú Hào, huyện Lôi Dương, tỉnh Thanh Hóa",
-  "occupation" : "Danh tướng đời Lê Huyền tông, con Hào Quận Công Lê Thì Hiến, em Trinh Tường Hầu Lê Thì Kinh, và Thạc Quận Công Lê Thì Hải",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
+  "dateOfBirth": "Đinh Hợi 1647",
+  "dateOfDeath": "Quí Mão 1723",
+  "hometown": "Quê làng Phú Hào, huyện Lôi Dương, tỉnh Thanh Hóa",
+  "occupation": "Danh tướng đời Lê Huyền tông, con Hào Quận Công Lê Thì Hiến, em Trinh Tường Hầu Lê Thì Kinh, và Thạc Quận Công Lê Thì Hải",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34
   },
-  "id" : 1739,
-  "entityName" : "Lê Thì Liêu",
-  "aliases" : [ ],
-  "overview" : "Ông cùng với hai anh giúp vua Lê, chúa Trịnh trong việc đánh dẹp các cuộc phản loạn và chống nhau với chúa Nguyễn. Nhiều lần làm trấn thủ Sơn Tây, Nghệ An và thăng Đô đốc. Gần 20 năm làm quan được quân dân mến phục. Năm Quí mão 1723, ông mất thọ 76 tuối được truy tặng Thái tể và truy phong phúc thần."
+  "id": 1739,
+  "entityName": "Lê Thì Liêu",
+  "aliases": [],
+  "overview": "Ông cùng với hai anh giúp vua Lê, chúa Trịnh trong việc đánh dẹp các cuộc phản loạn và chống nhau với chúa Nguyễn. Nhiều lần làm trấn thủ Sơn Tây, Nghệ An và thăng Đô đốc. Gần 20 năm làm quan được quân dân mến phục. Năm Quí mão 1723, ông mất thọ 76 tuối được truy tặng Thái tể và truy phong phúc thần."
 }

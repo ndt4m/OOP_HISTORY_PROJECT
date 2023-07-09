@@ -1,18 +1,20 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "965",
-  "fatherName" : {
-    "Thiên Sách Vương" : 335
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "965",
+  "fatherName": {
+    "Thiên Sách Vương": 623
   },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Ngô" : 25
+  "motherName": {},
+  "eraName": {
+    "Nhà Ngô": 25
   },
-  "id" : 1423,
-  "entityName" : "Ngô Xương Xí",
-  "aliases" : [ "Ngô Xương Xí (吳昌熾)" ],
-  "overview" : "Ngô Xương Xí (chữ Hán: 吳昌熾), còn gọi Ngô Sứ Quân (吳使君), là con trai của Thiên Sách Vương Ngô Xương Ngập, tức là cháu nội của Ngô Tiên chúa Ngô Quyền. Sử không ghi rõ năm sinh và năm mất của Ngô Xương Xí, nhưng căn cứ vào hành trạng của Ngô Xương Ngập thì ông sinh khoảng từ năm 944 đến trước năm 950."
+  "id": 1423,
+  "entityName": "Ngô Xương Xí",
+  "aliases": [
+    "Ngô Xương Xí (吳昌熾)"
+  ],
+  "overview": "Ngô Xương Xí (chữ Hán: 吳昌熾), còn gọi Ngô Sứ Quân (吳使君), là con trai của Thiên Sách Vương Ngô Xương Ngập, tức là cháu nội của Ngô Tiên chúa Ngô Quyền. Sử không ghi rõ năm sinh và năm mất của Ngô Xương Xí, nhưng căn cứ vào hành trạng của Ngô Xương Ngập thì ông sinh khoảng từ năm 944 đến trước năm 950."
 }

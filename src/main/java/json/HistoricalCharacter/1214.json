@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Quí Tị 1173",
-  "hometown" : "quê ở hương Chân Hộ, đất Như Nguyệt, tỉnh Bắc Ninh (nay là tỉnh Bắc Ninh)",
-  "occupation" : "Thiền sư đời Lý Anh tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Lý" : 14
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Quí Tị 1173",
+  "hometown": "quê ở hương Chân Hộ, đất Như Nguyệt, tỉnh Bắc Ninh (nay là tỉnh Bắc Ninh)",
+  "occupation": "Thiền sư đời Lý Anh tông",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Lý": 14
   },
-  "id" : 1214,
-  "entityName" : "Âu Đạo Huệ",
-  "aliases" : [ "Đạo Huệ" ],
-  "overview" : "Từ thuở trẻ ông tu ở chùa Quang Minh, núi Thiên Phúc, thuộc huyện Tiên Du, tỉnh Bắc Ninh (nay vẫn là tỉnh Bắc Ninh). Năm 25 tuổi, cảm đức vị sư Ngô Pháp Hoa ở chùa Phổ Minh, ông đến đấy cùng tu học, trở thành người đứng đầu thế hệ thứ chín dòng thiền Quan Bích. Ông là người hiểu sâu giáo lí đạo Phật, lại thông suốt pháp \"tam giáo\" và \"tam muội\". Năm Đại Định 20 (Kỉ mào 1159) Lý Anh tông cho sứ mời ông vào kinh thăm bệnh cho công chúa Thụy Minh. Ông ở lại chùa Báo Thiên và mở trường dạy học tại đấy, học trò có hơn nghìn người. Năm Chính Long Báo ứng 11 (Quí tị 1173), ngày 01 tháng 02, ông viên tịch. Môn nhân đưa linh cữu ông về cố quận làm lễ hỏa táng, xây tháp thờ tại chùa Bảo Khám, núi Tiên Du. Lại đưa một phần xá lợi về an trí tại chùa Vạn Tuế, kinh đô Thăng Long. Các thiền sư Phan Trường Nguyên, Ngô Tịnh Không, Hứa Đại Xá, Nguyễn Trí Bảo và Tô Minh Trí đều là học trò xuất sắc của ông. Nhất là Nguyễn Trí Bảo rất tâm phục ông."
+  "id": 1214,
+  "entityName": "Âu Đạo Huệ",
+  "aliases": [
+    "Đạo Huệ"
+  ],
+  "overview": "Từ thuở trẻ ông tu ở chùa Quang Minh, núi Thiên Phúc, thuộc huyện Tiên Du, tỉnh Bắc Ninh (nay vẫn là tỉnh Bắc Ninh). Năm 25 tuổi, cảm đức vị sư Ngô Pháp Hoa ở chùa Phổ Minh, ông đến đấy cùng tu học, trở thành người đứng đầu thế hệ thứ chín dòng thiền Quan Bích. Ông là người hiểu sâu giáo lí đạo Phật, lại thông suốt pháp \"tam giáo\" và \"tam muội\". Năm Đại Định 20 (Kỉ mào 1159) Lý Anh tông cho sứ mời ông vào kinh thăm bệnh cho công chúa Thụy Minh. Ông ở lại chùa Báo Thiên và mở trường dạy học tại đấy, học trò có hơn nghìn người. Năm Chính Long Báo ứng 11 (Quí tị 1173), ngày 01 tháng 02, ông viên tịch. Môn nhân đưa linh cữu ông về cố quận làm lễ hỏa táng, xây tháp thờ tại chùa Bảo Khám, núi Tiên Du. Lại đưa một phần xá lợi về an trí tại chùa Vạn Tuế, kinh đô Thăng Long. Các thiền sư Phan Trường Nguyên, Ngô Tịnh Không, Hứa Đại Xá, Nguyễn Trí Bảo và Tô Minh Trí đều là học trò xuất sắc của ông. Nhất là Nguyễn Trí Bảo rất tâm phục ông."
 }

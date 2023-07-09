@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Canh Thân 1080",
-  "dateOfDeath" : "Tân Mùi 1151",
-  "hometown" : "quê làng Cổ Hiến (vùng tỉnh Bắc Ninh xưa), sau dời về ở phường Thái Bạch, thành Thăng Long",
-  "occupation" : "Thiền sư đời Lý Nhân tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Lý" : 14
+  "dateOfBirth": "Canh Thân 1080",
+  "dateOfDeath": "Tân Mùi 1151",
+  "hometown": "quê làng Cổ Hiến (vùng tỉnh Bắc Ninh xưa), sau dời về ở phường Thái Bạch, thành Thăng Long",
+  "occupation": "Thiền sư đời Lý Nhân tông",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Lý": 14
   },
-  "id" : 1752,
-  "entityName" : "Nguyễn Nguyên Ức",
-  "aliases" : [ "Viên Thông" ],
-  "overview" : "Thân phụ ông là sư Huệ Dục, giữ chức Tả hữu nhai tăng lục đời Lý Nhân tông. Ông đỗ khoa thi \"thiên hạ hoành tài\" (1097), rồi đỗ khoa thi Tam giáo (1108). Ông xuất gia thọ giới với sư Viên Học, rồi trụ trì ở chùa Quốc Ân, nối truyền tâm ấn, đứng hàng thế hệ thứ 18 dòng thiền Nam Phương. Triều đình rất trọng đãi ông, đời Lý Thần tông, ông từng giãi bày với nhà vua về lẽ trị loạn hưng vong, chủ trương nhân trị. Đời Lý Anh tông, phong ông làm Hộ quốc Quốc sư. Ngày 21 tháng 4 nhuận năm Tân mùi (7-6-1151) ông viên tịch, thọ 71 tuổi. Các tác phẩm của ông: 1. Diên thọ tự bi kí 2. Hồng chung văn bi kí 3. Chư Phật tích duyên sự (30 chương) 4. Tăng già tạp lục (50 chương) 5. Viên Thông thi tập (thơ và phú hơn 1000 bài)."
+  "id": 1752,
+  "entityName": "Nguyễn Nguyên Ức",
+  "aliases": [
+    "Viên Thông"
+  ],
+  "overview": "Thân phụ ông là sư Huệ Dục, giữ chức Tả hữu nhai tăng lục đời Lý Nhân tông. Ông đỗ khoa thi \"thiên hạ hoành tài\" (1097), rồi đỗ khoa thi Tam giáo (1108). Ông xuất gia thọ giới với sư Viên Học, rồi trụ trì ở chùa Quốc Ân, nối truyền tâm ấn, đứng hàng thế hệ thứ 18 dòng thiền Nam Phương. Triều đình rất trọng đãi ông, đời Lý Thần tông, ông từng giãi bày với nhà vua về lẽ trị loạn hưng vong, chủ trương nhân trị. Đời Lý Anh tông, phong ông làm Hộ quốc Quốc sư. Ngày 21 tháng 4 nhuận năm Tân mùi (7-6-1151) ông viên tịch, thọ 71 tuổi. Các tác phẩm của ông: 1. Diên thọ tự bi kí 2. Hồng chung văn bi kí 3. Chư Phật tích duyên sự (30 chương) 4. Tăng già tạp lục (50 chương) 5. Viên Thông thi tập (thơ và phú hơn 1000 bài)."
 }

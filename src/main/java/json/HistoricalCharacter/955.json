@@ -1,21 +1,26 @@
 {
-  "dateOfBirth" : "10 tháng 8, 1461\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "24 tháng 5, 1504 (42 tuổi) Điện Đồ Trị, Đông Kinh\n----------------------------------------------\nKhông rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua",
-  "workTenure" : "1497 - 1504\n----------------------------------------------\n1497–1504",
-  "fatherName" : {
-    "Lê Thánh Tông" : 134
+  "dateOfBirth": "10 tháng 8, 1461\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath": "24 tháng 5, 1504 (42 tuổi) Điện Đồ Trị, Đông Kinh\n----------------------------------------------\nKhông rõ",
+  "hometown": "Không rõ",
+  "occupation": "Hoàng đế Đại Việt\n----------------------------------------------\nVua",
+  "workTenure": "1497 - 1504\n----------------------------------------------\n1497–1504",
+  "fatherName": {
+    "Lê Thánh Tông": 143
   },
-  "motherName" : {
-    "Huy Gia Thuần hoàng hậu" : null
+  "motherName": {
+    "Huy Gia Thuần hoàng hậu": null
   },
-  "eraName" : {
-    "Nhà Hậu Lê – giai đoạn Lê sơ" : 20,
-    "Nhà Lê sơ" : null
+  "eraName": {
+    "Nhà Hậu Lê – giai đoạn Lê sơ": 20,
+    "Nhà Lê sơ": null
   },
-  "id" : 955,
-  "entityName" : "Lê Hiến Tông",
-  "aliases" : [ "Thể Thiên Ngưng Đạo Mậu Đức Chí Nhân Chiêu Văn Thiệu Vũ Tuyên Triết Khâm Thành Chương Hiếu Duệ Hoàng Đế (體天凝道懋德至仁昭文紹武宣哲欽聖彰孝睿皇帝)", "Lê Tranh (黎鏳) Lê Sanh (黎檉) Lê Huy (黎暉)", "Cảnh Thống (景統)", "Hiến Tông (憲宗)" ],
-  "overview" : "Lê Hiến Tông (chữ Hán: 黎憲宗; 10 tháng 8, 1461 - 24 tháng 5, 1504), là vị hoàng đế thứ sáu của nhà Lê sơ trong lịch sử Việt Nam. Ông ở ngôi tổng cộng 7 năm, từ năm 1497 đến năm 1504. Lê Hiến Tông kế nghiệp Lê Thánh Tông, mến chuộng văn học, tiết kiệm tiêu dùng, thận trọng hình phạt, luôn gần gũi bề tôi.\n----------------------------------------------\nLê Hiến Tông (chữ Hán: 黎憲宗 6 tháng 9 năm 1461 – 24 tháng 6 năm 1504) là vị hoàng đế thứ sáu của Hoàng triều Lê nước Đại Việt. Ông cai trị từ ngày 9 tháng 3 năm 1497 đến khi qua đời, tổng cộng 7 năm với niên hiệu là Cảnh Thống. Các bộ sử biên niên Đại Việt như Đại Việt Sử ký Toàn thư mô tả ông là người kế nghiệp xứng đáng của cha mình, vị vua lớn Lê Thánh Tông. Trong 7 năm trị vì, ông đã thành công trong việc duy trì nền pháp chế mà Thánh Tông đã đặt ra cũng như sự thịnh trị của Đại Việt. Lê Hiến Tông mến chuộng văn học, tiết kiệm tiêu dùng, thận trọng hình phạt và luôn gần gũi bề tôi. Ông cũng chăm lo giáo dục, nông nghiệp, thủy lợi, cải thiện đời sống nhân dân và củng cố sức mạnh quân đội."
+  "id": 955,
+  "entityName": "Lê Hiến Tông",
+  "aliases": [
+    "Thể Thiên Ngưng Đạo Mậu Đức Chí Nhân Chiêu Văn Thiệu Vũ Tuyên Triết Khâm Thành Chương Hiếu Duệ Hoàng Đế (體天凝道懋德至仁昭文紹武宣哲欽聖彰孝睿皇帝)",
+    "Lê Tranh (黎鏳) Lê Sanh (黎檉) Lê Huy (黎暉)",
+    "Cảnh Thống (景統)",
+    "Hiến Tông (憲宗)"
+  ],
+  "overview": "Lê Hiến Tông (chữ Hán: 黎憲宗; 10 tháng 8, 1461 - 24 tháng 5, 1504), là vị hoàng đế thứ sáu của nhà Lê sơ trong lịch sử Việt Nam. Ông ở ngôi tổng cộng 7 năm, từ năm 1497 đến năm 1504. Lê Hiến Tông kế nghiệp Lê Thánh Tông, mến chuộng văn học, tiết kiệm tiêu dùng, thận trọng hình phạt, luôn gần gũi bề tôi.\n----------------------------------------------\nLê Hiến Tông (chữ Hán: 黎憲宗 6 tháng 9 năm 1461 – 24 tháng 6 năm 1504) là vị hoàng đế thứ sáu của Hoàng triều Lê nước Đại Việt. Ông cai trị từ ngày 9 tháng 3 năm 1497 đến khi qua đời, tổng cộng 7 năm với niên hiệu là Cảnh Thống. Các bộ sử biên niên Đại Việt như Đại Việt Sử ký Toàn thư mô tả ông là người kế nghiệp xứng đáng của cha mình, vị vua lớn Lê Thánh Tông. Trong 7 năm trị vì, ông đã thành công trong việc duy trì nền pháp chế mà Thánh Tông đã đặt ra cũng như sự thịnh trị của Đại Việt. Lê Hiến Tông mến chuộng văn học, tiết kiệm tiêu dùng, thận trọng hình phạt và luôn gần gũi bề tôi. Ông cũng chăm lo giáo dục, nông nghiệp, thủy lợi, cải thiện đời sống nhân dân và củng cố sức mạnh quân đội."
 }

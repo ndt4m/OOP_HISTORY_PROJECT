@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Giáp Dần 1554",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê làng An Hoa, huyện Quảng Đức, trú làng Đan Loan huyện Đường An, tỉnh Hải Dương (nay thuộc tỉnh Hải Dương)",
-  "occupation" : "Danh thần nhà Mạc, vốn là ngoại tổ 7 đời của danh sĩ Tùng Niên Phạm Đình Hổ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nam - Bắc Triều" : 19
+  "dateOfBirth": "Giáp Dần 1554",
+  "dateOfDeath": "Không rõ",
+  "hometown": "quê làng An Hoa, huyện Quảng Đức, trú làng Đan Loan huyện Đường An, tỉnh Hải Dương (nay thuộc tỉnh Hải Dương)",
+  "occupation": "Danh thần nhà Mạc, vốn là ngoại tổ 7 đời của danh sĩ Tùng Niên Phạm Đình Hổ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nam - Bắc Triều": 19
   },
-  "id" : 51,
-  "entityName" : "Bùi Thế Vinh",
-  "aliases" : [ ],
-  "overview" : "Năm Diện Thành 3 (Canh thìn 1580) đời Mạc Hợp, ông 26 tuổi, đỗ tiến sĩ, làm quan đến Tự khanh. Khi nhà Mạc bị đánh dứt, ông lui về quê. Nhà Lê cho vời ông và Đỗ Uông (tục gọi là Thượng Thông) và Nhữ Công Tụng (tức Thượng Nhữ) ra làm quan. Đỗ và Nhữ vâng theo, riêng ông lấy dao rạch đầu gối cáo bệnh không chịu ra. Bấy giờ, lại có bà Thường quốc phu nhân tự thắt cổ tuẫn tiết. Dân gian có lời ngợi khen ông và bà ấy: \"Con dao Đan Loan, dây thừng Phu nhân\"."
+  "id": 51,
+  "entityName": "Bùi Thế Vinh",
+  "aliases": [],
+  "overview": "Năm Diện Thành 3 (Canh thìn 1580) đời Mạc Hợp, ông 26 tuổi, đỗ tiến sĩ, làm quan đến Tự khanh. Khi nhà Mạc bị đánh dứt, ông lui về quê. Nhà Lê cho vời ông và Đỗ Uông (tục gọi là Thượng Thông) và Nhữ Công Tụng (tức Thượng Nhữ) ra làm quan. Đỗ và Nhữ vâng theo, riêng ông lấy dao rạch đầu gối cáo bệnh không chịu ra. Bấy giờ, lại có bà Thường quốc phu nhân tự thắt cổ tuẫn tiết. Dân gian có lời ngợi khen ông và bà ấy: \"Con dao Đan Loan, dây thừng Phu nhân\"."
 }

@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Quê phủ Bình Giang, châu Thượng Hồng, lộ Lạng Giang tỉnh Hưng Yên (nay thưộc tỉnh Hải Hưng)",
-  "occupation" : "Văn thần đời Trần Anh tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Trần" : 15
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Quê phủ Bình Giang, châu Thượng Hồng, lộ Lạng Giang tỉnh Hưng Yên (nay thưộc tỉnh Hải Hưng)",
+  "occupation": "Văn thần đời Trần Anh tông",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Trần": 15
   },
-  "id" : 2957,
-  "entityName" : "Doãn Ân Phủ",
-  "aliases" : [ ],
-  "overview" : "Năm 1317, đời Trần Minh tông, ông được cử đi sứ nhà Nguyên. Khi đi sứ ông có nhiều thơ văn được danh sĩ Trung Quốc đương thời tán tụng. Trong An Nam chí lược, Lê Tắc chép là Doãn Thế Thôn (có lẽ là hiệu của Ân Phủ) làm quan đến bậc Đại phu. Có đi sứ cùng với Định Quan sang Trung Quốc nhiều lần."
+  "id": 2957,
+  "entityName": "Doãn Ân Phủ",
+  "aliases": [],
+  "overview": "Năm 1317, đời Trần Minh tông, ông được cử đi sứ nhà Nguyên. Khi đi sứ ông có nhiều thơ văn được danh sĩ Trung Quốc đương thời tán tụng. Trong An Nam chí lược, Lê Tắc chép là Doãn Thế Thôn (có lẽ là hiệu của Ân Phủ) làm quan đến bậc Đại phu. Có đi sứ cùng với Định Quan sang Trung Quốc nhiều lần."
 }

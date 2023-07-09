@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "1804\n----------------------------------------------\n…",
-  "dateOfDeath" : "1859\n----------------------------------------------\nKỉ Mùi 1859",
-  "hometown" : "quê huyện Tư Nghĩa, tỉnh Quảng Ngãi",
-  "occupation" : "Võ tướng đời Minh Mạng, em An Khê Võ Duy Thành",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+  "dateOfBirth": "1804\n----------------------------------------------\n…",
+  "dateOfDeath": "1859\n----------------------------------------------\nKỉ Mùi 1859",
+  "hometown": "quê huyện Tư Nghĩa, tỉnh Quảng Ngãi",
+  "occupation": "Võ tướng đời Minh Mạng, em An Khê Võ Duy Thành",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 936,
-  "entityName" : "Võ Duy Ninh",
-  "aliases" : [ ],
-  "overview" : "Võ Duy Ninh (Hán Việt: Vũ Duy Ninh; 1804–1859), là vị võ quan cao cấp của nhà Nguyễn đầu tiên đã tuẫn tiết trong cuộc chiến chống lại sự xâm lược của người Pháp tại Gia Định, Việt Nam.\n----------------------------------------------\nNăm Mậu ngọ 1858, ông vào làmTổng đốc Định Biên (Gia Định - Biên Hòa) tích cực lo việc trị an, đến khi giặc Pháp tấn công thành Gia Định, trên cương vị Hộ đốc, ông anh dũng chỉ huy quân dân chống quân cướp nước. Ngày mùng 4 tháng giêng Kỉ mùi (17-2-1859) giặc Pháp đánh chiếm thành Gia Định, ông rút về thôn Phước Lý, huyện Phước Lộc, thắt cổ tự ải không đầu hàng địch. Ông là vị tướng lãnh cao cấp hi sinh đầu tiên trong Nam thời giặc Pháp cướp nước ta."
+  "id": 936,
+  "entityName": "Võ Duy Ninh",
+  "aliases": [],
+  "overview": "Võ Duy Ninh (Hán Việt: Vũ Duy Ninh; 1804–1859), là vị võ quan cao cấp của nhà Nguyễn đầu tiên đã tuẫn tiết trong cuộc chiến chống lại sự xâm lược của người Pháp tại Gia Định, Việt Nam.\n----------------------------------------------\nNăm Mậu ngọ 1858, ông vào làmTổng đốc Định Biên (Gia Định - Biên Hòa) tích cực lo việc trị an, đến khi giặc Pháp tấn công thành Gia Định, trên cương vị Hộ đốc, ông anh dũng chỉ huy quân dân chống quân cướp nước. Ngày mùng 4 tháng giêng Kỉ mùi (17-2-1859) giặc Pháp đánh chiếm thành Gia Định, ông rút về thôn Phước Lý, huyện Phước Lộc, thắt cổ tự ải không đầu hàng địch. Ông là vị tướng lãnh cao cấp hi sinh đầu tiên trong Nam thời giặc Pháp cướp nước ta."
 }

@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "18 tháng 2 năm 1922",
-  "dateOfDeath" : "3 tháng 12 năm 2007",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 1120,
-  "entityName" : "Vũ Cao",
-  "aliases" : [ ],
-  "overview" : "Vũ Cao (18 tháng 2 năm 1922 - 3 tháng 12 năm 2007) là một nhà thơ Việt Nam."
+  "dateOfBirth": "18 tháng 2 năm 1922",
+  "dateOfDeath": "3 tháng 12 năm 2007",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 1120,
+  "entityName": "Vũ Cao",
+  "aliases": [],
+  "overview": "Vũ Cao (18 tháng 2 năm 1922 - 3 tháng 12 năm 2007) là một nhà thơ Việt Nam."
 }

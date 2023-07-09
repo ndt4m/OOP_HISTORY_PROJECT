@@ -1,20 +1,25 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Tháng 12, 1561 Việt Nam\n----------------------------------------------\nGiáp Tí 1564",
-  "hometown" : "xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách), tỉnh Hải Dương, Việt Nam.\n----------------------------------------------\nKhông rõ",
-  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua đời thứ tư nhà Mạc, con trưởng Phúc Hải.",
-  "workTenure" : "1546 - 1561\n----------------------------------------------\nKhông rõ",
-  "fatherName" : {
-    "Phúc Hải" : null,
-    "Mạc Hiến Tông" : 2965
+  "dateOfBirth": "…",
+  "dateOfDeath": "Tháng 12, 1561 Việt Nam\n----------------------------------------------\nGiáp Tí 1564",
+  "hometown": "xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách), tỉnh Hải Dương, Việt Nam.\n----------------------------------------------\nKhông rõ",
+  "occupation": "Hoàng đế Đại Việt\n----------------------------------------------\nVua đời thứ tư nhà Mạc, con trưởng Phúc Hải.",
+  "workTenure": "1546 - 1561\n----------------------------------------------\nKhông rõ",
+  "fatherName": {
+    "Phúc Hải": null,
+    "Mạc Hiến Tông": 316
   },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Mạc" : 18,
-    "Nam - Bắc Triều" : 19
+  "motherName": {},
+  "eraName": {
+    "Nhà Mạc": 18,
+    "Nam - Bắc Triều": 19
   },
-  "id" : 645,
-  "entityName" : "Mạc Phúc Nguyên",
-  "aliases" : [ "Vĩnh Định (1547) Cảnh Lịch (1548-1553) Quang Bảo (1554-1561)", "Mạc Phúc Nguyên", "Tuyên Tông (宣宗)", "Anh Nghị Duệ Hoàng đế" ],
-  "overview" : "Mạc Tuyên Tông (莫宣宗) tên thật là Mạc Phúc Nguyên (chữ Hán: 莫福源, ? - 1561), là hoàng đế thứ tư nhà Mạc trong lịch sử Việt Nam, ở ngôi từ năm 1546 đến 1561, trị vì 15 năm. Ông là người xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách), tỉnh Hải Dương, Việt Nam.\n----------------------------------------------\nNăm Bính ngọ 1546, tháng 5 ông được đưa lên ngôi, hãy còn nhỏ tuổi, có ông chú là Khiêm vương Kính Điển phụ chính. Tứ Dương Hầu Phạm Tử Nghi bất mãn, lập phe nhóm tôn phù Mạc Chính Trung (con Đăng Dung) đối lập với Phúc Nguyên. Nội bộ nhà Mạc rối ren một lúc, nhờ Kính Điển dẹp tan được nhóm Tử Nghi mới yên, nhưng phải thường xuyên chống nhau với nhà Lê. Năm Giáp tí 1564, ngày 7 tháng 2 ông bị bệnh đậu mất, ở ngôi 19 năm, tôn thụy là Tuyên tông Anh nghị hoàng đế."
+  "id": 645,
+  "entityName": "Mạc Phúc Nguyên",
+  "aliases": [
+    "Vĩnh Định (1547) Cảnh Lịch (1548-1553) Quang Bảo (1554-1561)",
+    "Mạc Phúc Nguyên",
+    "Tuyên Tông (宣宗)",
+    "Anh Nghị Duệ Hoàng đế"
+  ],
+  "overview": "Mạc Tuyên Tông (莫宣宗) tên thật là Mạc Phúc Nguyên (chữ Hán: 莫福源, ? - 1561), là hoàng đế thứ tư nhà Mạc trong lịch sử Việt Nam, ở ngôi từ năm 1546 đến 1561, trị vì 15 năm. Ông là người xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách), tỉnh Hải Dương, Việt Nam.\n----------------------------------------------\nNăm Bính ngọ 1546, tháng 5 ông được đưa lên ngôi, hãy còn nhỏ tuổi, có ông chú là Khiêm vương Kính Điển phụ chính. Tứ Dương Hầu Phạm Tử Nghi bất mãn, lập phe nhóm tôn phù Mạc Chính Trung (con Đăng Dung) đối lập với Phúc Nguyên. Nội bộ nhà Mạc rối ren một lúc, nhờ Kính Điển dẹp tan được nhóm Tử Nghi mới yên, nhưng phải thường xuyên chống nhau với nhà Lê. Năm Giáp tí 1564, ngày 7 tháng 2 ông bị bệnh đậu mất, ở ngôi 19 năm, tôn thụy là Tuyên tông Anh nghị hoàng đế."
 }

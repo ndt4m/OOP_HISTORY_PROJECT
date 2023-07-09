@@ -1,16 +1,19 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Mậu Thân 1908",
-  "hometown" : "quê làng An Ba, huyện Mộ Đức, tỉnh Quảng Ngãi, con một quan lớn triều Nguyễn, đỗ cử nhân khoa Nhâm ngọ (1882) tại trường thi Bình Định",
-  "occupation" : "Liệt sĩ cận đại",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Mậu Thân 1908",
+  "hometown": "quê làng An Ba, huyện Mộ Đức, tỉnh Quảng Ngãi, con một quan lớn triều Nguyễn, đỗ cử nhân khoa Nhâm ngọ (1882) tại trường thi Bình Định",
+  "occupation": "Liệt sĩ cận đại",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 521,
-  "entityName" : "Lê Khiết",
-  "aliases" : [ "Lê Thứu Khiết", "An Ba" ],
-  "overview" : "Khi quân Pháp chiếm nước ta, ông là thuộc hạ của tên gian ác Nguyễn Thân, tham gia đàn áp các phong trào yêu nước ở miền Trung, làm đến Bố chánh. Khoảng năm 1902 ông thức tỉnh, từ quan, từ đó ông tham gia các phong trào yêu nước. Năm Mậu thân 1908, chính ông cùng Nguyễn Bá Loan, Nguyễn Thụy... lãnh đạo phong trào Duy tân, kháng thuế ở Quảng Ngãi. Bọn cầm quyền đàn áp thẳng tay, chúng cho ông là thủ phạm, cầm đầu phong trào, xử chém ông tại Quảng Ngãi. Lê Khiết là tấm gương sáng đối với những người lầm lỡ theo giặc, cuối cùng giác ngộ rồi hi sinh vì đại nghĩa. Lúc lâm hình, ông ung dung bảo: \"Cái vết nhơ của lịch sử nửa đời người tôi, nay lấy máu cổ mà rửa. Vinh hạnh biết chừng nào\""
+  "id": 521,
+  "entityName": "Lê Khiết",
+  "aliases": [
+    "Lê Thứu Khiết",
+    "An Ba"
+  ],
+  "overview": "Khi quân Pháp chiếm nước ta, ông là thuộc hạ của tên gian ác Nguyễn Thân, tham gia đàn áp các phong trào yêu nước ở miền Trung, làm đến Bố chánh. Khoảng năm 1902 ông thức tỉnh, từ quan, từ đó ông tham gia các phong trào yêu nước. Năm Mậu thân 1908, chính ông cùng Nguyễn Bá Loan, Nguyễn Thụy... lãnh đạo phong trào Duy tân, kháng thuế ở Quảng Ngãi. Bọn cầm quyền đàn áp thẳng tay, chúng cho ông là thủ phạm, cầm đầu phong trào, xử chém ông tại Quảng Ngãi. Lê Khiết là tấm gương sáng đối với những người lầm lỡ theo giặc, cuối cùng giác ngộ rồi hi sinh vì đại nghĩa. Lúc lâm hình, ông ung dung bảo: \"Cái vết nhơ của lịch sử nửa đời người tôi, nay lấy máu cổ mà rửa. Vinh hạnh biết chừng nào\""
 }

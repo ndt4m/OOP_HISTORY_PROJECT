@@ -1,16 +1,19 @@
 {
-  "dateOfBirth" : "1280\n----------------------------------------------\nCanh Thìn 1280",
-  "dateOfDeath" : "1346\n----------------------------------------------\nCanh Dần 1350",
-  "hometown" : "quê làng Lũng Động, huyện Chí Linh, tỉnh Hải Dương",
-  "occupation" : "Danh sĩ đời Trần Anh tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Trần" : 15
+  "dateOfBirth": "1280\n----------------------------------------------\nCanh Thìn 1280",
+  "dateOfDeath": "1346\n----------------------------------------------\nCanh Dần 1350",
+  "hometown": "quê làng Lũng Động, huyện Chí Linh, tỉnh Hải Dương",
+  "occupation": "Danh sĩ đời Trần Anh tông",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Trần": 15
   },
-  "id" : 185,
-  "entityName" : "Mạc Đĩnh Chi",
-  "aliases" : [ "Tiết Phu", "Tích Am" ],
-  "overview" : "Mạc Đĩnh Chi (chữ Hán: 莫挺之, 1280 - 1346), tên tự là Tiết Phu (節夫), hiệu là Tích Am (僻庵) là một quan đại thần triều Trần trong lịch sử Việt Nam .\n----------------------------------------------\nNăm Giáp thân 1304 ông đỗ Trạng nguyên năm 24 tuổi, vua thấy tướng mạo xấu có ý chê ông dâng bài phú Ngọc tỉnh liên (Sen giếng ngọc) khiến vua khâm phục. Ông làm quan trải ba triều Anh tông, Minh tông và Hiến tông, thăng đến Tả bộc xạ Đại liêu ban. Tính ông liêm khiết, được sĩ phu trọng vọng, ông từng đi sứ Trung Quốc hai lần, được các danh sĩ nước ngoài khen ngợi, khâm phục. Năm Canh dần 1350 ông mất, thọ 70 tuổi ông vốn dòng dõi Mạc Hiển Tích. Đến đời Mạc Đăng Dung là cháu bây đời của ông lên ngôi dựng nước tranh chấp với nhà Lê, truy phong ông là Huệ Cảm Linh Khánh vương, có lập điện Sung Đức để thờ ông tại phần mộ ở làng Lũng Động. Về sáng tác văn học, ngoài bài phú Ngọc Tĩnh Liên ông còn nhiều tác phẩm được truyền tụng."
+  "id": 185,
+  "entityName": "Mạc Đĩnh Chi",
+  "aliases": [
+    "Tiết Phu",
+    "Tích Am"
+  ],
+  "overview": "Mạc Đĩnh Chi (chữ Hán: 莫挺之, 1280 - 1346), tên tự là Tiết Phu (節夫), hiệu là Tích Am (僻庵) là một quan đại thần triều Trần trong lịch sử Việt Nam .\n----------------------------------------------\nNăm Giáp thân 1304 ông đỗ Trạng nguyên năm 24 tuổi, vua thấy tướng mạo xấu có ý chê ông dâng bài phú Ngọc tỉnh liên (Sen giếng ngọc) khiến vua khâm phục. Ông làm quan trải ba triều Anh tông, Minh tông và Hiến tông, thăng đến Tả bộc xạ Đại liêu ban. Tính ông liêm khiết, được sĩ phu trọng vọng, ông từng đi sứ Trung Quốc hai lần, được các danh sĩ nước ngoài khen ngợi, khâm phục. Năm Canh dần 1350 ông mất, thọ 70 tuổi ông vốn dòng dõi Mạc Hiển Tích. Đến đời Mạc Đăng Dung là cháu bây đời của ông lên ngôi dựng nước tranh chấp với nhà Lê, truy phong ông là Huệ Cảm Linh Khánh vương, có lập điện Sung Đức để thờ ông tại phần mộ ở làng Lũng Động. Về sáng tác văn học, ngoài bài phú Ngọc Tĩnh Liên ông còn nhiều tác phẩm được truyền tụng."
 }

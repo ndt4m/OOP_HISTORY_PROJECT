@@ -1,17 +1,20 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "1223\n----------------------------------------------\nQuí Mùi 1223",
-  "hometown" : "quê làng Tức Mặc, phủ Thiên Trường, tỉnh Nam Định",
-  "occupation" : "Con Trần Lý, em ruột Trần Thừa",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Trần" : 15,
-    "nhà Lý" : null
+  "dateOfBirth": "…",
+  "dateOfDeath": "1223\n----------------------------------------------\nQuí Mùi 1223",
+  "hometown": "quê làng Tức Mặc, phủ Thiên Trường, tỉnh Nam Định",
+  "occupation": "Con Trần Lý, em ruột Trần Thừa",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Trần": 15,
+    "nhà Lý": null
   },
-  "id" : 2783,
-  "entityName" : "Trần Tự Khánh",
-  "aliases" : [ "Khánh", "Mặc" ],
-  "overview" : "Trần Tự Khánh (chữ Hán: 陳嗣慶, ? - 1223), là 1 viên tướng trứ danh thời kỳ suy vong của triều đại nhà Lý (Lý triều vãn kỳ 李朝晚期), người lãnh đạo chính thống buổi đầu giành quyền lực của họ Trần.\n----------------------------------------------\nNăm Kỉ ti 1209 xảy ra cuộc biến, gia đình ông có công khuông phù thái tử Lý Hạo Sảm, nên khi thái tử lên ngôi vua thân phụ ông và thân tộc được thưởng rất hậu. Đến năm 1210, thân phụ ông bị kẻ địch giết chết, ông được nhận tước Minh tự thay cho cha, và được giao quản lãnh quân đội hoàng gia. Từ đấy, ông mở rộng dần thế lực cánh họ Trần, áp đảo triều đình nhà Lý. Tài trí ông phối hợp với những thủ đoạn chính trị của Trần Thủ Độ, mở đường cho sự thành lập nhà Trần thay nhà Lý. Năm Giáp tuất 1214, ông cầm đầu đoàn quân đánh cánh họ Trần tiến đánh kinh thành. Quân nhà vua thua to, vua Lý cầu cứu Đoàn Thượng ở Hồng Châu. Quân Đoàn Thượng cũng bị đánh bại. Vua và Thái hậu phải chạy đến Châu Lạng, nương náu nơi nhà quan Châu là Vương Thượng. Được vài ngày Trần Tự Khánh cho người đem dâng vua một bức thư dụ vua trở về kinh sư. Về sau, khi nhà Trần dựng lên, ông nghiễm nhiên là bậc công thần khai sáng."
+  "id": 2783,
+  "entityName": "Trần Tự Khánh",
+  "aliases": [
+    "Khánh",
+    "Mặc"
+  ],
+  "overview": "Trần Tự Khánh (chữ Hán: 陳嗣慶, ? - 1223), là 1 viên tướng trứ danh thời kỳ suy vong của triều đại nhà Lý (Lý triều vãn kỳ 李朝晚期), người lãnh đạo chính thống buổi đầu giành quyền lực của họ Trần.\n----------------------------------------------\nNăm Kỉ ti 1209 xảy ra cuộc biến, gia đình ông có công khuông phù thái tử Lý Hạo Sảm, nên khi thái tử lên ngôi vua thân phụ ông và thân tộc được thưởng rất hậu. Đến năm 1210, thân phụ ông bị kẻ địch giết chết, ông được nhận tước Minh tự thay cho cha, và được giao quản lãnh quân đội hoàng gia. Từ đấy, ông mở rộng dần thế lực cánh họ Trần, áp đảo triều đình nhà Lý. Tài trí ông phối hợp với những thủ đoạn chính trị của Trần Thủ Độ, mở đường cho sự thành lập nhà Trần thay nhà Lý. Năm Giáp tuất 1214, ông cầm đầu đoàn quân đánh cánh họ Trần tiến đánh kinh thành. Quân nhà vua thua to, vua Lý cầu cứu Đoàn Thượng ở Hồng Châu. Quân Đoàn Thượng cũng bị đánh bại. Vua và Thái hậu phải chạy đến Châu Lạng, nương náu nơi nhà quan Châu là Vương Thượng. Được vài ngày Trần Tự Khánh cho người đem dâng vua một bức thư dụ vua trở về kinh sư. Về sau, khi nhà Trần dựng lên, ông nghiễm nhiên là bậc công thần khai sáng."
 }

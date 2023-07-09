@@ -1,17 +1,19 @@
 {
-  "dateOfBirth" : "Mậu Thân 1908",
-  "dateOfDeath" : "Tân Mão 1951",
-  "hometown" : "quê xã Tây Nỗ, huyện Hoài Đức, ngoại thành Hà Nội, tham gia hoạt động cách mạng lúc còn trẻ tuổi",
-  "occupation" : "Nhà hoạt động cách mạng",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+  "dateOfBirth": "Mậu Thân 1908",
+  "dateOfDeath": "Tân Mão 1951",
+  "hometown": "quê xã Tây Nỗ, huyện Hoài Đức, ngoại thành Hà Nội, tham gia hoạt động cách mạng lúc còn trẻ tuổi",
+  "occupation": "Nhà hoạt động cách mạng",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11,
+    "Nước Việt Nam mới": 29
   },
-  "id" : 627,
-  "entityName" : "Trịnh Đình Trọng",
-  "aliases" : [ "Nguyễn Hữu Phú" ],
-  "overview" : "Đầu năm 1941 ông bị Pháp bắt xử tù chung thân đày đi Sơn La, đến năm 1944 đày ra Côn Đảo. Sau CMT8 ông và các đồng chí được đón về đất liền phục vụ trong quân đội rồi làm bí thư Thành ủy Thành phố Sài Gòn - Chợ Lớn. Năm 1947 ông làm phó giám đốc sở Thông tin Nam bộ, rồi làm việc ở Ban Tuyên huấn xứ ủy Nam Kì. Ông mất vì bệnh nặng ngày 25-7-1951 tại Bạc Liêu."
+  "id": 627,
+  "entityName": "Trịnh Đình Trọng",
+  "aliases": [
+    "Nguyễn Hữu Phú"
+  ],
+  "overview": "Đầu năm 1941 ông bị Pháp bắt xử tù chung thân đày đi Sơn La, đến năm 1944 đày ra Côn Đảo. Sau CMT8 ông và các đồng chí được đón về đất liền phục vụ trong quân đội rồi làm bí thư Thành ủy Thành phố Sài Gòn - Chợ Lớn. Năm 1947 ông làm phó giám đốc sở Thông tin Nam bộ, rồi làm việc ở Ban Tuyên huấn xứ ủy Nam Kì. Ông mất vì bệnh nặng ngày 25-7-1951 tại Bạc Liêu."
 }

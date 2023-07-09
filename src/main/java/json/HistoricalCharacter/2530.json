@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 2530,
-  "entityName" : "Đặng Chi",
-  "aliases" : [ "Dèng Zhī" ],
-  "overview" : "Đặng Chi (chữ Hán: 鄧芝; Phiên âm: Dèng Zhī; 178–251 ) là một đại thần, tướng lĩnh nhà Thục Hán thời kỳ Tam Quốc trong lịch sử Trung Quốc."
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 2530,
+  "entityName": "Đặng Chi",
+  "aliases": [
+    "Dèng Zhī"
+  ],
+  "overview": "Đặng Chi (chữ Hán: 鄧芝; Phiên âm: Dèng Zhī; 178–251 ) là một đại thần, tướng lĩnh nhà Thục Hán thời kỳ Tam Quốc trong lịch sử Trung Quốc."
 }

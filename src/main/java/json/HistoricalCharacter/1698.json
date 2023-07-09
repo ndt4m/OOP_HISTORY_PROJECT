@@ -1,17 +1,17 @@
 {
-  "dateOfBirth" : "1842\n----------------------------------------------\nNhâm Dần 1842",
-  "dateOfDeath" : "1887\n----------------------------------------------\nĐinh Hợi 1887",
-  "hometown" : "huyện Nga Sơn, tỉnh Thanh Hoá)\n----------------------------------------------\nquê làng Tráng Xá, huyện Thanh Liêm, tỉnh Hà Nam lừng danh với chiến lũy Ba Đình",
-  "occupation" : "Chiến sĩ Cần vương kháng Pháp",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nhà Nguyễn độc lập" : 30
+  "dateOfBirth": "1842\n----------------------------------------------\nNhâm Dần 1842",
+  "dateOfDeath": "1887\n----------------------------------------------\nĐinh Hợi 1887",
+  "hometown": "huyện Nga Sơn, tỉnh Thanh Hoá)\n----------------------------------------------\nquê làng Tráng Xá, huyện Thanh Liêm, tỉnh Hà Nam lừng danh với chiến lũy Ba Đình",
+  "occupation": "Chiến sĩ Cần vương kháng Pháp",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11,
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 1698,
-  "entityName" : "Đinh Công Tráng",
-  "aliases" : [ ],
-  "overview" : "Đinh Công Tráng (1842 - 1887) là lãnh tụ chính của khởi nghĩa Ba Đình (tên cứ điểm ở huyện Nga Sơn, tỉnh Thanh Hoá) trong phong trào Cần Vương chống Pháp ở cuối thế kỷ 19 tại Việt Nam.\n----------------------------------------------\nÔng hùng cứ nơi chiến khu Ba Đình, chống nhau với quân Pháp suốt ba năm. Hai tướng Metzinger và Doddo đến đánh đều bị quân ông đẩy lui. Đến đầu năm 1887, đại tá Brissand thống lãnh 76 sĩ quan và 3. 500 quân tinh nhuệ, đánh luôn mấy ngày và tổn thất nặng nề mới phá được. Thành Ba Đình do ông đóng giữ rộng 400 thước, dài 1200 thước, bao bọc 3 làng Mậu Tịnh, Mĩ Khê, Thượng Thọ, chống giữ từ tháng 4-1885 đến 20-1-1887. Thành vỡ, ông chạy về Nghệ An và bị bắn chết trong đêm 5-10-1887 tại làng Trung Yên, trên bờ sông Cả. Tướng Pháp Mason nhận định về Đinh Công Tráng: \"Người có trật tự, trọng kỉ luật, cương trực, hay nghiêm trị những thủ hạ quấy nhiễu dân; có chí nhẫn nại, biết mình, biết người, không bao giờ hành binh cẩu thả, giỏi lập trận thế\""
+  "id": 1698,
+  "entityName": "Đinh Công Tráng",
+  "aliases": [],
+  "overview": "Đinh Công Tráng (1842 - 1887) là lãnh tụ chính của khởi nghĩa Ba Đình (tên cứ điểm ở huyện Nga Sơn, tỉnh Thanh Hoá) trong phong trào Cần Vương chống Pháp ở cuối thế kỷ 19 tại Việt Nam.\n----------------------------------------------\nÔng hùng cứ nơi chiến khu Ba Đình, chống nhau với quân Pháp suốt ba năm. Hai tướng Metzinger và Doddo đến đánh đều bị quân ông đẩy lui. Đến đầu năm 1887, đại tá Brissand thống lãnh 76 sĩ quan và 3. 500 quân tinh nhuệ, đánh luôn mấy ngày và tổn thất nặng nề mới phá được. Thành Ba Đình do ông đóng giữ rộng 400 thước, dài 1200 thước, bao bọc 3 làng Mậu Tịnh, Mĩ Khê, Thượng Thọ, chống giữ từ tháng 4-1885 đến 20-1-1887. Thành vỡ, ông chạy về Nghệ An và bị bắn chết trong đêm 5-10-1887 tại làng Trung Yên, trên bờ sông Cả. Tướng Pháp Mason nhận định về Đinh Công Tráng: \"Người có trật tự, trọng kỉ luật, cương trực, hay nghiêm trị những thủ hạ quấy nhiễu dân; có chí nhẫn nại, biết mình, biết người, không bao giờ hành binh cẩu thả, giỏi lập trận thế\""
 }

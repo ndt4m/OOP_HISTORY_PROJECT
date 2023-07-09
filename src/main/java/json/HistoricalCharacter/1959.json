@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê làng Phú Ninh, phủ Quảng Trạch, tỉnh Quảng Bình",
-  "occupation" : "Danh sĩ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "quê làng Phú Ninh, phủ Quảng Trạch, tỉnh Quảng Bình",
+  "occupation": "Danh sĩ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34
   },
-  "id" : 1959,
-  "entityName" : "Nguyễn Hàm Trực",
-  "aliases" : [ "Nguyễn Hàm Nghi" ],
-  "overview" : "Ông nổi tiếng văn thơ, làm Tri huyện huyện Nguyên Hương, có tinh thần dân tộc, nên được nhân dân cảm phục. Ông cũng có óc khoa học, kĩ thuật, từng sáng chế tàu, thuyền, máy móc. Về sau ông bỏ quan, theo Bạch Xỉ Đoàn Chí Tuân chống chính quyền triều Nguyễn, và thực dân Pháp xâm lược. Nghĩa quân thất bại, ông mất tích. Ông có sáng tác truyện thơ Nàng chuột còn được truyền tụng."
+  "id": 1959,
+  "entityName": "Nguyễn Hàm Trực",
+  "aliases": [
+    "Nguyễn Hàm Nghi"
+  ],
+  "overview": "Ông nổi tiếng văn thơ, làm Tri huyện huyện Nguyên Hương, có tinh thần dân tộc, nên được nhân dân cảm phục. Ông cũng có óc khoa học, kĩ thuật, từng sáng chế tàu, thuyền, máy móc. Về sau ông bỏ quan, theo Bạch Xỉ Đoàn Chí Tuân chống chính quyền triều Nguyễn, và thực dân Pháp xâm lược. Nghĩa quân thất bại, ông mất tích. Ông có sáng tác truyện thơ Nàng chuột còn được truyền tụng."
 }

@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Tân Hợi 1791",
-  "dateOfDeath" : "Đinh Mão 1867",
-  "hometown" : "quê ở Thủ Đức, tỉnh Gia Định (nay thuộc quận Thủ Đức, thành phố Hồ Chí Minh)",
-  "occupation" : "Con gái Phước Quốc Công Hồ Văn Bôi",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+  "dateOfBirth": "Tân Hợi 1791",
+  "dateOfDeath": "Đinh Mão 1867",
+  "hometown": "quê ở Thủ Đức, tỉnh Gia Định (nay thuộc quận Thủ Đức, thành phố Hồ Chí Minh)",
+  "occupation": "Con gái Phước Quốc Công Hồ Văn Bôi",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 1266,
-  "entityName" : "Hồ Thị Hoa",
-  "aliases" : [ ],
-  "overview" : "Năm Bính dần 1806, mới 15 tuổi, bà được tuyển vào cung và sau trở thành chánh hậu của vua Minh Mạng, duệ hiệu của bà là Tá Thiên nhân hoàng hậu. Vì kiêng húy bà, nên chữ Hoa thường đọc trại là Ba hoặc Huê, Bông. Như cầu Hoa gọi là cầu Bông, chợ Đông Hoa ở Huế, đọc trạnh là Đông Ba. Con bà là Nguyễn Phúc Dung (Miên Tông) được lập Thái tử, về sau nối ngôi Minh Mạng, tức vua Thiệu Trị (1840-1848)."
+  "id": 1266,
+  "entityName": "Hồ Thị Hoa",
+  "aliases": [],
+  "overview": "Năm Bính dần 1806, mới 15 tuổi, bà được tuyển vào cung và sau trở thành chánh hậu của vua Minh Mạng, duệ hiệu của bà là Tá Thiên nhân hoàng hậu. Vì kiêng húy bà, nên chữ Hoa thường đọc trại là Ba hoặc Huê, Bông. Như cầu Hoa gọi là cầu Bông, chợ Đông Hoa ở Huế, đọc trạnh là Đông Ba. Con bà là Nguyễn Phúc Dung (Miên Tông) được lập Thái tử, về sau nối ngôi Minh Mạng, tức vua Thiệu Trị (1840-1848)."
 }

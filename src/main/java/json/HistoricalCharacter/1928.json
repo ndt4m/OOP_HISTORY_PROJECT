@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Quí Hợi 1923",
-  "dateOfDeath" : "Nhâm Ngọ 2002",
-  "hometown" : "quê xã Nguyên Lý, huyện Lý Nhân, tỉnh Hà Nam",
-  "occupation" : "Tướng lãnh ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nước Việt Nam mới" : 29
+  "dateOfBirth": "Quí Hợi 1923",
+  "dateOfDeath": "Nhâm Ngọ 2002",
+  "hometown": "quê xã Nguyên Lý, huyện Lý Nhân, tỉnh Hà Nam",
+  "occupation": "Tướng lãnh ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nước Việt Nam mới": 29
   },
-  "id" : 1928,
-  "entityName" : "Hoàng Văn Thiệu",
-  "aliases" : [ "Hoàng Văn Khánh" ],
-  "overview" : "Ông tham gia cách mạng từ trước năm 1945 (1942), sau cách mạng tháng 8 nhập ngũ, giữ các chức vụ chỉ huy từ trung đội đến đại đoàn, tư lệnh Quân chủng phòng không. Năm 1986 được phong Trung tướng QĐNDVN chuyên về tên lửa phòng không - không quân. Trong suốt quá trình trong lực lượng Quân đội cách mạng ông được Đảng và nhà nước Việt Nam tặng nhiều huân chương cao quí trong đó có Huân chương Độc lập. ông mất năm 2002, thọ 79 tuổi."
+  "id": 1928,
+  "entityName": "Hoàng Văn Thiệu",
+  "aliases": [
+    "Hoàng Văn Khánh"
+  ],
+  "overview": "Ông tham gia cách mạng từ trước năm 1945 (1942), sau cách mạng tháng 8 nhập ngũ, giữ các chức vụ chỉ huy từ trung đội đến đại đoàn, tư lệnh Quân chủng phòng không. Năm 1986 được phong Trung tướng QĐNDVN chuyên về tên lửa phòng không - không quân. Trong suốt quá trình trong lực lượng Quân đội cách mạng ông được Đảng và nhà nước Việt Nam tặng nhiều huân chương cao quí trong đó có Huân chương Độc lập. ông mất năm 2002, thọ 79 tuổi."
 }

@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Bính Thân 1476",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê làng Lệ Xá huyện Nghi Dương, tỉnh Hải Dương",
-  "occupation" : "Văn thần đời Lê Uy Mục",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Triều Lê Sơ" : 7
+  "dateOfBirth": "Bính Thân 1476",
+  "dateOfDeath": "Không rõ",
+  "hometown": "quê làng Lệ Xá huyện Nghi Dương, tỉnh Hải Dương",
+  "occupation": "Văn thần đời Lê Uy Mục",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Triều Lê Sơ": 7
   },
-  "id" : 943,
-  "entityName" : "Phạm Gia Mô",
-  "aliases" : [ ],
-  "overview" : "Ông vốn dòng dõi danh sĩ Phạm Tông Mại, đời Trần, nguyên quán ở Quỳnh Khê, Kim Thành. Ông nổi tiếng thông minh hiếu học từ thuở trẻ. Năm Ất sửu 1505 ông đỗ đồng tiến sĩ lúc 29 tuổi. Giỏi việc chính trị, nhiều mưu lược, dần dần ông làm đến Thượng thư bộ Lễ, tước án Lễ Hầu. Bấy giờ Mạc Đăng Dung đang lộng quyền, nuôi ý đồ lật đổ nhà Lê, ông bèn kết thông gia với Đặng Dung, và thường ngầm giúp đỡ những hành động chuyên chính của Đăng Dung. Đến khi Đăng Dung đảo chính lập nhà Mạc (Đinh hợi 1527) ông được Đăng Dung phọng là Hoằng Lễ Hầu, giao cho coi sóc việc triều chính từ năm Mậu tí 1528. Sau nhà Mạc lấy lễ bậc thầy mà đối đãi, phong ông làm đến Khai phủ bình chương quân quốc trọng sư, Thái sư, Hải Quốc Công."
+  "id": 943,
+  "entityName": "Phạm Gia Mô",
+  "aliases": [],
+  "overview": "Ông vốn dòng dõi danh sĩ Phạm Tông Mại, đời Trần, nguyên quán ở Quỳnh Khê, Kim Thành. Ông nổi tiếng thông minh hiếu học từ thuở trẻ. Năm Ất sửu 1505 ông đỗ đồng tiến sĩ lúc 29 tuổi. Giỏi việc chính trị, nhiều mưu lược, dần dần ông làm đến Thượng thư bộ Lễ, tước án Lễ Hầu. Bấy giờ Mạc Đăng Dung đang lộng quyền, nuôi ý đồ lật đổ nhà Lê, ông bèn kết thông gia với Đặng Dung, và thường ngầm giúp đỡ những hành động chuyên chính của Đăng Dung. Đến khi Đăng Dung đảo chính lập nhà Mạc (Đinh hợi 1527) ông được Đăng Dung phọng là Hoằng Lễ Hầu, giao cho coi sóc việc triều chính từ năm Mậu tí 1528. Sau nhà Mạc lấy lễ bậc thầy mà đối đãi, phong ông làm đến Khai phủ bình chương quân quốc trọng sư, Thái sư, Hải Quốc Công."
 }

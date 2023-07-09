@@ -1,18 +1,20 @@
 {
-  "dateOfBirth" : "Canh Dần 1650",
-  "dateOfDeath" : "Canh Thìn 1700",
-  "hometown" : "quê làng Gia Miêu, huyện Tống Sơn, tỉnh Thanh Hóa",
-  "occupation" : "Còn gọi là Nguyễn Hữu Cảnh, Danh tướng đời chúa Nguyễn Phúc Chu, con thứ ba Nguyễn Hữu Dật",
-  "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Nguyễn Hữu Dật" : 2406
+  "dateOfBirth": "Canh Dần 1650",
+  "dateOfDeath": "Canh Thìn 1700",
+  "hometown": "quê làng Gia Miêu, huyện Tống Sơn, tỉnh Thanh Hóa",
+  "occupation": "Còn gọi là Nguyễn Hữu Cảnh, Danh tướng đời chúa Nguyễn Phúc Chu, con thứ ba Nguyễn Hữu Dật",
+  "workTenure": "Không rõ",
+  "fatherName": {
+    "Nguyễn Hữu Dật": 2681
   },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34
   },
-  "id" : 2298,
-  "entityName" : "Nguyễn Hữu Kính",
-  "aliases" : [ "Nguyễn Hữu Cảnh" ],
-  "overview" : "Ông làm quan đời Quốc Chúa (Phúc Chu) nổi tiếng là một tướng tài với danh hiệu Hắc hổ, được phong tước Lễ Thành Hầu, chức Chưởng binh. Năm Quí dậu 1693, ông dẫn đầu đoàn quân chinh phạt Chiêm Thành và bắt được vua xứ này là Bà Tranh. Năm Mậu đân 1698, được cử làm Kinh lược sứ Chân Lạp, năm sau trở về chiêu dân lập ấp, khai thác đất Đông Phố lập nên dinh Trấn Biên, sau đó lại lấy xứ Sài Côn lập dinh Phiên Trấn (tức Gia Định ngày nay). Năm 1699 Nặc Ông Thu (vua Chân Lạp) đem quân tiến công nước ta, ông được triều đình cử vào chống trả. Tại đây ông đã đánh tan quân Nặc Ông Thu. Hầu hết công tác bình định, khai hoang lập ấp ở miền Nam vào giai đoạn này phần lớn đều do công của ông. Đương thời đồng bào Nam Kì có lập đền thờ ông ở nhiều nơi như Biên Hòa, Long Xuyên, Châu Đốc... Ở huyện Chợ Mới, tỉnh An Giang có một cù lao được nhân dân địa phương đặt tên là Cù lao Ông Chưởng và một con rạch lớn gọi là Lòng Ông Chưởng. Ở thủ đô Nam Vang của Campuchia cũng có đền thờ ông. Ông mất năm Canh thân 1700 thọ 50 tuổi."
+  "id": 2298,
+  "entityName": "Nguyễn Hữu Kính",
+  "aliases": [
+    "Nguyễn Hữu Cảnh"
+  ],
+  "overview": "Ông làm quan đời Quốc Chúa (Phúc Chu) nổi tiếng là một tướng tài với danh hiệu Hắc hổ, được phong tước Lễ Thành Hầu, chức Chưởng binh. Năm Quí dậu 1693, ông dẫn đầu đoàn quân chinh phạt Chiêm Thành và bắt được vua xứ này là Bà Tranh. Năm Mậu đân 1698, được cử làm Kinh lược sứ Chân Lạp, năm sau trở về chiêu dân lập ấp, khai thác đất Đông Phố lập nên dinh Trấn Biên, sau đó lại lấy xứ Sài Côn lập dinh Phiên Trấn (tức Gia Định ngày nay). Năm 1699 Nặc Ông Thu (vua Chân Lạp) đem quân tiến công nước ta, ông được triều đình cử vào chống trả. Tại đây ông đã đánh tan quân Nặc Ông Thu. Hầu hết công tác bình định, khai hoang lập ấp ở miền Nam vào giai đoạn này phần lớn đều do công của ông. Đương thời đồng bào Nam Kì có lập đền thờ ông ở nhiều nơi như Biên Hòa, Long Xuyên, Châu Đốc... Ở huyện Chợ Mới, tỉnh An Giang có một cù lao được nhân dân địa phương đặt tên là Cù lao Ông Chưởng và một con rạch lớn gọi là Lòng Ông Chưởng. Ở thủ đô Nam Vang của Campuchia cũng có đền thờ ông. Ông mất năm Canh thân 1700 thọ 50 tuổi."
 }

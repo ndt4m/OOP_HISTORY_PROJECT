@@ -1,18 +1,20 @@
 {
-  "dateOfBirth" : "4 Đại Cồ Việt",
-  "dateOfDeath" : "979 Hoa Lư, Hoa Lư",
-  "hometown" : "Không rõ",
-  "occupation" : "Thái tử nhà Đinh",
-  "workTenure" : "978-979",
-  "fatherName" : {
-    "Đinh Tiên Hoàng" : 2346
+  "dateOfBirth": "4 Đại Cồ Việt",
+  "dateOfDeath": "979 Hoa Lư, Hoa Lư",
+  "hometown": "Không rõ",
+  "occupation": "Thái tử nhà Đinh",
+  "workTenure": "978-979",
+  "fatherName": {
+    "Đinh Tiên Hoàng": 1360
   },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Đinh" : 35
+  "motherName": {},
+  "eraName": {
+    "Nhà Đinh": 35
   },
-  "id" : 1806,
-  "entityName" : "Đinh Hạng Lang",
-  "aliases" : [ "Đính Noa Tăng Noa" ],
-  "overview" : "Đinh Hạng Lang (chữ Hán: 丁項郎, ? - 979) - pháp danh Đính Noa Tăng Noa (chữ Hán: 頂帑僧帑) - là thái tử nhà Đinh, con trai thứ của Đinh Tiên Hoàng."
+  "id": 1806,
+  "entityName": "Đinh Hạng Lang",
+  "aliases": [
+    "Đính Noa Tăng Noa"
+  ],
+  "overview": "Đinh Hạng Lang (chữ Hán: 丁項郎, ? - 979) - pháp danh Đính Noa Tăng Noa (chữ Hán: 頂帑僧帑) - là thái tử nhà Đinh, con trai thứ của Đinh Tiên Hoàng."
 }

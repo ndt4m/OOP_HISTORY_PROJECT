@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Vị Hầu tước có danh trong thời Lý Nhân tông.",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Lý" : 14
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Vị Hầu tước có danh trong thời Lý Nhân tông.",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Lý": 14
   },
-  "id" : 783,
-  "entityName" : "Diên Thành Hầu",
-  "aliases" : [ ],
-  "overview" : "Ông cậy tay pháp sư Đại Diện trừ khử gã phù thủy Từ Vinh thường lẻn vào cung khuấy rối. Do đó gây nên cuộc báo oán giữa thiền sư Từ Lộ tức Từ Đạo Hạnh (con Từ Vinh) và pháp sư Đại Diện. Ông nhiệt thành mưu việc phúc lợi cho dân chúng, sửa sang chính trị đời Lý."
+  "id": 783,
+  "entityName": "Diên Thành Hầu",
+  "aliases": [],
+  "overview": "Ông cậy tay pháp sư Đại Diện trừ khử gã phù thủy Từ Vinh thường lẻn vào cung khuấy rối. Do đó gây nên cuộc báo oán giữa thiền sư Từ Lộ tức Từ Đạo Hạnh (con Từ Vinh) và pháp sư Đại Diện. Ông nhiệt thành mưu việc phúc lợi cho dân chúng, sửa sang chính trị đời Lý."
 }

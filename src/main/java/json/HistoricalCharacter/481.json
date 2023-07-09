@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Quê làng Tráng Liệt, huyện Đông Ngạn, tỉnh Bắc Ninh",
-  "occupation" : "Danh thần đời Lê Nhân tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Triều Lê Sơ" : 7
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Quê làng Tráng Liệt, huyện Đông Ngạn, tỉnh Bắc Ninh",
+  "occupation": "Danh thần đời Lê Nhân tông",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Triều Lê Sơ": 7
   },
-  "id" : 481,
-  "entityName" : "Dương Tử Do",
-  "aliases" : [ ],
-  "overview" : "Năm Mậu dần 1458 ông đỗ tiến sĩ. Ông nổi tiếng thơ văn. Khi Lê Nhân tông bị giết, Lê Nghi Dân lên ngôi, ông lui về ở ẩn. Đến khi Nghi Dân bị dẹp tan, Lê Thánh tông nối nghiệp, ông mới dốc lòng phục vụ, góp sức sửa sang việc chính trị mở mang văn hóa. Làm quan đến Hữu thị lang bộ Công."
+  "id": 481,
+  "entityName": "Dương Tử Do",
+  "aliases": [],
+  "overview": "Năm Mậu dần 1458 ông đỗ tiến sĩ. Ông nổi tiếng thơ văn. Khi Lê Nhân tông bị giết, Lê Nghi Dân lên ngôi, ông lui về ở ẩn. Đến khi Nghi Dân bị dẹp tan, Lê Thánh tông nối nghiệp, ông mới dốc lòng phục vụ, góp sức sửa sang việc chính trị mở mang văn hóa. Làm quan đến Hữu thị lang bộ Công."
 }

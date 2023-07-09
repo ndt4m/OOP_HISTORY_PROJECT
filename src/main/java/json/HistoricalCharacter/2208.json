@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 2208,
-  "entityName" : "Nguyễn Ngọc Trân",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Ngọc Trân (sinh 1940) là đại biểu Quốc hội Việt Nam khóa IX, X, XI. Ông thuộc đoàn đại biểu An Giang. ."
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 2208,
+  "entityName": "Nguyễn Ngọc Trân",
+  "aliases": [],
+  "overview": "Nguyễn Ngọc Trân (sinh 1940) là đại biểu Quốc hội Việt Nam khóa IX, X, XI. Ông thuộc đoàn đại biểu An Giang. ."
 }

@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Bính Thìn 1856",
-  "dateOfDeath" : "Ất Mão 1915",
-  "hometown" : "quê làng Mọc, xã Nhân Mục, tổng Khương Đình, huyện Thanh Trì, tỉnh Hà Đông (nay là tỉnh Hà Tây)",
-  "occupation" : "Đại thần cuối triều Nguyễn",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "Bính Thìn 1856",
+  "dateOfDeath": "Ất Mão 1915",
+  "hometown": "quê làng Mọc, xã Nhân Mục, tổng Khương Đình, huyện Thanh Trì, tỉnh Hà Đông (nay là tỉnh Hà Tây)",
+  "occupation": "Đại thần cuối triều Nguyễn",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 1398,
-  "entityName" : "Lê Hoan",
-  "aliases" : [ "Lê Tôn" ],
-  "overview" : "Thời trẻ đi lính triều Nguyễn đóng ở Sơn Tây, khi Pháp chiếm Bắc Kì ông phối hợp với Quân cờ đen đánh Pháp nhưng phạm quân lệnh bị kết án tử hình, sau được giảm án. Năm 1886 qui hàng Pháp được làm thông phán ở Lạng Sơn, Hưng Yên, năm 1892 giữ chức bố chánh Sơn Tây, tuần phủ Hưng Hóa kiêm tiễu phủ sứ Tam Tuyên, rồi Tổng đốc Bắc Ninh, Tổng đốc Hải Dương. Năm 1905 về Huế làm Thượng thư bộ binh kiêm hữu đô ngự sử viện Đô sát. Năm 1909 khâm sai đại thần Bắc Kì, rồi Tổng đốc Hải Dương năm 1910. Ông chết trong lúc đang tại chức."
+  "id": 1398,
+  "entityName": "Lê Hoan",
+  "aliases": [
+    "Lê Tôn"
+  ],
+  "overview": "Thời trẻ đi lính triều Nguyễn đóng ở Sơn Tây, khi Pháp chiếm Bắc Kì ông phối hợp với Quân cờ đen đánh Pháp nhưng phạm quân lệnh bị kết án tử hình, sau được giảm án. Năm 1886 qui hàng Pháp được làm thông phán ở Lạng Sơn, Hưng Yên, năm 1892 giữ chức bố chánh Sơn Tây, tuần phủ Hưng Hóa kiêm tiễu phủ sứ Tam Tuyên, rồi Tổng đốc Bắc Ninh, Tổng đốc Hải Dương. Năm 1905 về Huế làm Thượng thư bộ binh kiêm hữu đô ngự sử viện Đô sát. Năm 1909 khâm sai đại thần Bắc Kì, rồi Tổng đốc Hải Dương năm 1910. Ông chết trong lúc đang tại chức."
 }

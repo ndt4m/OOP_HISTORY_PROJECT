@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Canh Dần 1110",
-  "dateOfDeath" : "Ất Dậu 1165",
-  "hometown" : "quê ở làng Trường Nguyên, huyện Tiên Du, tỉnh Bắc Ninh nên đương thời gọi ông là sư Trường Nguyên - theo tên quê ông",
-  "occupation" : "Thiền sư đời Lý Anh tông, không rõ tên và pháp danh",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Lý" : 14
+  "dateOfBirth": "Canh Dần 1110",
+  "dateOfDeath": "Ất Dậu 1165",
+  "hometown": "quê ở làng Trường Nguyên, huyện Tiên Du, tỉnh Bắc Ninh nên đương thời gọi ông là sư Trường Nguyên - theo tên quê ông",
+  "occupation": "Thiền sư đời Lý Anh tông, không rõ tên và pháp danh",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Lý": 14
   },
-  "id" : 1147,
-  "entityName" : "Phan Trường Nguyên",
-  "aliases" : [ ],
-  "overview" : "Ông đi tu từ nhỏ, học với sư Âu Đạo Huệ, rồi về ẩn ở núi Từ Sơn, được truyền tâm ấn thuộc thế hệ thứ 10 dòng thiền Quan Bích. Vua Lý Anh tông từng nhờ người bạn cũ của ông là Lê Hội đi triệu ông về kinh. Ông chấp nhận ra đi, nhưng được nửa đường ông hối lại, bỏ trở về núi. Sau ông trụ trì ở chùa Sóc Thiên núi Vệ Linh (nay thuộc huyện Kim Anh, tỉnh Vĩnh Phú). Ngày 7-6 âm tịch năm Đinh dậu (16-7-1165), ông mất hưởng dương 55 tuổi."
+  "id": 1147,
+  "entityName": "Phan Trường Nguyên",
+  "aliases": [],
+  "overview": "Ông đi tu từ nhỏ, học với sư Âu Đạo Huệ, rồi về ẩn ở núi Từ Sơn, được truyền tâm ấn thuộc thế hệ thứ 10 dòng thiền Quan Bích. Vua Lý Anh tông từng nhờ người bạn cũ của ông là Lê Hội đi triệu ông về kinh. Ông chấp nhận ra đi, nhưng được nửa đường ông hối lại, bỏ trở về núi. Sau ông trụ trì ở chùa Sóc Thiên núi Vệ Linh (nay thuộc huyện Kim Anh, tỉnh Vĩnh Phú). Ngày 7-6 âm tịch năm Đinh dậu (16-7-1165), ông mất hưởng dương 55 tuổi."
 }

@@ -1,17 +1,17 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Tục gọi Châu Muội Nương, em Lâm Thao Quận công Châu Văn Tiếp. Vợ Quận công Lê Văn Quân.",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34,
-    "Nhà Tây Sơn" : 21
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Tục gọi Châu Muội Nương, em Lâm Thao Quận công Châu Văn Tiếp. Vợ Quận công Lê Văn Quân.",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34,
+    "Nhà Tây Sơn": 21
   },
-  "id" : 1644,
-  "entityName" : "Châu Thị Đậu",
-  "aliases" : [ ],
-  "overview" : "Bà giỏi võ nghệ, cùng anh và chồng giúp chúa Nguyễn Phúc Ánh rất đắc lực. Xông pha chiến trận, ta dũng chẳng kém gì trai. Khi vợ chồng bà theo chúa Nguyễn sang Xiêm (Thái Lan), chính bà đã 2 lần cầm binh đánh thắng quân Miến Điện và Đồ Bàn theo lời yêu cầu tiếp viện của vua Xiêm, khiến người Xiêm thán phục. Chồng bà mất trong năm Tân hợi 1791. Bà sinh gái đầu lòng tại Xiêm (xưa gọi là nước Tiêm La), nên đặt tên là Tiêm. Ngoài Thị Tiêm, vợ chồng bà còn có 2 trai Lê Văn Uy và Lê Văn Chính."
+  "id": 1644,
+  "entityName": "Châu Thị Đậu",
+  "aliases": [],
+  "overview": "Bà giỏi võ nghệ, cùng anh và chồng giúp chúa Nguyễn Phúc Ánh rất đắc lực. Xông pha chiến trận, ta dũng chẳng kém gì trai. Khi vợ chồng bà theo chúa Nguyễn sang Xiêm (Thái Lan), chính bà đã 2 lần cầm binh đánh thắng quân Miến Điện và Đồ Bàn theo lời yêu cầu tiếp viện của vua Xiêm, khiến người Xiêm thán phục. Chồng bà mất trong năm Tân hợi 1791. Bà sinh gái đầu lòng tại Xiêm (xưa gọi là nước Tiêm La), nên đặt tên là Tiêm. Ngoài Thị Tiêm, vợ chồng bà còn có 2 trai Lê Văn Uy và Lê Văn Chính."
 }

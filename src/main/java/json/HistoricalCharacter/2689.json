@@ -1,18 +1,21 @@
 {
-  "dateOfBirth" : "..",
-  "dateOfDeath" : "cuối năm 917 Thành Đại La, Hà Nội\n----------------------------------------------\nĐinh Sửu 917",
-  "hometown" : "Quê hương của cha con Khúc Thừa Dụ, Khúc Hạo nay được cho là làng Cúc Bồ xã Kiến Quốc huyện Ninh Giang tỉnh Hải Dương .\n----------------------------------------------\nHải Dương",
-  "occupation" : "Tiết độ sứ thời kỳ Tự chủ\n----------------------------------------------\nCon Khúc Thừa Dụ",
-  "workTenure" : "907-917\n----------------------------------------------\nKhông rõ",
-  "fatherName" : {
-    "Khúc Tiên Chủ" : 3079
+  "dateOfBirth": "..",
+  "dateOfDeath": "cuối năm 917 Thành Đại La, Hà Nội\n----------------------------------------------\nĐinh Sửu 917",
+  "hometown": "Quê hương của cha con Khúc Thừa Dụ, Khúc Hạo nay được cho là làng Cúc Bồ xã Kiến Quốc huyện Ninh Giang tỉnh Hải Dương .\n----------------------------------------------\nHải Dương",
+  "occupation": "Tiết độ sứ thời kỳ Tự chủ\n----------------------------------------------\nCon Khúc Thừa Dụ",
+  "workTenure": "907-917\n----------------------------------------------\nKhông rõ",
+  "fatherName": {
+    "Khúc Tiên Chủ": 467
   },
-  "motherName" : { },
-  "eraName" : {
-    "Xây nền tự chủ" : 12
+  "motherName": {},
+  "eraName": {
+    "Xây nền tự chủ": 12
   },
-  "id" : 2689,
-  "entityName" : "Khúc Hạo",
-  "aliases" : [ "Trung Chủ", "Khúc Hạo hoặc Khúc Thừa Hạo" ],
-  "overview" : "Khúc Hạo (chữ Hán: 曲顥; trị vì: 907-917) hoặc Khúc Thừa Hạo , được suy tôn là Khúc Trung Chủ, là con của Khúc Thừa Dụ. Quê hương của cha con Khúc Thừa Dụ, Khúc Hạo nay được cho là làng Cúc Bồ xã Kiến Quốc huyện Ninh Giang tỉnh Hải Dương .\n----------------------------------------------\nÔng lại khéo dùng người, thuộc hạ ông có Dương Diên Nghệ là tướng lãnh xuất sắc. Do đó, trong suốt thời gian ông cầm quyền, nước yên trị, nhà Hậu Lương không làm gì được đất nước ta. Năm Đinh sửu 917 ông mất, con là Khúc Thừa Mỹ nối nghiệp."
+  "id": 2689,
+  "entityName": "Khúc Hạo",
+  "aliases": [
+    "Trung Chủ",
+    "Khúc Hạo hoặc Khúc Thừa Hạo"
+  ],
+  "overview": "Khúc Hạo (chữ Hán: 曲顥; trị vì: 907-917) hoặc Khúc Thừa Hạo , được suy tôn là Khúc Trung Chủ, là con của Khúc Thừa Dụ. Quê hương của cha con Khúc Thừa Dụ, Khúc Hạo nay được cho là làng Cúc Bồ xã Kiến Quốc huyện Ninh Giang tỉnh Hải Dương .\n----------------------------------------------\nÔng lại khéo dùng người, thuộc hạ ông có Dương Diên Nghệ là tướng lãnh xuất sắc. Do đó, trong suốt thời gian ông cầm quyền, nước yên trị, nhà Hậu Lương không làm gì được đất nước ta. Năm Đinh sửu 917 ông mất, con là Khúc Thừa Mỹ nối nghiệp."
 }

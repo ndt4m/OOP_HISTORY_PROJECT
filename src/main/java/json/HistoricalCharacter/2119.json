@@ -1,20 +1,23 @@
 {
-  "dateOfBirth" : "259 TCN",
-  "dateOfDeath" : "210 TCN Trung Quốc",
-  "hometown" : "Không rõ",
-  "occupation" : "Vua nước Tần",
-  "workTenure" : "7 tháng 6 năm 247 TCN – 221 TCN",
-  "fatherName" : {
-    "Tần Trang Tương vương" : null
+  "dateOfBirth": "259 TCN",
+  "dateOfDeath": "210 TCN Trung Quốc",
+  "hometown": "Không rõ",
+  "occupation": "Vua nước Tần",
+  "workTenure": "7 tháng 6 năm 247 TCN – 221 TCN",
+  "fatherName": {
+    "Tần Trang Tương vương": null
   },
-  "motherName" : {
-    "Đế thái hậu Triệu Cơ" : null
+  "motherName": {
+    "Đế thái hậu Triệu Cơ": null
   },
-  "eraName" : {
-    "Nhà Tần" : null
+  "eraName": {
+    "Nhà Tần": null
   },
-  "id" : 2119,
-  "entityName" : "Tần Thủy Hoàng",
-  "aliases" : [ "Doanh Chính (嬴政)", "Doanh Chính" ],
-  "overview" : "Tần Thủy Hoàng (tiếng Hán: 秦始皇)(tháng 1 hoặc tháng 12, 259 TCN – 10 tháng 9, 210 TCN) , tên thật là Doanh Chính (嬴政), còn có tên khác là Triệu Chính (趙政), là vị vua thứ 36 của nước Tần ở Trung Quốc từ năm 246 TCN đến 221 TCN trong thời kỳ Chiến Quốc và trở thành vị Hoàng đế sáng lập ra nhà Tần, đồng thời là hoàng đế đầu tiên của Trung Quốc thống nhất vào năm 221 TCN sau khi tiêu diệt các nước chư hầu khác. Ông cai trị cho đến khi qua đời vào năm 210 TCN ở tuổi 49."
+  "id": 2119,
+  "entityName": "Tần Thủy Hoàng",
+  "aliases": [
+    "Doanh Chính (嬴政)",
+    "Doanh Chính"
+  ],
+  "overview": "Tần Thủy Hoàng (tiếng Hán: 秦始皇)(tháng 1 hoặc tháng 12, 259 TCN – 10 tháng 9, 210 TCN) , tên thật là Doanh Chính (嬴政), còn có tên khác là Triệu Chính (趙政), là vị vua thứ 36 của nước Tần ở Trung Quốc từ năm 246 TCN đến 221 TCN trong thời kỳ Chiến Quốc và trở thành vị Hoàng đế sáng lập ra nhà Tần, đồng thời là hoàng đế đầu tiên của Trung Quốc thống nhất vào năm 221 TCN sau khi tiêu diệt các nước chư hầu khác. Ông cai trị cho đến khi qua đời vào năm 210 TCN ở tuổi 49."
 }

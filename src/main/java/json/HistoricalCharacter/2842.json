@@ -1,17 +1,17 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "1414\n----------------------------------------------\nQuí Tị 1413",
-  "hometown" : "Quê ông ở làng Ngọc Sơn, huyện Thanh Chương, tỉnh Nghệ An.\n----------------------------------------------\nquê làng Ngọc Sơn, tỉnh Nghệ An (nay là Nam Đàn, tỉnh Nghệ An)",
-  "occupation" : "Anh hùng liệt sĩ kháng Minh trong đời vua Trùng Quang",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Thuộc Minh" : 33,
-    "nhà Hậu Trần" : null
+  "dateOfBirth": "…",
+  "dateOfDeath": "1414\n----------------------------------------------\nQuí Tị 1413",
+  "hometown": "Quê ông ở làng Ngọc Sơn, huyện Thanh Chương, tỉnh Nghệ An.\n----------------------------------------------\nquê làng Ngọc Sơn, tỉnh Nghệ An (nay là Nam Đàn, tỉnh Nghệ An)",
+  "occupation": "Anh hùng liệt sĩ kháng Minh trong đời vua Trùng Quang",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Thuộc Minh": 33,
+    "nhà Hậu Trần": null
   },
-  "id" : 2842,
-  "entityName" : "Nguyễn Cảnh Dị",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Cảnh Dị (chữ Hán: 阮景異, ? – 1414) là một trong những danh tướng của nhà Hậu Trần chống giặc nhà Minh. Quê ông ở làng Ngọc Sơn, huyện Thanh Chương, tỉnh Nghệ An.\n----------------------------------------------\nCha là Cảnh Chân theo Giản Định Đế làm Đồng Tri khu mật tham mưu quân sư, có công chống giặc Minh, nhưng lại bị vua Giản Định nghe gièm mà giết đi. Thù nhà nợ nước, ông bèn đem quân vào Thanh Hóa lập Trần Quí Khoách lên ngôi tức vua Trùng Quang, ông làm Thái bảo, dẫn quân tới Bình Than (huyện Chí Linh, tỉnh Hải Dương) chống nhau với tướng Minh là Trương Phụ dẫn đầu xâm lược. Năm Canh dần 1410, đạo quân của ông phá tan binh giặc do Đô đốc Minh là Giang Hạo chỉ huy tại Hạ Hồng (Ninh Giang), rồi thừa thắng xông lên. Truơng Phụ kéo quân đánh phá Nghệ An. Ông và Nguyễn Súy chống cự quyết liệt nơi Mô Độ (huyện Tam Điệp, tỉnh Ninh Bình). Thế yếu, tướng sĩ cùng quan quân bỏ Mô Độ chạy về đường biển. Cuối cùng Trương Phụ bắt được ông và Nguyễn Súy vào năm Quí tị 1413, giặc dụ hàng nhiều lần nhưng không khuất được ông, ông mắng Trương Phụ: \"Tao muốn giết mày, trở lại bị mày bắt, đành là một chết mà thôi!\" Trương Phụ giết rồi ăn gan ông."
+  "id": 2842,
+  "entityName": "Nguyễn Cảnh Dị",
+  "aliases": [],
+  "overview": "Nguyễn Cảnh Dị (chữ Hán: 阮景異, ? – 1414) là một trong những danh tướng của nhà Hậu Trần chống giặc nhà Minh. Quê ông ở làng Ngọc Sơn, huyện Thanh Chương, tỉnh Nghệ An.\n----------------------------------------------\nCha là Cảnh Chân theo Giản Định Đế làm Đồng Tri khu mật tham mưu quân sư, có công chống giặc Minh, nhưng lại bị vua Giản Định nghe gièm mà giết đi. Thù nhà nợ nước, ông bèn đem quân vào Thanh Hóa lập Trần Quí Khoách lên ngôi tức vua Trùng Quang, ông làm Thái bảo, dẫn quân tới Bình Than (huyện Chí Linh, tỉnh Hải Dương) chống nhau với tướng Minh là Trương Phụ dẫn đầu xâm lược. Năm Canh dần 1410, đạo quân của ông phá tan binh giặc do Đô đốc Minh là Giang Hạo chỉ huy tại Hạ Hồng (Ninh Giang), rồi thừa thắng xông lên. Truơng Phụ kéo quân đánh phá Nghệ An. Ông và Nguyễn Súy chống cự quyết liệt nơi Mô Độ (huyện Tam Điệp, tỉnh Ninh Bình). Thế yếu, tướng sĩ cùng quan quân bỏ Mô Độ chạy về đường biển. Cuối cùng Trương Phụ bắt được ông và Nguyễn Súy vào năm Quí tị 1413, giặc dụ hàng nhiều lần nhưng không khuất được ông, ông mắng Trương Phụ: \"Tao muốn giết mày, trở lại bị mày bắt, đành là một chết mà thôi!\" Trương Phụ giết rồi ăn gan ông."
 }

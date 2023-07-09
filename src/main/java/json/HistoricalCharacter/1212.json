@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê ở Đại Đồng, tỉnh Tuyên Quang, không rõ năm sinh, năm mất",
-  "occupation" : "Võ tướng đời Lê Trung tông, quê ở Đại Đồng, tỉnh Tuyên Quang",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "quê ở Đại Đồng, tỉnh Tuyên Quang, không rõ năm sinh, năm mất",
+  "occupation": "Võ tướng đời Lê Trung tông, quê ở Đại Đồng, tỉnh Tuyên Quang",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34
   },
-  "id" : 1212,
-  "entityName" : "Ma Phúc Trường",
-  "aliases" : [ ],
-  "overview" : "Ông là bộ tướng của Hòa Quốc Công Võ Đức Công, dòng dõi An Tây vương Võ Văn Mật. Ông tận tụy phục vụ nhà họ Võ trấn giữ Đại Đồng, nghiễm nhiên như lãnh chúa địa phương. Võ Đức Công mất, con là Thụy Quận công Võ Công Ứng nối nghiệp, ông vẫn hết lòng giúp sức, đến khi Công Ứng mất, con là Tống Quận Công Võ Công Trực lên thay, ông không vừa lòng với vị chủ tướng này, nên âm mưu giết chết Công Trực, tách ra đối lập với nhà họ Võ. Con của Công Trực là Công Tuấn được chúa Trịnh phong làm Khoan Quận Công, lưu ở kinh đô hầu chúa. Nhưng chẳng bao lâu Công Tuấn lén trốn về Đại Đồng, dựng lại cơ nghiệp, giết chết Ma Phúc Trường đề báo thù cho cha. Sau đó, Công Tuấn liên kết với dòng dõi họ Mạc, hàng phục nhà Thanh, tự xưng là Tiểu Giao vương chống lại nhà Lê, sau bị bắt và xử tử."
+  "id": 1212,
+  "entityName": "Ma Phúc Trường",
+  "aliases": [],
+  "overview": "Ông là bộ tướng của Hòa Quốc Công Võ Đức Công, dòng dõi An Tây vương Võ Văn Mật. Ông tận tụy phục vụ nhà họ Võ trấn giữ Đại Đồng, nghiễm nhiên như lãnh chúa địa phương. Võ Đức Công mất, con là Thụy Quận công Võ Công Ứng nối nghiệp, ông vẫn hết lòng giúp sức, đến khi Công Ứng mất, con là Tống Quận Công Võ Công Trực lên thay, ông không vừa lòng với vị chủ tướng này, nên âm mưu giết chết Công Trực, tách ra đối lập với nhà họ Võ. Con của Công Trực là Công Tuấn được chúa Trịnh phong làm Khoan Quận Công, lưu ở kinh đô hầu chúa. Nhưng chẳng bao lâu Công Tuấn lén trốn về Đại Đồng, dựng lại cơ nghiệp, giết chết Ma Phúc Trường đề báo thù cho cha. Sau đó, Công Tuấn liên kết với dòng dõi họ Mạc, hàng phục nhà Thanh, tự xưng là Tiểu Giao vương chống lại nhà Lê, sau bị bắt và xử tử."
 }

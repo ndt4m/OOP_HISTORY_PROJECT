@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Danh thần đời Tiền Lê",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Tiền Lê" : 8
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Danh thần đời Tiền Lê",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Tiền Lê": 8
   },
-  "id" : 1646,
-  "entityName" : "Giang Cự Vọng",
-  "aliases" : [ ],
-  "overview" : "Chính Giang Cự Vọng là người đã thảo bức Quốc thư theo lệnh của Lê Hoàn lấy danh nghĩa Vệ Tương Đinh Huệ dâng vua Tống xin nối ngôi nhà Đinh, nhưng vua Tống bác bỏ. Nhưng Lê Hoàn vẫn nghiễm nhiên trị nước, sẵn sàng đương đầu với nhà Tống. Khi làm quan ông hết lòng phù tá Lê Hoàn, nổi danh là một đại thần vì nước."
+  "id": 1646,
+  "entityName": "Giang Cự Vọng",
+  "aliases": [],
+  "overview": "Chính Giang Cự Vọng là người đã thảo bức Quốc thư theo lệnh của Lê Hoàn lấy danh nghĩa Vệ Tương Đinh Huệ dâng vua Tống xin nối ngôi nhà Đinh, nhưng vua Tống bác bỏ. Nhưng Lê Hoàn vẫn nghiễm nhiên trị nước, sẵn sàng đương đầu với nhà Tống. Khi làm quan ông hết lòng phù tá Lê Hoàn, nổi danh là một đại thần vì nước."
 }

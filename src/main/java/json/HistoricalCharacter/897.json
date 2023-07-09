@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "xã Thanh Xuân, huyện Thanh Chương, tỉnh Nghệ An.",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "nhà Hậu Lê" : null
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "xã Thanh Xuân, huyện Thanh Chương, tỉnh Nghệ An.",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "nhà Hậu Lê": null
   },
-  "id" : 897,
-  "entityName" : "Trần Hưng Học",
-  "aliases" : [ ],
-  "overview" : "Trần Hưng Học (- 1673), người xã Thanh Xuân, huyện Thanh Chương, tỉnh Nghệ An. Là tướng nhà Hậu Lê trong lịch sử Việt Nam, tước Triều Nhuận hầu, về sau được truy tặng là Nhuận quận công."
+  "id": 897,
+  "entityName": "Trần Hưng Học",
+  "aliases": [],
+  "overview": "Trần Hưng Học (- 1673), người xã Thanh Xuân, huyện Thanh Chương, tỉnh Nghệ An. Là tướng nhà Hậu Lê trong lịch sử Việt Nam, tước Triều Nhuận hầu, về sau được truy tặng là Nhuận quận công."
 }

@@ -1,17 +1,21 @@
 {
-  "dateOfBirth" : "Quí Tị 1833",
-  "dateOfDeath" : "Giáp Dần 1914",
-  "hometown" : "tại Kinh thành Huế, tự Tử Minh hiệu Cúc Viên, nguyên quán làng Mĩ Khê, huyện Bình Sơn, tỉnh Quảng Ngãi",
-  "occupation" : "Danh sĩ đại thần triều Nguyễn, sinh năm 1833 tại Kinh thành Huế",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nhà Nguyễn độc lập" : 30
+  "dateOfBirth": "Quí Tị 1833",
+  "dateOfDeath": "Giáp Dần 1914",
+  "hometown": "tại Kinh thành Huế, tự Tử Minh hiệu Cúc Viên, nguyên quán làng Mĩ Khê, huyện Bình Sơn, tỉnh Quảng Ngãi",
+  "occupation": "Danh sĩ đại thần triều Nguyễn, sinh năm 1833 tại Kinh thành Huế",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11,
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 2358,
-  "entityName" : "Trương Quang Đản",
-  "aliases" : [ "Trương Đăng Đản", "Cúc Viên", "Tử Minh" ],
-  "overview" : "Trương Quang Đản (hay Trương Đăng Đản, chữ Hán: 張光憻 1833 - 1914) , tự Tử Minh (chữ Hán: 子明), hiệu Cúc Viên (chữ Hán: 菊園), là một danh thần triều Nguyễn trong lịch sử Việt Nam.\n----------------------------------------------\nÔng là con trai Phụ chánh Trương Đăng Quế, vì cha là một Đại thần, tuy chỉ đậu tú tài nhưng được tập ấm làm quan tới chức Đông các đại học sĩ, có lúc làm tới Phụ chánh Đại thần. Tương truyền và gia phả ông, thân phụ ông không muốn cho con mình thi Hội vì sợ các quan trường nể vì ông (TĐQ) mà đặc cách cho con ông đỗ. Dư luận đương thời cho rằng ông là con đẻ vua Thiệu Trị, còn Hồng Nhậm (Tự Đức) mới là con của Trương Đăng Quế từng tư thông với bà Từ Dũ - vợ vua Thiệu Trị? Do đó, Trương Đăng Quế tìm mọi cách đưa Hồng Nhậm lên ngôi và sau này giúp con ông (Đăng Đản) trở nên Phụ chánh các vua Đồng Khánh, Thành Thái để tạo nên vây cánh cho phe nhóm như dư luận đã nói. Năm 1885 ông giữ chức Tuần vũ Quảng Trị, tại đây ông cùng anh ruột là Trương Văn Đễ có công tác mật trong việc đưa vua Hàm Nghi ra lập căn cứ ở Tân Sở vì Quảng Trị là trạm liên lạc, và đầu mối đưa xa giá Tam cung trở về Huế. Ông gọi bà Từ Dũ bằng dì ruột. Năm 1894, ông làm Tổng tài sử quán biên soạn Quốc sử. Các tác phẩm: - Liệt truyện chánh biên - Đại Nam thực lục chính biên đệ tứ, đệ ngũ kỉ - Quốc sử quán thư mục Ông về hưu trí năm 65 tuổi. Đại Nam chánh biên liệt truyện (33 quyển) do ông làm Tổng tài biên soạn. Theo bài biểu dâng sách này, đề ngày 13 tháng 10 năm Thành Thái thứ nhất (5-11-1889) có các vị sau này kí tên, tức là người phụ trách. Nguyễn Trọng Hơp Bùi Ân Niên, Trương Quang Đản... cũng theo bài biểu ấy, những nhân vật có truyện trong sách này đồng thời với giai đoạn lịch sử trong Thực lục chính biên đệ nhất kỉ. Sách này tiếp theo Tiền biên liệt truyện, bắt đầu làm từ năm Tự Đức thứ 5 (1852) theo thứ tự các mục: hậu phi, hoàng tử, công chúa, chư thần, hành nghĩa liệt nữ, cuối cùng phụ các truyện tiếm thiết và ngoại quốc, gồm 8 mục cộng 33 quyển, nhan đề Chính biên liệt truyện sơ tập… Bộ Sử Quán thư mục (1 quyển) do ông và Nguyễn Thuật hợp soạn. Đầu sách có tờ tâu của các quan Tổng tài và Toản tu Quốc sử quán nói rõ, nhân việc rối loạn trước kia (1885), quyển mục lục của Sử quán bị mất, năm Đồng Khánh thứ I (1886) kiểm kê và tàng trữ. Đến năm Thành Thái thứ 8 (1896) được lệnh chỉnh lí lại các sách ở Quốc sử quán làm thành mục lục, kê khai sau đây: Tập I, phần nhiều là sách sử làm về triều Nguyễn. Từ tờ thứ 9 gọi là tập thư phần nhiều là sách không thuộc loại sử. Tập II, số sách kể lại từ năm Duy Tân thứ I (1907) gồm khoảng 50 bộ."
+  "id": 2358,
+  "entityName": "Trương Quang Đản",
+  "aliases": [
+    "Trương Đăng Đản",
+    "Cúc Viên",
+    "Tử Minh"
+  ],
+  "overview": "Trương Quang Đản (hay Trương Đăng Đản, chữ Hán: 張光憻 1833 - 1914) , tự Tử Minh (chữ Hán: 子明), hiệu Cúc Viên (chữ Hán: 菊園), là một danh thần triều Nguyễn trong lịch sử Việt Nam.\n----------------------------------------------\nÔng là con trai Phụ chánh Trương Đăng Quế, vì cha là một Đại thần, tuy chỉ đậu tú tài nhưng được tập ấm làm quan tới chức Đông các đại học sĩ, có lúc làm tới Phụ chánh Đại thần. Tương truyền và gia phả ông, thân phụ ông không muốn cho con mình thi Hội vì sợ các quan trường nể vì ông (TĐQ) mà đặc cách cho con ông đỗ. Dư luận đương thời cho rằng ông là con đẻ vua Thiệu Trị, còn Hồng Nhậm (Tự Đức) mới là con của Trương Đăng Quế từng tư thông với bà Từ Dũ - vợ vua Thiệu Trị? Do đó, Trương Đăng Quế tìm mọi cách đưa Hồng Nhậm lên ngôi và sau này giúp con ông (Đăng Đản) trở nên Phụ chánh các vua Đồng Khánh, Thành Thái để tạo nên vây cánh cho phe nhóm như dư luận đã nói. Năm 1885 ông giữ chức Tuần vũ Quảng Trị, tại đây ông cùng anh ruột là Trương Văn Đễ có công tác mật trong việc đưa vua Hàm Nghi ra lập căn cứ ở Tân Sở vì Quảng Trị là trạm liên lạc, và đầu mối đưa xa giá Tam cung trở về Huế. Ông gọi bà Từ Dũ bằng dì ruột. Năm 1894, ông làm Tổng tài sử quán biên soạn Quốc sử. Các tác phẩm: - Liệt truyện chánh biên - Đại Nam thực lục chính biên đệ tứ, đệ ngũ kỉ - Quốc sử quán thư mục Ông về hưu trí năm 65 tuổi. Đại Nam chánh biên liệt truyện (33 quyển) do ông làm Tổng tài biên soạn. Theo bài biểu dâng sách này, đề ngày 13 tháng 10 năm Thành Thái thứ nhất (5-11-1889) có các vị sau này kí tên, tức là người phụ trách. Nguyễn Trọng Hơp Bùi Ân Niên, Trương Quang Đản... cũng theo bài biểu ấy, những nhân vật có truyện trong sách này đồng thời với giai đoạn lịch sử trong Thực lục chính biên đệ nhất kỉ. Sách này tiếp theo Tiền biên liệt truyện, bắt đầu làm từ năm Tự Đức thứ 5 (1852) theo thứ tự các mục: hậu phi, hoàng tử, công chúa, chư thần, hành nghĩa liệt nữ, cuối cùng phụ các truyện tiếm thiết và ngoại quốc, gồm 8 mục cộng 33 quyển, nhan đề Chính biên liệt truyện sơ tập… Bộ Sử Quán thư mục (1 quyển) do ông và Nguyễn Thuật hợp soạn. Đầu sách có tờ tâu của các quan Tổng tài và Toản tu Quốc sử quán nói rõ, nhân việc rối loạn trước kia (1885), quyển mục lục của Sử quán bị mất, năm Đồng Khánh thứ I (1886) kiểm kê và tàng trữ. Đến năm Thành Thái thứ 8 (1896) được lệnh chỉnh lí lại các sách ở Quốc sử quán làm thành mục lục, kê khai sau đây: Tập I, phần nhiều là sách sử làm về triều Nguyễn. Từ tờ thứ 9 gọi là tập thư phần nhiều là sách không thuộc loại sử. Tập II, số sách kể lại từ năm Duy Tân thứ I (1907) gồm khoảng 50 bộ."
 }

@@ -1,17 +1,17 @@
 {
-  "dateOfBirth" : "Canh Tuất 1910",
-  "dateOfDeath" : "Đinh Mão 1987",
-  "hometown" : "tại xã Khánh Lộc, tỉnh Trà Vinh",
-  "occupation" : "Giáo sư, Luật sư",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+  "dateOfBirth": "Canh Tuất 1910",
+  "dateOfDeath": "Đinh Mão 1987",
+  "hometown": "tại xã Khánh Lộc, tỉnh Trà Vinh",
+  "occupation": "Giáo sư, Luật sư",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11,
+    "Nước Việt Nam mới": 29
   },
-  "id" : 2618,
-  "entityName" : "Phạm Văn Bạch",
-  "aliases" : [ ],
-  "overview" : "Thuở trẻ ông du học Pháp, đỗ Cử nhân văn chương, Tiến sĩ Luật tại trường Đại học Lyon. Năm 1936 ông về nước làm giáo sư, dạy ở Cần Thơ. Tại đây ông tham gia hoạt động yêu nước. Từ lúc còn học ở Pháp ông cũng đã từng hoạt động trong đoàn Thanh niên Cộng sản Pháp, nhiều lần tranh luận trên diễn đàn ủng hộ chủ nghĩa Mác, ủng hộ Cách mạng tháng Mười Nga. Sau Cách mạng tháng tám năm 1945, ông từng giữ các chức vụ: Chủ tịch ủy ban kháng chiến Hành chánh Nam Bộ, Chánh án tòa án Nhân dân tối cao, Phó chủ tịch Hội Luật gia Dân chủ Quốc tế, ủy viên chủ tịch đoàn ủy ban trung ương Mặt trận Tổ quốc Việt Nam. Ngày 8-3-1986 ông mất tại Thành Phố Hồ Chí Minh, thọ 77 tuổi, được tặng thưởng nhiều huân chương."
+  "id": 2618,
+  "entityName": "Phạm Văn Bạch",
+  "aliases": [],
+  "overview": "Thuở trẻ ông du học Pháp, đỗ Cử nhân văn chương, Tiến sĩ Luật tại trường Đại học Lyon. Năm 1936 ông về nước làm giáo sư, dạy ở Cần Thơ. Tại đây ông tham gia hoạt động yêu nước. Từ lúc còn học ở Pháp ông cũng đã từng hoạt động trong đoàn Thanh niên Cộng sản Pháp, nhiều lần tranh luận trên diễn đàn ủng hộ chủ nghĩa Mác, ủng hộ Cách mạng tháng Mười Nga. Sau Cách mạng tháng tám năm 1945, ông từng giữ các chức vụ: Chủ tịch ủy ban kháng chiến Hành chánh Nam Bộ, Chánh án tòa án Nhân dân tối cao, Phó chủ tịch Hội Luật gia Dân chủ Quốc tế, ủy viên chủ tịch đoàn ủy ban trung ương Mặt trận Tổ quốc Việt Nam. Ngày 8-3-1986 ông mất tại Thành Phố Hồ Chí Minh, thọ 77 tuổi, được tặng thưởng nhiều huân chương."
 }

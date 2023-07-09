@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Võ tướng đời Lý Anh tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Lý" : 14
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Võ tướng đời Lý Anh tông",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Lý": 14
   },
-  "id" : 785,
-  "entityName" : "Hứa Viên",
-  "aliases" : [ ],
-  "overview" : "Năm Canh thân 1140, ông cùng Lưu Võ Xứng đem quân đi đánh dẹp cuộc nổi loạn Thân Lợi tự xưng là Nam Bình vương. Thân Lợi lại ngoa truyền mình là con vua Lý Thần tông, nên xưng vương để lấy ngôi vua lại, tụ đảng chiếm cứ hai châu Thượng Nguyên và Hạ Nông, thanh thế rất mạnh. Ông và Lưu Võ Xứng khó nhọc mới dẹp yên được phần nào, sau thêm viện binh của Thái úy Đỗ Anh Võ và Tô Hiến Thành mới bình định được vùng ấy. Trong nước xảy ra nhiều cuộc biến loạn phần lớn bị ông đàn áp."
+  "id": 785,
+  "entityName": "Hứa Viên",
+  "aliases": [],
+  "overview": "Năm Canh thân 1140, ông cùng Lưu Võ Xứng đem quân đi đánh dẹp cuộc nổi loạn Thân Lợi tự xưng là Nam Bình vương. Thân Lợi lại ngoa truyền mình là con vua Lý Thần tông, nên xưng vương để lấy ngôi vua lại, tụ đảng chiếm cứ hai châu Thượng Nguyên và Hạ Nông, thanh thế rất mạnh. Ông và Lưu Võ Xứng khó nhọc mới dẹp yên được phần nào, sau thêm viện binh của Thái úy Đỗ Anh Võ và Tô Hiến Thành mới bình định được vùng ấy. Trong nước xảy ra nhiều cuộc biến loạn phần lớn bị ông đàn áp."
 }

@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 2393,
-  "entityName" : "Hoàng Cái",
-  "aliases" : [ "Công Phúc" ],
-  "overview" : "Hoàng Cái (chữ Hán: 黃蓋), tên tự là Công Phúc (公覆), là công thần khai quốc nước Đông Ngô thời Tam Quốc trong lịch sử Trung Quốc."
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 2393,
+  "entityName": "Hoàng Cái",
+  "aliases": [
+    "Công Phúc"
+  ],
+  "overview": "Hoàng Cái (chữ Hán: 黃蓋), tên tự là Công Phúc (公覆), là công thần khai quốc nước Đông Ngô thời Tam Quốc trong lịch sử Trung Quốc."
 }

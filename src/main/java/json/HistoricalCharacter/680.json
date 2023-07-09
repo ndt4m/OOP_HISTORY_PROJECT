@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "12 tháng 11, 1866 Hương Sơn, Quảng Đông, Đại Thanh",
-  "dateOfDeath" : "12 tháng 3, 1925 (58 tuổi) Bắc Kinh, Trung Hoa Dân Quốc",
-  "hometown" : "Không rõ",
-  "occupation" : "Thầy thuốc, Nhà chính trị, Nhà cách mạng, Nhà văn",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 680,
-  "entityName" : "Tôn Trung Sơn",
-  "aliases" : [ ],
-  "overview" : ""
+  "dateOfBirth": "12 tháng 11, 1866 Hương Sơn, Quảng Đông, Đại Thanh",
+  "dateOfDeath": "12 tháng 3, 1925 (58 tuổi) Bắc Kinh, Trung Hoa Dân Quốc",
+  "hometown": "Không rõ",
+  "occupation": "Thầy thuốc, Nhà chính trị, Nhà cách mạng, Nhà văn",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 680,
+  "entityName": "Tôn Trung Sơn",
+  "aliases": [],
+  "overview": ""
 }

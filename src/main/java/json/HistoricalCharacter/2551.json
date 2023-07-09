@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 2551,
-  "entityName" : "Võ Giàng",
-  "aliases" : [ ],
-  "overview" : "Võ Giàng là một huyện cũ của Việt Nam, nay là một phần huyện Quế Võ và một phần thành phố Bắc Ninh, tỉnh Bắc Ninh."
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 2551,
+  "entityName": "Võ Giàng",
+  "aliases": [],
+  "overview": "Võ Giàng là một huyện cũ của Việt Nam, nay là một phần huyện Quế Võ và một phần thành phố Bắc Ninh, tỉnh Bắc Ninh."
 }

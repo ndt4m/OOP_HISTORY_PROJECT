@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê làng Đường An, tỉnh Hải Dương",
-  "occupation" : "Nhân sĩ đời Gia Long",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "quê làng Đường An, tỉnh Hải Dương",
+  "occupation": "Nhân sĩ đời Gia Long",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 202,
-  "entityName" : "Phạm Hội",
-  "aliases" : [ "Dưỡng Am" ],
-  "overview" : "Ông đỗ cử nhân, có tiếng thơ văn, có khí tiết được sĩ phu trọng vọng. Ông vốn là học trò danh sĩ Phạm Quý Thích. Làm giáo thụ phủ Ánh Sơn ít lâu, ông xin nghỉ, về quê sống cuộc đời ẩn dật. Ông mồ côi cha sớm, thờ mẹ rất hiếu, nhà thanh bạch, ông ngồi dạy học, gần xa yêu chuộng. Ông có câu đối hán ở bàn viết: \"Thị thành khỉ bất hoài nông nghiệp, Văn tự hà năng hệ sĩ phong\". Em trai ông hiệu Khiêm Trai cũng có tính hiền hiếu. Phạm Quỳnh - chủ bút tạp chí Nam Phong - là huyền tôn của ông Phạm Xuân Khôi có thơ vịnh về lòng hiếu của ông: Này ông Phạm Hội Hải Dương ta, Theo mẹ cùng lên học tỉnh Hà. Hai chị nuôi em nên quá lứa, Môt mình kính mẹ cũng như cha. Nước Hồ Tây sạch thường đi lấy, Tình nẹ già nay chẳng ngại xa Me khuất, hiển vinh về dưỡng chị Khen thay! hiếu hạnh vẹn hòa ba."
+  "id": 202,
+  "entityName": "Phạm Hội",
+  "aliases": [
+    "Dưỡng Am"
+  ],
+  "overview": "Ông đỗ cử nhân, có tiếng thơ văn, có khí tiết được sĩ phu trọng vọng. Ông vốn là học trò danh sĩ Phạm Quý Thích. Làm giáo thụ phủ Ánh Sơn ít lâu, ông xin nghỉ, về quê sống cuộc đời ẩn dật. Ông mồ côi cha sớm, thờ mẹ rất hiếu, nhà thanh bạch, ông ngồi dạy học, gần xa yêu chuộng. Ông có câu đối hán ở bàn viết: \"Thị thành khỉ bất hoài nông nghiệp, Văn tự hà năng hệ sĩ phong\". Em trai ông hiệu Khiêm Trai cũng có tính hiền hiếu. Phạm Quỳnh - chủ bút tạp chí Nam Phong - là huyền tôn của ông Phạm Xuân Khôi có thơ vịnh về lòng hiếu của ông: Này ông Phạm Hội Hải Dương ta, Theo mẹ cùng lên học tỉnh Hà. Hai chị nuôi em nên quá lứa, Môt mình kính mẹ cũng như cha. Nước Hồ Tây sạch thường đi lấy, Tình nẹ già nay chẳng ngại xa Me khuất, hiển vinh về dưỡng chị Khen thay! hiếu hạnh vẹn hòa ba."
 }

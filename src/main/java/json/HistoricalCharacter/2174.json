@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Tức Đề Cương, chí sĩ cận đại",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Tức Đề Cương, chí sĩ cận đại",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 2174,
-  "entityName" : "Hoàng Đình Cương",
-  "aliases" : [ "Đề Cương" ],
-  "overview" : "Tháng 3 năm Mậu tí (1888), giặc Pháp bất ngờ tấn công vào doanh trại nghĩa quân đóng tại Nghĩa Lộ. Nguyễn Quang Bích cùng nghĩa quân rút về cố thủ tại châu Phù Yên, huyện Phù Ninh, tỉnh Phú Thọ. Bấy giờ Hoàng Đình Cương vẫn kiên trì chỉ huy nghĩa quân tập kích giặc Pháp tại vùng Dụ Phong (chưa rõ vùng Dụ Phong thuộc châu Bảo Thắng hay châu Văn Bàn thuộc tỉnh Yên Bái), thắng lớn, giết được 13 lính Pháp và làm bị thương hàng trăm quân tay sai thu nhiều quân trang, quân dụng. Nghe tin đại thắng ở Dụ Phong, Nguyễn Quang Bích chẳng tiếc lời khen ngợi Hoàng Đình Cương, cho rằng ông xứng đáng nhận 10 giải thưởng vua trao cho ai chém được đầu giặc (thập giải phiên đầu). Trong bài thơ \"Văn Dụ Phong tiệp báo\" (Nghe tin thắng trận ở Dụ Phong), Nguyễn Quang Bích tặng ông bài thơ: \"Thoái xã sơn đồn tọa tịch huy, Tự lân điều độ thốt tiên ki Gia Nguyên tiếp hỉ niên thời báo, Thập giải phiên đầu mã tự phi\". Bản dịch: Lui đóng sơn đồn bóng xế tây, Giật mình điều khiển thiếu mưu hay. Gia nguyên thắng trận tin đồn đấn. Mười giải phiên đầu, phóng ngựa bay."
+  "id": 2174,
+  "entityName": "Hoàng Đình Cương",
+  "aliases": [
+    "Đề Cương"
+  ],
+  "overview": "Tháng 3 năm Mậu tí (1888), giặc Pháp bất ngờ tấn công vào doanh trại nghĩa quân đóng tại Nghĩa Lộ. Nguyễn Quang Bích cùng nghĩa quân rút về cố thủ tại châu Phù Yên, huyện Phù Ninh, tỉnh Phú Thọ. Bấy giờ Hoàng Đình Cương vẫn kiên trì chỉ huy nghĩa quân tập kích giặc Pháp tại vùng Dụ Phong (chưa rõ vùng Dụ Phong thuộc châu Bảo Thắng hay châu Văn Bàn thuộc tỉnh Yên Bái), thắng lớn, giết được 13 lính Pháp và làm bị thương hàng trăm quân tay sai thu nhiều quân trang, quân dụng. Nghe tin đại thắng ở Dụ Phong, Nguyễn Quang Bích chẳng tiếc lời khen ngợi Hoàng Đình Cương, cho rằng ông xứng đáng nhận 10 giải thưởng vua trao cho ai chém được đầu giặc (thập giải phiên đầu). Trong bài thơ \"Văn Dụ Phong tiệp báo\" (Nghe tin thắng trận ở Dụ Phong), Nguyễn Quang Bích tặng ông bài thơ: \"Thoái xã sơn đồn tọa tịch huy, Tự lân điều độ thốt tiên ki Gia Nguyên tiếp hỉ niên thời báo, Thập giải phiên đầu mã tự phi\". Bản dịch: Lui đóng sơn đồn bóng xế tây, Giật mình điều khiển thiếu mưu hay. Gia nguyên thắng trận tin đồn đấn. Mười giải phiên đầu, phóng ngựa bay."
 }

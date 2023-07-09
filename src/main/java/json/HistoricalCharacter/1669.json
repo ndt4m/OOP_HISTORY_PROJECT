@@ -1,18 +1,21 @@
 {
-  "dateOfBirth" : "Mậu Thìn 1808",
-  "dateOfDeath" : "Ất Dậu 1855",
-  "hometown" : "Thừa Thiên-Huế",
-  "occupation" : "Con thứ ba vua Minh Mạng, anh Nguyễn Phúc Miên Trinh",
-  "workTenure" : "Không rõ",
-  "fatherName" : {
-    "vua Minh Mạng" : null
+  "dateOfBirth": "Mậu Thìn 1808",
+  "dateOfDeath": "Ất Dậu 1855",
+  "hometown": "Thừa Thiên-Huế",
+  "occupation": "Con thứ ba vua Minh Mạng, anh Nguyễn Phúc Miên Trinh",
+  "workTenure": "Không rõ",
+  "fatherName": {
+    "vua Minh Mạng": null
   },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+  "motherName": {},
+  "eraName": {
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 1669,
-  "entityName" : "Nguyễn Phúc Miên Định",
-  "aliases" : [ "Minh Tĩnh", "Đông Trì" ],
-  "overview" : "Năm 1836 lần đầu tiên lập Tôn nhân phủ (coi việc trong họ vua) ông được sung chức Hữu tôn chánh, ông là một trong các hoàng tử được vua Minh Mạng thương yêu nhất. Năm Ất dậu 1885 sau khi giặc Pháp chiếm kinh thành Huế, Tôn Thất Thuyết chủ mưu đánh úp quân giặc tại kinh thành, công việc thất bại, vua Hàm Nghi bỏ kinh thành ra lập chiến khu ở Tân Sở (Quảng Trị). Ngôi vua bị bỏ trống, quân Pháp trực tiếp điều hành công việc triều đình, chúng đưa ông làm Giám Quốc, nhiếp lí việc nước, nhưng thực chất quyền hành ở trong tay thực dân. Champeaux giữ chức Thượng thư bộ Hình, Nguyễn Hữu Độ chủ tọa Viện Cơ mật. Ông học rộng, thi văn xuất sắc, khi Tự Đức còn ở ngôi thường vời ông đến hỏi việc nước mỗi khi có việc quan trọng. Năm Ất dậu 1885 sau mấy tháng giữ chức Giám Quốc ông mất, thọ 77 tuổi. Ông có 144 ngưòi con gồm 78 con trai, 66 con gái. Ông là tác giả Minh Mạng cung từ và Minh tĩnh ái phương thi tập."
+  "id": 1669,
+  "entityName": "Nguyễn Phúc Miên Định",
+  "aliases": [
+    "Minh Tĩnh",
+    "Đông Trì"
+  ],
+  "overview": "Năm 1836 lần đầu tiên lập Tôn nhân phủ (coi việc trong họ vua) ông được sung chức Hữu tôn chánh, ông là một trong các hoàng tử được vua Minh Mạng thương yêu nhất. Năm Ất dậu 1885 sau khi giặc Pháp chiếm kinh thành Huế, Tôn Thất Thuyết chủ mưu đánh úp quân giặc tại kinh thành, công việc thất bại, vua Hàm Nghi bỏ kinh thành ra lập chiến khu ở Tân Sở (Quảng Trị). Ngôi vua bị bỏ trống, quân Pháp trực tiếp điều hành công việc triều đình, chúng đưa ông làm Giám Quốc, nhiếp lí việc nước, nhưng thực chất quyền hành ở trong tay thực dân. Champeaux giữ chức Thượng thư bộ Hình, Nguyễn Hữu Độ chủ tọa Viện Cơ mật. Ông học rộng, thi văn xuất sắc, khi Tự Đức còn ở ngôi thường vời ông đến hỏi việc nước mỗi khi có việc quan trọng. Năm Ất dậu 1885 sau mấy tháng giữ chức Giám Quốc ông mất, thọ 77 tuổi. Ông có 144 ngưòi con gồm 78 con trai, 66 con gái. Ông là tác giả Minh Mạng cung từ và Minh tĩnh ái phương thi tập."
 }

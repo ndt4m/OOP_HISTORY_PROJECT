@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "1509",
-  "dateOfDeath" : "1551",
-  "hometown" : "người làng Vinh Niệm, tổng An Dương, huyện An Dương, phủ Kinh Môn, trấn Hải Dương – nay là phường Vĩnh Niệm, quận Lê Chân, thành phố Hải Phòng, Việt Nam.",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "nhà Mạc" : null
+  "dateOfBirth": "1509",
+  "dateOfDeath": "1551",
+  "hometown": "người làng Vinh Niệm, tổng An Dương, huyện An Dương, phủ Kinh Môn, trấn Hải Dương – nay là phường Vĩnh Niệm, quận Lê Chân, thành phố Hải Phòng, Việt Nam.",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "nhà Mạc": null
   },
-  "id" : 1127,
-  "entityName" : "Phạm Tử Nghi",
-  "aliases" : [ ],
-  "overview" : "Phạm Tử Nghi (范子儀, 1509-1551) là tướng nhà Mạc trong lịch sử Việt Nam, người làng Vinh Niệm, tổng An Dương, huyện An Dương, phủ Kinh Môn, trấn Hải Dương – nay là phường Vĩnh Niệm, quận Lê Chân, thành phố Hải Phòng, Việt Nam."
+  "id": 1127,
+  "entityName": "Phạm Tử Nghi",
+  "aliases": [],
+  "overview": "Phạm Tử Nghi (范子儀, 1509-1551) là tướng nhà Mạc trong lịch sử Việt Nam, người làng Vinh Niệm, tổng An Dương, huyện An Dương, phủ Kinh Môn, trấn Hải Dương – nay là phường Vĩnh Niệm, quận Lê Chân, thành phố Hải Phòng, Việt Nam."
 }

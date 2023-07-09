@@ -1,21 +1,25 @@
 {
-  "dateOfBirth" : "1421 Thanh Hóa\n----------------------------------------------\nTân Sửu 1421",
-  "dateOfDeath" : "26 tháng 2, 1496 (74–75 tuổi) Thừa Hoa điện, Đông Kinh\n----------------------------------------------\nBính Thìn 1496",
-  "hometown" : "Quê xa Động Bàng, huyện An Định (nay thuộc huyện Triệu Yên, tỉnh Thanh Hóa)",
-  "occupation" : "Hoàng thái hậu Đại Việt\n----------------------------------------------\nThái phi, vợ Lê Thái tông, mẹ Thánh tông, cháu nội của Thái phó Ngô Kinh, con Thái bảo Ngô Từ",
-  "workTenure" : "1460 - 1496\n----------------------------------------------\nKhông rõ",
-  "fatherName" : {
-    "Ngô Từ" : 3151
+  "dateOfBirth": "1421 Thanh Hóa\n----------------------------------------------\nTân Sửu 1421",
+  "dateOfDeath": "26 tháng 2, 1496 (74–75 tuổi) Thừa Hoa điện, Đông Kinh\n----------------------------------------------\nBính Thìn 1496",
+  "hometown": "Quê xa Động Bàng, huyện An Định (nay thuộc huyện Triệu Yên, tỉnh Thanh Hóa)",
+  "occupation": "Hoàng thái hậu Đại Việt\n----------------------------------------------\nThái phi, vợ Lê Thái tông, mẹ Thánh tông, cháu nội của Thái phó Ngô Kinh, con Thái bảo Ngô Từ",
+  "workTenure": "1460 - 1496\n----------------------------------------------\nKhông rõ",
+  "fatherName": {
+    "Ngô Từ": 565
   },
-  "motherName" : {
-    "Đinh Thị Ngọc Kế" : null
+  "motherName": {
+    "Đinh Thị Ngọc Kế": null
   },
-  "eraName" : {
-    "Nhà Lê sơ" : null,
-    "Triều Lê Sơ" : 7
+  "eraName": {
+    "Nhà Lê sơ": null,
+    "Triều Lê Sơ": 7
   },
-  "id" : 2869,
-  "entityName" : "Ngô Thị Ngọc Dao",
-  "aliases" : [ "Ngô Dao (吳瑤)", "Quang Thục Trinh Huệ Khiêm Tiết Hòa Xung Nhân Thánh hoàng thái hậu (光淑貞惠謙節和沖仁聖皇太后)", "Tiệp dư Sung viên Hoàng thái hậu" ],
-  "overview" : "Ngô Thị Ngọc Dao (chữ Hán: 吳氏玉瑤; 1421 - 26 tháng 2, 1496), còn gọi là Quang Thục thái hậu (光淑太后) hay Thái Tông Ngô hoàng hậu (太宗吳皇后) , là một phi tần của Lê Thái Tông, mẹ đẻ của Lê Thánh Tông của triều đại nhà Hậu Lê.\n----------------------------------------------\nNhân người chị của bà tên Xuân là cung tần của Lê Thái tông, bà theo chị vào nội đình, nên được Thái tông tuyền làm cung tần. Năm Canh thân 1440, Thái tông sách phong bà làm Tiệp dư ở cung Khánh Phương. Khi bà có thai, nằm mộng thấy thượng đế cho kim đổng giáng sinh, vì thế bị hoàng phi Nguyễn Thị Anh ghen ghét vu hãm buộc tội. May nhờ Nguyễn Trãi và Nguyễn Thị Lộ binh vực che chở, bà mới khỏi phải phát lưu và chỉ bị giam ở chùa Hoa Văn (trong khu vực kinh thành). Sau, bà sinh con trai đặt tên là Lê Tư Thành, rồi vì sợ hoàng phi Nguyễn Thị Anh tiếp tục ám hại, bà ôm con trốn biệt ra miền An Bang (nay là Quảng Yên). Đến khi Nguyễn phi có con là Bang Cơ được lên ngôi tức Nhân tông, Nguyễn phi tức Tuyên từ thái hậu mới ăn năn cho người tìm mẹ con bà về Kinh, phục vị cũ cho bà là Tiệp dư và phong cho Tư Thành làm Bình Nguyên vương, sau đổi là Gia vương. Năm Kỉ mão 1459, Lạng Sơn vương Lê Nghi Dân mưu giết Nhân tông, tự lập làm vua chẳng bao lâu thì bị lật đổ, con bà là Gia vương Tư Thành được lên ngôi tức Thánh tông, bà nghiễm nhiên là Quang Thục hoàng thái hậu. Thánh tông sai dựng Thuần Mậu Đường để thờ tổ tiên bà."
+  "id": 2869,
+  "entityName": "Ngô Thị Ngọc Dao",
+  "aliases": [
+    "Ngô Dao (吳瑤)",
+    "Quang Thục Trinh Huệ Khiêm Tiết Hòa Xung Nhân Thánh hoàng thái hậu (光淑貞惠謙節和沖仁聖皇太后)",
+    "Tiệp dư Sung viên Hoàng thái hậu"
+  ],
+  "overview": "Ngô Thị Ngọc Dao (chữ Hán: 吳氏玉瑤; 1421 - 26 tháng 2, 1496), còn gọi là Quang Thục thái hậu (光淑太后) hay Thái Tông Ngô hoàng hậu (太宗吳皇后) , là một phi tần của Lê Thái Tông, mẹ đẻ của Lê Thánh Tông của triều đại nhà Hậu Lê.\n----------------------------------------------\nNhân người chị của bà tên Xuân là cung tần của Lê Thái tông, bà theo chị vào nội đình, nên được Thái tông tuyền làm cung tần. Năm Canh thân 1440, Thái tông sách phong bà làm Tiệp dư ở cung Khánh Phương. Khi bà có thai, nằm mộng thấy thượng đế cho kim đổng giáng sinh, vì thế bị hoàng phi Nguyễn Thị Anh ghen ghét vu hãm buộc tội. May nhờ Nguyễn Trãi và Nguyễn Thị Lộ binh vực che chở, bà mới khỏi phải phát lưu và chỉ bị giam ở chùa Hoa Văn (trong khu vực kinh thành). Sau, bà sinh con trai đặt tên là Lê Tư Thành, rồi vì sợ hoàng phi Nguyễn Thị Anh tiếp tục ám hại, bà ôm con trốn biệt ra miền An Bang (nay là Quảng Yên). Đến khi Nguyễn phi có con là Bang Cơ được lên ngôi tức Nhân tông, Nguyễn phi tức Tuyên từ thái hậu mới ăn năn cho người tìm mẹ con bà về Kinh, phục vị cũ cho bà là Tiệp dư và phong cho Tư Thành làm Bình Nguyên vương, sau đổi là Gia vương. Năm Kỉ mão 1459, Lạng Sơn vương Lê Nghi Dân mưu giết Nhân tông, tự lập làm vua chẳng bao lâu thì bị lật đổ, con bà là Gia vương Tư Thành được lên ngôi tức Thánh tông, bà nghiễm nhiên là Quang Thục hoàng thái hậu. Thánh tông sai dựng Thuần Mậu Đường để thờ tổ tiên bà."
 }

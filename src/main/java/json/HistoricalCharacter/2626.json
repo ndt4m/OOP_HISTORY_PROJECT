@@ -1,16 +1,19 @@
 {
-  "dateOfBirth" : "1730?",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "nhà Tây Sơn" : null
+  "dateOfBirth": "1730?",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "nhà Tây Sơn": null
   },
-  "id" : 2626,
-  "entityName" : "Phan Văn Lân",
-  "aliases" : [ "Phan Đông Hy", "Tốn Trai" ],
-  "overview" : "Phan Văn Lân (1730?-?), theo Gia phả họ Phan, còn có tên là Phan Đông Hy, biệt hiệu Tốn Trai, là danh tướng nhà Tây Sơn trong lịch sử Việt Nam."
+  "id": 2626,
+  "entityName": "Phan Văn Lân",
+  "aliases": [
+    "Phan Đông Hy",
+    "Tốn Trai"
+  ],
+  "overview": "Phan Văn Lân (1730?-?), theo Gia phả họ Phan, còn có tên là Phan Đông Hy, biệt hiệu Tốn Trai, là danh tướng nhà Tây Sơn trong lịch sử Việt Nam."
 }

@@ -1,22 +1,28 @@
 {
-  "dateOfBirth" : "1699\n----------------------------------------------\nKỉ Mão 1699\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "1735 Việt Nam\n----------------------------------------------\nẤt Mão 1735\n----------------------------------------------\nKhông rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua nhà Hậu Lê\n----------------------------------------------\nVua",
-  "workTenure" : "1732 - 1735\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1619–1643",
-  "fatherName" : {
-    "Lê Kính Tông" : 2612,
-    "Lê Dụ tông" : null,
-    "Lê Dụ Tông" : 2219
+  "dateOfBirth": "1699\n----------------------------------------------\nKỉ Mão 1699\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath": "1735 Việt Nam\n----------------------------------------------\nẤt Mão 1735\n----------------------------------------------\nKhông rõ",
+  "hometown": "Không rõ",
+  "occupation": "Hoàng đế Đại Việt\n----------------------------------------------\nVua nhà Hậu Lê\n----------------------------------------------\nVua",
+  "workTenure": "1732 - 1735\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1619–1643",
+  "fatherName": {
+    "Lê Kính Tông": 2956,
+    "Lê Dụ tông": null,
+    "Lê Dụ Tông": 1099
   },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34,
-    "Nhà Lê trung hưng" : null,
-    "Nam triều – Nhà Hậu Lê – giai đoạn Lê Trung hưng" : 28
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34,
+    "Nhà Lê trung hưng": null,
+    "Nam triều – Nhà Hậu Lê – giai đoạn Lê Trung hưng": 28
   },
-  "id" : 2439,
-  "entityName" : "Lê Thuần Tông",
-  "aliases" : [ "Long Đức (龍德)", "Lê Duy Tường", "Lê Thần Tông", "Thuần Tông (純宗)", "Giản Hoàng đế" ],
-  "overview" : "Lê Thuần Tông (chữ Hán: 黎純宗, 1699 – 1735) tên thật là Lê Duy Tường (黎維祥, 黎維祜) là vị hoàng đế thứ 13 thời Lê trung hưng trong lịch sử Việt Nam.\n----------------------------------------------\nTrước ông đã được lập làm Thái tử, nhưng bị chúaTrịnh (An Đô vương Trịnh Cương) bỏ, lập Duy Phương. Chẳng bao lâu Uy Nam vương Trịnh Giang vu cho Lê đế Duy Phương tư thông với vợ Trịnh Cương, bỏ Duy Phương đi. Do đó ông mới được đưa lên ngôi và Uy Nam vương Trịnh Giang phụ chính. Ông lên ngôi vào tháng 8 Nhâm tí 1732, đến tháng 4 Ất mão 1735 thì mất, hưởng dương 36 tuổi, táng tại Bình Ngô lăng, làng Bình Ngô, huyện Thụy Nguyên, tỉnh Thanh Hóa. Ở ngôi 4 năm, hiệu nãm là Long Đức. Tháng 5 năm ấy Duy Phương đã bị giáng làm Hôn Đức Công bị Trịnh Tùng giết. Em ông là Duy Thìn lên nối ngôi tức Ý tông.\n----------------------------------------------\nLê Thần Tông (chữ Hán: 黎神宗 1607 – 2 tháng 11 năm 1662) tên húy là Lê Duy Kỳ (黎維祺), là vị hoàng đế thứ sáu của nhà Lê Trung hưng và thứ 17 của nhà Hậu Lê trong lịch sử Việt Nam. Ông cũng là vị Vua Việt Nam duy nhất hai lần lên ngôi, có đến 4 người con đều làm vua và là vị vua Việt Nam đầu tiên lấy vợ phương Tây cũng như là vua có nhiều vợ là người các dân tộc khác."
+  "id": 2439,
+  "entityName": "Lê Thuần Tông",
+  "aliases": [
+    "Long Đức (龍德)",
+    "Lê Duy Tường",
+    "Lê Thần Tông",
+    "Thuần Tông (純宗)",
+    "Giản Hoàng đế"
+  ],
+  "overview": "Lê Thuần Tông (chữ Hán: 黎純宗, 1699 – 1735) tên thật là Lê Duy Tường (黎維祥, 黎維祜) là vị hoàng đế thứ 13 thời Lê trung hưng trong lịch sử Việt Nam.\n----------------------------------------------\nTrước ông đã được lập làm Thái tử, nhưng bị chúaTrịnh (An Đô vương Trịnh Cương) bỏ, lập Duy Phương. Chẳng bao lâu Uy Nam vương Trịnh Giang vu cho Lê đế Duy Phương tư thông với vợ Trịnh Cương, bỏ Duy Phương đi. Do đó ông mới được đưa lên ngôi và Uy Nam vương Trịnh Giang phụ chính. Ông lên ngôi vào tháng 8 Nhâm tí 1732, đến tháng 4 Ất mão 1735 thì mất, hưởng dương 36 tuổi, táng tại Bình Ngô lăng, làng Bình Ngô, huyện Thụy Nguyên, tỉnh Thanh Hóa. Ở ngôi 4 năm, hiệu nãm là Long Đức. Tháng 5 năm ấy Duy Phương đã bị giáng làm Hôn Đức Công bị Trịnh Tùng giết. Em ông là Duy Thìn lên nối ngôi tức Ý tông.\n----------------------------------------------\nLê Thần Tông (chữ Hán: 黎神宗 1607 – 2 tháng 11 năm 1662) tên húy là Lê Duy Kỳ (黎維祺), là vị hoàng đế thứ sáu của nhà Lê Trung hưng và thứ 17 của nhà Hậu Lê trong lịch sử Việt Nam. Ông cũng là vị Vua Việt Nam duy nhất hai lần lên ngôi, có đến 4 người con đều làm vua và là vị vua Việt Nam đầu tiên lấy vợ phương Tây cũng như là vua có nhiều vợ là người các dân tộc khác."
 }

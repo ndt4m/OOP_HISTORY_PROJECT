@@ -1,16 +1,19 @@
 {
-  "dateOfBirth" : "Nhâm Thìn 1052",
-  "dateOfDeath" : "Bính Tí 1096",
-  "hometown" : "Không rõ",
-  "occupation" : "Vốn là họ Lý, sau phải đổi ra họ Nguyễn",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Lý" : 14
+  "dateOfBirth": "Nhâm Thìn 1052",
+  "dateOfDeath": "Bính Tí 1096",
+  "hometown": "Không rõ",
+  "occupation": "Vốn là họ Lý, sau phải đổi ra họ Nguyễn",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Lý": 14
   },
-  "id" : 956,
-  "entityName" : "Mãn Giác",
-  "aliases" : [ "Lý Trường", "Nguyễn Trường" ],
-  "overview" : "Thiền sư đời Lý Nhân tông, pháp danh Mãn Giác, quê ở thôn Lũng Triều, làng An Cách. Ông là con viên Trung thư ngoại lang Lý Hoài Tố (người đi sứ nhà Tống năm 1073, sách chép họ Nguyễn, vì kiêng húy đời Trần). Ông được Lý Thái tông và sư Viên Chiếu (Mai Trực) nuôi làm con và đặt tên là Hoài Tín (bia chùa Linh Xứng ở Ngưỡng Sơn ghi là Sùng Tín). Lúc mới 20 tuổi, ông từng được chọn vào cung dạy Hoàng tử Càn Đức (sau này là Lý Nhân tông). Ít lâu, ông đi tu, về sau được sư Quảng Trí truyền tâm ấn, ông nghiễm nhiên nối truyền thế hệ thứ 8 dòng thiền Quan Bích. Lý Nhân tông và Hoàng hậu rất trọng đãi ông, cất ngôi chùa ở cạnh cung Cảnh Hưng đặt tên là Giáo Nguyên, để ông trụ trì, phong ông làm Nhập nội đạo tràng và thường tôn xưng ông là Trưởng lão. Lúc rỗi việc, ông vẫn thường cùng Lý Thường Kiệt du ngoạn các nơi thắng cảnh, rồi chọn đất dựng chùa theo ý bà Cảm Linh nhân Hoàng thái hậu. Ngày 30-10 năm Bính tí (17-12-1096) ông mất, hưởng dương 44 tuổi. Pháp danh Mãn Giác của ông chính do Lý Nhân tông đặt cho sau khi ông qua đời. Nhà vua cũng truyền xây tháp thờ ở chùa Sùng Nham, làng An Cách. Ngày nay chỉ còn truyền tụng một bài kệ của ông: \"Xuân khứ bách hoa lạc Xuân đáo bách hoa khai, Sự trục nhãn tiền quá. Lão tùng đầu thượng lai. Mạc vị xuân tàn hoa lạc tận, Định tiền bạc dạ nhất chi mai\". Bản dịch: Xuân ruổi trăm hoa rụng. Xuân tới trăm hoa cười. Trước mắt, việc đi mãi, Trên đầu, già đến rồi! Đừng tưởng xuân tàn hoa rụng hết, Đêm qua sân trước một cành mai."
+  "id": 956,
+  "entityName": "Mãn Giác",
+  "aliases": [
+    "Lý Trường",
+    "Nguyễn Trường"
+  ],
+  "overview": "Thiền sư đời Lý Nhân tông, pháp danh Mãn Giác, quê ở thôn Lũng Triều, làng An Cách. Ông là con viên Trung thư ngoại lang Lý Hoài Tố (người đi sứ nhà Tống năm 1073, sách chép họ Nguyễn, vì kiêng húy đời Trần). Ông được Lý Thái tông và sư Viên Chiếu (Mai Trực) nuôi làm con và đặt tên là Hoài Tín (bia chùa Linh Xứng ở Ngưỡng Sơn ghi là Sùng Tín). Lúc mới 20 tuổi, ông từng được chọn vào cung dạy Hoàng tử Càn Đức (sau này là Lý Nhân tông). Ít lâu, ông đi tu, về sau được sư Quảng Trí truyền tâm ấn, ông nghiễm nhiên nối truyền thế hệ thứ 8 dòng thiền Quan Bích. Lý Nhân tông và Hoàng hậu rất trọng đãi ông, cất ngôi chùa ở cạnh cung Cảnh Hưng đặt tên là Giáo Nguyên, để ông trụ trì, phong ông làm Nhập nội đạo tràng và thường tôn xưng ông là Trưởng lão. Lúc rỗi việc, ông vẫn thường cùng Lý Thường Kiệt du ngoạn các nơi thắng cảnh, rồi chọn đất dựng chùa theo ý bà Cảm Linh nhân Hoàng thái hậu. Ngày 30-10 năm Bính tí (17-12-1096) ông mất, hưởng dương 44 tuổi. Pháp danh Mãn Giác của ông chính do Lý Nhân tông đặt cho sau khi ông qua đời. Nhà vua cũng truyền xây tháp thờ ở chùa Sùng Nham, làng An Cách. Ngày nay chỉ còn truyền tụng một bài kệ của ông: \"Xuân khứ bách hoa lạc Xuân đáo bách hoa khai, Sự trục nhãn tiền quá. Lão tùng đầu thượng lai. Mạc vị xuân tàn hoa lạc tận, Định tiền bạc dạ nhất chi mai\". Bản dịch: Xuân ruổi trăm hoa rụng. Xuân tới trăm hoa cười. Trước mắt, việc đi mãi, Trên đầu, già đến rồi! Đừng tưởng xuân tàn hoa rụng hết, Đêm qua sân trước một cành mai."
 }

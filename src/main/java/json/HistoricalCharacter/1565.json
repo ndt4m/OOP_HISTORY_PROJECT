@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Canh Tí 1660",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê làng Phù Khê, huyện Đông Ngạn, tỉnh Bắc Ninh",
-  "occupation" : "Danh thần đời Lê, có sách chép là Quách Chú",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
+  "dateOfBirth": "Canh Tí 1660",
+  "dateOfDeath": "Không rõ",
+  "hometown": "quê làng Phù Khê, huyện Đông Ngạn, tỉnh Bắc Ninh",
+  "occupation": "Danh thần đời Lê, có sách chép là Quách Chú",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34
   },
-  "id" : 1565,
-  "entityName" : "Quách Giai",
-  "aliases" : [ "Quách Chú" ],
-  "overview" : "Ông là danh thần đời Lê Hi tông, từ bé đã có tiếng thần đồng. Năm Quí hợi 1683 ông đỗ Bảng nhãn lúc 23 tuổi. Ông từng làm Đốc đồng ở Thanh Hóa, trải qua nhiều chức vụ cao ở các tỉnh ngoài. Sau, ông về triều làm đến Thái thượng Tự khanh, nhưng chẳng bao lâu thì lâm bệnh, xin về hưu, rồi mất ở quê nhà. Tương truyền: ông vẫn biết mình bạc phước, nên khi thành đạt ông thường làm nhiều điều phước thiện để cầu ân đức. Nhiều người nghèo khổ từng được ông cứu giúp, nhất là kẻ sĩ hàn vi được ông nâng đỡ, tiến cử cho lập thân vẻ vang. Khi ông mất ai cũng thương tiếc. Tổ tiên xa đời của ông là Quách Toản Khế khi xưa cũng nổi tiếng tài giỏi và có nhân đức."
+  "id": 1565,
+  "entityName": "Quách Giai",
+  "aliases": [
+    "Quách Chú"
+  ],
+  "overview": "Ông là danh thần đời Lê Hi tông, từ bé đã có tiếng thần đồng. Năm Quí hợi 1683 ông đỗ Bảng nhãn lúc 23 tuổi. Ông từng làm Đốc đồng ở Thanh Hóa, trải qua nhiều chức vụ cao ở các tỉnh ngoài. Sau, ông về triều làm đến Thái thượng Tự khanh, nhưng chẳng bao lâu thì lâm bệnh, xin về hưu, rồi mất ở quê nhà. Tương truyền: ông vẫn biết mình bạc phước, nên khi thành đạt ông thường làm nhiều điều phước thiện để cầu ân đức. Nhiều người nghèo khổ từng được ông cứu giúp, nhất là kẻ sĩ hàn vi được ông nâng đỡ, tiến cử cho lập thân vẻ vang. Khi ông mất ai cũng thương tiếc. Tổ tiên xa đời của ông là Quách Toản Khế khi xưa cũng nổi tiếng tài giỏi và có nhân đức."
 }

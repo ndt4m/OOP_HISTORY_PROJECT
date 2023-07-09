@@ -1,16 +1,19 @@
 {
-  "dateOfBirth" : "Mậu Thân 1908",
-  "dateOfDeath" : "Quí Dậu 1933",
-  "hometown" : "quê làng Khánh An, thị xã Cà Mau, tỉnh Bạc Liêu (nay thuộc tỉnh Cà Mau)",
-  "occupation" : "Nhà hoạt động cách mạng, liệt sĩ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "Mậu Thân 1908",
+  "dateOfDeath": "Quí Dậu 1933",
+  "hometown": "quê làng Khánh An, thị xã Cà Mau, tỉnh Bạc Liêu (nay thuộc tỉnh Cà Mau)",
+  "occupation": "Nhà hoạt động cách mạng, liệt sĩ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 210,
-  "entityName" : "Trần Văn Minh",
-  "aliases" : [ "Hoàng Tuyền", "Trần Văn Minh" ],
-  "overview" : "Trần Văn Minh là một cái tên người Việt khá phổ biến. Một số nhân vật nổi bật cùng mang tên này như:\n----------------------------------------------\nÔng tham gia Việt Nam Thanh niên Cách mạng đồng chí hội, rồi gia nhập An Nam cộng sản đảng. Từng là ủy viên trung ương An Nam cộng sản đảng, Bí thư Thành ủy Sài Gòn - Chợ Lớn năm 1931-1932. Năm 1933, ông bị Pháp bắt giam, bị tra tấn dã man, mất tại nhà thương Chợ Quán - Chợ Lớn (nay là bệnh viện Nhiệt đới Thành phố Hồ Chí Minh) lúc mới 25 tuổi."
+  "id": 210,
+  "entityName": "Trần Văn Minh",
+  "aliases": [
+    "Hoàng Tuyền",
+    "Trần Văn Minh"
+  ],
+  "overview": "Trần Văn Minh là một cái tên người Việt khá phổ biến. Một số nhân vật nổi bật cùng mang tên này như:\n----------------------------------------------\nÔng tham gia Việt Nam Thanh niên Cách mạng đồng chí hội, rồi gia nhập An Nam cộng sản đảng. Từng là ủy viên trung ương An Nam cộng sản đảng, Bí thư Thành ủy Sài Gòn - Chợ Lớn năm 1931-1932. Năm 1933, ông bị Pháp bắt giam, bị tra tấn dã man, mất tại nhà thương Chợ Quán - Chợ Lớn (nay là bệnh viện Nhiệt đới Thành phố Hồ Chí Minh) lúc mới 25 tuổi."
 }

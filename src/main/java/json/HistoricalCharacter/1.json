@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Đinh Mùi 1907",
-  "dateOfDeath" : "Tân Tị 1941",
-  "hometown" : "quê làng Tân Phú, huyện Hóc Môn, tỉnh Gia Định (nay thuộc Tân Phú Trung, huyện Củ Chi, TP",
-  "occupation" : "Liệt sĩ hiện đại",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "Đinh Mùi 1907",
+  "dateOfDeath": "Tân Tị 1941",
+  "hometown": "quê làng Tân Phú, huyện Hóc Môn, tỉnh Gia Định (nay thuộc Tân Phú Trung, huyện Củ Chi, TP",
+  "occupation": "Liệt sĩ hiện đại",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 1,
-  "entityName" : "Đặng Công Bỉnh",
-  "aliases" : [ ],
-  "overview" : "Xuất thân trong một gia đình nông dân, ý thức cách mạng rất sớm từ những năm 30. Năm 1937 được kết nạp vào Đảng CSĐD. Trong cuộc khởi nghĩa Nam Kì xảy ra tại Hóc Môn (23-11-1940) ông trực tiếp chỉ huy tấn công huyện đường Hóc Môn. Cuộc khởi nghĩa thất bại, ông bị địch bắt, trước mặt quân thù ông hiên ngang nói lên khí phách cách mạng của nguời dân bị trị. Ông bị địch xử bắn tại rạp hát gần thị trấn Hóc Môn trong năm 1941, hưởng dương 34 tuổi."
+  "id": 1,
+  "entityName": "Đặng Công Bỉnh",
+  "aliases": [],
+  "overview": "Xuất thân trong một gia đình nông dân, ý thức cách mạng rất sớm từ những năm 30. Năm 1937 được kết nạp vào Đảng CSĐD. Trong cuộc khởi nghĩa Nam Kì xảy ra tại Hóc Môn (23-11-1940) ông trực tiếp chỉ huy tấn công huyện đường Hóc Môn. Cuộc khởi nghĩa thất bại, ông bị địch bắt, trước mặt quân thù ông hiên ngang nói lên khí phách cách mạng của nguời dân bị trị. Ông bị địch xử bắn tại rạp hát gần thị trấn Hóc Môn trong năm 1941, hưởng dương 34 tuổi."
 }

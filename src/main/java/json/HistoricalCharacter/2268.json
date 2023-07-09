@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Bính Tí 1876",
-  "dateOfDeath" : "Ất Tị 1905",
-  "hometown" : "quê làng La Kham, xã Đông Thành huyện Diên Phước, phủ Điện Bàn, tỉnh Quảng Nam (nay thuộc xã Điện Quang, huyện Điện Bàn, tỉnh Quảng Nam), vợ ông là bà Trần Thị Ty",
-  "occupation" : "Nhân sĩ chiến sĩ phong trào Duy tân, đời Thành Thái ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "Bính Tí 1876",
+  "dateOfDeath": "Ất Tị 1905",
+  "hometown": "quê làng La Kham, xã Đông Thành huyện Diên Phước, phủ Điện Bàn, tỉnh Quảng Nam (nay thuộc xã Điện Quang, huyện Điện Bàn, tỉnh Quảng Nam), vợ ông là bà Trần Thị Ty",
+  "occupation": "Nhân sĩ chiến sĩ phong trào Duy tân, đời Thành Thái ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 2268,
-  "entityName" : "Nguyễn Nhu",
-  "aliases" : [ "Nguyễn Văn Sử" ],
-  "overview" : "Xuất thân trong một gia đình nông nghiệp vọng tộc, thuở nhỏ học trường Phủ Điện Bàn, trường Đốc Quảng Nam đồng song với các chí sĩ Phan Châu Trinh, Huỳnh Thúc Kháng, Trần Quí Cáp, Nguyễn Đình Hiến... Năm 1900 với chân học sinh trường Đốc Quảng Nam, ông thi hương đỗ cử nhân (thứ 24/42) tại trường Thừa Thiên đời vua Thành Thái thứ 12 (1900). Từ năm 1901 - 1902 được bổ hành tẩu bộ Lễ chuẩn bị làm quan tại các địa phương. Nhưng sau đó ông từ quan vì ông cho rằng chế độ quan trường hồi ấy đã thối nát. Sau đó ông về quê mở trường dạy học tại quê nhà. Từ đó (1902) ông tham gia phong trào Duy tân (1900-1908) tại Quảng Nam trong các tổ chức Nông hội, thương hội, học hội... của phong trào cải cách duy tân, tự cường này. Ông cùng với các chí sĩ Phan Thúc Duyện (1873-1944) Lê Bá Trinh (1875-1934), Mai Dị (1880-1928)... Có lúc ông trực tiếp giảng dạy tại các trường tân học tại Quảng Cái, Diên Phong, Miếu Bông, Phong Thử... một thời gian. Năm 1905 trong khi đang hăng say hoạt động phong trào (giảng dạy) và cũng là lúc phong trào tiến triển mạnh mẽ thì ông lâm trọng bệnh qua đời ngày 7 tháng 3 âm lịch hưởng dương 29 tuổi để lại sự thương tiếc cho các chiến sĩ, đồng hảo của phong trào Duy tân tại Quảng Nam. Ông là thân sinh các ông: Nguyễn Văn Hy (1900-1968), Nguyễn QuangThanh (1901-1963). Các cháu nội ông: Nguyễn Quang Phong, Nguyễn Quang Trà, Nguyễn Quang Phú, Nguyễn Quang Cường đều là giáo viên, chuyên viên khoa học hiện đại Việt Nam. Ông mất năm 1905 (Ất tị) hưởng dương 29 tuổi."
+  "id": 2268,
+  "entityName": "Nguyễn Nhu",
+  "aliases": [
+    "Nguyễn Văn Sử"
+  ],
+  "overview": "Xuất thân trong một gia đình nông nghiệp vọng tộc, thuở nhỏ học trường Phủ Điện Bàn, trường Đốc Quảng Nam đồng song với các chí sĩ Phan Châu Trinh, Huỳnh Thúc Kháng, Trần Quí Cáp, Nguyễn Đình Hiến... Năm 1900 với chân học sinh trường Đốc Quảng Nam, ông thi hương đỗ cử nhân (thứ 24/42) tại trường Thừa Thiên đời vua Thành Thái thứ 12 (1900). Từ năm 1901 - 1902 được bổ hành tẩu bộ Lễ chuẩn bị làm quan tại các địa phương. Nhưng sau đó ông từ quan vì ông cho rằng chế độ quan trường hồi ấy đã thối nát. Sau đó ông về quê mở trường dạy học tại quê nhà. Từ đó (1902) ông tham gia phong trào Duy tân (1900-1908) tại Quảng Nam trong các tổ chức Nông hội, thương hội, học hội... của phong trào cải cách duy tân, tự cường này. Ông cùng với các chí sĩ Phan Thúc Duyện (1873-1944) Lê Bá Trinh (1875-1934), Mai Dị (1880-1928)... Có lúc ông trực tiếp giảng dạy tại các trường tân học tại Quảng Cái, Diên Phong, Miếu Bông, Phong Thử... một thời gian. Năm 1905 trong khi đang hăng say hoạt động phong trào (giảng dạy) và cũng là lúc phong trào tiến triển mạnh mẽ thì ông lâm trọng bệnh qua đời ngày 7 tháng 3 âm lịch hưởng dương 29 tuổi để lại sự thương tiếc cho các chiến sĩ, đồng hảo của phong trào Duy tân tại Quảng Nam. Ông là thân sinh các ông: Nguyễn Văn Hy (1900-1968), Nguyễn QuangThanh (1901-1963). Các cháu nội ông: Nguyễn Quang Phong, Nguyễn Quang Trà, Nguyễn Quang Phú, Nguyễn Quang Cường đều là giáo viên, chuyên viên khoa học hiện đại Việt Nam. Ông mất năm 1905 (Ất tị) hưởng dương 29 tuổi."
 }

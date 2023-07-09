@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "1474",
-  "dateOfDeath" : "1518",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "nhà Lê" : null
+  "dateOfBirth": "1474",
+  "dateOfDeath": "1518",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "nhà Lê": null
   },
-  "id" : 1679,
-  "entityName" : "Đỗ Nhạc",
-  "aliases" : [ ],
-  "overview" : "Đỗ Nhân (1474 - 1518) là đại thần nhà Lê sơ trong lịch sử Việt Nam."
+  "id": 1679,
+  "entityName": "Đỗ Nhạc",
+  "aliases": [],
+  "overview": "Đỗ Nhân (1474 - 1518) là đại thần nhà Lê sơ trong lịch sử Việt Nam."
 }

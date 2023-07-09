@@ -3,8 +3,6 @@ M
 src/main/java/entity/Era.java,0\9\09a83d9a5347af5571608bd0c50875434a62e5e2
 f
 6src/main/java/collection/HistoricalSiteCollection.java,d\f\df02d09726c3c3eb1c5f58667300292a0b09564c
-Z
-*src/main/java/gui/eraScreenController.java,d\3\d3310dc6d3172d90d38728e67d242c2ee53095e9
 M
 src/main/java/json/Era/1.json,2\4\24aaa46b18b6554a0c9d64f81a7fbda689ab6f90
 M
@@ -25,8 +23,6 @@ O
 src/main/java/json/Event/5.json,2\f\2f3f44fe7a5c11f4604b84e8a55dfee562f7c3c6
 O
 src/main/java/json/Event/6.json,5\8\586691aa0ac0c0d55d10c2b37f822699f23ce66f
-P
- src/main/java/gui/eraScreen.java,1\e\1e16fc7a9661b9824a90ae3afc2b77e5b587cbef
 T
 $src/main/java/gui/eraScreenTest.java,a\8\a820369dcb285481bb7b1e069acb38ee92513f06
 [
@@ -45,3 +41,39 @@ S
 #src/main/java/crawling/Crawler.java,2\d\2d2ebff8e9fccc163becbbab0f5ef40cd47e8e04
 R
 "src/main/java/json/Festival/1.json,2\8\28cff7b607f5650b5f868fd28c19ac5c6a0ea063
+P
+ src/main/java/entity/Entity.java,a\4\a4fda0e9896ca24e7da25a38945e0593ed39a8c5
+b
+2src/main/java/application/controller/TrangChu.java,1\b\1b33344abeae7e5d9cc24ab68ab4a46b9189af67
+m
+=src/main/java/application/controller/CharacterController.java,3\d\3dfdaf1ced091cb1ed25d1134dbfa01418c8e9aa
+p
+@src/main/java/application/controller/DiTichDetailController.java,5\0\50832925ac0dfce04fce00d30cfeb953124770c7
+g
+7src/main/java/application/controller/EraController.java,7\3\73faa4a479c57faabd800cc867f3fa4cb08bcf85
+m
+=src/main/java/application/controller/EraDetailController.java,7\e\7e9c2565b909e5d023ec9d754f87f8df6faccac2
+i
+9src/main/java/application/controller/EventController.java,e\0\e0bf81af9a1cbedc9a189eff8aa1fb21707e1350
+l
+<src/main/java/application/controller/FestivalController.java,7\f\7f0667410b96a935f98774fe0340cda09cea9645
+g
+7src/main/java/application/controller/PreviousStack.java,e\0\e0eeaa335190d49387984f54dc2e20e6745ea274
+r
+Bsrc/main/java/application/controller/FestivalDetailController.java,2\6\268c59c1003e7f7d15ca85017cfd5afbef210b08
+j
+:src/main/java/application/controller/DiTichController.java,d\2\d2754ecd34b41ccf9a26d2d40103e81f49872b73
+R
+"src/main/java/application/App.java,4\c\4cb71d5dc0dadb4ceaad3433e81d1ba02999d24e
+s
+Csrc/main/java/application/controller/CharacterDetailController.java,8\2\82f04c460ce74381e5c3462ea20eb110d6b4c61e
+o
+?src/main/java/application/controller/EventDetailController.java,7\d\7d4873328efdf7e85dc1341ccebd23e675e47bac
+V
+&src/main/java/utils/RelationUtils.java,0\9\09c7806336a5ca748ec7dc08fc72ff91816a4edb
+Y
+)src/main/java/application/gui/RunGui.java,d\9\d92dd37dbfe6a46ff91b6e94f1f64dd342d0f656
+m
+=src/main/java/application/controller/searchBarController.java,5\4\541a8d38f4a0e1472d4b595336e9785d2345295c
+h
+8src/main/java/application/controller/MainController.java,b\1\b1da34ad3ee9336dba1160eedf9aa0240482d9c7

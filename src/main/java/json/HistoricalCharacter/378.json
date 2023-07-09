@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "374",
-  "dateOfDeath" : "423",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "nhà Đông Tấn" : null
+  "dateOfBirth": "374",
+  "dateOfDeath": "423",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "nhà Đông Tấn": null
   },
-  "id" : 378,
-  "entityName" : "Đỗ Tuệ Độ",
-  "aliases" : [ "Đỗ Huệ Độ" ],
-  "overview" : "Đỗ Tuệ Độ hay Đỗ Huệ Độ (tiếng Trung: 杜慧度; bính âm: Dù Huìdù, 374 – 423), sinh quán Chu Sương, Giao Chỉ, nguyên quán Kinh Triệu , là quan nhà Đông Tấn và Lưu Tống trong lịch sử Trung Quốc. Ông giữ chức thứ sử Giao Châu (quan cai trị đứng đầu Giao châu - tức phần lớn lãnh thổ Bắc và Bắc Trung Bộ Việt Nam hiện nay) trải qua 2 triều đại này."
+  "id": 378,
+  "entityName": "Đỗ Tuệ Độ",
+  "aliases": [
+    "Đỗ Huệ Độ"
+  ],
+  "overview": "Đỗ Tuệ Độ hay Đỗ Huệ Độ (tiếng Trung: 杜慧度; bính âm: Dù Huìdù, 374 – 423), sinh quán Chu Sương, Giao Chỉ, nguyên quán Kinh Triệu , là quan nhà Đông Tấn và Lưu Tống trong lịch sử Trung Quốc. Ông giữ chức thứ sử Giao Châu (quan cai trị đứng đầu Giao châu - tức phần lớn lãnh thổ Bắc và Bắc Trung Bộ Việt Nam hiện nay) trải qua 2 triều đại này."
 }

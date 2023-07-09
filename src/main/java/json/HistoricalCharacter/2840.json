@@ -1,16 +1,19 @@
 {
-  "dateOfBirth" : "Quí Mùi 1883",
-  "dateOfDeath" : "Mậu Dần 1938",
-  "hometown" : "quê tỉnh Long An, ngụ ở thị xã Phan Thiết, tỉnh Bình Thuận",
-  "occupation" : "Nhà duy tân cải cách, Nhân sĩ cận đại",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "Quí Mùi 1883",
+  "dateOfDeath": "Mậu Dần 1938",
+  "hometown": "quê tỉnh Long An, ngụ ở thị xã Phan Thiết, tỉnh Bình Thuận",
+  "occupation": "Nhà duy tân cải cách, Nhân sĩ cận đại",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 2840,
-  "entityName" : "Nguyễn Quí Anh",
-  "aliases" : [ "Ấm Bảy", "Nhụ Khanh" ],
-  "overview" : "Thời trẻ ông ra học ở Quảng Nam với Trần Quí Cáp, năm 1904 ông là người cùng vào Nam với Phan Châu Trinh, Huỳnh Thúc Kháng, Trần Quí Cáp cổ động phong trào Duy tân. Khi đến Phan Thiết, họ ở tại Ngọa du sào của Nguyễn Thông. Tại đây, ông cùng các nhân vật trên và 5 vị khác thành lập Công ti Liên Thành và trường Dục Thanh theo chủ trương của phong trào cách mạng này. Ông là người được đặc trách trông nom (giám học) trường Dục Thanh. Sau năm 1911, ông vào Sài Gòn điều hành công ti Liên Thành tại Chợ Lớn. Tên tuổi ông được gắn liền với trường Dục Thanh và công ti Liên Thành. Đây là hai cơ sở có tiếng vang trong sinh hoạt xã hội, chính trị Việt Nam trước thế chiến thứ hai. Năm 1938, ông mất tại Chợ Lớn, an táng tại Phú Nhuận, hưởng dương 55 tuổi. Đương thời (1937) Huỳnh Thúc Kháng có bài thơ Gởi Nhụ Khanh đã nói lên được phần nào tư cách, đức độ ông. Cỏ cây điêm nhiễm mạch Tô Tuyền, Dăng dính làng văn bơi chữ duyên, Lầu mới vẫn ghi bia Lỗ Điện, Tình xưa chạnh nhớ bạn Thai Xuyên. Gặp nhau Bàn luận đôi vần phú, Chung chắc Cam Ranh một chiếc thuyền, Ba chục năm thừa ôn chuyện cũ, Nhà thi phong cách rõ uyên nguyên."
+  "id": 2840,
+  "entityName": "Nguyễn Quí Anh",
+  "aliases": [
+    "Ấm Bảy",
+    "Nhụ Khanh"
+  ],
+  "overview": "Thời trẻ ông ra học ở Quảng Nam với Trần Quí Cáp, năm 1904 ông là người cùng vào Nam với Phan Châu Trinh, Huỳnh Thúc Kháng, Trần Quí Cáp cổ động phong trào Duy tân. Khi đến Phan Thiết, họ ở tại Ngọa du sào của Nguyễn Thông. Tại đây, ông cùng các nhân vật trên và 5 vị khác thành lập Công ti Liên Thành và trường Dục Thanh theo chủ trương của phong trào cách mạng này. Ông là người được đặc trách trông nom (giám học) trường Dục Thanh. Sau năm 1911, ông vào Sài Gòn điều hành công ti Liên Thành tại Chợ Lớn. Tên tuổi ông được gắn liền với trường Dục Thanh và công ti Liên Thành. Đây là hai cơ sở có tiếng vang trong sinh hoạt xã hội, chính trị Việt Nam trước thế chiến thứ hai. Năm 1938, ông mất tại Chợ Lớn, an táng tại Phú Nhuận, hưởng dương 55 tuổi. Đương thời (1937) Huỳnh Thúc Kháng có bài thơ Gởi Nhụ Khanh đã nói lên được phần nào tư cách, đức độ ông. Cỏ cây điêm nhiễm mạch Tô Tuyền, Dăng dính làng văn bơi chữ duyên, Lầu mới vẫn ghi bia Lỗ Điện, Tình xưa chạnh nhớ bạn Thai Xuyên. Gặp nhau Bàn luận đôi vần phú, Chung chắc Cam Ranh một chiếc thuyền, Ba chục năm thừa ôn chuyện cũ, Nhà thi phong cách rõ uyên nguyên."
 }

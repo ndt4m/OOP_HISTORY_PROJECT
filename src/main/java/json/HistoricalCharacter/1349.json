@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Nhân sĩ cận đại",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Nhân sĩ cận đại",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 1349,
-  "entityName" : "Đào Thành Đô",
-  "aliases" : [ ],
-  "overview" : "Ông từng làm Hương sư, Hương cả, nên tục gọi là Cả Đô. Chính ông đã bí mật giúp đỡ che chở cho Nguyễn Quang Diệu hoạt động vào khoảng 1927-1930 tại vùng Hồng Ngự (nay thuộc Đồng Tháp), Tân Châu (nay thuộc An Giang). Hình tích bại lộ, ông bị bắt giam, rồi đi đày Côn Đảo, bỏ mình ngoài ấy, để lại niềm thương tiếc cho nhân dân."
+  "id": 1349,
+  "entityName": "Đào Thành Đô",
+  "aliases": [],
+  "overview": "Ông từng làm Hương sư, Hương cả, nên tục gọi là Cả Đô. Chính ông đã bí mật giúp đỡ che chở cho Nguyễn Quang Diệu hoạt động vào khoảng 1927-1930 tại vùng Hồng Ngự (nay thuộc Đồng Tháp), Tân Châu (nay thuộc An Giang). Hình tích bại lộ, ông bị bắt giam, rồi đi đày Côn Đảo, bỏ mình ngoài ấy, để lại niềm thương tiếc cho nhân dân."
 }

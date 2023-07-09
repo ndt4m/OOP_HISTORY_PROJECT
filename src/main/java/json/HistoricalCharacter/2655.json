@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "1209",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "nhà Lý" : null
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "1209",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "nhà Lý": null
   },
-  "id" : 2655,
-  "entityName" : "Phạm Du",
-  "aliases" : [ ],
-  "overview" : "Phạm Du (chữ Hán: 范猷, ? – 1209) là tướng nhà Lý trong lịch sử Việt Nam, dưới triều vua Lý Cao Tông - vị vua thứ bảy của nhà Lý."
+  "id": 2655,
+  "entityName": "Phạm Du",
+  "aliases": [],
+  "overview": "Phạm Du (chữ Hán: 范猷, ? – 1209) là tướng nhà Lý trong lịch sử Việt Nam, dưới triều vua Lý Cao Tông - vị vua thứ bảy của nhà Lý."
 }

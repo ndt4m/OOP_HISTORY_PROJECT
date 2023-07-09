@@ -5,18 +5,20 @@ import javafx.fxml.FXML;
 import javafx.scene.control.ComboBox;
 import javafx.scene.control.TextField;
 
-public class SearchBarController {
+public class searchBarController {
 
     @FXML
-    public ComboBox<String> filterComboBox;
+    private ComboBox<String> filterComboBox;
+
     @FXML
     private TextField searchBox;
 
-    private SearchBoxListener searchBoxListener;
+    private searchBoxListener searchBoxListener;
 
-    public void setSearchBoxListener(SearchBoxListener searchBoxListener){
+    public void setSearchBoxListener(searchBoxListener searchBoxListener) {
         this.searchBoxListener = searchBoxListener;
     }
+
 
     @FXML
     public void initialize() {
@@ -54,4 +56,5 @@ public class SearchBarController {
                 }
         ));
     }
+
 }

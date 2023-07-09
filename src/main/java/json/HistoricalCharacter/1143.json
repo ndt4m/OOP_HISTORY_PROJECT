@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Canh Thân 1860",
-  "dateOfDeath" : "Tân Mùi 1931",
-  "hometown" : "nguyên quán tỉnh Bình Định sau vào cư ngụ ở Mĩ Hòa, huyện Hóc Môn, tinh Gịa Định (nay thuộc thành phố Hồ Chí Minh), rồi về lập nghiệp ở Sài Gòn sinh sống ở Hóc Môn cho tới ngày qua đời",
-  "occupation" : "Chí sĩ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "Canh Thân 1860",
+  "dateOfDeath": "Tân Mùi 1931",
+  "hometown": "nguyên quán tỉnh Bình Định sau vào cư ngụ ở Mĩ Hòa, huyện Hóc Môn, tinh Gịa Định (nay thuộc thành phố Hồ Chí Minh), rồi về lập nghiệp ở Sài Gòn sinh sống ở Hóc Môn cho tới ngày qua đời",
+  "occupation": "Chí sĩ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 1143,
-  "entityName" : "Nguyên An Khương",
-  "aliases" : [ ],
-  "overview" : "Ông tinh thông Hán học, giỏi chữ Quốc ngữ, có tinh thần yêu nước, nhiệt liệt hưởng ứng phong trào Duy tân, đứng ra thành lập khách sạn Chiêu Nam lầu làm cơ sở cách mạng ở Sài Gòn, giúp phương tiện và tiền bạc đưa các thanh niên ra nước ngoài học tập phụng sự Tổ quốc. Những năm 1900-1910 ông thường viết báo, dịch sách có tiếng trong lịch sử văn học Việt Nam vào thời kì chữ Quốc ngữ còn phôi thai. Chính ông đã hun đúc tinh thần yêu nước cho con là chí sĩ Nguyễn An Ninh, em ruột ông là Nguyễn An Cư (1864-1949) cũng là một nhà văn, một Đông y sĩ nổi tiếng, phần lớn các chí sĩ trong nước đều quí trọng gia đình ông. Các tác phẩm dịch thuật của ông gồm: - Tam quốc diễn nghĩa, - Thủy hử - Vạn huê lầu diễn nghĩa - Chính Đông - Chinh Tây... đều xuất bản trước Cách mạng tháng Tám ở Sài Gòn được rất đông độc giả ngưỡng mộ."
+  "id": 1143,
+  "entityName": "Nguyên An Khương",
+  "aliases": [],
+  "overview": "Ông tinh thông Hán học, giỏi chữ Quốc ngữ, có tinh thần yêu nước, nhiệt liệt hưởng ứng phong trào Duy tân, đứng ra thành lập khách sạn Chiêu Nam lầu làm cơ sở cách mạng ở Sài Gòn, giúp phương tiện và tiền bạc đưa các thanh niên ra nước ngoài học tập phụng sự Tổ quốc. Những năm 1900-1910 ông thường viết báo, dịch sách có tiếng trong lịch sử văn học Việt Nam vào thời kì chữ Quốc ngữ còn phôi thai. Chính ông đã hun đúc tinh thần yêu nước cho con là chí sĩ Nguyễn An Ninh, em ruột ông là Nguyễn An Cư (1864-1949) cũng là một nhà văn, một Đông y sĩ nổi tiếng, phần lớn các chí sĩ trong nước đều quí trọng gia đình ông. Các tác phẩm dịch thuật của ông gồm: - Tam quốc diễn nghĩa, - Thủy hử - Vạn huê lầu diễn nghĩa - Chính Đông - Chinh Tây... đều xuất bản trước Cách mạng tháng Tám ở Sài Gòn được rất đông độc giả ngưỡng mộ."
 }

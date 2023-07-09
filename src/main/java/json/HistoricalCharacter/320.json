@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "1519",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "nhà Lê" : null
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "1519",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "nhà Lê": null
   },
-  "id" : 320,
-  "entityName" : "Nguyễn Sư",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Sư (?-1519) là quan nhà Lê sơ trong lịch sử Việt Nam. Ông cùng Trịnh Tuy ủng hộ các hoàng thân nhà Lê ly khai chính quyền vua Lê Chiêu Tông nhưng bị thất bại."
+  "id": 320,
+  "entityName": "Nguyễn Sư",
+  "aliases": [],
+  "overview": "Nguyễn Sư (?-1519) là quan nhà Lê sơ trong lịch sử Việt Nam. Ông cùng Trịnh Tuy ủng hộ các hoàng thân nhà Lê ly khai chính quyền vua Lê Chiêu Tông nhưng bị thất bại."
 }

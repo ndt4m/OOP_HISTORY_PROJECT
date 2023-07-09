@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Tân Tị 1641",
-  "dateOfDeath" : "Kỉ Mùi 1679",
-  "hometown" : "Hà Tây",
-  "occupation" : "Danh sĩ đời Hậu Lê",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
+  "dateOfBirth": "Tân Tị 1641",
+  "dateOfDeath": "Kỉ Mùi 1679",
+  "hometown": "Hà Tây",
+  "occupation": "Danh sĩ đời Hậu Lê",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34
   },
-  "id" : 1732,
-  "entityName" : "Ngô Vân",
-  "aliases" : [ "Thạch Đức" ],
-  "overview" : "Ông có tiếng văn hay chữ tốt, dạy học ở kinh đô, học trò đông tới hàng trăm người. Văn chương xuất sắc trong làng văn đương thời. Năm Kỉ mùi 1679, ông mất, hưởng dương 38 tuổi; ông mất sớm, sĩ phu đều thương tiếc. Nhưng con cháu ông về sau đều có sự nghiệp lừng lẫy nhất về văn học, được coi như một phái có giá trị: Ngô gia văn phái."
+  "id": 1732,
+  "entityName": "Ngô Vân",
+  "aliases": [
+    "Thạch Đức"
+  ],
+  "overview": "Ông có tiếng văn hay chữ tốt, dạy học ở kinh đô, học trò đông tới hàng trăm người. Văn chương xuất sắc trong làng văn đương thời. Năm Kỉ mùi 1679, ông mất, hưởng dương 38 tuổi; ông mất sớm, sĩ phu đều thương tiếc. Nhưng con cháu ông về sau đều có sự nghiệp lừng lẫy nhất về văn học, được coi như một phái có giá trị: Ngô gia văn phái."
 }

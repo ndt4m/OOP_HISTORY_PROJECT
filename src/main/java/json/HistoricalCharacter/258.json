@@ -1,18 +1,21 @@
 {
-  "dateOfBirth" : "Quí Mão 1783",
-  "dateOfDeath" : "Tân Sửu 1841",
-  "hometown" : "Hà Tĩnh",
-  "occupation" : "Nhà thơ thời Minh Mạng, có tên khác nữa là Nhậm",
-  "workTenure" : "Không rõ",
-  "fatherName" : {
-    "thứ hai của ông Nguyễn Huy Tự" : null
+  "dateOfBirth": "Quí Mão 1783",
+  "dateOfDeath": "Tân Sửu 1841",
+  "hometown": "Hà Tĩnh",
+  "occupation": "Nhà thơ thời Minh Mạng, có tên khác nữa là Nhậm",
+  "workTenure": "Không rõ",
+  "fatherName": {
+    "thứ hai của ông Nguyễn Huy Tự": null
   },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+  "motherName": {},
+  "eraName": {
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 258,
-  "entityName" : "Nguyễn Huy Hổ",
-  "aliases" : [ "Cách Như", "Liên Pha" ],
-  "overview" : "Từ năm 20 tuổi ông chán cánh loạn lạc cuối đời Hậu Lê, sang triều Tây Sơn tranh hùng với chúa Nguyễn, ông vẫn không ra thi cử, ở ẩn đọc sách, cày ruộng. Anh ông là Nguyễn Huy Phó đỗ Giải nguyên cuối đời Hậu Lê, cũng bỏ quan về ở Chung Sơn. Đến năm 39 tuổi (1822), vua Minh Mạng triệu dụng ông, bổ làm Linh đài lang (một chức thuộc tòa Khâm thiên giám chuyên về thiên văn, lịch số). Từ đây ông thường được nhà vua và các quan trong triều vời đến làm thuốc chữa bệnh, nổi tiếng danh y, danh sĩ. Năm Tân sửu 1841, ngày 8 tháng 10 Dương lịch ông mất, hưởng dương 58 tuổi. Ông sáng tác văn học khá nhiều, nay còn truyền một tập truyện thơ Mai Đình mộng kí. Chi họ Nguyễn Huy của ông quê ở Trường Lưu, huyện La Sơn, tổng Lai Thạch, tỉnh Hà Tĩnh, có tiếng văn học ngang với chi họ Nguyễn Du ở Tiên Điền và cũng là thông gia với nhau (thân phụ ông là Nguyễn Huy Tự làm con rể Nguyễn Khản). Mai Đình mộng kí là một thiên tiểu truyện mà cũng là tự truyện bằng thơ ghi lại giấc mộng của tác giả là ông. Nguyên ngày xuân năm 1809 (Kỉ tị) ông đi thăm người anh (Nguyễn Huy Vinh) lúc ấy đang dạy học ở Nam Đường. Đi qua đến Phù Thạch ông ở lại xem hội thắp đèn. Gặp trời mưa, người quen thuê đò để ông ngưọc sông Lam. Trên thuyền ông uống rượu say rồi ngủ, mộng thấy đến một chỗ lâu đài, có cung điện nguy nga vườn đầy hoa xinh cỏ lạ... lại có một cải đình tên là đình thưởng mai, trong đình có một cô gái vừa mới đề thơ dán lên vách, nhưng vừa thoáng thấy ông thì biến mất. Ông ngẩn ngơ lại đình xem thấy là bài thơ vịnh hoa mai, bèn họa; rồi bỏ cả hai bài thơ vào một ống thơ và thấy phía trong có lâu đài, ông đánh liều bước vào xem. Một cô hầu ra hỏi, rồi giật lấy ống thơ chạy vào nhà trong. Một lát trở ra nói rằng cô chủ mời ông vào chơi. Ông theo vào thì thấy trong nhà lộng lẫy, chủ nhà rõ là một mệnh phụ hỏi ông quê quán ở đâu và vì sao biết chốn này mà tới. Ông trả lời rằng mình vốn con nhà dòng dõi, nhưng nay phong trần, nhân dạo chơi đây đó lạc tới chốn này. Bà báo: \"Chồng và cha tôi cũng làm quan tiền triều, nhưng vì loạn lạc, thời thế đổi thay nên cáo quan về ở ẩn và đã mất cách hơn mười năm rồi. Ta còn bận chút con thơ cho nên lánh ở chỗ tịch mịch này. Người tự nhiên đến đây, ấy là trời xui. Người nên trở về lập công danh, lúc nào đậu đạt rồi sẽ trở lại đây. Đó là tiền duyên túc trái, nguời chớ lo ngại gì\". Ông lui ra, sực tỉnh giấc, trong lòng bàng hoàng ngơ ngần. Tiếc duyên tình cờ trong mộng. Ông suy nghĩ về hai chữ \"giác\" và \"mê\", và lấy đó làm chủ đề cho Mai Đình mộng kí của mình."
+  "id": 258,
+  "entityName": "Nguyễn Huy Hổ",
+  "aliases": [
+    "Cách Như",
+    "Liên Pha"
+  ],
+  "overview": "Từ năm 20 tuổi ông chán cánh loạn lạc cuối đời Hậu Lê, sang triều Tây Sơn tranh hùng với chúa Nguyễn, ông vẫn không ra thi cử, ở ẩn đọc sách, cày ruộng. Anh ông là Nguyễn Huy Phó đỗ Giải nguyên cuối đời Hậu Lê, cũng bỏ quan về ở Chung Sơn. Đến năm 39 tuổi (1822), vua Minh Mạng triệu dụng ông, bổ làm Linh đài lang (một chức thuộc tòa Khâm thiên giám chuyên về thiên văn, lịch số). Từ đây ông thường được nhà vua và các quan trong triều vời đến làm thuốc chữa bệnh, nổi tiếng danh y, danh sĩ. Năm Tân sửu 1841, ngày 8 tháng 10 Dương lịch ông mất, hưởng dương 58 tuổi. Ông sáng tác văn học khá nhiều, nay còn truyền một tập truyện thơ Mai Đình mộng kí. Chi họ Nguyễn Huy của ông quê ở Trường Lưu, huyện La Sơn, tổng Lai Thạch, tỉnh Hà Tĩnh, có tiếng văn học ngang với chi họ Nguyễn Du ở Tiên Điền và cũng là thông gia với nhau (thân phụ ông là Nguyễn Huy Tự làm con rể Nguyễn Khản). Mai Đình mộng kí là một thiên tiểu truyện mà cũng là tự truyện bằng thơ ghi lại giấc mộng của tác giả là ông. Nguyên ngày xuân năm 1809 (Kỉ tị) ông đi thăm người anh (Nguyễn Huy Vinh) lúc ấy đang dạy học ở Nam Đường. Đi qua đến Phù Thạch ông ở lại xem hội thắp đèn. Gặp trời mưa, người quen thuê đò để ông ngưọc sông Lam. Trên thuyền ông uống rượu say rồi ngủ, mộng thấy đến một chỗ lâu đài, có cung điện nguy nga vườn đầy hoa xinh cỏ lạ... lại có một cải đình tên là đình thưởng mai, trong đình có một cô gái vừa mới đề thơ dán lên vách, nhưng vừa thoáng thấy ông thì biến mất. Ông ngẩn ngơ lại đình xem thấy là bài thơ vịnh hoa mai, bèn họa; rồi bỏ cả hai bài thơ vào một ống thơ và thấy phía trong có lâu đài, ông đánh liều bước vào xem. Một cô hầu ra hỏi, rồi giật lấy ống thơ chạy vào nhà trong. Một lát trở ra nói rằng cô chủ mời ông vào chơi. Ông theo vào thì thấy trong nhà lộng lẫy, chủ nhà rõ là một mệnh phụ hỏi ông quê quán ở đâu và vì sao biết chốn này mà tới. Ông trả lời rằng mình vốn con nhà dòng dõi, nhưng nay phong trần, nhân dạo chơi đây đó lạc tới chốn này. Bà báo: \"Chồng và cha tôi cũng làm quan tiền triều, nhưng vì loạn lạc, thời thế đổi thay nên cáo quan về ở ẩn và đã mất cách hơn mười năm rồi. Ta còn bận chút con thơ cho nên lánh ở chỗ tịch mịch này. Người tự nhiên đến đây, ấy là trời xui. Người nên trở về lập công danh, lúc nào đậu đạt rồi sẽ trở lại đây. Đó là tiền duyên túc trái, nguời chớ lo ngại gì\". Ông lui ra, sực tỉnh giấc, trong lòng bàng hoàng ngơ ngần. Tiếc duyên tình cờ trong mộng. Ông suy nghĩ về hai chữ \"giác\" và \"mê\", và lấy đó làm chủ đề cho Mai Đình mộng kí của mình."
 }

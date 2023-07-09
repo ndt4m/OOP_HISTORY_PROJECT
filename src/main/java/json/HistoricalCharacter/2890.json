@@ -1,17 +1,21 @@
 {
-  "dateOfBirth" : "Mậu Thân 1908",
-  "dateOfDeath" : "Bính Thân 1956",
-  "hometown" : "quê làng Kiêu Kị, huyện Gia Lâm, tỉnh Bắc Ninh (nay thuộc Hà Nội)",
-  "occupation" : "Thiếu tướng QĐNDVN, tên thường dùng là Nguyễn Sơn",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+  "dateOfBirth": "Mậu Thân 1908",
+  "dateOfDeath": "Bính Thân 1956",
+  "hometown": "quê làng Kiêu Kị, huyện Gia Lâm, tỉnh Bắc Ninh (nay thuộc Hà Nội)",
+  "occupation": "Thiếu tướng QĐNDVN, tên thường dùng là Nguyễn Sơn",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11,
+    "Nước Việt Nam mới": 29
   },
-  "id" : 2890,
-  "entityName" : "Võ Nguyên Thủy",
-  "aliases" : [ "Võ Hồng Thủy", "Nguyễn Sơn", "Võ Nguyên Bác" ],
-  "overview" : "Năm 1925 ông sang Trung Quốc một lần với Phạm Thành Tích (Phạm Hồng Thái) hoạt động. Tại đây ông được giới thiệu vào học trường võ bị Hoàng Phố cùng khóa với Trần Tư Chính (Bàng Thống), Nguyễn Tư Hồng (Chung Phong). Ra trường ông ở trong hàng ngũ quân đội cách mạng Trung Quốc đến thế chiến II. Sau ngày Toàn quốc kháng chiến ông về nước đứng trong hàng ngũ QĐNDVN với quân hàm thiếu tướng, tùng giữ các chức vụ Tư lệnh liên khu V, rồi Tư lệnh kiêm Khu trưởng liên khu IV. Khoảng năm 1951, ông sang phục vụ lại trong hàng ngũ quân giải phóng Trung Quốc, rồi làm việc ở Bộ quốc phòng Trung Hoa với các chức vụ: Cục trưởng Cục điều lệnh, Giám đốc tòa soạn tạp chí Huấn luyện chiến đấu... Sau đó bị bệnh nặng ông trở về Việt Nam. Ông mất năm 1956 tại Hà Nội. Các tác phẩm của ông: Về truyện Kiều, một số bài thơ, bài báo. Sau khi ông mất, nhà thơ Hữu Loan viết bài \"Khóc Nguyễn Sơn hay là một đám tang đi không bao giờ tới huyệt\" về nhà tướng đầy nghệ sĩ tính này."
+  "id": 2890,
+  "entityName": "Võ Nguyên Thủy",
+  "aliases": [
+    "Võ Hồng Thủy",
+    "Nguyễn Sơn",
+    "Võ Nguyên Bác"
+  ],
+  "overview": "Năm 1925 ông sang Trung Quốc một lần với Phạm Thành Tích (Phạm Hồng Thái) hoạt động. Tại đây ông được giới thiệu vào học trường võ bị Hoàng Phố cùng khóa với Trần Tư Chính (Bàng Thống), Nguyễn Tư Hồng (Chung Phong). Ra trường ông ở trong hàng ngũ quân đội cách mạng Trung Quốc đến thế chiến II. Sau ngày Toàn quốc kháng chiến ông về nước đứng trong hàng ngũ QĐNDVN với quân hàm thiếu tướng, tùng giữ các chức vụ Tư lệnh liên khu V, rồi Tư lệnh kiêm Khu trưởng liên khu IV. Khoảng năm 1951, ông sang phục vụ lại trong hàng ngũ quân giải phóng Trung Quốc, rồi làm việc ở Bộ quốc phòng Trung Hoa với các chức vụ: Cục trưởng Cục điều lệnh, Giám đốc tòa soạn tạp chí Huấn luyện chiến đấu... Sau đó bị bệnh nặng ông trở về Việt Nam. Ông mất năm 1956 tại Hà Nội. Các tác phẩm của ông: Về truyện Kiều, một số bài thơ, bài báo. Sau khi ông mất, nhà thơ Hữu Loan viết bài \"Khóc Nguyễn Sơn hay là một đám tang đi không bao giờ tới huyệt\" về nhà tướng đầy nghệ sĩ tính này."
 }

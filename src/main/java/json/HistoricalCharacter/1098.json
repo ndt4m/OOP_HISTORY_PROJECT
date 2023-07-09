@@ -1,16 +1,20 @@
 {
-  "dateOfBirth" : "Giáp Thân 1824",
-  "dateOfDeath" : "Đinh Hợi 1887",
-  "hometown" : "Quê làng Trung Cần, xa Nam Đồng, huyện Thanh Chương, tỉnh Nghệ An (nay vẫn là tỉnh Nghệ An)",
-  "occupation" : "Danh sĩ đời ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "Giáp Thân 1824",
+  "dateOfDeath": "Đinh Hợi 1887",
+  "hometown": "Quê làng Trung Cần, xa Nam Đồng, huyện Thanh Chương, tỉnh Nghệ An (nay vẫn là tỉnh Nghệ An)",
+  "occupation": "Danh sĩ đời ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 1098,
-  "entityName" : "Nguyễn Đức Đạt",
-  "aliases" : [ "Khoát Như", "Khả A", "Nam Sơn" ],
-  "overview" : "Năm Đinh mùi 1847 ông đỗ cử nhân, Quí sửu 1853 đỗ thám hoa. Sơ bổ vào việc Tập Hiền, kế thăng làm Cấp sự trung. Một thời gian ngắn ông xin cáo quan về phụng dưỡng song thân nhưng không lâu lại được vời ra làm Đốc học tỉnh Nghệ An. Mẹ mất, ông về chịu tang ở nhà dạy học. Quan địa phương tấu về triều, lại vời ông ra làm Phủ học, rồi thăng Án sát Thanh Hóa, Tuẫn phủ tỉnh Hưng Yên. Năm 1864 ông cáo bệnh xin về hưu. Từ đấy chuyên tâm dạy học, soạn sách. Học trò ông thành đạt rất nhiều. Ông mất trong năm Đinh hợi 1887, thọ 63 tuổi. Ông còn để lại các tác phẩm: 1. Nam Sơn song khóa 2. Hồ dạng thi 3. Vịnh sử thi 4. Việt sử thặng bình 5. Cần kiệm vựng biên 6. Khảo cổ ức thuyết 7. Nam Sơn tùy bút 8. Nam Sơn tùng thoại 9. Đăng long văn tuyển 10. Lang trình kỉ thực... là những sách quí trong kho tàng văn hóa dân tộc."
+  "id": 1098,
+  "entityName": "Nguyễn Đức Đạt",
+  "aliases": [
+    "Khoát Như",
+    "Khả A",
+    "Nam Sơn"
+  ],
+  "overview": "Năm Đinh mùi 1847 ông đỗ cử nhân, Quí sửu 1853 đỗ thám hoa. Sơ bổ vào việc Tập Hiền, kế thăng làm Cấp sự trung. Một thời gian ngắn ông xin cáo quan về phụng dưỡng song thân nhưng không lâu lại được vời ra làm Đốc học tỉnh Nghệ An. Mẹ mất, ông về chịu tang ở nhà dạy học. Quan địa phương tấu về triều, lại vời ông ra làm Phủ học, rồi thăng Án sát Thanh Hóa, Tuẫn phủ tỉnh Hưng Yên. Năm 1864 ông cáo bệnh xin về hưu. Từ đấy chuyên tâm dạy học, soạn sách. Học trò ông thành đạt rất nhiều. Ông mất trong năm Đinh hợi 1887, thọ 63 tuổi. Ông còn để lại các tác phẩm: 1. Nam Sơn song khóa 2. Hồ dạng thi 3. Vịnh sử thi 4. Việt sử thặng bình 5. Cần kiệm vựng biên 6. Khảo cổ ức thuyết 7. Nam Sơn tùy bút 8. Nam Sơn tùng thoại 9. Đăng long văn tuyển 10. Lang trình kỉ thực... là những sách quí trong kho tàng văn hóa dân tộc."
 }

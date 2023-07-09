@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê làng Mộ Trạch, huyện Đường Hào, tỉnh Hải Dương",
-  "occupation" : "Danh thủ cờ tướng đời Lê Huyền tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "quê làng Mộ Trạch, huyện Đường Hào, tỉnh Hải Dương",
+  "occupation": "Danh thủ cờ tướng đời Lê Huyền tông",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34
   },
-  "id" : 114,
-  "entityName" : "Vũ Huyên",
-  "aliases" : [ "Trạng Cờ" ],
-  "overview" : "Ông có tiếng Văn chương, lại chuyên về môn đấu cờ tướng không ai hay hơn ông. Có lần, sứ giả Trung Quốc đấu cờ với vua Lê, chính ông cầm lọng đứng hầu bên nhà vua đã mách nước cho nhà vua thắng sứ giả. Nhiều tay cao cờ đến đua tài với ông đều phải phục tài trí ông. Ngoài tài nghệ chơi cờ, ông cũng giỏi về chính trị, làm quan có tiếng thanh liêm. Nhà vua trọng đãi ông, ban cho danh hiệu Đấu kì trạng nguyên (Trạng nguyên đấu cờ). Bấy giờ, trong dân gian có ngạn ngữ truyền tụng: Rượu Hàng Mai, cờ Mộ Trạch là để biếu dương tài đấu cờ của ông."
+  "id": 114,
+  "entityName": "Vũ Huyên",
+  "aliases": [
+    "Trạng Cờ"
+  ],
+  "overview": "Ông có tiếng Văn chương, lại chuyên về môn đấu cờ tướng không ai hay hơn ông. Có lần, sứ giả Trung Quốc đấu cờ với vua Lê, chính ông cầm lọng đứng hầu bên nhà vua đã mách nước cho nhà vua thắng sứ giả. Nhiều tay cao cờ đến đua tài với ông đều phải phục tài trí ông. Ngoài tài nghệ chơi cờ, ông cũng giỏi về chính trị, làm quan có tiếng thanh liêm. Nhà vua trọng đãi ông, ban cho danh hiệu Đấu kì trạng nguyên (Trạng nguyên đấu cờ). Bấy giờ, trong dân gian có ngạn ngữ truyền tụng: Rượu Hàng Mai, cờ Mộ Trạch là để biếu dương tài đấu cờ của ông."
 }

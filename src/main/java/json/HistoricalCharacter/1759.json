@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "nhà Hậu Lê" : null
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "nhà Hậu Lê": null
   },
-  "id" : 1759,
-  "entityName" : "Bùi Bị",
-  "aliases" : [ ],
-  "overview" : "Bùi Bị là công thần khai quốc nhà Hậu Lê trong lịch sử Việt Nam ."
+  "id": 1759,
+  "entityName": "Bùi Bị",
+  "aliases": [],
+  "overview": "Bùi Bị là công thần khai quốc nhà Hậu Lê trong lịch sử Việt Nam ."
 }

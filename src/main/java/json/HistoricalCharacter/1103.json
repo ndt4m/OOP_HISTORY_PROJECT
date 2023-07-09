@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Quí Mùi 1883",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "ở làng Long Châu, tỉnh Vĩnh Long",
-  "occupation" : "Nhà thơ cận đại bút ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "Quí Mùi 1883",
+  "dateOfDeath": "Không rõ",
+  "hometown": "ở làng Long Châu, tỉnh Vĩnh Long",
+  "occupation": "Nhà thơ cận đại bút ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 1103,
-  "entityName" : "Lê Quang Nhơn",
-  "aliases" : [ "Thường Tiên" ],
-  "overview" : "Ông đỗ bằng Thành chung năm 1904, năm sau được bổ làm việc tại tòa Khâm Huế, rồi đổi về tòa Bố Vĩnh Long (1906) sau về làm việc tại Sài Gòn từ năm 1910. Chính từ đây ông giao du với nhiều người có tên tuổi, ông được đời biết đến qua các bài báo, thơ văn, qua các cuộc họp bạn Nam Trung khách sạn và Minh Tân khách sạn là hai cơ sở hoạt động cách mạng do các ông Nguyễn An Khương, Trần Chánh Chiếu, Huỳnh Đình Điển... chủ trương. Ông là cộng tác viên và có thơ đăng trên các báo: Thần Chung, Tân Văn tuần báo, Đông Pháp thời báo, Đồng Nai, Đuốc Nhà Nam... Ông có lòng yêu nước, từng ca ngợi xưng tụng các tổ chức yêu nước trong đó có Thanh niên Tiền phong. Một tổ chức do bác sĩ Phạm Ngọc Thạch làm thủ lãnh. Khi đề cập về Thanh niên Tiền phong ông viết: Dao găm, chiếc nóp, nón, tầm vông, Bốn nón tùy thân với tấm lòng. Kháng chiến đành rằng tài tiểu nhuợc, Thi gan mới rõ mặt anh hùng. Thà liều với nước xông tên đạn, Khỏi thẹn cho thân mắc chậu lồng. Tranh đấu tinh thần lòng sắt đá. Trăm năm chẳng hổ tiếng Tiền phong. Trong thời kháng chiến, ông vẫn giữ vẹn khí tiết, thà mang tiếng \"trùm chăn\", mà không chịu hợp tác với giặc. Vả lại tuổi cao, ông lấy thú văn chương di dưỡng tính tình. Nam Phong thi xã do ông chủ trương được giới trí thức tham gia đông và quí trọng. Ông có bài Xuân cảm chinh phu: Non sông rạng tiếng bốn phương trời, Cờ phất tranh hùng khắp khắp nơi. Tiếng trống khải hoàn mong đón rước, Xuân về với cảnh vật đua tươi. Ông mất tại Sài Gòn trong những năm chiến tranh."
+  "id": 1103,
+  "entityName": "Lê Quang Nhơn",
+  "aliases": [
+    "Thường Tiên"
+  ],
+  "overview": "Ông đỗ bằng Thành chung năm 1904, năm sau được bổ làm việc tại tòa Khâm Huế, rồi đổi về tòa Bố Vĩnh Long (1906) sau về làm việc tại Sài Gòn từ năm 1910. Chính từ đây ông giao du với nhiều người có tên tuổi, ông được đời biết đến qua các bài báo, thơ văn, qua các cuộc họp bạn Nam Trung khách sạn và Minh Tân khách sạn là hai cơ sở hoạt động cách mạng do các ông Nguyễn An Khương, Trần Chánh Chiếu, Huỳnh Đình Điển... chủ trương. Ông là cộng tác viên và có thơ đăng trên các báo: Thần Chung, Tân Văn tuần báo, Đông Pháp thời báo, Đồng Nai, Đuốc Nhà Nam... Ông có lòng yêu nước, từng ca ngợi xưng tụng các tổ chức yêu nước trong đó có Thanh niên Tiền phong. Một tổ chức do bác sĩ Phạm Ngọc Thạch làm thủ lãnh. Khi đề cập về Thanh niên Tiền phong ông viết: Dao găm, chiếc nóp, nón, tầm vông, Bốn nón tùy thân với tấm lòng. Kháng chiến đành rằng tài tiểu nhuợc, Thi gan mới rõ mặt anh hùng. Thà liều với nước xông tên đạn, Khỏi thẹn cho thân mắc chậu lồng. Tranh đấu tinh thần lòng sắt đá. Trăm năm chẳng hổ tiếng Tiền phong. Trong thời kháng chiến, ông vẫn giữ vẹn khí tiết, thà mang tiếng \"trùm chăn\", mà không chịu hợp tác với giặc. Vả lại tuổi cao, ông lấy thú văn chương di dưỡng tính tình. Nam Phong thi xã do ông chủ trương được giới trí thức tham gia đông và quí trọng. Ông có bài Xuân cảm chinh phu: Non sông rạng tiếng bốn phương trời, Cờ phất tranh hùng khắp khắp nơi. Tiếng trống khải hoàn mong đón rước, Xuân về với cảnh vật đua tươi. Ông mất tại Sài Gòn trong những năm chiến tranh."
 }

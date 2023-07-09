@@ -1,20 +1,22 @@
 {
-  "dateOfBirth" : "542",
-  "dateOfDeath" : "557",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Bắc Chu",
-  "workTenure" : "557",
-  "fatherName" : {
-    "Vũ Văn Thái" : 1115
+  "dateOfBirth": "542",
+  "dateOfDeath": "557",
+  "hometown": "Không rõ",
+  "occupation": "Hoàng đế Bắc Chu",
+  "workTenure": "557",
+  "fatherName": {
+    "Vũ Văn Thái": 2392
   },
-  "motherName" : {
-    "Nguyên phu nhân, nguyên là Phùng Dực công chúa của Tây Ngụy" : null
+  "motherName": {
+    "Nguyên phu nhân, nguyên là Phùng Dực công chúa của Tây Ngụy": null
   },
-  "eraName" : {
-    "Bắc Chu" : null
+  "eraName": {
+    "Bắc Chu": null
   },
-  "id" : 1416,
-  "entityName" : "Vũ Văn Giác",
-  "aliases" : [ "Tên thật Vũ Văn Giác (宇文覺)" ],
-  "overview" : "Bắc Chu Hiếu Mẫn Đế (chữ Hán: 北周孝閔帝) (542-557, tại vị: 557) là vị Hoàng đế đầu tiên của nhà Bắc Chu."
+  "id": 1416,
+  "entityName": "Vũ Văn Giác",
+  "aliases": [
+    "Tên thật Vũ Văn Giác (宇文覺)"
+  ],
+  "overview": "Bắc Chu Hiếu Mẫn Đế (chữ Hán: 北周孝閔帝) (542-557, tại vị: 557) là vị Hoàng đế đầu tiên của nhà Bắc Chu."
 }

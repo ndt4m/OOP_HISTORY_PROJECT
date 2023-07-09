@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Bính Thìn 1916",
-  "dateOfDeath" : "Bính Tuất 1946",
-  "hometown" : "Quê xã Phước Lộc, huyện Sơn Tịnh, tỉnh Quảng Ngãi nhập tịch và cư trú tại Thu Xà, huyện Tư Nghĩa, cùng tỉnh",
-  "occupation" : "Nhà thơ bút ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nước Việt Nam mới" : 29
+  "dateOfBirth": "Bính Thìn 1916",
+  "dateOfDeath": "Bính Tuất 1946",
+  "hometown": "Quê xã Phước Lộc, huyện Sơn Tịnh, tỉnh Quảng Ngãi nhập tịch và cư trú tại Thu Xà, huyện Tư Nghĩa, cùng tỉnh",
+  "occupation": "Nhà thơ bút ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nước Việt Nam mới": 29
   },
-  "id" : 3097,
-  "entityName" : "Lê Quang Lương",
-  "aliases" : [ "Bích Khê" ],
-  "overview" : "Thân phụ ông mất sớm (1923), nhờ mẹ là Phạm Thị Đoan (dòng dõi Quốc công Phạm Đăng Hưng, cháu cố, gọi Từ Dũ Thái hậu bằng Bà tổ cô) và chị ruột là Lê Thị Ngọc Sương chăm sóc, ông học hành đỗ đạt nên danh. Ông mở trường tư ở Phan Thiết, làm thơ gởi đăng ở các báo Tiếng Dân, Tiểu thuyết thứ năm, Người Mới, kí bút hiệu Bích Khê hoặc Lê Mộng Thu. Khoảng năm 1939 ông xuất bản tập thơ Tinh huyết. Các bài thơ do ông làm về sau, gom lại trong mấy tập: Tinh hoa, Mấy dòng thơ cũ (gần trăm bài thơ Đường luật) chưa xuất bản. Năm Bính tuất, rằm tháng Chạp ông mất, hưởng dương 30 tuổi. Bích Khê là một nhà thơ thuộc trường phái Tượng trưng của nền thơ ca hiện đại Việt Nam. Nhà thơ Quách Tấn có viết tập Đời Bích Khê để lưu niệm về ông và bài thơ điếu: Ngắm vọi trời Thiên Ấn, Cố nhơn ơi! Cố nhơn! Bóng theo Hàn Mặc Tử Tâm gởi Ngũ Hành sơn, Danh vọng đài mây vút, Anh hoa biển sóng dờn. Đã hay nghìn tuổi thọ, Thương nhớ lụy đòi cơn."
+  "id": 3097,
+  "entityName": "Lê Quang Lương",
+  "aliases": [
+    "Bích Khê"
+  ],
+  "overview": "Thân phụ ông mất sớm (1923), nhờ mẹ là Phạm Thị Đoan (dòng dõi Quốc công Phạm Đăng Hưng, cháu cố, gọi Từ Dũ Thái hậu bằng Bà tổ cô) và chị ruột là Lê Thị Ngọc Sương chăm sóc, ông học hành đỗ đạt nên danh. Ông mở trường tư ở Phan Thiết, làm thơ gởi đăng ở các báo Tiếng Dân, Tiểu thuyết thứ năm, Người Mới, kí bút hiệu Bích Khê hoặc Lê Mộng Thu. Khoảng năm 1939 ông xuất bản tập thơ Tinh huyết. Các bài thơ do ông làm về sau, gom lại trong mấy tập: Tinh hoa, Mấy dòng thơ cũ (gần trăm bài thơ Đường luật) chưa xuất bản. Năm Bính tuất, rằm tháng Chạp ông mất, hưởng dương 30 tuổi. Bích Khê là một nhà thơ thuộc trường phái Tượng trưng của nền thơ ca hiện đại Việt Nam. Nhà thơ Quách Tấn có viết tập Đời Bích Khê để lưu niệm về ông và bài thơ điếu: Ngắm vọi trời Thiên Ấn, Cố nhơn ơi! Cố nhơn! Bóng theo Hàn Mặc Tử Tâm gởi Ngũ Hành sơn, Danh vọng đài mây vút, Anh hoa biển sóng dờn. Đã hay nghìn tuổi thọ, Thương nhớ lụy đòi cơn."
 }

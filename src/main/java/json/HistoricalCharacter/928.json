@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Nhâm Ngọ 1462",
-  "dateOfDeath" : "Kỉ Sửu 1529",
-  "hometown" : "quê phường Đông Ngạc, huyện Từ Liêm, tỉnh Hà Đông (nay là Hà Nội), về sau dời sang xã Dương Hối, huyện Yên Lăng, tỉnh Vĩnh Yên (nay thuộc tỉnh Vĩnh Phú)",
-  "occupation" : "Danh sĩ đời vua Lê Uy Mục",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Triều Lê Sơ" : 7
+  "dateOfBirth": "Nhâm Ngọ 1462",
+  "dateOfDeath": "Kỉ Sửu 1529",
+  "hometown": "quê phường Đông Ngạc, huyện Từ Liêm, tỉnh Hà Đông (nay là Hà Nội), về sau dời sang xã Dương Hối, huyện Yên Lăng, tỉnh Vĩnh Yên (nay thuộc tỉnh Vĩnh Phú)",
+  "occupation": "Danh sĩ đời vua Lê Uy Mục",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Triều Lê Sơ": 7
   },
-  "id" : 928,
-  "entityName" : "Lê Đức Mao",
-  "aliases" : [ ],
-  "overview" : "Năm Giáp tí 1504 ông đỗ hương cống, năm sau đỗ tiến sĩ. Ông nổi tiếng văn chương, thơ văn ông nặng phần trào lộng, châm biếm. Với ngôn ngữ sắc bén khiến bọn cầm quyền đương thời oán ghét. Còn truyền tụng Bài hát chúc làng, 128 vế gồm 9 đoạn, để ả đào hát vào ngày xuân tế thần cầu phúc (quyển Thi văn Việt Nam của Hoàng Xuân Hãn trích 3 đoạn có chú thích và biện minh đại ý, tr. 91-97). Năm Kỉ sửu 1529, ông mất, thọ 67 tuổi."
+  "id": 928,
+  "entityName": "Lê Đức Mao",
+  "aliases": [],
+  "overview": "Năm Giáp tí 1504 ông đỗ hương cống, năm sau đỗ tiến sĩ. Ông nổi tiếng văn chương, thơ văn ông nặng phần trào lộng, châm biếm. Với ngôn ngữ sắc bén khiến bọn cầm quyền đương thời oán ghét. Còn truyền tụng Bài hát chúc làng, 128 vế gồm 9 đoạn, để ả đào hát vào ngày xuân tế thần cầu phúc (quyển Thi văn Việt Nam của Hoàng Xuân Hãn trích 3 đoạn có chú thích và biện minh đại ý, tr. 91-97). Năm Kỉ sửu 1529, ông mất, thọ 67 tuổi."
 }

@@ -1,18 +1,20 @@
 {
-  "dateOfBirth" : "Quí Mão 1903",
-  "dateOfDeath" : "Canh Ngọ 1930",
-  "hometown" : "quê làng Thịnh Hào (Đại Li) cách Hà Nội độ một cây số (nằm phía sau đường Hàng Bột)",
-  "occupation" : "Nữ liệt sĩ cận đại, tên riêng là Chuyên, con thứ ba của chí sĩ Đỗ Văn Viêm",
-  "workTenure" : "Không rõ",
-  "fatherName" : {
-    "chí sĩ Đỗ Văn Viêm" : null
+  "dateOfBirth": "Quí Mão 1903",
+  "dateOfDeath": "Canh Ngọ 1930",
+  "hometown": "quê làng Thịnh Hào (Đại Li) cách Hà Nội độ một cây số (nằm phía sau đường Hàng Bột)",
+  "occupation": "Nữ liệt sĩ cận đại, tên riêng là Chuyên, con thứ ba của chí sĩ Đỗ Văn Viêm",
+  "workTenure": "Không rõ",
+  "fatherName": {
+    "chí sĩ Đỗ Văn Viêm": null
   },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 1258,
-  "entityName" : "Đỗ Thị Tâm",
-  "aliases" : [ "Đỗ Chân Thiết" ],
-  "overview" : "Cô gia nhập Việt Nam Quốc dân đảng lãnh trách nhiệm tuyên truyên và mang truyền đơn phổ biến nhiều nơi. Tháng 3 năm 1930, cô bị bắt trong khi rải truyền đơn sau Giám, chịu cực hình tra tấn, nhưng vẫn một mực không khai. Cuối cùng cô xé vải yếm nhét dần vào họng, cho đến khi nghẹt thở mà chết, mới 27 tuổi."
+  "id": 1258,
+  "entityName": "Đỗ Thị Tâm",
+  "aliases": [
+    "Đỗ Chân Thiết"
+  ],
+  "overview": "Cô gia nhập Việt Nam Quốc dân đảng lãnh trách nhiệm tuyên truyên và mang truyền đơn phổ biến nhiều nơi. Tháng 3 năm 1930, cô bị bắt trong khi rải truyền đơn sau Giám, chịu cực hình tra tấn, nhưng vẫn một mực không khai. Cuối cùng cô xé vải yếm nhét dần vào họng, cho đến khi nghẹt thở mà chết, mới 27 tuổi."
 }

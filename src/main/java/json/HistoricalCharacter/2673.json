@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "nhà Nguyên" : null
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "nhà Nguyên": null
   },
-  "id" : 2673,
-  "entityName" : "Trương Văn Hổ",
-  "aliases" : [ ],
-  "overview" : "Trương Văn Hổ (giản thể: 张文虎; phồn thể: 張文虎; bính âm: Zhāng Wénhǔ; ?-?) là một tướng người Hán của nhà Nguyên. Ông từng cầm đầu nhóm cướp biển hoạt động tại vùng Phúc Kiến và Quảng Đông. Sau đó, ông đầu hàng nhà Nguyên, được phong tước Vạn hộ, trở thành tướng thủy binh."
+  "id": 2673,
+  "entityName": "Trương Văn Hổ",
+  "aliases": [],
+  "overview": "Trương Văn Hổ (giản thể: 张文虎; phồn thể: 張文虎; bính âm: Zhāng Wénhǔ; ?-?) là một tướng người Hán của nhà Nguyên. Ông từng cầm đầu nhóm cướp biển hoạt động tại vùng Phúc Kiến và Quảng Đông. Sau đó, ông đầu hàng nhà Nguyên, được phong tước Vạn hộ, trở thành tướng thủy binh."
 }

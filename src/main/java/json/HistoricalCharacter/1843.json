@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Bắc Ninh",
-  "occupation" : "Cao tăng triều Minh Mạng, không rõ họ tên, năm sinh và năm mất",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Bắc Ninh",
+  "occupation": "Cao tăng triều Minh Mạng, không rõ họ tên, năm sinh và năm mất",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 1843,
-  "entityName" : "An Thiền",
-  "aliases" : [ ],
-  "overview" : "Ông tu hành tinh tiến, tinh thông giáo lí nhà Phật, đương thời được nhiều người trọng vọng và được liệt vào hàng đại sư Khoảng năm Minh Mạng 6 (Ất dậu 1825), ông soạn bộ sách Đạo giáo nguyên lưu, 3 quyển được ấn hành. Đạo giáo nguyên lưu (3 quyển) được ấn hành trong đời vua Thiệu Trị (1840- 1847) ở Bắc Ninh. Người đề tựa là Nguyễn Đại Phương, viết năm 1845. Quyển I nói về đạo Phật, gồm những mục: 1. Phụng chiếu cầu pháp: Nói về việc du học của thiền sư Tính Truyền Trạm Công. 2. Bản quốc Thiền môn kinh bản: Các bản kinh khắc in ở Việt Nam. 3. Đại Nam thiền học sơ khởi: Khởi thủy thiền học ở Việt Nam. 4. Đại Nam Phật tháp: Các tháp ở Việt Nam. 5. Vô Ngôn Thông truyền pháp: Thiền pháo vô Ngôn Thông. 6. Danh chấn triều đình: Các cao tăng nổi tiếng ở triều đình. 7. Lê triều danh đức: Các cao tăng đời tiền Lê. 8. Lý triều danh đúc: Các cao tăng đời Lý. 9. Trần triều danh đức: Các cao tăng đời Trần. 10. Tì Ni Đa Lưu Chi truyền pháp: Thiền phái Tì Ni Đa Lưu Chi. 11. Tuyết đậu truyền pháp: Thiền pháp Thảo Đường. 12. Những việc thần bí liên quan đến các thiền sư Việt Nam qua các triều đại. 13. Danh từ Phật học và các thần thoại Phật giáo ở Trung Hoa và Việt Nam. Riêng quyển thứ hai và thứ ba viết về Khổng giáo và Lão giáo."
+  "id": 1843,
+  "entityName": "An Thiền",
+  "aliases": [],
+  "overview": "Ông tu hành tinh tiến, tinh thông giáo lí nhà Phật, đương thời được nhiều người trọng vọng và được liệt vào hàng đại sư Khoảng năm Minh Mạng 6 (Ất dậu 1825), ông soạn bộ sách Đạo giáo nguyên lưu, 3 quyển được ấn hành. Đạo giáo nguyên lưu (3 quyển) được ấn hành trong đời vua Thiệu Trị (1840- 1847) ở Bắc Ninh. Người đề tựa là Nguyễn Đại Phương, viết năm 1845. Quyển I nói về đạo Phật, gồm những mục: 1. Phụng chiếu cầu pháp: Nói về việc du học của thiền sư Tính Truyền Trạm Công. 2. Bản quốc Thiền môn kinh bản: Các bản kinh khắc in ở Việt Nam. 3. Đại Nam thiền học sơ khởi: Khởi thủy thiền học ở Việt Nam. 4. Đại Nam Phật tháp: Các tháp ở Việt Nam. 5. Vô Ngôn Thông truyền pháp: Thiền pháo vô Ngôn Thông. 6. Danh chấn triều đình: Các cao tăng nổi tiếng ở triều đình. 7. Lê triều danh đức: Các cao tăng đời tiền Lê. 8. Lý triều danh đúc: Các cao tăng đời Lý. 9. Trần triều danh đức: Các cao tăng đời Trần. 10. Tì Ni Đa Lưu Chi truyền pháp: Thiền phái Tì Ni Đa Lưu Chi. 11. Tuyết đậu truyền pháp: Thiền pháp Thảo Đường. 12. Những việc thần bí liên quan đến các thiền sư Việt Nam qua các triều đại. 13. Danh từ Phật học và các thần thoại Phật giáo ở Trung Hoa và Việt Nam. Riêng quyển thứ hai và thứ ba viết về Khổng giáo và Lão giáo."
 }

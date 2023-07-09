@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Tân Dậu 1921",
-  "hometown" : "Quê làng Đông Thái, huyện La Sơn, tỉnh Hà Tĩnh",
-  "occupation" : "Con út Phan Đình Phùng",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "…",
+  "dateOfDeath": "Tân Dậu 1921",
+  "hometown": "Quê làng Đông Thái, huyện La Sơn, tỉnh Hà Tĩnh",
+  "occupation": "Con út Phan Đình Phùng",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 518,
-  "entityName" : "Phan Đình Cừ",
-  "aliases" : [ "Phan Bá Ngọc" ],
-  "overview" : "Năm Bính thân 1896, học ở Nhật ít lâu, ông sang Trung Quốc. Tại Hàng Châu, ông vẫn thường liên lạc với các chiến sĩ lão thành: Phan Bội Châu, Nguyễn Thượng Hiền. Về sau, Phan bị giặc Pháp và tay sai mua chuộc đến nỗi thân bại danh liệt. Những hành vi mờ ám của Phan khiến các nhà hoạt động cách mạng nghi ngờ không tín nhiệm nữa. Năm Tân dậu 1921, khoảng tháng giêng âm lịch, Phan bị Võ Tân Anh tức Lê Văn Phan bắn chết tại Hàng Châu vì tội làm mật thám cho Pháp."
+  "id": 518,
+  "entityName": "Phan Đình Cừ",
+  "aliases": [
+    "Phan Bá Ngọc"
+  ],
+  "overview": "Năm Bính thân 1896, học ở Nhật ít lâu, ông sang Trung Quốc. Tại Hàng Châu, ông vẫn thường liên lạc với các chiến sĩ lão thành: Phan Bội Châu, Nguyễn Thượng Hiền. Về sau, Phan bị giặc Pháp và tay sai mua chuộc đến nỗi thân bại danh liệt. Những hành vi mờ ám của Phan khiến các nhà hoạt động cách mạng nghi ngờ không tín nhiệm nữa. Năm Tân dậu 1921, khoảng tháng giêng âm lịch, Phan bị Võ Tân Anh tức Lê Văn Phan bắn chết tại Hàng Châu vì tội làm mật thám cho Pháp."
 }

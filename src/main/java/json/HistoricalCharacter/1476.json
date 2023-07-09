@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Giáp Ngọ 1714",
-  "dateOfDeath" : "Kỉ Sửu 1765",
-  "hometown" : "Không rõ",
-  "occupation" : "Ông là vị chúa thứ 8, thời Nguyễn khai sáng, con đầu của Túc tông, sinh năm Giáp ngọ đời vua Vĩnh Thịnh Lê Dụ tông (1714), lúc chưa lên ngôi được phong Chưởng dinh Tiền thủy.",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
+  "dateOfBirth": "Giáp Ngọ 1714",
+  "dateOfDeath": "Kỉ Sửu 1765",
+  "hometown": "Không rõ",
+  "occupation": "Ông là vị chúa thứ 8, thời Nguyễn khai sáng, con đầu của Túc tông, sinh năm Giáp ngọ đời vua Vĩnh Thịnh Lê Dụ tông (1714), lúc chưa lên ngôi được phong Chưởng dinh Tiền thủy.",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34
   },
-  "id" : 1476,
-  "entityName" : "Nguyễn Phúc Khoát",
-  "aliases" : [ "Võ Vương" ],
-  "overview" : "Vũ Vương (chữ Hán: 武王) hay Võ Vương, là thụy hiệu của một số vị quân chủ.\n----------------------------------------------\nNăm Mậu ngọ 1738 ông nối ngôi chúa được các quan triều tôn làm Thái bảo, Hiền Quận Công, hiệu là Từ tế Đạo nhân, đương thời gọi là Võ vương. Ông thông minh, cương nghị, cả quyết, việc gì đã làm thì nhất quyết làm cho bằng được, nên đôi khi đến tàn nhẫn. Trong đời ông khéo xử sự với Xiêm La (Thái Lan) Chân Lạp, và đã mở rộng đất đai đến toàn vùng đất Nam Bộ ngày nay. Trong đời mình, ông được nhiều nhân tài phù tá, nhất là Nguyễn Cư Trinh nhờ đó việc nội trị, ngoại giao đều tốt đẹp. Năm Cảnh Hưng thứ 26 (1765) ông mất, hưởng dương 52 tuổi ở ngôi được 27 năm, được truy tôn là Thế tông Hiếu võ Hoàng đế, an táng ở núi La Khê (tỉnh Thừa Thiên), lăng gọi là Trưởng Thái, vợ được truy tôn là Võ Hoàng hậu, lăng gọi là Vĩnh Thái."
+  "id": 1476,
+  "entityName": "Nguyễn Phúc Khoát",
+  "aliases": [
+    "Võ Vương"
+  ],
+  "overview": "Vũ Vương (chữ Hán: 武王) hay Võ Vương, là thụy hiệu của một số vị quân chủ.\n----------------------------------------------\nNăm Mậu ngọ 1738 ông nối ngôi chúa được các quan triều tôn làm Thái bảo, Hiền Quận Công, hiệu là Từ tế Đạo nhân, đương thời gọi là Võ vương. Ông thông minh, cương nghị, cả quyết, việc gì đã làm thì nhất quyết làm cho bằng được, nên đôi khi đến tàn nhẫn. Trong đời ông khéo xử sự với Xiêm La (Thái Lan) Chân Lạp, và đã mở rộng đất đai đến toàn vùng đất Nam Bộ ngày nay. Trong đời mình, ông được nhiều nhân tài phù tá, nhất là Nguyễn Cư Trinh nhờ đó việc nội trị, ngoại giao đều tốt đẹp. Năm Cảnh Hưng thứ 26 (1765) ông mất, hưởng dương 52 tuổi ở ngôi được 27 năm, được truy tôn là Thế tông Hiếu võ Hoàng đế, an táng ở núi La Khê (tỉnh Thừa Thiên), lăng gọi là Trưởng Thái, vợ được truy tôn là Võ Hoàng hậu, lăng gọi là Vĩnh Thái."
 }

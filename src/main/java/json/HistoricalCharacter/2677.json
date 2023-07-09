@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "nhà Hậu Lê" : null
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "nhà Hậu Lê": null
   },
-  "id" : 2677,
-  "entityName" : "Lê Sơ",
-  "aliases" : [ ],
-  "overview" : "Nhà Lê sơ hay Lê sơ triều (chữ Nôm: 家黎初 chữ Hán: 黎初朝), đôi khi gọi là nhà Hậu Lê (後黎朝), là giai đoạn đầu của triều đại quân chủ nhà Hậu Lê. Đây là thời kỳ mà chế độ quân chủ chuyên chế tập quyền trong lịch sử Việt Nam lần đầu tiên đạt đến đỉnh cao của sự phát triển cũng như suy thoái của nó. Nhà Lê sơ được thành lập sau khi Lê Lợi phát động Khởi nghĩa Lam Sơn đánh bại nhà Minh. Ông đổi tên Giao Chỉ (交阯), vốn tồn tại trong thời gian nội thuộc nhà Minh, trở về Đại Việt (大越), quốc hiệu có từ đời Lý Thánh Tông."
+  "id": 2677,
+  "entityName": "Lê Sơ",
+  "aliases": [],
+  "overview": "Nhà Lê sơ hay Lê sơ triều (chữ Nôm: 家黎初 chữ Hán: 黎初朝), đôi khi gọi là nhà Hậu Lê (後黎朝), là giai đoạn đầu của triều đại quân chủ nhà Hậu Lê. Đây là thời kỳ mà chế độ quân chủ chuyên chế tập quyền trong lịch sử Việt Nam lần đầu tiên đạt đến đỉnh cao của sự phát triển cũng như suy thoái của nó. Nhà Lê sơ được thành lập sau khi Lê Lợi phát động Khởi nghĩa Lam Sơn đánh bại nhà Minh. Ông đổi tên Giao Chỉ (交阯), vốn tồn tại trong thời gian nội thuộc nhà Minh, trở về Đại Việt (大越), quốc hiệu có từ đời Lý Thánh Tông."
 }

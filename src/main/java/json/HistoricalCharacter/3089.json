@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Tân Tị 1881",
-  "dateOfDeath" : "Mậu Thân 1908",
-  "hometown" : "Quê làng Trường An, huyện Tam Kì, tỉnh Quảng Nam, nay là xã Tam Xuân, huyện Núi Thành, tỉnh Quảng Nam",
-  "occupation" : "Chí sĩ cận đại",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "Tân Tị 1881",
+  "dateOfDeath": "Mậu Thân 1908",
+  "hometown": "Quê làng Trường An, huyện Tam Kì, tỉnh Quảng Nam, nay là xã Tam Xuân, huyện Núi Thành, tỉnh Quảng Nam",
+  "occupation": "Chí sĩ cận đại",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 3089,
-  "entityName" : "Dương Đình Thạc",
-  "aliases" : [ "Dương Thạc" ],
-  "overview" : "Ông và anh ruột là Dương Thưởng tính khảng khái, nhiệt tình yêu nước, thường chống đối bọn cường hào ác bá ở nông thôn và quan lại bán nước. Nhân vụ kháng thuế năm Mậu thân 1908, ông bị bắt đày đi Côn Đảo, người anh bị đày Lao Bảo, vì cả hai anh em ông đều là những người trong nhóm lănh đạo phong trào Duy tân hồi 1908. Ông bệnh nặng và chết ngoài đảo ngay năm đó. Trước khi mất ông có làm bài thơ: \"Nhất trích diêu diêu cô đảo trung, Khả liên Nam Bắc bịnh tương đồng. Viêm bang văn hiến khan do tạc, Âu hóa phong trào vị tấu công. Thủy quốc đào thinh tao mộng điệp, Cố san vân ý luyến chinh hồng. Tọa giang mạc sái Tân đình lệ, Đa khủng Côn Lôn hải nhiễm hồng. Bản dịch: Hòn đảo mồ côi giũa cõi cùng Đày ra, Nam Bắc kiếp tù chung. Nước nhà văn hiến còn in cũ, Âu hóa phong trào chửa trót công. Tiếng sóng góc trời rầy giấc điệp, Luồng mây núi cũ mến chim hồng. Thôi đừng rưới lệ Tân đình nữa, E nhuộm Côn Lôn nước biên hồng."
+  "id": 3089,
+  "entityName": "Dương Đình Thạc",
+  "aliases": [
+    "Dương Thạc"
+  ],
+  "overview": "Ông và anh ruột là Dương Thưởng tính khảng khái, nhiệt tình yêu nước, thường chống đối bọn cường hào ác bá ở nông thôn và quan lại bán nước. Nhân vụ kháng thuế năm Mậu thân 1908, ông bị bắt đày đi Côn Đảo, người anh bị đày Lao Bảo, vì cả hai anh em ông đều là những người trong nhóm lănh đạo phong trào Duy tân hồi 1908. Ông bệnh nặng và chết ngoài đảo ngay năm đó. Trước khi mất ông có làm bài thơ: \"Nhất trích diêu diêu cô đảo trung, Khả liên Nam Bắc bịnh tương đồng. Viêm bang văn hiến khan do tạc, Âu hóa phong trào vị tấu công. Thủy quốc đào thinh tao mộng điệp, Cố san vân ý luyến chinh hồng. Tọa giang mạc sái Tân đình lệ, Đa khủng Côn Lôn hải nhiễm hồng. Bản dịch: Hòn đảo mồ côi giũa cõi cùng Đày ra, Nam Bắc kiếp tù chung. Nước nhà văn hiến còn in cũ, Âu hóa phong trào chửa trót công. Tiếng sóng góc trời rầy giấc điệp, Luồng mây núi cũ mến chim hồng. Thôi đừng rưới lệ Tân đình nữa, E nhuộm Côn Lôn nước biên hồng."
 }

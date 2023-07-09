@@ -1,17 +1,20 @@
 {
-  "dateOfBirth" : "Giáp Thân 1884",
-  "dateOfDeath" : "Ất Tị 1965",
-  "hometown" : "Quê làng Đông Chữ, huyện Nghi Lộc, tỉnh Nghệ An",
-  "occupation" : "Chí sĩ cận đạị",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+  "dateOfBirth": "Giáp Thân 1884",
+  "dateOfDeath": "Ất Tị 1965",
+  "hometown": "Quê làng Đông Chữ, huyện Nghi Lộc, tỉnh Nghệ An",
+  "occupation": "Chí sĩ cận đạị",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11,
+    "Nước Việt Nam mới": 29
   },
-  "id" : 2936,
-  "entityName" : "Nguyễn Thức Canh",
-  "aliases" : [ "Trần Hữu Công", "Trần Trọng Khắc" ],
-  "overview" : "Ông xuất thân trong một gia đình khoa bảng lâu đời, lúc nhỏ theo học khoa cử, năm 1900 thi Hương đậu Tam trường, nhưng vì ngoại hàm (nộp bài trễ) phải hỏng. Từ đó ông bỏ luôn cái học cử nghiệp. Năm 1905 cùng em là Nguyễn Thức Đường (tức Trần Hữu Lực) sang Băng Cốc (Thái Lan) tham gia phong trào Đông du với Phan Bội Châu rồi thẳng đường sang Nhật Bản. ở đây ông gặp các nhà cách mạng Trung Quốc và các nhà yêu nước Việt Nam như Tăng Bạt Hổ, Lương Ngọc Quyến, Nguyễn Thượng Hiền, Phan Châu Trinh. Năm 1907 ông vào học trường lục quân Chấn Võ, đến năm 1908 thực dân Pháp câu kết với chính phủ Nhật Bản trục xuất du học sinh và các nhà yêu nước Việt Nam ra khỏi đất Nhật. Một số phải qua Trung Quốc, Thái Lan lánh nạn. Từ đó ông được Phan Bội Châu cho cái tên họ thành Trần Hữu Công giả làm người Trung Quốc để thi vào học trường Cao Đẳng sư phạm Đông Kinh. Tốt nghiệp ông lui về Trung Quốc ngụ tại Côn Minh, Hàng Châu cộng tác với tờ tạp chí Quân sự của Lục quân Trung Quốc. Năm 1923 ông qua Đức du học. Tại đây ông học tại trường Y khoa Berlin, năm 1930 tốt nghiệp Y khoa Bác sĩ với luận án Bệnh tạng khí chung của nhân loại hiện thời. (Die Neute Bekannten Eigemeide Wurmer Des Menschen) với tên Trần Trọng Khắc. Luận ân được Hội đồng giám khảo khen tặng. Trong thời gian lưu học tại Đức, ông vẫn liên lạc mật thiết với các nhà yêu nước khác tại nước ngoài nhất là Phan Bội Châu. Năm 1931 ông vềTrung Quốc hành nghề tại các bệnh viện lớn ở Quảng Châu, phục vụ khoa học và tham gia vào cuộc kháng chiến chống Nhật ở Trung Quốc. Khoảng 1941 ông sống ở Hồng Kông một thời gian. Năm 1958 ông về nước sống với con trai là Nguyễn Thức Mẫn. Ông mất tại Nha Trang ngày 11-8-1965, thọ 81 tuổi."
+  "id": 2936,
+  "entityName": "Nguyễn Thức Canh",
+  "aliases": [
+    "Trần Hữu Công",
+    "Trần Trọng Khắc"
+  ],
+  "overview": "Ông xuất thân trong một gia đình khoa bảng lâu đời, lúc nhỏ theo học khoa cử, năm 1900 thi Hương đậu Tam trường, nhưng vì ngoại hàm (nộp bài trễ) phải hỏng. Từ đó ông bỏ luôn cái học cử nghiệp. Năm 1905 cùng em là Nguyễn Thức Đường (tức Trần Hữu Lực) sang Băng Cốc (Thái Lan) tham gia phong trào Đông du với Phan Bội Châu rồi thẳng đường sang Nhật Bản. ở đây ông gặp các nhà cách mạng Trung Quốc và các nhà yêu nước Việt Nam như Tăng Bạt Hổ, Lương Ngọc Quyến, Nguyễn Thượng Hiền, Phan Châu Trinh. Năm 1907 ông vào học trường lục quân Chấn Võ, đến năm 1908 thực dân Pháp câu kết với chính phủ Nhật Bản trục xuất du học sinh và các nhà yêu nước Việt Nam ra khỏi đất Nhật. Một số phải qua Trung Quốc, Thái Lan lánh nạn. Từ đó ông được Phan Bội Châu cho cái tên họ thành Trần Hữu Công giả làm người Trung Quốc để thi vào học trường Cao Đẳng sư phạm Đông Kinh. Tốt nghiệp ông lui về Trung Quốc ngụ tại Côn Minh, Hàng Châu cộng tác với tờ tạp chí Quân sự của Lục quân Trung Quốc. Năm 1923 ông qua Đức du học. Tại đây ông học tại trường Y khoa Berlin, năm 1930 tốt nghiệp Y khoa Bác sĩ với luận án Bệnh tạng khí chung của nhân loại hiện thời. (Die Neute Bekannten Eigemeide Wurmer Des Menschen) với tên Trần Trọng Khắc. Luận ân được Hội đồng giám khảo khen tặng. Trong thời gian lưu học tại Đức, ông vẫn liên lạc mật thiết với các nhà yêu nước khác tại nước ngoài nhất là Phan Bội Châu. Năm 1931 ông vềTrung Quốc hành nghề tại các bệnh viện lớn ở Quảng Châu, phục vụ khoa học và tham gia vào cuộc kháng chiến chống Nhật ở Trung Quốc. Khoảng 1941 ông sống ở Hồng Kông một thời gian. Năm 1958 ông về nước sống với con trai là Nguyễn Thức Mẫn. Ông mất tại Nha Trang ngày 11-8-1965, thọ 81 tuổi."
 }

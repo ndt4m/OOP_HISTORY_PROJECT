@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê làng Phúc Thái, huyện Bạch Hạc, tỉnh Phú Thọ",
-  "occupation" : "Văn thần đời Lê Thánh tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Triều Lê Sơ" : 7
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "quê làng Phúc Thái, huyện Bạch Hạc, tỉnh Phú Thọ",
+  "occupation": "Văn thần đời Lê Thánh tông",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Triều Lê Sơ": 7
   },
-  "id" : 479,
-  "entityName" : "Lưu Túc",
-  "aliases" : [ ],
-  "overview" : "Năm Đinh mùi 1487, ông đỗ đồng tiến sĩ làm đến Thượng thư, ông là người có khí tiết thanh cần, liêm chính. Năm Đinh hợi 1527, Mạc Đăng Dung tiếm ngôi. Ông không khuất phục lánh mình ở ẩn, được người đương thời khen ngợi là bậc tiết nghĩa."
+  "id": 479,
+  "entityName": "Lưu Túc",
+  "aliases": [],
+  "overview": "Năm Đinh mùi 1487, ông đỗ đồng tiến sĩ làm đến Thượng thư, ông là người có khí tiết thanh cần, liêm chính. Năm Đinh hợi 1527, Mạc Đăng Dung tiếm ngôi. Ông không khuất phục lánh mình ở ẩn, được người đương thời khen ngợi là bậc tiết nghĩa."
 }

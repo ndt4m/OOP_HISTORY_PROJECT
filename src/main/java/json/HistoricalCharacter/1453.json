@@ -1,18 +1,21 @@
 {
-  "dateOfBirth" : "?, Hoa Lư, Ninh Bình",
-  "dateOfDeath" : "?",
-  "hometown" : "Không rõ",
-  "occupation" : "Định Phiên Vương",
-  "workTenure" : "993 - 1009",
-  "fatherName" : {
-    "Lê Đại Hành" : 2974
+  "dateOfBirth": "?, Hoa Lư, Ninh Bình",
+  "dateOfDeath": "?",
+  "hometown": "Không rõ",
+  "occupation": "Định Phiên Vương",
+  "workTenure": "993 - 1009",
+  "fatherName": {
+    "Lê Đại Hành": 328
   },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Tiền Lê" : 8
+  "motherName": {},
+  "eraName": {
+    "Nhà Tiền Lê": 8
   },
-  "id" : 1453,
-  "entityName" : "Lê Long Tung",
-  "aliases" : [ "Định Phiên Vương", "Lê Long Tung" ],
-  "overview" : "Lê Long Tung (chữ Hán: 黎龍鏦) là một hoàng tử của nhà Tiền Lê trong lịch sử Việt Nam. Ông là con trai thứ 7 của Vua Lê Đại Hành. Sinh tại kinh đô Hoa Lư, Ninh Bình, Việt Nam. Ông được vua phong tước Định Phiên Vương (定藩王), đóng tại Tư Doanh, tức vùng đất thuộc Cổ Loa Hà Nội ngày nay. Căn cứ vào năm sinh người con trai thứ năm của vua Lê Đại Hành (986) và năm phong vương thì năm sinh của ông nằm trong khoảng từ 986 đến 993."
+  "id": 1453,
+  "entityName": "Lê Long Tung",
+  "aliases": [
+    "Định Phiên Vương",
+    "Lê Long Tung"
+  ],
+  "overview": "Lê Long Tung (chữ Hán: 黎龍鏦) là một hoàng tử của nhà Tiền Lê trong lịch sử Việt Nam. Ông là con trai thứ 7 của Vua Lê Đại Hành. Sinh tại kinh đô Hoa Lư, Ninh Bình, Việt Nam. Ông được vua phong tước Định Phiên Vương (定藩王), đóng tại Tư Doanh, tức vùng đất thuộc Cổ Loa Hà Nội ngày nay. Căn cứ vào năm sinh người con trai thứ năm của vua Lê Đại Hành (986) và năm phong vương thì năm sinh của ông nằm trong khoảng từ 986 đến 993."
 }

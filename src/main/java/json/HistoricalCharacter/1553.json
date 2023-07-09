@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Chí sĩ cận đại",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Chí sĩ cận đại",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 1553,
-  "entityName" : "Dương Công Hoan",
-  "aliases" : [ ],
-  "overview" : "Khi vua Thành Thái định xuất dương với ý định vận động cứu nước như Kì Ngoại Hầu Cường Để, chính ông đã cùng Nguyễn Dư và Hường Kiểm theo ủng hộ.. Nhưng vừa đến Thanh Hóa thì việc bại lộ. Ông bị bắt đày đi Côn Đảo, còn hai người kia bị đày Lao Bảo. Về phần vua Thành Thái, (theo lệnh Toàn quyền Đông Dương và Khâm sứ Levecque) bị phát vãng ở Vũng Tàu, rồi đày sang đảo Réunion (ở Châu Phi)."
+  "id": 1553,
+  "entityName": "Dương Công Hoan",
+  "aliases": [],
+  "overview": "Khi vua Thành Thái định xuất dương với ý định vận động cứu nước như Kì Ngoại Hầu Cường Để, chính ông đã cùng Nguyễn Dư và Hường Kiểm theo ủng hộ.. Nhưng vừa đến Thanh Hóa thì việc bại lộ. Ông bị bắt đày đi Côn Đảo, còn hai người kia bị đày Lao Bảo. Về phần vua Thành Thái, (theo lệnh Toàn quyền Đông Dương và Khâm sứ Levecque) bị phát vãng ở Vũng Tàu, rồi đày sang đảo Réunion (ở Châu Phi)."
 }

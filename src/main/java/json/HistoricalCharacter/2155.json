@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Canh Tí 1600",
-  "dateOfDeath" : "Tân Sửu 1661",
-  "hometown" : "quê làng Quất Động, huyện Thường Phúc, tỉnh Hà Đông (nay là Hà Tây) nguời đời Lê Chiêu tông, đỗ tiến sĩ đời Lê Chiêu tông (1643-1649)",
-  "occupation" : "Vị tổ nghề thêu Việt Nam, quê làng Quất Động, huyện Thường Phúc, tỉnh Hà Đông (nay là Hà Tây) nguời đời Lê Chiêu tông, đỗ tiến sĩ đời Lê Chiêu tông ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
+  "dateOfBirth": "Canh Tí 1600",
+  "dateOfDeath": "Tân Sửu 1661",
+  "hometown": "quê làng Quất Động, huyện Thường Phúc, tỉnh Hà Đông (nay là Hà Tây) nguời đời Lê Chiêu tông, đỗ tiến sĩ đời Lê Chiêu tông (1643-1649)",
+  "occupation": "Vị tổ nghề thêu Việt Nam, quê làng Quất Động, huyện Thường Phúc, tỉnh Hà Đông (nay là Hà Tây) nguời đời Lê Chiêu tông, đỗ tiến sĩ đời Lê Chiêu tông ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34
   },
-  "id" : 2155,
-  "entityName" : "Lê Công Hạnh",
-  "aliases" : [ "Trần Quốc Khái" ],
-  "overview" : "Ông nguyên là một đại thần, làm đến thượng thư khi đi sứ Trung Quốc, ông lưu tâm quan sát công kĩ nghệ nước ngoài, chú ý nhiều đến nghề thêu. Do đó, khi trở về nước, ông chỉ báo cho nhân dân trong vùng Hướng Dương, Võ Lăng, Đào Xá cố công học tập nghề thêu đan. Sau khi ông mất, nhân dân các tỉnh Hà Đông, Hà Nội tưởng niệm ông, suy tôn ông làm tổ nghề thêu đan nước ta."
+  "id": 2155,
+  "entityName": "Lê Công Hạnh",
+  "aliases": [
+    "Trần Quốc Khái"
+  ],
+  "overview": "Ông nguyên là một đại thần, làm đến thượng thư khi đi sứ Trung Quốc, ông lưu tâm quan sát công kĩ nghệ nước ngoài, chú ý nhiều đến nghề thêu. Do đó, khi trở về nước, ông chỉ báo cho nhân dân trong vùng Hướng Dương, Võ Lăng, Đào Xá cố công học tập nghề thêu đan. Sau khi ông mất, nhân dân các tỉnh Hà Đông, Hà Nội tưởng niệm ông, suy tôn ông làm tổ nghề thêu đan nước ta."
 }

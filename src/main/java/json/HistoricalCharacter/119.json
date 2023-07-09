@@ -1,17 +1,19 @@
 {
-  "dateOfBirth" : "Nhâm Tuất 1922",
-  "dateOfDeath" : "Tân Dậu 1981",
-  "hometown" : "quê xã Đức Thạnh, huyện Mộ Đức, tỉnh Quảng Ngãi",
-  "occupation" : "Tướng lãnh ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+  "dateOfBirth": "Nhâm Tuất 1922",
+  "dateOfDeath": "Tân Dậu 1981",
+  "hometown": "quê xã Đức Thạnh, huyện Mộ Đức, tỉnh Quảng Ngãi",
+  "occupation": "Tướng lãnh ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11,
+    "Nước Việt Nam mới": 29
   },
-  "id" : 119,
-  "entityName" : "Huỳnh Nhất Long",
-  "aliases" : [ "Hoàng Minh Thi" ],
-  "overview" : "Ông tham gia cách mạng từ trước năm 1945, gia nhập đội Du kích Ba Tơ ở Quảng Ngãi. Trong kháng chiến chống Pháp ông là chính ủy Trung đoàn, chủ nhiệm chính trị Đại đoàn 304. Sau năm 1954 ông theo đơn vị tập kết ra Bắc giữ các chức vụ chủ nhiệm chính trị sư đoàn 335 Quân khu Tây Bắc, Cục trưởng cục Tuyên huấn, Phó chính ủy chính ủy quân khu III... Từ tháng 9 năm 1968 chính ủy trường sĩ quan 1ục quân, Phó Giám đốc Học viện chính trị rồi tham gia chiến dịch Hồ Chí Minh. Từ năm 1978 đến năm 1981 là Tư lệnh Quân khu IV, ủy viên ủy ban chấp hành Đảng cộng sản Việt Nam khóa IV, được tặng thưởng Huân chương Quân công hạng nhất. Ông mất năm 1981 thọ 59 tuổi."
+  "id": 119,
+  "entityName": "Huỳnh Nhất Long",
+  "aliases": [
+    "Hoàng Minh Thi"
+  ],
+  "overview": "Ông tham gia cách mạng từ trước năm 1945, gia nhập đội Du kích Ba Tơ ở Quảng Ngãi. Trong kháng chiến chống Pháp ông là chính ủy Trung đoàn, chủ nhiệm chính trị Đại đoàn 304. Sau năm 1954 ông theo đơn vị tập kết ra Bắc giữ các chức vụ chủ nhiệm chính trị sư đoàn 335 Quân khu Tây Bắc, Cục trưởng cục Tuyên huấn, Phó chính ủy chính ủy quân khu III... Từ tháng 9 năm 1968 chính ủy trường sĩ quan 1ục quân, Phó Giám đốc Học viện chính trị rồi tham gia chiến dịch Hồ Chí Minh. Từ năm 1978 đến năm 1981 là Tư lệnh Quân khu IV, ủy viên ủy ban chấp hành Đảng cộng sản Việt Nam khóa IV, được tặng thưởng Huân chương Quân công hạng nhất. Ông mất năm 1981 thọ 59 tuổi."
 }

@@ -1,23 +1,31 @@
 {
-  "dateOfBirth" : "8 tháng 2, 1762 Huế, Đại Việt\n----------------------------------------------\nNhâm Ngọ 1762\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "3 tháng 2, 1820 (57 tuổi) Huế, Việt Nam\n----------------------------------------------\nCanh Thìn 1820\n----------------------------------------------\nKhông rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Nguyễn Vương\n----------------------------------------------\nTức Nguyễn Ánh, vua đầu nhà Nguyễn. Con thứ ba của Thái tử Nguyễn Phúc Chương và là cháu nội chúa Võ vương Nguyễn Phúc Khoát.\n----------------------------------------------\nHoàng đế",
-  "workTenure" : "1780 – 1802\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1802–1820",
-  "fatherName" : {
-    "Nguyễn Phúc Luân" : 2763,
-    "Thái tử Nguyễn Phúc Chương" : null
+  "dateOfBirth": "8 tháng 2, 1762 Huế, Đại Việt\n----------------------------------------------\nNhâm Ngọ 1762\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath": "3 tháng 2, 1820 (57 tuổi) Huế, Việt Nam\n----------------------------------------------\nCanh Thìn 1820\n----------------------------------------------\nKhông rõ",
+  "hometown": "Không rõ",
+  "occupation": "Nguyễn Vương\n----------------------------------------------\nTức Nguyễn Ánh, vua đầu nhà Nguyễn. Con thứ ba của Thái tử Nguyễn Phúc Chương và là cháu nội chúa Võ vương Nguyễn Phúc Khoát.\n----------------------------------------------\nHoàng đế",
+  "workTenure": "1780 – 1802\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1802–1820",
+  "fatherName": {
+    "Nguyễn Phúc Luân": 44,
+    "Thái tử Nguyễn Phúc Chương": null
   },
-  "motherName" : {
-    "là cháu nội chúa Võ vương Nguyễn Phúc Khoát" : null,
-    "Ý Tĩnh Khang hoàng hậu" : null
+  "motherName": {
+    "là cháu nội chúa Võ vương Nguyễn Phúc Khoát": null,
+    "Ý Tĩnh Khang hoàng hậu": null
   },
-  "eraName" : {
-    "Nhà Nguyễn" : null,
-    "Nhà Nguyễn độc lập" : 30
+  "eraName": {
+    "Nhà Nguyễn": null,
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 822,
-  "entityName" : "Nguyễn Phúc Ánh",
-  "aliases" : [ "Gia Long (嘉隆)", "Nguyễn Ánh", "Gia Long", "Nguyễn Phúc Ánh (阮福暎)", "Nguyễn Phúc Ánh", "Cao Hoàng đế (高皇帝)", "Thế Tổ (世祖)" ],
-  "overview" : "Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu là Nguyễn Thế Tổ (阮世祖).\n----------------------------------------------\nNăm Ất mùi 1775, quân Tây Sơn chiếm Thuận Hóa, ông cùng Nguyễn Phúc Thuần (Thái Thượng vương) chạy vào Gia Định, đến khi Thái Thượng vương và Tân Chính vương chết, Nguyễn Ánh được các tướng sĩ tôn lên làm Đại Nguyên soái, quyền nhiếp chánh để chống lại nhà Tây Sơn. Năm Canh tí 1780, ông chiếm được Gia Định, xưng vương hiệu. Năm Nhâm dần 1782, Quí mão 1783, ông bị nghĩa quân Tây Sơn đánh bại phải chạy ra đảo Phú Quốc lánh nạn. Năm Giáp thìn 1784, bị Tây Sơn vây khổn ở Phú Quốc, ông chạy sang Xiêm ẩn náu. Năm Mậu thân 1788 ông thu phục được đất Gia Định, năm Nhâm tí 1792, ông liên hệ với các giáo sĩ nước ngoài, nhất là ủy quyền cho giám mục Pigneau de Béhaine đem Hoàng tử Cảnh sang Pháp cầu viện để chống lại nhà Tây sơn. Pigneau de Béhaine đã ký kết với Bộ trưởng ngoại giao Pháp - Bá tước De Montmorin một hiệp ước với nhiều điều khoản bán rẻ lợi ích của đất nước. Năm Đinh tị 1797, ông chiếm Khánh Hòa, Qui Nhơn..., năm Tân dậu 1801 ông đem quân ra đánh úp thành Phú Xuân (Huế). Trước sự suy sụp của nhà Tây Sơn, Nguyễn Ánh đưa quân ra bình định cả đất Bắc, đến năm Nhâm tuất 1802 (ngày 2-5) ông lên ngôi vua lấy năm hiệu là Gia Long và tuyên bố cáo chung niên hiệu Cảnh Hưng nhà hậu Lê. Sau khi lên ngôi, Gia Long đã trả thù nhà Tây Sơn một cách tàn ác, hèn hạ và hồi gần cuối đời ông đã bách hại một số cận thần đã theo ông từ thuở ban đầu, chẳng hạn giết Đỗ Thanh Nhân, Nguyễn Văn Thành, Lê Văn Câu, Đặng Trần Thường... nhưng việc làm bị đời phê phán nghiêm khắc là Nguyễn Ánh đã vì quyền lợi cá nhân và họ hàng đã đem người nước ngoài can thiệp vào việc nội bộ nước ta mà lịch sử coi như \"rước voi về dày mả tổ\". Triều đại ông không có gì xuất sắc so với các triều đại trước mà đôi khi còn tỏ ra thoái hóa,... nhất là việc ông trả thù các đối thủ và kẻ không theo vây cánh mình. Ông ở ngôi 18 năm, thọ 58 tuổi, được truy tôn là Thế tổ Cao Hoàng đế.\n----------------------------------------------\nGia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), tên húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi là Nguyễn Ánh (阮暎), là một nhà chính trị, nhà quân sự người Việt Nam, vị vua sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu là Nguyễn Thế Tổ (阮世祖). Trong suốt thời gian trị vì ông chỉ sử dụng một niên hiệu là Gia Long (嘉隆), nên thường được gọi là Gia Long Đế."
+  "id": 822,
+  "entityName": "Nguyễn Phúc Ánh",
+  "aliases": [
+    "Gia Long (嘉隆)",
+    "Nguyễn Ánh",
+    "Gia Long",
+    "Nguyễn Phúc Ánh (阮福暎)",
+    "Nguyễn Phúc Ánh",
+    "Cao Hoàng đế (高皇帝)",
+    "Thế Tổ (世祖)"
+  ],
+  "overview": "Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu là Nguyễn Thế Tổ (阮世祖).\n----------------------------------------------\nNăm Ất mùi 1775, quân Tây Sơn chiếm Thuận Hóa, ông cùng Nguyễn Phúc Thuần (Thái Thượng vương) chạy vào Gia Định, đến khi Thái Thượng vương và Tân Chính vương chết, Nguyễn Ánh được các tướng sĩ tôn lên làm Đại Nguyên soái, quyền nhiếp chánh để chống lại nhà Tây Sơn. Năm Canh tí 1780, ông chiếm được Gia Định, xưng vương hiệu. Năm Nhâm dần 1782, Quí mão 1783, ông bị nghĩa quân Tây Sơn đánh bại phải chạy ra đảo Phú Quốc lánh nạn. Năm Giáp thìn 1784, bị Tây Sơn vây khổn ở Phú Quốc, ông chạy sang Xiêm ẩn náu. Năm Mậu thân 1788 ông thu phục được đất Gia Định, năm Nhâm tí 1792, ông liên hệ với các giáo sĩ nước ngoài, nhất là ủy quyền cho giám mục Pigneau de Béhaine đem Hoàng tử Cảnh sang Pháp cầu viện để chống lại nhà Tây sơn. Pigneau de Béhaine đã ký kết với Bộ trưởng ngoại giao Pháp - Bá tước De Montmorin một hiệp ước với nhiều điều khoản bán rẻ lợi ích của đất nước. Năm Đinh tị 1797, ông chiếm Khánh Hòa, Qui Nhơn..., năm Tân dậu 1801 ông đem quân ra đánh úp thành Phú Xuân (Huế). Trước sự suy sụp của nhà Tây Sơn, Nguyễn Ánh đưa quân ra bình định cả đất Bắc, đến năm Nhâm tuất 1802 (ngày 2-5) ông lên ngôi vua lấy năm hiệu là Gia Long và tuyên bố cáo chung niên hiệu Cảnh Hưng nhà hậu Lê. Sau khi lên ngôi, Gia Long đã trả thù nhà Tây Sơn một cách tàn ác, hèn hạ và hồi gần cuối đời ông đã bách hại một số cận thần đã theo ông từ thuở ban đầu, chẳng hạn giết Đỗ Thanh Nhân, Nguyễn Văn Thành, Lê Văn Câu, Đặng Trần Thường... nhưng việc làm bị đời phê phán nghiêm khắc là Nguyễn Ánh đã vì quyền lợi cá nhân và họ hàng đã đem người nước ngoài can thiệp vào việc nội bộ nước ta mà lịch sử coi như \"rước voi về dày mả tổ\". Triều đại ông không có gì xuất sắc so với các triều đại trước mà đôi khi còn tỏ ra thoái hóa,... nhất là việc ông trả thù các đối thủ và kẻ không theo vây cánh mình. Ông ở ngôi 18 năm, thọ 58 tuổi, được truy tôn là Thế tổ Cao Hoàng đế.\n----------------------------------------------\nGia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), tên húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi là Nguyễn Ánh (阮暎), là một nhà chính trị, nhà quân sự người Việt Nam, vị vua sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu là Nguyễn Thế Tổ (阮世祖). Trong suốt thời gian trị vì ông chỉ sử dụng một niên hiệu là Gia Long (嘉隆), nên thường được gọi là Gia Long Đế."
 }

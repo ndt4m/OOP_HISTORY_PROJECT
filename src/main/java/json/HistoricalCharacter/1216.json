@@ -1,17 +1,17 @@
 {
-  "dateOfBirth" : "Ất Tị 1845",
-  "dateOfDeath" : "Ất Mùi 1895",
-  "hometown" : "Hà Tĩnh",
-  "occupation" : "Nhà yêu nước quê làng Hữu Bằng huyện Hương Sơn, tỉnh Hà Tĩnh (nay là xã Sơn Bằng, tỉnh Hà Tĩnh)",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nhà Nguyễn độc lập" : 30
+  "dateOfBirth": "Ất Tị 1845",
+  "dateOfDeath": "Ất Mùi 1895",
+  "hometown": "Hà Tĩnh",
+  "occupation": "Nhà yêu nước quê làng Hữu Bằng huyện Hương Sơn, tỉnh Hà Tĩnh (nay là xã Sơn Bằng, tỉnh Hà Tĩnh)",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11,
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 1216,
-  "entityName" : "Thái Vĩnh Chinh",
-  "aliases" : [ ],
-  "overview" : "Ông cùng với nhóm văn thân trong vùng tổ chức nghĩa quân kháng chiến chống Pháp, được vua Hàm Nghi phong làm Lãnh binh. Ông lãnh đạo nghĩa quân lập căn cứ ở địa phương làm tiêu hao nhiều lực lượng địch. Một thời gian sau, ông bị đám quân tay sai bao vây ở chiến khu. Nghĩa quân từ đó tan rã dần, nhưng ông vẫn chiến đấu đến cùng. Ông hi sinh trong năm Ất mùi 1895 hưởng dương 50 tuổi, còn lưu lại bài thơ TUYỆT MẠNG: \"Dĩ tri thiên mạng dĩ tri thân, Nan bảo giang sơn mãn cấu trần. Quốc tặc hoành hành gia tặc lộng, Đoạn trường huyết lệ lưỡng triêm cân.\" Nghĩa: Đã biết mạng trời đã biết thân, Non sông khôn giữ lúc nguy nan. Giặc nhà giặc nước đang lồng lộn, Máu lệ chan hòa đẫm ưởt khăn. Bạn ông là Nguyễn Năng Định và cháu ông là Lê Khoan Hoàng cũng một lòng hi sinh vì nước."
+  "id": 1216,
+  "entityName": "Thái Vĩnh Chinh",
+  "aliases": [],
+  "overview": "Ông cùng với nhóm văn thân trong vùng tổ chức nghĩa quân kháng chiến chống Pháp, được vua Hàm Nghi phong làm Lãnh binh. Ông lãnh đạo nghĩa quân lập căn cứ ở địa phương làm tiêu hao nhiều lực lượng địch. Một thời gian sau, ông bị đám quân tay sai bao vây ở chiến khu. Nghĩa quân từ đó tan rã dần, nhưng ông vẫn chiến đấu đến cùng. Ông hi sinh trong năm Ất mùi 1895 hưởng dương 50 tuổi, còn lưu lại bài thơ TUYỆT MẠNG: \"Dĩ tri thiên mạng dĩ tri thân, Nan bảo giang sơn mãn cấu trần. Quốc tặc hoành hành gia tặc lộng, Đoạn trường huyết lệ lưỡng triêm cân.\" Nghĩa: Đã biết mạng trời đã biết thân, Non sông khôn giữ lúc nguy nan. Giặc nhà giặc nước đang lồng lộn, Máu lệ chan hòa đẫm ưởt khăn. Bạn ông là Nguyễn Năng Định và cháu ông là Lê Khoan Hoàng cũng một lòng hi sinh vì nước."
 }

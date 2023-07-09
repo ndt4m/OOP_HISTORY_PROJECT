@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Quí Tị 1713",
-  "dateOfDeath" : "Kỉ Dậu 1789",
-  "hometown" : "quê làng Trường Lưu, tồng Lai Thạch, huyện La Sơn, tỉnh Hà Tĩnh",
-  "occupation" : "Nhà văn, nhà thơ đời Lê Hiển tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
+  "dateOfBirth": "Quí Tị 1713",
+  "dateOfDeath": "Kỉ Dậu 1789",
+  "hometown": "quê làng Trường Lưu, tồng Lai Thạch, huyện La Sơn, tỉnh Hà Tĩnh",
+  "occupation": "Nhà văn, nhà thơ đời Lê Hiển tông",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34
   },
-  "id" : 600,
-  "entityName" : "Nguyễn Huy Oánh",
-  "aliases" : [ ],
-  "overview" : "Năm Mậu thìn 1748 ông đỗ thám hoa, làm đến Tả thị lang bộ Lại, ông xin về hưu, nhưng sau đó triều đình triệu dụng, thăng Đô ngự sử. Ông cũng từng được cử đi sứ làm đến Thượng thư bộ Hộ. Năm Kỉ dậu ngày 2-6 Dương lịch 1789 ông mất, thọ 76 tuổi. Văn phái Trưởng Lưu của họ ông, đương thời nổi tiếng ngang với văn phái Tiên Điền (Nguyễn Du). Con ông là Nguyễn Huy Tự tác giả truyện thơ Hoa Tiên, cháu là Nguyễn Huy Hổ tác giả truyện thơ Mai Đình Mộng Kí. Ông cùng với anh là Nguyễn Quýnh cũng nổi tiếng thơ văn trong phái Hồng Sơn. Tác phẩm của ông gồm: - Phụng sứ Yên kinh tập - Bắc dư tập lãm - Sơ học chỉ nam - Phụng sứ yên đài tổng ca - Cổ lễ nhạc chương thi văn tập"
+  "id": 600,
+  "entityName": "Nguyễn Huy Oánh",
+  "aliases": [],
+  "overview": "Năm Mậu thìn 1748 ông đỗ thám hoa, làm đến Tả thị lang bộ Lại, ông xin về hưu, nhưng sau đó triều đình triệu dụng, thăng Đô ngự sử. Ông cũng từng được cử đi sứ làm đến Thượng thư bộ Hộ. Năm Kỉ dậu ngày 2-6 Dương lịch 1789 ông mất, thọ 76 tuổi. Văn phái Trưởng Lưu của họ ông, đương thời nổi tiếng ngang với văn phái Tiên Điền (Nguyễn Du). Con ông là Nguyễn Huy Tự tác giả truyện thơ Hoa Tiên, cháu là Nguyễn Huy Hổ tác giả truyện thơ Mai Đình Mộng Kí. Ông cùng với anh là Nguyễn Quýnh cũng nổi tiếng thơ văn trong phái Hồng Sơn. Tác phẩm của ông gồm: - Phụng sứ Yên kinh tập - Bắc dư tập lãm - Sơ học chỉ nam - Phụng sứ yên đài tổng ca - Cổ lễ nhạc chương thi văn tập"
 }

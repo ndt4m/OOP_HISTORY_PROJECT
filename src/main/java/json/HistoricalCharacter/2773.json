@@ -1,17 +1,17 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Hà Nội",
-  "occupation" : "Danh thần, lúc đầu làm quan nhà Mạc, sau qui thuận nhà Lê Trung Hưng",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34,
-    "Nam - Bắc Triều" : 19
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Hà Nội",
+  "occupation": "Danh thần, lúc đầu làm quan nhà Mạc, sau qui thuận nhà Lê Trung Hưng",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34,
+    "Nam - Bắc Triều": 19
   },
-  "id" : 2773,
-  "entityName" : "Bùi Trụ",
-  "aliases" : [ ],
-  "overview" : "Con Quản Quốc công Bùi Xương Trạch, anh Mai Quận công Bùi Vịnh và là chú Tiên Quận công Bùi Bình Uyên. Danh sĩ Bùi Huy Bích cũng dòng dõi họ Bùi này. Quê làng Định Công, huyện Thanh Trì, trú làng Thịnh Liệt công trong huyện ấy, thuộc tỉnh Hà Đông (nay thuộc Hà Nội). Ông làm quan nhà Mạc đến chức Tân lí, tước Đồng Giang Hầu. Sau, ông dẫn cháu là Bùi Bình Uyên, cùng với Lê Bá Ly (nhạc phụ Bùi Bình Uyên) vào Thanh Hóa, qui thuận nhà Lê, được vua trọng dụng, làm đến Thượng thư bộ Hộ, gia phong Hiệp mưu tá lí công thần, tặng Thái phó."
+  "id": 2773,
+  "entityName": "Bùi Trụ",
+  "aliases": [],
+  "overview": "Con Quản Quốc công Bùi Xương Trạch, anh Mai Quận công Bùi Vịnh và là chú Tiên Quận công Bùi Bình Uyên. Danh sĩ Bùi Huy Bích cũng dòng dõi họ Bùi này. Quê làng Định Công, huyện Thanh Trì, trú làng Thịnh Liệt công trong huyện ấy, thuộc tỉnh Hà Đông (nay thuộc Hà Nội). Ông làm quan nhà Mạc đến chức Tân lí, tước Đồng Giang Hầu. Sau, ông dẫn cháu là Bùi Bình Uyên, cùng với Lê Bá Ly (nhạc phụ Bùi Bình Uyên) vào Thanh Hóa, qui thuận nhà Lê, được vua trọng dụng, làm đến Thượng thư bộ Hộ, gia phong Hiệp mưu tá lí công thần, tặng Thái phó."
 }

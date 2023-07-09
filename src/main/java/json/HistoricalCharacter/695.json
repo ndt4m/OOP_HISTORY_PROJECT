@@ -1,16 +1,19 @@
 {
-  "dateOfBirth" : "Kỉ Mùi 1679",
-  "dateOfDeath" : "Canh Thìn 1760",
-  "hometown" : "Không rõ",
-  "occupation" : "Danh sĩ đời Lê Hiển tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
+  "dateOfBirth": "Kỉ Mùi 1679",
+  "dateOfDeath": "Canh Thìn 1760",
+  "hometown": "Không rõ",
+  "occupation": "Danh sĩ đời Lê Hiển tông",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34
   },
-  "id" : 695,
-  "entityName" : "Ngô Trân",
-  "aliases" : [ "Khiêm Văn", "Đan Nhạc" ],
-  "overview" : "Ông là học trò Hoàng giáp Ngô Vi Thực Và Thám hoa Võ Thạch, nổi tiếng uyên bác, ông kết bạn với sáu người đồng học tài giỏi được xưng tặng là Thăng Long thất hổ (không rõ họ tên sáu người kia). Năm Ất mao 1715, ông đỗ cử nhân đã 36 tuổi. Lúc ông trên 70 tuổi còn dự thi khoa hoành từ, được coi là ưu lăo, làm đến Đại lí tự khanh. Ông sống thanh bần, có khí tiết được sĩ phu trọng vọng. Tuổi 80 ông vẫn còn dạy học, đào tạo nhiều nhân tài cho đất nước. Năm Canh thìn 1760 ông mất, thọ 81 tuổi. Bài thơ tự thuật của ông làm lúc 80 tuổi trước khi từ trần, nói lên tâm hồn, đạo đức ông: \"Bát tuần cáp tự thủy sinh nhi, Nhất phiến đan tâm xích tử thì. Kiện thuận ngũ thường tuần ngã tính, Nhiệm tha ngôn trí dữ ngôn si\". Bản dịch: Tám mươi lại hóa nhi đồng, Lòng son như trẻ lọt lòng mới sinh. Cương thường vẹn giữ tính mình, Rằng khôn rằng dại mặc tình khen chê. Các tác phẩm chính: - Tính mệnh đạo giáo từ chân, - Huấn mông tập"
+  "id": 695,
+  "entityName": "Ngô Trân",
+  "aliases": [
+    "Khiêm Văn",
+    "Đan Nhạc"
+  ],
+  "overview": "Ông là học trò Hoàng giáp Ngô Vi Thực Và Thám hoa Võ Thạch, nổi tiếng uyên bác, ông kết bạn với sáu người đồng học tài giỏi được xưng tặng là Thăng Long thất hổ (không rõ họ tên sáu người kia). Năm Ất mao 1715, ông đỗ cử nhân đã 36 tuổi. Lúc ông trên 70 tuổi còn dự thi khoa hoành từ, được coi là ưu lăo, làm đến Đại lí tự khanh. Ông sống thanh bần, có khí tiết được sĩ phu trọng vọng. Tuổi 80 ông vẫn còn dạy học, đào tạo nhiều nhân tài cho đất nước. Năm Canh thìn 1760 ông mất, thọ 81 tuổi. Bài thơ tự thuật của ông làm lúc 80 tuổi trước khi từ trần, nói lên tâm hồn, đạo đức ông: \"Bát tuần cáp tự thủy sinh nhi, Nhất phiến đan tâm xích tử thì. Kiện thuận ngũ thường tuần ngã tính, Nhiệm tha ngôn trí dữ ngôn si\". Bản dịch: Tám mươi lại hóa nhi đồng, Lòng son như trẻ lọt lòng mới sinh. Cương thường vẹn giữ tính mình, Rằng khôn rằng dại mặc tình khen chê. Các tác phẩm chính: - Tính mệnh đạo giáo từ chân, - Huấn mông tập"
 }

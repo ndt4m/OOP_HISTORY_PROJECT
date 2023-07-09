@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê ở Tri Minh, huyện Cẩm Giang, tỉnh Hải Dương (nay là Cẩm Bình, thuộc tỉnh Hải Dương)",
-  "occupation" : "Có sách chép là Phạm Công Bân, Danh y đời Trần Anh tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Trần" : 15
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "quê ở Tri Minh, huyện Cẩm Giang, tỉnh Hải Dương (nay là Cẩm Bình, thuộc tỉnh Hải Dương)",
+  "occupation": "Có sách chép là Phạm Công Bân, Danh y đời Trần Anh tông",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Trần": 15
   },
-  "id" : 1805,
-  "entityName" : "Phạm Bân",
-  "aliases" : [ "Phạm Công Bân" ],
-  "overview" : "Ông là cha vợ Hồ Quý Ly, ông ngoại Hồ Nguyên Trừng, dòng dõi làm nghề thuốc. Trần Anh tông vời ông làm chức Thái y, ông thường mua thuốc và lúa gạo trữ tại nhà sẵn lòng nuôi và chữa bệnh cho những người nghèo khổ, neo đơn. Gặp năm đói kém, bệnh hoạn lan tràn, ông càng hết sức cứu giúp, nhân dân đều xưng tụng công đức. Có lần ông gấp đi cứu một người đàn bà nghèo lâm bệnh ngặt, bất chấp lệnh vua truyền vào cung điều trị cho quý phi. Sứ giả cảnh cáo ông có thể bị quở phạt nặng. Ông vẫn thản nhiên làm theo lương tâm. Cứu bệnh xong, ông ung dung vào cung bày tỏ sự tình: \"Vì có bệnh nặng cần cứu gấp nên hạ thần đành trái lệnh trên, xin luợng thứ.\" Trần Anh tông cảm phục khen ngợi: \"Khanh thật là một lương y, đã giỏi nghề lại giàu nhân đức, thật xứng đáng với lòng tin yêu của Trẫm.\" Về sau, con cháu ông có nhiều người hiển đạt và làm thuốc giỏi, công đức tốt đẹp."
+  "id": 1805,
+  "entityName": "Phạm Bân",
+  "aliases": [
+    "Phạm Công Bân"
+  ],
+  "overview": "Ông là cha vợ Hồ Quý Ly, ông ngoại Hồ Nguyên Trừng, dòng dõi làm nghề thuốc. Trần Anh tông vời ông làm chức Thái y, ông thường mua thuốc và lúa gạo trữ tại nhà sẵn lòng nuôi và chữa bệnh cho những người nghèo khổ, neo đơn. Gặp năm đói kém, bệnh hoạn lan tràn, ông càng hết sức cứu giúp, nhân dân đều xưng tụng công đức. Có lần ông gấp đi cứu một người đàn bà nghèo lâm bệnh ngặt, bất chấp lệnh vua truyền vào cung điều trị cho quý phi. Sứ giả cảnh cáo ông có thể bị quở phạt nặng. Ông vẫn thản nhiên làm theo lương tâm. Cứu bệnh xong, ông ung dung vào cung bày tỏ sự tình: \"Vì có bệnh nặng cần cứu gấp nên hạ thần đành trái lệnh trên, xin luợng thứ.\" Trần Anh tông cảm phục khen ngợi: \"Khanh thật là một lương y, đã giỏi nghề lại giàu nhân đức, thật xứng đáng với lòng tin yêu của Trẫm.\" Về sau, con cháu ông có nhiều người hiển đạt và làm thuốc giỏi, công đức tốt đẹp."
 }

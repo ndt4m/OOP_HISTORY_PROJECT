@@ -1,17 +1,20 @@
 {
-  "dateOfBirth" : "Mậu Tí 1888",
-  "dateOfDeath" : "Bính Thân 1956",
-  "hometown" : "quê huyện Ô Môn, tỉnh Cần Thơ",
-  "occupation" : "Cao tăng cận đại",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+  "dateOfBirth": "Mậu Tí 1888",
+  "dateOfDeath": "Bính Thân 1956",
+  "hometown": "quê huyện Ô Môn, tỉnh Cần Thơ",
+  "occupation": "Cao tăng cận đại",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11,
+    "Nước Việt Nam mới": 29
   },
-  "id" : 3072,
-  "entityName" : "Nguyễn Văn Ân",
-  "aliases" : [ "Huệ Quang", "Thiên Hải" ],
-  "overview" : "Năm Nhâm dần 1902 ông xuất gia tu ở chùa Long Thành, Trà Cú (Trà Vinh), sau trụ trì chùa Long Hòa, Tiểu Cần ở Trà Vinh. Từ năm 1919-1929 ông cùng các hòa thượng Khánh Hòa, Pháp Hải, Khánh Anh vận động và thành lập Hội Nam Kì nghiên cứu Phật học và xuất bản tạp chí Từ bi âm. Từ đó ông làm Giảng sư kiêm Tổng lí Hội Lưỡng Xuyên Phật học tại Nam Kì (ở Trà Vinh). Năm 1945, ông làm Chủ tịch Hội Phật giáo Cứu quốc tại Miền Tây Nam bộ. Năm 1953, ông được Giáo hội Tăng già Nam Việt suy tôn làm Pháp chủ giáo hội. Sau hiệp định Genève (1954) ông tham gia các tổ chức vận động hòa bình, cơ sở đặt tại chùa Phật Quang (Chợ Lớn). Năm 1956, ông được suy cử chức Phó Hội chủ Tổng hội Phật giáo Việt Nam (miền Nam) và làm chủ nhiệm Tập san Phật giáo. Ngày 10-11-1956, ông đi dự hội nghị Phật giáo thế giới tại Népal. Trên đường 1 về nước, phái đoàn ghé thăm Ấn Độ. Tại đây ông bệnh mất tại bệnh viện Willintong ở New Delhi vào ngày 3-12-1956 an táng tại vườn chùa A Dục (Ấn Độ) đến năm 1964 hỏa táng, hài cốt rước về Việt Nam. Hòa thượng Huệ Quang là người tận tụy hi sinh vì dân tộc và đạo pháp của Phật giáo Việt Nam."
+  "id": 3072,
+  "entityName": "Nguyễn Văn Ân",
+  "aliases": [
+    "Huệ Quang",
+    "Thiên Hải"
+  ],
+  "overview": "Năm Nhâm dần 1902 ông xuất gia tu ở chùa Long Thành, Trà Cú (Trà Vinh), sau trụ trì chùa Long Hòa, Tiểu Cần ở Trà Vinh. Từ năm 1919-1929 ông cùng các hòa thượng Khánh Hòa, Pháp Hải, Khánh Anh vận động và thành lập Hội Nam Kì nghiên cứu Phật học và xuất bản tạp chí Từ bi âm. Từ đó ông làm Giảng sư kiêm Tổng lí Hội Lưỡng Xuyên Phật học tại Nam Kì (ở Trà Vinh). Năm 1945, ông làm Chủ tịch Hội Phật giáo Cứu quốc tại Miền Tây Nam bộ. Năm 1953, ông được Giáo hội Tăng già Nam Việt suy tôn làm Pháp chủ giáo hội. Sau hiệp định Genève (1954) ông tham gia các tổ chức vận động hòa bình, cơ sở đặt tại chùa Phật Quang (Chợ Lớn). Năm 1956, ông được suy cử chức Phó Hội chủ Tổng hội Phật giáo Việt Nam (miền Nam) và làm chủ nhiệm Tập san Phật giáo. Ngày 10-11-1956, ông đi dự hội nghị Phật giáo thế giới tại Népal. Trên đường 1 về nước, phái đoàn ghé thăm Ấn Độ. Tại đây ông bệnh mất tại bệnh viện Willintong ở New Delhi vào ngày 3-12-1956 an táng tại vườn chùa A Dục (Ấn Độ) đến năm 1964 hỏa táng, hài cốt rước về Việt Nam. Hòa thượng Huệ Quang là người tận tụy hi sinh vì dân tộc và đạo pháp của Phật giáo Việt Nam."
 }

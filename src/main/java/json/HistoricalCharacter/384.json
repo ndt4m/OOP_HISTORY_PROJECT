@@ -1,17 +1,19 @@
 {
-  "dateOfBirth" : "Nhâm Tuất 1862",
-  "dateOfDeath" : "Ất Tị 1905",
-  "hometown" : "quê làng Phú Thỉ, xa Mễ Sở, huyện Văn Giang tỉnh Hưng Yên",
-  "occupation" : "Danh sĩ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nhà Nguyễn độc lập" : 30
+  "dateOfBirth": "Nhâm Tuất 1862",
+  "dateOfDeath": "Ất Tị 1905",
+  "hometown": "quê làng Phú Thỉ, xa Mễ Sở, huyện Văn Giang tỉnh Hưng Yên",
+  "occupation": "Danh sĩ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11,
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 384,
-  "entityName" : "Châu Mạnh Trinh",
-  "aliases" : [ "Chu Mạnh Trinh" ],
-  "overview" : "Ông vốn là học trò và là rể Tuần phủ Phạm Hi Lượng. Nổi tiếng tai hoa, văn hay chữ tốt, tính lãng mạn, văn chương bay bướm thiên về tình cảm. Năm Nhâm thìn 1892, ông đỗ tiến sĩ, được bổ tri phủ Lý Nhân, thuộc tỉnh Hà Nam, rồi thăng án sát, trải qua các tỉnh Hà Nam, Hưng Yên, Bắc Ninh và Thái Nguyên. Năm Quí mão 1903, ông cáo quan vẻ dưỡng bệnh. Hai năm sau (Ất tị 1905) ông mất, hưởng dương 43 tuổi. Khi cáo quan về ông thường cùng các bạn vui thú văn chương. Gặp khi Lê Hoan làm Tuần phủ Hưng Yên, có mở hội Tao đàn Hưng Yên, mời các danh sĩ tham dự, ông cũng góp mặt. Tao đàn mở cuộc thi thơ do đó ông có một tập thơ vịnh Kiều nhan đề Thanh tâm tài nhân thi tập được chấm giải quán quân về thơ Nôm. Ngoài ra, ông còn có một số thơ chữ Hán và các bài ca trù được truyền tụng như Hương sơn phong cảnh, Hương sơn nhật trình là những giai tác của văn chương Việt Nam. Danh thắng Hương Sơn đỏ đẹp lại càng tuyệt sắc hơn một phần cũng nhờ bài Hương Sơn phong cảnh của ông."
+  "id": 384,
+  "entityName": "Châu Mạnh Trinh",
+  "aliases": [
+    "Chu Mạnh Trinh"
+  ],
+  "overview": "Ông vốn là học trò và là rể Tuần phủ Phạm Hi Lượng. Nổi tiếng tai hoa, văn hay chữ tốt, tính lãng mạn, văn chương bay bướm thiên về tình cảm. Năm Nhâm thìn 1892, ông đỗ tiến sĩ, được bổ tri phủ Lý Nhân, thuộc tỉnh Hà Nam, rồi thăng án sát, trải qua các tỉnh Hà Nam, Hưng Yên, Bắc Ninh và Thái Nguyên. Năm Quí mão 1903, ông cáo quan vẻ dưỡng bệnh. Hai năm sau (Ất tị 1905) ông mất, hưởng dương 43 tuổi. Khi cáo quan về ông thường cùng các bạn vui thú văn chương. Gặp khi Lê Hoan làm Tuần phủ Hưng Yên, có mở hội Tao đàn Hưng Yên, mời các danh sĩ tham dự, ông cũng góp mặt. Tao đàn mở cuộc thi thơ do đó ông có một tập thơ vịnh Kiều nhan đề Thanh tâm tài nhân thi tập được chấm giải quán quân về thơ Nôm. Ngoài ra, ông còn có một số thơ chữ Hán và các bài ca trù được truyền tụng như Hương sơn phong cảnh, Hương sơn nhật trình là những giai tác của văn chương Việt Nam. Danh thắng Hương Sơn đỏ đẹp lại càng tuyệt sắc hơn một phần cũng nhờ bài Hương Sơn phong cảnh của ông."
 }

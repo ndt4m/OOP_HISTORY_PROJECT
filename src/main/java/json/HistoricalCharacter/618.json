@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Kỉ Sửu 1049",
-  "dateOfDeath" : "Đinh Dậu 1117",
-  "hometown" : "quê ở đất Luy Lâu (một trung tâm cổ của Phật giáo Việt Nam), tỉnh Bắc Ninh, xứ Kinh Bắc (nay thuộc tỉnh Bắc Ninh)",
-  "occupation" : "Thiền sư đời Lý Nhân tông, không rõ tên thật",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Lý" : 14
+  "dateOfBirth": "Kỉ Sửu 1049",
+  "dateOfDeath": "Đinh Dậu 1117",
+  "hometown": "quê ở đất Luy Lâu (một trung tâm cổ của Phật giáo Việt Nam), tỉnh Bắc Ninh, xứ Kinh Bắc (nay thuộc tỉnh Bắc Ninh)",
+  "occupation": "Thiền sư đời Lý Nhân tông, không rõ tên thật",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Lý": 14
   },
-  "id" : 618,
-  "entityName" : "Vạn Trì Bát",
-  "aliases" : [ "Trì Bát" ],
-  "overview" : "Năm lên 20 tuổi (1069) ông xuất gia học Phật với pháp sư Sùng Phạm ở chùa Pháp Vân thuộc vào thế hệ thứ 17 dòng Thiền Nam phương. Về sau ông trú trì chùa Tổ Phong ở núi Thạch Thất, tỉnh Sơn Tây và mở đàn chúng tại đây cho đến ngày viên tịch. Ngày 18 tháng 2 năm Đinh dậu ông mất, thọ 68 tuổi. Trước khi mất có lưu lại bài kệ cho tăng chúng. \"Hữu tử tất hữu sinh, Hữu sinh tất hữu tử, Tử vi thế sở bi! Sinh vi thế sở hỉ! Bi hỉ lưỡng vô cùng Hỗ nhiên thành bỉ thử Ư chư sinh tử bất quan hoài Úm tô rô, tô rô, tất lị.\" Nghĩa: Có tử, phải có sinh, Có sinh, tử phải có, Sinh thì đời reo mừng! Tử thì đời sầu khổ! Mừng khổ đều vô cùng, Vẫn xoay hóa \"kia nọ\", Bao giờ sinh tử đều không màng Úm tô rô! Ta vào cõi thọ. Ông là tác giả một số thơ văn vè Thiền, nhưng nay đã thất lạc nhiều."
+  "id": 618,
+  "entityName": "Vạn Trì Bát",
+  "aliases": [
+    "Trì Bát"
+  ],
+  "overview": "Năm lên 20 tuổi (1069) ông xuất gia học Phật với pháp sư Sùng Phạm ở chùa Pháp Vân thuộc vào thế hệ thứ 17 dòng Thiền Nam phương. Về sau ông trú trì chùa Tổ Phong ở núi Thạch Thất, tỉnh Sơn Tây và mở đàn chúng tại đây cho đến ngày viên tịch. Ngày 18 tháng 2 năm Đinh dậu ông mất, thọ 68 tuổi. Trước khi mất có lưu lại bài kệ cho tăng chúng. \"Hữu tử tất hữu sinh, Hữu sinh tất hữu tử, Tử vi thế sở bi! Sinh vi thế sở hỉ! Bi hỉ lưỡng vô cùng Hỗ nhiên thành bỉ thử Ư chư sinh tử bất quan hoài Úm tô rô, tô rô, tất lị.\" Nghĩa: Có tử, phải có sinh, Có sinh, tử phải có, Sinh thì đời reo mừng! Tử thì đời sầu khổ! Mừng khổ đều vô cùng, Vẫn xoay hóa \"kia nọ\", Bao giờ sinh tử đều không màng Úm tô rô! Ta vào cõi thọ. Ông là tác giả một số thơ văn vè Thiền, nhưng nay đã thất lạc nhiều."
 }

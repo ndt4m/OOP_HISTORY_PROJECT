@@ -1,18 +1,20 @@
 {
-  "dateOfBirth" : "Giáp Dần 1254",
-  "dateOfDeath" : "Giáp Tuất 1334",
-  "hometown" : "xã Thái Bảo, huyện Gia Bình, tỉnh Bắc Ninh.\n----------------------------------------------\nQuê làng Vạn Tải, châu Nam Sách, lộ Lạng Giang (nay là làng Vạn Ti, huyện Gia Lương, tỉnh Bắc Ninh)",
-  "occupation" : "Thiền sư đời Trần",
-  "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Thái sư Trần Quang Khải" : null
+  "dateOfBirth": "Giáp Dần 1254",
+  "dateOfDeath": "Giáp Tuất 1334",
+  "hometown": "xã Thái Bảo, huyện Gia Bình, tỉnh Bắc Ninh.\n----------------------------------------------\nQuê làng Vạn Tải, châu Nam Sách, lộ Lạng Giang (nay là làng Vạn Ti, huyện Gia Lương, tỉnh Bắc Ninh)",
+  "occupation": "Thiền sư đời Trần",
+  "workTenure": "Không rõ",
+  "fatherName": {
+    "Thái sư Trần Quang Khải": null
   },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Trần" : 15
+  "motherName": {},
+  "eraName": {
+    "Nhà Trần": 15
   },
-  "id" : 1603,
-  "entityName" : "Lý Đạo Tái",
-  "aliases" : [ "Huyền Quang" ],
-  "overview" : "Huyền Quang (玄光), 1254-1334, tên thật là Lý Đạo Tái (李道載), người hương Vạn Tải, châu Nam Sách, lộ Lạng Giang. Nay là làng Vạn Tải, xã Thái Bảo, huyện Gia Bình, tỉnh Bắc Ninh. Học giỏi, đỗ cả thi hương, thi hội. Ông đỗ đệ nhất giáp tiến sĩ (trạng nguyên) khoa thi năm 1272? hay 1274? và được bổ làm việc trong Viện Nội Hàn của triều đình, tiếp sư Bắc triều, nổi tiếng văn thơ. Sau này từ chức đi tu, theo Trần Nhân Tông lên Trúc Lâm. Là một Thiền sư Việt Nam, tổ thứ ba dòng Trúc Lâm Yên Tử. Ông là một nhà thơ lớn với nhiều bài thơ còn được lưu lại. Cùng với Trúc Lâm Đầu Đà Trần Nhân Tông và Pháp Loa, ông được xem là một Đại thiền sư của Việt Nam và người ta xem ông và hai vị nêu trên ngang hàng với sáu vị tổ của Thiền tông Trung Quốc hoặc 28 vị tổ của Thiền Ấn Độ.\n----------------------------------------------\nNăm Giáp tuất 1274 ông đỗ khoa thi hương lúc 20 tuổi, năm sau (1275) đỗ đầu khoa thi hội, được bổ làm việc ở Viện nội Hàn, từng ứng tiếp sứ Trung Quốc, nổi tiếng văn chương. Nhưng chẳng bao lâu ông từ chức xuất gia đầu Phật. Thiền sư Pháp Loa tận tình giúp đỡ ông, về sau khi Pháp Loa mất (1330) ông nối tiếp làm vị tổ thứ ba dòng thiền Trúc Lâm. Đạo hạnh và tài thơ ông khiến sĩ phu kính phục. Tuy nhiên, vẫn có kẻ gièm pha cho là ông chưa hẳn phải bậc chân tu. Do đấy, tương truyền câu chuyện Trần Anh tông cho nàng Điểm Bích đến lân la trêu ghẹo ông, để thử lòng. Rốt lại ông vẫn vững vàng phong độ vị tổ một dòng thiền thuần túy Việt Nam. VuaTrần hối hận về điều thử thách ấy, càng đem lòng quí trọng ông hơn. Năm Giáp tuất 1334 ông mất, thọ 80 tuổi, còn để lại 2 bộ: - Ngọc tiên tập - Chư phẩm kinh - Ngọc liên tập (2 quyển) - Thơ ông còn truyền tụng hơn 20 bài, toàn thể đều thâm trầm ý nhị. Tương truyền khi ông còn trẻ, nhà nghèo khó, cuộc sống vất vả, thường bị bà con, bạn bè hắt hủi. Đến khi ông cố gắng học hành lập thân, đỗ trạng nguyên, tấp nập bạn bè lui tới thường ngày. Ông ngao ngán tình nguời có hai câu thơ cảm xúc: Khó khăn thì chẳng ai nhìn, Đến thi đỗ Trạng chín nghìn anh em. Vì thế, khi công danh thành đạt, ông cũng bỏ cả mà đi tu. Theo Phan Huy Chú thì \"thơ văn Huyền Quang bay bướm phóng khoáng\". Nay thơ ông còn thấy khắc in 3 bài trong Việt âm thi tập, 24 bài trong Toàn Việt thi lục của Lê Quí Đôn, và 7 bài trong Hoàng Việt thi tuyển của Bùi Huy Bích."
+  "id": 1603,
+  "entityName": "Lý Đạo Tái",
+  "aliases": [
+    "Huyền Quang"
+  ],
+  "overview": "Huyền Quang (玄光), 1254-1334, tên thật là Lý Đạo Tái (李道載), người hương Vạn Tải, châu Nam Sách, lộ Lạng Giang. Nay là làng Vạn Tải, xã Thái Bảo, huyện Gia Bình, tỉnh Bắc Ninh. Học giỏi, đỗ cả thi hương, thi hội. Ông đỗ đệ nhất giáp tiến sĩ (trạng nguyên) khoa thi năm 1272? hay 1274? và được bổ làm việc trong Viện Nội Hàn của triều đình, tiếp sư Bắc triều, nổi tiếng văn thơ. Sau này từ chức đi tu, theo Trần Nhân Tông lên Trúc Lâm. Là một Thiền sư Việt Nam, tổ thứ ba dòng Trúc Lâm Yên Tử. Ông là một nhà thơ lớn với nhiều bài thơ còn được lưu lại. Cùng với Trúc Lâm Đầu Đà Trần Nhân Tông và Pháp Loa, ông được xem là một Đại thiền sư của Việt Nam và người ta xem ông và hai vị nêu trên ngang hàng với sáu vị tổ của Thiền tông Trung Quốc hoặc 28 vị tổ của Thiền Ấn Độ.\n----------------------------------------------\nNăm Giáp tuất 1274 ông đỗ khoa thi hương lúc 20 tuổi, năm sau (1275) đỗ đầu khoa thi hội, được bổ làm việc ở Viện nội Hàn, từng ứng tiếp sứ Trung Quốc, nổi tiếng văn chương. Nhưng chẳng bao lâu ông từ chức xuất gia đầu Phật. Thiền sư Pháp Loa tận tình giúp đỡ ông, về sau khi Pháp Loa mất (1330) ông nối tiếp làm vị tổ thứ ba dòng thiền Trúc Lâm. Đạo hạnh và tài thơ ông khiến sĩ phu kính phục. Tuy nhiên, vẫn có kẻ gièm pha cho là ông chưa hẳn phải bậc chân tu. Do đấy, tương truyền câu chuyện Trần Anh tông cho nàng Điểm Bích đến lân la trêu ghẹo ông, để thử lòng. Rốt lại ông vẫn vững vàng phong độ vị tổ một dòng thiền thuần túy Việt Nam. VuaTrần hối hận về điều thử thách ấy, càng đem lòng quí trọng ông hơn. Năm Giáp tuất 1334 ông mất, thọ 80 tuổi, còn để lại 2 bộ: - Ngọc tiên tập - Chư phẩm kinh - Ngọc liên tập (2 quyển) - Thơ ông còn truyền tụng hơn 20 bài, toàn thể đều thâm trầm ý nhị. Tương truyền khi ông còn trẻ, nhà nghèo khó, cuộc sống vất vả, thường bị bà con, bạn bè hắt hủi. Đến khi ông cố gắng học hành lập thân, đỗ trạng nguyên, tấp nập bạn bè lui tới thường ngày. Ông ngao ngán tình nguời có hai câu thơ cảm xúc: Khó khăn thì chẳng ai nhìn, Đến thi đỗ Trạng chín nghìn anh em. Vì thế, khi công danh thành đạt, ông cũng bỏ cả mà đi tu. Theo Phan Huy Chú thì \"thơ văn Huyền Quang bay bướm phóng khoáng\". Nay thơ ông còn thấy khắc in 3 bài trong Việt âm thi tập, 24 bài trong Toàn Việt thi lục của Lê Quí Đôn, và 7 bài trong Hoàng Việt thi tuyển của Bùi Huy Bích."
 }

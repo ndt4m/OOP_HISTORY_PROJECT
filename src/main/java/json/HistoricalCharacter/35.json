@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "nhà Hậu Lê" : null
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "nhà Hậu Lê": null
   },
-  "id" : 35,
-  "entityName" : "Lê Chiến",
-  "aliases" : [ ],
-  "overview" : "Đình thượng hầu Trương Chiến, hay Lê Chiến là khai quốc công thần nhà Hậu Lê."
+  "id": 35,
+  "entityName": "Lê Chiến",
+  "aliases": [],
+  "overview": "Đình thượng hầu Trương Chiến, hay Lê Chiến là khai quốc công thần nhà Hậu Lê."
 }

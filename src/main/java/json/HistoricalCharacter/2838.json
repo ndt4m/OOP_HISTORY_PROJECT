@@ -1,18 +1,24 @@
 {
-  "dateOfBirth" : "Phan Châu Trinh phủ Tam Kỳ, tỉnh Quảng Nam, Đại Nam\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "Sài Gòn, Đông Dương thuộc Pháp\n----------------------------------------------\nKhông rõ",
-  "hometown" : "quê làng Phú Diễn, huyện Từ Liêm, tỉnh Hà Đông (nay thuộc Hà Nội)",
-  "occupation" : "nhà thơ, nhà văn, nhà hoạt động chính trị\n----------------------------------------------\nVăn thần",
-  "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Phan Văn Bình (cha) Lê Thị Chung (mẹ)" : null
+  "dateOfBirth": "Phan Châu Trinh phủ Tam Kỳ, tỉnh Quảng Nam, Đại Nam\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath": "Sài Gòn, Đông Dương thuộc Pháp\n----------------------------------------------\nKhông rõ",
+  "hometown": "quê làng Phú Diễn, huyện Từ Liêm, tỉnh Hà Đông (nay thuộc Hà Nội)",
+  "occupation": "nhà thơ, nhà văn, nhà hoạt động chính trị\n----------------------------------------------\nVăn thần",
+  "workTenure": "Không rõ",
+  "fatherName": {
+    "Phan Văn Bình (cha) Lê Thị Chung (mẹ)": null
   },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+  "motherName": {},
+  "eraName": {
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 2838,
-  "entityName" : "Vương Duy Trinh",
-  "aliases" : [ "Hương Trì", "Tử Cán", "Đạm Trai", "Phan Tây Hồ", "Tây Hồ" ],
-  "overview" : "Phan Châu Trinh (còn được gọi Phan Chu Trinh; 1872–1926), hiệu là Tây Hồ, Hy Mã, tự là Tử Cán. Ông là nhà thơ, nhà văn, và là nhà hoạt động chính trị thời cận đại trong lịch sử Việt Nam.\n----------------------------------------------\nNăm Canh ngọ 1870 ông đỗ cử nhân, làm Bố chánh, sau thăng đến Tổng đốc Thanh Hóa. Ông có đề tựa bộ Thi tấu hợp biên và soạn các sách: - Thanh Hóa kỉ thắng - Thanh Hóa quan phong - Thi tấu hợp biên Thanh Hóa kỉ thắng (1 quyển) do ông biên soạn, Phạm hữu Nguyên viết lời Dẫn. Thanh Hóa kỉ thắng là một bộ sách ghi chép các thắng tích, về lịch sử, diên cách, các núi, sông, hang động, đền, chùa, và các nhân vật lịch sử danh nhân tỉnh Thanh Hóa. Thanh Hóa quan phong (1 quyển) cũng do ông biên soạn, sưu tập về phong tục thơ ca dân gian của tỉnh Thanh Hóa. Sách giúp độc giả ngày nay thêm hiểu văn học và văn hóa dân gian Thanh Hóa."
+  "id": 2838,
+  "entityName": "Vương Duy Trinh",
+  "aliases": [
+    "Hương Trì",
+    "Tử Cán",
+    "Đạm Trai",
+    "Phan Tây Hồ",
+    "Tây Hồ"
+  ],
+  "overview": "Phan Châu Trinh (còn được gọi Phan Chu Trinh; 1872–1926), hiệu là Tây Hồ, Hy Mã, tự là Tử Cán. Ông là nhà thơ, nhà văn, và là nhà hoạt động chính trị thời cận đại trong lịch sử Việt Nam.\n----------------------------------------------\nNăm Canh ngọ 1870 ông đỗ cử nhân, làm Bố chánh, sau thăng đến Tổng đốc Thanh Hóa. Ông có đề tựa bộ Thi tấu hợp biên và soạn các sách: - Thanh Hóa kỉ thắng - Thanh Hóa quan phong - Thi tấu hợp biên Thanh Hóa kỉ thắng (1 quyển) do ông biên soạn, Phạm hữu Nguyên viết lời Dẫn. Thanh Hóa kỉ thắng là một bộ sách ghi chép các thắng tích, về lịch sử, diên cách, các núi, sông, hang động, đền, chùa, và các nhân vật lịch sử danh nhân tỉnh Thanh Hóa. Thanh Hóa quan phong (1 quyển) cũng do ông biên soạn, sưu tập về phong tục thơ ca dân gian của tỉnh Thanh Hóa. Sách giúp độc giả ngày nay thêm hiểu văn học và văn hóa dân gian Thanh Hóa."
 }

@@ -1,17 +1,17 @@
 {
-  "dateOfBirth" : "Kỉ Dậu 1909",
-  "dateOfDeath" : "Bính Thìn 1976",
-  "hometown" : "quê làng Hội Xá, tỉnh Hà Đông (nay thuộc Hà Nội), con rể Phạm Quỳnh (vợ ông là bà Phạm Thị Ngoạn)",
-  "occupation" : "Nhà văn ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+  "dateOfBirth": "Kỉ Dậu 1909",
+  "dateOfDeath": "Bính Thìn 1976",
+  "hometown": "quê làng Hội Xá, tỉnh Hà Đông (nay thuộc Hà Nội), con rể Phạm Quỳnh (vợ ông là bà Phạm Thị Ngoạn)",
+  "occupation": "Nhà văn ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11,
+    "Nước Việt Nam mới": 29
   },
-  "id" : 1109,
-  "entityName" : "Nguyễn Tiến Lãng",
-  "aliases" : [ ],
-  "overview" : "Thuở nhỏ học ở Hà Nội, sau du học Pháp đỗ Tiến sĩ văn chương Pháp tại Đại học Paris. Sau khi về nước làm việc tại Tòa Thống sứ Bắc Kì, Phủ Toàn quyền Đông Dương ở Hà Nội. Sau đó vào Huế làm bí thư cho hoàng hậu Nam Phương trong những năm 1936-1940. Sau năm 1950 ông sống, làm việc ở Pháp, và mất năm 1976 tại Paris. Các tác phẩm: - Tiếng ngày xanh - Tây phương tình sử - Indochine la douce - Eurydice - Dans les Forêts et dans les Rizières - Amours d'Annam - La France que j'ai vue..."
+  "id": 1109,
+  "entityName": "Nguyễn Tiến Lãng",
+  "aliases": [],
+  "overview": "Thuở nhỏ học ở Hà Nội, sau du học Pháp đỗ Tiến sĩ văn chương Pháp tại Đại học Paris. Sau khi về nước làm việc tại Tòa Thống sứ Bắc Kì, Phủ Toàn quyền Đông Dương ở Hà Nội. Sau đó vào Huế làm bí thư cho hoàng hậu Nam Phương trong những năm 1936-1940. Sau năm 1950 ông sống, làm việc ở Pháp, và mất năm 1976 tại Paris. Các tác phẩm: - Tiếng ngày xanh - Tây phương tình sử - Indochine la douce - Eurydice - Dans les Forêts et dans les Rizières - Amours d\u0027Annam - La France que j\u0027ai vue..."
 }

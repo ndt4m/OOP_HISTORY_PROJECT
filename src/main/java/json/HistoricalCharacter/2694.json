@@ -1,17 +1,17 @@
 {
-  "dateOfBirth" : "Bính Dần 1866",
-  "dateOfDeath" : "Đinh Mùi 1907",
-  "hometown" : "xã Cẩm Lậu, huyện Diên Phước, phủ Điện Bàn, tỉnh Quảng Nam (nay thuộc huyện Điện Bàn, tỉnh Quảng Nam)",
-  "occupation" : "Phó bảng khoa Hội thí Mậu tuất triều Nguyễn",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+  "dateOfBirth": "Bính Dần 1866",
+  "dateOfDeath": "Đinh Mùi 1907",
+  "hometown": "xã Cẩm Lậu, huyện Diên Phước, phủ Điện Bàn, tỉnh Quảng Nam (nay thuộc huyện Điện Bàn, tỉnh Quảng Nam)",
+  "occupation": "Phó bảng khoa Hội thí Mậu tuất triều Nguyễn",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11,
+    "Nước Việt Nam mới": 29
   },
-  "id" : 2694,
-  "entityName" : "Dương Hiển Tiến",
-  "aliases" : [ ],
-  "overview" : "Ông là học sinh trường Đốc Quảng cùng thọ giáo với Đốc học Ma Sơn và đồng môn, đồng khoa với các tiến sĩ Phạm Liệu, Phan Quang... Trong khoa thi nãm Mậu tuất (1898), tỉnh Quảng Nam có một vinh dự chung là trong kì Hội thí tỉnh Quảng Nam có đến 5 vị trúng cách, gồm: tiến sĩ Phạm Liệu, Phan Quang, Phạm Tuấn và hai Phó bảng là Ngô Chuân và ông. Vua Thành Thái hân hoan tặng các sĩ tử trúng cách một tấm biền \"Ngũ phụng tề phi\" (Năm con phụng cùng bay). Kể từ đó việc xưng tụng học trò Quảng Nam học giỏi vang vọng toàn quốc là một niềm khích lệ lớn đối với học sinh toàn quốc và Quảng Nam nói riêng. Sau khi thi đỗ ông dạy học tại quê nhà và đang chờ lệnh bổ dụng thì ông bị bệnh nặng qua đời trong năm 1907."
+  "id": 2694,
+  "entityName": "Dương Hiển Tiến",
+  "aliases": [],
+  "overview": "Ông là học sinh trường Đốc Quảng cùng thọ giáo với Đốc học Ma Sơn và đồng môn, đồng khoa với các tiến sĩ Phạm Liệu, Phan Quang... Trong khoa thi nãm Mậu tuất (1898), tỉnh Quảng Nam có một vinh dự chung là trong kì Hội thí tỉnh Quảng Nam có đến 5 vị trúng cách, gồm: tiến sĩ Phạm Liệu, Phan Quang, Phạm Tuấn và hai Phó bảng là Ngô Chuân và ông. Vua Thành Thái hân hoan tặng các sĩ tử trúng cách một tấm biền \"Ngũ phụng tề phi\" (Năm con phụng cùng bay). Kể từ đó việc xưng tụng học trò Quảng Nam học giỏi vang vọng toàn quốc là một niềm khích lệ lớn đối với học sinh toàn quốc và Quảng Nam nói riêng. Sau khi thi đỗ ông dạy học tại quê nhà và đang chờ lệnh bổ dụng thì ông bị bệnh nặng qua đời trong năm 1907."
 }

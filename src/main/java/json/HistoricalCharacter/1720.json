@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "3 tháng 1 năm 1932 Quảng Trị",
-  "dateOfDeath" : "21 tháng 8 năm 1973 Vũng Tàu",
-  "hometown" : "Không rõ",
-  "occupation" : "Giáo viên",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 1720,
-  "entityName" : "Hoàng Nguyên",
-  "aliases" : [ ],
-  "overview" : "Hoàng Nguyên (1932 - 1973) là một nhạc sĩ tên tuổi, tác giả các ca khúc nổi danh như Ai lên xứ hoa đào, Cho người tình lỡ."
+  "dateOfBirth": "3 tháng 1 năm 1932 Quảng Trị",
+  "dateOfDeath": "21 tháng 8 năm 1973 Vũng Tàu",
+  "hometown": "Không rõ",
+  "occupation": "Giáo viên",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 1720,
+  "entityName": "Hoàng Nguyên",
+  "aliases": [],
+  "overview": "Hoàng Nguyên (1932 - 1973) là một nhạc sĩ tên tuổi, tác giả các ca khúc nổi danh như Ai lên xứ hoa đào, Cho người tình lỡ."
 }

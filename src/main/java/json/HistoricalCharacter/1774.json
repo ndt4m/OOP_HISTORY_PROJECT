@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Nhâm Tí 1912",
-  "dateOfDeath" : "Tân Tị 1941",
-  "hometown" : "tại Sài Gòn (TP",
-  "occupation" : "Tức Huỳnh Khương An, trí thức cách mạng, ông là chiến sĩ quốc tế trong phong trào đấu tranh của nhân dân thế giới chống phát xít",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "Nhâm Tí 1912",
+  "dateOfDeath": "Tân Tị 1941",
+  "hometown": "tại Sài Gòn (TP",
+  "occupation": "Tức Huỳnh Khương An, trí thức cách mạng, ông là chiến sĩ quốc tế trong phong trào đấu tranh của nhân dân thế giới chống phát xít",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 1774,
-  "entityName" : "Hoàng Khương An",
-  "aliases" : [ "Huỳnh Khương An" ],
-  "overview" : "Thuở nhỏ ông học trường Chasseloup Laubat (Sài Gòn) rồi được cha gởi sang Pháp, lúc đầu là sinh viên nội trú của Lycée du Parc ở Lyon. Đến cuối năm 1938 tốt nghiệp Đại học Toulouse, và ngày 19-9-1939 tốt nghiệp cử nhân văn khoa. Ông là người yêu nước, có lí tưởng phụng sự cách mạng, trong thời gian học tập, ông đã tiếp xúc với phong trào cộng sản và công nhân Pháp. Gia nhập tổ chức sinh viên cộng sản, tích cực hoạt động, ông nghiễm nhiên là cán bộ có uy tín, được bầu làm Bí thư của Thanh niên Cộng sản ở Lyon. Năm 1936, ông kết hôn với Germaine Barjon (tức Lucienne Barjon) Đảng viên Đảng Cộng sản Pháp, quê ở Genève (Thụy Sĩ) nữ chiến sĩ cấp trung ương chịu trách nhiệm về \"Hội của những người bạn của Liên bang Xô Viết\". Cuối năm 1938, ông cùng vợ về Paris, tiếp tục học thi Thạc sĩ. Nhưng đến năm 1939-1940, tình hình thế giới căng thẳng, ông tham gia hoạt động bí mật, chống bọn phát xít, dưới lốt Giáo sư tập sự tại Lycée Carnot ở Versaines. Đến ngày 18-6-1941, ông bị địch bắt cùng với vợ tại nhà riêng Paris. Sau bốn tháng bị giam giữ tại trại Choisel ở Chateaubriant ngày 22-10-1942 ông và 26 chiến sĩ cộng sản kiên cường của Đảng Cộng sản Pháp dũng cảm hi sinh trước họng súng của bọn phát xít Đức lúc đó đang chiếm đóng nước Pháp. Ông hi sinh lúc mới 29 tuổi. Kính trọng và quí mến tinh thần hi sinh cao cả của ông. Đảng Cộng sản Pháp đã an táng di hài ông trong đài chiến sĩ Nantes thuộc miền Tây nước Pháp. Sau này, nước Pháp có một chiếc tàu biển mang tên: Tàu Huỳnh Khương An. Nhà văn Femand Grenier viết cuốn Ceux de Chateaubriand (Những con người trại Chateaubriand), có bài tựa của Jean Mercenac: \"Les éclaireurs \" (Những người soi đường) nhiệt liệt ca ngợi, biểu dương khí phách Huỳnh Khương An. Huỳnh Khương An là một người trí thức một chiến sĩ Cộng sản ưu tú, một người bạn thân thiết của giai cấp công nhân Pháp."
+  "id": 1774,
+  "entityName": "Hoàng Khương An",
+  "aliases": [
+    "Huỳnh Khương An"
+  ],
+  "overview": "Thuở nhỏ ông học trường Chasseloup Laubat (Sài Gòn) rồi được cha gởi sang Pháp, lúc đầu là sinh viên nội trú của Lycée du Parc ở Lyon. Đến cuối năm 1938 tốt nghiệp Đại học Toulouse, và ngày 19-9-1939 tốt nghiệp cử nhân văn khoa. Ông là người yêu nước, có lí tưởng phụng sự cách mạng, trong thời gian học tập, ông đã tiếp xúc với phong trào cộng sản và công nhân Pháp. Gia nhập tổ chức sinh viên cộng sản, tích cực hoạt động, ông nghiễm nhiên là cán bộ có uy tín, được bầu làm Bí thư của Thanh niên Cộng sản ở Lyon. Năm 1936, ông kết hôn với Germaine Barjon (tức Lucienne Barjon) Đảng viên Đảng Cộng sản Pháp, quê ở Genève (Thụy Sĩ) nữ chiến sĩ cấp trung ương chịu trách nhiệm về \"Hội của những người bạn của Liên bang Xô Viết\". Cuối năm 1938, ông cùng vợ về Paris, tiếp tục học thi Thạc sĩ. Nhưng đến năm 1939-1940, tình hình thế giới căng thẳng, ông tham gia hoạt động bí mật, chống bọn phát xít, dưới lốt Giáo sư tập sự tại Lycée Carnot ở Versaines. Đến ngày 18-6-1941, ông bị địch bắt cùng với vợ tại nhà riêng Paris. Sau bốn tháng bị giam giữ tại trại Choisel ở Chateaubriant ngày 22-10-1942 ông và 26 chiến sĩ cộng sản kiên cường của Đảng Cộng sản Pháp dũng cảm hi sinh trước họng súng của bọn phát xít Đức lúc đó đang chiếm đóng nước Pháp. Ông hi sinh lúc mới 29 tuổi. Kính trọng và quí mến tinh thần hi sinh cao cả của ông. Đảng Cộng sản Pháp đã an táng di hài ông trong đài chiến sĩ Nantes thuộc miền Tây nước Pháp. Sau này, nước Pháp có một chiếc tàu biển mang tên: Tàu Huỳnh Khương An. Nhà văn Femand Grenier viết cuốn Ceux de Chateaubriand (Những con người trại Chateaubriand), có bài tựa của Jean Mercenac: \"Les éclaireurs \" (Những người soi đường) nhiệt liệt ca ngợi, biểu dương khí phách Huỳnh Khương An. Huỳnh Khương An là một người trí thức một chiến sĩ Cộng sản ưu tú, một người bạn thân thiết của giai cấp công nhân Pháp."
 }

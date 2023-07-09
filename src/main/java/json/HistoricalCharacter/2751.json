@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "1583",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "nhà Lê" : null
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "1583",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "nhà Lê": null
   },
-  "id" : 2751,
-  "entityName" : "Đặng Huấn",
-  "aliases" : [ ],
-  "overview" : "Đặng Huấn (?-1583) là đại thần có công giúp nhà Lê trung hưng thời chiến tranh Lê-Mạc trong lịch sử Việt Nam."
+  "id": 2751,
+  "entityName": "Đặng Huấn",
+  "aliases": [],
+  "overview": "Đặng Huấn (?-1583) là đại thần có công giúp nhà Lê trung hưng thời chiến tranh Lê-Mạc trong lịch sử Việt Nam."
 }

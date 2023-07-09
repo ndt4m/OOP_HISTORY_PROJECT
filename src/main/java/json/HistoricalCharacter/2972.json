@@ -1,18 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Chúa",
-  "workTenure" : "1613—1635",
-  "fatherName" : {
-    "Chúa Tiên" : null
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Chúa",
+  "workTenure": "1613—1635",
+  "fatherName": {
+    "Chúa Tiên": null
   },
-  "motherName" : { },
-  "eraName" : {
-    "Đàng Trong - Chúa Nguyễn" : 5
+  "motherName": {},
+  "eraName": {
+    "Đàng Trong - Chúa Nguyễn": 5
   },
-  "id" : 2972,
-  "entityName" : "Sãi Vương Phật Vương",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Phúc Nguyên (chữ Hán: 阮福源; 16 tháng 8 năm 1563 – 19 tháng 11 năm 1635) hay Nguyễn Hy Tông, Nguyễn Tuyên Tổ, là vị chúa Nguyễn thứ hai của chính quyền Đàng Trong trong lịch sử Việt Nam (ở ngôi từ 1613 đến 1635) sau chúa Tiên Nguyễn Hoàng. Trong thời gian ở ngôi chúa, ông đã xây dựng một vương triều độc lập ở Đàng Trong, từng bước ly khai khỏi chính quyền Lê – Trịnh ở Đàng Ngoài. Ông được dân chúng gọi là chúa Sãi, chúa Bụt hay Phật chúa."
+  "id": 2972,
+  "entityName": "Sãi Vương Phật Vương",
+  "aliases": [],
+  "overview": "Nguyễn Phúc Nguyên (chữ Hán: 阮福源; 16 tháng 8 năm 1563 – 19 tháng 11 năm 1635) hay Nguyễn Hy Tông, Nguyễn Tuyên Tổ, là vị chúa Nguyễn thứ hai của chính quyền Đàng Trong trong lịch sử Việt Nam (ở ngôi từ 1613 đến 1635) sau chúa Tiên Nguyễn Hoàng. Trong thời gian ở ngôi chúa, ông đã xây dựng một vương triều độc lập ở Đàng Trong, từng bước ly khai khỏi chính quyền Lê – Trịnh ở Đàng Ngoài. Ông được dân chúng gọi là chúa Sãi, chúa Bụt hay Phật chúa."
 }

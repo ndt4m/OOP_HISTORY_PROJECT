@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Tân Hợi 1671",
-  "dateOfDeath" : "Bính Thìn 1736",
-  "hometown" : "quê làng Thanh Mai, huyện nên Phong, tỉnh Sơn Tây (nay thuộc tỉnh Hà Tây)",
-  "occupation" : "Danh sĩ đời Lê Hi tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
+  "dateOfBirth": "Tân Hợi 1671",
+  "dateOfDeath": "Bính Thìn 1736",
+  "hometown": "quê làng Thanh Mai, huyện nên Phong, tỉnh Sơn Tây (nay thuộc tỉnh Hà Tây)",
+  "occupation": "Danh sĩ đời Lê Hi tông",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34
   },
-  "id" : 2400,
-  "entityName" : "Lê Anh Tuấn",
-  "aliases" : [ "Địch Hiên" ],
-  "overview" : "Lê Anh Tuấn có thể là:\n----------------------------------------------\nNăm Giáp tuất 1694, ông đỗ đồng tiến sĩ 23 tuổi, làm Tả thị lang bộ Hộ. Năm Ất mùi 1715 ông sung Chánh sứ sang nhà Thanh (Trung Quốc). Khi về, làm Bồi tụng ở phủ chúa Trịnh và hầu giảng ở tòa Kinh diên, được phong tước Điện Thành Nam. Đến năm Canh tí 1720, thăng Thượng thư bộ Hình, tước Điện Quận Công, rồi cùng Nguyễn Công Hoằng và Nguyễn Công Cơ vào làm Tham tụng ở phủ chúa. Ít lâu được gia thăng Thiếu bảo kiêm Đại học sĩ Đông Các (1726); thăng Thượng thư bộ Hộ, gia Thái bảo (1730). Về sau, bị chúa Trịnh nghi kị, phải ra làm Đốc trấn Lạng Sơn và Thái Nguyên (Nhâm tí 1732), rồi lại bị giáng làm Thừa chánh sứ Lạng Sơn (Giáp dần 1734). Năm Bính thìn 1736,chúa Trịnh buộc ông phải tự tử, ông chết trong niềm uất hận, thọ 65 tưổi. Trong kinh, ngoài quận ai cũng thương về cái chết của ông. Năm Tân dậu (1741), chúa Trịnh Doanh lên nối nghiệp chúa, xét lại việc cũ truy phong lại quan tước của ông và truy tặng Thái Bảo, thụy là Đạt Nghi."
+  "id": 2400,
+  "entityName": "Lê Anh Tuấn",
+  "aliases": [
+    "Địch Hiên"
+  ],
+  "overview": "Lê Anh Tuấn có thể là:\n----------------------------------------------\nNăm Giáp tuất 1694, ông đỗ đồng tiến sĩ 23 tuổi, làm Tả thị lang bộ Hộ. Năm Ất mùi 1715 ông sung Chánh sứ sang nhà Thanh (Trung Quốc). Khi về, làm Bồi tụng ở phủ chúa Trịnh và hầu giảng ở tòa Kinh diên, được phong tước Điện Thành Nam. Đến năm Canh tí 1720, thăng Thượng thư bộ Hình, tước Điện Quận Công, rồi cùng Nguyễn Công Hoằng và Nguyễn Công Cơ vào làm Tham tụng ở phủ chúa. Ít lâu được gia thăng Thiếu bảo kiêm Đại học sĩ Đông Các (1726); thăng Thượng thư bộ Hộ, gia Thái bảo (1730). Về sau, bị chúa Trịnh nghi kị, phải ra làm Đốc trấn Lạng Sơn và Thái Nguyên (Nhâm tí 1732), rồi lại bị giáng làm Thừa chánh sứ Lạng Sơn (Giáp dần 1734). Năm Bính thìn 1736,chúa Trịnh buộc ông phải tự tử, ông chết trong niềm uất hận, thọ 65 tưổi. Trong kinh, ngoài quận ai cũng thương về cái chết của ông. Năm Tân dậu (1741), chúa Trịnh Doanh lên nối nghiệp chúa, xét lại việc cũ truy phong lại quan tước của ông và truy tặng Thái Bảo, thụy là Đạt Nghi."
 }

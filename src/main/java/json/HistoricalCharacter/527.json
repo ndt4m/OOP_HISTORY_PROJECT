@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "19 tháng 9, 1916 (101 tuổi)",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "xã Việt Nam, nguyên Phó Chủ nhiệm Ủy ban Khoa học Xã hội (nay là Viện Khoa học Xã hội Việt Nam).",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 527,
-  "entityName" : "Vũ Khiêu",
-  "aliases" : [ "Đặng Vũ Khiêu" ],
-  "overview" : "Vũ Khiêu, tên thật là Đặng Vũ Khiêu (19/09/1916), là một học giả nghiên cứu về văn hóa Việt Nam, Viện trưởng đầu tiên của Viện Xã hội học Việt Nam, nguyên Phó Giám đốc Thông tấn xã Việt Nam, nguyên Phó Chủ nhiệm Ủy ban Khoa học Xã hội (nay là Viện Khoa học Xã hội Việt Nam)."
+  "dateOfBirth": "19 tháng 9, 1916 (101 tuổi)",
+  "dateOfDeath": "Không rõ",
+  "hometown": "xã Việt Nam, nguyên Phó Chủ nhiệm Ủy ban Khoa học Xã hội (nay là Viện Khoa học Xã hội Việt Nam).",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 527,
+  "entityName": "Vũ Khiêu",
+  "aliases": [
+    "Đặng Vũ Khiêu"
+  ],
+  "overview": "Vũ Khiêu, tên thật là Đặng Vũ Khiêu (19/09/1916), là một học giả nghiên cứu về văn hóa Việt Nam, Viện trưởng đầu tiên của Viện Xã hội học Việt Nam, nguyên Phó Giám đốc Thông tấn xã Việt Nam, nguyên Phó Chủ nhiệm Ủy ban Khoa học Xã hội (nay là Viện Khoa học Xã hội Việt Nam)."
 }

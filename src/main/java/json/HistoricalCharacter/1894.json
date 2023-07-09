@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Nhâm Dần 1842",
-  "dateOfDeath" : "Ất Mão 1915",
-  "hometown" : "quê làng Mĩ Chánh, tỉnh Mĩ Tho (nay là Tiền Giang)",
-  "occupation" : "Nhà thơ trào phúng",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "Nhâm Dần 1842",
+  "dateOfDeath": "Ất Mão 1915",
+  "hometown": "quê làng Mĩ Chánh, tỉnh Mĩ Tho (nay là Tiền Giang)",
+  "occupation": "Nhà thơ trào phúng",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 1894,
-  "entityName" : "Nguyễn Văn Lạc",
-  "aliases" : [ "Học Lạc" ],
-  "overview" : "Ông nổi tiếng thơ văn, thông Đông y, hiểu Dịch lí, dạy chữ Hán, làm thuốc giúp người nghèo ở địa phương. Ông sống bình dị, đạm bạc, tính cương trực, khảng khái. Khi giặc Pháp cướp nước, ông lánh mình sống ẩn ở Thuộc Nhiêu, không hợp tác với giặc. Thơ ông còn truyền tụng rất nhiều, châm biếm đả kích những kẻ phản động, tàn dân hại nước. Vợ ông là bà Bảy Khánh cũng là một cây bút nữ nổi tiếng. Năm Ất mão 1915 ông mất, thọ 73 tuổi. Ông là tác giả nhiều bài thơ luật trào phúng có giá trị nghệ thuật, văn chương, như: Ông làng hát Bội, Tạ hương đảng, Con tôm, Chó chết trôi, Thuộc Nhiêu tức cảnh, Tức cảnh ban chiều, Ngồi trăn, Mĩ Tho tức cảnh... đều làm vần trắc rất hợp với thể loại trào phúng, như bài: Tạ hương đảng Vành mân xôi đề \"nhằng Lạc\" Nghĩ mình ti tiện, không đài các. Văn chương chẳng phải bọn mèo quào! Danh phận không ra cái cóc rác. Bởi thế bơ thờ thẹn núi sông, Dám đâu vúc vẳn ngạo cô bác. Việc này dầu có thấu lòng chăng, Trong có ông thần, ngoài cặp hạc! Hoặc bài: Ngồi trăn (Ngồi cùm) Hóa An Nam, lứ khách trú, Trăn trói lằng nhằng chung một lũ. Ngoài mặt ngỡ ngàng lạ Bắc Nam, Trong tai cắt cớ xui đoàn tụ, Bợm làng chằng vị sĩ năm kinh, Ông Bổn không thương người bảy phủ Phạt tạ xong rồi trở lộn về: Hóa thời hốt thuốc, lứ bông vụ. Nguyễn Liêng Phong trong Điếu cổ hạ lim thi tập viết về ông như sau: Nhớ Học Lạc Thầy Học tính vui vẻ Hình dung xem nhỏ nhẹ. Tiếng nói rảng như chuông, Giọng ngân ngang quá ghẹ Đầu thang có thuốc danh, Bói Dịch, nghề hay quẻ. Thi phú giọng hơi cao, Kìm tranh phi ngón lẹ. Văn minh nay đổi đời Tập tục khác ngày lẽ Sống dai mệt xác phàm Thác trước con ma khỏe. Cố nhân mất đã lâu, Linh sàng hay chăng nhẽ? Còn tôi với Nhiêu Phang Bạn tóc xưa mấy kẻ"
+  "id": 1894,
+  "entityName": "Nguyễn Văn Lạc",
+  "aliases": [
+    "Học Lạc"
+  ],
+  "overview": "Ông nổi tiếng thơ văn, thông Đông y, hiểu Dịch lí, dạy chữ Hán, làm thuốc giúp người nghèo ở địa phương. Ông sống bình dị, đạm bạc, tính cương trực, khảng khái. Khi giặc Pháp cướp nước, ông lánh mình sống ẩn ở Thuộc Nhiêu, không hợp tác với giặc. Thơ ông còn truyền tụng rất nhiều, châm biếm đả kích những kẻ phản động, tàn dân hại nước. Vợ ông là bà Bảy Khánh cũng là một cây bút nữ nổi tiếng. Năm Ất mão 1915 ông mất, thọ 73 tuổi. Ông là tác giả nhiều bài thơ luật trào phúng có giá trị nghệ thuật, văn chương, như: Ông làng hát Bội, Tạ hương đảng, Con tôm, Chó chết trôi, Thuộc Nhiêu tức cảnh, Tức cảnh ban chiều, Ngồi trăn, Mĩ Tho tức cảnh... đều làm vần trắc rất hợp với thể loại trào phúng, như bài: Tạ hương đảng Vành mân xôi đề \"nhằng Lạc\" Nghĩ mình ti tiện, không đài các. Văn chương chẳng phải bọn mèo quào! Danh phận không ra cái cóc rác. Bởi thế bơ thờ thẹn núi sông, Dám đâu vúc vẳn ngạo cô bác. Việc này dầu có thấu lòng chăng, Trong có ông thần, ngoài cặp hạc! Hoặc bài: Ngồi trăn (Ngồi cùm) Hóa An Nam, lứ khách trú, Trăn trói lằng nhằng chung một lũ. Ngoài mặt ngỡ ngàng lạ Bắc Nam, Trong tai cắt cớ xui đoàn tụ, Bợm làng chằng vị sĩ năm kinh, Ông Bổn không thương người bảy phủ Phạt tạ xong rồi trở lộn về: Hóa thời hốt thuốc, lứ bông vụ. Nguyễn Liêng Phong trong Điếu cổ hạ lim thi tập viết về ông như sau: Nhớ Học Lạc Thầy Học tính vui vẻ Hình dung xem nhỏ nhẹ. Tiếng nói rảng như chuông, Giọng ngân ngang quá ghẹ Đầu thang có thuốc danh, Bói Dịch, nghề hay quẻ. Thi phú giọng hơi cao, Kìm tranh phi ngón lẹ. Văn minh nay đổi đời Tập tục khác ngày lẽ Sống dai mệt xác phàm Thác trước con ma khỏe. Cố nhân mất đã lâu, Linh sàng hay chăng nhẽ? Còn tôi với Nhiêu Phang Bạn tóc xưa mấy kẻ"
 }

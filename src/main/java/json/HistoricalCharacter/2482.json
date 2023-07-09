@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Tân Dậu 1621",
-  "dateOfDeath" : "Giáp Tí 1684",
-  "hometown" : "Quê làng Mộ Trạch, huyện Đường An, tỉnh Hải Dương",
-  "occupation" : "Danh sĩ đời Lê Huyền tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
+  "dateOfBirth": "Tân Dậu 1621",
+  "dateOfDeath": "Giáp Tí 1684",
+  "hometown": "Quê làng Mộ Trạch, huyện Đường An, tỉnh Hải Dương",
+  "occupation": "Danh sĩ đời Lê Huyền tông",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34
   },
-  "id" : 2482,
-  "entityName" : "Võ Duy Đoán",
-  "aliases" : [ "Quế Am" ],
-  "overview" : "Ông thuở trẻ tối dạ, học kém, mãi đến năm 17 tuổi mới phát tâm chăm học, nổi tiếng hay chữ. Ông đi thi Hương đỗ Giải nguyên, rồi đỗ Hội nguyên khoa Giáp thìn 1664, được chúa Trịnh Tạc ưu đãi làm đến Thượng thư bộ Công tước Đường Xuyên Tử. Tính ông trung trực, khảng khái, gặp việc dám nói thẳng. Ông biên soạn quyển Kim giám lục dâng chúa Trịnh, đại khái khuyên chúa nên giữ lòng chân chính, nên biết dùng người, tránh nghe lời gièm pha của bọn nịnh thần, bớt xa xỉ... Sau vì việc nói thẳng làm phật lòng chúa Trịnh, ông và Võ Công Đạo bị bãi chức. Về quê ở ẩn, ông dạy học, chuyên tâm sáng tác văn học. Năm Giáp tí 1684 ông mất, thọ 63 tuổi. Còn để lại đời nhiều thơ phú như: - Hàn Tín điếu thành hạ - Phạm Lãi du ngũ hồ... - Trạch hương phong cảnh - Nông gia khảo tích dị văn (phần lớn đều bằng chữ Nôm)."
+  "id": 2482,
+  "entityName": "Võ Duy Đoán",
+  "aliases": [
+    "Quế Am"
+  ],
+  "overview": "Ông thuở trẻ tối dạ, học kém, mãi đến năm 17 tuổi mới phát tâm chăm học, nổi tiếng hay chữ. Ông đi thi Hương đỗ Giải nguyên, rồi đỗ Hội nguyên khoa Giáp thìn 1664, được chúa Trịnh Tạc ưu đãi làm đến Thượng thư bộ Công tước Đường Xuyên Tử. Tính ông trung trực, khảng khái, gặp việc dám nói thẳng. Ông biên soạn quyển Kim giám lục dâng chúa Trịnh, đại khái khuyên chúa nên giữ lòng chân chính, nên biết dùng người, tránh nghe lời gièm pha của bọn nịnh thần, bớt xa xỉ... Sau vì việc nói thẳng làm phật lòng chúa Trịnh, ông và Võ Công Đạo bị bãi chức. Về quê ở ẩn, ông dạy học, chuyên tâm sáng tác văn học. Năm Giáp tí 1684 ông mất, thọ 63 tuổi. Còn để lại đời nhiều thơ phú như: - Hàn Tín điếu thành hạ - Phạm Lãi du ngũ hồ... - Trạch hương phong cảnh - Nông gia khảo tích dị văn (phần lớn đều bằng chữ Nôm)."
 }

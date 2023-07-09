@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Ất Mão 1915",
-  "dateOfDeath" : "Giáp Thân 1944",
-  "hometown" : "quê ở thị xã Vinh, tỉnh Nghệ An, nguyên là hôn thê của ông Võ Nguyên Giáp (Đại tướng)",
-  "occupation" : "Liệt sĩ cách mạng, em ruột Nguyễn Thị Minh Khai",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "Ất Mão 1915",
+  "dateOfDeath": "Giáp Thân 1944",
+  "hometown": "quê ở thị xã Vinh, tỉnh Nghệ An, nguyên là hôn thê của ông Võ Nguyên Giáp (Đại tướng)",
+  "occupation": "Liệt sĩ cách mạng, em ruột Nguyễn Thị Minh Khai",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 132,
-  "entityName" : "Nguyễn Thị Quang Thái",
-  "aliases" : [ ],
-  "overview" : "Mười sáu năm nay sống ở đời, Nhân tình nghĩ đến lệ đầy vơi, Trông phường đế quốc lòng ngao ngán, Thấy bạn cầm lao dạ rối bời. Quyết chí hi sinh dù máu đổ, Đem lòng phấn đấu mặc đầu rơi. Ngọn cờ vô sản bao giờ phất, Chín suối hồn ta mỉm miệng cười. Bà mất trong nhà tù Hỏa Lò (Hà Nội) năm 1944, hưởng dương 29 tuổi."
+  "id": 132,
+  "entityName": "Nguyễn Thị Quang Thái",
+  "aliases": [],
+  "overview": "Mười sáu năm nay sống ở đời, Nhân tình nghĩ đến lệ đầy vơi, Trông phường đế quốc lòng ngao ngán, Thấy bạn cầm lao dạ rối bời. Quyết chí hi sinh dù máu đổ, Đem lòng phấn đấu mặc đầu rơi. Ngọn cờ vô sản bao giờ phất, Chín suối hồn ta mỉm miệng cười. Bà mất trong nhà tù Hỏa Lò (Hà Nội) năm 1944, hưởng dương 29 tuổi."
 }

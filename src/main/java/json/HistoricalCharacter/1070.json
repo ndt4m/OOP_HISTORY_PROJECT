@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "1236",
-  "dateOfDeath" : "1285",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "nhà Nguyên" : null
+  "dateOfBirth": "1236",
+  "dateOfDeath": "1285",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "nhà Nguyên": null
   },
-  "id" : 1070,
-  "entityName" : "Lý Hằng",
-  "aliases" : [ "Đức Khanh" ],
-  "overview" : "Lý Hằng (chữ Hán: 李恒), tự là Đức Khanh (德卿), (1236 – 1285), người Đảng Hạng, là một trong những tướng lĩnh xuất sắc của nhà Nguyên. Lý Hằng mất vì trúng tên độc khi xâm lăng Đại Việt."
+  "id": 1070,
+  "entityName": "Lý Hằng",
+  "aliases": [
+    "Đức Khanh"
+  ],
+  "overview": "Lý Hằng (chữ Hán: 李恒), tự là Đức Khanh (德卿), (1236 – 1285), người Đảng Hạng, là một trong những tướng lĩnh xuất sắc của nhà Nguyên. Lý Hằng mất vì trúng tên độc khi xâm lăng Đại Việt."
 }

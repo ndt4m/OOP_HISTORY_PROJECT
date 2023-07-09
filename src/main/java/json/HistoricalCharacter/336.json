@@ -1,20 +1,23 @@
 {
-  "dateOfBirth" : "573",
-  "dateOfDeath" : "581",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Bắc Chu",
-  "workTenure" : "1 tháng 4 năm 579 – 4 tháng 3 năm 581 (1 năm, 337 ngày)",
-  "fatherName" : {
-    "Bắc Chu Tuyên Đế" : null
+  "dateOfBirth": "573",
+  "dateOfDeath": "581",
+  "hometown": "Không rõ",
+  "occupation": "Hoàng đế Bắc Chu",
+  "workTenure": "1 tháng 4 năm 579 – 4 tháng 3 năm 581 (1 năm, 337 ngày)",
+  "fatherName": {
+    "Bắc Chu Tuyên Đế": null
   },
-  "motherName" : {
-    "Chu Mãn Nguyệt" : null
+  "motherName": {
+    "Chu Mãn Nguyệt": null
   },
-  "eraName" : {
-    "Bắc Chu" : null
+  "eraName": {
+    "Bắc Chu": null
   },
-  "id" : 336,
-  "entityName" : "Vũ Văn Xiển",
-  "aliases" : [ "Tên đầy đủ Vũ Văn Diễn/Vũ Văn Xiển Niên hiệu Đại Tượng (大象) 2/579-580 ÂL Đại Định (大定) 1/2-581 ÂL Thụy hiệu Tĩnh Hoàng Đế (靜皇帝)", "Vũ Văn Diễn" ],
-  "overview" : "Bắc Chu Tĩnh Đế (北周靜帝) (573–581), nguyên danh Vũ Văn Diễn (宇文衍), sau cải thành Vũ Văn Xiển (宇文闡), là vị hoàng đế cuối cùng của triều đại Bắc Chu trong lịch sử Trung Quốc. Ông trở thành hoàng đế vào năm sáu tuổi khi được cha Tuyên Đế nhường ngôi, tuy nhiên Tuyên Đế vẫn giữ quyền cai trị đế quốc. Sau khi Tuyên Đế qua đời vào năm 580, Dương Kiên đã trở thành đại thần phụ chính. Dương Kiên đã nhanh chóng đánh bại tướng Uất Trì Huýnh khi người này cố chống lại ông ta, và đến năm 581, Dương Kiên đã buộc Tĩnh Đế phải nhường ngôi cho mình, kết thúc triều Bắc Chu và thiết lập triều Tùy. Dương Kiên sau đã giết chết cựu hoàng đế cũng như các thành viên khác trong hoàng tộc Vũ Văn của Bắc Chu."
+  "id": 336,
+  "entityName": "Vũ Văn Xiển",
+  "aliases": [
+    "Tên đầy đủ Vũ Văn Diễn/Vũ Văn Xiển Niên hiệu Đại Tượng (大象) 2/579-580 ÂL Đại Định (大定) 1/2-581 ÂL Thụy hiệu Tĩnh Hoàng Đế (靜皇帝)",
+    "Vũ Văn Diễn"
+  ],
+  "overview": "Bắc Chu Tĩnh Đế (北周靜帝) (573–581), nguyên danh Vũ Văn Diễn (宇文衍), sau cải thành Vũ Văn Xiển (宇文闡), là vị hoàng đế cuối cùng của triều đại Bắc Chu trong lịch sử Trung Quốc. Ông trở thành hoàng đế vào năm sáu tuổi khi được cha Tuyên Đế nhường ngôi, tuy nhiên Tuyên Đế vẫn giữ quyền cai trị đế quốc. Sau khi Tuyên Đế qua đời vào năm 580, Dương Kiên đã trở thành đại thần phụ chính. Dương Kiên đã nhanh chóng đánh bại tướng Uất Trì Huýnh khi người này cố chống lại ông ta, và đến năm 581, Dương Kiên đã buộc Tĩnh Đế phải nhường ngôi cho mình, kết thúc triều Bắc Chu và thiết lập triều Tùy. Dương Kiên sau đã giết chết cựu hoàng đế cũng như các thành viên khác trong hoàng tộc Vũ Văn của Bắc Chu."
 }

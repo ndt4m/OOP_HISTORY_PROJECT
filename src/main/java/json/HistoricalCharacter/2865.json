@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Mậu Ngọ 1378",
-  "dateOfDeath" : "Giáp Tuất 1454",
-  "hometown" : "người làng Triều Đông, huyện Thượng Phúc (Hà Đông), là nhà thơ, làm quan thời Lê sơ, đỗ Thái học sinh khoa Canh Thìn (1400), năm Thánh Nguyên đời Hồ Quý Ly.\n----------------------------------------------\nquê làng Triều Đông, huyện Thượng Phúc (nay thuộc tỉnh Hà Tây)",
-  "occupation" : "Danh sĩ, tác giả đời Lê sơ, Nguyên tên là Tấn",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Triều Lê Sơ" : 7
+  "dateOfBirth": "Mậu Ngọ 1378",
+  "dateOfDeath": "Giáp Tuất 1454",
+  "hometown": "người làng Triều Đông, huyện Thượng Phúc (Hà Đông), là nhà thơ, làm quan thời Lê sơ, đỗ Thái học sinh khoa Canh Thìn (1400), năm Thánh Nguyên đời Hồ Quý Ly.\n----------------------------------------------\nquê làng Triều Đông, huyện Thượng Phúc (nay thuộc tỉnh Hà Tây)",
+  "occupation": "Danh sĩ, tác giả đời Lê sơ, Nguyên tên là Tấn",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Triều Lê Sơ": 7
   },
-  "id" : 2865,
-  "entityName" : "Lý Tử Tấn",
-  "aliases" : [ "Chuyết Am" ],
-  "overview" : "Lý Tử Tấn, thường gọi bằng tên tự là Tử Tấn, người làng Triều Đông, huyện Thượng Phúc (Hà Đông), là nhà thơ, làm quan thời Lê sơ, đỗ Thái học sinh khoa Canh Thìn (1400), năm Thánh Nguyên đời Hồ Quý Ly. Lý Tử Tấn làm quan đến Học sĩ viện Hàn lâm các, trải 3 đời vua Lê Thái Tổ, Lê Thái Tông, Lê Nhân Tông.\n----------------------------------------------\nNăm Canh thìn 1400 ông đỗ thái học sinh (tiến sĩ) đời nhà Hồ. Đến khi cuộc khởi nghĩa Lm Sơn thành công, ông vào yết kiến Lê Thái tổ, được nạp dụng. Làm quan qua ba triều vua, trải các chức Thông phụng đại phu, Hành khiển bắc đạo, Thừa chỉ Viện Hàn lâm, vào hầu giảng ở tòa Kinh diên. Tài đức ông, sĩ phu đều trọng vọng. Năm Giáp tuất 1454 ông mất, thọ 76 tuổi (có sách ghi mất năm 1457) còn để lại tác phẩm Chuyết Am thi tập. Ông cũng có làm lời thông luận cho bộ Dư địa chí của Nguyễn Trãi, hiệu chính và phê điểm trong bộ Việt âm thi tập. Bộ Chuyết Am thi tập của ông nay không còn, nhưng trong Toàn Viêt thi lục của Lê Quí Đôn còn ghi 73 bài thơ của ông. Trong Quần hiền phú còn ghi 5 bài phú của ông, được ca tụng là bài Phú Xương Giang. Bộ Chuyết Trai văn tập do ông soạn. Về sách này Phan Huy Chú cho rằng thơ Lý Tử Tấn bình đạm, nhiều ý cổ và trích một số bài trong sách mình (PHC). Về thơ Lý Tử Tấn sách Việt âm thi tập có ghi ở mục lục là quyển 4 có 30 bài, Toàn Việt thi lục (quyển 7) chép 72 bài của Lý Tử Tấn, Hoàng Việt thi tuyển trích 8 bài."
+  "id": 2865,
+  "entityName": "Lý Tử Tấn",
+  "aliases": [
+    "Chuyết Am"
+  ],
+  "overview": "Lý Tử Tấn, thường gọi bằng tên tự là Tử Tấn, người làng Triều Đông, huyện Thượng Phúc (Hà Đông), là nhà thơ, làm quan thời Lê sơ, đỗ Thái học sinh khoa Canh Thìn (1400), năm Thánh Nguyên đời Hồ Quý Ly. Lý Tử Tấn làm quan đến Học sĩ viện Hàn lâm các, trải 3 đời vua Lê Thái Tổ, Lê Thái Tông, Lê Nhân Tông.\n----------------------------------------------\nNăm Canh thìn 1400 ông đỗ thái học sinh (tiến sĩ) đời nhà Hồ. Đến khi cuộc khởi nghĩa Lm Sơn thành công, ông vào yết kiến Lê Thái tổ, được nạp dụng. Làm quan qua ba triều vua, trải các chức Thông phụng đại phu, Hành khiển bắc đạo, Thừa chỉ Viện Hàn lâm, vào hầu giảng ở tòa Kinh diên. Tài đức ông, sĩ phu đều trọng vọng. Năm Giáp tuất 1454 ông mất, thọ 76 tuổi (có sách ghi mất năm 1457) còn để lại tác phẩm Chuyết Am thi tập. Ông cũng có làm lời thông luận cho bộ Dư địa chí của Nguyễn Trãi, hiệu chính và phê điểm trong bộ Việt âm thi tập. Bộ Chuyết Am thi tập của ông nay không còn, nhưng trong Toàn Viêt thi lục của Lê Quí Đôn còn ghi 73 bài thơ của ông. Trong Quần hiền phú còn ghi 5 bài phú của ông, được ca tụng là bài Phú Xương Giang. Bộ Chuyết Trai văn tập do ông soạn. Về sách này Phan Huy Chú cho rằng thơ Lý Tử Tấn bình đạm, nhiều ý cổ và trích một số bài trong sách mình (PHC). Về thơ Lý Tử Tấn sách Việt âm thi tập có ghi ở mục lục là quyển 4 có 30 bài, Toàn Việt thi lục (quyển 7) chép 72 bài của Lý Tử Tấn, Hoàng Việt thi tuyển trích 8 bài."
 }

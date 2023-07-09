@@ -1,16 +1,21 @@
 {
-  "dateOfBirth" : "1771\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "1847\n----------------------------------------------\nCanh Tuất 1850",
-  "hometown" : "quê làng Luật Chánh xã Phước Hiệp huyện Tuy Phước tỉnh Bình Định.\n----------------------------------------------\nquê huyện Gia Lộc, tỉnh Hải Dương",
-  "occupation" : "Danh thần đời T",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+  "dateOfBirth": "1771\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath": "1847\n----------------------------------------------\nCanh Tuất 1850",
+  "hometown": "quê làng Luật Chánh xã Phước Hiệp huyện Tuy Phước tỉnh Bình Định.\n----------------------------------------------\nquê huyện Gia Lộc, tỉnh Hải Dương",
+  "occupation": "Danh thần đời T",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 907,
-  "entityName" : "Bùi Văn Thúy",
-  "aliases" : [ "Lê Đại Cang", "Thống Thiện", "Trị", "Kỳ Phong" ],
-  "overview" : "Lê Đại Cương (chữ Hán: 黎大綱, 1771 - 1847) còn gọi là Lê Đại Cang, tự Thống Thiện, hiệu Kỳ Phong. Ông quê làng Luật Chánh xã Phước Hiệp huyện Tuy Phước tỉnh Bình Định., là một vị quan nổi tiếng tài năng, trung chính thời Nguyễn, trải qua ba đời vua Gia Long, Minh Mạng, Thiệu Trị, từng làm đến chức Tổng đốc.\n----------------------------------------------\nNăm Nhâm dần 1842, đỗ cử nhân, làm quan trải 2 triều Thiệu Trị, Tự Đức, có công trong việc chống bọn cướp biển Tàu. Năm Canh tuất 1850, ông quyền lãnh ấn Vụ châu Vạn Ninh. Bấy giờ có giặc Tàu ô quấy phá, ông lo chống giữ, mưu việc trị an hết lòng bảo vệ dân chúng. Thế yếu ông bị giặc giết. Dân chúng đều thương tiếc. Triều đình phong tặng ông chức Tri châu."
+  "id": 907,
+  "entityName": "Bùi Văn Thúy",
+  "aliases": [
+    "Lê Đại Cang",
+    "Thống Thiện",
+    "Trị",
+    "Kỳ Phong"
+  ],
+  "overview": "Lê Đại Cương (chữ Hán: 黎大綱, 1771 - 1847) còn gọi là Lê Đại Cang, tự Thống Thiện, hiệu Kỳ Phong. Ông quê làng Luật Chánh xã Phước Hiệp huyện Tuy Phước tỉnh Bình Định., là một vị quan nổi tiếng tài năng, trung chính thời Nguyễn, trải qua ba đời vua Gia Long, Minh Mạng, Thiệu Trị, từng làm đến chức Tổng đốc.\n----------------------------------------------\nNăm Nhâm dần 1842, đỗ cử nhân, làm quan trải 2 triều Thiệu Trị, Tự Đức, có công trong việc chống bọn cướp biển Tàu. Năm Canh tuất 1850, ông quyền lãnh ấn Vụ châu Vạn Ninh. Bấy giờ có giặc Tàu ô quấy phá, ông lo chống giữ, mưu việc trị an hết lòng bảo vệ dân chúng. Thế yếu ông bị giặc giết. Dân chúng đều thương tiếc. Triều đình phong tặng ông chức Tri châu."
 }

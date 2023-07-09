@@ -1,16 +1,19 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Quí Mão 43",
-  "hometown" : "huyện Mê Linh (ngoại thành Hà Nội) không rõ năm sinh",
-  "occupation" : "Nữ anh hùng dân tộc, lãnh tụ cuộc khởi nghĩa giành độc lập trong thời Bắc thuộc lần thứ nhất",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Trưng Nữ Vương" : 10
+  "dateOfBirth": "…",
+  "dateOfDeath": "Quí Mão 43",
+  "hometown": "huyện Mê Linh (ngoại thành Hà Nội) không rõ năm sinh",
+  "occupation": "Nữ anh hùng dân tộc, lãnh tụ cuộc khởi nghĩa giành độc lập trong thời Bắc thuộc lần thứ nhất",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Trưng Nữ Vương": 10
   },
-  "id" : 2348,
-  "entityName" : "Trưng Trắc - Trưng Nhị",
-  "aliases" : [ "Trưng Nhị", "Hai Bà Trưng" ],
-  "overview" : "Hai Bà Trưng (chữ Nôm: ?婆徵) là thời kỳ xen giữa Bắc thuộc lần 1 và Bắc thuộc lần 2 trong lịch sử Việt Nam. Đây là tên gọi chung của hai chị em Trưng Trắc (chữ Hán: 徵側) và Trưng Nhị (徵貳), là anh hùng dân tộc của người Việt, những thủ lĩnh khởi binh chống lại nhà Đông Hán của Trung Quốc, lập ra một quốc gia với kinh đô tại Mê Linh và tự phong là Nữ vương.\n----------------------------------------------\nTương truyền gia đình bà chuyên nghề nuôi tằm, kéo tơ nên đặt cho hai chị em bà là Trắc (lứa đầu, lứa chắc) em là Nhị (lứa nhị). Cha mất sớm, nhờ mẹ là Trần Thị Đoan (tục danh Man Thiện) chăm sóc giáo dục, bà và em đều giỏi võ nghệ, nuôi chí lớn dựng lại cơ nghiệp Hùng Vương. Chồng bà là Thi Sách (con trai Lạc tướng Châu Diên) cũng là người nhiệt thành lo việc cứu nước, cứu dân. Năm Kỉ hợi 39, chồng bà bị Thái thú Tô Định giết, bà cùng mẹ và em tập họp các Lạc hầu, Lạc tướng kêu gọi quân dân đoàn kết, đánh đuổi giặc thù. Đầu xuân Canh tí 40, cuộc khởi nghĩa phát động bà tuyên thệ bốn điều: Một xin rửa sạch nước thù, Hai xin đem lại nghiệp xưa họ Hùng. Ba kẻo oan ức lòng chồng, Bốn xin vẻn vẹn sở công lênh này. (Thiên Nam ngữ lục) Khởi nghĩa thành công bà lên ngôi vua, phong quan tước cho các thủ lĩnh tướng sĩ. Sau đó, vua Quang Võ nhà Hán sai Mã Viện, Lưu Long và Đoàn Chí sang xâm lược lần nữa. Bà cùng toàn quân toàn dân kiên quyết kháng chiến. Nhưng thế yếu thua nhiều trận lớn ở vùng hồ Lãng Bạc (Tiên Sơn - Hà Bắc), Cấm Khê (Ba Vì - Hà Nội), hai chị em bà gieo mình xuống Hát Giang tử tiết vào ngày mùng 6-2 âm lịch Quí mão 43. Đời sau, Hoàng Thúc Hội đề vịnh chị em bà: Ngựa Gióng đã lên không, Rừng Thanh voi chửa lồng. Nở chồi hoa nụ Lạc, Mở mặt nước non Hồng, Trăng tỏ gương hồ Bạc. Mây tan dâu cột đồng. Nén hương lòng cố quốc, Xin khấn một lòng chung."
+  "id": 2348,
+  "entityName": "Trưng Trắc - Trưng Nhị",
+  "aliases": [
+    "Trưng Nhị",
+    "Hai Bà Trưng"
+  ],
+  "overview": "Hai Bà Trưng (chữ Nôm: ?婆徵) là thời kỳ xen giữa Bắc thuộc lần 1 và Bắc thuộc lần 2 trong lịch sử Việt Nam. Đây là tên gọi chung của hai chị em Trưng Trắc (chữ Hán: 徵側) và Trưng Nhị (徵貳), là anh hùng dân tộc của người Việt, những thủ lĩnh khởi binh chống lại nhà Đông Hán của Trung Quốc, lập ra một quốc gia với kinh đô tại Mê Linh và tự phong là Nữ vương.\n----------------------------------------------\nTương truyền gia đình bà chuyên nghề nuôi tằm, kéo tơ nên đặt cho hai chị em bà là Trắc (lứa đầu, lứa chắc) em là Nhị (lứa nhị). Cha mất sớm, nhờ mẹ là Trần Thị Đoan (tục danh Man Thiện) chăm sóc giáo dục, bà và em đều giỏi võ nghệ, nuôi chí lớn dựng lại cơ nghiệp Hùng Vương. Chồng bà là Thi Sách (con trai Lạc tướng Châu Diên) cũng là người nhiệt thành lo việc cứu nước, cứu dân. Năm Kỉ hợi 39, chồng bà bị Thái thú Tô Định giết, bà cùng mẹ và em tập họp các Lạc hầu, Lạc tướng kêu gọi quân dân đoàn kết, đánh đuổi giặc thù. Đầu xuân Canh tí 40, cuộc khởi nghĩa phát động bà tuyên thệ bốn điều: Một xin rửa sạch nước thù, Hai xin đem lại nghiệp xưa họ Hùng. Ba kẻo oan ức lòng chồng, Bốn xin vẻn vẹn sở công lênh này. (Thiên Nam ngữ lục) Khởi nghĩa thành công bà lên ngôi vua, phong quan tước cho các thủ lĩnh tướng sĩ. Sau đó, vua Quang Võ nhà Hán sai Mã Viện, Lưu Long và Đoàn Chí sang xâm lược lần nữa. Bà cùng toàn quân toàn dân kiên quyết kháng chiến. Nhưng thế yếu thua nhiều trận lớn ở vùng hồ Lãng Bạc (Tiên Sơn - Hà Bắc), Cấm Khê (Ba Vì - Hà Nội), hai chị em bà gieo mình xuống Hát Giang tử tiết vào ngày mùng 6-2 âm lịch Quí mão 43. Đời sau, Hoàng Thúc Hội đề vịnh chị em bà: Ngựa Gióng đã lên không, Rừng Thanh voi chửa lồng. Nở chồi hoa nụ Lạc, Mở mặt nước non Hồng, Trăng tỏ gương hồ Bạc. Mây tan dâu cột đồng. Nén hương lòng cố quốc, Xin khấn một lòng chung."
 }

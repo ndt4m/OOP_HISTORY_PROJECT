@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Tân Dậu 1861",
-  "hometown" : "quê làng An Long, huyện Tân Hòa, tỉnh Gia Định, nay là huyện Gò Công Đông, tỉnh Tiền Giang",
-  "occupation" : "Nhà yêu nước chống Pháp xâm lược",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+  "dateOfBirth": "…",
+  "dateOfDeath": "Tân Dậu 1861",
+  "hometown": "quê làng An Long, huyện Tân Hòa, tỉnh Gia Định, nay là huyện Gò Công Đông, tỉnh Tiền Giang",
+  "occupation": "Nhà yêu nước chống Pháp xâm lược",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 1981,
-  "entityName" : "Huyện Thoại",
-  "aliases" : [ ],
-  "overview" : "Ông đậu cử nhân năm 1843, được cử giữ chức Tri huyện Long Thành, nên gọi là Huyện Thoại, người Pháp viết là Huyện Toại, ta theo đó mà ghi sai luôn. Khi quân Pháp chiếm Gia Định, ông mộ được 300 nghĩa quân, hợp sức với nghĩa quân Trương Định, đánh địch ở vùngTân Hòa, Gò Công. Ngày 226-1861 ông chỉ huy nghĩa quân đánh đồn Gò Công. Ông chiến đấu rất anh dũng, đâm chết một tên lính thủy và đâm trọng thương viên trung uý Pháp, rồi bị trúng đạn hi sinh."
+  "id": 1981,
+  "entityName": "Huyện Thoại",
+  "aliases": [],
+  "overview": "Ông đậu cử nhân năm 1843, được cử giữ chức Tri huyện Long Thành, nên gọi là Huyện Thoại, người Pháp viết là Huyện Toại, ta theo đó mà ghi sai luôn. Khi quân Pháp chiếm Gia Định, ông mộ được 300 nghĩa quân, hợp sức với nghĩa quân Trương Định, đánh địch ở vùngTân Hòa, Gò Công. Ngày 226-1861 ông chỉ huy nghĩa quân đánh đồn Gò Công. Ông chiến đấu rất anh dũng, đâm chết một tên lính thủy và đâm trọng thương viên trung uý Pháp, rồi bị trúng đạn hi sinh."
 }

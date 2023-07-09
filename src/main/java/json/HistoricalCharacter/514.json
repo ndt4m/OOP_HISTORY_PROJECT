@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 514,
-  "entityName" : "Đỗ Hưng",
-  "aliases" : [ "Quỷ Kiểm Nhi" ],
-  "overview" : "Đỗ Hưng (杜興) là nhân vật tưởng tượng trong tiểu thuyết Thủy Hử của Thi Nại Am. Ông được xếp hạng 89 trong số 108 vị anh hùng Lương Sơn Bạc, và đứng thứ 53 trong số 72 địa sát. Vì có vết sẹo lớn trên mặt, ông có biệt hiệu Quỷ Kiểm Nhi."
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 514,
+  "entityName": "Đỗ Hưng",
+  "aliases": [
+    "Quỷ Kiểm Nhi"
+  ],
+  "overview": "Đỗ Hưng (杜興) là nhân vật tưởng tượng trong tiểu thuyết Thủy Hử của Thi Nại Am. Ông được xếp hạng 89 trong số 108 vị anh hùng Lương Sơn Bạc, và đứng thứ 53 trong số 72 địa sát. Vì có vết sẹo lớn trên mặt, ông có biệt hiệu Quỷ Kiểm Nhi."
 }

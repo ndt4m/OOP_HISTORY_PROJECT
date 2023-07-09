@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Canh Ngọ 1090",
-  "hometown" : "quê ở Thăn Long (nay thuộc Hà Nội)",
-  "occupation" : "Thiền sư đời Lý Nhân tông, không rõ tên thật",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Lý" : 14
+  "dateOfBirth": "…",
+  "dateOfDeath": "Canh Ngọ 1090",
+  "hometown": "quê ở Thăn Long (nay thuộc Hà Nội)",
+  "occupation": "Thiền sư đời Lý Nhân tông, không rõ tên thật",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Lý": 14
   },
-  "id" : 1195,
-  "entityName" : "Nhan Quảng Trí",
-  "aliases" : [ "Quảng Trí" ],
-  "overview" : "Ông là anh ruột Hoàng phi Chương Phụng, nhưng không tham chính, xuất gia đi tu tại chùa Quang Đính trên núi Không Lộ. Về sau đứng vào hàng thế hệ thứ 13 dòng thiền Quan Bích. Năm Canh ngọ 1909, ông viên tịch. Đương thời giới thức gia rất kính mộ trí thức và đạo hạnh của ông, Thượng thư bộ Công Đoàn Văn Khâm rất quí trọng ông, đến khi ông mất, Đoàn có thơ viếng: \"Lâm loan bạch thủ động kinh thành, Phất tụ cao sơn viễn cánh hinh. Kỉ nguyện tỉnh cân xu trượng tịch, Hốt vãn di lí yểm thiền quynh. Trai đình u điểu không để nguyệt, Mộ tháp thùy nhân vị tác minh! Đạo lữ bất tu thương vĩnh biệt, Viện tiền sơn thủy thị chân hình. Bản dịch: Lánh chợ vào rừng tóc bạc phơ, Non cao rũ áo ngát hưỡng thừa. Chùm khăn những muốn hầu bên chiếu, Treo dép đà nghe pháp cửa chùa. Trăng dội sân trai chim khắc khoải, Tháp không bia chữ mộ thờ ơ. Bạn thiền thôi cũng đừng thươngxót. Non nước ngoài am đó dáng xưa."
+  "id": 1195,
+  "entityName": "Nhan Quảng Trí",
+  "aliases": [
+    "Quảng Trí"
+  ],
+  "overview": "Ông là anh ruột Hoàng phi Chương Phụng, nhưng không tham chính, xuất gia đi tu tại chùa Quang Đính trên núi Không Lộ. Về sau đứng vào hàng thế hệ thứ 13 dòng thiền Quan Bích. Năm Canh ngọ 1909, ông viên tịch. Đương thời giới thức gia rất kính mộ trí thức và đạo hạnh của ông, Thượng thư bộ Công Đoàn Văn Khâm rất quí trọng ông, đến khi ông mất, Đoàn có thơ viếng: \"Lâm loan bạch thủ động kinh thành, Phất tụ cao sơn viễn cánh hinh. Kỉ nguyện tỉnh cân xu trượng tịch, Hốt vãn di lí yểm thiền quynh. Trai đình u điểu không để nguyệt, Mộ tháp thùy nhân vị tác minh! Đạo lữ bất tu thương vĩnh biệt, Viện tiền sơn thủy thị chân hình. Bản dịch: Lánh chợ vào rừng tóc bạc phơ, Non cao rũ áo ngát hưỡng thừa. Chùm khăn những muốn hầu bên chiếu, Treo dép đà nghe pháp cửa chùa. Trăng dội sân trai chim khắc khoải, Tháp không bia chữ mộ thờ ơ. Bạn thiền thôi cũng đừng thươngxót. Non nước ngoài am đó dáng xưa."
 }

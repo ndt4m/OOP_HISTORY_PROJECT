@@ -1,17 +1,19 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Đinh Hợi 1947",
-  "hometown" : "quê tỉnh Hưng Yên",
-  "occupation" : "Liệt sĩ hiện đại",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Đinh Hợi 1947",
+  "hometown": "quê tỉnh Hưng Yên",
+  "occupation": "Liệt sĩ hiện đại",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11,
+    "Nước Việt Nam mới": 29
   },
-  "id" : 799,
-  "entityName" : "Vương Văn Huống",
-  "aliases" : [ "Hồng Hải" ],
-  "overview" : "Ông tham gia cách mạng từ năm 1936 hoạt động ở Hưng Yên, năm 1942 bị Pháp bắt đày lên Sơn La năm 1944 đưa ra biệt giam ở Côn Đảo. Sau cách mạng tháng tám năm 1945, ông được đón về đất liền tham gia kháng chiến chống Pháp tại miền Tây Nam Bộ. Từng giữ chức tỉnh đội trưởng tỉnh đội Hà Tiên. Khi quân Pháp tái chiếm Hà Tiên, ông hi sinh trong một trận đánh ở Hòn Đất ngày 19-5-1947."
+  "id": 799,
+  "entityName": "Vương Văn Huống",
+  "aliases": [
+    "Hồng Hải"
+  ],
+  "overview": "Ông tham gia cách mạng từ năm 1936 hoạt động ở Hưng Yên, năm 1942 bị Pháp bắt đày lên Sơn La năm 1944 đưa ra biệt giam ở Côn Đảo. Sau cách mạng tháng tám năm 1945, ông được đón về đất liền tham gia kháng chiến chống Pháp tại miền Tây Nam Bộ. Từng giữ chức tỉnh đội trưởng tỉnh đội Hà Tiên. Khi quân Pháp tái chiếm Hà Tiên, ông hi sinh trong một trận đánh ở Hòn Đất ngày 19-5-1947."
 }

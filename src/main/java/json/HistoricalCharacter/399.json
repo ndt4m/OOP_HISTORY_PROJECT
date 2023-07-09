@@ -1,18 +1,23 @@
 {
-  "dateOfBirth" : "503",
-  "dateOfDeath" : "559",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế nhà Nam Trần",
-  "workTenure" : "557 – 559",
-  "fatherName" : {
-    "Trần Văn Tán" : null
+  "dateOfBirth": "503",
+  "dateOfDeath": "559",
+  "hometown": "Không rõ",
+  "occupation": "Hoàng đế nhà Nam Trần",
+  "workTenure": "557 – 559",
+  "fatherName": {
+    "Trần Văn Tán": null
   },
-  "motherName" : { },
-  "eraName" : {
-    "Nam Trần" : null
+  "motherName": {},
+  "eraName": {
+    "Nam Trần": null
   },
-  "id" : 399,
-  "entityName" : "Trần Bá Tiên",
-  "aliases" : [ "Vũ hoàng đế", "Vĩnh Định: 10/557-559", "Trần Bá Tiên (陳霸先)", "Cao Tổ (高祖)" ],
-  "overview" : "Trần Vũ Đế (chữ Hán: 陳武帝), tên thật là Trần Bá Tiên (陳霸先; 503 - 559) là vị vua đầu tiên, người sáng lập ra nhà Trần thời Nam-Bắc triều trong lịch sử Trung Quốc."
+  "id": 399,
+  "entityName": "Trần Bá Tiên",
+  "aliases": [
+    "Vũ hoàng đế",
+    "Vĩnh Định: 10/557-559",
+    "Trần Bá Tiên (陳霸先)",
+    "Cao Tổ (高祖)"
+  ],
+  "overview": "Trần Vũ Đế (chữ Hán: 陳武帝), tên thật là Trần Bá Tiên (陳霸先; 503 - 559) là vị vua đầu tiên, người sáng lập ra nhà Trần thời Nam-Bắc triều trong lịch sử Trung Quốc."
 }

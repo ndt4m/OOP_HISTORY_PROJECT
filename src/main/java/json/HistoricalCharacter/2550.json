@@ -1,14 +1,17 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "1770",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 2550,
-  "entityName" : "Trần Hầu",
-  "aliases" : [ "Trần Cơ", "Trần Đại Lực" ],
-  "overview" : "Trần Hầu hay Trần Cơ (陳機), tên thật là Trần Đại Lực (? - 1770); là cháu của đô đốc Mạc Thiên Tứ và là võ quan dưới thời chúa Nguyễn Phúc Thuần trong lịch sử Việt Nam."
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "1770",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 2550,
+  "entityName": "Trần Hầu",
+  "aliases": [
+    "Trần Cơ",
+    "Trần Đại Lực"
+  ],
+  "overview": "Trần Hầu hay Trần Cơ (陳機), tên thật là Trần Đại Lực (? - 1770); là cháu của đô đốc Mạc Thiên Tứ và là võ quan dưới thời chúa Nguyễn Phúc Thuần trong lịch sử Việt Nam."
 }

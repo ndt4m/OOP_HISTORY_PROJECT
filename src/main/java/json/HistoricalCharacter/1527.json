@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "1422",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "nhà Minh" : null
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "1422",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "nhà Minh": null
   },
-  "id" : 1527,
-  "entityName" : "Lý Bân",
-  "aliases" : [ "Chất Văn" ],
-  "overview" : "Lý Bân (tiếng Trung: 李彬; ? - 1422), tự là Chất Văn (質文)) là một võ tướng của nhà Minh. Lý Bân từng giữ chức tổng binh quân đội Minh tại Đại Việt suốt từ năm 1417 đến năm 1422. Tổng binh trước Lý Bân là Trương Phụ và sau Lý Bân là Vương Thông."
+  "id": 1527,
+  "entityName": "Lý Bân",
+  "aliases": [
+    "Chất Văn"
+  ],
+  "overview": "Lý Bân (tiếng Trung: 李彬; ? - 1422), tự là Chất Văn (質文)) là một võ tướng của nhà Minh. Lý Bân từng giữ chức tổng binh quân đội Minh tại Đại Việt suốt từ năm 1417 đến năm 1422. Tổng binh trước Lý Bân là Trương Phụ và sau Lý Bân là Vương Thông."
 }

@@ -1,17 +1,22 @@
 {
-  "dateOfBirth" : "Giáp Thân 1824",
-  "dateOfDeath" : "Nhâm Thìn 1892",
-  "hometown" : "Thừa Thiên-Huế",
-  "occupation" : "Nữ sĩ, công chúa triều Nguyễn ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nhà Nguyễn độc lập" : 30
+  "dateOfBirth": "Giáp Thân 1824",
+  "dateOfDeath": "Nhâm Thìn 1892",
+  "hometown": "Thừa Thiên-Huế",
+  "occupation": "Nữ sĩ, công chúa triều Nguyễn ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11,
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 494,
-  "entityName" : "Nguyễn Phúc Vĩnh Trinh",
-  "aliases" : [ "Qui Đức", "Nguyệt Đinh", "Trọng Khanh", "Thuận Lễ" ],
-  "overview" : "Bà là tác giả thi tập Nguyệt Đình thi khảo có giá trị, văn chương trác tuyệt, giàu thi tính. Đề tựa thi tập này Tuy Lý Vương Miên Trinh viết: \"Phát ra. ở tình, dừng lại ở nghĩa, cùng thơ Hà Quảng, thơ Tái Tri ở Vệ Phong\". Sách Đại Nam liệt truyện viết về bà: \"Chúa thác sinh ở nhà vua lấy chồng họ quí thích mà khiêm tốn giữ gìn, không ưa xa xỉ duy chỉ thích sách vở mà thôi.\" Chồng bà là ông Phạm Thuật (con trai ông Phạm Đăng Hưng) em ruột bà Từ Dũ... Năm 1862 Pháp đánh miền Đông Nam kì, vua Tự Đức mật chiếu cho chồng bà vào Nam nghiên cứu thám sát tình hình quân sự lúc đó với chức vụ và trọng trách trọng đại nguy hiểm đó, ông đã hi sinh ở chiến trường. Sau khi thọ tang và đưa thi hài chồng về an táng tại Huế, bà làm một sinh phần cạnh mộ phu quân hơn 10 năm ở chốn thơ phòng, nên được người đương thời khen là \"khổ tiết\". Bà mất trong năm 1892, an táng cạnh phần mộ chồng, thọ 68 tuổi."
+  "id": 494,
+  "entityName": "Nguyễn Phúc Vĩnh Trinh",
+  "aliases": [
+    "Qui Đức",
+    "Nguyệt Đinh",
+    "Trọng Khanh",
+    "Thuận Lễ"
+  ],
+  "overview": "Bà là tác giả thi tập Nguyệt Đình thi khảo có giá trị, văn chương trác tuyệt, giàu thi tính. Đề tựa thi tập này Tuy Lý Vương Miên Trinh viết: \"Phát ra. ở tình, dừng lại ở nghĩa, cùng thơ Hà Quảng, thơ Tái Tri ở Vệ Phong\". Sách Đại Nam liệt truyện viết về bà: \"Chúa thác sinh ở nhà vua lấy chồng họ quí thích mà khiêm tốn giữ gìn, không ưa xa xỉ duy chỉ thích sách vở mà thôi.\" Chồng bà là ông Phạm Thuật (con trai ông Phạm Đăng Hưng) em ruột bà Từ Dũ... Năm 1862 Pháp đánh miền Đông Nam kì, vua Tự Đức mật chiếu cho chồng bà vào Nam nghiên cứu thám sát tình hình quân sự lúc đó với chức vụ và trọng trách trọng đại nguy hiểm đó, ông đã hi sinh ở chiến trường. Sau khi thọ tang và đưa thi hài chồng về an táng tại Huế, bà làm một sinh phần cạnh mộ phu quân hơn 10 năm ở chốn thơ phòng, nên được người đương thời khen là \"khổ tiết\". Bà mất trong năm 1892, an táng cạnh phần mộ chồng, thọ 68 tuổi."
 }

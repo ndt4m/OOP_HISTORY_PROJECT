@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 2105,
-  "entityName" : "Vũ Xương",
-  "aliases" : [ ],
-  "overview" : "30°33′17″B 114°18′46″Đ﻿ / ﻿30,55472°B 114,31278°Đ"
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 2105,
+  "entityName": "Vũ Xương",
+  "aliases": [],
+  "overview": "30°33′17″B 114°18′46″Đ﻿ / ﻿30,55472°B 114,31278°Đ"
 }

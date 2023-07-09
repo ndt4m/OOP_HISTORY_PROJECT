@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Mậu Thìn 1928",
-  "dateOfDeath" : "Quí Mùi 1943",
-  "hometown" : "Quê làng Nà Mạ, huyện Hà Quảng, tỉnh Cao Bằng",
-  "occupation" : "Liệt sĩ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "Mậu Thìn 1928",
+  "dateOfDeath": "Quí Mùi 1943",
+  "hometown": "Quê làng Nà Mạ, huyện Hà Quảng, tỉnh Cao Bằng",
+  "occupation": "Liệt sĩ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 1392,
-  "entityName" : "Nông Văn Dền",
-  "aliases" : [ "Kim Đồng" ],
-  "overview" : "Ông tham gia cách mạng vào độ tuổi 13, đội viên thiếu niên nhi đồng địa phương. Ông từng là liên lạc viên đưa đường cho lãnh tụ Nguyễn Ái Quốc đi đường trong lúc công tác ở vùng biên giới thuộc địa phận Hà Quảng, Cao Bằng. Sau một chuyến đưa thư đến Pác Bó, trên đường trở về, ông bị địch phục kích, ông hi sinh lúc 15 tuổi. Ngày nay ở quê hương ông (Nà Mạ) có tượng đài lưu niệm ông. Cuộc đời ngắn ngủi của ông sau này được một nhạc sĩ viết thành nhạc phẩm Kim Đồng, và một NXB có tên Kim Đồng giúp thiếu niên nhi đồng Việt Nam mãi nhớ tên ông."
+  "id": 1392,
+  "entityName": "Nông Văn Dền",
+  "aliases": [
+    "Kim Đồng"
+  ],
+  "overview": "Ông tham gia cách mạng vào độ tuổi 13, đội viên thiếu niên nhi đồng địa phương. Ông từng là liên lạc viên đưa đường cho lãnh tụ Nguyễn Ái Quốc đi đường trong lúc công tác ở vùng biên giới thuộc địa phận Hà Quảng, Cao Bằng. Sau một chuyến đưa thư đến Pác Bó, trên đường trở về, ông bị địch phục kích, ông hi sinh lúc 15 tuổi. Ngày nay ở quê hương ông (Nà Mạ) có tượng đài lưu niệm ông. Cuộc đời ngắn ngủi của ông sau này được một nhạc sĩ viết thành nhạc phẩm Kim Đồng, và một NXB có tên Kim Đồng giúp thiếu niên nhi đồng Việt Nam mãi nhớ tên ông."
 }

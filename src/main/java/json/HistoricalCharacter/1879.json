@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Bính Tuất 1946",
-  "hometown" : "quê tỉnh Hưng Yên",
-  "occupation" : "Liệt sĩ, Nhà hoạt động cách mạng",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "…",
+  "dateOfDeath": "Bính Tuất 1946",
+  "hometown": "quê tỉnh Hưng Yên",
+  "occupation": "Liệt sĩ, Nhà hoạt động cách mạng",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 1879,
-  "entityName" : "Dương Đình Hội",
-  "aliases" : [ ],
-  "overview" : "Năm 1938-1939, ông tham gia đoàn thanh niên dân chủ, hoạt động ở Hà Nội. Năm 1940 là thành ủy viên Đảng Cộng Sản Đông Dương Thành phố Hà Nội, năm 1942, ông bị Pháp bắt kết án khổ sai 20 năm biệt xứ đày ra Côn Đảo. Sau cách mạng tháng Tám năm 1945 được đón về đất liền, tham gia lãnh đạo kháng chiến ở Nam Bộ làm Bí thư tỉnh ủy Gò Công. Ông hi sinh trong những ngày Pháp tái chiếm Nam Bộ ở Gò Công."
+  "id": 1879,
+  "entityName": "Dương Đình Hội",
+  "aliases": [],
+  "overview": "Năm 1938-1939, ông tham gia đoàn thanh niên dân chủ, hoạt động ở Hà Nội. Năm 1940 là thành ủy viên Đảng Cộng Sản Đông Dương Thành phố Hà Nội, năm 1942, ông bị Pháp bắt kết án khổ sai 20 năm biệt xứ đày ra Côn Đảo. Sau cách mạng tháng Tám năm 1945 được đón về đất liền, tham gia lãnh đạo kháng chiến ở Nam Bộ làm Bí thư tỉnh ủy Gò Công. Ông hi sinh trong những ngày Pháp tái chiếm Nam Bộ ở Gò Công."
 }

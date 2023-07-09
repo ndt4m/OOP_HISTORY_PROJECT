@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Ất Mão 1915",
-  "hometown" : "quê xã Phú Lộc, huyện Phong Châu, tỉnh Sơn Tây",
-  "occupation" : "Liệt sĩ cận đại, tục gọi là Tổng Chế",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "…",
+  "dateOfDeath": "Ất Mão 1915",
+  "hometown": "quê xã Phú Lộc, huyện Phong Châu, tỉnh Sơn Tây",
+  "occupation": "Liệt sĩ cận đại, tục gọi là Tổng Chế",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 2523,
-  "entityName" : "Khuất Văn Bức",
-  "aliases" : [ "Tổng Chế" ],
-  "overview" : "Ông có lòng yêu nước, nổi tiếng là một chiến sĩ trung kiên, chủ trương tranh đấu bạo động, đã hai lân ngồi tù về chính trị và bạo động có võ trang chống Pháp. Đến đêm 6 rạng 7 tháng 1-1915, ông lãnh đạo vụ nổi dậy ở Phú Thọ: chỉ huy 150 nghĩa quân tiến công đồn bằng súng trường, rựa, dao, gậy... định chiếm lấy pháo đài trung ương và nhà ở của viên trưởng đồn là giám binh Lambert. Thất bại, bị địch bắt. Ngày 28-4-1915, chúng đưa ông ra tòa án quân sự Yên Bái, tuyên án tử hình (vụ xử này có 28 án tử hình, 10 khổ sai chung thân, 2 cầm cố chung thân, và 4 khổ sai hữu hạn)."
+  "id": 2523,
+  "entityName": "Khuất Văn Bức",
+  "aliases": [
+    "Tổng Chế"
+  ],
+  "overview": "Ông có lòng yêu nước, nổi tiếng là một chiến sĩ trung kiên, chủ trương tranh đấu bạo động, đã hai lân ngồi tù về chính trị và bạo động có võ trang chống Pháp. Đến đêm 6 rạng 7 tháng 1-1915, ông lãnh đạo vụ nổi dậy ở Phú Thọ: chỉ huy 150 nghĩa quân tiến công đồn bằng súng trường, rựa, dao, gậy... định chiếm lấy pháo đài trung ương và nhà ở của viên trưởng đồn là giám binh Lambert. Thất bại, bị địch bắt. Ngày 28-4-1915, chúng đưa ông ra tòa án quân sự Yên Bái, tuyên án tử hình (vụ xử này có 28 án tử hình, 10 khổ sai chung thân, 2 cầm cố chung thân, và 4 khổ sai hữu hạn)."
 }

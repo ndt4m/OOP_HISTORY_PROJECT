@@ -1,14 +1,17 @@
 {
-  "dateOfBirth" : "1857",
-  "dateOfDeath" : "1914",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 1332,
-  "entityName" : "Nguyễn Như Khuê",
-  "aliases" : [ "Phác Đình", "Chương Chu" ],
-  "overview" : "Nguyễn Thần Hiến (1857-1914), tự: Phác Đình , hiệu: Chương Chu; là người đã sáng lập ra \"Quỹ Khuyến Du học hội\" nhằm vận động và hỗ trợ cho học sinh sang Nhật Bản học, là một trong những nhà cách mạng tiên phong trong phong trào Đông Du ở miền Nam và là một nhà chí sĩ cận đại Việt Nam."
+  "dateOfBirth": "1857",
+  "dateOfDeath": "1914",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 1332,
+  "entityName": "Nguyễn Như Khuê",
+  "aliases": [
+    "Phác Đình",
+    "Chương Chu"
+  ],
+  "overview": "Nguyễn Thần Hiến (1857-1914), tự: Phác Đình , hiệu: Chương Chu; là người đã sáng lập ra \"Quỹ Khuyến Du học hội\" nhằm vận động và hỗ trợ cho học sinh sang Nhật Bản học, là một trong những nhà cách mạng tiên phong trong phong trào Đông Du ở miền Nam và là một nhà chí sĩ cận đại Việt Nam."
 }

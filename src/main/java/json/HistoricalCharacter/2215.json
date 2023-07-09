@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "1483",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 2215,
-  "entityName" : "Trần Bảo Tín",
-  "aliases" : [ ],
-  "overview" : "Trần Bảo Tín (chữ Hán: 陳保信; 1483-?) là một danh thần thời Hậu Lê."
+  "dateOfBirth": "1483",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 2215,
+  "entityName": "Trần Bảo Tín",
+  "aliases": [],
+  "overview": "Trần Bảo Tín (chữ Hán: 陳保信; 1483-?) là một danh thần thời Hậu Lê."
 }

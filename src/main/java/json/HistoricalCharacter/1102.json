@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Mậu Dần 1938",
-  "hometown" : "quê ở Bạc Liêu",
-  "occupation" : "Liệt sĩ cách mạng",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "…",
+  "dateOfDeath": "Mậu Dần 1938",
+  "hometown": "quê ở Bạc Liêu",
+  "occupation": "Liệt sĩ cách mạng",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 1102,
-  "entityName" : "Tạ Lợi",
-  "aliases" : [ ],
-  "overview" : "Ông giác ngộ cách mạng rất sớm, gia nhập đảng Cộng sản Đông Dương, tích cực hoạt động chống Pháp. Ông là người cộng sản đầu tiên của vùng đất Long Điền Đông. Sau một thời gian đi huấn luyện và sinh hoạt Đảng ở nhiều nơi, đến năm 1930, ông trở về quê Long Điền Đông gây dựng cơ sở, tổ chức cho nhân dân tỉnh Bạc Liêu vùng lên chống Pháp cứu nước. Năm Mậu dần 1938, ông bị bắt rồi bị đày ở Bà Rá, bị giặc Pháp tra tấn tàn nhẫn ông hi sinh trong tù."
+  "id": 1102,
+  "entityName": "Tạ Lợi",
+  "aliases": [],
+  "overview": "Ông giác ngộ cách mạng rất sớm, gia nhập đảng Cộng sản Đông Dương, tích cực hoạt động chống Pháp. Ông là người cộng sản đầu tiên của vùng đất Long Điền Đông. Sau một thời gian đi huấn luyện và sinh hoạt Đảng ở nhiều nơi, đến năm 1930, ông trở về quê Long Điền Đông gây dựng cơ sở, tổ chức cho nhân dân tỉnh Bạc Liêu vùng lên chống Pháp cứu nước. Năm Mậu dần 1938, ông bị bắt rồi bị đày ở Bà Rá, bị giặc Pháp tra tấn tàn nhẫn ông hi sinh trong tù."
 }

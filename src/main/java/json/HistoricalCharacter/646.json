@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 646,
-  "entityName" : "Kỷ Mão",
-  "aliases" : [ ],
-  "overview" : "Kỷ Mão (chữ Hán: 己卯) là kết hợp thứ 16 trong hệ thống đánh số Can Chi của người Á Đông. Nó được kết hợp từ thiên can Kỷ (Thổ âm) và địa chi Mão (thỏ/mèo). Trong chu kỳ của lịch Trung Quốc, nó xuất hiện trước Canh Thìn và sau Mậu Dần."
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 646,
+  "entityName": "Kỷ Mão",
+  "aliases": [],
+  "overview": "Kỷ Mão (chữ Hán: 己卯) là kết hợp thứ 16 trong hệ thống đánh số Can Chi của người Á Đông. Nó được kết hợp từ thiên can Kỷ (Thổ âm) và địa chi Mão (thỏ/mèo). Trong chu kỳ của lịch Trung Quốc, nó xuất hiện trước Canh Thìn và sau Mậu Dần."
 }

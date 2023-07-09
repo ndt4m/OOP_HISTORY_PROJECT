@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Canh Thìn 1940",
-  "hometown" : "quê ở ấp Tân Hội Đông, xã Tân Tạo, tỉnh Chợ Lớn (nay thuộc huyện Bình Chánh, thành phố Hồ Chí Minh)",
-  "occupation" : "Liệt sĩ cách mạng",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "…",
+  "dateOfDeath": "Canh Thìn 1940",
+  "hometown": "quê ở ấp Tân Hội Đông, xã Tân Tạo, tỉnh Chợ Lớn (nay thuộc huyện Bình Chánh, thành phố Hồ Chí Minh)",
+  "occupation": "Liệt sĩ cách mạng",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 2213,
-  "entityName" : "Lê Công Phép",
-  "aliases" : [ ],
-  "overview" : "Năm 1940, trong cuộc Nam Kì khởi nghĩa ông được cử đứng ra lãnh đạo ủy ban hành động ở Long Hưng hạ. Sau đêm khởi nghĩa ông bị địch bắt giam ở bót Catinat, bi tra tấn cực hình, nhưng ông không khai một lời nào, rồi chúng đem ông xử bắn ngay tại quê nhà. Truớc lúc bị bắn ông bảo đám lính người Việt: \"Các anh cũng là đồng bào Việt Nam, các anh không nên bắn tôi, để cho Tây nó bắn\". Ông còn hô to: \"Cách mạng thành công muôn năm\"."
+  "id": 2213,
+  "entityName": "Lê Công Phép",
+  "aliases": [],
+  "overview": "Năm 1940, trong cuộc Nam Kì khởi nghĩa ông được cử đứng ra lãnh đạo ủy ban hành động ở Long Hưng hạ. Sau đêm khởi nghĩa ông bị địch bắt giam ở bót Catinat, bi tra tấn cực hình, nhưng ông không khai một lời nào, rồi chúng đem ông xử bắn ngay tại quê nhà. Truớc lúc bị bắn ông bảo đám lính người Việt: \"Các anh cũng là đồng bào Việt Nam, các anh không nên bắn tôi, để cho Tây nó bắn\". Ông còn hô to: \"Cách mạng thành công muôn năm\"."
 }

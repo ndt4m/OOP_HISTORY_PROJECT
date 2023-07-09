@@ -1,17 +1,19 @@
 {
-  "dateOfBirth" : "2 tháng 4, 1904 Thanh Miện, Hải Dương\n----------------------------------------------\nGiáp Thìn 1904",
-  "dateOfDeath" : "1979 Hà Nội\n----------------------------------------------\nKỉ Mùi 1979",
-  "hometown" : "quê xã Thanh Tùng, huyện Thanh Miện, tỉnh Hải Dương",
-  "occupation" : "Nhà cách mạng",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+  "dateOfBirth": "2 tháng 4, 1904 Thanh Miện, Hải Dương\n----------------------------------------------\nGiáp Thìn 1904",
+  "dateOfDeath": "1979 Hà Nội\n----------------------------------------------\nKỉ Mùi 1979",
+  "hometown": "quê xã Thanh Tùng, huyện Thanh Miện, tỉnh Hải Dương",
+  "occupation": "Nhà cách mạng",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11,
+    "Nước Việt Nam mới": 29
   },
-  "id" : 2232,
-  "entityName" : "Nguyễn Lương Bằng",
-  "aliases" : [ "Sao Đỏ" ],
-  "overview" : "Nguyễn Lương Bằng (1904-1979) là một nhà hoạt động cách mạng và chính khách của Việt Nam. Ông từng giữ các chức vụ Phó Chủ tịch nước Việt Nam (1969-1979), Tổng giám đốc Ngân hàng quốc gia Việt Nam, đại sứ đầu tiên của Việt Nam tại Liên Xô cũ (1952-1956), Tổng Thanh tra chính phủ (1956).\n----------------------------------------------\nTrong 50 năm hoạt động cứu nước, từ năm 1925-1945, ông bị bắt nhiều lần và hai lần vượt ngục. Sau Cách mạng tháng Tám, ông liên tục giữ các nhiệm vụ: ủy viên Ban chấp hành Trung ương Đảng, Trưởng Ban Kiểm tra Trung ương Đảng, Tổng Giám đốc ngân hàng nhà nước Việt Nam, Đại sứ đặc mệnh toàn quyền Việt Nam tại Liên Xô, Tổng hanh tra chính phủ, Phó Chủ tịch nước Cộng hòa Xã hội Chủ nghĩa Việt Nam... Ông là một người yêu nước nhiệt tình, trải qua hơn nửa thế kỉ hoạt động cách mạng ông đã cống hiến cả đời mình cho dân tộc. Ở bất kì hoàn cảnh và cương vị nào, ông vẫn hăng hái làm tròn nhiệm vụ nêu gương sáng về đạo đức và tác phong cần cù giản dị. Năm Kỉ mùi 1979, ngày 20-7 Dương lịch, ông mất tại Hà Nội, thọ 75 tuổi. Ông được Đảng, Nhà nước Việt Nam và các nước Xã hội Chủ nghĩa tặng nhiều Huân chương cao quí."
+  "id": 2232,
+  "entityName": "Nguyễn Lương Bằng",
+  "aliases": [
+    "Sao Đỏ"
+  ],
+  "overview": "Nguyễn Lương Bằng (1904-1979) là một nhà hoạt động cách mạng và chính khách của Việt Nam. Ông từng giữ các chức vụ Phó Chủ tịch nước Việt Nam (1969-1979), Tổng giám đốc Ngân hàng quốc gia Việt Nam, đại sứ đầu tiên của Việt Nam tại Liên Xô cũ (1952-1956), Tổng Thanh tra chính phủ (1956).\n----------------------------------------------\nTrong 50 năm hoạt động cứu nước, từ năm 1925-1945, ông bị bắt nhiều lần và hai lần vượt ngục. Sau Cách mạng tháng Tám, ông liên tục giữ các nhiệm vụ: ủy viên Ban chấp hành Trung ương Đảng, Trưởng Ban Kiểm tra Trung ương Đảng, Tổng Giám đốc ngân hàng nhà nước Việt Nam, Đại sứ đặc mệnh toàn quyền Việt Nam tại Liên Xô, Tổng hanh tra chính phủ, Phó Chủ tịch nước Cộng hòa Xã hội Chủ nghĩa Việt Nam... Ông là một người yêu nước nhiệt tình, trải qua hơn nửa thế kỉ hoạt động cách mạng ông đã cống hiến cả đời mình cho dân tộc. Ở bất kì hoàn cảnh và cương vị nào, ông vẫn hăng hái làm tròn nhiệm vụ nêu gương sáng về đạo đức và tác phong cần cù giản dị. Năm Kỉ mùi 1979, ngày 20-7 Dương lịch, ông mất tại Hà Nội, thọ 75 tuổi. Ông được Đảng, Nhà nước Việt Nam và các nước Xã hội Chủ nghĩa tặng nhiều Huân chương cao quí."
 }

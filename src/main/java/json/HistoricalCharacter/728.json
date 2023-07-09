@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Giáp Thân 1824",
-  "hometown" : "Không rõ",
-  "occupation" : "Nhân sĩ yêu nước vào thời Gia Long",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Giáp Thân 1824",
+  "hometown": "Không rõ",
+  "occupation": "Nhân sĩ yêu nước vào thời Gia Long",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 728,
-  "entityName" : "Dương Đình Cúc",
-  "aliases" : [ ],
-  "overview" : "Khi họ Nguyễn Phúc chống nhà Tây Sơn nhất là sau này với hành động trả thù và truy nã ráo riết những người thuộc nghĩa quân Tây Sơn, ông tổ chức quần chúng võ trang khởi nghĩa chống lại chính quyền nhà Nguyễn. Cuộc khởi nghĩa của ông kéo dài 18 năm (1806-1824), lấy vùng rừng núi Thái Nguyên làm căn cứ chính. Cuối cùng quân nhà Nguyễn đã dẹp được cuộc khởi nghĩa này."
+  "id": 728,
+  "entityName": "Dương Đình Cúc",
+  "aliases": [],
+  "overview": "Khi họ Nguyễn Phúc chống nhà Tây Sơn nhất là sau này với hành động trả thù và truy nã ráo riết những người thuộc nghĩa quân Tây Sơn, ông tổ chức quần chúng võ trang khởi nghĩa chống lại chính quyền nhà Nguyễn. Cuộc khởi nghĩa của ông kéo dài 18 năm (1806-1824), lấy vùng rừng núi Thái Nguyên làm căn cứ chính. Cuối cùng quân nhà Nguyễn đã dẹp được cuộc khởi nghĩa này."
 }

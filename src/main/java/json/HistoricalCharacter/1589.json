@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "nhà Lê" : null
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "nhà Lê": null
   },
-  "id" : 1589,
-  "entityName" : "Nguyễn Văn Giai",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Văn Giai (chữ Hán: 阮文階, 1553 - 1628 ) là một Tam nguyên Hoàng giáp, từng giữ chức Tể tướng, tước Thái bảo, Quận công, công thần \"khai quốc\" thời Lê trung hưng, nổi tiếng chính trực và biết giữ nghiêm pháp luật triều đình, được nhà Lê xét công đánh nhà Mạc, ông đồng thời cũng là một nhà thơ"
+  "id": 1589,
+  "entityName": "Nguyễn Văn Giai",
+  "aliases": [],
+  "overview": "Nguyễn Văn Giai (chữ Hán: 阮文階, 1553 - 1628 ) là một Tam nguyên Hoàng giáp, từng giữ chức Tể tướng, tước Thái bảo, Quận công, công thần \"khai quốc\" thời Lê trung hưng, nổi tiếng chính trực và biết giữ nghiêm pháp luật triều đình, được nhà Lê xét công đánh nhà Mạc, ông đồng thời cũng là một nhà thơ"
 }

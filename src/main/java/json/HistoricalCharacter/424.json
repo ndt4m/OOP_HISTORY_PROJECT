@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Quí Sửu 1673",
-  "dateOfDeath" : "Nhâm Dần 1722",
-  "hometown" : "quê xã Thiên Mụ, huyện Từ Liêm, tỉnh Hà Đông (nay là Hà Nội)",
-  "occupation" : "Danh thần đời Lê Dụ tông, con Thượng thư Nguyễn Quí Đức",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
+  "dateOfBirth": "Quí Sửu 1673",
+  "dateOfDeath": "Nhâm Dần 1722",
+  "hometown": "quê xã Thiên Mụ, huyện Từ Liêm, tỉnh Hà Đông (nay là Hà Nội)",
+  "occupation": "Danh thần đời Lê Dụ tông, con Thượng thư Nguyễn Quí Đức",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34
   },
-  "id" : 424,
-  "entityName" : "Nguyễn Quí Ân",
-  "aliases" : [ ],
-  "overview" : "Năm Ất mùi 1715 ông đỗ Hoàng giáp, 42 tuổi làm đến Đề hình Tả tư giảng. Hết lòng lo nước thương dân, ông được mọi người cảm phục về tư cách và công nghiệp giúp nước cứu dân. Khi ông mất được truy tặng Thượng thư bộ Công, gia phong làm phúc thần hạng trung. Thân phụ ông và con ông là Nguyễn Quí Cảnh đều làm đến Thượng thư và truy phong Phúc thần. Ông là tác giả sách Chính Hòa tiến sĩ đề danh kí."
+  "id": 424,
+  "entityName": "Nguyễn Quí Ân",
+  "aliases": [],
+  "overview": "Năm Ất mùi 1715 ông đỗ Hoàng giáp, 42 tuổi làm đến Đề hình Tả tư giảng. Hết lòng lo nước thương dân, ông được mọi người cảm phục về tư cách và công nghiệp giúp nước cứu dân. Khi ông mất được truy tặng Thượng thư bộ Công, gia phong làm phúc thần hạng trung. Thân phụ ông và con ông là Nguyễn Quí Cảnh đều làm đến Thượng thư và truy phong Phúc thần. Ông là tác giả sách Chính Hòa tiến sĩ đề danh kí."
 }

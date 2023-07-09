@@ -1,16 +1,19 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Kỉ Tị 1929",
-  "hometown" : "sinh quán tại Cao Lãnh, tỉnh Sa Đéc, về sau cư ngụ tại quận Gò Vấp, tỉnh Gia Định (nay thuộc TP",
-  "occupation" : "Danh sĩ cận đại, không rõ năm sinh, sinh quán tại Cao Lãnh, tỉnh Sa Đéc, về sau cư ngụ tại quận Gò Vấp, tỉnh Gia Định (nay thuộc TP",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "…",
+  "dateOfDeath": "Kỉ Tị 1929",
+  "hometown": "sinh quán tại Cao Lãnh, tỉnh Sa Đéc, về sau cư ngụ tại quận Gò Vấp, tỉnh Gia Định (nay thuộc TP",
+  "occupation": "Danh sĩ cận đại, không rõ năm sinh, sinh quán tại Cao Lãnh, tỉnh Sa Đéc, về sau cư ngụ tại quận Gò Vấp, tỉnh Gia Định (nay thuộc TP",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 2777,
-  "entityName" : "Diệp Văn Cương",
-  "aliases" : [ "Yên Sa", "Thọ Sơn" ],
-  "overview" : "Ông vốn con nhà nghèo, nhưng hiếu học. Khi đất nước bị giặc Pháp xâm chiếm, ông được chọn du học ở Alger (thuộc Pháp) cùng Nguyễn Trọng Quản. Thành tài về nước, ông dạy ở trưởng Chasseloup-Laubat. Rồi được toàn quyền Paul Bert đưa ra Trung Việt, dạy tiếng Pháp cho vua Đồng Khánh. Sau khi từ giã quan trường, ông về dạy học tại trường trên. Ông chủ trương tờ báo Việt ngữ đầu tiên ở trong Nam là Phan Yên báo, ông cũng là tác giả quyển sách giáo khoa luân lí đầu tiên là Việt Nan lí luận tập thành. Vợ ông là công chúa Công Nữ Thiện Niệm (cô ruột vua Thành Thái), con ông là Diệp Văn Kỳ là bậc nhân tài trong học giới."
+  "id": 2777,
+  "entityName": "Diệp Văn Cương",
+  "aliases": [
+    "Yên Sa",
+    "Thọ Sơn"
+  ],
+  "overview": "Ông vốn con nhà nghèo, nhưng hiếu học. Khi đất nước bị giặc Pháp xâm chiếm, ông được chọn du học ở Alger (thuộc Pháp) cùng Nguyễn Trọng Quản. Thành tài về nước, ông dạy ở trưởng Chasseloup-Laubat. Rồi được toàn quyền Paul Bert đưa ra Trung Việt, dạy tiếng Pháp cho vua Đồng Khánh. Sau khi từ giã quan trường, ông về dạy học tại trường trên. Ông chủ trương tờ báo Việt ngữ đầu tiên ở trong Nam là Phan Yên báo, ông cũng là tác giả quyển sách giáo khoa luân lí đầu tiên là Việt Nan lí luận tập thành. Vợ ông là công chúa Công Nữ Thiện Niệm (cô ruột vua Thành Thái), con ông là Diệp Văn Kỳ là bậc nhân tài trong học giới."
 }

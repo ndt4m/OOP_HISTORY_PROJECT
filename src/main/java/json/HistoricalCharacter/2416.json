@@ -1,17 +1,19 @@
 {
-  "dateOfBirth" : "1390\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "1483\n----------------------------------------------\nKhông rõ",
-  "hometown" : "quê làng Đỗ Liêu, tục gọi làng Treo, huyện Thiên Lộc (sau đổi là Can Lộc), tỉnh Hà Tĩnh",
-  "occupation" : "Danh thần đời Lê Thái tông, không rõ năm sinh, năm mất, quê làng Đỗ Liêu, tục gọi làng Treo, huyện Thiên Lộc ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "nhà Lê" : null,
-    "Triều Lê Sơ" : 7
+  "dateOfBirth": "1390\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath": "1483\n----------------------------------------------\nKhông rõ",
+  "hometown": "quê làng Đỗ Liêu, tục gọi làng Treo, huyện Thiên Lộc (sau đổi là Can Lộc), tỉnh Hà Tĩnh",
+  "occupation": "Danh thần đời Lê Thái tông, không rõ năm sinh, năm mất, quê làng Đỗ Liêu, tục gọi làng Treo, huyện Thiên Lộc ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "nhà Lê": null,
+    "Triều Lê Sơ": 7
   },
-  "id" : 2416,
-  "entityName" : "Bùi Cầm Hổ",
-  "aliases" : [ "Can Lộc" ],
-  "overview" : "Bùi Cầm Hổ (chữ Hán: 裴扲虎, 1390 - 1483), là một vị quan triều đình nhà Lê sơ, làm việc cho vua Lê Thái Tổ và Lê Thái Tông. Ông nổi bật với những lần đi sứ sang nhà Minh và việc ngay thẳng can gián giúp vua Lê Thái Tông.\n----------------------------------------------\nNguyên thân phụ ông nằm mộng thấy một con hổ gầm ở sân, giật mình tỉnh dậy thì vừa lúc thân mẫu ông hạ sinh ông, mới đặt tên là Cầm Hổ. Năm Thiệu Bình 1 (Giáp dần 1434), ông được bổ làm Ngư sử trung thừa. Tính ông cương trực, dám nói thẳng, không kiêng nể những kẻ quyền thế. Gặp việc đáng khuyên ngăn vua, ông vẫn thẳng thắn vạch trần việc xấu. Lúc đại thần Lê Sát nắm giữ triều chính, ỷ thế lộng hành, ông dâng sớ công kích; do đấy ông bị đổi lên Lạng Sơn làm An phủ sứ. Đến khi Lê Sát bị hạ bệ, ông được triệu về kinh làm Đô ngự sử như cũ. Năm Thiệu Bình 5 (Mậu ngọ 1438) mùa đông, ông sung chức phó sứ sang nhà Minh trình bày những việc xảy ra ở địa phương Thái Bình. Đời Nhân tông, năm Thái Hòa 1 (Quí hợi 1443), ông kiêm lĩnh chức Đông Tây đạo rồi thăng Tham tri chính sự. ít lâu thì mất. Tương truyền: Lúc còn du học, một hôm có người lái buôn ở xa về, người vợ nấu canh lươn cho chồng ăn, ăn xong thì chết ngay. Bởi lươn giống như rắn, con nào đầu trắng thì có độc, có thể giết người. Người vợ lái buôn bị quan sở tại buộc tội giết chồng, ông đã biện bạch oan tình và gỡ tội được. Triều đình nghe biết, vời ông ra làm quan. Gần nhà ông ở dãy núi Hồng Lĩnh, ông có đào một con kênh dẫn nước vào ruộng được nghìn khoảnh. Dân chúng cảm đức, sau khi ông mất, có lập đền thờ ông ở dưới núi Bạch Cao. Các triều vua đều gia phong ông làm phúc thần. Sách Thiên Nam bảo lục diễn ca đề cao ông: \"Cầm Hổ cương trực, Bất tị cường hào, Tạc khê quán mẫu, Từ trì Bạch Cao\" Nghĩa: Bùi Cầm Hổ cư quan chính trực, Chẳng kinh gì những bậc thếquyền. Kênh đào tưới ruộng hơn nghìn, Để ân Hồng Lĩnh, dựng đền Bạch Cao. Trong Kiển văn tiểu lục, Lê Quí Đôn có lời phẩm bình: \"Hồi Lê sơ, vì sau khi loạn lạc, nho sĩ thưa thớt. Người đem thân chầu chực trong triều đường Nguyễn Thiên Tích, Bùi Cầm Hổ, phần nhiều bộc lộ chí khí sáng suốt, có những lời nói quả cảm\"."
+  "id": 2416,
+  "entityName": "Bùi Cầm Hổ",
+  "aliases": [
+    "Can Lộc"
+  ],
+  "overview": "Bùi Cầm Hổ (chữ Hán: 裴扲虎, 1390 - 1483), là một vị quan triều đình nhà Lê sơ, làm việc cho vua Lê Thái Tổ và Lê Thái Tông. Ông nổi bật với những lần đi sứ sang nhà Minh và việc ngay thẳng can gián giúp vua Lê Thái Tông.\n----------------------------------------------\nNguyên thân phụ ông nằm mộng thấy một con hổ gầm ở sân, giật mình tỉnh dậy thì vừa lúc thân mẫu ông hạ sinh ông, mới đặt tên là Cầm Hổ. Năm Thiệu Bình 1 (Giáp dần 1434), ông được bổ làm Ngư sử trung thừa. Tính ông cương trực, dám nói thẳng, không kiêng nể những kẻ quyền thế. Gặp việc đáng khuyên ngăn vua, ông vẫn thẳng thắn vạch trần việc xấu. Lúc đại thần Lê Sát nắm giữ triều chính, ỷ thế lộng hành, ông dâng sớ công kích; do đấy ông bị đổi lên Lạng Sơn làm An phủ sứ. Đến khi Lê Sát bị hạ bệ, ông được triệu về kinh làm Đô ngự sử như cũ. Năm Thiệu Bình 5 (Mậu ngọ 1438) mùa đông, ông sung chức phó sứ sang nhà Minh trình bày những việc xảy ra ở địa phương Thái Bình. Đời Nhân tông, năm Thái Hòa 1 (Quí hợi 1443), ông kiêm lĩnh chức Đông Tây đạo rồi thăng Tham tri chính sự. ít lâu thì mất. Tương truyền: Lúc còn du học, một hôm có người lái buôn ở xa về, người vợ nấu canh lươn cho chồng ăn, ăn xong thì chết ngay. Bởi lươn giống như rắn, con nào đầu trắng thì có độc, có thể giết người. Người vợ lái buôn bị quan sở tại buộc tội giết chồng, ông đã biện bạch oan tình và gỡ tội được. Triều đình nghe biết, vời ông ra làm quan. Gần nhà ông ở dãy núi Hồng Lĩnh, ông có đào một con kênh dẫn nước vào ruộng được nghìn khoảnh. Dân chúng cảm đức, sau khi ông mất, có lập đền thờ ông ở dưới núi Bạch Cao. Các triều vua đều gia phong ông làm phúc thần. Sách Thiên Nam bảo lục diễn ca đề cao ông: \"Cầm Hổ cương trực, Bất tị cường hào, Tạc khê quán mẫu, Từ trì Bạch Cao\" Nghĩa: Bùi Cầm Hổ cư quan chính trực, Chẳng kinh gì những bậc thếquyền. Kênh đào tưới ruộng hơn nghìn, Để ân Hồng Lĩnh, dựng đền Bạch Cao. Trong Kiển văn tiểu lục, Lê Quí Đôn có lời phẩm bình: \"Hồi Lê sơ, vì sau khi loạn lạc, nho sĩ thưa thớt. Người đem thân chầu chực trong triều đường Nguyễn Thiên Tích, Bùi Cầm Hổ, phần nhiều bộc lộ chí khí sáng suốt, có những lời nói quả cảm\"."
 }

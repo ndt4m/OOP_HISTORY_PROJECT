@@ -1,17 +1,20 @@
 {
-  "dateOfBirth" : "Nhâm Dần 1902",
-  "dateOfDeath" : "Quí Mùi 2003",
-  "hometown" : "tại xã Mĩ Hòa, huyện Cầu Ngang, tỉnh Trà Vinh",
-  "occupation" : "Nhà hoạt động cách mạng",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+  "dateOfBirth": "Nhâm Dần 1902",
+  "dateOfDeath": "Quí Mùi 2003",
+  "hometown": "tại xã Mĩ Hòa, huyện Cầu Ngang, tỉnh Trà Vinh",
+  "occupation": "Nhà hoạt động cách mạng",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11,
+    "Nước Việt Nam mới": 29
   },
-  "id" : 394,
-  "entityName" : "Dương Quang Đông",
-  "aliases" : [ "Dương Văn Phúc", "Năm Đông" ],
-  "overview" : "Ông tham gia hoạt động cách mạng từ năm 1920 trong tổ chức Công hội bí mật của ông Tôn Đức Thắng. Năm 1927 gia nhập Việt Nam thanh niên cách mạng đồng chí hội, sau khi thống nhất các tổ chức đảng cộng sản ba miền ông giữ chức Thường vụ xứ ủy Nam Nam kì, Bí thư tỉnh ủy Trà Vinh. Sau cách mạng tháng Tám năm 1945 ông đắc cử Đại biểu Quốc hội khóa I, rồi toàn quốc kháng chiến ông làm Phó phòng Hàng hải Nam Bộ suốt 9 năm kháng chiến chống Pháp ở các mặt trận Nam Bộ. Hiệp định Genève được kí kết, ông cùng đơn vị tập kết ra Bắc, một thời gian sau khi thành lập Mặt trận Giải phóng miền Nam, ông trở về Nam đánh Mĩ. Tại miền Nam, ông từng giữ các chức vụ: - Phó ban Hàng hải Nam Bộ, - Khu ủy viên khu Sài Gòn - Gia Định, - Trưởng ban Giao Bưu A53 Trung ương cục Miền Nam, - Ủy viên Ban Thanh tra Sài Gòn - Gia Định, - Phó chủ tịch Ủy ban Mặt trận tổ quốc TP. HCM.... Suốt một đời tận tụy vì cách mạng, ông được Đảng và Nhà nước Việt Nam tặng nhiều huân chương cao quí, trong đó có Huân chương Hồ Chí Minh. Ông mất ngày 10-5-2003, thọ 102 tuổi."
+  "id": 394,
+  "entityName": "Dương Quang Đông",
+  "aliases": [
+    "Dương Văn Phúc",
+    "Năm Đông"
+  ],
+  "overview": "Ông tham gia hoạt động cách mạng từ năm 1920 trong tổ chức Công hội bí mật của ông Tôn Đức Thắng. Năm 1927 gia nhập Việt Nam thanh niên cách mạng đồng chí hội, sau khi thống nhất các tổ chức đảng cộng sản ba miền ông giữ chức Thường vụ xứ ủy Nam Nam kì, Bí thư tỉnh ủy Trà Vinh. Sau cách mạng tháng Tám năm 1945 ông đắc cử Đại biểu Quốc hội khóa I, rồi toàn quốc kháng chiến ông làm Phó phòng Hàng hải Nam Bộ suốt 9 năm kháng chiến chống Pháp ở các mặt trận Nam Bộ. Hiệp định Genève được kí kết, ông cùng đơn vị tập kết ra Bắc, một thời gian sau khi thành lập Mặt trận Giải phóng miền Nam, ông trở về Nam đánh Mĩ. Tại miền Nam, ông từng giữ các chức vụ: - Phó ban Hàng hải Nam Bộ, - Khu ủy viên khu Sài Gòn - Gia Định, - Trưởng ban Giao Bưu A53 Trung ương cục Miền Nam, - Ủy viên Ban Thanh tra Sài Gòn - Gia Định, - Phó chủ tịch Ủy ban Mặt trận tổ quốc TP. HCM.... Suốt một đời tận tụy vì cách mạng, ông được Đảng và Nhà nước Việt Nam tặng nhiều huân chương cao quí, trong đó có Huân chương Hồ Chí Minh. Ông mất ngày 10-5-2003, thọ 102 tuổi."
 }

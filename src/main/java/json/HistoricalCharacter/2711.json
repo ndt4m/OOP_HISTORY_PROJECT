@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 2711,
-  "entityName" : "Nguyễn Văn Duệ",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Văn Duệ (chữ Hán: 阮文睿 hay 阮文裔): một tướng lĩnh cao cấp của phong trào Tây Sơn trong lịch sử Việt Nam."
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 2711,
+  "entityName": "Nguyễn Văn Duệ",
+  "aliases": [],
+  "overview": "Nguyễn Văn Duệ (chữ Hán: 阮文睿 hay 阮文裔): một tướng lĩnh cao cấp của phong trào Tây Sơn trong lịch sử Việt Nam."
 }

@@ -1,16 +1,19 @@
 {
-  "dateOfBirth" : "4 tháng 7, 1938 (79 tuổi) Lộc Hà, Hà Tĩnh",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Nguyễn Đổng Chi (phụ thân)" : null
+  "dateOfBirth": "4 tháng 7, 1938 (79 tuổi) Lộc Hà, Hà Tĩnh",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {
+    "Nguyễn Đổng Chi (phụ thân)": null
   },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 2831,
-  "entityName" : "Nguyễn Huệ Chi",
-  "aliases" : [ "Phương Tri, Huệ Chi, Cánh Hồng, Hy Tuệ", "Phương Tri" ],
-  "overview" : "Nguyễn Huệ Chi, sinh ngày 4 tháng 7 năm 1938, là một giáo sư người Việt Nam, nhà nghiên cứu văn học Việt Nam cổ, trung và cận đại; nguyên trưởng phòng Văn học Việt Nam cổ cận đại của Viện Văn học; nguyên Chủ tịch Hội đồng Khoa học của Viện Văn học thuộc Viện Khoa học Xã hội Việt Nam, là hội viên Hội Nhà văn Việt Nam từ 1984 tới tháng 5 năm 2015. Giáo sư Nguyễn Huệ Chi còn được biết đến với các bút danh Phương Tri, Huệ Chi, Cánh Hồng, Hy Tuệ. Năm 2009, cùng với nhà văn Phạm Toàn và Giáo sư Nguyễn Thế Hùng, ông khởi xướng trang mạng Bauxite Việt Nam."
+  "motherName": {},
+  "eraName": {},
+  "id": 2831,
+  "entityName": "Nguyễn Huệ Chi",
+  "aliases": [
+    "Phương Tri, Huệ Chi, Cánh Hồng, Hy Tuệ",
+    "Phương Tri"
+  ],
+  "overview": "Nguyễn Huệ Chi, sinh ngày 4 tháng 7 năm 1938, là một giáo sư người Việt Nam, nhà nghiên cứu văn học Việt Nam cổ, trung và cận đại; nguyên trưởng phòng Văn học Việt Nam cổ cận đại của Viện Văn học; nguyên Chủ tịch Hội đồng Khoa học của Viện Văn học thuộc Viện Khoa học Xã hội Việt Nam, là hội viên Hội Nhà văn Việt Nam từ 1984 tới tháng 5 năm 2015. Giáo sư Nguyễn Huệ Chi còn được biết đến với các bút danh Phương Tri, Huệ Chi, Cánh Hồng, Hy Tuệ. Năm 2009, cùng với nhà văn Phạm Toàn và Giáo sư Nguyễn Thế Hùng, ông khởi xướng trang mạng Bauxite Việt Nam."
 }

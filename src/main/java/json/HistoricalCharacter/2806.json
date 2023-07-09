@@ -1,19 +1,22 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Người làng Dương Xá, huyện Đông Sơn\n----------------------------------------------\nKhông rõ",
-  "occupation" : "Con Dương Diên Nghệ, anh Dương Hậu \n----------------------------------------------\nVua",
-  "workTenure" : "944 – 950\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n944—950",
-  "fatherName" : {
-    "Dương Đình Nghệ" : 2021
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Người làng Dương Xá, huyện Đông Sơn\n----------------------------------------------\nKhông rõ",
+  "occupation": "Con Dương Diên Nghệ, anh Dương Hậu \n----------------------------------------------\nVua",
+  "workTenure": "944 – 950\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n944—950",
+  "fatherName": {
+    "Dương Đình Nghệ": 446
   },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Ngô" : 25,
-    "Nhà Ngô và Dương Tam Kha" : 25
+  "motherName": {},
+  "eraName": {
+    "Nhà Ngô": 25,
+    "Nhà Ngô và Dương Tam Kha": 25
   },
-  "id" : 2806,
-  "entityName" : "Dương Bình Vương",
-  "aliases" : [ "Dương Bình Vương", "Dương Tam Kha (楊三哥) Dương Chủ Tướng (楊主將) Dương Thiệu Hồng (楊紹洪)" ],
-  "overview" : "Dương Tam Kha (chữ Hán: 楊三哥), tức Dương Bình Vương (楊平王) là một vị vua Việt Nam, trị vì từ 944 đến 950, xen giữa nhà Ngô trong lịch sử Việt Nam.\n----------------------------------------------\nNăm Giáp thìn 944, Ngô Vương Quyền mất, ông được Ngô Vương ủy thác phù dực con lớn là Ngô Xương Ngập, nhưng ông thừa dịp đoạt lấy quyền của cháu, tự xưng Bình Vương. Tam Kha là đứa gian hồi Lấy bề thích lí chịu lời thác cô Cành Dương đè lấy chồi Ngô, Bình vương tiếm hiệu quốc đô tranh quyền (Đại Nam quốc sử diễn ca) Ngô Xương Ngập trốn sang Nam sách, thuộc tỉnh Hải Dương, được Phạm Lệnh Công ở Trà Hương huyện Kim Thành nuôi giấu. Không tìm được Xương Ngập, Dương Tam Kha lập em Xương Ngập là Xương Văn làm con nuôi. Năm Canh tuất 950, có biến ở hai thôn Thái Bình, Đường Nguyễn, Dương Tam Kha sai hai tướng Dương Kiết Lợi và Đỗ Cảnh Thạc cùng Xương Văn đi đánh dẹp. Đi đến Từ Liêm, Xương Văn ướm ý hai tướng Dương, Đỗ, được cả hai tình nguyện ủng hộ, cùng nhau đem quân trở về đảo chính. Dương Tam Kha bị bắt và bị giáng làm Trương vương công. Hai anh em Xương Ngập, Xương Văn nối nghiệp nhà Ngô như cũ.\n----------------------------------------------\nDương Tam Kha (chữ Hán: 楊三哥, ? - 980), tức Dương Bình Vương (楊平王), là một vị vua Việt Nam, trị vì từ 944 đến 950, xen giữa triều đại nhà Ngô trong lịch sử Việt Nam."
+  "id": 2806,
+  "entityName": "Dương Bình Vương",
+  "aliases": [
+    "Dương Bình Vương",
+    "Dương Tam Kha (楊三哥) Dương Chủ Tướng (楊主將) Dương Thiệu Hồng (楊紹洪)"
+  ],
+  "overview": "Dương Tam Kha (chữ Hán: 楊三哥), tức Dương Bình Vương (楊平王) là một vị vua Việt Nam, trị vì từ 944 đến 950, xen giữa nhà Ngô trong lịch sử Việt Nam.\n----------------------------------------------\nNăm Giáp thìn 944, Ngô Vương Quyền mất, ông được Ngô Vương ủy thác phù dực con lớn là Ngô Xương Ngập, nhưng ông thừa dịp đoạt lấy quyền của cháu, tự xưng Bình Vương. Tam Kha là đứa gian hồi Lấy bề thích lí chịu lời thác cô Cành Dương đè lấy chồi Ngô, Bình vương tiếm hiệu quốc đô tranh quyền (Đại Nam quốc sử diễn ca) Ngô Xương Ngập trốn sang Nam sách, thuộc tỉnh Hải Dương, được Phạm Lệnh Công ở Trà Hương huyện Kim Thành nuôi giấu. Không tìm được Xương Ngập, Dương Tam Kha lập em Xương Ngập là Xương Văn làm con nuôi. Năm Canh tuất 950, có biến ở hai thôn Thái Bình, Đường Nguyễn, Dương Tam Kha sai hai tướng Dương Kiết Lợi và Đỗ Cảnh Thạc cùng Xương Văn đi đánh dẹp. Đi đến Từ Liêm, Xương Văn ướm ý hai tướng Dương, Đỗ, được cả hai tình nguyện ủng hộ, cùng nhau đem quân trở về đảo chính. Dương Tam Kha bị bắt và bị giáng làm Trương vương công. Hai anh em Xương Ngập, Xương Văn nối nghiệp nhà Ngô như cũ.\n----------------------------------------------\nDương Tam Kha (chữ Hán: 楊三哥, ? - 980), tức Dương Bình Vương (楊平王), là một vị vua Việt Nam, trị vì từ 944 đến 950, xen giữa triều đại nhà Ngô trong lịch sử Việt Nam."
 }

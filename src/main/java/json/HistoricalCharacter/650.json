@@ -1,17 +1,20 @@
 {
-  "dateOfBirth" : "Mậu Ngọ 1918",
-  "dateOfDeath" : "Giáp Thân 2003",
-  "hometown" : "Quê làng Hưng Vận, xã Nghi Hưng, huyện Can Lộc, tỉnh Nghệ An",
-  "occupation" : "Nhà văn, giáo sư đại học, Nhà nghiên cứu văn học biệt Nam",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+  "dateOfBirth": "Mậu Ngọ 1918",
+  "dateOfDeath": "Giáp Thân 2003",
+  "hometown": "Quê làng Hưng Vận, xã Nghi Hưng, huyện Can Lộc, tỉnh Nghệ An",
+  "occupation": "Nhà văn, giáo sư đại học, Nhà nghiên cứu văn học biệt Nam",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11,
+    "Nước Việt Nam mới": 29
   },
-  "id" : 650,
-  "entityName" : "Bùi Văn Nguyên",
-  "aliases" : [ "Khuê Hoa", "Vân Trình" ],
-  "overview" : "Xuất thân trong một gia đình có truyền thống Nho học, thuở nhỏ học chữ Hán với người thân trong gia đình (cha và cậu). Đến tuổi trưởng thành học tiểu học tại Vinh, trường Thăng Long, Hà Nội, rồi làm công chức ngành bưu điện ở Biên Hoà (Nam Bộ). Sau Cách mạng tháng Tám năm 1945, ông làm giáo viên Trung học suốt chín năm kháng chiến tại Nghệ An, Hà Tĩch. Từ năm 1956 ông ra Hà Nội giảng dạy tại khoa Ngữ văn trường Đại học Sư phạm Hà Nội cho đến ngày hưu trí. Từng là chủ nhiệm bộ môn Văn học dân gian và văn học cổ Việt Nam trong nhiều năm, Tổng thư kí Hội Văn nghệ Dân gian... Ông được Nhà nước Việt Nam phong chức danh Giáo sư Văn học trong năm 1984, nhà giáo ưu tú. Ông mất ngày 2 tháng 4 năm 2003, thọ 88 tuổi. Các tác phẩm chính: - Giáo trình lịch sử văn học Việt Nam (1961, 1962) hợp soạn - Nguyên Trãi (1979) - Chủ nghĩa yêu nước trong văn học thời khởi nghĩa Lam Sơn (1980) - Văn chương Nguyễn Bỉnh Khiêmơ (1988) - Bạch Vân Quốc ngữ thi tập (1989) Và rất nhiều chuyên đề về văn học cổ và văn học dân gian Việt Nam..."
+  "id": 650,
+  "entityName": "Bùi Văn Nguyên",
+  "aliases": [
+    "Khuê Hoa",
+    "Vân Trình"
+  ],
+  "overview": "Xuất thân trong một gia đình có truyền thống Nho học, thuở nhỏ học chữ Hán với người thân trong gia đình (cha và cậu). Đến tuổi trưởng thành học tiểu học tại Vinh, trường Thăng Long, Hà Nội, rồi làm công chức ngành bưu điện ở Biên Hoà (Nam Bộ). Sau Cách mạng tháng Tám năm 1945, ông làm giáo viên Trung học suốt chín năm kháng chiến tại Nghệ An, Hà Tĩch. Từ năm 1956 ông ra Hà Nội giảng dạy tại khoa Ngữ văn trường Đại học Sư phạm Hà Nội cho đến ngày hưu trí. Từng là chủ nhiệm bộ môn Văn học dân gian và văn học cổ Việt Nam trong nhiều năm, Tổng thư kí Hội Văn nghệ Dân gian... Ông được Nhà nước Việt Nam phong chức danh Giáo sư Văn học trong năm 1984, nhà giáo ưu tú. Ông mất ngày 2 tháng 4 năm 2003, thọ 88 tuổi. Các tác phẩm chính: - Giáo trình lịch sử văn học Việt Nam (1961, 1962) hợp soạn - Nguyên Trãi (1979) - Chủ nghĩa yêu nước trong văn học thời khởi nghĩa Lam Sơn (1980) - Văn chương Nguyễn Bỉnh Khiêmơ (1988) - Bạch Vân Quốc ngữ thi tập (1989) Và rất nhiều chuyên đề về văn học cổ và văn học dân gian Việt Nam..."
 }

@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Đại thần",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Bắc thuộc lần 1" : 6
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Đại thần",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Bắc thuộc lần 1": 6
   },
-  "id" : 942,
-  "entityName" : "Lữ Gia",
-  "aliases" : [ ],
-  "overview" : "Bấy giờ sứ nhà Hán là An Quốc Thiếu Quý vốn là tình nhân cũ của hoàng thái hậu Cù Thị, âm mưu với nhau định đem nước Nam Việt nhập vào lãnh thổ Trung Quốc. Ông hết lời can ngăn không được, bèn truyền hịch khắp nơi tố cáo việc làm hại dân hại nước ấy, rồi đem quân vào cung giết luôn Thiếu Quý, Cù hậu và Ai vương, tôn con trường của Triệu Minh vương là Kiến Đức lên làm vua. Năm sau, nhà Hán sai Phục Ba tướng quân Lộ Bác Đức và Dương Bộc sang đánh. Ông Lữ Gia cầm quân chống cự, lúc đầu giết được tướng Hán là Hàn Thiên Thu. Nhưng sau vì thất thế, ông bị bắt và bị giết. Nước ta bị người Hán cai trị từ đó."
+  "id": 942,
+  "entityName": "Lữ Gia",
+  "aliases": [],
+  "overview": "Bấy giờ sứ nhà Hán là An Quốc Thiếu Quý vốn là tình nhân cũ của hoàng thái hậu Cù Thị, âm mưu với nhau định đem nước Nam Việt nhập vào lãnh thổ Trung Quốc. Ông hết lời can ngăn không được, bèn truyền hịch khắp nơi tố cáo việc làm hại dân hại nước ấy, rồi đem quân vào cung giết luôn Thiếu Quý, Cù hậu và Ai vương, tôn con trường của Triệu Minh vương là Kiến Đức lên làm vua. Năm sau, nhà Hán sai Phục Ba tướng quân Lộ Bác Đức và Dương Bộc sang đánh. Ông Lữ Gia cầm quân chống cự, lúc đầu giết được tướng Hán là Hàn Thiên Thu. Nhưng sau vì thất thế, ông bị bắt và bị giết. Nước ta bị người Hán cai trị từ đó."
 }

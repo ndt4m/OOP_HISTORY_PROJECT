@@ -1,19 +1,21 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Vua",
-  "workTenure" : "944 – 950\n----------------------------------------------\n944—950",
-  "fatherName" : {
-    "Dương Đình Nghệ" : 2021
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Vua",
+  "workTenure": "944 – 950\n----------------------------------------------\n944—950",
+  "fatherName": {
+    "Dương Đình Nghệ": 446
   },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Ngô" : 25,
-    "Nhà Ngô và Dương Tam Kha" : 25
+  "motherName": {},
+  "eraName": {
+    "Nhà Ngô": 25,
+    "Nhà Ngô và Dương Tam Kha": 25
   },
-  "id" : 2350,
-  "entityName" : "Dương Bình Vương",
-  "aliases" : [ "Dương Tam Kha (楊三哥) Dương Chủ Tướng (楊主將) Dương Thiệu Hồng (楊紹洪)" ],
-  "overview" : "Dương Tam Kha (chữ Hán: 楊三哥), tức Dương Bình Vương (楊平王) là một vị vua Việt Nam, trị vì từ 944 đến 950, xen giữa nhà Ngô trong lịch sử Việt Nam.\n----------------------------------------------\nDương Tam Kha (chữ Hán: 楊三哥, ? - 980), tức Dương Bình Vương (楊平王), là một vị vua Việt Nam, trị vì từ 944 đến 950, xen giữa triều đại nhà Ngô trong lịch sử Việt Nam."
+  "id": 2350,
+  "entityName": "Dương Bình Vương",
+  "aliases": [
+    "Dương Tam Kha (楊三哥) Dương Chủ Tướng (楊主將) Dương Thiệu Hồng (楊紹洪)"
+  ],
+  "overview": "Dương Tam Kha (chữ Hán: 楊三哥), tức Dương Bình Vương (楊平王) là một vị vua Việt Nam, trị vì từ 944 đến 950, xen giữa nhà Ngô trong lịch sử Việt Nam.\n----------------------------------------------\nDương Tam Kha (chữ Hán: 楊三哥, ? - 980), tức Dương Bình Vương (楊平王), là một vị vua Việt Nam, trị vì từ 944 đến 950, xen giữa triều đại nhà Ngô trong lịch sử Việt Nam."
 }

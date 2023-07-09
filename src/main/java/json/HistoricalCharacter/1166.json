@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê huyện Lễ Dương, tỉnh Quảng Nam (nay thuộc huyện Thăng Bình, tỉnh Quảng Nam)",
-  "occupation" : "Văn thần đời Minh Mạng",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "quê huyện Lễ Dương, tỉnh Quảng Nam (nay thuộc huyện Thăng Bình, tỉnh Quảng Nam)",
+  "occupation": "Văn thần đời Minh Mạng",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 1166,
-  "entityName" : "Doãn Văn Xuân",
-  "aliases" : [ ],
-  "overview" : "Ông đỗ Hương cống đời Gia Long, đến đời Minh Mạng làm án sát tỉnh Quảng Yên, rồi tỉnh Bắc Ninh. Vì tính cương trực, có lúc ông bị bọn gian thần ám hại nên mất chức. Một thời gian sau lại làm Lang trung ở Trấn Tây thành (Nam Vang), rồi thăng án sát tỉnh Gia Định, ít lâu mất tại chức, được truy tặng Thị lang."
+  "id": 1166,
+  "entityName": "Doãn Văn Xuân",
+  "aliases": [],
+  "overview": "Ông đỗ Hương cống đời Gia Long, đến đời Minh Mạng làm án sát tỉnh Quảng Yên, rồi tỉnh Bắc Ninh. Vì tính cương trực, có lúc ông bị bọn gian thần ám hại nên mất chức. Một thời gian sau lại làm Lang trung ở Trấn Tây thành (Nam Vang), rồi thăng án sát tỉnh Gia Định, ít lâu mất tại chức, được truy tặng Thị lang."
 }

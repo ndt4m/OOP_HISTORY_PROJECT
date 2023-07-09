@@ -1,17 +1,17 @@
 {
-  "dateOfBirth" : "1046\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Danh tướng thời nhà Lý ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Lý" : 14,
-    "nhà Tống" : null
+  "dateOfBirth": "1046\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Danh tướng thời nhà Lý ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Lý": 14,
+    "nhà Tống": null
   },
-  "id" : 249,
-  "entityName" : "Tôn Đản",
-  "aliases" : [ ],
-  "overview" : "Tông Đản (Chữ Hán: 宗亶; 1046 - ?) hay Tôn Đản , có chỗ chép là Nùng Tông Đản (儂宗亶), là tướng lĩnh người dân tộc Nùng, thuộc tướng của Lý Thường Kiệt, người có công lớn cùng Lý Thường Kiệt đánh phá Ung Châu, Khâm, Liêm Châu trên đất nhà Tống, làm ngăn chặn âm mưu thôn tính Đại Việt của Nhà Tống trong cuộc kháng chiến chống Tống (1075-1077).\n----------------------------------------------\nĐược tin cấp báo, vua Nhân tông sai Lý Thường Kiệt và ông đem 10 vạn quân sang đất Tống đánh phủ đầu trước. Lý Thường Kiệt dẫn đại quân đánh lấy châu Khâm, châu Liêm (thuộc tỉnh Quảng Đông), còn ông vây đánh châu Ung (thuộc tỉnh Quảng Tây). Tướng giữ thành của nhà Tống là Tô Giam không chịu hàng, nhưng cuối cùng dưới sức tấn công do Tôn Đản chỉ huy, Tô Giam phải tự thiêu mà chết. Quân ta phải đánh châu Ung đến 40 ngày mới hạ được thành, mà công đầu là do tài chỉ huy của Tôn Đản và Lý Thường Kiệt."
+  "id": 249,
+  "entityName": "Tôn Đản",
+  "aliases": [],
+  "overview": "Tông Đản (Chữ Hán: 宗亶; 1046 - ?) hay Tôn Đản , có chỗ chép là Nùng Tông Đản (儂宗亶), là tướng lĩnh người dân tộc Nùng, thuộc tướng của Lý Thường Kiệt, người có công lớn cùng Lý Thường Kiệt đánh phá Ung Châu, Khâm, Liêm Châu trên đất nhà Tống, làm ngăn chặn âm mưu thôn tính Đại Việt của Nhà Tống trong cuộc kháng chiến chống Tống (1075-1077).\n----------------------------------------------\nĐược tin cấp báo, vua Nhân tông sai Lý Thường Kiệt và ông đem 10 vạn quân sang đất Tống đánh phủ đầu trước. Lý Thường Kiệt dẫn đại quân đánh lấy châu Khâm, châu Liêm (thuộc tỉnh Quảng Đông), còn ông vây đánh châu Ung (thuộc tỉnh Quảng Tây). Tướng giữ thành của nhà Tống là Tô Giam không chịu hàng, nhưng cuối cùng dưới sức tấn công do Tôn Đản chỉ huy, Tô Giam phải tự thiêu mà chết. Quân ta phải đánh châu Ung đến 40 ngày mới hạ được thành, mà công đầu là do tài chỉ huy của Tôn Đản và Lý Thường Kiệt."
 }

@@ -1,17 +1,19 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "sinh quán tỉnh Bến Tre, không rõ năm sinh, năm mất",
-  "occupation" : "Nhà văn ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "sinh quán tỉnh Bến Tre, không rõ năm sinh, năm mất",
+  "occupation": "Nhà văn ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11,
+    "Nước Việt Nam mới": 29
   },
-  "id" : 1829,
-  "entityName" : "Dương Minh Đạt",
-  "aliases" : [ "Lầu" ],
-  "overview" : "Thuở nhỏ học ở Bến Tre, Sài Gòn, những năm 30 của thế kỉ XX ông viết văn, làm báo tại Sài Gòn. Từng cộng tác với các báo: Nông cổ mín đàn, Lục tỉnh tân văn, Công luận... và các nhà xuất bản Xưa Nay, Bảo Tồn, Đức Lưu Phương ở Sài Gòn. Các tác phẩm chính: - Tính kế nhiệm màu (Xưa Nay, 1926) - Anh hùng ba mặt tức Bí mật phi thường (nt, 1927) - Bình vỡ gương tan (Xưa Nay, 1927) - Hồng Hoàng Gia Cát (Xưa Nay, 1927) - Anh hùng hội đào duyên (Bảo Tồn, 1928) - Trường tình bí mật (Đức Lưu Phương, 1929) - Khối tình mầu nhiệm (Đức Lưu Phương, 1930)"
+  "id": 1829,
+  "entityName": "Dương Minh Đạt",
+  "aliases": [
+    "Lầu"
+  ],
+  "overview": "Thuở nhỏ học ở Bến Tre, Sài Gòn, những năm 30 của thế kỉ XX ông viết văn, làm báo tại Sài Gòn. Từng cộng tác với các báo: Nông cổ mín đàn, Lục tỉnh tân văn, Công luận... và các nhà xuất bản Xưa Nay, Bảo Tồn, Đức Lưu Phương ở Sài Gòn. Các tác phẩm chính: - Tính kế nhiệm màu (Xưa Nay, 1926) - Anh hùng ba mặt tức Bí mật phi thường (nt, 1927) - Bình vỡ gương tan (Xưa Nay, 1927) - Hồng Hoàng Gia Cát (Xưa Nay, 1927) - Anh hùng hội đào duyên (Bảo Tồn, 1928) - Trường tình bí mật (Đức Lưu Phương, 1929) - Khối tình mầu nhiệm (Đức Lưu Phương, 1930)"
 }

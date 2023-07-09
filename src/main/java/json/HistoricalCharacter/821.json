@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "nhà Trần" : null
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "nhà Trần": null
   },
-  "id" : 821,
-  "entityName" : "Nguyễn Quan Quang",
-  "aliases" : [ "Trần Quán Quang" ],
-  "overview" : "Nguyễn Quan Quang (chữ Hán: 阮觀光, ?-?), có tài liệu ghi là Nguyễn Quán Quang hay Trần Quán Quang, là một danh thần thời nhà Trần. Ông được biết nhiều với giai thoại đỗ Tam nguyên và sứ giả Đại Việt đối đáp với tướng Mông Cổ. Theo văn bia số 1 tại Văn miếu Bắc Ninh, thì ông là người đỗ Trạng nguyên khoa thi Bính Ngọ 1246, tức năm Thiên Ứng Chính Bình thứ 15 đời vua Trần Thái Tông."
+  "id": 821,
+  "entityName": "Nguyễn Quan Quang",
+  "aliases": [
+    "Trần Quán Quang"
+  ],
+  "overview": "Nguyễn Quan Quang (chữ Hán: 阮觀光, ?-?), có tài liệu ghi là Nguyễn Quán Quang hay Trần Quán Quang, là một danh thần thời nhà Trần. Ông được biết nhiều với giai thoại đỗ Tam nguyên và sứ giả Đại Việt đối đáp với tướng Mông Cổ. Theo văn bia số 1 tại Văn miếu Bắc Ninh, thì ông là người đỗ Trạng nguyên khoa thi Bính Ngọ 1246, tức năm Thiên Ứng Chính Bình thứ 15 đời vua Trần Thái Tông."
 }

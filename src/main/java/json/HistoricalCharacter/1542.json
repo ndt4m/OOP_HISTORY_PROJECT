@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Nhâm Tuất 1922",
-  "dateOfDeath" : "Kỉ Dậu 1969",
-  "hometown" : "quê xã Vĩnh Lộc, huyện Bình Chánh, tỉnh Gia Định, bí danh Năm Tấn",
-  "occupation" : "Liệt sĩ hiện đại, quê xã Vĩnh Lộc, huyện Bình Chánh, tỉnh Gia Định",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nước Việt Nam mới" : 29
+  "dateOfBirth": "Nhâm Tuất 1922",
+  "dateOfDeath": "Kỉ Dậu 1969",
+  "hometown": "quê xã Vĩnh Lộc, huyện Bình Chánh, tỉnh Gia Định, bí danh Năm Tấn",
+  "occupation": "Liệt sĩ hiện đại, quê xã Vĩnh Lộc, huyện Bình Chánh, tỉnh Gia Định",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nước Việt Nam mới": 29
   },
-  "id" : 1542,
-  "entityName" : "Huỳnh Văn Bánh",
-  "aliases" : [ "Năm Tấn" ],
-  "overview" : "Sau hiệp định Genève ông ở lại miền Nam hoạt động. Trong kháng chiến chống Mĩ ông được cử vào ban thường vụ Khu ủy Sài Gòn - Gia Định, phụ trách an ninh phân khu. Ông hi sinh ngày 8-6-1969 tại ấp Bến Súc, xã Thanh Tuyền, huyện Bến Cát, tỉnh Bình Dương sau một đợt bom rải thảm của B52."
+  "id": 1542,
+  "entityName": "Huỳnh Văn Bánh",
+  "aliases": [
+    "Năm Tấn"
+  ],
+  "overview": "Sau hiệp định Genève ông ở lại miền Nam hoạt động. Trong kháng chiến chống Mĩ ông được cử vào ban thường vụ Khu ủy Sài Gòn - Gia Định, phụ trách an ninh phân khu. Ông hi sinh ngày 8-6-1969 tại ấp Bến Súc, xã Thanh Tuyền, huyện Bến Cát, tỉnh Bình Dương sau một đợt bom rải thảm của B52."
 }

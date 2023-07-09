@@ -1,16 +1,19 @@
 {
-  "dateOfBirth" : "Giáp Tuất 1754",
-  "dateOfDeath" : "Giáp Dần 1794",
-  "hometown" : "Quê làng Bảo Triện huyện Gia Bình, trấn Kinh Bắc (nay thuộc tỉnh Bắc Ninh)",
-  "occupation" : "Danh sĩ cuối đời Hậu Lê",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
+  "dateOfBirth": "Giáp Tuất 1754",
+  "dateOfDeath": "Giáp Dần 1794",
+  "hometown": "Quê làng Bảo Triện huyện Gia Bình, trấn Kinh Bắc (nay thuộc tỉnh Bắc Ninh)",
+  "occupation": "Danh sĩ cuối đời Hậu Lê",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34
   },
-  "id" : 64,
-  "entityName" : "Trần Danh Án",
-  "aliases" : [ "Liễu Am", "Tản Ông" ],
-  "overview" : "Năm Đinh mùi 1787 ông đỗ Hoàng Giáp, làm quan triều Lê Chiêu Thống tước Đình Nhạc Hầu. Khi Nhà Tây Sơn kéo quân ra Bắc ông phụng mạng cùng với Lê Duy Đản sang Trung Quốc cầu cứu nhà Thanh. Đến lúc Tây sơn đánh tan quân Thanh Chiêu Thống lưu vong ở Trung Quốc ông trốn về quê. Vua Quang Trung mời ông ra cộng tác, ông từ chối, có lúc cùng với các tay chân cũ của Lê Chiêu Thống chống lại vua Quang Trung, nhưng đều thất bại. Năm Giáp dần 1794 ông mất, mới 40 tuổi ông có nhiều sáng tác văn học trong đó có: - Liễu Am thi tập, về sau nhiều nơi sưu tập lại, có nhan sách là: Liễu Am Tản Ông thi tập hoặc Bảo Triện Trần Danh Án thi thảo, hay Bản Triện Trần Hoàng giáp thi tập. - Lịch đại chính yếu luận (bàn về các chính sách của các triều đại). - Nam phong giải trào (sưu tầm ca dao tục ngữ). - Nam phong ngữ ngạn thi (sưu tầm ca dao tục ngữ. Có phần dịch ca dao tục ngữ chữ Nôm ra chữ Hán). Nam phong giải trào (1 quyển) do ông soạn, Ngô Đình Thái và Trần Doãn Giác bổ sung, hiệu chỉnh, in năm Canh tuất (1910) Nam phong giải trào là một tập ca dao Việt Nam, dịch ra chữ Hán, có chú giải ý nghĩa và liên hệ với một số sự việc lịch sử Việt Nam hồi cuối đời Lê. Bản in nói trên gồm có 102 chương. Đầu sách có bài bạt, đề tên tác giả là Trần Doãn Giác, hiệu là Đức Phái Sần Phu Phủ không đề niên hiệu. Kế đến bài tựa không đề tên và niên hiệu. Sau bài tựa có đề: Liễu Am Trần tiên sinh (thập thất chương). Ngô Hạo Phu (tứ chương). Sau cùng sách có phụ khắc bài Chinh phụ tự tình."
+  "id": 64,
+  "entityName": "Trần Danh Án",
+  "aliases": [
+    "Liễu Am",
+    "Tản Ông"
+  ],
+  "overview": "Năm Đinh mùi 1787 ông đỗ Hoàng Giáp, làm quan triều Lê Chiêu Thống tước Đình Nhạc Hầu. Khi Nhà Tây Sơn kéo quân ra Bắc ông phụng mạng cùng với Lê Duy Đản sang Trung Quốc cầu cứu nhà Thanh. Đến lúc Tây sơn đánh tan quân Thanh Chiêu Thống lưu vong ở Trung Quốc ông trốn về quê. Vua Quang Trung mời ông ra cộng tác, ông từ chối, có lúc cùng với các tay chân cũ của Lê Chiêu Thống chống lại vua Quang Trung, nhưng đều thất bại. Năm Giáp dần 1794 ông mất, mới 40 tuổi ông có nhiều sáng tác văn học trong đó có: - Liễu Am thi tập, về sau nhiều nơi sưu tập lại, có nhan sách là: Liễu Am Tản Ông thi tập hoặc Bảo Triện Trần Danh Án thi thảo, hay Bản Triện Trần Hoàng giáp thi tập. - Lịch đại chính yếu luận (bàn về các chính sách của các triều đại). - Nam phong giải trào (sưu tầm ca dao tục ngữ). - Nam phong ngữ ngạn thi (sưu tầm ca dao tục ngữ. Có phần dịch ca dao tục ngữ chữ Nôm ra chữ Hán). Nam phong giải trào (1 quyển) do ông soạn, Ngô Đình Thái và Trần Doãn Giác bổ sung, hiệu chỉnh, in năm Canh tuất (1910) Nam phong giải trào là một tập ca dao Việt Nam, dịch ra chữ Hán, có chú giải ý nghĩa và liên hệ với một số sự việc lịch sử Việt Nam hồi cuối đời Lê. Bản in nói trên gồm có 102 chương. Đầu sách có bài bạt, đề tên tác giả là Trần Doãn Giác, hiệu là Đức Phái Sần Phu Phủ không đề niên hiệu. Kế đến bài tựa không đề tên và niên hiệu. Sau bài tựa có đề: Liễu Am Trần tiên sinh (thập thất chương). Ngô Hạo Phu (tứ chương). Sau cùng sách có phụ khắc bài Chinh phụ tự tình."
 }

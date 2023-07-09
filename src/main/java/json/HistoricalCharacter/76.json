@@ -1,18 +1,21 @@
 {
-  "dateOfBirth" : "656 TCN Trung Quốc",
-  "dateOfDeath" : "601 TCN Trung Quốc",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Triệu Thôi" : null
+  "dateOfBirth": "656 TCN Trung Quốc",
+  "dateOfDeath": "601 TCN Trung Quốc",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {
+    "Triệu Thôi": null
   },
-  "motherName" : {
-    "Địch nữ" : null
+  "motherName": {
+    "Địch nữ": null
   },
-  "eraName" : { },
-  "id" : 76,
-  "entityName" : "Triệu Thuẫn",
-  "aliases" : [ "Tuyên tử (宣子)", "Triệu Thuẫn" ],
-  "overview" : "Triệu Thuẫn (chữ Hán: 趙盾; 656 TCN-601 TCN ), tức Triệu Tuyên tử (赵宣子) là vị tông chủ thứ tư của họ Triệu, một trong Lục khanh của nước Tấn dưới thời Xuân Thu và là tổ tiên của nước Triệu sau này."
+  "eraName": {},
+  "id": 76,
+  "entityName": "Triệu Thuẫn",
+  "aliases": [
+    "Tuyên tử (宣子)",
+    "Triệu Thuẫn"
+  ],
+  "overview": "Triệu Thuẫn (chữ Hán: 趙盾; 656 TCN-601 TCN ), tức Triệu Tuyên tử (赵宣子) là vị tông chủ thứ tư của họ Triệu, một trong Lục khanh của nước Tấn dưới thời Xuân Thu và là tổ tiên của nước Triệu sau này."
 }

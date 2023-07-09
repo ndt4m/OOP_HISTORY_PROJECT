@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Bình Thuận",
-  "occupation" : "Danh thần",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Bình Thuận",
+  "occupation": "Danh thần",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34
   },
-  "id" : 1033,
-  "entityName" : "Đặng Đức Thuật",
-  "aliases" : [ "Cửu Tư" ],
-  "overview" : "Khi Tây Sơn dấy binh, ông cất nhà tại Phước Sơn, thuộc tỉnh Bình Thuận ở ẩn. Năm Mậu thân 1788, ông vào Gia Định với Lê Đạt, gặp Nguyễn Ánh, được dùng làm gián nghị, thị giảng Viện Hàn lâm. Tính ông cương trực, một khi can gián mà chúa Nguyễn không nghe, ông nói: \"Lời nói không công hiệu, thế thì gián nghị nỗi gì\". Bèn bỏ ra đi, chúa Nguyễn phải cho người theo triệu hồi, ông mới trở lại phục vụ. Sau, ông mất trong quân, được truy tặng Thượng thư, Thi giảng học sĩ."
+  "id": 1033,
+  "entityName": "Đặng Đức Thuật",
+  "aliases": [
+    "Cửu Tư"
+  ],
+  "overview": "Khi Tây Sơn dấy binh, ông cất nhà tại Phước Sơn, thuộc tỉnh Bình Thuận ở ẩn. Năm Mậu thân 1788, ông vào Gia Định với Lê Đạt, gặp Nguyễn Ánh, được dùng làm gián nghị, thị giảng Viện Hàn lâm. Tính ông cương trực, một khi can gián mà chúa Nguyễn không nghe, ông nói: \"Lời nói không công hiệu, thế thì gián nghị nỗi gì\". Bèn bỏ ra đi, chúa Nguyễn phải cho người theo triệu hồi, ông mới trở lại phục vụ. Sau, ông mất trong quân, được truy tặng Thượng thư, Thi giảng học sĩ."
 }

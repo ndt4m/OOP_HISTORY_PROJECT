@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 1555,
-  "entityName" : "Nguyễn Tự Cường",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Tự Cường có thể là:"
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 1555,
+  "entityName": "Nguyễn Tự Cường",
+  "aliases": [],
+  "overview": "Nguyễn Tự Cường có thể là:"
 }

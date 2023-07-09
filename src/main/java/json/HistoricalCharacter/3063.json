@@ -1,20 +1,20 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "1593 Lạng Sơn\n----------------------------------------------\nQuí Tị 1593",
-  "hometown" : "Không rõ",
-  "occupation" : "Danh tướng nhà Mạc. Con thứ bảy của Mạc Đăng Doanh, em Mạc Phúc Hải và Khiêm vương Mạc Kính Điển.",
-  "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Mạc Đăng Doanh" : 1224,
-    "Mạc Thái Tông" : 1574
+  "dateOfBirth": "…",
+  "dateOfDeath": "1593 Lạng Sơn\n----------------------------------------------\nQuí Tị 1593",
+  "hometown": "Không rõ",
+  "occupation": "Danh tướng nhà Mạc. Con thứ bảy của Mạc Đăng Doanh, em Mạc Phúc Hải và Khiêm vương Mạc Kính Điển.",
+  "workTenure": "Không rõ",
+  "fatherName": {
+    "Mạc Đăng Doanh": 756,
+    "Mạc Thái Tông": 1906
   },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Mạc" : 18,
-    "Nam - Bắc Triều" : 19
+  "motherName": {},
+  "eraName": {
+    "Nhà Mạc": 18,
+    "Nam - Bắc Triều": 19
   },
-  "id" : 3063,
-  "entityName" : "Mạc Đôn Nhượng",
-  "aliases" : [ ],
-  "overview" : "Mạc Đôn Nhượng (?-1593) là hoàng tử và là tướng nhà Mạc trong lịch sử Việt Nam. Ông tham gia cuộc chiến tranh Lê-Mạc cho tới khi kết thúc thời Nam Bắc triều.\n----------------------------------------------\nÔng được phong tước ứng vương, sau khi cha mất, anh là Phúc Hải nối ngôi, ông vẫn là một tướng lĩnh ra sức đánh dẹp nhóm phản kháng do Phạm Tử Nghi cầm đầu, ủng hộ Mạc Chính Trung tranh ngôi vua và quyết liệt chống nhau với nhà Lê. Nhất là sau khi Phúc Hải mất. Phúc Nguyên lên cầm quyền, ông cùng với anh là Khiêm vương Mạc Kính Điển trên cương vị ông chú vua, phụ chính đắc lực. Có thể nói, trong dòng họ Mạc, nhờ ông và Kính Điển mà nhà Mạc còn đứng vững được khá lâu trước những cơn bao táp do nhà Lê ập xuống. Có lúc ông quá mệt nhọc, đâm ra phóng túng hưởng lạc, bỏ mặc việc triều chính, nhưng sau đó ông biết phục thiện qua những lời khuyên trách của các đại thần rồi vẫn hăng hái vào sanh ra tử trên trường chiến đấu một mất một còn với nhà Lê. Ông và Kính Điển nghiễm nhiên là hai cây cột cả chống đỡ nhà Mạc một thời oanh liệt tranh bá đồ vương, từng phò 4 triều: Phúc Hải, Phúc Nguyên, Mậu Hợp và Kính Chỉ. Năm Quí tị 1593, trung tuần tháng giêng âm lịch ông bại binh chạy về ẩn náu ở An Bắc (nay thuộc huyện Sơn Đông, tỉnh Lạng Sơn), rồi bệnh mất, thọ 60 tuổi."
+  "id": 3063,
+  "entityName": "Mạc Đôn Nhượng",
+  "aliases": [],
+  "overview": "Mạc Đôn Nhượng (?-1593) là hoàng tử và là tướng nhà Mạc trong lịch sử Việt Nam. Ông tham gia cuộc chiến tranh Lê-Mạc cho tới khi kết thúc thời Nam Bắc triều.\n----------------------------------------------\nÔng được phong tước ứng vương, sau khi cha mất, anh là Phúc Hải nối ngôi, ông vẫn là một tướng lĩnh ra sức đánh dẹp nhóm phản kháng do Phạm Tử Nghi cầm đầu, ủng hộ Mạc Chính Trung tranh ngôi vua và quyết liệt chống nhau với nhà Lê. Nhất là sau khi Phúc Hải mất. Phúc Nguyên lên cầm quyền, ông cùng với anh là Khiêm vương Mạc Kính Điển trên cương vị ông chú vua, phụ chính đắc lực. Có thể nói, trong dòng họ Mạc, nhờ ông và Kính Điển mà nhà Mạc còn đứng vững được khá lâu trước những cơn bao táp do nhà Lê ập xuống. Có lúc ông quá mệt nhọc, đâm ra phóng túng hưởng lạc, bỏ mặc việc triều chính, nhưng sau đó ông biết phục thiện qua những lời khuyên trách của các đại thần rồi vẫn hăng hái vào sanh ra tử trên trường chiến đấu một mất một còn với nhà Lê. Ông và Kính Điển nghiễm nhiên là hai cây cột cả chống đỡ nhà Mạc một thời oanh liệt tranh bá đồ vương, từng phò 4 triều: Phúc Hải, Phúc Nguyên, Mậu Hợp và Kính Chỉ. Năm Quí tị 1593, trung tuần tháng giêng âm lịch ông bại binh chạy về ẩn náu ở An Bắc (nay thuộc huyện Sơn Đông, tỉnh Lạng Sơn), rồi bệnh mất, thọ 60 tuổi."
 }

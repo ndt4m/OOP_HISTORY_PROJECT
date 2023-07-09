@@ -1,20 +1,24 @@
 {
-  "dateOfBirth" : "27 tháng 4, 1770 Thăng Long, Đại Việt",
-  "dateOfDeath" : "4 tháng 12, 1799 (29 tuổi) chùa Kim Tiền, Huế, Đại Việt",
-  "hometown" : "Không rõ",
-  "occupation" : "Bắc Cung hoàng hậu nhà Tây Sơn",
-  "workTenure" : "1788 - 1792",
-  "fatherName" : {
-    "Lê Hiển Tông" : 4
+  "dateOfBirth": "27 tháng 4, 1770 Thăng Long, Đại Việt",
+  "dateOfDeath": "4 tháng 12, 1799 (29 tuổi) chùa Kim Tiền, Huế, Đại Việt",
+  "hometown": "Không rõ",
+  "occupation": "Bắc Cung hoàng hậu nhà Tây Sơn",
+  "workTenure": "1788 - 1792",
+  "fatherName": {
+    "Lê Hiển Tông": 708
   },
-  "motherName" : {
-    "Chiêu nghi Nguyễn Thị Huyền" : null
+  "motherName": {
+    "Chiêu nghi Nguyễn Thị Huyền": null
   },
-  "eraName" : {
-    "Nhà Hậu Lê Nhà Tây Sơn" : null
+  "eraName": {
+    "Nhà Hậu Lê Nhà Tây Sơn": null
   },
-  "id" : 2641,
-  "entityName" : "Lê Ngọc Hân",
-  "aliases" : [ "Như Ý Trang Thuận Trinh Nhất Vũ Hoàng hậu", "Ngọc Hân công chúa Hữu cung hoàng hậu Bắc cung hoàng hậu", "Lê Ngọc Hân" ],
-  "overview" : "Lê Ngọc Hân (chữ Hán: 黎玉忻, 1770-1799) còn gọi Ngọc Hân công chúa hay Bắc Cung Hoàng hậu (北宮皇后) là công chúa nhà Hậu Lê và hoàng hậu nhà Tây Sơn trong lịch sử Việt Nam, vợ của vua Quang Trung (Nguyễn Huệ). Dân gian còn lưu truyền tên gọi bà là Bà Chúa Tiên khi bà ở Phú Xuân vì dinh phủ lập ở chùa Kim Tiên."
+  "id": 2641,
+  "entityName": "Lê Ngọc Hân",
+  "aliases": [
+    "Như Ý Trang Thuận Trinh Nhất Vũ Hoàng hậu",
+    "Ngọc Hân công chúa Hữu cung hoàng hậu Bắc cung hoàng hậu",
+    "Lê Ngọc Hân"
+  ],
+  "overview": "Lê Ngọc Hân (chữ Hán: 黎玉忻, 1770-1799) còn gọi Ngọc Hân công chúa hay Bắc Cung Hoàng hậu (北宮皇后) là công chúa nhà Hậu Lê và hoàng hậu nhà Tây Sơn trong lịch sử Việt Nam, vợ của vua Quang Trung (Nguyễn Huệ). Dân gian còn lưu truyền tên gọi bà là Bà Chúa Tiên khi bà ở Phú Xuân vì dinh phủ lập ở chùa Kim Tiên."
 }

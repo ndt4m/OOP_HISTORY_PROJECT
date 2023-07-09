@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Giáp Ngọ 1894",
-  "dateOfDeath" : "Tân Tị 1941",
-  "hometown" : "quê làng Yên Lộ (nay thuộc xá Yên Nghĩa, huyện Hoài Đức, Hà Nội",
-  "occupation" : "Liệt sĩ cách mạng được xưng tặng là \"Chị Cả Bắc Kì \"",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "Giáp Ngọ 1894",
+  "dateOfDeath": "Tân Tị 1941",
+  "hometown": "quê làng Yên Lộ (nay thuộc xá Yên Nghĩa, huyện Hoài Đức, Hà Nội",
+  "occupation": "Liệt sĩ cách mạng được xưng tặng là \"Chị Cả Bắc Kì \"",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 2983,
-  "entityName" : "Nguyễn Thị Thủy",
-  "aliases" : [ "Chị Cả Bắc Kì" ],
-  "overview" : "Bà là vợ của nhà nho Nguyễn Trung Để, vợ chồng bà từng tham gia các phong trào đấu tranh đòi trả tự do cho Phan Bội Châu, để tang Phan Châu Trinh... Về sau (1939) bà được kết nạp vào Đảng Cộng sản Đông Dương, tích cực hoạt động, thường liên lạc với các ông: Trường Chinh, Hoàng Văn Thụ... địa bàn hoạt động của bà trải dài từ Hà Đông đến Cao Bằng, Lạng Sơn. Hai con trai bà là Nguyễn Mạnh Quang và Nguyễn Trung Hộ cũng là những nhà cách mạng cốt cán từng bị Tổng đốc Hoàng Trọng Phu bắt giam. Năm 1941, bà bị địch bắt, tra tấn dã man, khi thả ra bị thổ huyết rồi mất vào cuối năm ấy, hưởng dương 47 tuổi."
+  "id": 2983,
+  "entityName": "Nguyễn Thị Thủy",
+  "aliases": [
+    "Chị Cả Bắc Kì"
+  ],
+  "overview": "Bà là vợ của nhà nho Nguyễn Trung Để, vợ chồng bà từng tham gia các phong trào đấu tranh đòi trả tự do cho Phan Bội Châu, để tang Phan Châu Trinh... Về sau (1939) bà được kết nạp vào Đảng Cộng sản Đông Dương, tích cực hoạt động, thường liên lạc với các ông: Trường Chinh, Hoàng Văn Thụ... địa bàn hoạt động của bà trải dài từ Hà Đông đến Cao Bằng, Lạng Sơn. Hai con trai bà là Nguyễn Mạnh Quang và Nguyễn Trung Hộ cũng là những nhà cách mạng cốt cán từng bị Tổng đốc Hoàng Trọng Phu bắt giam. Năm 1941, bà bị địch bắt, tra tấn dã man, khi thả ra bị thổ huyết rồi mất vào cuối năm ấy, hưởng dương 47 tuổi."
 }

@@ -1,17 +1,19 @@
 {
-  "dateOfBirth" : "Tân Sửu 1901",
-  "dateOfDeath" : "Kỉ Dậu 1969",
-  "hometown" : "quê ở làng Phú Thị, huyện Văn Giang, nay thuộc tỉnh Hưng Yên (em ruột cụ Dương Bá Trạc và GS Dương Quảng Hàm)",
-  "occupation" : "Nhà giáo, nhà văn",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+  "dateOfBirth": "Tân Sửu 1901",
+  "dateOfDeath": "Kỉ Dậu 1969",
+  "hometown": "quê ở làng Phú Thị, huyện Văn Giang, nay thuộc tỉnh Hưng Yên (em ruột cụ Dương Bá Trạc và GS Dương Quảng Hàm)",
+  "occupation": "Nhà giáo, nhà văn",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11,
+    "Nước Việt Nam mới": 29
   },
-  "id" : 1262,
-  "entityName" : "Dương Tụ Quán",
-  "aliases" : [ "Khái Sinh, Mễ Dương, Trúc Nhân" ],
-  "overview" : "Năm 1929 ông xin thôi dạy học về lập nhà in Đông Tây và xuất bản sách, chủ trương mấy tờ báo: Văn học tạp chí (1932- 1933), Đông Tây báo (1934-1935), tờ này bị thực dân Pháp cấm năm 1935, Ngày mới (1939) và là người sáng lập kiêm quản lí tờ tạp chí Tri Tân, chuyên nghiên cứu về văn học và sử học cổ Việt Nam. Sau hiệp định Genève 1954 ông trở về Hà Nội dạy tư (1955 1956) và làm công tác văn hóa xã hội ở địa phương một thời gian, đến ngày 27 tháng 3 năm 1969 ông mất tại Hà Nội. Các tác phẩm chính: Giáo khoa: - Vận văn bách tuyển (trăm bài học thuộc lòng để dùng trong các trường Pháp - Việt) 1926, 1953. - Tập bài thi bằng sơ học yếu lược (cùng soạn với Dương Quảng Hàm). In lần thứ ba, Nhà in Nghiêm Hàm, 1926. - Manuel de conversation en français et annamite, Hà Nội, Hiệu sách Đông Tây, 1944. - 80 bài thơ ca yêu nước (gồm các bài thơ ca hay của các nhà cách mạng Việt Nam như Chủ tịch Hồ Chí Minh, Phan Bội Châu, Phan Châu Trinh, Hoàng Văn Thụ, Huỳnh Thúc Kháng, Cường Để, Dương Bá Trạc, Tán Thuật, Nguyễn Thượng Hiền...) Hà Nội, 1946. Khảo cứu: - Đào Duy Từ (một bậc danh nhân đời Nguyễn). Gồm có tiểu sử và thơ văn như Ngọa Long cương, Tư dung vãn và - Hổ trướng khu cơ, 1914. - Nam phong giải trào (dịch những phong dao ta ra lối phong thi của Trung Quốc) 1953. - Dương Bá Trạc (tiểu sử và thơ văn) 1946. Dịch thuật: - Khảo về loài kiến. Nam phong, 1924."
+  "id": 1262,
+  "entityName": "Dương Tụ Quán",
+  "aliases": [
+    "Khái Sinh, Mễ Dương, Trúc Nhân"
+  ],
+  "overview": "Năm 1929 ông xin thôi dạy học về lập nhà in Đông Tây và xuất bản sách, chủ trương mấy tờ báo: Văn học tạp chí (1932- 1933), Đông Tây báo (1934-1935), tờ này bị thực dân Pháp cấm năm 1935, Ngày mới (1939) và là người sáng lập kiêm quản lí tờ tạp chí Tri Tân, chuyên nghiên cứu về văn học và sử học cổ Việt Nam. Sau hiệp định Genève 1954 ông trở về Hà Nội dạy tư (1955 1956) và làm công tác văn hóa xã hội ở địa phương một thời gian, đến ngày 27 tháng 3 năm 1969 ông mất tại Hà Nội. Các tác phẩm chính: Giáo khoa: - Vận văn bách tuyển (trăm bài học thuộc lòng để dùng trong các trường Pháp - Việt) 1926, 1953. - Tập bài thi bằng sơ học yếu lược (cùng soạn với Dương Quảng Hàm). In lần thứ ba, Nhà in Nghiêm Hàm, 1926. - Manuel de conversation en français et annamite, Hà Nội, Hiệu sách Đông Tây, 1944. - 80 bài thơ ca yêu nước (gồm các bài thơ ca hay của các nhà cách mạng Việt Nam như Chủ tịch Hồ Chí Minh, Phan Bội Châu, Phan Châu Trinh, Hoàng Văn Thụ, Huỳnh Thúc Kháng, Cường Để, Dương Bá Trạc, Tán Thuật, Nguyễn Thượng Hiền...) Hà Nội, 1946. Khảo cứu: - Đào Duy Từ (một bậc danh nhân đời Nguyễn). Gồm có tiểu sử và thơ văn như Ngọa Long cương, Tư dung vãn và - Hổ trướng khu cơ, 1914. - Nam phong giải trào (dịch những phong dao ta ra lối phong thi của Trung Quốc) 1953. - Dương Bá Trạc (tiểu sử và thơ văn) 1946. Dịch thuật: - Khảo về loài kiến. Nam phong, 1924."
 }

@@ -1,16 +1,20 @@
 {
-  "dateOfBirth" : "?",
-  "dateOfDeath" : "473 TCN Trung Quốc",
-  "hometown" : "Không rõ",
-  "occupation" : "Vua nước Ngô",
-  "workTenure" : "495 TCN - 473 TCN",
-  "fatherName" : {
-    "Ngô Hạp Lư" : null
+  "dateOfBirth": "?",
+  "dateOfDeath": "473 TCN Trung Quốc",
+  "hometown": "Không rõ",
+  "occupation": "Vua nước Ngô",
+  "workTenure": "495 TCN - 473 TCN",
+  "fatherName": {
+    "Ngô Hạp Lư": null
   },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 2998,
-  "entityName" : "Ngô Phù Sai",
-  "aliases" : [ "Cơ Phù Sai (姬夫差)", "Cơ Phù Sai", "Ngô Vương Phù Sai" ],
-  "overview" : "Ngô Phù Sai (phồn thể: 吳夫差; ? - 473 TCN) hay Ngô Vương Phù Sai (吳王夫差), tên thật là Cơ Phù Sai (姬夫差), là vị vua thứ 25 của nước Ngô thời Đông Chu trong lịch sử Trung Quốc. Ông trị vì khoảng thời gian 495 TCN đến năm 473 TCN."
+  "motherName": {},
+  "eraName": {},
+  "id": 2998,
+  "entityName": "Ngô Phù Sai",
+  "aliases": [
+    "Cơ Phù Sai (姬夫差)",
+    "Cơ Phù Sai",
+    "Ngô Vương Phù Sai"
+  ],
+  "overview": "Ngô Phù Sai (phồn thể: 吳夫差; ? - 473 TCN) hay Ngô Vương Phù Sai (吳王夫差), tên thật là Cơ Phù Sai (姬夫差), là vị vua thứ 25 của nước Ngô thời Đông Chu trong lịch sử Trung Quốc. Ông trị vì khoảng thời gian 495 TCN đến năm 473 TCN."
 }

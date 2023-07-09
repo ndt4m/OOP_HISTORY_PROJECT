@@ -1,18 +1,21 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Thuỷ tổ dân tộc Việt Nam, họ Hồng Bàng dựng nước",
-  "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Lạc Long Quân" : 2768
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Thuỷ tổ dân tộc Việt Nam, họ Hồng Bàng dựng nước",
+  "workTenure": "Không rõ",
+  "fatherName": {
+    "Lạc Long Quân": 50
   },
-  "motherName" : { },
-  "eraName" : {
-    "Dựng nước" : 31
+  "motherName": {},
+  "eraName": {
+    "Dựng nước": 31
   },
-  "id" : 711,
-  "entityName" : "Hùng Vương",
-  "aliases" : [ "Văn Lang", "Hùng Vương" ],
-  "overview" : "Hùng Vương (chữ Hán: 雄王, chữ Nôm:?雄), là cách gọi các vị vua nước Văn Lang của người Lạc Việt. Hùng Vương thứ I là con trai của Lạc Long Quân, lên ngôi vào năm 2879 trước công nguyên, đặt quốc hiệu là Văn Lang, chia nước làm 15 bộ, truyền đời đến năm 258 trước công nguyên thì bị Thục Phán (An Dương Vương) chiếm mất nước.\n----------------------------------------------\n1. Kinh Dương Vương Lộc Tục, tôn dâng miếu hiệu là Hùng Dương 2. Lạc Long Quân Sùng Lãm thụy hiệu Hùng Hiền. 3. Hùng Lân 4. Hùng Việp 5. Hùng Hi (1) 6. Hùng Huy 7. Hùng Chiêu 8. Hùng Vĩ 9. Hùng Định 10. Hùng Hi (2) 11. Hùng Trinh 12. Hùng Võ 13. Hùng Việt 14. Hùng Anh 15. Hùng Triều 16. Hùng Tạo 17. Hùng Nghị 18. Hùng Duệ Hiệu nước khi ấy là Văn Lang, đóng đô ở Phong Châu (thuộc huyện Bạch Hạc, tỉnh Phú Thọ ngày nay). Toàn lãnh thổ chia làm 15 bộ: Văn Lang, Châu Diên, Phúc Lộc, Tân Hưng, Võ Định, Võ Ninh, Lục Khải, Ninh Hải, Dương Tuyền, Giao Chỉ, Cửu Chân, Hoài Nam, Cửu Đức, Việt Thường và Bình Văn. Về danh hiệu Hùng Vương, gần đây có nhiều học giả cho rằng chữ Lạc đã chép sai ra Hùng, nên phải gọi là Lạc Vương thay vì Hùng Vương. Đến nay di tích này còn trên đỉnh Hùng Sơn cách Hà Nội 97 cây số, cũng gọi là núi Đền, là Nghĩa Lĩnh hay Nghĩa Cương. Bia đề 4 chữ to \"Cao sơn cảnh Hùng\". Nơi đền thượng, phía ngoài nêu 4 chữ Nam thiên triệu tổ. Gian giữa, tấm hoành lớn ghi Hùng Vương miếu. Trên bàn thờ có ba bài vị, bài vị chính ghi Khai quốc hồng đồ, đột ngột cao sơn cố Việt Hùng thị, thập bát thế thánh vương. (Mười tám đời vua thánh dòng Hùng nước Việt xưa, non cao chất ngất nên sự nghiệp to mở nước). Hai cột chính giữa điện có đôi câu đối: \"Thiên địa trường tồn, ức vạn niên do truyền quốc tổ. Tinh thần bất hủ, thập bát thế giai hiệu Hùng Vương\". (Trời đất còn dài, ức muôn năm vẫn truyền là quốc tổ, Tinh thần không diệt, mười tám đời, đều mang hiệu Hùng Vương). Trong đền có rất nhiều câu đối chữ Nôm và chữ Hán. Về chữ Nôm có hai câu đối đáng chú ý: Vật đổi sao dời, phúc tổ vẫn lưu nền cổ tích; Nước nguồn cây cội, đạo người nên nhớ mộ Hùng Vương. Về chữ Hán, đôi câu đối sau đây bút pháp thần tình: \"Vấn lai dĩ sự tu vi sử Tế dục dư đồ dục mệnh thi\". (Hỏi lại chuyện xưa nên chép sử, Xem rành đồ bản muốn đề thơ). Có người cho đôi câu đối ấy là của chúa Trịnh đô vương Trịnh Sâm cách nay hơn 200 năm. Đến nay, toàn dân đã công nhận ngày 10 tháng 3 âm lịch là ngày giỗ Quốc tổ của nhân dân ta."
+  "id": 711,
+  "entityName": "Hùng Vương",
+  "aliases": [
+    "Văn Lang",
+    "Hùng Vương"
+  ],
+  "overview": "Hùng Vương (chữ Hán: 雄王, chữ Nôm:?雄), là cách gọi các vị vua nước Văn Lang của người Lạc Việt. Hùng Vương thứ I là con trai của Lạc Long Quân, lên ngôi vào năm 2879 trước công nguyên, đặt quốc hiệu là Văn Lang, chia nước làm 15 bộ, truyền đời đến năm 258 trước công nguyên thì bị Thục Phán (An Dương Vương) chiếm mất nước.\n----------------------------------------------\n1. Kinh Dương Vương Lộc Tục, tôn dâng miếu hiệu là Hùng Dương 2. Lạc Long Quân Sùng Lãm thụy hiệu Hùng Hiền. 3. Hùng Lân 4. Hùng Việp 5. Hùng Hi (1) 6. Hùng Huy 7. Hùng Chiêu 8. Hùng Vĩ 9. Hùng Định 10. Hùng Hi (2) 11. Hùng Trinh 12. Hùng Võ 13. Hùng Việt 14. Hùng Anh 15. Hùng Triều 16. Hùng Tạo 17. Hùng Nghị 18. Hùng Duệ Hiệu nước khi ấy là Văn Lang, đóng đô ở Phong Châu (thuộc huyện Bạch Hạc, tỉnh Phú Thọ ngày nay). Toàn lãnh thổ chia làm 15 bộ: Văn Lang, Châu Diên, Phúc Lộc, Tân Hưng, Võ Định, Võ Ninh, Lục Khải, Ninh Hải, Dương Tuyền, Giao Chỉ, Cửu Chân, Hoài Nam, Cửu Đức, Việt Thường và Bình Văn. Về danh hiệu Hùng Vương, gần đây có nhiều học giả cho rằng chữ Lạc đã chép sai ra Hùng, nên phải gọi là Lạc Vương thay vì Hùng Vương. Đến nay di tích này còn trên đỉnh Hùng Sơn cách Hà Nội 97 cây số, cũng gọi là núi Đền, là Nghĩa Lĩnh hay Nghĩa Cương. Bia đề 4 chữ to \"Cao sơn cảnh Hùng\". Nơi đền thượng, phía ngoài nêu 4 chữ Nam thiên triệu tổ. Gian giữa, tấm hoành lớn ghi Hùng Vương miếu. Trên bàn thờ có ba bài vị, bài vị chính ghi Khai quốc hồng đồ, đột ngột cao sơn cố Việt Hùng thị, thập bát thế thánh vương. (Mười tám đời vua thánh dòng Hùng nước Việt xưa, non cao chất ngất nên sự nghiệp to mở nước). Hai cột chính giữa điện có đôi câu đối: \"Thiên địa trường tồn, ức vạn niên do truyền quốc tổ. Tinh thần bất hủ, thập bát thế giai hiệu Hùng Vương\". (Trời đất còn dài, ức muôn năm vẫn truyền là quốc tổ, Tinh thần không diệt, mười tám đời, đều mang hiệu Hùng Vương). Trong đền có rất nhiều câu đối chữ Nôm và chữ Hán. Về chữ Nôm có hai câu đối đáng chú ý: Vật đổi sao dời, phúc tổ vẫn lưu nền cổ tích; Nước nguồn cây cội, đạo người nên nhớ mộ Hùng Vương. Về chữ Hán, đôi câu đối sau đây bút pháp thần tình: \"Vấn lai dĩ sự tu vi sử Tế dục dư đồ dục mệnh thi\". (Hỏi lại chuyện xưa nên chép sử, Xem rành đồ bản muốn đề thơ). Có người cho đôi câu đối ấy là của chúa Trịnh đô vương Trịnh Sâm cách nay hơn 200 năm. Đến nay, toàn dân đã công nhận ngày 10 tháng 3 âm lịch là ngày giỗ Quốc tổ của nhân dân ta."
 }

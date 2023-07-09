@@ -1,17 +1,17 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "1312\n----------------------------------------------\nKhông rõ",
-  "hometown" : "quê quán",
-  "occupation" : "Danh sĩ đời Trần Thánh tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Trần" : 15,
-    "nhà Trần" : null
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "1312\n----------------------------------------------\nKhông rõ",
+  "hometown": "quê quán",
+  "occupation": "Danh sĩ đời Trần Thánh tông",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Trần": 15,
+    "nhà Trần": null
   },
-  "id" : 2959,
-  "entityName" : "Nguyễn Sĩ Cố",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Sĩ Cố (chữ Hán: 阮士固, ? - 1312); là nhà thơ và là quan nhà Trần trong lịch sử Việt Nam.\n----------------------------------------------\nÔng làm Thiên chương các học sĩ, Hàn lâm viện Thị độc học sĩ trong đời Minh tông. Tài văn học từng áp đảo các danh sĩ đương thời đặc biệt là ông rất khéo khôi hài, nên đời ví ông với Đông Phương Sóc. Ông cũng có công đề xướng việc dùng chữ Nôm trong thơ văn, phụ họa với Nguyễn Thuyên đề cao khả năng chữ Nôm trong tương lai văn hóa dân tộc. Ông sáng tác nhiều thơ phú quốc âm, tiếc không còn lưu truyền. Trong Tứ dân văn uyển có bài Vịnh Tần Thủy Hoàng. Phạm Sư Mạnh - bạn ông - có bài Quá An Phủ Nguyễn Sĩ Cố phần (Qua mộ An Phủ Nguyễn Sĩ Cố). \"Tiêu tiêu thiên mẫu trúc như vân Vô hạn thương tâmAn Phủ thần. Sơn thự tích thời huề tửu địa, Thương mang hạ mã chính tà huân. Bản dịch: Mây giăng ngàn dặm trúc xanh xanh, An Phủ phần trông vướng mối tình. Này chốn ngày xưa vui vẻ lắm, Bâng khuâng xuống ngựa bóng chênh chênh."
+  "id": 2959,
+  "entityName": "Nguyễn Sĩ Cố",
+  "aliases": [],
+  "overview": "Nguyễn Sĩ Cố (chữ Hán: 阮士固, ? - 1312); là nhà thơ và là quan nhà Trần trong lịch sử Việt Nam.\n----------------------------------------------\nÔng làm Thiên chương các học sĩ, Hàn lâm viện Thị độc học sĩ trong đời Minh tông. Tài văn học từng áp đảo các danh sĩ đương thời đặc biệt là ông rất khéo khôi hài, nên đời ví ông với Đông Phương Sóc. Ông cũng có công đề xướng việc dùng chữ Nôm trong thơ văn, phụ họa với Nguyễn Thuyên đề cao khả năng chữ Nôm trong tương lai văn hóa dân tộc. Ông sáng tác nhiều thơ phú quốc âm, tiếc không còn lưu truyền. Trong Tứ dân văn uyển có bài Vịnh Tần Thủy Hoàng. Phạm Sư Mạnh - bạn ông - có bài Quá An Phủ Nguyễn Sĩ Cố phần (Qua mộ An Phủ Nguyễn Sĩ Cố). \"Tiêu tiêu thiên mẫu trúc như vân Vô hạn thương tâmAn Phủ thần. Sơn thự tích thời huề tửu địa, Thương mang hạ mã chính tà huân. Bản dịch: Mây giăng ngàn dặm trúc xanh xanh, An Phủ phần trông vướng mối tình. Này chốn ngày xưa vui vẻ lắm, Bâng khuâng xuống ngựa bóng chênh chênh."
 }

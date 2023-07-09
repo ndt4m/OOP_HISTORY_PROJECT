@@ -1,16 +1,19 @@
 {
-  "dateOfBirth" : "Kỉ Sửu 1889",
-  "dateOfDeath" : "Bính Thìn 1916",
-  "hometown" : "quê xã Hành Thiện, phủ Xuân Trường, tỉnh Nam Định",
-  "occupation" : "Liệt sĩ cận đại",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "Kỉ Sửu 1889",
+  "dateOfDeath": "Bính Thìn 1916",
+  "hometown": "quê xã Hành Thiện, phủ Xuân Trường, tỉnh Nam Định",
+  "occupation": "Liệt sĩ cận đại",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 3060,
-  "entityName" : "Đặng Hữu Quì",
-  "aliases" : [ "Hồng Phấn", "Đặng Hồng Phấn" ],
-  "overview" : "Ông nhiệt thành yêu nước, xuất dương du học trong năm 1910, gia nhập Việt Nam quang phục hội của Phan Bội Châu. Thấy hội gặp khó khăn về kinh tế, ông tự nguyện đi Xiêm (Thái Lan) thi hành kế hoạch dinh điền từ năm 1912, lao khổ suốt mấy năm, ông trở sang Trung Quốc, vào học trường võ bị Bắc Kinh. Đến cuối năm Bính thìn 1916, ông bệnh nặng thổ huyết chết."
+  "id": 3060,
+  "entityName": "Đặng Hữu Quì",
+  "aliases": [
+    "Hồng Phấn",
+    "Đặng Hồng Phấn"
+  ],
+  "overview": "Ông nhiệt thành yêu nước, xuất dương du học trong năm 1910, gia nhập Việt Nam quang phục hội của Phan Bội Châu. Thấy hội gặp khó khăn về kinh tế, ông tự nguyện đi Xiêm (Thái Lan) thi hành kế hoạch dinh điền từ năm 1912, lao khổ suốt mấy năm, ông trở sang Trung Quốc, vào học trường võ bị Bắc Kinh. Đến cuối năm Bính thìn 1916, ông bệnh nặng thổ huyết chết."
 }

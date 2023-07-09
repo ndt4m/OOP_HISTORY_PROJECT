@@ -1,19 +1,23 @@
 {
-  "dateOfBirth" : "1287\n----------------------------------------------\nNhâm Ngọ 1282",
-  "dateOfDeath" : "1325\n----------------------------------------------\nẤt Sửu 1325",
-  "hometown" : "quê làng Tức Mặc phủ Thiên Trường, tỉnh Nam Định",
-  "occupation" : "Danh sĩ đời Trần Anh tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Trần Quốc Tảng" : 751
+  "dateOfBirth": "1287\n----------------------------------------------\nNhâm Ngọ 1282",
+  "dateOfDeath": "1325\n----------------------------------------------\nẤt Sửu 1325",
+  "hometown": "quê làng Tức Mặc phủ Thiên Trường, tỉnh Nam Định",
+  "occupation": "Danh sĩ đời Trần Anh tông",
+  "workTenure": "Không rõ",
+  "fatherName": {
+    "Trần Quốc Tảng": 1180
   },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Trần" : 15,
-    "nhà Trần" : null
+  "motherName": {},
+  "eraName": {
+    "Nhà Trần": 15,
+    "nhà Trần": null
   },
-  "id" : 2066,
-  "entityName" : "Trần Quang Triều",
-  "aliases" : [ "Võ Sơn Ông", "Trần Nguyên Đào", "Cúc Đường" ],
-  "overview" : "Trần Quang Triều (chữ Hán: 陳光朝, 1287 -1325) còn có tên là Trần Nguyên Đào , biệt hiệu là Cúc Đường Chủ nhân và Vô Sơn Ông; là nhà thơ và là quan nhà Trần trong lịch sử Việt Nam.\n----------------------------------------------\nNăm Tân sửu 1301, ông được phong tước Văn Huệ vương, làm đến Nhật nội kiểm hiệu Tư đồ. Tuy quan tước cao trọng nhưng ông không tha thiết danh lợi. Sau ông cáo quan về ở ấn tại am Bích Động gần chùa Quỳnh Lâm (nay thuộc huyện Đông Triều, tỉnh Quảng Ninh). Tại đây ông mở một thi xã mang tên Bích Động gồm các danh sĩ Nguyễn Trung Ngạn, Nguyễn Ức, Nguyễn Xưởng nổi tiếng đương thời. Năm Ất sửu 1325 ông mất hưởng dương 43 tuổi. Ông là tác giả thi tập Cúc Đường di thảo Cúc Đường di thảo do Nguyễn Ức sưu tập gồm thơ ông và một số thơ của bạn trong thi xã Bích Động. Thi phẩm trên nay đã thất lạc, chỉ còn 11 bài thơ của ông do Phan Phu Tiên sưu tầm, in trong Việt âm thi tập."
+  "id": 2066,
+  "entityName": "Trần Quang Triều",
+  "aliases": [
+    "Võ Sơn Ông",
+    "Trần Nguyên Đào",
+    "Cúc Đường"
+  ],
+  "overview": "Trần Quang Triều (chữ Hán: 陳光朝, 1287 -1325) còn có tên là Trần Nguyên Đào , biệt hiệu là Cúc Đường Chủ nhân và Vô Sơn Ông; là nhà thơ và là quan nhà Trần trong lịch sử Việt Nam.\n----------------------------------------------\nNăm Tân sửu 1301, ông được phong tước Văn Huệ vương, làm đến Nhật nội kiểm hiệu Tư đồ. Tuy quan tước cao trọng nhưng ông không tha thiết danh lợi. Sau ông cáo quan về ở ấn tại am Bích Động gần chùa Quỳnh Lâm (nay thuộc huyện Đông Triều, tỉnh Quảng Ninh). Tại đây ông mở một thi xã mang tên Bích Động gồm các danh sĩ Nguyễn Trung Ngạn, Nguyễn Ức, Nguyễn Xưởng nổi tiếng đương thời. Năm Ất sửu 1325 ông mất hưởng dương 43 tuổi. Ông là tác giả thi tập Cúc Đường di thảo Cúc Đường di thảo do Nguyễn Ức sưu tập gồm thơ ông và một số thơ của bạn trong thi xã Bích Động. Thi phẩm trên nay đã thất lạc, chỉ còn 11 bài thơ của ông do Phan Phu Tiên sưu tầm, in trong Việt âm thi tập."
 }

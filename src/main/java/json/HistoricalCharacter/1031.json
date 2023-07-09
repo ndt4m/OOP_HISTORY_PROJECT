@@ -1,14 +1,17 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "huyện Thọ Xương thuộc kinh thành Thăng Long, là một đại thần dưới triều Lê Trung hưng, đã từng đảm nhiệm chức vụ Tư nghiệp trường Quốc Tử Giám. Ông đỗ Đệ nhị giáp Tiến sĩ xuất thân (Hoàng giáp)",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 1031,
-  "entityName" : "Nguyễn Trù",
-  "aliases" : [ "Trung Lượng", "Loại Phủ" ],
-  "overview" : "Nguyễn Trù (chữ Hán:阮 儔 1668-1738), tự Trung Lượng , hiệu Loại Phủ, Loại Am, người phường Đông Tác (Trung Tự), huyện Thọ Xương thuộc kinh thành Thăng Long, là một đại thần dưới triều Lê Trung hưng, đã từng đảm nhiệm chức vụ Tư nghiệp trường Quốc Tử Giám. Ông đỗ Đệ nhị giáp Tiến sĩ xuất thân (Hoàng giáp) khoa thi năm 1697."
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "huyện Thọ Xương thuộc kinh thành Thăng Long, là một đại thần dưới triều Lê Trung hưng, đã từng đảm nhiệm chức vụ Tư nghiệp trường Quốc Tử Giám. Ông đỗ Đệ nhị giáp Tiến sĩ xuất thân (Hoàng giáp)",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 1031,
+  "entityName": "Nguyễn Trù",
+  "aliases": [
+    "Trung Lượng",
+    "Loại Phủ"
+  ],
+  "overview": "Nguyễn Trù (chữ Hán:阮 儔 1668-1738), tự Trung Lượng , hiệu Loại Phủ, Loại Am, người phường Đông Tác (Trung Tự), huyện Thọ Xương thuộc kinh thành Thăng Long, là một đại thần dưới triều Lê Trung hưng, đã từng đảm nhiệm chức vụ Tư nghiệp trường Quốc Tử Giám. Ông đỗ Đệ nhị giáp Tiến sĩ xuất thân (Hoàng giáp) khoa thi năm 1697."
 }

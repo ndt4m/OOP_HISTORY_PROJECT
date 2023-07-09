@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Quê xã Triệu Vân, huyện Triệu Phong, tỉnh Quảng Trị",
-  "occupation" : "Liệt sĩ cách mạng",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Quê xã Triệu Vân, huyện Triệu Phong, tỉnh Quảng Trị",
+  "occupation": "Liệt sĩ cách mạng",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 1363,
-  "entityName" : "Lê Thế Hiếu",
-  "aliases" : [ ],
-  "overview" : "Ông xuất thân dạy học ở Cẩm Thủy, tỉnh Thanh Hóa, tham gia Việt Nam Thanh niên Cách mạng Đồng chí hội, sau gia nhập Đảng Cộng sản Đông Dương. Cách mạng tháng Tám thành công, ông làm Chủ tịch ủy ban Hành chánh Kháng chiến tỉnh Quảng Trị. Ông hi sinh trong một trận chống càn hồi đầu kháng chiến chống Pháp. Không chỉ là một nhà cách mạng, ông còn là một nhà thơ được nhiều người truyền tụng."
+  "id": 1363,
+  "entityName": "Lê Thế Hiếu",
+  "aliases": [],
+  "overview": "Ông xuất thân dạy học ở Cẩm Thủy, tỉnh Thanh Hóa, tham gia Việt Nam Thanh niên Cách mạng Đồng chí hội, sau gia nhập Đảng Cộng sản Đông Dương. Cách mạng tháng Tám thành công, ông làm Chủ tịch ủy ban Hành chánh Kháng chiến tỉnh Quảng Trị. Ông hi sinh trong một trận chống càn hồi đầu kháng chiến chống Pháp. Không chỉ là một nhà cách mạng, ông còn là một nhà thơ được nhiều người truyền tụng."
 }

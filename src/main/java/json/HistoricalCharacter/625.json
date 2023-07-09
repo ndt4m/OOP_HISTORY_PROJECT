@@ -1,20 +1,25 @@
 {
-  "dateOfBirth" : "1320",
-  "dateOfDeath" : "3 tháng 10, 1363 Hồ Bà Dương",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đại Hán",
-  "workTenure" : "1360 - 1363",
-  "fatherName" : {
-    "Trần Phổ Tài" : null
+  "dateOfBirth": "1320",
+  "dateOfDeath": "3 tháng 10, 1363 Hồ Bà Dương",
+  "hometown": "Không rõ",
+  "occupation": "Hoàng đế Đại Hán",
+  "workTenure": "1360 - 1363",
+  "fatherName": {
+    "Trần Phổ Tài": null
   },
-  "motherName" : {
-    "?" : null
+  "motherName": {
+    "?": null
   },
-  "eraName" : {
-    "Đại Hán (大漢)" : null
+  "eraName": {
+    "Đại Hán (大漢)": null
   },
-  "id" : 625,
-  "entityName" : "Trần Hữu Lượng",
-  "aliases" : [ "Trần Hữu Lượng", "không", "Cao Tổ (高祖)", "Đại Nghĩa 1360 Đại Định 1361-1363" ],
-  "overview" : "Trần Hữu Lượng (chữ Hán: 陳友諒; sinh năm 1320, mất ngày 3 tháng 10 năm 1363) là một thủ lĩnh quân phiệt thời \"Nguyên mạt Minh sơ\" trong lịch sử Trung Quốc, là người Miện Dương, Hồ Bắc . Ông nguyên họ Tạ, nhưng vì tổ tiên ở rể nhà họ Trần, nên sau này lấy theo họ đó."
+  "id": 625,
+  "entityName": "Trần Hữu Lượng",
+  "aliases": [
+    "Trần Hữu Lượng",
+    "không",
+    "Cao Tổ (高祖)",
+    "Đại Nghĩa 1360 Đại Định 1361-1363"
+  ],
+  "overview": "Trần Hữu Lượng (chữ Hán: 陳友諒; sinh năm 1320, mất ngày 3 tháng 10 năm 1363) là một thủ lĩnh quân phiệt thời \"Nguyên mạt Minh sơ\" trong lịch sử Trung Quốc, là người Miện Dương, Hồ Bắc . Ông nguyên họ Tạ, nhưng vì tổ tiên ở rể nhà họ Trần, nên sau này lấy theo họ đó."
 }

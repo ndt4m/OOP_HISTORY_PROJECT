@@ -1,20 +1,25 @@
 {
-  "dateOfBirth" : "1661",
-  "dateOfDeath" : "1675 (13–14 tuổi) Đông Kinh, Đại Việt",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đại Việt",
-  "workTenure" : "1671 - 1675",
-  "fatherName" : {
-    "Lê Thần Tông" : 1930
+  "dateOfBirth": "1661",
+  "dateOfDeath": "1675 (13–14 tuổi) Đông Kinh, Đại Việt",
+  "hometown": "Không rõ",
+  "occupation": "Hoàng đế Đại Việt",
+  "workTenure": "1671 - 1675",
+  "fatherName": {
+    "Lê Thần Tông": 1960
   },
-  "motherName" : {
-    "Lê Thị Ngọc Hoàn" : null
+  "motherName": {
+    "Lê Thị Ngọc Hoàn": null
   },
-  "eraName" : {
-    "Nhà Lê trung hưng" : null
+  "eraName": {
+    "Nhà Lê trung hưng": null
   },
-  "id" : 437,
-  "entityName" : "Lê Duy Cối",
-  "aliases" : [ "Dương Đức (陽德: 1672 - 1674) Đức Nguyên (德元: 1674 - 1675)", "Lê Duy Cối Lê Duy Khoái", "Gia Tông (嘉宗)", "Mỹ Hoàng đế" ],
-  "overview" : "Lê Gia Tông (chữ Hán: 黎嘉宗; 1661-1675), tên húy là Lê Duy Cối (黎維禬, 黎維?) là vị hoàng đế thứ 9 của nhà Lê trung hưng trong lịch sử Việt Nam (sau Lê Huyền Tông và trước Lê Hy Tông), lên ngôi ngày 19 tháng 11 năm Tân Hợi (1671) khi mới 10 tuổi. Đến ngày 3 tháng 4 năm Ất Mão (1675) vua bị bệnh mất."
+  "id": 437,
+  "entityName": "Lê Duy Cối",
+  "aliases": [
+    "Dương Đức (陽德: 1672 - 1674) Đức Nguyên (德元: 1674 - 1675)",
+    "Lê Duy Cối Lê Duy Khoái",
+    "Gia Tông (嘉宗)",
+    "Mỹ Hoàng đế"
+  ],
+  "overview": "Lê Gia Tông (chữ Hán: 黎嘉宗; 1661-1675), tên húy là Lê Duy Cối (黎維禬, 黎維?) là vị hoàng đế thứ 9 của nhà Lê trung hưng trong lịch sử Việt Nam (sau Lê Huyền Tông và trước Lê Hy Tông), lên ngôi ngày 19 tháng 11 năm Tân Hợi (1671) khi mới 10 tuổi. Đến ngày 3 tháng 4 năm Ất Mão (1675) vua bị bệnh mất."
 }

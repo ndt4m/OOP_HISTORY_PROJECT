@@ -1,19 +1,21 @@
 {
-  "dateOfBirth" : "Đinh Mùi 1907",
-  "dateOfDeath" : "Giáp Ngọ 1954",
-  "hometown" : "quê làng Điều Hòa, tỉnh Mĩ Tho (nay thuộc tỉnh Tiền Giang), con ông Lê Tấn Công kĩ sư cầu cống",
-  "occupation" : "Nghệ sĩ sân khấu lỗi lạc",
-  "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Lê Tấn Công kĩ sư cầu cống" : null
+  "dateOfBirth": "Đinh Mùi 1907",
+  "dateOfDeath": "Giáp Ngọ 1954",
+  "hometown": "quê làng Điều Hòa, tỉnh Mĩ Tho (nay thuộc tỉnh Tiền Giang), con ông Lê Tấn Công kĩ sư cầu cống",
+  "occupation": "Nghệ sĩ sân khấu lỗi lạc",
+  "workTenure": "Không rõ",
+  "fatherName": {
+    "Lê Tấn Công kĩ sư cầu cống": null
   },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11,
+    "Nước Việt Nam mới": 29
   },
-  "id" : 2342,
-  "entityName" : "Lê Thị Phỉ",
-  "aliases" : [ "Năm Phỉ" ],
-  "overview" : "Năm 1917, mới 11 tuổi bà đã lên sân khấu với gánh hát Đồng Bào Nam, sau đó bà lập gia đình với nghệ sĩ Hai Giỏi và theo chồng về gánh Nam Đồng Ban do cha chồng sáng lập, nhưng chỉ được vài năm thì chồng qua đời. Khoảng năm 1924-1925 bà hát cho gánh Phước Cương của ông Nguyễn Ngọc Cương rồi \"bước thêm bước nữa\" với ông \"Bầu Cương\"! từ đây danh tiếng bà càng vang dậy vì tài diễn xuất độc đáo của bà qua nhiều vai diễn đã chiếm được cảm quan nghệ thuật của nhiều thế hệ khán giả khắp các tỉnh Nam Kì trong các vở Phụng Nghi Đình, Xử án Bàng Quí Phi, Lan và Điệp, Tơ vương đến thác... Khi biểu diễn ở nước ngoài (Pháp, Thái Lan...) tên tuổi bà được tán thưởng nhiệt liệt trên nhiều báo chí. Từ giới phê bình sân khấu đến khán giả ai cũng thán phục tài diễn xuất đầy nghệ thuật của bà. Ngày 2-6-1954, bà đột ngột từ trần vì bạo bệnh, hưởng dương 47 tuổi để lại sự thương tiếc của nhiều giới khán giả yêu nghệ thuật sân khấu."
+  "id": 2342,
+  "entityName": "Lê Thị Phỉ",
+  "aliases": [
+    "Năm Phỉ"
+  ],
+  "overview": "Năm 1917, mới 11 tuổi bà đã lên sân khấu với gánh hát Đồng Bào Nam, sau đó bà lập gia đình với nghệ sĩ Hai Giỏi và theo chồng về gánh Nam Đồng Ban do cha chồng sáng lập, nhưng chỉ được vài năm thì chồng qua đời. Khoảng năm 1924-1925 bà hát cho gánh Phước Cương của ông Nguyễn Ngọc Cương rồi \"bước thêm bước nữa\" với ông \"Bầu Cương\"! từ đây danh tiếng bà càng vang dậy vì tài diễn xuất độc đáo của bà qua nhiều vai diễn đã chiếm được cảm quan nghệ thuật của nhiều thế hệ khán giả khắp các tỉnh Nam Kì trong các vở Phụng Nghi Đình, Xử án Bàng Quí Phi, Lan và Điệp, Tơ vương đến thác... Khi biểu diễn ở nước ngoài (Pháp, Thái Lan...) tên tuổi bà được tán thưởng nhiệt liệt trên nhiều báo chí. Từ giới phê bình sân khấu đến khán giả ai cũng thán phục tài diễn xuất đầy nghệ thuật của bà. Ngày 2-6-1954, bà đột ngột từ trần vì bạo bệnh, hưởng dương 47 tuổi để lại sự thương tiếc của nhiều giới khán giả yêu nghệ thuật sân khấu."
 }

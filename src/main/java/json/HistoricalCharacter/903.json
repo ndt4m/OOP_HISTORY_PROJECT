@@ -1,17 +1,19 @@
 {
-  "dateOfBirth" : "1820\n----------------------------------------------\nCanh Thìn 1820",
-  "dateOfDeath" : "1909\n----------------------------------------------\nKỉ Dậu 1909",
-  "hometown" : "quê làng Văn Đa, tổng Văn Đại, phủ Quảng Ninh, tỉnh Quảng Bình (nay vẫn thuộc tỉnh Quảng Bình)",
-  "occupation" : "Cũng gọi là Hoàng Tá Viêm, Danh thần, tác giả triều Nguyễn, tự Nhật Trường, hiệu Tùng An",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nhà Nguyễn độc lập" : 30
+  "dateOfBirth": "1820\n----------------------------------------------\nCanh Thìn 1820",
+  "dateOfDeath": "1909\n----------------------------------------------\nKỉ Dậu 1909",
+  "hometown": "quê làng Văn Đa, tổng Văn Đại, phủ Quảng Ninh, tỉnh Quảng Bình (nay vẫn thuộc tỉnh Quảng Bình)",
+  "occupation": "Cũng gọi là Hoàng Tá Viêm, Danh thần, tác giả triều Nguyễn, tự Nhật Trường, hiệu Tùng An",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11,
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 903,
-  "entityName" : "Hoàng Kế Viêm",
-  "aliases" : [ "Hoàng Tá Viêm" ],
-  "overview" : "Hoàng Kế Viêm (1820 - 1909) là phò mã và là một danh tướng nhà Nguyễn trong lịch sử Việt Nam.\n----------------------------------------------\nÔng sinh ngày 21-7 âm lịch Canh thìn 1820, thân sinh là Hoàng Kim Xán, làm Bố chánh tỉnh Khánh Hòa. Sau khi đỗ cử nhân, ông được sơ bổ Tư vụ, hàm Quang Lộc tự khanh. Đời Minh Mạng, năm Quí tị 1833, ông kết duyên với con gái thứ 5 của vua là công chúa Hương La, nhưng chẳng bao lâu thì công chúa mất. Đời Thiệu Trị, Bính ngọ 1846, ông làm Lang trung bộ Lại, đến đời Tự Đức, Canh tuất 1850, mẹ mất, ông về chịu tang, chưa đoạn tang thì được chiếu triệu về kinh, sung chức án sát tỉnh Ninh Bình từ năm 1852. Năm Giáp dần 1854, thăng Bố chánh Thanh Hóa. K. vị 1859, làm Bố chánh kiêm tuần phủ Hưng Yên. Năm Quí hợi 1863, ngồi Tổng đốc An nnh. Suốt thời gian trên, ông có công trị an, mở mang kinh tế, thủy lợi. Năm Canh ngọ 1870, ông được cử làm Thổng đốc quân vụ 4 tỉnh Lạng Bình Ninh Thái, tiễu trừ các đảng giặc cờ đen, cờ vàng, cờ trắng. Dẹp yên, thu phục tướng cờ đen Lưu Vĩnh Phúc, được phong Đại học sĩ lãnh Tổng thống Tam Tuyên, sung Tiết Chế quân vụ miền Bắc. Năm Mậu dần 1878, thăng Đông các Đại học sĩ. Từ năm Nhâm ngọ 1882, sau khi giặc Pháp chiếm thành Hà Nội, ông cùng Lưu Vĩnh Phúc chống nhau với giặc. Thất bại, bị giáng làm Tổng đốc, rồi làm Thượng thư bộ Công. Đến đời Đồng Khánh thăng Thái tử Thiếu bảo, sung Đại thần viện Cơ mật. Chẳng bao lâu ông xin trí sĩ, không được chấp thuận. Đến đời Thành Thái, năm Kỉ sửu 1889, ông mới được về hưu. Năm Kỷ dậu 1909, ông mất, thọ 89 tuổi, vua Dụy Tân ban tên thụy là Văn Nghi. Hoàng Kế Viêm còn là một nhà văn, nhà viết sử ông có soạn các bộ sách: - Phê thị trần hoàn ghi chép về đời Tự Đức. - Tiên công sự tích biệt lục (thân thế và sự nghiệp thân sinh ông). - Khổn y lục (tiểu sử vợ ông: công chúa Hương La). - Bát tiên công gia huấn từ (lời dạy con cái theo di cảo thân phụ ông). - Chi Chi thi thảo - Vân Vân văn tập - An Phu trấp lược Khi ông mất, nhà thơ, nhà soạn tuồng nổi tiếng Đào Tấn có bài Tặng Tướng quân Hoàng Kế Viêm (bản dịch): Trong quân không rượu để khuyên sầu Bến Cát đành cam phụ cặp bầu. Nam Bắc bao năm dong ruỗi ngựa Quan hà muôn thuở tiễn đưa nhau. Gió hiu nâng gối tan buồn vặc Trăng lụa xuyên rèm tính mộng thu. Thức giấc! Núi xưa người chẳng thấy Trên sông sáng sớm bóng non cao."
+  "id": 903,
+  "entityName": "Hoàng Kế Viêm",
+  "aliases": [
+    "Hoàng Tá Viêm"
+  ],
+  "overview": "Hoàng Kế Viêm (1820 - 1909) là phò mã và là một danh tướng nhà Nguyễn trong lịch sử Việt Nam.\n----------------------------------------------\nÔng sinh ngày 21-7 âm lịch Canh thìn 1820, thân sinh là Hoàng Kim Xán, làm Bố chánh tỉnh Khánh Hòa. Sau khi đỗ cử nhân, ông được sơ bổ Tư vụ, hàm Quang Lộc tự khanh. Đời Minh Mạng, năm Quí tị 1833, ông kết duyên với con gái thứ 5 của vua là công chúa Hương La, nhưng chẳng bao lâu thì công chúa mất. Đời Thiệu Trị, Bính ngọ 1846, ông làm Lang trung bộ Lại, đến đời Tự Đức, Canh tuất 1850, mẹ mất, ông về chịu tang, chưa đoạn tang thì được chiếu triệu về kinh, sung chức án sát tỉnh Ninh Bình từ năm 1852. Năm Giáp dần 1854, thăng Bố chánh Thanh Hóa. K. vị 1859, làm Bố chánh kiêm tuần phủ Hưng Yên. Năm Quí hợi 1863, ngồi Tổng đốc An nnh. Suốt thời gian trên, ông có công trị an, mở mang kinh tế, thủy lợi. Năm Canh ngọ 1870, ông được cử làm Thổng đốc quân vụ 4 tỉnh Lạng Bình Ninh Thái, tiễu trừ các đảng giặc cờ đen, cờ vàng, cờ trắng. Dẹp yên, thu phục tướng cờ đen Lưu Vĩnh Phúc, được phong Đại học sĩ lãnh Tổng thống Tam Tuyên, sung Tiết Chế quân vụ miền Bắc. Năm Mậu dần 1878, thăng Đông các Đại học sĩ. Từ năm Nhâm ngọ 1882, sau khi giặc Pháp chiếm thành Hà Nội, ông cùng Lưu Vĩnh Phúc chống nhau với giặc. Thất bại, bị giáng làm Tổng đốc, rồi làm Thượng thư bộ Công. Đến đời Đồng Khánh thăng Thái tử Thiếu bảo, sung Đại thần viện Cơ mật. Chẳng bao lâu ông xin trí sĩ, không được chấp thuận. Đến đời Thành Thái, năm Kỉ sửu 1889, ông mới được về hưu. Năm Kỷ dậu 1909, ông mất, thọ 89 tuổi, vua Dụy Tân ban tên thụy là Văn Nghi. Hoàng Kế Viêm còn là một nhà văn, nhà viết sử ông có soạn các bộ sách: - Phê thị trần hoàn ghi chép về đời Tự Đức. - Tiên công sự tích biệt lục (thân thế và sự nghiệp thân sinh ông). - Khổn y lục (tiểu sử vợ ông: công chúa Hương La). - Bát tiên công gia huấn từ (lời dạy con cái theo di cảo thân phụ ông). - Chi Chi thi thảo - Vân Vân văn tập - An Phu trấp lược Khi ông mất, nhà thơ, nhà soạn tuồng nổi tiếng Đào Tấn có bài Tặng Tướng quân Hoàng Kế Viêm (bản dịch): Trong quân không rượu để khuyên sầu Bến Cát đành cam phụ cặp bầu. Nam Bắc bao năm dong ruỗi ngựa Quan hà muôn thuở tiễn đưa nhau. Gió hiu nâng gối tan buồn vặc Trăng lụa xuyên rèm tính mộng thu. Thức giấc! Núi xưa người chẳng thấy Trên sông sáng sớm bóng non cao."
 }

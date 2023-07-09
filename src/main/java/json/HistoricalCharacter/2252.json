@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "người làng Duy Tiên, huyện Lý Nhân, tỉnh Hà Nam",
-  "occupation" : "Danh thần đời Lê Thánh tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Triều Lê Sơ" : 7
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "người làng Duy Tiên, huyện Lý Nhân, tỉnh Hà Nam",
+  "occupation": "Danh thần đời Lê Thánh tông",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Triều Lê Sơ": 7
   },
-  "id" : 2252,
-  "entityName" : "Bùi Đạt",
-  "aliases" : [ ],
-  "overview" : "Ông tính cương trực, quyết đoán. Xuất thân hàn vi, ông cần cù chăm học đến thành danh. Khi hiển đạt, nhớ khoảng đời ấu thơ gian khổ, ông đem lòng thương xót những trẻ nghèo khó, thường cứu giúp gia đình nghèo, nâng đỡ kẻ sĩ cùng khổ. Xuất chính làm đến Tham chính, trong chốn hoạn trường ông cũng nêu cao đức độ thanh can. Được nhân dân cảm phục."
+  "id": 2252,
+  "entityName": "Bùi Đạt",
+  "aliases": [],
+  "overview": "Ông tính cương trực, quyết đoán. Xuất thân hàn vi, ông cần cù chăm học đến thành danh. Khi hiển đạt, nhớ khoảng đời ấu thơ gian khổ, ông đem lòng thương xót những trẻ nghèo khó, thường cứu giúp gia đình nghèo, nâng đỡ kẻ sĩ cùng khổ. Xuất chính làm đến Tham chính, trong chốn hoạn trường ông cũng nêu cao đức độ thanh can. Được nhân dân cảm phục."
 }

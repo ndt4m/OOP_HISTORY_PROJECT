@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Bính Dần 1926",
-  "dateOfDeath" : "Kỉ Mùi 1967",
-  "hometown" : "tại Bến Tre",
-  "occupation" : "Liệt sĩ hiện đại",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nước Việt Nam mới" : 29
+  "dateOfBirth": "Bính Dần 1926",
+  "dateOfDeath": "Kỉ Mùi 1967",
+  "hometown": "tại Bến Tre",
+  "occupation": "Liệt sĩ hiện đại",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nước Việt Nam mới": 29
   },
-  "id" : 318,
-  "entityName" : "Hồ Hảo Hớn",
-  "aliases" : [ "Hai Nghị" ],
-  "overview" : "Ông nhiệt tình yêu nước, tham gia cách mạng từ năm 1946. Sau hiệp định Genève, ông được phân công tác ở bộ phận trí vận và dạy học ở một số trường tư thục ở Sài Gòn. Năm 1960, cơ sở bị lộ, ông được tổ chức rút vào khu. Năm 1962, ông là Bí thư ban cán sự sinh viên học sinh Sài Gòn, năm 1963 trở vào Sài Gòn hoạt động, đến năm 1965, ông là Phó bí thư khu đoàn Sài Gòn Gia Định, rồi Bí thư thành đoàn Thanh niên Lao động (1967). Tháng 10-1967, ông bị giặc bắt ở gần bót Bà Hòa và hi sinh tại đây, hưởng dương 41 tuổi."
+  "id": 318,
+  "entityName": "Hồ Hảo Hớn",
+  "aliases": [
+    "Hai Nghị"
+  ],
+  "overview": "Ông nhiệt tình yêu nước, tham gia cách mạng từ năm 1946. Sau hiệp định Genève, ông được phân công tác ở bộ phận trí vận và dạy học ở một số trường tư thục ở Sài Gòn. Năm 1960, cơ sở bị lộ, ông được tổ chức rút vào khu. Năm 1962, ông là Bí thư ban cán sự sinh viên học sinh Sài Gòn, năm 1963 trở vào Sài Gòn hoạt động, đến năm 1965, ông là Phó bí thư khu đoàn Sài Gòn Gia Định, rồi Bí thư thành đoàn Thanh niên Lao động (1967). Tháng 10-1967, ông bị giặc bắt ở gần bót Bà Hòa và hi sinh tại đây, hưởng dương 41 tuổi."
 }

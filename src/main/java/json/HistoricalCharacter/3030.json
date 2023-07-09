@@ -1,17 +1,20 @@
 {
-  "dateOfBirth" : "1265\n----------------------------------------------\nẤt Sửu 1265",
-  "dateOfDeath" : "1326\n----------------------------------------------\nBính Dần 1326",
-  "hometown" : "quê làng Tri Lai, tổng Tri Lai, Đại Việt (nay thuộc xã Phú Xuân – Thành phố Thái Bình, tỉnh Thái Bình, Việt Nam);\n----------------------------------------------\nquê ở Hoàng Giang",
-  "occupation" : "Văn thần đời Trần Anh tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Trần" : 15,
-    "nhà Trần" : null
+  "dateOfBirth": "1265\n----------------------------------------------\nẤt Sửu 1265",
+  "dateOfDeath": "1326\n----------------------------------------------\nBính Dần 1326",
+  "hometown": "quê làng Tri Lai, tổng Tri Lai, Đại Việt (nay thuộc xã Phú Xuân – Thành phố Thái Bình, tỉnh Thái Bình, Việt Nam);\n----------------------------------------------\nquê ở Hoàng Giang",
+  "occupation": "Văn thần đời Trần Anh tông",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Trần": 15,
+    "nhà Trần": null
   },
-  "id" : 3030,
-  "entityName" : "Bùi Mộc Đạc",
-  "aliases" : [ "Phí Mộc Lạc", "Minh Đạo" ],
-  "overview" : "Bùi Mộc Đạc (chữ Hán: 裴木鐸, 1265-1326), quê làng Tri Lai, tổng Tri Lai, Đại Việt (nay thuộc xã Phú Xuân – Thành phố Thái Bình, tỉnh Thái Bình, Việt Nam); là một quan văn nhà Trần.\n----------------------------------------------\nÔng làm quan đến Trung thứ thị lang, Tri thẩm hình viện sự, Thị trung đại phu. Năm Bính ngọ 1306, ông cùng Hàn Lâm học sĩ Lê Tông Nguyên đi sứ sang nhà Nguyên đáp lễ. Tính người cẩn thận cung kính, văn chất khả quan, từng làm quan qua 3 triều. Khi Thượng hoàng Trần Anh tông sắp mất, dặn lại Minh tông phải cất nhắc ông, đối xử cho khéo. Minh tông bèn sai vẽ chân dung ông cất ở kho sách, và có ý sẽ dùng ông vào chức lớn. Nhưng đến năm Bính dần 1326, tháng 3, chưa kịp được thăng thưởng thì ông mất, thọ 61 tuổi."
+  "id": 3030,
+  "entityName": "Bùi Mộc Đạc",
+  "aliases": [
+    "Phí Mộc Lạc",
+    "Minh Đạo"
+  ],
+  "overview": "Bùi Mộc Đạc (chữ Hán: 裴木鐸, 1265-1326), quê làng Tri Lai, tổng Tri Lai, Đại Việt (nay thuộc xã Phú Xuân – Thành phố Thái Bình, tỉnh Thái Bình, Việt Nam); là một quan văn nhà Trần.\n----------------------------------------------\nÔng làm quan đến Trung thứ thị lang, Tri thẩm hình viện sự, Thị trung đại phu. Năm Bính ngọ 1306, ông cùng Hàn Lâm học sĩ Lê Tông Nguyên đi sứ sang nhà Nguyên đáp lễ. Tính người cẩn thận cung kính, văn chất khả quan, từng làm quan qua 3 triều. Khi Thượng hoàng Trần Anh tông sắp mất, dặn lại Minh tông phải cất nhắc ông, đối xử cho khéo. Minh tông bèn sai vẽ chân dung ông cất ở kho sách, và có ý sẽ dùng ông vào chức lớn. Nhưng đến năm Bính dần 1326, tháng 3, chưa kịp được thăng thưởng thì ông mất, thọ 61 tuổi."
 }

@@ -1,21 +1,25 @@
 {
-  "dateOfBirth" : "117 TCN\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "112 TCN Nam Việt\n----------------------------------------------\nKhông rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Nam Việt\n----------------------------------------------\nVua",
-  "workTenure" : "113 TCN – 112 TCN\n----------------------------------------------\n113—112TCN",
-  "fatherName" : {
-    "Triệu Anh Tề" : 771,
-    "Triệu Minh Vương" : 1844
+  "dateOfBirth": "117 TCN\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath": "112 TCN Nam Việt\n----------------------------------------------\nKhông rõ",
+  "hometown": "Không rõ",
+  "occupation": "Hoàng đế Nam Việt\n----------------------------------------------\nVua",
+  "workTenure": "113 TCN – 112 TCN\n----------------------------------------------\n113—112TCN",
+  "fatherName": {
+    "Triệu Anh Tề": 1205,
+    "Triệu Minh Vương": 2266
   },
-  "motherName" : {
-    "Cù hậu" : null
+  "motherName": {
+    "Cù hậu": null
   },
-  "eraName" : {
-    "Nhà Triệu" : 16
+  "eraName": {
+    "Nhà Triệu": 16
   },
-  "id" : 672,
-  "entityName" : "Triệu Ai Vương",
-  "aliases" : [ "Triệu Hưng", "Ai Vương (哀王)", "Triệu Hưng (趙興)" ],
-  "overview" : "Triệu Ai Vương (chữ Hán: 趙哀王; 117 TCN-112 TCN) tên thật là Triệu Hưng (趙興), là vua thứ 4 nhà Triệu nước Nam Việt, trị vì từ năm 113 TCN - 112 TCN, tức chỉ 1 năm.\n----------------------------------------------\nTriệu Ai Vương (chữ Hán: 趙哀王; ? – 112 TCN) tên thật Triệu Hưng (趙興), là vua thứ tư nhà Triệu nước Nam Việt, trị vì từ năm 113 TCN – 112 TCN, tức chỉ một năm."
+  "id": 672,
+  "entityName": "Triệu Ai Vương",
+  "aliases": [
+    "Triệu Hưng",
+    "Ai Vương (哀王)",
+    "Triệu Hưng (趙興)"
+  ],
+  "overview": "Triệu Ai Vương (chữ Hán: 趙哀王; 117 TCN-112 TCN) tên thật là Triệu Hưng (趙興), là vua thứ 4 nhà Triệu nước Nam Việt, trị vì từ năm 113 TCN - 112 TCN, tức chỉ 1 năm.\n----------------------------------------------\nTriệu Ai Vương (chữ Hán: 趙哀王; ? – 112 TCN) tên thật Triệu Hưng (趙興), là vua thứ tư nhà Triệu nước Nam Việt, trị vì từ năm 113 TCN – 112 TCN, tức chỉ một năm."
 }

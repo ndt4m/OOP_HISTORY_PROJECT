@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "856",
-  "dateOfDeath" : "908",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 2310,
-  "entityName" : "Lý Khắc Dụng",
-  "aliases" : [ "Chu Da" ],
-  "overview" : "Lý Khắc Dụng (chữ Hán: 李克用, 856-908), vốn có họ Chu Tà (chữ Hán: 朱邪), còn đọc là Chu Gia hay Chu Da (chữ Hán: 朱爷). Ông là danh tướng cuối đời nhà Đường, người bộ tộc Sa Đà, dân tộc Tây Đột Quyết. Sau khi con trai ông là Lý Tồn Úc kiến lập nhà Hậu Đường vào năm 923, ông được truy tôn làm Hậu Đường Thái Tổ."
+  "dateOfBirth": "856",
+  "dateOfDeath": "908",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 2310,
+  "entityName": "Lý Khắc Dụng",
+  "aliases": [
+    "Chu Da"
+  ],
+  "overview": "Lý Khắc Dụng (chữ Hán: 李克用, 856-908), vốn có họ Chu Tà (chữ Hán: 朱邪), còn đọc là Chu Gia hay Chu Da (chữ Hán: 朱爷). Ông là danh tướng cuối đời nhà Đường, người bộ tộc Sa Đà, dân tộc Tây Đột Quyết. Sau khi con trai ông là Lý Tồn Úc kiến lập nhà Hậu Đường vào năm 923, ông được truy tôn làm Hậu Đường Thái Tổ."
 }

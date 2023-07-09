@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Kỉ Mão 1759",
-  "dateOfDeath" : "Quí Mùi 1823",
-  "hometown" : "quê ở thôn Đại Hành",
-  "occupation" : "Danh sĩ cuối đời Hậu Lê",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
+  "dateOfBirth": "Kỉ Mão 1759",
+  "dateOfDeath": "Quí Mùi 1823",
+  "hometown": "quê ở thôn Đại Hành",
+  "occupation": "Danh sĩ cuối đời Hậu Lê",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34
   },
-  "id" : 30,
-  "entityName" : "Nguyễn Bá Xuyến",
-  "aliases" : [ ],
-  "overview" : "Ông mồ côi cha từ bé, lưu lạc nhiều nơi, có chí cầu học, nổi tiếng văn chương. Năm 34 tuổi (Quí sửu 1793) ông vào Gia Định theo giúp Nguyễn Ánh, được làm Khâm sai chưởng cơ, rồi làm An phủ sứ phủ Hoài Đức, tước Xuyến Ngọc Hầu. Năm Quí mùi 1823, ông mất, thọ 64 tuổi. Còn để lại bộ Xuyến Ngọc Hầu thi văn tập gồm hơn 50 bài thơ quốc âm và nhiều bài văn tế (tạp chí Nam Phong có sao lục, đăng từ số 117 đến 126) Nay còn truyền một bản Công thần Nguyễn An phủ sứ truyện."
+  "id": 30,
+  "entityName": "Nguyễn Bá Xuyến",
+  "aliases": [],
+  "overview": "Ông mồ côi cha từ bé, lưu lạc nhiều nơi, có chí cầu học, nổi tiếng văn chương. Năm 34 tuổi (Quí sửu 1793) ông vào Gia Định theo giúp Nguyễn Ánh, được làm Khâm sai chưởng cơ, rồi làm An phủ sứ phủ Hoài Đức, tước Xuyến Ngọc Hầu. Năm Quí mùi 1823, ông mất, thọ 64 tuổi. Còn để lại bộ Xuyến Ngọc Hầu thi văn tập gồm hơn 50 bài thơ quốc âm và nhiều bài văn tế (tạp chí Nam Phong có sao lục, đăng từ số 117 đến 126) Nay còn truyền một bản Công thần Nguyễn An phủ sứ truyện."
 }

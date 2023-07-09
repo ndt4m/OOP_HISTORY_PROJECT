@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "1838",
-  "dateOfDeath" : "1888",
-  "hometown" : "Không rõ",
-  "occupation" : "Bố chính sứ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 203,
-  "entityName" : "Vũ Giác",
-  "aliases" : [ "Tùng Trai" ],
-  "overview" : "Vũ Giác (1838-1888) là quan chức nhà Nguyễn, có nhiều công lao trong phong trào chống Pháp trong lịch sử Việt Nam ."
+  "dateOfBirth": "1838",
+  "dateOfDeath": "1888",
+  "hometown": "Không rõ",
+  "occupation": "Bố chính sứ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 203,
+  "entityName": "Vũ Giác",
+  "aliases": [
+    "Tùng Trai"
+  ],
+  "overview": "Vũ Giác (1838-1888) là quan chức nhà Nguyễn, có nhiều công lao trong phong trào chống Pháp trong lịch sử Việt Nam ."
 }

@@ -1,19 +1,22 @@
 {
-  "dateOfBirth" : "499?\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "555 động Dã Năng\n----------------------------------------------\nKhông rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Vua nước Dã Năng\n----------------------------------------------\nVua",
-  "workTenure" : "548 – 555\n----------------------------------------------\n549—555",
-  "fatherName" : {
-    "Lý Toản" : null
+  "dateOfBirth": "499?\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath": "555 động Dã Năng\n----------------------------------------------\nKhông rõ",
+  "hometown": "Không rõ",
+  "occupation": "Vua nước Dã Năng\n----------------------------------------------\nVua",
+  "workTenure": "548 – 555\n----------------------------------------------\n549—555",
+  "fatherName": {
+    "Lý Toản": null
   },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Tiền Lý" : 36,
-    "Nhà Tiền Lý và Triệu Việt Vương" : 36
+  "motherName": {},
+  "eraName": {
+    "Nhà Tiền Lý": 36,
+    "Nhà Tiền Lý và Triệu Việt Vương": 36
   },
-  "id" : 2606,
-  "entityName" : "Lý Đào Lang Vương",
-  "aliases" : [ "Lý Thiên Bảo", "Đào Lang Vương" ],
-  "overview" : "Lý Thiên Bảo (chữ Hán:李天寶; 499?-555) vua nước Dã Năng (tồn tại phía tây với nhà Tiền Lý) trong lịch sử Việt Nam. Ông tham gia cuộc chiến chống quân Lương giữ nước Vạn Xuân và cát cứ ở Dã Năng thời Triệu Việt Vương."
+  "id": 2606,
+  "entityName": "Lý Đào Lang Vương",
+  "aliases": [
+    "Lý Thiên Bảo",
+    "Đào Lang Vương"
+  ],
+  "overview": "Lý Thiên Bảo (chữ Hán:李天寶; 499?-555) vua nước Dã Năng (tồn tại phía tây với nhà Tiền Lý) trong lịch sử Việt Nam. Ông tham gia cuộc chiến chống quân Lương giữ nước Vạn Xuân và cát cứ ở Dã Năng thời Triệu Việt Vương."
 }

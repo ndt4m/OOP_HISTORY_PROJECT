@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Nhâm Thân 1932",
-  "hometown" : "quê làng Đồng Hiệp, phủ Ninh Giang, tỉnh Hải Dương (nay là Hải Hưng)",
-  "occupation" : "Liệt sĩ hiện đại",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "…",
+  "dateOfDeath": "Nhâm Thân 1932",
+  "hometown": "quê làng Đồng Hiệp, phủ Ninh Giang, tỉnh Hải Dương (nay là Hải Hưng)",
+  "occupation": "Liệt sĩ hiện đại",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 1393,
-  "entityName" : "Hồ Văn Mịch",
-  "aliases" : [ ],
-  "overview" : "Ông xuất thân nhà giáo, nhiệt thành yêu nước, ông gia nhập Việt Nam Quốc dân đảng, tích cực hoạt động. Ít lâu, ông vướng bệnh lao nhổi nhưng vẫn tận tụy lo việc cứu nước, Nguyễn Thái Học rất trọng vọng ông. Kỉ tị 1929, ông bi bắt đày ra Côn Đảo với án 10 năm cấm cố. Đến Nhâm thân, ngày 8-4 dương lịch, ông mất trong tù, ngoài đảo."
+  "id": 1393,
+  "entityName": "Hồ Văn Mịch",
+  "aliases": [],
+  "overview": "Ông xuất thân nhà giáo, nhiệt thành yêu nước, ông gia nhập Việt Nam Quốc dân đảng, tích cực hoạt động. Ít lâu, ông vướng bệnh lao nhổi nhưng vẫn tận tụy lo việc cứu nước, Nguyễn Thái Học rất trọng vọng ông. Kỉ tị 1929, ông bi bắt đày ra Côn Đảo với án 10 năm cấm cố. Đến Nhâm thân, ngày 8-4 dương lịch, ông mất trong tù, ngoài đảo."
 }

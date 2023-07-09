@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Mậu Thìn 1568",
-  "dateOfDeath" : "Giáp Thân 1644",
-  "hometown" : "Không rõ",
-  "occupation" : "Vợ chúa Tiên Nguyễn Họàng, mẹ Nguyễn Phúc Khê, họ Nguyễn, không rõ tên, Minh Đức là mĩ hiệu",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
+  "dateOfBirth": "Mậu Thìn 1568",
+  "dateOfDeath": "Giáp Thân 1644",
+  "hometown": "Không rõ",
+  "occupation": "Vợ chúa Tiên Nguyễn Họàng, mẹ Nguyễn Phúc Khê, họ Nguyễn, không rõ tên, Minh Đức là mĩ hiệu",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34
   },
-  "id" : 543,
-  "entityName" : "Minh Đức",
-  "aliases" : [ ],
-  "overview" : "Bà là người đâu tiên trong hoàng gia theo đạo Gia Tô, có tên thánh là Maria Madeleine do giáo sĩ Francisco di Pina hướng dẫn, từ năm Ất sửu 1625. Bà là người sùng đạo, bà có lập nhà thờ ngay trong dinh của con (Nguyễn Phúc Khê) ở Kim Long - miền phụ cận Huế - ngôi nhà thờ này đến năm Ất dậu 1645 bị con san bằng để tránh sự ngờ vực của chúa Thượng. Năm Giáp thân 1644 bà mất, thọ 76 tuổi"
+  "id": 543,
+  "entityName": "Minh Đức",
+  "aliases": [],
+  "overview": "Bà là người đâu tiên trong hoàng gia theo đạo Gia Tô, có tên thánh là Maria Madeleine do giáo sĩ Francisco di Pina hướng dẫn, từ năm Ất sửu 1625. Bà là người sùng đạo, bà có lập nhà thờ ngay trong dinh của con (Nguyễn Phúc Khê) ở Kim Long - miền phụ cận Huế - ngôi nhà thờ này đến năm Ất dậu 1645 bị con san bằng để tránh sự ngờ vực của chúa Thượng. Năm Giáp thân 1644 bà mất, thọ 76 tuổi"
 }

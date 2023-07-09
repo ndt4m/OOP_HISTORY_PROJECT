@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Xử sĩ cuối đời Trần",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Trần" : 15
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Xử sĩ cuối đời Trần",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Trần": 15
   },
-  "id" : 2060,
-  "entityName" : "Hồ Huyền Quy",
-  "aliases" : [ ],
-  "overview" : "Ông có tài văn thơ. Nhân thời cuộc rối rắm, lại không phục Hồ Quí Ly lúc ấy đang nắm quyền chính, có ý khuynh đảo nhà Trần, ông lánh mình ở ẩn. Tập thơ Trinh thử của ông còn được lưu truyền, vốn ngụ ý châm biếm Quí Ly và hoàn cảnh chính trị thời ấy. Tác phẩm bằng văn Nôm, 850 câu, thể lục bát. Tục gọi Thơ nàng chuột, có giá trị về luân lí và triết lí."
+  "id": 2060,
+  "entityName": "Hồ Huyền Quy",
+  "aliases": [],
+  "overview": "Ông có tài văn thơ. Nhân thời cuộc rối rắm, lại không phục Hồ Quí Ly lúc ấy đang nắm quyền chính, có ý khuynh đảo nhà Trần, ông lánh mình ở ẩn. Tập thơ Trinh thử của ông còn được lưu truyền, vốn ngụ ý châm biếm Quí Ly và hoàn cảnh chính trị thời ấy. Tác phẩm bằng văn Nôm, 850 câu, thể lục bát. Tục gọi Thơ nàng chuột, có giá trị về luân lí và triết lí."
 }

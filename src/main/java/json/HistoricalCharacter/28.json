@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "1777",
-  "dateOfDeath" : "1782",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : {
-    "chúa Trịnh Sâm và Tuyên phi Đặng Thị Huệ" : null
+  "dateOfBirth": "1777",
+  "dateOfDeath": "1782",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {
+    "chúa Trịnh Sâm và Tuyên phi Đặng Thị Huệ": null
   },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 28,
-  "entityName" : "Trịnh Cán",
-  "aliases" : [ ],
-  "overview" : "Điện Đô vương Trịnh Cán (chữ Hán: 鄭檊, 1777 – 1782) là vị chúa Trịnh thứ 9 thời Lê Trung Hưng trong lịch sử Việt Nam, ở ngôi từ tháng 9 đến tháng 11 năm 1782, là con trai của chúa Trịnh Sâm và Tuyên phi Đặng Thị Huệ. Trịnh Cán sinh và mất tại thành Thăng Long khi mới 6 tuổi."
+  "motherName": {},
+  "eraName": {},
+  "id": 28,
+  "entityName": "Trịnh Cán",
+  "aliases": [],
+  "overview": "Điện Đô vương Trịnh Cán (chữ Hán: 鄭檊, 1777 – 1782) là vị chúa Trịnh thứ 9 thời Lê Trung Hưng trong lịch sử Việt Nam, ở ngôi từ tháng 9 đến tháng 11 năm 1782, là con trai của chúa Trịnh Sâm và Tuyên phi Đặng Thị Huệ. Trịnh Cán sinh và mất tại thành Thăng Long khi mới 6 tuổi."
 }

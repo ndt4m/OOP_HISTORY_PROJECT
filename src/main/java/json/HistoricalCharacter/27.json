@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 27,
-  "entityName" : "Nguyễn Sĩ",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Sĩ (?-?), là một võ tướng trong phong trào Cần Vương ở Nghệ An, Việt Nam."
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 27,
+  "entityName": "Nguyễn Sĩ",
+  "aliases": [],
+  "overview": "Nguyễn Sĩ (?-?), là một võ tướng trong phong trào Cần Vương ở Nghệ An, Việt Nam."
 }

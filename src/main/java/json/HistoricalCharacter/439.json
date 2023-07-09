@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê huyện Cư Phong, quận Cửu Chân (Thanh Hóa)",
-  "occupation" : "Liệt sĩ trong thời Bắc thuộc",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Bắc thuộc lần 1" : 6
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "quê huyện Cư Phong, quận Cửu Chân (Thanh Hóa)",
+  "occupation": "Liệt sĩ trong thời Bắc thuộc",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Bắc thuộc lần 1": 6
   },
-  "id" : 439,
-  "entityName" : "Châu Đạt",
-  "aliases" : [ ],
-  "overview" : "Canh tí 160, ông khởi nghĩa chống quân Hán. Đầu tiên ông chỉ huy dân quân tiêu diệt viên huyện lịnh tàn ác ở huyện Cư Phong, rồi tiến đánh khắp nơi trong quận Cửu Chân, giết chết thái thú là Nghê Thức. Đô úy giặc là Nguy Lãng chống không nổi bỏ chạy, ông tiến chiếm luôn vùng quần Nhật Nam. Hán hoàng đế sai Hạ Phương sang làm thứ sử. Hạ Phương dẫn quân sang, đàn áp hung bạo và mua chuộc đám tay sai. Thế yếu, lực lượng kháng chiến của Châu Đạt dần dần bị tiêu hao, tan rã. Dù thế, trong bản ghi tên những hào kiệt chống xâm lăng, Châu Đạt vẫn đáng được muôn đời tưởng niệm."
+  "id": 439,
+  "entityName": "Châu Đạt",
+  "aliases": [],
+  "overview": "Canh tí 160, ông khởi nghĩa chống quân Hán. Đầu tiên ông chỉ huy dân quân tiêu diệt viên huyện lịnh tàn ác ở huyện Cư Phong, rồi tiến đánh khắp nơi trong quận Cửu Chân, giết chết thái thú là Nghê Thức. Đô úy giặc là Nguy Lãng chống không nổi bỏ chạy, ông tiến chiếm luôn vùng quần Nhật Nam. Hán hoàng đế sai Hạ Phương sang làm thứ sử. Hạ Phương dẫn quân sang, đàn áp hung bạo và mua chuộc đám tay sai. Thế yếu, lực lượng kháng chiến của Châu Đạt dần dần bị tiêu hao, tan rã. Dù thế, trong bản ghi tên những hào kiệt chống xâm lăng, Châu Đạt vẫn đáng được muôn đời tưởng niệm."
 }

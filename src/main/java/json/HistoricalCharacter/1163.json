@@ -1,17 +1,19 @@
 {
-  "dateOfBirth" : "? xã An Thuận Thượng, huyện Đại Từ, tỉnh Thái Nguyên, Việt Nam\n----------------------------------------------\n…",
-  "dateOfDeath" : "1433 Đông Kinh, Đại Việt\n----------------------------------------------\nQuí Sửu 1433",
-  "hometown" : "quê xã An Thạch, huyện Đại Từ, tỉnh Thái Nguyên",
-  "occupation" : "Thuộc\n----------------------------------------------\nDanh tướng đời Lê Thái tổ, được ban theo họ vua",
-  "workTenure" : "1418-1433\n----------------------------------------------\nKhông rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "nhà Lê" : null,
-    "Triều Lê Sơ" : 7
+  "dateOfBirth": "? xã An Thuận Thượng, huyện Đại Từ, tỉnh Thái Nguyên, Việt Nam\n----------------------------------------------\n…",
+  "dateOfDeath": "1433 Đông Kinh, Đại Việt\n----------------------------------------------\nQuí Sửu 1433",
+  "hometown": "quê xã An Thạch, huyện Đại Từ, tỉnh Thái Nguyên",
+  "occupation": "Thuộc\n----------------------------------------------\nDanh tướng đời Lê Thái tổ, được ban theo họ vua",
+  "workTenure": "1418-1433\n----------------------------------------------\nKhông rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "nhà Lê": null,
+    "Triều Lê Sơ": 7
   },
-  "id" : 1163,
-  "entityName" : "Lưu Nhân Chú",
-  "aliases" : [ "Lê Nhân Chú" ],
-  "overview" : "Lưu Nhân Chú (chữ Hán: 劉仁澍, ?-1433), hay Lê Nhân Chú, là công thần khai quốc nhà Lê sơ trong lịch sử Việt Nam, người xã An Thuận Thượng, huyện Đại Từ, tỉnh Thái Nguyên, Việt Nam\n----------------------------------------------\nÔng theo giúp Lê Lợi trong cuộc khởi nghĩa cứu nước, dày công lao trận mạc, đến năm Đinh mùi 1427, ông làm Hành đế quân đốc quản, Nhập nội đại tư mã và được ban một cây táng. Mậu thân 1428, ông được phong Sung trung tán trị hiệp mưu vương võ công thần, đứng vào hàng thứ năm (Lê Sát thứ hai), trong 53 công thần được khắc biển biểu dương. Rồi được phong tước Á Phượng hầu, chuyển làm Nhập nội tư khấu. Quí tị 1433, Thái tổ mất. Thái tông nối ngôi còn nhỏ, ông bị Đại Tư đồ Lê Sát ganh ghét, mưu giết chết ông bằng rượu độc. Mãi đến đời Thánh tông, ông được truy tặng Thái phó, Vinh Quận Công."
+  "id": 1163,
+  "entityName": "Lưu Nhân Chú",
+  "aliases": [
+    "Lê Nhân Chú"
+  ],
+  "overview": "Lưu Nhân Chú (chữ Hán: 劉仁澍, ?-1433), hay Lê Nhân Chú, là công thần khai quốc nhà Lê sơ trong lịch sử Việt Nam, người xã An Thuận Thượng, huyện Đại Từ, tỉnh Thái Nguyên, Việt Nam\n----------------------------------------------\nÔng theo giúp Lê Lợi trong cuộc khởi nghĩa cứu nước, dày công lao trận mạc, đến năm Đinh mùi 1427, ông làm Hành đế quân đốc quản, Nhập nội đại tư mã và được ban một cây táng. Mậu thân 1428, ông được phong Sung trung tán trị hiệp mưu vương võ công thần, đứng vào hàng thứ năm (Lê Sát thứ hai), trong 53 công thần được khắc biển biểu dương. Rồi được phong tước Á Phượng hầu, chuyển làm Nhập nội tư khấu. Quí tị 1433, Thái tổ mất. Thái tông nối ngôi còn nhỏ, ông bị Đại Tư đồ Lê Sát ganh ghét, mưu giết chết ông bằng rượu độc. Mãi đến đời Thánh tông, ông được truy tặng Thái phó, Vinh Quận Công."
 }

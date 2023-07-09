@@ -1,17 +1,19 @@
 {
-  "dateOfBirth" : "Mậu Tuất 1898",
-  "dateOfDeath" : "Đinh Tị 1977",
-  "hometown" : "Quảng Nam",
-  "occupation" : "Nghệ sĩ, có tên riêng là Tảo, các nghệ nhân, đồng chí gọi thân mật là Anh Tảo.",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+  "dateOfBirth": "Mậu Tuất 1898",
+  "dateOfDeath": "Đinh Tị 1977",
+  "hometown": "Quảng Nam",
+  "occupation": "Nghệ sĩ, có tên riêng là Tảo, các nghệ nhân, đồng chí gọi thân mật là Anh Tảo.",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11,
+    "Nước Việt Nam mới": 29
   },
-  "id" : 153,
-  "entityName" : "Nguyễn Nho Túy",
-  "aliases" : [ "Anh Tảo" ],
-  "overview" : "Quê làng Phú Hanh, huyện Duy Xuyên, tỉnh Quảng Nam. Ông mê hát từ thuở bé, nhờ có vốn văn hóa khá, thông hiểu cả chữ Hán. Đầu tiên ông theo gánh hát của cụ Nguyễn Hiền Dĩnh - nhà soạn tuồng nổi tiếng ở miền Trung. Sau Cách mạng tháng Tám ông tham gia kháng chiến, sinh hoạt trong đoàn tuồng Liên khu 5. Suốt ba mươi năm ông tiếp tục phục vụ trên cương vị nghệ sĩ tuồng, nổi bật trong các vai đặc sắc. Ngoài việc trình diễn, chỉ đạo nghệ thuật cho các đồng nghiệp, ông cũng có biên soạn quyển 55 năm trên sân khấu tuồng. Ông cũng từng được cử làm: ủy viên Ban Chấp hành Hội Liên hiệp Văn học Nghệ thuật Việt Nam, Đại biểu Quốc hội khóa 3. Được khen thưởng: Huân chương Lao động hạng ba, Huân chương Lao động hạng nhì. Năm Đinh tị 1977, ngày 30-6 Dương lịch ông mất tại Đà Nẵng, thọ 79 tuổi."
+  "id": 153,
+  "entityName": "Nguyễn Nho Túy",
+  "aliases": [
+    "Anh Tảo"
+  ],
+  "overview": "Quê làng Phú Hanh, huyện Duy Xuyên, tỉnh Quảng Nam. Ông mê hát từ thuở bé, nhờ có vốn văn hóa khá, thông hiểu cả chữ Hán. Đầu tiên ông theo gánh hát của cụ Nguyễn Hiền Dĩnh - nhà soạn tuồng nổi tiếng ở miền Trung. Sau Cách mạng tháng Tám ông tham gia kháng chiến, sinh hoạt trong đoàn tuồng Liên khu 5. Suốt ba mươi năm ông tiếp tục phục vụ trên cương vị nghệ sĩ tuồng, nổi bật trong các vai đặc sắc. Ngoài việc trình diễn, chỉ đạo nghệ thuật cho các đồng nghiệp, ông cũng có biên soạn quyển 55 năm trên sân khấu tuồng. Ông cũng từng được cử làm: ủy viên Ban Chấp hành Hội Liên hiệp Văn học Nghệ thuật Việt Nam, Đại biểu Quốc hội khóa 3. Được khen thưởng: Huân chương Lao động hạng ba, Huân chương Lao động hạng nhì. Năm Đinh tị 1977, ngày 30-6 Dương lịch ông mất tại Đà Nẵng, thọ 79 tuổi."
 }

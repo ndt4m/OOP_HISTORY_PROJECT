@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 491,
-  "entityName" : "Lý Trường Nhân",
-  "aliases" : [ ],
-  "overview" : "Lý Trường Nhân (chữ Hán: 李長仁) là một thủ lĩnh địa phương, cát cứ Giao Châu, tự trị với chính quyền phong kiến phương Bắc trong lịch sử Việt Nam thời Bắc thuộc lần II."
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 491,
+  "entityName": "Lý Trường Nhân",
+  "aliases": [],
+  "overview": "Lý Trường Nhân (chữ Hán: 李長仁) là một thủ lĩnh địa phương, cát cứ Giao Châu, tự trị với chính quyền phong kiến phương Bắc trong lịch sử Việt Nam thời Bắc thuộc lần II."
 }

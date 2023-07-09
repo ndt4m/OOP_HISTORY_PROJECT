@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "1944 Sơn Tây",
-  "dateOfDeath" : "27 tháng 3 năm 2011 California, Hoa Kỳ",
-  "hometown" : "Không rõ",
-  "occupation" : "nhà báo, nhạc sĩ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 2068,
-  "entityName" : "Nguyễn Đức Quang",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Đức Quang (1944 - 27 tháng 3 năm 2011) là một nhà báo, nhạc sĩ người Việt ."
+  "dateOfBirth": "1944 Sơn Tây",
+  "dateOfDeath": "27 tháng 3 năm 2011 California, Hoa Kỳ",
+  "hometown": "Không rõ",
+  "occupation": "nhà báo, nhạc sĩ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 2068,
+  "entityName": "Nguyễn Đức Quang",
+  "aliases": [],
+  "overview": "Nguyễn Đức Quang (1944 - 27 tháng 3 năm 2011) là một nhà báo, nhạc sĩ người Việt ."
 }

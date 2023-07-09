@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Canh Ngọ 1930",
-  "hometown" : "Không rõ",
-  "occupation" : "Thường gọi là Cai Hoằng, vì nguyên là hạ sĩ quan binh đoàn Pháp đóng ở Yên Bái. Ông có lòng yêu nước, làm nội tuyến trước khi Việt Nam Quốc dân đảng khởi nghĩa ở Yên Bái.",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "…",
+  "dateOfDeath": "Canh Ngọ 1930",
+  "hometown": "Không rõ",
+  "occupation": "Thường gọi là Cai Hoằng, vì nguyên là hạ sĩ quan binh đoàn Pháp đóng ở Yên Bái. Ông có lòng yêu nước, làm nội tuyến trước khi Việt Nam Quốc dân đảng khởi nghĩa ở Yên Bái.",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 2088,
-  "entityName" : "Ngô Hải Hoàng",
-  "aliases" : [ "Cai Hoằng" ],
-  "overview" : "Ông bị bắt, bị địch tra tấn ác liệt. Khi ra Hội đồng đề hình (tòa án quân sự Pháp), do Poulet Osier ngồi ghế chánh án bảo ông: - Anh thật là vô ân, Đại úy Jourdain là thượng cấp của anh hết sức tử tế với anh, thế mà đêm ấy anh đã bắn chết ông ta đầu tiên. Ông đáp: -Nhưng đó là kẻ thù cướp nước chúng tôi, nên phải giết. Thực dân Pháp giết ông trong ngày 8-3-1930."
+  "id": 2088,
+  "entityName": "Ngô Hải Hoàng",
+  "aliases": [
+    "Cai Hoằng"
+  ],
+  "overview": "Ông bị bắt, bị địch tra tấn ác liệt. Khi ra Hội đồng đề hình (tòa án quân sự Pháp), do Poulet Osier ngồi ghế chánh án bảo ông: - Anh thật là vô ân, Đại úy Jourdain là thượng cấp của anh hết sức tử tế với anh, thế mà đêm ấy anh đã bắn chết ông ta đầu tiên. Ông đáp: -Nhưng đó là kẻ thù cướp nước chúng tôi, nên phải giết. Thực dân Pháp giết ông trong ngày 8-3-1930."
 }

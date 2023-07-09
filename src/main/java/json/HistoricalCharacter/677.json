@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Nhân Thìn 1772",
-  "dateOfDeath" : "Giáp Thìn 1844",
-  "hometown" : "Quê làng Phủ Chánh, huyện Lệ Thủy, tỉnh Quảng Bình, Phụ đạo hoàng tử Miên Tông",
-  "occupation" : "Danh thần triều Nguyễn",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+  "dateOfBirth": "Nhân Thìn 1772",
+  "dateOfDeath": "Giáp Thìn 1844",
+  "hometown": "Quê làng Phủ Chánh, huyện Lệ Thủy, tỉnh Quảng Bình, Phụ đạo hoàng tử Miên Tông",
+  "occupation": "Danh thần triều Nguyễn",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 677,
-  "entityName" : "Nguyễn Đăng Tuân",
-  "aliases" : [ ],
-  "overview" : "Đầu đời Gia Long, ông được tiến cử vào làm việc ở Viện Hàn lâm, làm tri huyện Ngọc Sơn, tỉnh Thanh Hóa, rồi về Huế sung chức Thị giảng ở nội cung. Năm 1820 được bổ Thiêm sự Bộ Lễ, năm 1827 giữ chức Hộ tào Bắc thành, sau chuyển về làm Hữu Tham tri Bộ Lễ, sung Phó tổng tài Quốc sử quán, rồi sung chức sư bảo dạy các hoàng tử. Trong số các hoàng tử mà ông trực tiếp giảng dạy có Miên Tông, sau này là vua Thiệu Tri rất trọng vọng, kính nể ông rất mực. Từ khi Miên Tông lên ngôi ông càng được trọng nể hơn bao giờ hết. Năm Thiệu Trị thứ 2 (1842) ông được thăng Hiệp biện đại học sĩ sung chức sư bảo như cũ. Trong năm này ông xin về trí sĩ được thăng thực thụ hàm Vĩnh lộc đại phu, Hiệp Biện đại học sĩ, được hưởng nguyên bổng, ông dâng sớ khẩn thiết từ chối phần bổng lộc. Trong sớ tâu lên vua có câu: \"Khoan chi bổng từ sang năm trở về sau, xin chiều theo chí của thần chuẩn cho đình miễn\". Sớ dâng lên, vua Thiệu Trị bằng lòng về lời tâu ấy. Nguyễn Đăng Tuân là vị quan đầu tiên dâng lên vua Minh Mạng sớ tấu trong việc trị nước tại triều đình. Sớ tấu có sáu điều được vua chuẩn cho thi hành. Sáu điều ông dâng lên sau này trở thành điển lệ của triều Nguyễn: 1- Đặt Ngự sử quan để đàn hặc vua, quan. 2- Đặt chức Thái phóng sử để xem xét quan lại có tài hoặc kém. 3- Ban hành sách lược kiệm ước nhằm bớt chi tiêu vô ích. 4- Đặt nhà học ở các doanh, trấn, châu, huyện để dạy Nho triết. 5- Mở khoa ân thí. 6- Cử hành việc thờ tự gia ân. Mùa đông năm Giáp thìn 1844 ông mất tại quê nhà, hưởng thọ 72 tuổi. Con trai ông là Nguyễn Đăng Giai cũng là một đại thần có công với nước."
+  "id": 677,
+  "entityName": "Nguyễn Đăng Tuân",
+  "aliases": [],
+  "overview": "Đầu đời Gia Long, ông được tiến cử vào làm việc ở Viện Hàn lâm, làm tri huyện Ngọc Sơn, tỉnh Thanh Hóa, rồi về Huế sung chức Thị giảng ở nội cung. Năm 1820 được bổ Thiêm sự Bộ Lễ, năm 1827 giữ chức Hộ tào Bắc thành, sau chuyển về làm Hữu Tham tri Bộ Lễ, sung Phó tổng tài Quốc sử quán, rồi sung chức sư bảo dạy các hoàng tử. Trong số các hoàng tử mà ông trực tiếp giảng dạy có Miên Tông, sau này là vua Thiệu Tri rất trọng vọng, kính nể ông rất mực. Từ khi Miên Tông lên ngôi ông càng được trọng nể hơn bao giờ hết. Năm Thiệu Trị thứ 2 (1842) ông được thăng Hiệp biện đại học sĩ sung chức sư bảo như cũ. Trong năm này ông xin về trí sĩ được thăng thực thụ hàm Vĩnh lộc đại phu, Hiệp Biện đại học sĩ, được hưởng nguyên bổng, ông dâng sớ khẩn thiết từ chối phần bổng lộc. Trong sớ tâu lên vua có câu: \"Khoan chi bổng từ sang năm trở về sau, xin chiều theo chí của thần chuẩn cho đình miễn\". Sớ dâng lên, vua Thiệu Trị bằng lòng về lời tâu ấy. Nguyễn Đăng Tuân là vị quan đầu tiên dâng lên vua Minh Mạng sớ tấu trong việc trị nước tại triều đình. Sớ tấu có sáu điều được vua chuẩn cho thi hành. Sáu điều ông dâng lên sau này trở thành điển lệ của triều Nguyễn: 1- Đặt Ngự sử quan để đàn hặc vua, quan. 2- Đặt chức Thái phóng sử để xem xét quan lại có tài hoặc kém. 3- Ban hành sách lược kiệm ước nhằm bớt chi tiêu vô ích. 4- Đặt nhà học ở các doanh, trấn, châu, huyện để dạy Nho triết. 5- Mở khoa ân thí. 6- Cử hành việc thờ tự gia ân. Mùa đông năm Giáp thìn 1844 ông mất tại quê nhà, hưởng thọ 72 tuổi. Con trai ông là Nguyễn Đăng Giai cũng là một đại thần có công với nước."
 }

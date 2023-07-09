@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 2588,
-  "entityName" : "Triệu Sóc",
-  "aliases" : [ ],
-  "overview" : "Triệu Sóc (chữ Hán: 趙朔, ?-597 TCN), tức Triệu Trang tử (趙莊子), là vị tông chủ thứ năm của họ Triệu, một trong Lục khanh nước Tấn thời Xuân Thu trong lịch sử Trung Quốc."
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 2588,
+  "entityName": "Triệu Sóc",
+  "aliases": [],
+  "overview": "Triệu Sóc (chữ Hán: 趙朔, ?-597 TCN), tức Triệu Trang tử (趙莊子), là vị tông chủ thứ năm của họ Triệu, một trong Lục khanh nước Tấn thời Xuân Thu trong lịch sử Trung Quốc."
 }

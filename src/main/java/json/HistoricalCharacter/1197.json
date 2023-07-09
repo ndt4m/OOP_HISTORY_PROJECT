@@ -1,18 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Tiết độ sứ",
-  "workTenure" : "917—923 930",
-  "fatherName" : {
-    "Khúc Hạo" : 2411
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Tiết độ sứ",
+  "workTenure": "917—923 930",
+  "fatherName": {
+    "Khúc Hạo": 2689
   },
-  "motherName" : { },
-  "eraName" : {
-    "Họ Khúc  hoặc" : null
+  "motherName": {},
+  "eraName": {
+    "Họ Khúc  hoặc": null
   },
-  "id" : 1197,
-  "entityName" : "Khúc Hậu Chủ",
-  "aliases" : [ ],
-  "overview" : "Khúc Thừa Mỹ (chữ Hán: 曲承美; trị vì: 917 – 923 hoặc 917 – 930) là người làng Cúc Bồ đất Hồng Châu (nay là xã Kiến Quốc, huyện Ninh Giang, tỉnh Hải Dương), con của Khúc Hạo (Việt sử lược chép là Khúc Toàn Mỹ, em của Khúc Hạo). Ông là vị Tiết độ sứ thứ ba trong thời kỳ tự chủ của họ Khúc trong lịch sử Việt Nam đầu thế kỷ 10."
+  "id": 1197,
+  "entityName": "Khúc Hậu Chủ",
+  "aliases": [],
+  "overview": "Khúc Thừa Mỹ (chữ Hán: 曲承美; trị vì: 917 – 923 hoặc 917 – 930) là người làng Cúc Bồ đất Hồng Châu (nay là xã Kiến Quốc, huyện Ninh Giang, tỉnh Hải Dương), con của Khúc Hạo (Việt sử lược chép là Khúc Toàn Mỹ, em của Khúc Hạo). Ông là vị Tiết độ sứ thứ ba trong thời kỳ tự chủ của họ Khúc trong lịch sử Việt Nam đầu thế kỷ 10."
 }

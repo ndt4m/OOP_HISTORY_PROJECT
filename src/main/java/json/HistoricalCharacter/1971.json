@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 1971,
-  "entityName" : "Vũ Nghĩa",
-  "aliases" : [ ],
-  "overview" : "Vũ Nghĩa (chữ Hán: 武义) có thể chỉ:"
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 1971,
+  "entityName": "Vũ Nghĩa",
+  "aliases": [],
+  "overview": "Vũ Nghĩa (chữ Hán: 武义) có thể chỉ:"
 }

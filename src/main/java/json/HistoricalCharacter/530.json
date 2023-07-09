@@ -1,16 +1,19 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "nhà Trần" : null
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "nhà Trần": null
   },
-  "id" : 530,
-  "entityName" : "Phạm Ngộ",
-  "aliases" : [ "Liêu Khê", "Phạm Tông Ngộ" ],
-  "overview" : "Phạm Ngộ (chữ Hán:范悟, hay Phạm Tông Ngộ, ? - ?); hiệu: Liêu Khê; là nhà thơ và là quan nhà Trần trong lịch sử Việt Nam."
+  "id": 530,
+  "entityName": "Phạm Ngộ",
+  "aliases": [
+    "Liêu Khê",
+    "Phạm Tông Ngộ"
+  ],
+  "overview": "Phạm Ngộ (chữ Hán:范悟, hay Phạm Tông Ngộ, ? - ?); hiệu: Liêu Khê; là nhà thơ và là quan nhà Trần trong lịch sử Việt Nam."
 }

@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "nhà Tây Sơn" : null
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "nhà Tây Sơn": null
   },
-  "id" : 1609,
-  "entityName" : "Phạm Công Hưng",
-  "aliases" : [ ],
-  "overview" : "Phạm Công Hưng (范公興) hay còn gọi là Phạm Văn Hưng (范文興), một danh tướng, trụ cột của nhà Tây Sơn."
+  "id": 1609,
+  "entityName": "Phạm Công Hưng",
+  "aliases": [],
+  "overview": "Phạm Công Hưng (范公興) hay còn gọi là Phạm Văn Hưng (范文興), một danh tướng, trụ cột của nhà Tây Sơn."
 }

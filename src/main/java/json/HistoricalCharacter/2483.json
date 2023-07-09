@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "huyện Lưu Đình Lễ mở mang trong vùng, được dân chúng nhớ ơn",
-  "occupation" : "Vị tiền hiền ở vùng Hóc Môn, Gò Vấp, tỉnh Gia Định (nay thuộc thành phố Hồ Chí Minh), không rõ năm sinh, năm mất",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "huyện Lưu Đình Lễ mở mang trong vùng, được dân chúng nhớ ơn",
+  "occupation": "Vị tiền hiền ở vùng Hóc Môn, Gò Vấp, tỉnh Gia Định (nay thuộc thành phố Hồ Chí Minh), không rõ năm sinh, năm mất",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 2483,
-  "entityName" : "Đặng Thúc Vịnh",
-  "aliases" : [ ],
-  "overview" : "Ông đôn đốc chiêu dân lập làng, lập ấp không bao lâu vùng Hóc Môn trở nên phồn thịnh. Nhưng đến năm Kỉ tị 1859 quân Pháp hạ thành Sài Gòn rồi kéo lên chiếm luôn Hóc Môn, tri huyện Lưu Đình Lễ rút lui về Vĩnh Long, còn ông ẩn tích luôn từ đấy."
+  "id": 2483,
+  "entityName": "Đặng Thúc Vịnh",
+  "aliases": [],
+  "overview": "Ông đôn đốc chiêu dân lập làng, lập ấp không bao lâu vùng Hóc Môn trở nên phồn thịnh. Nhưng đến năm Kỉ tị 1859 quân Pháp hạ thành Sài Gòn rồi kéo lên chiếm luôn Hóc Môn, tri huyện Lưu Đình Lễ rút lui về Vĩnh Long, còn ông ẩn tích luôn từ đấy."
 }

@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Bính Tuất 1046",
-  "dateOfDeath" : "Canh Thìn 1100",
-  "hometown" : "quê làng Phù Đổng, huyện Tiên Du, tỉnh Bắc Ninh (nay là huyện Tiên Sơn, tỉnh Bẳc Ninh)",
-  "occupation" : "Thiền sư đời Lý Nhân tông, quê làng Phù Đổng, huyện Tiên Du, tỉnh Bắc Ninh (nay là huyện Tiên Sơn, tỉnh Bẳc Ninh)",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Lý" : 14
+  "dateOfBirth": "Bính Tuất 1046",
+  "dateOfDeath": "Canh Thìn 1100",
+  "hometown": "quê làng Phù Đổng, huyện Tiên Du, tỉnh Bắc Ninh (nay là huyện Tiên Sơn, tỉnh Bẳc Ninh)",
+  "occupation": "Thiền sư đời Lý Nhân tông, quê làng Phù Đổng, huyện Tiên Du, tỉnh Bắc Ninh (nay là huyện Tiên Sơn, tỉnh Bẳc Ninh)",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Lý": 14
   },
-  "id" : 1850,
-  "entityName" : "Vương Hải Thiềm",
-  "aliases" : [ "Chân Không" ],
-  "overview" : "Năm 20 tuổi ông vào núi Từ Sơn tu thiền định. Suốt 20 năm nổi danh là bậc chân tu. Vua Lý Nhân tông từng triệu ông vào đại nội giảng kinh Pháp Hoa. Có lúc được vua tôn là cố vấn. Năm Canh thìn 1100 ông mất, hưởng dương 54 tuổi. Thượng thư Đoàn Văn Khâm truy điệu ông: \"Hạnh cao triều dã chấn thanh phong, Tích trụ như vân mộ tập long. Nhân vũ hốt kinh văn huệ đống, Đạo lâm trường thán yền trinh tòng. Phần oan bích thảo thiêm tân tháp, Thủy chiểu thanh sơn nhận cựu dung. Tịch tịch thiền quan thùy cách khấu, Kinh qua sầu thính mộ thiền chung.\" Bản dịch: Trào quê, nô nức khói cao bay, Gậy chống như rồng quấn bóng mây. Phút chốc cửa từ cây cột đổ, Bùi ngùi rừng đạo gốc thông lay. Mồ quanh cỏ biếc thêm tầng tháp. Nước chiếu non xanh nhận nét mày. Quạnh quẽ am mây ai gõ cửa? Chuông chiều xa vắng dạ khôn khuây. Ông là tác giả nhiều bài kệ nay đã thất lạc."
+  "id": 1850,
+  "entityName": "Vương Hải Thiềm",
+  "aliases": [
+    "Chân Không"
+  ],
+  "overview": "Năm 20 tuổi ông vào núi Từ Sơn tu thiền định. Suốt 20 năm nổi danh là bậc chân tu. Vua Lý Nhân tông từng triệu ông vào đại nội giảng kinh Pháp Hoa. Có lúc được vua tôn là cố vấn. Năm Canh thìn 1100 ông mất, hưởng dương 54 tuổi. Thượng thư Đoàn Văn Khâm truy điệu ông: \"Hạnh cao triều dã chấn thanh phong, Tích trụ như vân mộ tập long. Nhân vũ hốt kinh văn huệ đống, Đạo lâm trường thán yền trinh tòng. Phần oan bích thảo thiêm tân tháp, Thủy chiểu thanh sơn nhận cựu dung. Tịch tịch thiền quan thùy cách khấu, Kinh qua sầu thính mộ thiền chung.\" Bản dịch: Trào quê, nô nức khói cao bay, Gậy chống như rồng quấn bóng mây. Phút chốc cửa từ cây cột đổ, Bùi ngùi rừng đạo gốc thông lay. Mồ quanh cỏ biếc thêm tầng tháp. Nước chiếu non xanh nhận nét mày. Quạnh quẽ am mây ai gõ cửa? Chuông chiều xa vắng dạ khôn khuây. Ông là tác giả nhiều bài kệ nay đã thất lạc."
 }

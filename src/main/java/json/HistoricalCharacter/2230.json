@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Quí Mùi 23",
-  "dateOfDeath" : "Quí Mão 43",
-  "hometown" : "quê xã Hương Nha, nay thuộc huyện Tam Nông, tỉnh Vĩnh Phú",
-  "occupation" : "Tức Nàng Xuân, Nữ tướng thời Trưng vương, con gái vị thủ lãnh châu Đại Man",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Trưng Nữ Vương" : 10
+  "dateOfBirth": "Quí Mùi 23",
+  "dateOfDeath": "Quí Mão 43",
+  "hometown": "quê xã Hương Nha, nay thuộc huyện Tam Nông, tỉnh Vĩnh Phú",
+  "occupation": "Tức Nàng Xuân, Nữ tướng thời Trưng vương, con gái vị thủ lãnh châu Đại Man",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Trưng Nữ Vương": 10
   },
-  "id" : 2230,
-  "entityName" : "Xuân Nương",
-  "aliases" : [ "Nàng Xuân" ],
-  "overview" : "Năm Kỉ hợi 39, cha và anh bà bị Thái thú Tô Định giết, bà cùng hai người anh còn sống sót cải trang trốn thoát, nương náu nơi thôn Tuế Phong (nay thuộc xã Hương Nộn, huyện Tam Nông). Bà vận động nhân dân căm thú giặc, tập hợp nhau lại chống giặc cứu nước. Chẳng bao lâu thanh thế lớn mạnh, bà kéo binh về Hát Môn tụ nghĩa, chiến đấu dưới cờ Trưng Vương. Năm Canh tí 40 dẹp xong giặc, bà được phong quan tước và kết duyên với em Thi Sách là Thi Bằng, nghiễm nhiên là em dâu của Trưng Vương. Hai vợ chồng được giao trấn giữ mạn sông Thao. Năm Quí mão 43 quân Hán lại kéo sang, do Mã Viện chỉ huy, cùng với hai phó tướng là Doãn Chí và Lưu Long đánh phá dữ dội. Trưng vương bại binh, tử tiết. Bấy giờ hai vợ chồng Xuân Nương vẫn quyết liệt chiến đấu. Bà chỉ huy quân bộ, chồng bà chỉ huy quân thủy ngăn chận giặc ở ngã ba Hạc. Nhưng thế không chống nổi lâu, về sau hai vợ chồng bà đều hi sinh, lúc mới 20 tuổi. Nhân dân có lập đền thờ bà bên hữu ngạn sông Thao. Riêng ở Hương Nha là quê bà, hàng năm mở hội tưởng niệm bà vào tháng hai âm lịch. Đặc biệt có lệ hát \"xoan\" là một hình thức diễn xướng văn nghệ dân gian. Nhiều liễn đối truy điệu bà vẫn còn truyền tụng: \"Độc lập thụ tiên tinh, vạn cổ huân danh huyền nhật nguyệt, Song lưu Trưng hiển tích, thiên thu nghĩa kí đối sơn hà\". Nghĩa: Dựng ngọn cờ độc lập, công danh nghìn năm tỏ rõ cùng mặt trăng, mặt trời. Chiến công vẫn còn sống mãi với triều Trưng vương, muôn thuở nghĩa khí sánh cùng sông núi."
+  "id": 2230,
+  "entityName": "Xuân Nương",
+  "aliases": [
+    "Nàng Xuân"
+  ],
+  "overview": "Năm Kỉ hợi 39, cha và anh bà bị Thái thú Tô Định giết, bà cùng hai người anh còn sống sót cải trang trốn thoát, nương náu nơi thôn Tuế Phong (nay thuộc xã Hương Nộn, huyện Tam Nông). Bà vận động nhân dân căm thú giặc, tập hợp nhau lại chống giặc cứu nước. Chẳng bao lâu thanh thế lớn mạnh, bà kéo binh về Hát Môn tụ nghĩa, chiến đấu dưới cờ Trưng Vương. Năm Canh tí 40 dẹp xong giặc, bà được phong quan tước và kết duyên với em Thi Sách là Thi Bằng, nghiễm nhiên là em dâu của Trưng Vương. Hai vợ chồng được giao trấn giữ mạn sông Thao. Năm Quí mão 43 quân Hán lại kéo sang, do Mã Viện chỉ huy, cùng với hai phó tướng là Doãn Chí và Lưu Long đánh phá dữ dội. Trưng vương bại binh, tử tiết. Bấy giờ hai vợ chồng Xuân Nương vẫn quyết liệt chiến đấu. Bà chỉ huy quân bộ, chồng bà chỉ huy quân thủy ngăn chận giặc ở ngã ba Hạc. Nhưng thế không chống nổi lâu, về sau hai vợ chồng bà đều hi sinh, lúc mới 20 tuổi. Nhân dân có lập đền thờ bà bên hữu ngạn sông Thao. Riêng ở Hương Nha là quê bà, hàng năm mở hội tưởng niệm bà vào tháng hai âm lịch. Đặc biệt có lệ hát \"xoan\" là một hình thức diễn xướng văn nghệ dân gian. Nhiều liễn đối truy điệu bà vẫn còn truyền tụng: \"Độc lập thụ tiên tinh, vạn cổ huân danh huyền nhật nguyệt, Song lưu Trưng hiển tích, thiên thu nghĩa kí đối sơn hà\". Nghĩa: Dựng ngọn cờ độc lập, công danh nghìn năm tỏ rõ cùng mặt trăng, mặt trời. Chiến công vẫn còn sống mãi với triều Trưng vương, muôn thuở nghĩa khí sánh cùng sông núi."
 }

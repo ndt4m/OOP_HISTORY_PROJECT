@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Đồng Nai",
-  "occupation" : "Công thần triều Gia Long, không rõ họ và năm sinh, năm mất",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Đồng Nai",
+  "occupation": "Công thần triều Gia Long, không rõ họ và năm sinh, năm mất",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 103,
-  "entityName" : "Giáp Lĩnh Hầu",
-  "aliases" : [ "Giáp" ],
-  "overview" : "Ông làm đến kí lục, kiêm cai cơ. Lãnh sứ mạng trấn nhậm nơi biên thùy, ông chiêu an dân chúng, khai hoang lập ấp. Được phong tước Giáp Như Hầu. Ông có công nhiều với nhân dân, nên khi ông mất, được dân chúng tưởng niệm. Đền thờ ông ở thôn Phước Trinh, huyện Phước An, tỉnh Biên Hòa (nay là tỉnh Đồng Nai), gọi là đền Giáp công (Giáp công từ đền thờ ông Giáp hay Giáp Lĩnh hầu)."
+  "id": 103,
+  "entityName": "Giáp Lĩnh Hầu",
+  "aliases": [
+    "Giáp"
+  ],
+  "overview": "Ông làm đến kí lục, kiêm cai cơ. Lãnh sứ mạng trấn nhậm nơi biên thùy, ông chiêu an dân chúng, khai hoang lập ấp. Được phong tước Giáp Như Hầu. Ông có công nhiều với nhân dân, nên khi ông mất, được dân chúng tưởng niệm. Đền thờ ông ở thôn Phước Trinh, huyện Phước An, tỉnh Biên Hòa (nay là tỉnh Đồng Nai), gọi là đền Giáp công (Giáp công từ đền thờ ông Giáp hay Giáp Lĩnh hầu)."
 }

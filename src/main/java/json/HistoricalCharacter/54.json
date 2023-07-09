@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "1427",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "nhà Minh" : null
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "1427",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "nhà Minh": null
   },
-  "id" : 54,
-  "entityName" : "Lý Khánh",
-  "aliases" : [ "Đức Phu" ],
-  "overview" : "Lý Khánh (chữ Hán: 李庆, ? – 1427), tên tự là Đức Phu, người huyện Thuận Nghĩa , là quan viên nhà Minh, mất khi trấn áp khởi nghĩa Lam Sơn tại Việt Nam."
+  "id": 54,
+  "entityName": "Lý Khánh",
+  "aliases": [
+    "Đức Phu"
+  ],
+  "overview": "Lý Khánh (chữ Hán: 李庆, ? – 1427), tên tự là Đức Phu, người huyện Thuận Nghĩa , là quan viên nhà Minh, mất khi trấn áp khởi nghĩa Lam Sơn tại Việt Nam."
 }

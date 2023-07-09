@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Kỉ Sửu 1409",
-  "hometown" : "Thanh Hóa",
-  "occupation" : "Văn thần đời Hậu Trần, người tỉnh Thanh Hóa.",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Hậu Trần" : null
+  "dateOfBirth": "…",
+  "dateOfDeath": "Kỉ Sửu 1409",
+  "hometown": "Thanh Hóa",
+  "occupation": "Văn thần đời Hậu Trần, người tỉnh Thanh Hóa.",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Hậu Trần": null
   },
-  "id" : 541,
-  "entityName" : "Trần Hi Cát",
-  "aliases" : [ ],
-  "overview" : "Khi quân Minh sang cướp nước, dứt nhà Hồ, ông cùng các nghĩa sĩ lo liệu việc chống giặc cứu nước. Khi Trần Quĩ (có sách chép là Trần Ngỗi) con Trân Nghệ tông khởi nghĩa kháng chiến, ông theo giúp, được trọng dụng, phong đến chức Thái bảo. Năm Mậu tí 1408, khoảng tháng 11 âm lịch, tướng giặc Mộc Thạch đem binh vây đánh, bắt được ông và Giản Định đế Trần Quĩ cùng với hai tướng Nguyễn Nhữ Lệ, Nguyễn Yến tại bến Cát Lợi huyện Mĩ Lương (nay thuộc tỉnh Nam Định), đóng cũi giải về Yên Kinh (Trung Quốc). Chúng giết ông, Trần Quĩ Nguyễn Nhữ Lệ và Nguyễn Yến trong năm Kỉ sửu 1409. Người sau có thơ điếu: \"Thành Bắc luy lung lưỡng diếu mang, Quân thần tương ngộ mạc tương vương (vong) Bách niên nghĩa hiệp sơn hà cố, Thiên tải danh lưu nhật nguyệt trường. Khuy khấp dã viêm bi trú bạch, Thính ai sơn điểu phạ hôn hoàng. Hành nhân quải kiếm kim hà tại, Độc đối càn khôn trở đậu hương.\" Bản dịch: Thảm thảm Bắc thành xiết nỗi đau. Vua tôi gặp gỡ dám quên đâu. Trăm năm nghĩa hiệp còn lưu mã, Muôn thuở phương danh vẫn để lâu. Vượn khóc đầu non lòng những ngán, Chim than trên núi dạ thêm sầu. Mang gươm người cũ nay đâu tá? Trở đậu hương nồng trải mấy thu."
+  "id": 541,
+  "entityName": "Trần Hi Cát",
+  "aliases": [],
+  "overview": "Khi quân Minh sang cướp nước, dứt nhà Hồ, ông cùng các nghĩa sĩ lo liệu việc chống giặc cứu nước. Khi Trần Quĩ (có sách chép là Trần Ngỗi) con Trân Nghệ tông khởi nghĩa kháng chiến, ông theo giúp, được trọng dụng, phong đến chức Thái bảo. Năm Mậu tí 1408, khoảng tháng 11 âm lịch, tướng giặc Mộc Thạch đem binh vây đánh, bắt được ông và Giản Định đế Trần Quĩ cùng với hai tướng Nguyễn Nhữ Lệ, Nguyễn Yến tại bến Cát Lợi huyện Mĩ Lương (nay thuộc tỉnh Nam Định), đóng cũi giải về Yên Kinh (Trung Quốc). Chúng giết ông, Trần Quĩ Nguyễn Nhữ Lệ và Nguyễn Yến trong năm Kỉ sửu 1409. Người sau có thơ điếu: \"Thành Bắc luy lung lưỡng diếu mang, Quân thần tương ngộ mạc tương vương (vong) Bách niên nghĩa hiệp sơn hà cố, Thiên tải danh lưu nhật nguyệt trường. Khuy khấp dã viêm bi trú bạch, Thính ai sơn điểu phạ hôn hoàng. Hành nhân quải kiếm kim hà tại, Độc đối càn khôn trở đậu hương.\" Bản dịch: Thảm thảm Bắc thành xiết nỗi đau. Vua tôi gặp gỡ dám quên đâu. Trăm năm nghĩa hiệp còn lưu mã, Muôn thuở phương danh vẫn để lâu. Vượn khóc đầu non lòng những ngán, Chim than trên núi dạ thêm sầu. Mang gươm người cũ nay đâu tá? Trở đậu hương nồng trải mấy thu."
 }

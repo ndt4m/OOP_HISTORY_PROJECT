@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "1212",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "nhà Lý" : null
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "1212",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "nhà Lý": null
   },
-  "id" : 430,
-  "entityName" : "Nguyễn Tự",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Tự (?-1212) là tướng nhà Lý trong lịch sử Việt Nam. Ông tham gia cuộc chiến giữa các sứ quân cuối thời Lý."
+  "id": 430,
+  "entityName": "Nguyễn Tự",
+  "aliases": [],
+  "overview": "Nguyễn Tự (?-1212) là tướng nhà Lý trong lịch sử Việt Nam. Ông tham gia cuộc chiến giữa các sứ quân cuối thời Lý."
 }

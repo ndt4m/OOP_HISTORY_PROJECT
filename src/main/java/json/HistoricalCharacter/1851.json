@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Triệu Đà" : 1462
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {
+    "Triệu Đà": 1758
   },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 1851,
-  "entityName" : "Trọng Thủy",
-  "aliases" : [ ],
-  "overview" : "Trọng Thủy (chữ Hán: 仲始), tên đầy đủ là Triệu Trọng Thủy (chữ Hán: 趙仲始), là hoàng tử nước Nam Việt, con trai của Triệu Đà."
+  "motherName": {},
+  "eraName": {},
+  "id": 1851,
+  "entityName": "Trọng Thủy",
+  "aliases": [],
+  "overview": "Trọng Thủy (chữ Hán: 仲始), tên đầy đủ là Triệu Trọng Thủy (chữ Hán: 趙仲始), là hoàng tử nước Nam Việt, con trai của Triệu Đà."
 }

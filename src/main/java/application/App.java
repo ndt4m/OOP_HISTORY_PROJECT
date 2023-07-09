@@ -4,12 +4,6 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.nio.file.FileSystems;
 
-import collection.EraCollection;
-import collection.EventCollection;
-import collection.FestivalCollection;
-import collection.HistoricalCharCollection;
-import collection.HistoricalSiteCollection;
-
 public class App{
     public static URL convertToURL(String path) {
         try {

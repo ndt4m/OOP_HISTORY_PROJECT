@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Quê làng Lương Xá, huyện Chương Đức, tỉnh Hà Đông (nay thuộc tỉnh Hà Tây)",
-  "occupation" : "Đại thần đời Lê Trung Hưng, dòng dõi Đặng Huấn, con Đặng Đình Tướng",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Quê làng Lương Xá, huyện Chương Đức, tỉnh Hà Đông (nay thuộc tỉnh Hà Tây)",
+  "occupation": "Đại thần đời Lê Trung Hưng, dòng dõi Đặng Huấn, con Đặng Đình Tướng",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34
   },
-  "id" : 2223,
-  "entityName" : "Đặng Đình Gián",
-  "aliases" : [ ],
-  "overview" : "Nhà họ Đặng này trải mấy đời đều là quan lớn trong triều. Các anh em ông là Đình Hiền, Đình Quỳnh cũng đều hiển đạt. Ông làm Đốc phủ Sơn Nam, SơnTây, Kinh Bắc. Tước Đổng quận công."
+  "id": 2223,
+  "entityName": "Đặng Đình Gián",
+  "aliases": [],
+  "overview": "Nhà họ Đặng này trải mấy đời đều là quan lớn trong triều. Các anh em ông là Đình Hiền, Đình Quỳnh cũng đều hiển đạt. Ông làm Đốc phủ Sơn Nam, SơnTây, Kinh Bắc. Tước Đổng quận công."
 }

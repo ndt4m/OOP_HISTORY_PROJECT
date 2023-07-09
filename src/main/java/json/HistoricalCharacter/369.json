@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "1716",
-  "dateOfDeath" : "1783",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 369,
-  "entityName" : "Nguyễn Đình Đống",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Đình Đống (1716 - 1783): một danh tướng cuối thời Lê Trung Hưng"
+  "dateOfBirth": "1716",
+  "dateOfDeath": "1783",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 369,
+  "entityName": "Nguyễn Đình Đống",
+  "aliases": [],
+  "overview": "Nguyễn Đình Đống (1716 - 1783): một danh tướng cuối thời Lê Trung Hưng"
 }

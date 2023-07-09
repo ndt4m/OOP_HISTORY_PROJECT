@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 1335,
-  "entityName" : "Hoàng Thái Tử",
-  "aliases" : [ "Quốc Bổn" ],
-  "overview" : "Trữ quân (chữ Hán: 儲君), hoặc Tự quân (嗣君) hay Quốc Bổn (國本) , là cách gọi trung lập tước vị dành cho người đã được chính thức chọn lựa để sau này nối ngôi Hoàng đế hay Quốc vương."
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 1335,
+  "entityName": "Hoàng Thái Tử",
+  "aliases": [
+    "Quốc Bổn"
+  ],
+  "overview": "Trữ quân (chữ Hán: 儲君), hoặc Tự quân (嗣君) hay Quốc Bổn (國本) , là cách gọi trung lập tước vị dành cho người đã được chính thức chọn lựa để sau này nối ngôi Hoàng đế hay Quốc vương."
 }

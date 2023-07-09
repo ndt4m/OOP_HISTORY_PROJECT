@@ -1,17 +1,17 @@
 {
-  "dateOfBirth" : "924\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "979\n----------------------------------------------\nKhông rõ",
-  "hometown" : "quê ở làng Đại Hữu, nay là xã Gia Phương, Gia Viễn, Ninh Bình, là một trong số những công thần khai quốc Đại Cồ Việt và là người tận trung với nhà Đinh.\n----------------------------------------------\nquê xã Ích Bằng phường Hiển Nam, thị xã Hưng Yên, tỉnh Hưng Yên",
-  "occupation" : "Bạn kết nghĩa với Đinh Bộ Lĩnh ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "nhà Đinh" : null,
-    "Nhà Đinh" : 35
+  "dateOfBirth": "924\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath": "979\n----------------------------------------------\nKhông rõ",
+  "hometown": "quê ở làng Đại Hữu, nay là xã Gia Phương, Gia Viễn, Ninh Bình, là một trong số những công thần khai quốc Đại Cồ Việt và là người tận trung với nhà Đinh.\n----------------------------------------------\nquê xã Ích Bằng phường Hiển Nam, thị xã Hưng Yên, tỉnh Hưng Yên",
+  "occupation": "Bạn kết nghĩa với Đinh Bộ Lĩnh ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "nhà Đinh": null,
+    "Nhà Đinh": 35
   },
-  "id" : 3108,
-  "entityName" : "Đinh Điền",
-  "aliases" : [ ],
-  "overview" : "Đinh Điền (chữ Hán: 丁佃; 924 - 979) quê ở làng Đại Hữu, nay là xã Gia Phương, Gia Viễn, Ninh Bình, là một trong số những công thần khai quốc Đại Cồ Việt và là người tận trung với nhà Đinh. Dân gian xem ông như một biểu tượng của tinh thần hào hiệp, trượng nghĩa và trung thành. Ông được sử sách Trung Hoa liệt vào danh sách \"Giao Châu thất hùng\", tức 7 anh hùng người Giao Châu gồm: Đinh Bộ Lĩnh, Đinh Liễn, Lê Hoàn, Đinh Điền, Nguyễn Bặc, Phạm Hạp và Phạm Cự Lượng.\n----------------------------------------------\nKhi Đinh Bộ Lĩnh theo sứ quân Trần Lãm, ông cũng ra sức hỗ trợ. Bộ Lĩnh đánh dẹp các sứ quân, nghiễm nhiên được xưng tụng là Vạn Thắng vương, còn ông thì nắm quyền tư lệnh quân đội, Bộ Lĩnh lên ngôi vua, ông làm Đại Tư Đồ. Năm Kỉ mão 979, vua Đinh bị Đỗ Thích ám sát. Sau đó Thập đạo tướng quân Lê Hoàn tư thông vói Dương hậu, ông hiệp với Định Quốc Công Nguyễn Bặc và Phạm Hạp dấy binh chống lại. Nguyễn Bặc và Phạm Hạp bị Lê Hoàn giết. Ông lui về trại Đằng Man (thuộc huyện Kim Động, tỉnh Hưng Yên). Vợ ông là Phan Mội nương cũng là bậc anh thư. Đến ngày 17- 11 hai vợ chồng ông đều quyên sinh chết, sau khi thết một tiệc lớn từ biệt các vị kì lão, nhân dân trong vùng. Đền thờ ông hãy còn ở xã Kim Đằng, huyện Kim Động. Chính Lê Hoàn về sau lên ngôi văn cảm phục ông, sắc phong là Tể thế hộ quốc hiển ứng linh quang đại vương, gia phong Trung chiêm kiệt tiết tối linh đại vương, vợ ông là Phan Mội nương cũng được sắc phong là Huệ Hoa gia tĩnh trinh thục phu nhân. Các triều đại Trần, Hậu Lê cũng đều có sắc phong vợ chồng ông là Phúc thần. Liễn đối, thi ca tụng niệm ông còn truyền tụng khá nhiều."
+  "id": 3108,
+  "entityName": "Đinh Điền",
+  "aliases": [],
+  "overview": "Đinh Điền (chữ Hán: 丁佃; 924 - 979) quê ở làng Đại Hữu, nay là xã Gia Phương, Gia Viễn, Ninh Bình, là một trong số những công thần khai quốc Đại Cồ Việt và là người tận trung với nhà Đinh. Dân gian xem ông như một biểu tượng của tinh thần hào hiệp, trượng nghĩa và trung thành. Ông được sử sách Trung Hoa liệt vào danh sách \"Giao Châu thất hùng\", tức 7 anh hùng người Giao Châu gồm: Đinh Bộ Lĩnh, Đinh Liễn, Lê Hoàn, Đinh Điền, Nguyễn Bặc, Phạm Hạp và Phạm Cự Lượng.\n----------------------------------------------\nKhi Đinh Bộ Lĩnh theo sứ quân Trần Lãm, ông cũng ra sức hỗ trợ. Bộ Lĩnh đánh dẹp các sứ quân, nghiễm nhiên được xưng tụng là Vạn Thắng vương, còn ông thì nắm quyền tư lệnh quân đội, Bộ Lĩnh lên ngôi vua, ông làm Đại Tư Đồ. Năm Kỉ mão 979, vua Đinh bị Đỗ Thích ám sát. Sau đó Thập đạo tướng quân Lê Hoàn tư thông vói Dương hậu, ông hiệp với Định Quốc Công Nguyễn Bặc và Phạm Hạp dấy binh chống lại. Nguyễn Bặc và Phạm Hạp bị Lê Hoàn giết. Ông lui về trại Đằng Man (thuộc huyện Kim Động, tỉnh Hưng Yên). Vợ ông là Phan Mội nương cũng là bậc anh thư. Đến ngày 17- 11 hai vợ chồng ông đều quyên sinh chết, sau khi thết một tiệc lớn từ biệt các vị kì lão, nhân dân trong vùng. Đền thờ ông hãy còn ở xã Kim Đằng, huyện Kim Động. Chính Lê Hoàn về sau lên ngôi văn cảm phục ông, sắc phong là Tể thế hộ quốc hiển ứng linh quang đại vương, gia phong Trung chiêm kiệt tiết tối linh đại vương, vợ ông là Phan Mội nương cũng được sắc phong là Huệ Hoa gia tĩnh trinh thục phu nhân. Các triều đại Trần, Hậu Lê cũng đều có sắc phong vợ chồng ông là Phúc thần. Liễn đối, thi ca tụng niệm ông còn truyền tụng khá nhiều."
 }

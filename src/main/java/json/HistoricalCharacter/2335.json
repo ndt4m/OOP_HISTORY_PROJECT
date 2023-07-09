@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê ở Hồng Châu, tỉnh Hải Dương",
-  "occupation" : "Danh thần đời Trần Nghệ tông ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Trần" : 15
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "quê ở Hồng Châu, tỉnh Hải Dương",
+  "occupation": "Danh thần đời Trần Nghệ tông ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Trần": 15
   },
-  "id" : 2335,
-  "entityName" : "Châu Tông Tranh",
-  "aliases" : [ ],
-  "overview" : "Ông tài kiêm văn võ, thống lĩnh Tam tướng cấm binh, được Hồ Quí Li rất tin cậy. Nơi ông ở dân chúng tụ họp đông đúc, phồn thịnh, về sau mới nhận lấy theo họ ông mà gọi nơi ấy là thôn Châu Xá. Dần dần nhân dân đến càng nhiều, mới biệt lập làm một xã, gọi là xã Châu Khê. Khi ông mất, Tư đồ Trần Nguyên Đán có soạn một bài bia đề kỉ niệm. Bia ấy lâu đời đã mòn mất chữ, khiến Phạm Đình Hổ khi soạn sách Vũ ông tùy bút có lời than: \"…đầu đuôi Châu công làm quan ở trong triều như thế nào đều không thấy chép ở trong sử, mà đến các nhà làm truyện kí cũng không chép đến. Nếu không có cái bia của Trần Nguyên Đán thì tính danh quan tước của Châu công dễ thường cũng mai một trong đám cỏ xanh đóm lửa. Nào những người xe ngựa nghênh ngang áo mũ xúng xính, ngang nhiên tự đắc ở trên đời mà chớp mắt đã biến đi đâu mất cả kể biết bao nhiêu\" (Bản dịch của Đông Châu Nguyễn Hữu Tiến)."
+  "id": 2335,
+  "entityName": "Châu Tông Tranh",
+  "aliases": [],
+  "overview": "Ông tài kiêm văn võ, thống lĩnh Tam tướng cấm binh, được Hồ Quí Li rất tin cậy. Nơi ông ở dân chúng tụ họp đông đúc, phồn thịnh, về sau mới nhận lấy theo họ ông mà gọi nơi ấy là thôn Châu Xá. Dần dần nhân dân đến càng nhiều, mới biệt lập làm một xã, gọi là xã Châu Khê. Khi ông mất, Tư đồ Trần Nguyên Đán có soạn một bài bia đề kỉ niệm. Bia ấy lâu đời đã mòn mất chữ, khiến Phạm Đình Hổ khi soạn sách Vũ ông tùy bút có lời than: \"…đầu đuôi Châu công làm quan ở trong triều như thế nào đều không thấy chép ở trong sử, mà đến các nhà làm truyện kí cũng không chép đến. Nếu không có cái bia của Trần Nguyên Đán thì tính danh quan tước của Châu công dễ thường cũng mai một trong đám cỏ xanh đóm lửa. Nào những người xe ngựa nghênh ngang áo mũ xúng xính, ngang nhiên tự đắc ở trên đời mà chớp mắt đã biến đi đâu mất cả kể biết bao nhiêu\" (Bản dịch của Đông Châu Nguyễn Hữu Tiến)."
 }

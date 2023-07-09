@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Giáp Tí 1624",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê làng Kiệt Đặc, huyện Chí Linh, tỉnh Hải Dương (nay thuộc Hải Dương)",
-  "occupation" : "Danh sĩ đời Lê Kính tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
+  "dateOfBirth": "Giáp Tí 1624",
+  "dateOfDeath": "Không rõ",
+  "hometown": "quê làng Kiệt Đặc, huyện Chí Linh, tỉnh Hải Dương (nay thuộc Hải Dương)",
+  "occupation": "Danh sĩ đời Lê Kính tông",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34
   },
-  "id" : 96,
-  "entityName" : "Nguyễn Quang Trạch",
-  "aliases" : [ ],
-  "overview" : "Ông nổi tiếng thơ văn, ngang hàng với Hoàng giáp Nguyễn Đăng, sở trường về lối phú. Đời bấy giờ có câu ca: \"Phú ông Trạch, sách ông Đăng\" (Nguyễn Đăng). Năm Giáp thìn 1664, ông ra thi không đỗ. Khoa này lấy đỗ 13 tiến sĩ, thân phụ ông mỉa mai: \"Dễ thường lấy ba tiến sĩ mới dự phần hay sao?\" ông lặng thinh cố gắng rèn luyện chờ khoa sau. Năm Đinh mùi 1667 ông ra thi lại, khoa này chỉ lấy 3 tiến sĩ, ông đỗ hạng 3, Nguyễn Hữu Đăng nhì, đứng đầu là Nguyễn Quán Nho, bấy giờ ông đã 43 tuổi. Gặp kì ứng chế, ông cũng trúng cách. Sau khi đỗ làm quan đến Đô cấp sự trung bộ Hình. Khi mất, thọ trên 70 tuổi, các con ông là Nguyễn Quang Chiêu, Quang Hạo cũng đều đỗ đạt vinh hiển, có danh vọng đương thời."
+  "id": 96,
+  "entityName": "Nguyễn Quang Trạch",
+  "aliases": [],
+  "overview": "Ông nổi tiếng thơ văn, ngang hàng với Hoàng giáp Nguyễn Đăng, sở trường về lối phú. Đời bấy giờ có câu ca: \"Phú ông Trạch, sách ông Đăng\" (Nguyễn Đăng). Năm Giáp thìn 1664, ông ra thi không đỗ. Khoa này lấy đỗ 13 tiến sĩ, thân phụ ông mỉa mai: \"Dễ thường lấy ba tiến sĩ mới dự phần hay sao?\" ông lặng thinh cố gắng rèn luyện chờ khoa sau. Năm Đinh mùi 1667 ông ra thi lại, khoa này chỉ lấy 3 tiến sĩ, ông đỗ hạng 3, Nguyễn Hữu Đăng nhì, đứng đầu là Nguyễn Quán Nho, bấy giờ ông đã 43 tuổi. Gặp kì ứng chế, ông cũng trúng cách. Sau khi đỗ làm quan đến Đô cấp sự trung bộ Hình. Khi mất, thọ trên 70 tuổi, các con ông là Nguyễn Quang Chiêu, Quang Hạo cũng đều đỗ đạt vinh hiển, có danh vọng đương thời."
 }

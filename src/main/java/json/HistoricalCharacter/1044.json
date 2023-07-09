@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Bính Thân 1656",
-  "dateOfDeath" : "Mậu Thân 1728",
-  "hometown" : "Thanh Hóa",
-  "occupation" : "Danh thần đời vua Lê Thần tông, dòng dõi Quảng Quốc công Bùi Xương Trạch",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
+  "dateOfBirth": "Bính Thân 1656",
+  "dateOfDeath": "Mậu Thân 1728",
+  "hometown": "Thanh Hóa",
+  "occupation": "Danh thần đời vua Lê Thần tông, dòng dõi Quảng Quốc công Bùi Xương Trạch",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34
   },
-  "id" : 1044,
-  "entityName" : "Bùi Xương Tự",
-  "aliases" : [ "Túc Trai" ],
-  "overview" : "Ông xuất chính làm Thị nội văn chức, Hiển cung đại phu; rồi chuyển làm Tham nghị ở ti Thừa chính Thái Nguyên. Được phong tặng Hoàng tín đại phu, Hàn lâm viện thị độc, gia phong Đặc tiến Kim tử vinh lộc đại phu, tước Phong Khánh Bá. Năm Mậu thân 1728, ông mất thọ 72 tuổi. Ông là thân phụ của Trúc Viên cư sĩ Bùi Dụng Tân và là nội tổ Bùi Huy Bích. Tác phẩm của ông còn bộ Thanh Trì Bùi thị gia phả do Bùi Huy Bích đề tựa."
+  "id": 1044,
+  "entityName": "Bùi Xương Tự",
+  "aliases": [
+    "Túc Trai"
+  ],
+  "overview": "Ông xuất chính làm Thị nội văn chức, Hiển cung đại phu; rồi chuyển làm Tham nghị ở ti Thừa chính Thái Nguyên. Được phong tặng Hoàng tín đại phu, Hàn lâm viện thị độc, gia phong Đặc tiến Kim tử vinh lộc đại phu, tước Phong Khánh Bá. Năm Mậu thân 1728, ông mất thọ 72 tuổi. Ông là thân phụ của Trúc Viên cư sĩ Bùi Dụng Tân và là nội tổ Bùi Huy Bích. Tác phẩm của ông còn bộ Thanh Trì Bùi thị gia phả do Bùi Huy Bích đề tựa."
 }

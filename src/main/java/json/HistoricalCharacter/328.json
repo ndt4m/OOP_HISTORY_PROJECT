@@ -1,20 +1,25 @@
 {
-  "dateOfBirth" : "10 tháng 8, 941\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "1005 (63–64 tuổi) Hoa Lư, Đại Cồ Việt\n----------------------------------------------\nKhông rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đại Cồ Việt\n----------------------------------------------\nVua",
-  "workTenure" : "980 – 1005\n----------------------------------------------\n980—1005",
-  "fatherName" : {
-    "Lê Mịch" : null
+  "dateOfBirth": "10 tháng 8, 941\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath": "1005 (63–64 tuổi) Hoa Lư, Đại Cồ Việt\n----------------------------------------------\nKhông rõ",
+  "hometown": "Không rõ",
+  "occupation": "Hoàng đế Đại Cồ Việt\n----------------------------------------------\nVua",
+  "workTenure": "980 – 1005\n----------------------------------------------\n980—1005",
+  "fatherName": {
+    "Lê Mịch": null
   },
-  "motherName" : {
-    "Đặng Thị" : null
+  "motherName": {
+    "Đặng Thị": null
   },
-  "eraName" : {
-    "Nhà Tiền Lê" : 8
+  "eraName": {
+    "Nhà Tiền Lê": 8
   },
-  "id" : 328,
-  "entityName" : "Lê Đại Hành",
-  "aliases" : [ "Lê Hoàn (黎桓)", "Hoàn", "Minh Càn Quảng Hiếu Hoàng Đế (明乾廣孝皇帝)", "Niên hiệu Thiên Phúc (天福: 980 - 988) Hưng Thống (興統: 989 - 993) Ứng Thiên (應天: 994 - 1005)" ],
-  "overview" : "Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi.\n----------------------------------------------\nLê Đại Hành (941-1005) là vị Hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt trong 24 năm. Ông là 1 trong 14 vị anh hùng tiêu biểu của dân tộc Việt Nam."
+  "id": 328,
+  "entityName": "Lê Đại Hành",
+  "aliases": [
+    "Lê Hoàn (黎桓)",
+    "Hoàn",
+    "Minh Càn Quảng Hiếu Hoàng Đế (明乾廣孝皇帝)",
+    "Niên hiệu Thiên Phúc (天福: 980 - 988) Hưng Thống (興統: 989 - 993) Ứng Thiên (應天: 994 - 1005)"
+  ],
+  "overview": "Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi.\n----------------------------------------------\nLê Đại Hành (941-1005) là vị Hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt trong 24 năm. Ông là 1 trong 14 vị anh hùng tiêu biểu của dân tộc Việt Nam."
 }

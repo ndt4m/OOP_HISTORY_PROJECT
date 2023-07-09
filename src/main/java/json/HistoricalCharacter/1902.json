@@ -1,20 +1,22 @@
 {
-  "dateOfBirth" : "18 tháng 2, 259 TCN Hàm Đan",
-  "dateOfDeath" : "11 tháng 7, 210 TCN Cự Lộc quận (鉅鹿郡)",
-  "hometown" : "Không rõ",
-  "occupation" : "Vua nước Tần",
-  "workTenure" : "7 tháng 6 năm 247 TCN – 221 TCN",
-  "fatherName" : {
-    "Tần Trang Tương vương Lã Bất Vi (nghi vấn)" : null
+  "dateOfBirth": "18 tháng 2, 259 TCN Hàm Đan",
+  "dateOfDeath": "11 tháng 7, 210 TCN Cự Lộc quận (鉅鹿郡)",
+  "hometown": "Không rõ",
+  "occupation": "Vua nước Tần",
+  "workTenure": "7 tháng 6 năm 247 TCN – 221 TCN",
+  "fatherName": {
+    "Tần Trang Tương vương Lã Bất Vi (nghi vấn)": null
   },
-  "motherName" : {
-    "Triệu Cơ" : null
+  "motherName": {
+    "Triệu Cơ": null
   },
-  "eraName" : {
-    "Nhà Tần" : null
+  "eraName": {
+    "Nhà Tần": null
   },
-  "id" : 1902,
-  "entityName" : "Tần Thủy Hoàng Đế",
-  "aliases" : [ "Thủy Hoàng Đế (始皇帝)" ],
-  "overview" : ""
+  "id": 1902,
+  "entityName": "Tần Thủy Hoàng Đế",
+  "aliases": [
+    "Thủy Hoàng Đế (始皇帝)"
+  ],
+  "overview": ""
 }

@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "25",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 2839,
-  "entityName" : "Lý Tùng",
-  "aliases" : [ ],
-  "overview" : "Lý Tùng (chữ Hán: 李松, ? – 25), người huyện Uyển, quận Nam Dương , là tướng khởi nghĩa Lục Lâm cuối đời Tân, đầu đời Đông Hán trong lịch sử Trung Quốc."
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "25",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 2839,
+  "entityName": "Lý Tùng",
+  "aliases": [],
+  "overview": "Lý Tùng (chữ Hán: 李松, ? – 25), người huyện Uyển, quận Nam Dương , là tướng khởi nghĩa Lục Lâm cuối đời Tân, đầu đời Đông Hán trong lịch sử Trung Quốc."
 }

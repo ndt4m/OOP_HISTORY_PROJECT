@@ -1,14 +1,17 @@
 {
-  "dateOfBirth" : "1525",
-  "dateOfDeath" : "1582 (57 tuổi)",
-  "hometown" : "Không rõ",
-  "occupation" : "Thủ phủ Nội các thứ 48 của nhà Minh",
-  "workTenure" : "1572-1582",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 2087,
-  "entityName" : "Trương Cư Chính",
-  "aliases" : [ "Thái Nhạc", "Thúc Đại" ],
-  "overview" : "Trương Cư Chính (giản thể: 张居正; phồn thể: 張居正; bính âm: Zhāng Jūzhèng, còn được phiên âm là Chang Chü-cheng, 1525-1582), tự Thúc Đại (叔大), hiệu Thái Nhạc (太岳), là một nhà chính trị và học giả Trung Quốc thời nhà Minh. Là quan to dưới triều Minh Mục Tông, ông được giao trọng trách làm phụ chính đại thần cho Minh Thần Tông trong thời gian hoàng đế còn nhỏ tuổi. Trong giai đoạn này, Trương Cư Chính đã đưa ra nhiều biện phải cải cách sâu rộng về chính trị và kinh tế giúp cho triều đình nhà Minh phát triển cực thịnh. Tuy nhiên sau khi Trương Cử Chính qua đời năm 1582, phần lớn cải cách của ông đã bị Minh Thần tông xóa bỏ, danh tiếng của ông bị hủy hoại trong khi gia đình Trương Cư Chính bị hoàng đế ra lệnh tịch thu gia sản. Phải hơn nửa thế kỷ sau vị trí thực sự của Trương Cư Chính cũng được phục hồi, tuy nhiên khi đó nhà Minh đã bắt đầu suy sụp và không bao giờ còn đạt được trạng thái thịnh vượng như thời Trương Cư Chính là phụ chính."
+  "dateOfBirth": "1525",
+  "dateOfDeath": "1582 (57 tuổi)",
+  "hometown": "Không rõ",
+  "occupation": "Thủ phủ Nội các thứ 48 của nhà Minh",
+  "workTenure": "1572-1582",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 2087,
+  "entityName": "Trương Cư Chính",
+  "aliases": [
+    "Thái Nhạc",
+    "Thúc Đại"
+  ],
+  "overview": "Trương Cư Chính (giản thể: 张居正; phồn thể: 張居正; bính âm: Zhāng Jūzhèng, còn được phiên âm là Chang Chü-cheng, 1525-1582), tự Thúc Đại (叔大), hiệu Thái Nhạc (太岳), là một nhà chính trị và học giả Trung Quốc thời nhà Minh. Là quan to dưới triều Minh Mục Tông, ông được giao trọng trách làm phụ chính đại thần cho Minh Thần Tông trong thời gian hoàng đế còn nhỏ tuổi. Trong giai đoạn này, Trương Cư Chính đã đưa ra nhiều biện phải cải cách sâu rộng về chính trị và kinh tế giúp cho triều đình nhà Minh phát triển cực thịnh. Tuy nhiên sau khi Trương Cử Chính qua đời năm 1582, phần lớn cải cách của ông đã bị Minh Thần tông xóa bỏ, danh tiếng của ông bị hủy hoại trong khi gia đình Trương Cư Chính bị hoàng đế ra lệnh tịch thu gia sản. Phải hơn nửa thế kỷ sau vị trí thực sự của Trương Cư Chính cũng được phục hồi, tuy nhiên khi đó nhà Minh đã bắt đầu suy sụp và không bao giờ còn đạt được trạng thái thịnh vượng như thời Trương Cư Chính là phụ chính."
 }

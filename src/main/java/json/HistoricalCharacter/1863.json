@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 1863,
-  "entityName" : "Trần Văn Thức",
-  "aliases" : [ ],
-  "overview" : "Trần Văn Thức (sinh 1952) là đại biểu Quốc hội Việt Nam khóa 12, thuộc đoàn đại biểu Bà Rịa - Vũng Tàu."
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 1863,
+  "entityName": "Trần Văn Thức",
+  "aliases": [],
+  "overview": "Trần Văn Thức (sinh 1952) là đại biểu Quốc hội Việt Nam khóa 12, thuộc đoàn đại biểu Bà Rịa - Vũng Tàu."
 }

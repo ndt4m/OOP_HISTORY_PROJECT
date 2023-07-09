@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Mậu Tí 1228",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê xã Hoành Bồ, huyện Hoành Sơn",
-  "occupation" : "Đại thần, đời Trần Thái Tông, quê xã Hoành Bồ, huyện Hoành Sơn",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Trần" : 15
+  "dateOfBirth": "Mậu Tí 1228",
+  "dateOfDeath": "Không rõ",
+  "hometown": "quê xã Hoành Bồ, huyện Hoành Sơn",
+  "occupation": "Đại thần, đời Trần Thái Tông, quê xã Hoành Bồ, huyện Hoành Sơn",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Trần": 15
   },
-  "id" : 779,
-  "entityName" : "Trương Xán",
-  "aliases" : [ "Châu Bố Chánh" ],
-  "overview" : "Năm Bính thìn (29 tuổi) ông đỗ Trạng nguyên Trại khoa khi Bính thìn niên hiệu Nguyên phong thứ 6 đời Trần Thái Tông. Làm quan đến chức Thị lang hàm Tự Khanh và mất năm nào không rõ."
+  "id": 779,
+  "entityName": "Trương Xán",
+  "aliases": [
+    "Châu Bố Chánh"
+  ],
+  "overview": "Năm Bính thìn (29 tuổi) ông đỗ Trạng nguyên Trại khoa khi Bính thìn niên hiệu Nguyên phong thứ 6 đời Trần Thái Tông. Làm quan đến chức Thị lang hàm Tự Khanh và mất năm nào không rõ."
 }

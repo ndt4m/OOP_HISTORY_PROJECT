@@ -1,18 +1,21 @@
 {
-  "dateOfBirth" : "sinh năm 1380\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê làng Vân Khê, huyện Đông sơn trấn Thanh Hóa (nay thuộc tỉnh Thanh Hóa)",
-  "occupation" : "Danh sĩ cuối đời Hồ, đầu đời Lê, không rõ năm sinh, năm mất",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Hậu Trần" : null,
-    "Thuộc Minh" : 33,
-    "Nhà Hồ" : 9
+  "dateOfBirth": "sinh năm 1380\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "quê làng Vân Khê, huyện Đông sơn trấn Thanh Hóa (nay thuộc tỉnh Thanh Hóa)",
+  "occupation": "Danh sĩ cuối đời Hồ, đầu đời Lê, không rõ năm sinh, năm mất",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Hậu Trần": null,
+    "Thuộc Minh": 33,
+    "Nhà Hồ": 9
   },
-  "id" : 727,
-  "entityName" : "Nguyễn Mộng Tuân",
-  "aliases" : [ "Cúc Pha", "Văn Nhược" ],
-  "overview" : "Nguyễn Mộng Tuân (阮夢荀, sinh năm 1380 ) là một Khai quốc công thần, đồng thời cũng là một danh sĩ đã có nhiều đóng góp vào phát triển của Nho giáo thời Lê sơ.\n----------------------------------------------\nNăm Canh thìn 1400 ông đỗ Thái học sinh cùng khoa với Vũ Mộng Nguyên. Giặc Minh xâm lược, ông lui về ở ẩn. Khi Lê Lợi khởi nghĩa, ông tìm đến Lam Sơn yết kiến tham gia kháng chiến chống ngoại xâm. Đời Lê Thái tông, ông làm Trung thư lệnh, rồi Đô úy, đến đời Nhân tông, làm Tả nạp ngôn, Tri quân dân Bắc đạo, rồi được vinh phong Vĩnh lộc đại phu. Ông nổi tiếng văn chương, có tiết tháo của bậc cao sĩ. Thơ văn còn được ghi chép trong: Quần hiền phú do Hoàng Tụy Phu biên tuyển gồm nhiều bài phú nổi tiếng của các danh sĩ đương thời có 41 bài phú của ông Các bộ: Việt âm thi tập, Tinh tuyển chư gia thi tập, Toàn Việt thi lục đều có sao lục thơ ông gồm 143 bài. Ngoài ra, ông còn là tác giả cuốn Cúc Pha thi tập. Tập này gồm hơn 100 bài thơ đều là thất ngôn cận thể do ông sáng tác. Trước đây một số tác gia lầm cho rằng Nguyễn Mộng Tuân tức là Vũ Mộng Nguyên nên gán Cúc Pha thi tập là của Vũ Mộng Nguyên. Thật sự hai nhân vật này sinh trường cùng thời đại, cùng thi đậu Thái học sinh (Tiến sĩ) một khoa nên có người đã lầm như trên."
+  "id": 727,
+  "entityName": "Nguyễn Mộng Tuân",
+  "aliases": [
+    "Cúc Pha",
+    "Văn Nhược"
+  ],
+  "overview": "Nguyễn Mộng Tuân (阮夢荀, sinh năm 1380 ) là một Khai quốc công thần, đồng thời cũng là một danh sĩ đã có nhiều đóng góp vào phát triển của Nho giáo thời Lê sơ.\n----------------------------------------------\nNăm Canh thìn 1400 ông đỗ Thái học sinh cùng khoa với Vũ Mộng Nguyên. Giặc Minh xâm lược, ông lui về ở ẩn. Khi Lê Lợi khởi nghĩa, ông tìm đến Lam Sơn yết kiến tham gia kháng chiến chống ngoại xâm. Đời Lê Thái tông, ông làm Trung thư lệnh, rồi Đô úy, đến đời Nhân tông, làm Tả nạp ngôn, Tri quân dân Bắc đạo, rồi được vinh phong Vĩnh lộc đại phu. Ông nổi tiếng văn chương, có tiết tháo của bậc cao sĩ. Thơ văn còn được ghi chép trong: Quần hiền phú do Hoàng Tụy Phu biên tuyển gồm nhiều bài phú nổi tiếng của các danh sĩ đương thời có 41 bài phú của ông Các bộ: Việt âm thi tập, Tinh tuyển chư gia thi tập, Toàn Việt thi lục đều có sao lục thơ ông gồm 143 bài. Ngoài ra, ông còn là tác giả cuốn Cúc Pha thi tập. Tập này gồm hơn 100 bài thơ đều là thất ngôn cận thể do ông sáng tác. Trước đây một số tác gia lầm cho rằng Nguyễn Mộng Tuân tức là Vũ Mộng Nguyên nên gán Cúc Pha thi tập là của Vũ Mộng Nguyên. Thật sự hai nhân vật này sinh trường cùng thời đại, cùng thi đậu Thái học sinh (Tiến sĩ) một khoa nên có người đã lầm như trên."
 }

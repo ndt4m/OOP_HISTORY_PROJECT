@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "894",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 2645,
-  "entityName" : "Dương Phục Cung",
-  "aliases" : [ "Tử Khác" ],
-  "overview" : "Dương Phục Cung (giản thể: 杨复恭; phồn thể: 楊復恭, ? - 894), tên tự Tử Khác (子恪), là một hoạn quan nhà Đường. Ông đóng vai trò chủ chốt trong triều đình của Đường Hy Tông và Đường Chiêu Tông. Sau đó ông bị Đường Chiêu Tông nghi ngờ chiếm đoạt quyền lực nên bị loại bỏ, vì thế ông quay sang khuyến khích con nuôi và cháu nuôi của mình cùng nổi dậy chống triều đình. Tuy nhiên, họ đã bị tướng Lý Mậu Trinh đánh bại, rồi bị bắt giữ trong lúc chạy trốn, cuối cùng bị hành hình tại Trường An."
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "894",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 2645,
+  "entityName": "Dương Phục Cung",
+  "aliases": [
+    "Tử Khác"
+  ],
+  "overview": "Dương Phục Cung (giản thể: 杨复恭; phồn thể: 楊復恭, ? - 894), tên tự Tử Khác (子恪), là một hoạn quan nhà Đường. Ông đóng vai trò chủ chốt trong triều đình của Đường Hy Tông và Đường Chiêu Tông. Sau đó ông bị Đường Chiêu Tông nghi ngờ chiếm đoạt quyền lực nên bị loại bỏ, vì thế ông quay sang khuyến khích con nuôi và cháu nuôi của mình cùng nổi dậy chống triều đình. Tuy nhiên, họ đã bị tướng Lý Mậu Trinh đánh bại, rồi bị bắt giữ trong lúc chạy trốn, cuối cùng bị hành hình tại Trường An."
 }

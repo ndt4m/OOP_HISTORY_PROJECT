@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "1910 Hải Phòng, Liên bang Đông Dương",
-  "dateOfDeath" : "17 tháng 3 năm 1945 Yên Bái, Đế quốc Việt Nam",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 1748,
-  "entityName" : "Đinh Nhu",
-  "aliases" : [ ],
-  "overview" : "Đinh Nhu (1910 - 1945) là một nhạc sĩ người Việt Nam, tác giả bài Cùng nhau đi Hồng binh, nhạc phẩm được coi là bài hát đầu tiên của tân nhạc cách mạng Việt Nam ."
+  "dateOfBirth": "1910 Hải Phòng, Liên bang Đông Dương",
+  "dateOfDeath": "17 tháng 3 năm 1945 Yên Bái, Đế quốc Việt Nam",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 1748,
+  "entityName": "Đinh Nhu",
+  "aliases": [],
+  "overview": "Đinh Nhu (1910 - 1945) là một nhạc sĩ người Việt Nam, tác giả bài Cùng nhau đi Hồng binh, nhạc phẩm được coi là bài hát đầu tiên của tân nhạc cách mạng Việt Nam ."
 }

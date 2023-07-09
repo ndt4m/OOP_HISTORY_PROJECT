@@ -1,16 +1,20 @@
 {
-  "dateOfBirth" : "Quí Hợi 1863",
-  "dateOfDeath" : "Bính Thìn 1916",
-  "hometown" : "Quê thôn Hổ Tiếu, xã Tư Nguyên, huyện Tư Nghĩa, tỉnh Quảng Ngãi",
-  "occupation" : "Liệt sĩ cận đại",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "Quí Hợi 1863",
+  "dateOfDeath": "Bính Thìn 1916",
+  "hometown": "Quê thôn Hổ Tiếu, xã Tư Nguyên, huyện Tư Nghĩa, tỉnh Quảng Ngãi",
+  "occupation": "Liệt sĩ cận đại",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 158,
-  "entityName" : "Nguyễn Sụy",
-  "aliases" : [ "Nguyễn Thụy", "Hổ Tiếu", "Hổ Khê" ],
-  "overview" : "Ông xuất thân trong một gia đình Nho học yêu nước, năm Quí mão 1903 đậu cử nhân tại trường thi Bình Định, nhưng không ra làm quan. Ông là người học rộng, giao thiệp nhiều, trực tiếp lãnh đạo phong trào Duy tân tại Quảng Ngãi cùng với Phạm Cao Chẩm, Nguyễn Tuyên, Lê Khiết. Ông là tác giả nhiều thơ ca yêu nước, cổ động duy tân tự cường tại Quảng Ngãi. Đầu năm 1908 phong trào lên mạnh với cuộc biểu tình khắp nơi từ Thanh Hóa đến Bình Thuận. Riêng tại Quảng Ngãi và Quảng Nam phong trào lên rất cao, nhân dân tập trung bao vây các công sở và nhà riêng của những người có nợ máu với nhân dân. Thực dân và tay sai Nam triều khủng bố trắng, chúng đưa đi chém, đi đày một số các nhà lãnh đạo. Ông bị bắt đày Côn Đảo năm 1908. Năm 1913 ông được trả tự do, sống ẩn ở quê một thời gian, năm 1915 ông liên lạc với Trần Cao Vân, Thái Phiên, tham gia Việt Nam Quang phục hội, rồi tổ chức cuộc khởi nghĩa do vua Duy Tân đứng đầu vào năm 1916. Cuộc khởi nghĩa thất bại, ông và các đồng chí bị bắt. Các lãnh tụ Trần Cao Vân, Thái Phiên bị chém ở Huế. Ông và Lê Ngung, Nguyễn Tuyên, Phạm Cao Chẩm bị bắt tịch thu gia sản. Lê Ngung và ông tự sát bằng thuốc độc trong khám đường, nhưng sau đó thực dân vẫn thi hành bản án \"lục thi trảm niệu\" (chết rồi vẫn đem thi hài ra chém). Chúng chém thi hài ông rồi đem bêu đầu ở làng Cam Lộ, tỉnh Quảng Ngãi. Cảm về cái chết quang vinh, bi thiết ấy Huỳnh Thúc Kháng khóc ông: \"Phong lôi trập phục đế tinh trầm, Hải khiếu sơn đề hổ báo câm, Nhứt phó đầu lô mãn xan huyết. Niên niên Trà tấn nộ triều âm.\" Bản dịch: Sao chìm dông lặng cảnh buồn teo, Núi khóc dông rền vắng cọp beo. Một thớt đầu lô đầy bụng huyết, Bến Trà cơn giận sóng còn reo."
+  "id": 158,
+  "entityName": "Nguyễn Sụy",
+  "aliases": [
+    "Nguyễn Thụy",
+    "Hổ Tiếu",
+    "Hổ Khê"
+  ],
+  "overview": "Ông xuất thân trong một gia đình Nho học yêu nước, năm Quí mão 1903 đậu cử nhân tại trường thi Bình Định, nhưng không ra làm quan. Ông là người học rộng, giao thiệp nhiều, trực tiếp lãnh đạo phong trào Duy tân tại Quảng Ngãi cùng với Phạm Cao Chẩm, Nguyễn Tuyên, Lê Khiết. Ông là tác giả nhiều thơ ca yêu nước, cổ động duy tân tự cường tại Quảng Ngãi. Đầu năm 1908 phong trào lên mạnh với cuộc biểu tình khắp nơi từ Thanh Hóa đến Bình Thuận. Riêng tại Quảng Ngãi và Quảng Nam phong trào lên rất cao, nhân dân tập trung bao vây các công sở và nhà riêng của những người có nợ máu với nhân dân. Thực dân và tay sai Nam triều khủng bố trắng, chúng đưa đi chém, đi đày một số các nhà lãnh đạo. Ông bị bắt đày Côn Đảo năm 1908. Năm 1913 ông được trả tự do, sống ẩn ở quê một thời gian, năm 1915 ông liên lạc với Trần Cao Vân, Thái Phiên, tham gia Việt Nam Quang phục hội, rồi tổ chức cuộc khởi nghĩa do vua Duy Tân đứng đầu vào năm 1916. Cuộc khởi nghĩa thất bại, ông và các đồng chí bị bắt. Các lãnh tụ Trần Cao Vân, Thái Phiên bị chém ở Huế. Ông và Lê Ngung, Nguyễn Tuyên, Phạm Cao Chẩm bị bắt tịch thu gia sản. Lê Ngung và ông tự sát bằng thuốc độc trong khám đường, nhưng sau đó thực dân vẫn thi hành bản án \"lục thi trảm niệu\" (chết rồi vẫn đem thi hài ra chém). Chúng chém thi hài ông rồi đem bêu đầu ở làng Cam Lộ, tỉnh Quảng Ngãi. Cảm về cái chết quang vinh, bi thiết ấy Huỳnh Thúc Kháng khóc ông: \"Phong lôi trập phục đế tinh trầm, Hải khiếu sơn đề hổ báo câm, Nhứt phó đầu lô mãn xan huyết. Niên niên Trà tấn nộ triều âm.\" Bản dịch: Sao chìm dông lặng cảnh buồn teo, Núi khóc dông rền vắng cọp beo. Một thớt đầu lô đầy bụng huyết, Bến Trà cơn giận sóng còn reo."
 }

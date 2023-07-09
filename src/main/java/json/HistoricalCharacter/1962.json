@@ -1,20 +1,22 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "1407\n----------------------------------------------\nKhông rõ\n----------------------------------------------\nKhông rõ",
-  "hometown" : "Thanh Hóa\n----------------------------------------------\nKhông rõ",
-  "occupation" : "Hoàng đế Đại Ngu\n----------------------------------------------\nVua, con thứ của Hồ Quí Ly, em Hồ Nguyên Trừng\n----------------------------------------------\nVua",
-  "workTenure" : "1401 - 1407\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1400—1407",
-  "fatherName" : {
-    "Hồ Quý Ly" : 2439
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "1407\n----------------------------------------------\nKhông rõ\n----------------------------------------------\nKhông rõ",
+  "hometown": "Thanh Hóa\n----------------------------------------------\nKhông rõ",
+  "occupation": "Hoàng đế Đại Ngu\n----------------------------------------------\nVua, con thứ của Hồ Quí Ly, em Hồ Nguyên Trừng\n----------------------------------------------\nVua",
+  "workTenure": "1401 - 1407\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1400—1407",
+  "fatherName": {
+    "Hồ Quý Ly": 2723
   },
-  "motherName" : {
-    "Công chúa Huy Ninh" : null
+  "motherName": {
+    "Công chúa Huy Ninh": null
   },
-  "eraName" : {
-    "Nhà Hồ" : 9
+  "eraName": {
+    "Nhà Hồ": 9
   },
-  "id" : 1962,
-  "entityName" : "Hồ Hán Thương",
-  "aliases" : [ "Thiệu Thành (1401 - 1402) Khai Đại (1403 - 1407)" ],
-  "overview" : "Hồ Hán Thương (? - 1407), là hoàng đế thứ hai và cũng là cuối cùng của nhà Hồ, cai trị nước Đại Ngu từ năm 1401 đến 1407.\n----------------------------------------------\nCanh thìn 1400, tháng 2, Hồ Quí Ly lật đổ Trần Thiếu Đế, tự lập làm vua. Quí Ly muốn lập Hán Thương làm Thái tử nhưng chưa quyết định hẳn, bèn ra câu đối để xem chí khí của hai người con. Quí Ly trỏ vào nghiên mực, đọc: \"Thử nhất quyền kì thạch, hữu thời vi vân vi vũ dĩ nhuận sinh dân\" (Phiến đá kì lạ này, có lúc làm mây làm mưa để làm tươi mát cho sinh dân). Con cả là Hồ Nguyên Trừng biết ý cha, đối lại với dụng ý khuyên hãy lập Hán Thương, còn mình thì chỉ đáng là người giúp việc. Nguyên Trừng đọc: \"Giá tam thốn tiểu tùng, tha nhật tác đống tác lương kham phù xã tắc\" (Ba tấc gỗ thông đây, một ngày kia sẽ làm rường làm cột giúp xã tắc). Do đó Hán Thương được lập làm Thái tử. Cuối năm ấy (1400), Quí Ly nhường ngôi cho Hán Thương để làm Thái Thượng hoàng. Vừa lên ngôi, ông sai sứ sang cống nhà Minh và xin phong. Dù thế, ông vẫn ngầm chống đối nhà Minh; mặt khác lo sửa sang việc nội trị nhằm đương đầu với các phe nhóm không phục tùng. Đinh hợi 1407, ngày 12-5 Âm lịch, ông và cha, anh của ông đều sa vào tay giặc Minh ở cửa biển Kì La. Giặc Minh giải cha con ông về Kim Lăng. Con ông là Hồ Nhuế cùng chung số phận. Sau đó, ông và cha bị giặc giết, chỉ còn anh và con ông được chúng thu dụng. Ông ở ngôi được 6 năm, đổi niên hiệu hai lần: - Thiệu Thánh: 1401-1402 - Khai Đại: 1403-1407\n----------------------------------------------\nHồ Hán Thương (chữ Hán: 胡漢蒼 1375 – 1407), Minh thực lục và Minh sử ghi Hồ Đê (胡\uD845\uDDE8), là hoàng đế thứ hai và cũng là cuối cùng của nhà Hồ, từ năm 1401 đến khi bị nhà Minh đánh bại vào năm 1407. Ông bị giải về Kim Lăng (Trung Quốc) rồi bị giết."
+  "id": 1962,
+  "entityName": "Hồ Hán Thương",
+  "aliases": [
+    "Thiệu Thành (1401 - 1402) Khai Đại (1403 - 1407)"
+  ],
+  "overview": "Hồ Hán Thương (? - 1407), là hoàng đế thứ hai và cũng là cuối cùng của nhà Hồ, cai trị nước Đại Ngu từ năm 1401 đến 1407.\n----------------------------------------------\nCanh thìn 1400, tháng 2, Hồ Quí Ly lật đổ Trần Thiếu Đế, tự lập làm vua. Quí Ly muốn lập Hán Thương làm Thái tử nhưng chưa quyết định hẳn, bèn ra câu đối để xem chí khí của hai người con. Quí Ly trỏ vào nghiên mực, đọc: \"Thử nhất quyền kì thạch, hữu thời vi vân vi vũ dĩ nhuận sinh dân\" (Phiến đá kì lạ này, có lúc làm mây làm mưa để làm tươi mát cho sinh dân). Con cả là Hồ Nguyên Trừng biết ý cha, đối lại với dụng ý khuyên hãy lập Hán Thương, còn mình thì chỉ đáng là người giúp việc. Nguyên Trừng đọc: \"Giá tam thốn tiểu tùng, tha nhật tác đống tác lương kham phù xã tắc\" (Ba tấc gỗ thông đây, một ngày kia sẽ làm rường làm cột giúp xã tắc). Do đó Hán Thương được lập làm Thái tử. Cuối năm ấy (1400), Quí Ly nhường ngôi cho Hán Thương để làm Thái Thượng hoàng. Vừa lên ngôi, ông sai sứ sang cống nhà Minh và xin phong. Dù thế, ông vẫn ngầm chống đối nhà Minh; mặt khác lo sửa sang việc nội trị nhằm đương đầu với các phe nhóm không phục tùng. Đinh hợi 1407, ngày 12-5 Âm lịch, ông và cha, anh của ông đều sa vào tay giặc Minh ở cửa biển Kì La. Giặc Minh giải cha con ông về Kim Lăng. Con ông là Hồ Nhuế cùng chung số phận. Sau đó, ông và cha bị giặc giết, chỉ còn anh và con ông được chúng thu dụng. Ông ở ngôi được 6 năm, đổi niên hiệu hai lần: - Thiệu Thánh: 1401-1402 - Khai Đại: 1403-1407\n----------------------------------------------\nHồ Hán Thương (chữ Hán: 胡漢蒼 1375 – 1407), Minh thực lục và Minh sử ghi Hồ Đê (胡𡗨), là hoàng đế thứ hai và cũng là cuối cùng của nhà Hồ, từ năm 1401 đến khi bị nhà Minh đánh bại vào năm 1407. Ông bị giải về Kim Lăng (Trung Quốc) rồi bị giết."
 }

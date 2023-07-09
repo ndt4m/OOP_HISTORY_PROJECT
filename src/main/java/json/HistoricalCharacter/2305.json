@@ -1,21 +1,27 @@
 {
-  "dateOfBirth" : "22 tháng 11 năm 1336\n----------------------------------------------\nBính Tí 1336\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "25 tháng 5, 1369 (32 tuổi) Quang Triều cung, Thăng Long\n----------------------------------------------\nKỉ Dậu 1369\n----------------------------------------------\nKhông rõ",
-  "hometown" : "quê ở làng Tức Mặc\n----------------------------------------------\nKhông rõ",
-  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua nhà Trần\n----------------------------------------------\nVua",
-  "workTenure" : "1341 - 1369\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1341—1369",
-  "fatherName" : {
-    "Trần Minh Tông" : 2061,
-    "Trần Minh tông" : null
+  "dateOfBirth": "22 tháng 11 năm 1336\n----------------------------------------------\nBính Tí 1336\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath": "25 tháng 5, 1369 (32 tuổi) Quang Triều cung, Thăng Long\n----------------------------------------------\nKỉ Dậu 1369\n----------------------------------------------\nKhông rõ",
+  "hometown": "quê ở làng Tức Mặc\n----------------------------------------------\nKhông rõ",
+  "occupation": "Hoàng đế Đại Việt\n----------------------------------------------\nVua nhà Trần\n----------------------------------------------\nVua",
+  "workTenure": "1341 - 1369\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1341—1369",
+  "fatherName": {
+    "Trần Minh Tông": 330,
+    "Trần Minh tông": null
   },
-  "motherName" : {
-    "Hiến Từ hoàng hậu" : null
+  "motherName": {
+    "Hiến Từ hoàng hậu": null
   },
-  "eraName" : {
-    "Nhà Trần" : 15
+  "eraName": {
+    "Nhà Trần": 15
   },
-  "id" : 2305,
-  "entityName" : "Trần Dụ Tông",
-  "aliases" : [ "Thống Thiên Thể Đạo Nhân Minh Quang Hiếu Hoàng đế (統天體道仁明光孝皇帝)", "Trần Hạo (陳暭)", "Trần Dụ Tông", "Dụ Tông (裕宗)", "Thiệu Phong (紹豐; 1341 - 1357) Đại Trị (大治; 1358 - 1369)" ],
-  "overview" : "Trần Dụ Tông (chữ Hán: 陳裕宗; 22 tháng 11, 1336 – 25 tháng 5, 1369), là vị hoàng đế thứ 7 của Triều đại nhà Trần trong lịch sử Việt Nam, cai trị 28 năm, từ năm 1341 đến năm 1369.\n----------------------------------------------\n- Thiệu Phong 1341-1357. - Đại Trị 1358-1369. Trong những năm ông trị nước, mất mùa xảy ra liên tiếp, chính trị đổ nát nhân dân nhiều nơi nổi lên chống lại triều đình. Nhà Trần bắt đầu suy sụp từ đó. Năm Kỉ dậu 1369 ông mất, hưởng dương 33 tuổi. Ông có soạn bộ Trần triều đại điển Bài Thư hoài của ông tỏ chí: \"Đường Việt khai cơ lương Thái tông. Bi xưng Trinh Quán, ngã Nguyên Phong. Kiến Thành tu tử, An Sinh tại. Miếu hiệu tuy đồng, đức bất đồng.\" Bản dịch: Đường, Việt hai vua hiệu Thái tông, Đường xưng Trinh Quán, Việt: Nguyên Phong. Kiến Thành bị giết, An Sinh sống. Miếu hiệu tuy đồng, đức chẳng đồng. Bộ Trần triều đại điển (10 quyển) do ông soạn, rồi sai Trương Hán Siêu Nguyễn Trung Ngạn hiệu chỉnh, biên tập. Tên Trần triều đại điển hay còn gọi là Hoàng triều đại điển có ghi trong sách Kiến văn tiểu lục của Lê Quí Đôn, sách này được biên soạn cùng thời điểm với sách Hình luật thư (cùng 2 tác giả trên). Nội dung sách là những điển mô, văn thơ, sắc dụ... của các vua nhà Trần.\n----------------------------------------------\nTrần Dụ Tông (chữ Hán: 陳裕宗) 22 tháng 11 năm 1336 – 25 tháng 5 năm 1369) là vị hoàng đế thứ 7 của triều đại nhà Trần nước Đại Việt, ở ngôi 28 năm từ năm 1341 đến năm 1369."
+  "id": 2305,
+  "entityName": "Trần Dụ Tông",
+  "aliases": [
+    "Thống Thiên Thể Đạo Nhân Minh Quang Hiếu Hoàng đế (統天體道仁明光孝皇帝)",
+    "Trần Hạo (陳暭)",
+    "Trần Dụ Tông",
+    "Dụ Tông (裕宗)",
+    "Thiệu Phong (紹豐; 1341 - 1357) Đại Trị (大治; 1358 - 1369)"
+  ],
+  "overview": "Trần Dụ Tông (chữ Hán: 陳裕宗; 22 tháng 11, 1336 – 25 tháng 5, 1369), là vị hoàng đế thứ 7 của Triều đại nhà Trần trong lịch sử Việt Nam, cai trị 28 năm, từ năm 1341 đến năm 1369.\n----------------------------------------------\n- Thiệu Phong 1341-1357. - Đại Trị 1358-1369. Trong những năm ông trị nước, mất mùa xảy ra liên tiếp, chính trị đổ nát nhân dân nhiều nơi nổi lên chống lại triều đình. Nhà Trần bắt đầu suy sụp từ đó. Năm Kỉ dậu 1369 ông mất, hưởng dương 33 tuổi. Ông có soạn bộ Trần triều đại điển Bài Thư hoài của ông tỏ chí: \"Đường Việt khai cơ lương Thái tông. Bi xưng Trinh Quán, ngã Nguyên Phong. Kiến Thành tu tử, An Sinh tại. Miếu hiệu tuy đồng, đức bất đồng.\" Bản dịch: Đường, Việt hai vua hiệu Thái tông, Đường xưng Trinh Quán, Việt: Nguyên Phong. Kiến Thành bị giết, An Sinh sống. Miếu hiệu tuy đồng, đức chẳng đồng. Bộ Trần triều đại điển (10 quyển) do ông soạn, rồi sai Trương Hán Siêu Nguyễn Trung Ngạn hiệu chỉnh, biên tập. Tên Trần triều đại điển hay còn gọi là Hoàng triều đại điển có ghi trong sách Kiến văn tiểu lục của Lê Quí Đôn, sách này được biên soạn cùng thời điểm với sách Hình luật thư (cùng 2 tác giả trên). Nội dung sách là những điển mô, văn thơ, sắc dụ... của các vua nhà Trần.\n----------------------------------------------\nTrần Dụ Tông (chữ Hán: 陳裕宗) 22 tháng 11 năm 1336 – 25 tháng 5 năm 1369) là vị hoàng đế thứ 7 của triều đại nhà Trần nước Đại Việt, ở ngôi 28 năm từ năm 1341 đến năm 1369."
 }

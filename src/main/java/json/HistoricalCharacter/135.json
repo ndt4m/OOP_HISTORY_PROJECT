@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "nhà Lý" : null
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "nhà Lý": null
   },
-  "id" : 135,
-  "entityName" : "Đỗ Anh Vũ",
-  "aliases" : [ ],
-  "overview" : "Đỗ Anh Vũ (chữ Hán: 杜英武, 1113 – 20 tháng 1, 1159 ), thường gọi Việt quốc Lý Thái úy (越國李太尉), là một vị đại thần rất có quyền thế trong thời đại nhà Lý của lịch sử Việt Nam. Ông phò tá Lý Thần Tông và làm phụ chính dưới triều Lý Anh Tông, khi vị Hoàng đế này lên ngôi lúc còn nhỏ tuổi."
+  "id": 135,
+  "entityName": "Đỗ Anh Vũ",
+  "aliases": [],
+  "overview": "Đỗ Anh Vũ (chữ Hán: 杜英武, 1113 – 20 tháng 1, 1159 ), thường gọi Việt quốc Lý Thái úy (越國李太尉), là một vị đại thần rất có quyền thế trong thời đại nhà Lý của lịch sử Việt Nam. Ông phò tá Lý Thần Tông và làm phụ chính dưới triều Lý Anh Tông, khi vị Hoàng đế này lên ngôi lúc còn nhỏ tuổi."
 }

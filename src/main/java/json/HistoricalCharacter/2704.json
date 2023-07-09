@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "sinh ngày 28 tháng 10 năm 1979",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 2704,
-  "entityName" : "Đinh Hoàng La",
-  "aliases" : [ "Mykola Oleksandrovych Lytovka" ],
-  "overview" : "Đinh Hoàng La, tên gốc là Mykola Oleksandrovych Lytovka (tiếng Ukraina: Микола Олександрович Литовка), sinh ngày 28 tháng 10 năm 1979 tại Kiev, Ukraina, là một cầu thủ bóng đá nhập quốc tịch Việt Nam. Anh đang chơi ở vị trí thủ môn, hiện đang khoác áo Becamex Bình Dương, đồng thời cũng từng là một tuyển thủ của đội tuyển Việt Nam. Đinh Hoàng La có buổi ra mắt đội tuyển quốc gia trong trận giao hữu với đội Olympiakos của Hy Lạp trên sân vận động quốc gia Mỹ Đình vào ngày 14/5/2009, được báo giới coi là thành công và nổi bật trong đội tuyển."
+  "dateOfBirth": "sinh ngày 28 tháng 10 năm 1979",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 2704,
+  "entityName": "Đinh Hoàng La",
+  "aliases": [
+    "Mykola Oleksandrovych Lytovka"
+  ],
+  "overview": "Đinh Hoàng La, tên gốc là Mykola Oleksandrovych Lytovka (tiếng Ukraina: Микола Олександрович Литовка), sinh ngày 28 tháng 10 năm 1979 tại Kiev, Ukraina, là một cầu thủ bóng đá nhập quốc tịch Việt Nam. Anh đang chơi ở vị trí thủ môn, hiện đang khoác áo Becamex Bình Dương, đồng thời cũng từng là một tuyển thủ của đội tuyển Việt Nam. Đinh Hoàng La có buổi ra mắt đội tuyển quốc gia trong trận giao hữu với đội Olympiakos của Hy Lạp trên sân vận động quốc gia Mỹ Đình vào ngày 14/5/2009, được báo giới coi là thành công và nổi bật trong đội tuyển."
 }

@@ -1,18 +1,18 @@
 {
-  "dateOfBirth" : "Đinh Dậu 1767",
-  "dateOfDeath" : "Quí Mùi 1823",
-  "hometown" : "Bắc Ninh",
-  "occupation" : "Danh thần triều Nguyễn, em trai cùng mẹ với Nguyễn Du, con Xuân Quận Công Nguyễn Nghiễm và Trần Thị Tần. Ông được tập ẩm là Hoằng tín Đại phu Trung thành môn vệ úy.",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34,
-    "Nhà Tây Sơn" : 21,
-    "Nhà Nguyễn độc lập" : 30
+  "dateOfBirth": "Đinh Dậu 1767",
+  "dateOfDeath": "Quí Mùi 1823",
+  "hometown": "Bắc Ninh",
+  "occupation": "Danh thần triều Nguyễn, em trai cùng mẹ với Nguyễn Du, con Xuân Quận Công Nguyễn Nghiễm và Trần Thị Tần. Ông được tập ẩm là Hoằng tín Đại phu Trung thành môn vệ úy.",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34,
+    "Nhà Tây Sơn": 21,
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 789,
-  "entityName" : "Nguyễn Ức",
-  "aliases" : [ ],
-  "overview" : "Năm Kỉ dậu 1789 Lê Chiêu Thống chạy sang nhà Thanh, ông lui về ngụ ở quê vợ làng Phù Đổng, huyện Tiên Du, tỉnh Bắc Ninh. Năm Tân mùi 1811 vua Gia Long nghe tiến cử, gọi ông vào Kinh, bổ làm Thiệm sự bộ Công, tước Hầu. Đời Minh Mạng, Nhâm ngọ 1822 ông làm Giám đốc, coi việc Nội tào phủ, phàm các miếu điện xây dựng ở kinh thành đều tự tay ông sáng chế. Năm Quí mùi 1823 ông mất ở quê vợ, hưởng dương 56 tuổi."
+  "id": 789,
+  "entityName": "Nguyễn Ức",
+  "aliases": [],
+  "overview": "Năm Kỉ dậu 1789 Lê Chiêu Thống chạy sang nhà Thanh, ông lui về ngụ ở quê vợ làng Phù Đổng, huyện Tiên Du, tỉnh Bắc Ninh. Năm Tân mùi 1811 vua Gia Long nghe tiến cử, gọi ông vào Kinh, bổ làm Thiệm sự bộ Công, tước Hầu. Đời Minh Mạng, Nhâm ngọ 1822 ông làm Giám đốc, coi việc Nội tào phủ, phàm các miếu điện xây dựng ở kinh thành đều tự tay ông sáng chế. Năm Quí mùi 1823 ông mất ở quê vợ, hưởng dương 56 tuổi."
 }

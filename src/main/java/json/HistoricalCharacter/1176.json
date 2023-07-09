@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "xã Mạc Xá (Danh sách trạng nguyên chép là Lương Xá), huyện Chương Đức, phủ Ứng Thiên (nay là huyện Chương Mỹ, Hà Nội) sau chuyển sang ở xã Đan Khê, huyện Thanh Oai, phủ Ứng Thiên (nay là làng Đa Sĩ, phường Kiến Hưng, quận Hà Đông, thành phố Hà Nội) .\n----------------------------------------------\nquê làng Mạc Xá, huyện Chương Đức, tỉnh Hà Đông",
-  "occupation" : "Văn thần đời Lê Tương Dực",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "xã Mạc Xá (Danh sách trạng nguyên chép là Lương Xá), huyện Chương Đức, phủ Ứng Thiên (nay là huyện Chương Mỹ, Hà Nội) sau chuyển sang ở xã Đan Khê, huyện Thanh Oai, phủ Ứng Thiên (nay là làng Đa Sĩ, phường Kiến Hưng, quận Hà Đông, thành phố Hà Nội) .\n----------------------------------------------\nquê làng Mạc Xá, huyện Chương Đức, tỉnh Hà Đông",
+  "occupation": "Văn thần đời Lê Tương Dực",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34
   },
-  "id" : 1176,
-  "entityName" : "Hoàng Nghĩa Phú",
-  "aliases" : [ ],
-  "overview" : "Hoàng Nghĩa Phú (chữ Hán: 黃義富, 1479 hay 1480 - ?), người xã Mạc Xá (Danh sách trạng nguyên chép là Lương Xá), huyện Chương Đức, phủ Ứng Thiên (nay là huyện Chương Mỹ, Hà Nội) sau chuyển sang ở xã Đan Khê, huyện Thanh Oai, phủ Ứng Thiên (nay là làng Đa Sĩ, phường Kiến Hưng, quận Hà Đông, thành phố Hà Nội) .\n----------------------------------------------\nTrong nước loạn lạc, ông có công lo việc trị bình. Ông đỗ đầu nhất giáp tiến sĩ khoa Tân mùi 1511, làm đến Tham tri chính sự kiêm Ngự sử. Ông là thân phụ Hoàng Tế Mĩ, Hoàng Khắc Ninh đều là bậc hiền tài có danh tiếng đời Hậu Lê."
+  "id": 1176,
+  "entityName": "Hoàng Nghĩa Phú",
+  "aliases": [],
+  "overview": "Hoàng Nghĩa Phú (chữ Hán: 黃義富, 1479 hay 1480 - ?), người xã Mạc Xá (Danh sách trạng nguyên chép là Lương Xá), huyện Chương Đức, phủ Ứng Thiên (nay là huyện Chương Mỹ, Hà Nội) sau chuyển sang ở xã Đan Khê, huyện Thanh Oai, phủ Ứng Thiên (nay là làng Đa Sĩ, phường Kiến Hưng, quận Hà Đông, thành phố Hà Nội) .\n----------------------------------------------\nTrong nước loạn lạc, ông có công lo việc trị bình. Ông đỗ đầu nhất giáp tiến sĩ khoa Tân mùi 1511, làm đến Tham tri chính sự kiêm Ngự sử. Ông là thân phụ Hoàng Tế Mĩ, Hoàng Khắc Ninh đều là bậc hiền tài có danh tiếng đời Hậu Lê."
 }

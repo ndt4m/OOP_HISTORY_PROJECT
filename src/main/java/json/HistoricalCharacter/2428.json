@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Liệt sĩ đời Trần Nhân tông, trong cuộc kháng Nguyên công lao ông chẳng nhỏ.",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Trần" : 15
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Liệt sĩ đời Trần Nhân tông, trong cuộc kháng Nguyên công lao ông chẳng nhỏ.",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Trần": 15
   },
-  "id" : 2428,
-  "entityName" : "Đỗ Hành",
-  "aliases" : [ ],
-  "overview" : "Năm Mậu tí 1288, trong trận đánh ở Bạch Đằng giang, chính ông đã bắt được tướng Nguyên Ô Mã Nhi và Tích Lệ Cơ Ngọc. Khi kháng chiến thành công, định luận ban thưởng, ông được phong tước Nội Minh tử, sau thăng tước Quan Nội Hầu."
+  "id": 2428,
+  "entityName": "Đỗ Hành",
+  "aliases": [],
+  "overview": "Năm Mậu tí 1288, trong trận đánh ở Bạch Đằng giang, chính ông đã bắt được tướng Nguyên Ô Mã Nhi và Tích Lệ Cơ Ngọc. Khi kháng chiến thành công, định luận ban thưởng, ông được phong tước Nội Minh tử, sau thăng tước Quan Nội Hầu."
 }

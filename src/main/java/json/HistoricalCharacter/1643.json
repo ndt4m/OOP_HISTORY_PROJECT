@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 1643,
-  "entityName" : "Triệu Vân",
-  "aliases" : [ "Tử Long" ],
-  "overview" : "Triệu Vân (chữ Hán: 趙雲, bính âm: Zhao Yun. 168?-229 ), tên tự là Tử Long (子龍), người vùng Thường Sơn, là danh tướng thời kỳ cuối nhà Đông Hán và thời Tam Quốc ở trong lịch sử Trung Quốc. Ông là người đã góp công lớn vào việc thành lập nhà Thục Hán. Ông cũng được Lưu Bị xem như \"người anh em thứ tư\" tiếp theo trong 3 anh em kết nghĩa tại vườn đào."
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 1643,
+  "entityName": "Triệu Vân",
+  "aliases": [
+    "Tử Long"
+  ],
+  "overview": "Triệu Vân (chữ Hán: 趙雲, bính âm: Zhao Yun. 168?-229 ), tên tự là Tử Long (子龍), người vùng Thường Sơn, là danh tướng thời kỳ cuối nhà Đông Hán và thời Tam Quốc ở trong lịch sử Trung Quốc. Ông là người đã góp công lớn vào việc thành lập nhà Thục Hán. Ông cũng được Lưu Bị xem như \"người anh em thứ tư\" tiếp theo trong 3 anh em kết nghĩa tại vườn đào."
 }

@@ -1,18 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Vua",
-  "workTenure" : "713—722",
-  "fatherName" : {
-    "Mai Hoàn" : null
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Vua",
+  "workTenure": "713—722",
+  "fatherName": {
+    "Mai Hoàn": null
   },
-  "motherName" : { },
-  "eraName" : {
-    "Họ Mai" : 3
+  "motherName": {},
+  "eraName": {
+    "Họ Mai": 3
   },
-  "id" : 166,
-  "entityName" : "Mai Hắc Đế",
-  "aliases" : [ ],
-  "overview" : "Mai Hắc Đế (chữ Hán: 梅黑帝; 670 – 723), tên thật là Mai Thúc Loan (梅叔鸞), là vị vua lãnh đạo cuộc khởi nghĩa chống lại sự chiếm đóng của nhà Đường ở miền Bắc Việt Nam vào đầu thế kỉ thứ 8. Trong lịch sử Việt Nam, ông được xem như một vị anh hùng dân tộc."
+  "id": 166,
+  "entityName": "Mai Hắc Đế",
+  "aliases": [],
+  "overview": "Mai Hắc Đế (chữ Hán: 梅黑帝; 670 – 723), tên thật là Mai Thúc Loan (梅叔鸞), là vị vua lãnh đạo cuộc khởi nghĩa chống lại sự chiếm đóng của nhà Đường ở miền Bắc Việt Nam vào đầu thế kỉ thứ 8. Trong lịch sử Việt Nam, ông được xem như một vị anh hùng dân tộc."
 }

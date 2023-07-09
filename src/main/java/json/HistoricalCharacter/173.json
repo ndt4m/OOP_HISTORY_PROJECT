@@ -1,16 +1,19 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "nhà Chu" : null
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "nhà Chu": null
   },
-  "id" : 173,
-  "entityName" : "Ngô Quốc",
-  "aliases" : [ "Câu Ngô", "Công Ngô" ],
-  "overview" : "Ngô quốc (Phồn thể: 吳國; giản thể: 吴国), còn gọi là Câu Ngô (句吴) hay Công Ngô (工吴; 攻吾), là các tên gọi của một nước chư hầu của nhà Chu từ khi triều đại này ra đời cho tới khi kết thúc giai đoạn Xuân Thu trong lịch sử Trung Quốc."
+  "id": 173,
+  "entityName": "Ngô Quốc",
+  "aliases": [
+    "Câu Ngô",
+    "Công Ngô"
+  ],
+  "overview": "Ngô quốc (Phồn thể: 吳國; giản thể: 吴国), còn gọi là Câu Ngô (句吴) hay Công Ngô (工吴; 攻吾), là các tên gọi của một nước chư hầu của nhà Chu từ khi triều đại này ra đời cho tới khi kết thúc giai đoạn Xuân Thu trong lịch sử Trung Quốc."
 }

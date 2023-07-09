@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "1934",
-  "dateOfDeath" : "2018",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 408,
-  "entityName" : "Dương Danh Dy",
-  "aliases" : [ ],
-  "overview" : "Dương Danh Dy (1934-2018) là nhà ngoại giao, cựu Tổng lãnh sự Việt Nam tại Quảng Châu, Trung Quốc, học giả hàng đầu Việt Nam trong nghiên cứu về vấn đề Trung Quốc. Ông được coi là một trong những người Việt Nam hiểu Trung Quốc nhất cũng như những dã tâm đối với Việt Nam của Chính quyền Trung Nam Hải."
+  "dateOfBirth": "1934",
+  "dateOfDeath": "2018",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 408,
+  "entityName": "Dương Danh Dy",
+  "aliases": [],
+  "overview": "Dương Danh Dy (1934-2018) là nhà ngoại giao, cựu Tổng lãnh sự Việt Nam tại Quảng Châu, Trung Quốc, học giả hàng đầu Việt Nam trong nghiên cứu về vấn đề Trung Quốc. Ông được coi là một trong những người Việt Nam hiểu Trung Quốc nhất cũng như những dã tâm đối với Việt Nam của Chính quyền Trung Nam Hải."
 }

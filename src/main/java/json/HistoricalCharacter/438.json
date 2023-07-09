@@ -1,20 +1,26 @@
 {
-  "dateOfBirth" : "17 tháng 5, 1319\n----------------------------------------------\nKỉ Mùi 1319\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "11 tháng 6, 1341 (22 tuổi) Quang Triều cung, Thăng Long\n----------------------------------------------\nTân Tị 1341\n----------------------------------------------\nKhông rõ",
-  "hometown" : "nguyên quán làng Tức Mặc, phủ Thiên Trường, tỉnh Nam Định (nay vẫn thuộc tỉnh Nam Định)\n----------------------------------------------\nKhông rõ",
-  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua thứ sáu nhà Trần\n----------------------------------------------\nVua",
-  "workTenure" : "1329 - 1341\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1329—1341",
-  "fatherName" : {
-    "Trần Minh Tông" : 2061
+  "dateOfBirth": "17 tháng 5, 1319\n----------------------------------------------\nKỉ Mùi 1319\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath": "11 tháng 6, 1341 (22 tuổi) Quang Triều cung, Thăng Long\n----------------------------------------------\nTân Tị 1341\n----------------------------------------------\nKhông rõ",
+  "hometown": "nguyên quán làng Tức Mặc, phủ Thiên Trường, tỉnh Nam Định (nay vẫn thuộc tỉnh Nam Định)\n----------------------------------------------\nKhông rõ",
+  "occupation": "Hoàng đế Đại Việt\n----------------------------------------------\nVua thứ sáu nhà Trần\n----------------------------------------------\nVua",
+  "workTenure": "1329 - 1341\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1329—1341",
+  "fatherName": {
+    "Trần Minh Tông": 330
   },
-  "motherName" : {
-    "Minh Từ hoàng thái phi" : null
+  "motherName": {
+    "Minh Từ hoàng thái phi": null
   },
-  "eraName" : {
-    "Nhà Trần" : 15
+  "eraName": {
+    "Nhà Trần": 15
   },
-  "id" : 438,
-  "entityName" : "Trần Hiến Tông",
-  "aliases" : [ "Khai Hựu (開佑)", "Trần Hiến Tông", "Trần Vượng (陳旺)", "Thể Nguyên Ngự Cực Duệ Thánh Chí Hiếu Hoàng Đế (體元御極睿聖至孝皇帝)", "Hiến Tông (憲宗)" ],
-  "overview" : "Trần Hiến Tông (chữ Hán: 陳憲宗; 17 tháng 5, 1319 – 11 tháng 6, 1341), là vị Hoàng đế thứ sáu của triều đại nhà Trần trong lịch sử Việt Nam, trị vì trong 13 năm (1329 - 1341).\n----------------------------------------------\nNăm Kỉ tị 1329 vua Minh tông nhường ngôi, ông lên làm vua, hiệu năm là Khai Hữu. Ông làm vua chỉ là hư vị, tất cả quyền chính đều đo thượng hoàng Minh tông quyết định cả. Ông ở ngôi gần 13 năm. Ông mất năm 1341, hưởng dương 22 tuổi.\n----------------------------------------------\nTrần Hiến Tông (chữ Hán: 陳憲宗 17 tháng 5 năm 1319 – 11 tháng 6 năm 1341) là vị hoàng đế thứ sáu của triều đại nhà Trần trong lịch sử Việt Nam, trị vì trong 13 năm (1329 - 1341)."
+  "id": 438,
+  "entityName": "Trần Hiến Tông",
+  "aliases": [
+    "Khai Hựu (開佑)",
+    "Trần Hiến Tông",
+    "Trần Vượng (陳旺)",
+    "Thể Nguyên Ngự Cực Duệ Thánh Chí Hiếu Hoàng Đế (體元御極睿聖至孝皇帝)",
+    "Hiến Tông (憲宗)"
+  ],
+  "overview": "Trần Hiến Tông (chữ Hán: 陳憲宗; 17 tháng 5, 1319 – 11 tháng 6, 1341), là vị Hoàng đế thứ sáu của triều đại nhà Trần trong lịch sử Việt Nam, trị vì trong 13 năm (1329 - 1341).\n----------------------------------------------\nNăm Kỉ tị 1329 vua Minh tông nhường ngôi, ông lên làm vua, hiệu năm là Khai Hữu. Ông làm vua chỉ là hư vị, tất cả quyền chính đều đo thượng hoàng Minh tông quyết định cả. Ông ở ngôi gần 13 năm. Ông mất năm 1341, hưởng dương 22 tuổi.\n----------------------------------------------\nTrần Hiến Tông (chữ Hán: 陳憲宗 17 tháng 5 năm 1319 – 11 tháng 6 năm 1341) là vị hoàng đế thứ sáu của triều đại nhà Trần trong lịch sử Việt Nam, trị vì trong 13 năm (1329 - 1341)."
 }

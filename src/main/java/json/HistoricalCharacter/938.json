@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "1513",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 938,
-  "entityName" : "Nguyễn Văn Lang",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Văn Lang (chữ Hán: 阮文郎, ? - 1513) là tướng lĩnh, đại thần cuối thời Lê Sơ trong lịch sử Việt Nam. Ông tham gia cuộc đảo chính lật đổ vua Lê Uy Mục, phò giúp Lê Tương Dực lên ngôi và dẹp cuộc phản loạn do Trần Tuân lãnh đạo."
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "1513",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 938,
+  "entityName": "Nguyễn Văn Lang",
+  "aliases": [],
+  "overview": "Nguyễn Văn Lang (chữ Hán: 阮文郎, ? - 1513) là tướng lĩnh, đại thần cuối thời Lê Sơ trong lịch sử Việt Nam. Ông tham gia cuộc đảo chính lật đổ vua Lê Uy Mục, phò giúp Lê Tương Dực lên ngôi và dẹp cuộc phản loạn do Trần Tuân lãnh đạo."
 }

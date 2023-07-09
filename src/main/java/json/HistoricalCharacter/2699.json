@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê xã Hoàng Liệt, huyện Thanh Từ, tỉnh Hà Đông (nay là Hà Tây)",
-  "occupation" : "Cuồng sĩ đời Lê Hiển tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "quê xã Hoàng Liệt, huyện Thanh Từ, tỉnh Hà Đông (nay là Hà Tây)",
+  "occupation": "Cuồng sĩ đời Lê Hiển tông",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34
   },
-  "id" : 2699,
-  "entityName" : "Đỗ Thế Long",
-  "aliases" : [ ],
-  "overview" : "Tính khí cao ngạo, ông bị nhà đương cuộc bắt giam vì ghét, không cần có tội gì. Trong ngục, ông gặp Nguyễn Hữu Chỉnh lúc mới xuất thân còn hàn vi, vì thiếu nợ mà bị tù. Chỉnh mến tài ông, hứa về sau làm nên sẽ trọng dụng ông. Quả thật, khi Nguyễn Hữu Chỉnh ra phù tá Tây Sơn với danh nglưa \"Phù Lê diệt Trịnh\", Chỉnh đắc thời bèn can thiệp cho ông được tự do, và đãi ông vào hạng thượng tân. Ông cũng hết lòng với Hữu Chỉnh, thẳng thắn bày tỏ ý kiến, mỗi khi Hữu Chỉnh có việc hỏi đến. Một hôm, nhân nghe Hữu Chỉnh than tiếc cái chết của Đoan Nam vương Trịnh Khải, ông cười mỉa, buộc tội Chỉnh là kẻ tàn tặc, đã theo người mới phản người cũ, không phải là con đường lập thân tốt đẹp của bậc đại trượng phu. Ông lại khuyên Chỉnh nên khéo điều đình với Tây Sơn rút binh đi, tìm người khác trong dòng họ Trịnh mà lập lên nối nghiệp chúa, ắt sẽ được trọng dụng hơn. Chỉnh phật lòng, bèn sai người đi bắt ông, đem dìm chết dưới sông Nhị."
+  "id": 2699,
+  "entityName": "Đỗ Thế Long",
+  "aliases": [],
+  "overview": "Tính khí cao ngạo, ông bị nhà đương cuộc bắt giam vì ghét, không cần có tội gì. Trong ngục, ông gặp Nguyễn Hữu Chỉnh lúc mới xuất thân còn hàn vi, vì thiếu nợ mà bị tù. Chỉnh mến tài ông, hứa về sau làm nên sẽ trọng dụng ông. Quả thật, khi Nguyễn Hữu Chỉnh ra phù tá Tây Sơn với danh nglưa \"Phù Lê diệt Trịnh\", Chỉnh đắc thời bèn can thiệp cho ông được tự do, và đãi ông vào hạng thượng tân. Ông cũng hết lòng với Hữu Chỉnh, thẳng thắn bày tỏ ý kiến, mỗi khi Hữu Chỉnh có việc hỏi đến. Một hôm, nhân nghe Hữu Chỉnh than tiếc cái chết của Đoan Nam vương Trịnh Khải, ông cười mỉa, buộc tội Chỉnh là kẻ tàn tặc, đã theo người mới phản người cũ, không phải là con đường lập thân tốt đẹp của bậc đại trượng phu. Ông lại khuyên Chỉnh nên khéo điều đình với Tây Sơn rút binh đi, tìm người khác trong dòng họ Trịnh mà lập lên nối nghiệp chúa, ắt sẽ được trọng dụng hơn. Chỉnh phật lòng, bèn sai người đi bắt ông, đem dìm chết dưới sông Nhị."
 }

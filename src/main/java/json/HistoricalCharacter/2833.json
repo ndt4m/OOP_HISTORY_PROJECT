@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "1281",
-  "dateOfDeath" : "1328",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "nhà Trần" : null
+  "dateOfBirth": "1281",
+  "dateOfDeath": "1328",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "nhà Trần": null
   },
-  "id" : 2833,
-  "entityName" : "Trần Quốc Chẩn",
-  "aliases" : [ ],
-  "overview" : "Trần Quốc Chẩn (陳國瑱; 1281-1328) là một trong những danh tướng kiệt xuất của nhà Trần, tài đức vẹn toàn, hết lòng vì sự nghiệp xây dựng và bảo vệ đất nước."
+  "id": 2833,
+  "entityName": "Trần Quốc Chẩn",
+  "aliases": [],
+  "overview": "Trần Quốc Chẩn (陳國瑱; 1281-1328) là một trong những danh tướng kiệt xuất của nhà Trần, tài đức vẹn toàn, hết lòng vì sự nghiệp xây dựng và bảo vệ đất nước."
 }

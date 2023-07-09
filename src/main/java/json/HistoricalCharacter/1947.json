@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Tân Mùi 1931",
-  "hometown" : "quê làng Đông Sơn, tỉnh Gò Công (nay thuộc tỉnh Tiền Giang)",
-  "occupation" : "Nhà báo, nhà sưu tập văn học",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "…",
+  "dateOfDeath": "Tân Mùi 1931",
+  "hometown": "quê làng Đông Sơn, tỉnh Gò Công (nay thuộc tỉnh Tiền Giang)",
+  "occupation": "Nhà báo, nhà sưu tập văn học",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 1947,
-  "entityName" : "Lê Sum",
-  "aliases" : [ "Trường Mậu" ],
-  "overview" : "Xuất thân trong một gia đình nho học ở đất Gò Công, thời trẻ ông dạy học (chữ Hán) tại quê nhà ít lâu, những năm đầu thế kỉ ông lên Sài Gòn viết báo. Từng cộng tác với các báo: Nông cổ mín đàm, Trung lập, làm chủ bút báo Công luận một thời. Trong đời cầm bút ông có công sưu tập một số thơ văn Nôm của tác giả gốc Nam Kì, trong đó có cuốn Việt âm thi tập, Việt âm văn uyển, Thi phú văn từ... Thơ ông tình tứ, giàu cá tính, như bài: Tự thuật Nghĩ mình một đứa cũng ngang tàng, Giàu cũng không dua khó chẳng than! Non nước ruổi dong ưa thú lạ, Tới lui lòn cúi tránh người sang Cánh buồm phong nguyệt năm hồ trải, Chén rượu giao du bốn biển tràn. Cũng ngộ, lòng trời chìu ý muốn Khi đài, khi các lúc quan san. Ông mất năm 1931 tại quê nhà."
+  "id": 1947,
+  "entityName": "Lê Sum",
+  "aliases": [
+    "Trường Mậu"
+  ],
+  "overview": "Xuất thân trong một gia đình nho học ở đất Gò Công, thời trẻ ông dạy học (chữ Hán) tại quê nhà ít lâu, những năm đầu thế kỉ ông lên Sài Gòn viết báo. Từng cộng tác với các báo: Nông cổ mín đàm, Trung lập, làm chủ bút báo Công luận một thời. Trong đời cầm bút ông có công sưu tập một số thơ văn Nôm của tác giả gốc Nam Kì, trong đó có cuốn Việt âm thi tập, Việt âm văn uyển, Thi phú văn từ... Thơ ông tình tứ, giàu cá tính, như bài: Tự thuật Nghĩ mình một đứa cũng ngang tàng, Giàu cũng không dua khó chẳng than! Non nước ruổi dong ưa thú lạ, Tới lui lòn cúi tránh người sang Cánh buồm phong nguyệt năm hồ trải, Chén rượu giao du bốn biển tràn. Cũng ngộ, lòng trời chìu ý muốn Khi đài, khi các lúc quan san. Ông mất năm 1931 tại quê nhà."
 }

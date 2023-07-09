@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Quê xã Tiểu Phúc Lộc, huyện Lệ Thủy tỉnh Quảng Bình",
-  "occupation" : "Quê xã Tiểu Phúc Lộc, huyện Lệ Thủy tỉnh Quảng Bình",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nam - Bắc Triều" : 19
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Quê xã Tiểu Phúc Lộc, huyện Lệ Thủy tỉnh Quảng Bình",
+  "occupation": "Quê xã Tiểu Phúc Lộc, huyện Lệ Thủy tỉnh Quảng Bình",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nam - Bắc Triều": 19
   },
-  "id" : 2478,
-  "entityName" : "Hoàng Công Châu",
-  "aliases" : [ ],
-  "overview" : "Ông sức vóc hơn người, có tài đánh vật, làm lực sĩ Hiệu úy. Khi Mạc Đăng Dung dựng cơ nghiệp, ông qui thuận, đưọc phong tước Triêu Đông Bá. Cả nhà ông ba anh em đều ra sức giúp nhà Mạc. Tình trạng hỗn loạn ngày càng nhiều, các anh em ông hi sinh trong những trận đánh quyết hệt với quân Lê, Trịnh."
+  "id": 2478,
+  "entityName": "Hoàng Công Châu",
+  "aliases": [],
+  "overview": "Ông sức vóc hơn người, có tài đánh vật, làm lực sĩ Hiệu úy. Khi Mạc Đăng Dung dựng cơ nghiệp, ông qui thuận, đưọc phong tước Triêu Đông Bá. Cả nhà ông ba anh em đều ra sức giúp nhà Mạc. Tình trạng hỗn loạn ngày càng nhiều, các anh em ông hi sinh trong những trận đánh quyết hệt với quân Lê, Trịnh."
 }

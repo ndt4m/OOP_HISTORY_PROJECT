@@ -1,17 +1,19 @@
 {
-  "dateOfBirth" : "ngày 26 tháng 9 năm 1921 Thường Tín, Hà Nội\n----------------------------------------------\nTân Dậu 1921",
-  "dateOfDeath" : "16 tháng 4, 2005 (83 tuổi) Bệnh viện Hữu nghị, Hà Nội\n----------------------------------------------\nẤt Dậu 2005",
-  "hometown" : "tại xã Mễ Sơn, huyện Thường Tín, tỉnh Hà Đông",
-  "occupation" : "Nhà hoạt động cách mạng",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+  "dateOfBirth": "ngày 26 tháng 9 năm 1921 Thường Tín, Hà Nội\n----------------------------------------------\nTân Dậu 1921",
+  "dateOfDeath": "16 tháng 4, 2005 (83 tuổi) Bệnh viện Hữu nghị, Hà Nội\n----------------------------------------------\nẤt Dậu 2005",
+  "hometown": "tại xã Mễ Sơn, huyện Thường Tín, tỉnh Hà Đông",
+  "occupation": "Nhà hoạt động cách mạng",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11,
+    "Nước Việt Nam mới": 29
   },
-  "id" : 828,
-  "entityName" : "Vũ Long Chuẩn",
-  "aliases" : [ "Vũ Kỳ" ],
-  "overview" : "Vũ Kỳ (1921-2005), Thư ký riêng của Chủ tịch Hồ Chí Minh; nguyên Đại biểu Quốc hội nước Cộng hòa Xã hội Chủ nghĩa Việt Nam; nguyên Giám đốc Bảo tàng Hồ Chí Minh.\n----------------------------------------------\nXuất thân trong một gia đình công chức thời Pháp thuộc, ông sớm giác ngộ cách mạng, tích cực hoạt động trong đoàn thanh niên phản đế Hà Nội khi còn là học sinh (Trường Bưởi - Hà Nội). Sau Cách mạng tháng 8 năm 1945 ông được các cán bộ đảng cao cấp (Trần Đăng Ninh) giới thiệu đến giúp việc cho chủ tịch Hồ Chí Minh từ năm 1946 đến tháng 8 năm 1969 được cụ Hồ đặt tên là Vũ Kỳ. Trong suốt thời gian làm thư kí riêng cho chủ tịch Hồ Chí Minh, ông là người biết và lưu giữ nhiều tài liệu tối mật của cách mạng Việt Nam hiện đại; nhất là những tài liệu về hai cuộc kháng chiến chống Pháp, Mĩ. Sau năm 1969 ông tham gia vào việc bảo tồn khu dí tích nhà sàn Hồ Chủ tịch, xây dựng Bảo tàng Hồ Chí Minh thành công rồi được Nhà nước Việt Nam mời giữ chức Giám đôc Bảo tàng Hồ Chí Minh. Ông được Nhà nước Việt Nam tặng nhiều huân chương cao quí, trong đó có Huân chương Hồ Chí Minh. Ông mất ngày 16-4-2005, thọ 84 tuổi."
+  "id": 828,
+  "entityName": "Vũ Long Chuẩn",
+  "aliases": [
+    "Vũ Kỳ"
+  ],
+  "overview": "Vũ Kỳ (1921-2005), Thư ký riêng của Chủ tịch Hồ Chí Minh; nguyên Đại biểu Quốc hội nước Cộng hòa Xã hội Chủ nghĩa Việt Nam; nguyên Giám đốc Bảo tàng Hồ Chí Minh.\n----------------------------------------------\nXuất thân trong một gia đình công chức thời Pháp thuộc, ông sớm giác ngộ cách mạng, tích cực hoạt động trong đoàn thanh niên phản đế Hà Nội khi còn là học sinh (Trường Bưởi - Hà Nội). Sau Cách mạng tháng 8 năm 1945 ông được các cán bộ đảng cao cấp (Trần Đăng Ninh) giới thiệu đến giúp việc cho chủ tịch Hồ Chí Minh từ năm 1946 đến tháng 8 năm 1969 được cụ Hồ đặt tên là Vũ Kỳ. Trong suốt thời gian làm thư kí riêng cho chủ tịch Hồ Chí Minh, ông là người biết và lưu giữ nhiều tài liệu tối mật của cách mạng Việt Nam hiện đại; nhất là những tài liệu về hai cuộc kháng chiến chống Pháp, Mĩ. Sau năm 1969 ông tham gia vào việc bảo tồn khu dí tích nhà sàn Hồ Chủ tịch, xây dựng Bảo tàng Hồ Chí Minh thành công rồi được Nhà nước Việt Nam mời giữ chức Giám đôc Bảo tàng Hồ Chí Minh. Ông được Nhà nước Việt Nam tặng nhiều huân chương cao quí, trong đó có Huân chương Hồ Chí Minh. Ông mất ngày 16-4-2005, thọ 84 tuổi."
 }

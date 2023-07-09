@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Võ tướng nhà Hồ, giỏi về thủy chiến, được phong làm Thủy quân đô tướng.",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Hồ" : 9
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Võ tướng nhà Hồ, giỏi về thủy chiến, được phong làm Thủy quân đô tướng.",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Hồ": 9
   },
-  "id" : 1168,
-  "entityName" : "Đỗ Mãn",
-  "aliases" : [ ],
-  "overview" : "Liên tiếp trong hai năm Nhâm ngọ 1402 và Quí mùi 1403, ông đã cùng với Phạm Nguyên Khôi đem 20 vạn quân thủy bộ đi đánh Chiêm Thành, vây thành Đồ Bàn hơn một tháng mà không lấy được, hết cả lương thực phải rút quân về! Đến khi chống nhau với quân Minh, ông cũng từng xông pha trận mạc, cùng với các tướng Hồ Đỗ, Hồ Hạ lập nhiều chiến công. Cuối cùng, thế yếu không chống nổi, ông tử tiết khi nhà Hồ sụp đổ, cha con Hồ Quí Ly, Hồ Hán Thương rơi vào tay giặc."
+  "id": 1168,
+  "entityName": "Đỗ Mãn",
+  "aliases": [],
+  "overview": "Liên tiếp trong hai năm Nhâm ngọ 1402 và Quí mùi 1403, ông đã cùng với Phạm Nguyên Khôi đem 20 vạn quân thủy bộ đi đánh Chiêm Thành, vây thành Đồ Bàn hơn một tháng mà không lấy được, hết cả lương thực phải rút quân về! Đến khi chống nhau với quân Minh, ông cũng từng xông pha trận mạc, cùng với các tướng Hồ Đỗ, Hồ Hạ lập nhiều chiến công. Cuối cùng, thế yếu không chống nổi, ông tử tiết khi nhà Hồ sụp đổ, cha con Hồ Quí Ly, Hồ Hán Thương rơi vào tay giặc."
 }

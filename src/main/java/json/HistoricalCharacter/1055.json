@@ -1,20 +1,22 @@
 {
-  "dateOfBirth" : "22 tháng 6, 662 Hàm Lương điện, Bồng Lai cung, Trường An",
-  "dateOfDeath" : "13 tháng 7, 716 (54 tuổi) Bách Phúc điện, Trường An",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đại Đường",
-  "workTenure" : "27 tháng 2 năm 684 - 19 tháng 10 năm 690 (6 năm, 234 ngày)",
-  "fatherName" : {
-    "Đường Cao Tông" : null
+  "dateOfBirth": "22 tháng 6, 662 Hàm Lương điện, Bồng Lai cung, Trường An",
+  "dateOfDeath": "13 tháng 7, 716 (54 tuổi) Bách Phúc điện, Trường An",
+  "hometown": "Không rõ",
+  "occupation": "Hoàng đế Đại Đường",
+  "workTenure": "27 tháng 2 năm 684 - 19 tháng 10 năm 690 (6 năm, 234 ngày)",
+  "fatherName": {
+    "Đường Cao Tông": null
   },
-  "motherName" : {
-    "Võ Tắc Thiên" : 1693
+  "motherName": {
+    "Võ Tắc Thiên": 2063
   },
-  "eraName" : {
-    "Nhà Đường (唐)" : null
+  "eraName": {
+    "Nhà Đường (唐)": null
   },
-  "id" : 1055,
-  "entityName" : "Lý Đán",
-  "aliases" : [ "Tên thật Lý Đán (李旦) Lý Húc Luân (李旭轮) Lý Luân (李轮) Võ Đán (武旦) Niên hiệu Văn Minh (文明; 2/684-8/684) Cảnh Vân (景云; 7/710-1/712) Thái Cực (太极; 1/712-4/712) Diên Hòa (延和; 5/712-8/712) Thụy hiệu Đại Thánh Chân hoàng đế (大聖真皇帝) Huyền Chân Đại Thánh hoàng đế (玄真大圣皇帝) Huyền Chân Đại Thánh Đại Hưng Hiếu hoàng đế (玄真大聖大興孝皇帝) Miếu hiệu Duệ Tông (睿宗)" ],
-  "overview" : "Đường Duệ Tông (chữ Hán: 唐睿宗, 22 tháng 6, 662 - 13 tháng 7, 716), húy Lý Đán (李旦), là vị Hoàng đế thứ năm và thứ bảy của nhà Đường trong lịch sử Trung Quốc, ở ngôi hai lần vào các thời điểm 27 tháng 2 năm 684 - 8 tháng 10 năm 690, và 25 tháng 7 năm 710 - 8 tháng 9 năm 712."
+  "id": 1055,
+  "entityName": "Lý Đán",
+  "aliases": [
+    "Tên thật Lý Đán (李旦) Lý Húc Luân (李旭轮) Lý Luân (李轮) Võ Đán (武旦) Niên hiệu Văn Minh (文明; 2/684-8/684) Cảnh Vân (景云; 7/710-1/712) Thái Cực (太极; 1/712-4/712) Diên Hòa (延和; 5/712-8/712) Thụy hiệu Đại Thánh Chân hoàng đế (大聖真皇帝) Huyền Chân Đại Thánh hoàng đế (玄真大圣皇帝) Huyền Chân Đại Thánh Đại Hưng Hiếu hoàng đế (玄真大聖大興孝皇帝) Miếu hiệu Duệ Tông (睿宗)"
+  ],
+  "overview": "Đường Duệ Tông (chữ Hán: 唐睿宗, 22 tháng 6, 662 - 13 tháng 7, 716), húy Lý Đán (李旦), là vị Hoàng đế thứ năm và thứ bảy của nhà Đường trong lịch sử Trung Quốc, ở ngôi hai lần vào các thời điểm 27 tháng 2 năm 684 - 8 tháng 10 năm 690, và 25 tháng 7 năm 710 - 8 tháng 9 năm 712."
 }

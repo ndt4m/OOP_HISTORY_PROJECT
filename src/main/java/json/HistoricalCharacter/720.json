@@ -1,18 +1,23 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "1593 Việt Nam",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đại Việt",
-  "workTenure" : "1592 - 1593",
-  "fatherName" : {
-    "Mạc Mậu Hợp" : 3064
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "1593 Việt Nam",
+  "hometown": "Không rõ",
+  "occupation": "Hoàng đế Đại Việt",
+  "workTenure": "1592 - 1593",
+  "fatherName": {
+    "Mạc Mậu Hợp": 448
   },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Mạc" : 18
+  "motherName": {},
+  "eraName": {
+    "Nhà Mạc": 18
   },
-  "id" : 720,
-  "entityName" : "Mạc Toàn",
-  "aliases" : [ "Cảnh Tông", "Mạc Toàn", "Vũ An: 1592 - 1593", "Thành Hoàng đế" ],
-  "overview" : "Vũ An vương Mạc Toàn (chữ Hán: 莫全; ? – 1593) là vua thứ 6 và là vua cuối cùng nhà Mạc thời kỳ Nam Bắc triều trong lịch sử Việt Nam."
+  "id": 720,
+  "entityName": "Mạc Toàn",
+  "aliases": [
+    "Cảnh Tông",
+    "Mạc Toàn",
+    "Vũ An: 1592 - 1593",
+    "Thành Hoàng đế"
+  ],
+  "overview": "Vũ An vương Mạc Toàn (chữ Hán: 莫全; ? – 1593) là vua thứ 6 và là vua cuối cùng nhà Mạc thời kỳ Nam Bắc triều trong lịch sử Việt Nam."
 }

@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê xã Lập Thạch, huyện Đông Sơn, tỉnh Thanh Hóa",
-  "occupation" : "Danh thần đời Lê Thánh tông ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Triều Lê Sơ" : 7
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "quê xã Lập Thạch, huyện Đông Sơn, tỉnh Thanh Hóa",
+  "occupation": "Danh thần đời Lê Thánh tông ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Triều Lê Sơ": 7
   },
-  "id" : 1387,
-  "entityName" : "Lê Đức Toản",
-  "aliases" : [ ],
-  "overview" : "Năm Giáp thìn 1484, ông đỗ tiến sĩ, làm đến Đô ngợ sử. Ông cương trực, quyết đoán, xử sự rất công minh. Trải các triều vua, ông một niềm giữ lòng liêm chính, vô tư, nên được các sĩ phu trọng vọng, nhân dân kính mến. Năm Đinh hợi 1527, Mạc Đăng Dung đảo chính, dựng nhà Mạc, ông không phục tùng, bỏ quan ở ẩn, được người đương thời xưng tặng là tiết nghĩa."
+  "id": 1387,
+  "entityName": "Lê Đức Toản",
+  "aliases": [],
+  "overview": "Năm Giáp thìn 1484, ông đỗ tiến sĩ, làm đến Đô ngợ sử. Ông cương trực, quyết đoán, xử sự rất công minh. Trải các triều vua, ông một niềm giữ lòng liêm chính, vô tư, nên được các sĩ phu trọng vọng, nhân dân kính mến. Năm Đinh hợi 1527, Mạc Đăng Dung đảo chính, dựng nhà Mạc, ông không phục tùng, bỏ quan ở ẩn, được người đương thời xưng tặng là tiết nghĩa."
 }

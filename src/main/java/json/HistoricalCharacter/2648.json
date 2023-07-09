@@ -1,19 +1,23 @@
 {
-  "dateOfBirth" : "1740 ?\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "13 tháng 2, 1791 (50–51 tuổi) Ai Lao\n----------------------------------------------\nKhông rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Trịnh Vương\n----------------------------------------------\nChúa thứ mười đời Lê mạt",
-  "workTenure" : "tháng 9 năm 1786 – tháng 9 năm 1787\n----------------------------------------------\nKhông rõ",
-  "fatherName" : {
-    "Uy Nam Vương Trịnh Giang" : null
+  "dateOfBirth": "1740 ?\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath": "13 tháng 2, 1791 (50–51 tuổi) Ai Lao\n----------------------------------------------\nKhông rõ",
+  "hometown": "Không rõ",
+  "occupation": "Trịnh Vương\n----------------------------------------------\nChúa thứ mười đời Lê mạt",
+  "workTenure": "tháng 9 năm 1786 – tháng 9 năm 1787\n----------------------------------------------\nKhông rõ",
+  "fatherName": {
+    "Uy Nam Vương Trịnh Giang": null
   },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34,
-    "Chúa Trịnh" : 26
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34,
+    "Chúa Trịnh": 26
   },
-  "id" : 2648,
-  "entityName" : "Trịnh Bồng",
-  "aliases" : [ "Trịnh Bồng (鄭槰)", "Án Đồ Vương", "Côn Quận Công Án Đô Vương" ],
-  "overview" : "Án Đô Vương Trịnh Bồng (chữ Hán: 鄭槰; 1740? - 13 tháng 2, 1791), là vị chúa Trịnh thứ 11 thời Lê Trung Hưng và cũng là vị chúa cuối cùng trong lịch sử Việt Nam. Nguyên quán Trịnh Bồng ở làng Sóc Sơn, huyện Vĩnh Lộc, Thanh Hóa, Việt Nam.\n----------------------------------------------\nKhi nghĩa quân Tây Sơn ra Bắc phù Lê diệt Trịnh, diệt xong đồ đảng họ Trịnh rồi rút về Nam, một nhóm cánh họ Trịnh đưa ông lên làm chúa. Lúc ấy, Vua Chiêu Thống phải gọi Nguyễn Hữu Chỉnh ra đánh dẹp. Tay chân ông không chống cự nổi, bỏ chạy lên miền ngược. Ông cô thế chán đời bỏ đi tu và mất năm nào không rõ. Kể từ đó (1788) họ Trịnh chấm dứt vai trò lịch sử."
+  "id": 2648,
+  "entityName": "Trịnh Bồng",
+  "aliases": [
+    "Trịnh Bồng (鄭槰)",
+    "Án Đồ Vương",
+    "Côn Quận Công Án Đô Vương"
+  ],
+  "overview": "Án Đô Vương Trịnh Bồng (chữ Hán: 鄭槰; 1740? - 13 tháng 2, 1791), là vị chúa Trịnh thứ 11 thời Lê Trung Hưng và cũng là vị chúa cuối cùng trong lịch sử Việt Nam. Nguyên quán Trịnh Bồng ở làng Sóc Sơn, huyện Vĩnh Lộc, Thanh Hóa, Việt Nam.\n----------------------------------------------\nKhi nghĩa quân Tây Sơn ra Bắc phù Lê diệt Trịnh, diệt xong đồ đảng họ Trịnh rồi rút về Nam, một nhóm cánh họ Trịnh đưa ông lên làm chúa. Lúc ấy, Vua Chiêu Thống phải gọi Nguyễn Hữu Chỉnh ra đánh dẹp. Tay chân ông không chống cự nổi, bỏ chạy lên miền ngược. Ông cô thế chán đời bỏ đi tu và mất năm nào không rõ. Kể từ đó (1788) họ Trịnh chấm dứt vai trò lịch sử."
 }

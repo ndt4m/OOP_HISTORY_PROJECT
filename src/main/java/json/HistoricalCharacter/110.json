@@ -1,17 +1,19 @@
 {
-  "dateOfBirth" : "25 tháng 12 năm 1902 Thanh Chương, Nghệ An, Liên bang Đông Dương\n----------------------------------------------\nNhâm Dần 1902",
-  "dateOfDeath" : "25 tháng 9, 1984 (81 tuổi) Hà Nội, Việt Nam\n----------------------------------------------\nGiáp Tí 1984",
-  "hometown" : "quê quán làng Lương Điền, huyện Thanh Chương, tỉnh Nghệ An",
-  "occupation" : "Nhà nghiên cứu văn học",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+  "dateOfBirth": "25 tháng 12 năm 1902 Thanh Chương, Nghệ An, Liên bang Đông Dương\n----------------------------------------------\nNhâm Dần 1902",
+  "dateOfDeath": "25 tháng 9, 1984 (81 tuổi) Hà Nội, Việt Nam\n----------------------------------------------\nGiáp Tí 1984",
+  "hometown": "quê quán làng Lương Điền, huyện Thanh Chương, tỉnh Nghệ An",
+  "occupation": "Nhà nghiên cứu văn học",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11,
+    "Nước Việt Nam mới": 29
   },
-  "id" : 110,
-  "entityName" : "Đặng Thai Mai",
-  "aliases" : [ "Thanh Tuyền" ],
-  "overview" : "Đặng Thai Mai (1902-1984), còn được biết đến dưới tên gọi Đặng Thái Mai và những bút danh Thanh Tuyền, Thanh Bình. Ông là giáo sư, nhà giáo, nhà văn, nhà phê bình văn học Việt Nam; và nguyên là Bộ trưởng Bộ Giáo dục, Viện trưởng đầu tiên của Viện Văn học Việt Nam.\n----------------------------------------------\nXuất thân trong một gia đình khoa bảng, có truyền thống yêu nước. Thân sinh ông là Đặng Nguyên Cẩn, một vị học quan triều Nguyễn, bị thực dân và tay sai Nam triều lưu đày Côn Đảo. Lúc nhỏ, Đặng Thai Mai học chữ Hán, sau học chữ Pháp; năm 1924 tốt nghiệp trung học ở Vinh, ông ra Hà Nội học trường Cao đẳng Sư phạm. Năm 1928 tốt nghiệp, ông được bổ dạy ở trường Quốc học Huế. Ông tham gia \"Đảng Tân Việt\" của Lê Văn Huân, bị bắt và bị tù treo. Năm 1930 lại bị bắt một lần nữa. Sau đó ra tù, ông sinh sống và dạy học ở Hà Nội. Năm 1936 ông là hội viên hội Truyền bá Quốc ngữ và được Đảng Cộng sản Đông Dương giới thiệu ứng cử vào Viện Dân biểu Trung Kì, đơn vị tỉnh Quảng Nam (thay Phan Thanh, Đảng viên Đảng XH Pháp ở Đông Dương bị bệnh chết). Từ đó ông bắt đầu thực sự nghiên cứu chủ nghĩa Mác Lê Nin, và viết báo tiến bộ, cách mạng bằng tiếng Việt và tiếng Pháp công khai ở Hà Nội. Đặng Thai Mai là người đầu tiên viết về lí luận văn học theo quan điểm Mác xít ở nước ta và nổi tiếng ngay với tác phẩm Văn học khái luận xuất bản ở Hà Nội. Tiếp theo ông còn viết về thân thế sự nghiệp nhà văn hào lớn Trung Quốc Lỗ Tấn; ông dịch các sách của Lỗ Tấn, Tào Ngu là hai nhà văn lớn Trung Quốc lớn đầu tiên bằng Bạch thoại tại Việt Nam. Sau Cách mạng Tháng Tám, ông giữ nhiều chức vụ chính quyền: Bộ trưởng Bộ Giáo dục, Chủ tịch ủy ban kháng chiến tỉnh Thanh Hóa, Đại biểu quốc hội, Chủ tịch Hội Liên hiệp Văn học nghệ thuật, Viện trưởng Viện Văn học Việt Nam. Ông mất năm 1984 tại Hà Nội. Các tác phẩm chính: - Văn học khái luận. - Lỗ Tấn thân thế và sự nghiệp. - Tạp văn trong văn học Trung Quốc hiện đại. - Lôi Vũ, Nhật Xuất, A. Q. (dịch) - Chủ nghĩa nhân văn dưới thời kì văn hóa phục hưng. - Lịch sử văn học Trung Quốc hiện đại. - Văn thơ Phan Bội Châu. - Văn thơ cách mạng Việt Nam đầu thế kỷ XX. - Trên đường học tập và nghiên cứu... Ông được chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam tặng Huân chương Hồ Chí Minh."
+  "id": 110,
+  "entityName": "Đặng Thai Mai",
+  "aliases": [
+    "Thanh Tuyền"
+  ],
+  "overview": "Đặng Thai Mai (1902-1984), còn được biết đến dưới tên gọi Đặng Thái Mai và những bút danh Thanh Tuyền, Thanh Bình. Ông là giáo sư, nhà giáo, nhà văn, nhà phê bình văn học Việt Nam; và nguyên là Bộ trưởng Bộ Giáo dục, Viện trưởng đầu tiên của Viện Văn học Việt Nam.\n----------------------------------------------\nXuất thân trong một gia đình khoa bảng, có truyền thống yêu nước. Thân sinh ông là Đặng Nguyên Cẩn, một vị học quan triều Nguyễn, bị thực dân và tay sai Nam triều lưu đày Côn Đảo. Lúc nhỏ, Đặng Thai Mai học chữ Hán, sau học chữ Pháp; năm 1924 tốt nghiệp trung học ở Vinh, ông ra Hà Nội học trường Cao đẳng Sư phạm. Năm 1928 tốt nghiệp, ông được bổ dạy ở trường Quốc học Huế. Ông tham gia \"Đảng Tân Việt\" của Lê Văn Huân, bị bắt và bị tù treo. Năm 1930 lại bị bắt một lần nữa. Sau đó ra tù, ông sinh sống và dạy học ở Hà Nội. Năm 1936 ông là hội viên hội Truyền bá Quốc ngữ và được Đảng Cộng sản Đông Dương giới thiệu ứng cử vào Viện Dân biểu Trung Kì, đơn vị tỉnh Quảng Nam (thay Phan Thanh, Đảng viên Đảng XH Pháp ở Đông Dương bị bệnh chết). Từ đó ông bắt đầu thực sự nghiên cứu chủ nghĩa Mác Lê Nin, và viết báo tiến bộ, cách mạng bằng tiếng Việt và tiếng Pháp công khai ở Hà Nội. Đặng Thai Mai là người đầu tiên viết về lí luận văn học theo quan điểm Mác xít ở nước ta và nổi tiếng ngay với tác phẩm Văn học khái luận xuất bản ở Hà Nội. Tiếp theo ông còn viết về thân thế sự nghiệp nhà văn hào lớn Trung Quốc Lỗ Tấn; ông dịch các sách của Lỗ Tấn, Tào Ngu là hai nhà văn lớn Trung Quốc lớn đầu tiên bằng Bạch thoại tại Việt Nam. Sau Cách mạng Tháng Tám, ông giữ nhiều chức vụ chính quyền: Bộ trưởng Bộ Giáo dục, Chủ tịch ủy ban kháng chiến tỉnh Thanh Hóa, Đại biểu quốc hội, Chủ tịch Hội Liên hiệp Văn học nghệ thuật, Viện trưởng Viện Văn học Việt Nam. Ông mất năm 1984 tại Hà Nội. Các tác phẩm chính: - Văn học khái luận. - Lỗ Tấn thân thế và sự nghiệp. - Tạp văn trong văn học Trung Quốc hiện đại. - Lôi Vũ, Nhật Xuất, A. Q. (dịch) - Chủ nghĩa nhân văn dưới thời kì văn hóa phục hưng. - Lịch sử văn học Trung Quốc hiện đại. - Văn thơ Phan Bội Châu. - Văn thơ cách mạng Việt Nam đầu thế kỷ XX. - Trên đường học tập và nghiên cứu... Ông được chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam tặng Huân chương Hồ Chí Minh."
 }

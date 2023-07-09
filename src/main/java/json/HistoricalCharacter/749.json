@@ -1,19 +1,19 @@
 {
-  "dateOfBirth" : "Đinh Mùi 1907",
-  "dateOfDeath" : "Nhâm Tuất 2001",
-  "hometown" : "tại Hà Nội, con trai Thượng thư Lê Hoan (1856-1915)",
-  "occupation" : "Họa sĩ nguời đầu tiên canh tân chiếc áo dài của phụ nữ Việt Nam",
-  "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Thượng thư Lê Hoan" : null
+  "dateOfBirth": "Đinh Mùi 1907",
+  "dateOfDeath": "Nhâm Tuất 2001",
+  "hometown": "tại Hà Nội, con trai Thượng thư Lê Hoan (1856-1915)",
+  "occupation": "Họa sĩ nguời đầu tiên canh tân chiếc áo dài của phụ nữ Việt Nam",
+  "workTenure": "Không rõ",
+  "fatherName": {
+    "Thượng thư Lê Hoan": null
   },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11,
+    "Nước Việt Nam mới": 29
   },
-  "id" : 749,
-  "entityName" : "Lê Phổ",
-  "aliases" : [ ],
-  "overview" : "Thuở nhỏ học trung học ở Hà Nội, năm 1925 ông thi vào học khóa đầu tiên (1925-1930) tại Trường cao đẳng Mĩ thuật Đông Dương chuyên về lụa và sơn mài. Năm 1930 tốt nghiệp và một thời gian sau ông được học bổng sang Pháp tiếp tục theo học tại Trường Mĩ thuật Paris. Ông là tác giả hàng trăm tác phẩm mà phần lớn đều mang hình ảnh người phụ nữ luôn được ông chăm chút với một vẻ sống động và giàu tình cảm. Theo một số nhà phê bình nghệ thuật tạo hình thì Lê Phổ là một họa sĩ bậc thầy được giới hội họa trong và ngoài nước đánh giá cao. Các tác phẩm tiêu biểu của ông: - Thiếu nữ với hoa cẩm chướng - Thiếu nữ và cây phong lan - Chân dung thiếu nữ - Kim Vân Kiều Ông mất ngày 12-12-2001 tại Paris, thọ 94 tuổi."
+  "id": 749,
+  "entityName": "Lê Phổ",
+  "aliases": [],
+  "overview": "Thuở nhỏ học trung học ở Hà Nội, năm 1925 ông thi vào học khóa đầu tiên (1925-1930) tại Trường cao đẳng Mĩ thuật Đông Dương chuyên về lụa và sơn mài. Năm 1930 tốt nghiệp và một thời gian sau ông được học bổng sang Pháp tiếp tục theo học tại Trường Mĩ thuật Paris. Ông là tác giả hàng trăm tác phẩm mà phần lớn đều mang hình ảnh người phụ nữ luôn được ông chăm chút với một vẻ sống động và giàu tình cảm. Theo một số nhà phê bình nghệ thuật tạo hình thì Lê Phổ là một họa sĩ bậc thầy được giới hội họa trong và ngoài nước đánh giá cao. Các tác phẩm tiêu biểu của ông: - Thiếu nữ với hoa cẩm chướng - Thiếu nữ và cây phong lan - Chân dung thiếu nữ - Kim Vân Kiều Ông mất ngày 12-12-2001 tại Paris, thọ 94 tuổi."
 }

@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "ngày 30",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 644,
-  "entityName" : "Vũ Đăng Toàn",
-  "aliases" : [ ],
-  "overview" : "Vũ Đăng Toàn là một đại úy Quân đội Nhân dân Việt Nam, là người chỉ huy chiếc xe tăng T-54 mang số hiệu 390 đã húc đổ cánh cửa Dinh Độc Lập trong ngày 30 tháng 4 năm 1975."
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "ngày 30",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 644,
+  "entityName": "Vũ Đăng Toàn",
+  "aliases": [],
+  "overview": "Vũ Đăng Toàn là một đại úy Quân đội Nhân dân Việt Nam, là người chỉ huy chiếc xe tăng T-54 mang số hiệu 390 đã húc đổ cánh cửa Dinh Độc Lập trong ngày 30 tháng 4 năm 1975."
 }

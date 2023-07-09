@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Vua",
-  "workTenure" : "?–?",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Hồng Bàng" : 17
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Vua",
+  "workTenure": "?–?",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Hồng Bàng": 17
   },
-  "id" : 2905,
-  "entityName" : "Hùng Vương thứ 16",
-  "aliases" : [ ],
-  "overview" : "Hùng Vương thứ XVI là một vị vua truyền thuyết của nước Văn Lang trong lịch sử Việt Nam."
+  "id": 2905,
+  "entityName": "Hùng Vương thứ 16",
+  "aliases": [],
+  "overview": "Hùng Vương thứ XVI là một vị vua truyền thuyết của nước Văn Lang trong lịch sử Việt Nam."
 }

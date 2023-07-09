@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Giáp Tuất 1874",
-  "hometown" : "quê ở Chi Nê (nay là xã Thanh Chi), huyện Thanh Chương tỉnh Nghệ An",
-  "occupation" : "Nhà yêu nước",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Giáp Tuất 1874",
+  "hometown": "quê ở Chi Nê (nay là xã Thanh Chi), huyện Thanh Chương tỉnh Nghệ An",
+  "occupation": "Nhà yêu nước",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 2127,
-  "entityName" : "Trần Tấn",
-  "aliases" : [ ],
-  "overview" : "Xuất thân làm Bang biện huyện Thanh Chương. Nhiệt thành yêu nước ông đau lòng trước sự cắt đất đầu hàng của triều đình, tích cực ngăn chặn bọn gián điệp làm tay sai cho giặc. Năm Quí dậu 1873, giặc Pháp tiến đánh miền Bắc, chiếm đóng Hà Nội và các tỉnh. Ông cùng học trò thân tín là Đặng Như Mai tập họp các sĩ phu yêu nước như Trần Quang Cán và Nguyễn Huy Điển ở Hà Tĩnh, Trương Quang Thủ ở Quảng Bình, lãnh đạo cuộc khởi nghĩa. Nghĩa quân dưới sự điều động của ông phát bài hịch \"Bình Tây sát tả\" động viên nhân dân vùng lên cứu nước. Thất bại, ông rút quân về vùng Cam Môn (nay thuộc tỉnh Kham Muộn, nước Lào) rồi bệnh mất trong năm Giáp tuất 1874."
+  "id": 2127,
+  "entityName": "Trần Tấn",
+  "aliases": [],
+  "overview": "Xuất thân làm Bang biện huyện Thanh Chương. Nhiệt thành yêu nước ông đau lòng trước sự cắt đất đầu hàng của triều đình, tích cực ngăn chặn bọn gián điệp làm tay sai cho giặc. Năm Quí dậu 1873, giặc Pháp tiến đánh miền Bắc, chiếm đóng Hà Nội và các tỉnh. Ông cùng học trò thân tín là Đặng Như Mai tập họp các sĩ phu yêu nước như Trần Quang Cán và Nguyễn Huy Điển ở Hà Tĩnh, Trương Quang Thủ ở Quảng Bình, lãnh đạo cuộc khởi nghĩa. Nghĩa quân dưới sự điều động của ông phát bài hịch \"Bình Tây sát tả\" động viên nhân dân vùng lên cứu nước. Thất bại, ông rút quân về vùng Cam Môn (nay thuộc tỉnh Kham Muộn, nước Lào) rồi bệnh mất trong năm Giáp tuất 1874."
 }

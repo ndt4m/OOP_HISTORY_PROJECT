@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê làng An Vĩnh, huyện Lý Sơn, tỉnh Quảng Ngãi",
-  "occupation" : "Đội trưởng Đội Hoàng Sa của lực lượng hải quân Đàng Trong ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "quê làng An Vĩnh, huyện Lý Sơn, tỉnh Quảng Ngãi",
+  "occupation": "Đội trưởng Đội Hoàng Sa của lực lượng hải quân Đàng Trong ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 616,
-  "entityName" : "Phạm Hữu Nhật",
-  "aliases" : [ ],
-  "overview" : "Ngay từ thời trai trẻ ông cùng ngư dân làng An Vĩnh, tỉnh Quảng Ngãi gia nhập đội Hoàng Sa. Một thời gian ông được thăng chức Đội trưởng Hải quân Hoàng gia chúa Nguyễn. Ông chỉ huy đội Hoàng Sa cùng Đội trưởng Phạm Quang Ảnh lãnh nhiệm vụ đo đạc thủy trình và tuần tra dọc hải phận từ Côn Sơn (Côn Đảo) đến vịnh Hạ Long vào đời Minh Mạng'(1820-1840). Tại đây ông cùng các chiến binh lo công tác đo đạc thủy trình, cắm mốc lãnh hải quốc gia trong năm 1836. Phần mộ ông nằm trong khuôn viên tộc họ Phạm tại thôn Đông, xã An Vĩnh, huyện Lý Sơn, tỉnh Quảng Ngãi ngày nay."
+  "id": 616,
+  "entityName": "Phạm Hữu Nhật",
+  "aliases": [],
+  "overview": "Ngay từ thời trai trẻ ông cùng ngư dân làng An Vĩnh, tỉnh Quảng Ngãi gia nhập đội Hoàng Sa. Một thời gian ông được thăng chức Đội trưởng Hải quân Hoàng gia chúa Nguyễn. Ông chỉ huy đội Hoàng Sa cùng Đội trưởng Phạm Quang Ảnh lãnh nhiệm vụ đo đạc thủy trình và tuần tra dọc hải phận từ Côn Sơn (Côn Đảo) đến vịnh Hạ Long vào đời Minh Mạng\u0027(1820-1840). Tại đây ông cùng các chiến binh lo công tác đo đạc thủy trình, cắm mốc lãnh hải quốc gia trong năm 1836. Phần mộ ông nằm trong khuôn viên tộc họ Phạm tại thôn Đông, xã An Vĩnh, huyện Lý Sơn, tỉnh Quảng Ngãi ngày nay."
 }

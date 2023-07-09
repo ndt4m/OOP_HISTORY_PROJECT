@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Hải Phòng",
-  "occupation" : "Vương phi chúa Trịnh Giang",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Hải Phòng",
+  "occupation": "Vương phi chúa Trịnh Giang",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34
   },
-  "id" : 1155,
-  "entityName" : "Ngô Thị Đế",
-  "aliases" : [ ],
-  "overview" : "Độc Sơn vốn là trái núi trơ trơ trong vùng, chung quanh núi có cư dân tám trại: Gia đình bà giàu có ở xóm Trại. Năm bà 17 tuổi, một hôm chúa Trịnh Giang đi qua vùng ấy, bắt hiếp bà. Bà có thai, bị nhục vì mang tiếng chửa hoang, uống thuốc độc mà chết. Chúa Trịnh Giang biết tin, ăn năn, xót xa thương tiếc, lệnh cho dân chúng vùng ấy lập đền thờ bà, và sắc phong làm phi tần. Tục gọi đền Vương Phi hay đền Bà Đế. Nay, đền thờ bà Đế ở sườn phía Tây núi Độc Sơn, du khách đến viếng Đồ Sơn hẳn còn thấy dấu vết và nghe truyền tụng sự tích bà."
+  "id": 1155,
+  "entityName": "Ngô Thị Đế",
+  "aliases": [],
+  "overview": "Độc Sơn vốn là trái núi trơ trơ trong vùng, chung quanh núi có cư dân tám trại: Gia đình bà giàu có ở xóm Trại. Năm bà 17 tuổi, một hôm chúa Trịnh Giang đi qua vùng ấy, bắt hiếp bà. Bà có thai, bị nhục vì mang tiếng chửa hoang, uống thuốc độc mà chết. Chúa Trịnh Giang biết tin, ăn năn, xót xa thương tiếc, lệnh cho dân chúng vùng ấy lập đền thờ bà, và sắc phong làm phi tần. Tục gọi đền Vương Phi hay đền Bà Đế. Nay, đền thờ bà Đế ở sườn phía Tây núi Độc Sơn, du khách đến viếng Đồ Sơn hẳn còn thấy dấu vết và nghe truyền tụng sự tích bà."
 }

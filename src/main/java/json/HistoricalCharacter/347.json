@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Đinh Hợi 1887",
-  "hometown" : "quê tỉnh Quảng Ngãi, không rõ năm sinh, ông nhiệt thành tham gia phong trào Cần vương, dưới cờ khởi nghĩa của nhà lãnh tụ kháng chiến vùng Bình Định, Phú Yên là Mai Xuân Thưởng",
-  "occupation" : "Chí sĩ Cần vương kháng Pháp, quê tỉnh Quảng Ngãi",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Đinh Hợi 1887",
+  "hometown": "quê tỉnh Quảng Ngãi, không rõ năm sinh, ông nhiệt thành tham gia phong trào Cần vương, dưới cờ khởi nghĩa của nhà lãnh tụ kháng chiến vùng Bình Định, Phú Yên là Mai Xuân Thưởng",
+  "occupation": "Chí sĩ Cần vương kháng Pháp, quê tỉnh Quảng Ngãi",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 347,
-  "entityName" : "Đặng Thành Tích",
-  "aliases" : [ ],
-  "overview" : ""
+  "id": 347,
+  "entityName": "Đặng Thành Tích",
+  "aliases": [],
+  "overview": ""
 }

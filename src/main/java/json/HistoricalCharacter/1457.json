@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 1457,
-  "entityName" : "Hoàng Thái Hậu",
-  "aliases" : [ "Empress Mother" ],
-  "overview" : "Hoàng thái hậu (chữ Hán: 皇太后; tiếng Anh: Dowager Empress, Empress Dowager hay Empress Mother), thường được gọi tắt là Thái hậu (太后), tước vị dành cho mẹ ruột của Hoàng đế đang tại vị, hoặc Hoàng hậu của vị Hoàng đế trước đó đã mất, và do Hoàng đế đang tại vị tôn phong."
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 1457,
+  "entityName": "Hoàng Thái Hậu",
+  "aliases": [
+    "Empress Mother"
+  ],
+  "overview": "Hoàng thái hậu (chữ Hán: 皇太后; tiếng Anh: Dowager Empress, Empress Dowager hay Empress Mother), thường được gọi tắt là Thái hậu (太后), tước vị dành cho mẹ ruột của Hoàng đế đang tại vị, hoặc Hoàng hậu của vị Hoàng đế trước đó đã mất, và do Hoàng đế đang tại vị tôn phong."
 }

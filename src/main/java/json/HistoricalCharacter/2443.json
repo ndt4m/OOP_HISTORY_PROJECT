@@ -1,17 +1,20 @@
 {
-  "dateOfBirth" : "Giáp Tí 1924",
-  "dateOfDeath" : "Nhâm Ngọ 2002",
-  "hometown" : "tại thị xã Hội An, huyện Điện Bàn, tỉnh Quảng Nam",
-  "occupation" : "Nhà văn",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+  "dateOfBirth": "Giáp Tí 1924",
+  "dateOfDeath": "Nhâm Ngọ 2002",
+  "hometown": "tại thị xã Hội An, huyện Điện Bàn, tỉnh Quảng Nam",
+  "occupation": "Nhà văn",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11,
+    "Nước Việt Nam mới": 29
   },
-  "id" : 2443,
-  "entityName" : "Lê Võ Đài",
-  "aliases" : [ "Lê Võ Đài", "Minh Hương" ],
-  "overview" : "Thuở nhỏ học ở Hội An, đến năm 20 tuổi ông theo gia đình vào lập nghiệp ở Sài Gòn với nhiều nghề như y tá, dạy tư, viết báo. Sau Cách mạng tháng 8 năm 1945, ông tham gia Cách mạng làm cán bộ Đoàn trường Thanh niên, Học sinh Cứu quốc Sài Gòn - Chợ Lớn, nguyên cán bộ Sở Giáo dục TP. HCM. Những năm 1950-1975 ông là cộng tác viên với các báo: Việt Nam học đường, Tiếng chuông, Tiến Bộ... tại Sài Gòn. Sau năm 1975 ông cộng tác với các báo Sài Gòn giải phóng, Tuổi trẻ... và các báo khác. Các tác phẩm chính (hầu hết đều văn xuôi): - Ba cái dại (1957) - Người đẹp miền băng tuyết (1972) - Thế giới kì lạ của loài ong (1972) - Hoa đồng cỏ nội (1975) - Hội An quê tôi (1995) - Nhớ Sài Gòn I, II (1995) Ông mất ngày 28 tháng 10 năm 2002 tại TP. HCM."
+  "id": 2443,
+  "entityName": "Lê Võ Đài",
+  "aliases": [
+    "Lê Võ Đài",
+    "Minh Hương"
+  ],
+  "overview": "Thuở nhỏ học ở Hội An, đến năm 20 tuổi ông theo gia đình vào lập nghiệp ở Sài Gòn với nhiều nghề như y tá, dạy tư, viết báo. Sau Cách mạng tháng 8 năm 1945, ông tham gia Cách mạng làm cán bộ Đoàn trường Thanh niên, Học sinh Cứu quốc Sài Gòn - Chợ Lớn, nguyên cán bộ Sở Giáo dục TP. HCM. Những năm 1950-1975 ông là cộng tác viên với các báo: Việt Nam học đường, Tiếng chuông, Tiến Bộ... tại Sài Gòn. Sau năm 1975 ông cộng tác với các báo Sài Gòn giải phóng, Tuổi trẻ... và các báo khác. Các tác phẩm chính (hầu hết đều văn xuôi): - Ba cái dại (1957) - Người đẹp miền băng tuyết (1972) - Thế giới kì lạ của loài ong (1972) - Hoa đồng cỏ nội (1975) - Hội An quê tôi (1995) - Nhớ Sài Gòn I, II (1995) Ông mất ngày 28 tháng 10 năm 2002 tại TP. HCM."
 }

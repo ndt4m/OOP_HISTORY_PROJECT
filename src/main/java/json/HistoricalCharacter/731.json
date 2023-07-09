@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Giáp Tuất 1934",
-  "dateOfDeath" : "Đinh Mùi 1967",
-  "hometown" : "quê làng Mĩ Hiệp, quận Phù Mĩ, tỉnh Bình Định",
-  "occupation" : "Nhà văn hiện đại",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nước Việt Nam mới" : 29
+  "dateOfBirth": "Giáp Tuất 1934",
+  "dateOfDeath": "Đinh Mùi 1967",
+  "hometown": "quê làng Mĩ Hiệp, quận Phù Mĩ, tỉnh Bình Định",
+  "occupation": "Nhà văn hiện đại",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nước Việt Nam mới": 29
   },
-  "id" : 731,
-  "entityName" : "Đoàn Thế Hối",
-  "aliases" : [ "Lê Vĩnh Hòa" ],
-  "overview" : "Ông là con thứ trong gia đình, năm 6 tuổi ông theo thân phụ vào Nam, ngụ ở xã Vĩnh Hòa, tỉnh Rạch Giá. (có lẽ bút hiệu Lê Vĩnh Hòa xuất xứ từ đấy). Ông nhiệt thành yêu nước, khoảng năm 1950-51, ông là học sinh trường trung học kháng chiến Nguyễn Văn Tố (miền Tây). Ra trường được phân công về công tác ở văn phòng Mặt trận Liên Việt tỉnh Rạch Giá. Sau hiệp định Genève 1954, ông ở lại miền Nam. Đầu năm 1956, công tác vận động học sinh trung học, do đó, được bố trí vào học ở trường trung học tại thị xã Rạch Giá, mang tên giả Trần Văn Thành, ngồi lớp đệ lục (lớp 7 bây giờ). Trước đó, mặc dù ông có nhiều truyện, thơ, bài phê bình đăng rải rác trên các báo Nhân dân miền Nam, Tiến thủ, Gió mới… nhưng mãi đến khi viết cho tuần san Nhân loại ông mới chính thức nhập làng văn với bút hiệu Lê Vĩnh Hòa. Năm 1958 ông bị Mĩ - Diệm bắt giam, đưa qua nhiều nhà tù ở miền Nam: Chí Hòa, Thủ Đức, Phú Lợi, Sóc Trăng... Năm 1963, ông thoát khỏi ngục tù của Mĩ - Diệm và ra vùng giải phóng tiếp tục chiến đấu. Đến ngày mùng 7 tết Đinh mùi 1967, ông hi sinh trong một trận chống càn tại Long Mĩ, Xẻo Giá (Rạch Giá), hưởng dương 33 tuổi. Trong 4 năm (1963-67) ở vùng giải phóng, ông đã sáng tác hơn 30 truyện và kí và để lại khá nhiều bản thảo. Tác phẩm còn lại: - Người tị nạn. - Mái nhà thơ."
+  "id": 731,
+  "entityName": "Đoàn Thế Hối",
+  "aliases": [
+    "Lê Vĩnh Hòa"
+  ],
+  "overview": "Ông là con thứ trong gia đình, năm 6 tuổi ông theo thân phụ vào Nam, ngụ ở xã Vĩnh Hòa, tỉnh Rạch Giá. (có lẽ bút hiệu Lê Vĩnh Hòa xuất xứ từ đấy). Ông nhiệt thành yêu nước, khoảng năm 1950-51, ông là học sinh trường trung học kháng chiến Nguyễn Văn Tố (miền Tây). Ra trường được phân công về công tác ở văn phòng Mặt trận Liên Việt tỉnh Rạch Giá. Sau hiệp định Genève 1954, ông ở lại miền Nam. Đầu năm 1956, công tác vận động học sinh trung học, do đó, được bố trí vào học ở trường trung học tại thị xã Rạch Giá, mang tên giả Trần Văn Thành, ngồi lớp đệ lục (lớp 7 bây giờ). Trước đó, mặc dù ông có nhiều truyện, thơ, bài phê bình đăng rải rác trên các báo Nhân dân miền Nam, Tiến thủ, Gió mới… nhưng mãi đến khi viết cho tuần san Nhân loại ông mới chính thức nhập làng văn với bút hiệu Lê Vĩnh Hòa. Năm 1958 ông bị Mĩ - Diệm bắt giam, đưa qua nhiều nhà tù ở miền Nam: Chí Hòa, Thủ Đức, Phú Lợi, Sóc Trăng... Năm 1963, ông thoát khỏi ngục tù của Mĩ - Diệm và ra vùng giải phóng tiếp tục chiến đấu. Đến ngày mùng 7 tết Đinh mùi 1967, ông hi sinh trong một trận chống càn tại Long Mĩ, Xẻo Giá (Rạch Giá), hưởng dương 33 tuổi. Trong 4 năm (1963-67) ở vùng giải phóng, ông đã sáng tác hơn 30 truyện và kí và để lại khá nhiều bản thảo. Tác phẩm còn lại: - Người tị nạn. - Mái nhà thơ."
 }

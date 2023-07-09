@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Nhâm Ngọ 1882",
-  "dateOfDeath" : "Quí Tị 1943",
-  "hometown" : "người làng Lang Trụ, huyện Tiên Lữ, tỉnh Hưng Yên",
-  "occupation" : "Danh sĩ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "Nhâm Ngọ 1882",
+  "dateOfDeath": "Quí Tị 1943",
+  "hometown": "người làng Lang Trụ, huyện Tiên Lữ, tỉnh Hưng Yên",
+  "occupation": "Danh sĩ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 1626,
-  "entityName" : "Bùi Mai Điểm",
-  "aliases" : [ "Bàn Cổ" ],
-  "overview" : "Năm Kỉ dậu 1909, ông đỗ tú tài. Ông tính tình phong nhã, có khiếu âm nhạc, dạo đàn nguyệt và đàn đáy rất hay, từng soạn quyển sách dạy cách thức đánh chầu nhan đề là Chầu Tú Điểm. Trong quyển Việt Nam ca trù biên khảo có giới thiệu 2 bài trù của ông: Tiếng chầu và chê thầy đồ cắt nghĩa sách sai, biếm cực sâu sắc, thú vị. Thơ văn ông phần lớn thất lạc chỉ còn lại một số bài ca trù có giá trị văn học."
+  "id": 1626,
+  "entityName": "Bùi Mai Điểm",
+  "aliases": [
+    "Bàn Cổ"
+  ],
+  "overview": "Năm Kỉ dậu 1909, ông đỗ tú tài. Ông tính tình phong nhã, có khiếu âm nhạc, dạo đàn nguyệt và đàn đáy rất hay, từng soạn quyển sách dạy cách thức đánh chầu nhan đề là Chầu Tú Điểm. Trong quyển Việt Nam ca trù biên khảo có giới thiệu 2 bài trù của ông: Tiếng chầu và chê thầy đồ cắt nghĩa sách sai, biếm cực sâu sắc, thú vị. Thơ văn ông phần lớn thất lạc chỉ còn lại một số bài ca trù có giá trị văn học."
 }

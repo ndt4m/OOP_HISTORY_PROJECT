@@ -1,16 +1,19 @@
 {
-  "dateOfBirth" : "Quí Mùi 1883",
-  "dateOfDeath" : "Canh Thìn 1940",
-  "hometown" : "quê xã Mạn Nhuế, huyện Nam Sách, tỉnh Hải Dương",
-  "occupation" : "Nhà văn ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "Quí Mùi 1883",
+  "dateOfDeath": "Canh Thìn 1940",
+  "hometown": "quê xã Mạn Nhuế, huyện Nam Sách, tỉnh Hải Dương",
+  "occupation": "Nhà văn ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 2775,
-  "entityName" : "Nguyễn Trọng Thuật",
-  "aliases" : [ "Đồ Nam Tử", "Quảng Tràng Thiệt" ],
-  "overview" : "Ông xuất thân là giáo học, viết báo, có lúc là Đảng viên Việt Nam Quốc dân đảng thời Nguyễn Thái Học. Về sau, ông chuyên nghiên cứu Phật học, làm biên tập viên tờ Đuốc Tuệ cơ quan của hội Phật giáo Bắc Kì. Loạt bài: Việt Nam thiền tông thế hệ của ông vừa có giá trị triết học, vừa có giá trị văn học, sử học. Ngay từ năm 1917, ông đã là cây bút cộng tác sáng giá ở tạp chí Nam Phong và là một trong số ít người Việt Nam đầu tiên viết tiểu thuyết bằng Quốc ngữ ở miền Bắc. Ông mất năm 1940 tại Hà Nội, hưởng dương 57 tuổi. Các tác phẩm chính của ông: - Quả dưa đỏ (tiểu thuyết trúng giải văn học của Hội Khai trí Tiến Đức, Hà Nội, in năm 1925) - Việt văn tinh nghĩa (1928) - Danh nhân Hải Dương Cùng các loạt bài trên tạp chí Đuốc Tuệ và Nam Phong."
+  "id": 2775,
+  "entityName": "Nguyễn Trọng Thuật",
+  "aliases": [
+    "Đồ Nam Tử",
+    "Quảng Tràng Thiệt"
+  ],
+  "overview": "Ông xuất thân là giáo học, viết báo, có lúc là Đảng viên Việt Nam Quốc dân đảng thời Nguyễn Thái Học. Về sau, ông chuyên nghiên cứu Phật học, làm biên tập viên tờ Đuốc Tuệ cơ quan của hội Phật giáo Bắc Kì. Loạt bài: Việt Nam thiền tông thế hệ của ông vừa có giá trị triết học, vừa có giá trị văn học, sử học. Ngay từ năm 1917, ông đã là cây bút cộng tác sáng giá ở tạp chí Nam Phong và là một trong số ít người Việt Nam đầu tiên viết tiểu thuyết bằng Quốc ngữ ở miền Bắc. Ông mất năm 1940 tại Hà Nội, hưởng dương 57 tuổi. Các tác phẩm chính của ông: - Quả dưa đỏ (tiểu thuyết trúng giải văn học của Hội Khai trí Tiến Đức, Hà Nội, in năm 1925) - Việt văn tinh nghĩa (1928) - Danh nhân Hải Dương Cùng các loạt bài trên tạp chí Đuốc Tuệ và Nam Phong."
 }

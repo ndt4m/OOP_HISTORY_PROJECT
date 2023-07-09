@@ -1,18 +1,18 @@
 {
-  "dateOfBirth" : "Tân Mão 1591",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê làng Lý Trai, huyện Đồng Thành, tỉnh Nghệ An",
-  "occupation" : "Danh sĩ, đời Lê Chân tông, con tiến sĩ Ngô Thế Hòa, cháu nội tiến sĩ Ngô Trí Tri",
-  "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Ngô Thế Hòa" : null
+  "dateOfBirth": "Tân Mão 1591",
+  "dateOfDeath": "Không rõ",
+  "hometown": "quê làng Lý Trai, huyện Đồng Thành, tỉnh Nghệ An",
+  "occupation": "Danh sĩ, đời Lê Chân tông, con tiến sĩ Ngô Thế Hòa, cháu nội tiến sĩ Ngô Trí Tri",
+  "workTenure": "Không rõ",
+  "fatherName": {
+    "Ngô Thế Hòa": null
   },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34
   },
-  "id" : 1218,
-  "entityName" : "Ngô Sĩ Vịnh",
-  "aliases" : [ ],
-  "overview" : "Năm Bính tuất 1646, ông đỗ tam giáp tiến sĩ lúc đã 55 tuổi, làm đến Quang lộc tự khanh, tước Bá. Được tặng phong Đôn Hậu tán trị công thần, Tả thị lang, tước Lý Thanh Hầu. Gia tộc ông nhiều đời đi thi và làm quan có danh tiếng mà dòng họ tự cho đây là một văn phái lớn của nước ta thuở xưa gọi là Ngô gia văn phái. Do đấy, ông cảm xúc có làm hai bài thơ tán dương công đức tổ tiên: \"Diễn, Hoan hình thắng huyện danh đông. Tú phát anh tài đĩnh tưởng công, Lục nghệ thi thư đình giảng tố, Nhất môn phụ tử bảng liên đồng. Liên thăng sĩ lộ quân hành nhiệm, Xanh trụ hoàng gia, trụ thạch công. Trung hiếu lưỡng toàn huân hách dịch, Phong bi ngật lập đối thương khung\". Bản dịch: Diễm, Hoan danh thắng nhất miền đông. Nức tiếng anh tài có tướng công. Sáu nghệ thi thư nền nếp cũ, Một nhà khoa bảng bố con chung. Đường mây thăng tiến nơi quân quốc, Trụ đá kiên trì với núi sông. Trung hiếu đôi đường công chói lọi Bia danh rạng rỡ với thương khung"
+  "id": 1218,
+  "entityName": "Ngô Sĩ Vịnh",
+  "aliases": [],
+  "overview": "Năm Bính tuất 1646, ông đỗ tam giáp tiến sĩ lúc đã 55 tuổi, làm đến Quang lộc tự khanh, tước Bá. Được tặng phong Đôn Hậu tán trị công thần, Tả thị lang, tước Lý Thanh Hầu. Gia tộc ông nhiều đời đi thi và làm quan có danh tiếng mà dòng họ tự cho đây là một văn phái lớn của nước ta thuở xưa gọi là Ngô gia văn phái. Do đấy, ông cảm xúc có làm hai bài thơ tán dương công đức tổ tiên: \"Diễn, Hoan hình thắng huyện danh đông. Tú phát anh tài đĩnh tưởng công, Lục nghệ thi thư đình giảng tố, Nhất môn phụ tử bảng liên đồng. Liên thăng sĩ lộ quân hành nhiệm, Xanh trụ hoàng gia, trụ thạch công. Trung hiếu lưỡng toàn huân hách dịch, Phong bi ngật lập đối thương khung\". Bản dịch: Diễm, Hoan danh thắng nhất miền đông. Nức tiếng anh tài có tướng công. Sáu nghệ thi thư nền nếp cũ, Một nhà khoa bảng bố con chung. Đường mây thăng tiến nơi quân quốc, Trụ đá kiên trì với núi sông. Trung hiếu đôi đường công chói lọi Bia danh rạng rỡ với thương khung"
 }

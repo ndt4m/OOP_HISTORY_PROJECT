@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Đô đốc Tây Sơn, từng vào Nam truy kích Nguyễn Ánh, uy danh lừng lẫy.",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Tây Sơn" : 21
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Đô đốc Tây Sơn, từng vào Nam truy kích Nguyễn Ánh, uy danh lừng lẫy.",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Tây Sơn": 21
   },
-  "id" : 2496,
-  "entityName" : "Đặng Văn Chấn (Trấn)",
-  "aliases" : [ ],
-  "overview" : "Năm Giáp thìn 1784, ông có dự trận đánh quân Xiêm xâm lược, đại thắng tại Rạch Gầm, Xoài Mút, rồi được Nguyễn Huệ giao cho ở lại trấn giữ đất Gia Định. Năm Bính ngọ 1786, anh em Nguyễn Nhạc, Nguyễn Huệ bất hòa với nhau, ông nhận lệnh Nguyễn Nhạc đem quân từ Gia Định ra cứu. Năm Kỉ dậu 1789, sau trận đại thắng quân Thanh, ông cùng với Ngô Văn Sở, Phan Huy ích, Võ Huy Tấn đưa giả vương Phạm Công Trị (giả làm vua Quang Trung) sang Yên Kinh (Trung Quốc) chầu vua Càn Long. Năm Quí sửu 1793, ông lại điều khiển thủy quân đem hơn 30 chiến thuyền từ Phú Xuân vào giải vây cho thành Qui Nhơn. Và từ đấy về sau, ông hằng chống nhau dữ dội với quân của Nguyễn Ánh, ông tận trung đến chết với Tây Sơn."
+  "id": 2496,
+  "entityName": "Đặng Văn Chấn (Trấn)",
+  "aliases": [],
+  "overview": "Năm Giáp thìn 1784, ông có dự trận đánh quân Xiêm xâm lược, đại thắng tại Rạch Gầm, Xoài Mút, rồi được Nguyễn Huệ giao cho ở lại trấn giữ đất Gia Định. Năm Bính ngọ 1786, anh em Nguyễn Nhạc, Nguyễn Huệ bất hòa với nhau, ông nhận lệnh Nguyễn Nhạc đem quân từ Gia Định ra cứu. Năm Kỉ dậu 1789, sau trận đại thắng quân Thanh, ông cùng với Ngô Văn Sở, Phan Huy ích, Võ Huy Tấn đưa giả vương Phạm Công Trị (giả làm vua Quang Trung) sang Yên Kinh (Trung Quốc) chầu vua Càn Long. Năm Quí sửu 1793, ông lại điều khiển thủy quân đem hơn 30 chiến thuyền từ Phú Xuân vào giải vây cho thành Qui Nhơn. Và từ đấy về sau, ông hằng chống nhau dữ dội với quân của Nguyễn Ánh, ông tận trung đến chết với Tây Sơn."
 }

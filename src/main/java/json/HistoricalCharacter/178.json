@@ -1,16 +1,19 @@
 {
-  "dateOfBirth" : "Mậu Dần 1578",
-  "dateOfDeath" : "Canh Ngọ 1630",
-  "hometown" : "Quê làng Nghi Dương, tỉnh Hải Dương",
-  "occupation" : "Vợ Chúa Sãi Nguyễn Phúc Nguyên",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
+  "dateOfBirth": "Mậu Dần 1578",
+  "dateOfDeath": "Canh Ngọ 1630",
+  "hometown": "Quê làng Nghi Dương, tỉnh Hải Dương",
+  "occupation": "Vợ Chúa Sãi Nguyễn Phúc Nguyên",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34
   },
-  "id" : 178,
-  "entityName" : "Mạc Thị Giai",
-  "aliases" : [ "Nguyễn Thị Giai", "Hiếu Văn Hoàng hậu" ],
-  "overview" : "Sau khi cha mất, nhà Mạc suy sụp, bà theo chú là Mạc Cảnh Huống vào đất Thuận Hóa, náu thân ở chùa Lam Sơn, đăng kí vào danh bộ tỉnh Quảng Trị. Bà được thím dâu (vợ Mạc Cảnh Huống) Nguyễn Thị Ngọc Dương là bà dì của Chúa Sãi đem vào cung. Chúa Sai thương yêu bà đưa bà lên địa vị vương phi. Năm Canh ngọ, ngày 9-11 âm lịch nhằm 12-12-1630 bà mất, hưởng dương 52 tuổi chôn cất tại núi Chiêm Sơn, huyện Duy Xuyên, tỉnh Quảng Nam, ngôi mộ mang tên là lăng Vĩnh Diễn. Võ vương Nguyễn Phúc Khoát sắc phong bà vào hàng phi. Đến đời Gia Long sắc phong là Huy Cung Từ thân An thục Thuận trang Hiếu Văn hoàng hậu, nay còn thờ ở Thái miếu Huế. Chúa Sãi Nguyễn Phúc Nguyên có nhiều vợ và đông con: 11 trai, 4 gái. Trong số 4 người con gái có 3 người là con của bà: - Ngọc Liên: con gái lớn của bà, có chồng là Mạc Cảnh Vinh (con trưởng Mạc Cảnh Huống) làm đến Phó tướng trấn thủ Phiên Trấn (Phú Yên), sau được đặc ân đổi ra họ Nguyễn Phước, nên cũng gọi là Nguyễn Phúc Vinh, rồi lại đổi là Nguyễn Hữu Vinh. - Ngoc Đỉnh: vợ phó tướng Nguyễn Cửu Kiểu. - Ngọc Vạn: con gái thứ gả cho vua Chey Chey Chetta II của Campuchia. - Ngọc Khoa: gả cho thương gia Nhật Bản, ông này có tên Việt là Nguyễn Taro, tên Nhật là Araki Sotaro tên Nhật của bà là Okakutome, gọi tắt là Anio. Bà Ngọc Khoa (... - 1645) về Nhật sống bên đó và qua đời năm 1645."
+  "id": 178,
+  "entityName": "Mạc Thị Giai",
+  "aliases": [
+    "Nguyễn Thị Giai",
+    "Hiếu Văn Hoàng hậu"
+  ],
+  "overview": "Sau khi cha mất, nhà Mạc suy sụp, bà theo chú là Mạc Cảnh Huống vào đất Thuận Hóa, náu thân ở chùa Lam Sơn, đăng kí vào danh bộ tỉnh Quảng Trị. Bà được thím dâu (vợ Mạc Cảnh Huống) Nguyễn Thị Ngọc Dương là bà dì của Chúa Sãi đem vào cung. Chúa Sai thương yêu bà đưa bà lên địa vị vương phi. Năm Canh ngọ, ngày 9-11 âm lịch nhằm 12-12-1630 bà mất, hưởng dương 52 tuổi chôn cất tại núi Chiêm Sơn, huyện Duy Xuyên, tỉnh Quảng Nam, ngôi mộ mang tên là lăng Vĩnh Diễn. Võ vương Nguyễn Phúc Khoát sắc phong bà vào hàng phi. Đến đời Gia Long sắc phong là Huy Cung Từ thân An thục Thuận trang Hiếu Văn hoàng hậu, nay còn thờ ở Thái miếu Huế. Chúa Sãi Nguyễn Phúc Nguyên có nhiều vợ và đông con: 11 trai, 4 gái. Trong số 4 người con gái có 3 người là con của bà: - Ngọc Liên: con gái lớn của bà, có chồng là Mạc Cảnh Vinh (con trưởng Mạc Cảnh Huống) làm đến Phó tướng trấn thủ Phiên Trấn (Phú Yên), sau được đặc ân đổi ra họ Nguyễn Phước, nên cũng gọi là Nguyễn Phúc Vinh, rồi lại đổi là Nguyễn Hữu Vinh. - Ngoc Đỉnh: vợ phó tướng Nguyễn Cửu Kiểu. - Ngọc Vạn: con gái thứ gả cho vua Chey Chey Chetta II của Campuchia. - Ngọc Khoa: gả cho thương gia Nhật Bản, ông này có tên Việt là Nguyễn Taro, tên Nhật là Araki Sotaro tên Nhật của bà là Okakutome, gọi tắt là Anio. Bà Ngọc Khoa (... - 1645) về Nhật sống bên đó và qua đời năm 1645."
 }

@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 356,
-  "entityName" : "Thành Vương",
-  "aliases" : [ ],
-  "overview" : "Thành Vương (chữ Hán: 成王) là thụy hiệu của một số vị quân chủ."
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 356,
+  "entityName": "Thành Vương",
+  "aliases": [],
+  "overview": "Thành Vương (chữ Hán: 成王) là thụy hiệu của một số vị quân chủ."
 }

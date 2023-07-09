@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Thiêm đô ngự sử",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Lê sơ, Mạc" : null
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Thiêm đô ngự sử",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Lê sơ, Mạc": null
   },
-  "id" : 1268,
-  "entityName" : "Nguyễn Văn Kiệt",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Văn Kiệt là thiêm đô ngự sử thời Lê sơ, đỗ đồng tiến sĩ vào năm 1502."
+  "id": 1268,
+  "entityName": "Nguyễn Văn Kiệt",
+  "aliases": [],
+  "overview": "Nguyễn Văn Kiệt là thiêm đô ngự sử thời Lê sơ, đỗ đồng tiến sĩ vào năm 1502."
 }

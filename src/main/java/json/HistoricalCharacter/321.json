@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "1946",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 321,
-  "entityName" : "Nguyễn Huân",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Văn Huân (?-1946) là một nhà cách mạng và liệt sĩ Việt Nam."
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "1946",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 321,
+  "entityName": "Nguyễn Huân",
+  "aliases": [],
+  "overview": "Nguyễn Văn Huân (?-1946) là một nhà cách mạng và liệt sĩ Việt Nam."
 }

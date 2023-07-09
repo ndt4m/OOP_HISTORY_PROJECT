@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Tân Dậu 1801",
-  "hometown" : "quê huyện Tân Thành, tỉnh An Giang",
-  "occupation" : "Võ tướng đời Gia Long",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
+  "dateOfBirth": "…",
+  "dateOfDeath": "Tân Dậu 1801",
+  "hometown": "quê huyện Tân Thành, tỉnh An Giang",
+  "occupation": "Võ tướng đời Gia Long",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34
   },
-  "id" : 2617,
-  "entityName" : "Hoàng Phúc Bảo",
-  "aliases" : [ ],
-  "overview" : "Ông theo Nguyễn Ánh. Khi Nguyễn Ánh chạy sang Xiêm (Thái Lan), ông cũng tòng vong, được phong Vệ úy trung đồn uy vũ. Năm Tân dậu 1801, đóng quân ở Qui Nhơn ông tử trận tại Thạnh Cốc, được truy tặng Chưởng cơ. Năm Giáp tí 1804, được liệt thờ vào miếu Chiêu trung, Hiển trung và Bảo trung ở Huế. Năm Canh ngọ 1810, liệt thờ vào miếu Trung hưng công thần của triều Nguyễn."
+  "id": 2617,
+  "entityName": "Hoàng Phúc Bảo",
+  "aliases": [],
+  "overview": "Ông theo Nguyễn Ánh. Khi Nguyễn Ánh chạy sang Xiêm (Thái Lan), ông cũng tòng vong, được phong Vệ úy trung đồn uy vũ. Năm Tân dậu 1801, đóng quân ở Qui Nhơn ông tử trận tại Thạnh Cốc, được truy tặng Chưởng cơ. Năm Giáp tí 1804, được liệt thờ vào miếu Chiêu trung, Hiển trung và Bảo trung ở Huế. Năm Canh ngọ 1810, liệt thờ vào miếu Trung hưng công thần của triều Nguyễn."
 }

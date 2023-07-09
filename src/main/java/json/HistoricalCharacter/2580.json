@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Thượng thư",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Lê sơ, Mạc" : null
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Thượng thư",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Lê sơ, Mạc": null
   },
-  "id" : 2580,
-  "entityName" : "Nguyễn Nho Tông",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Nho Tông (chữ Hán: 阮儒宗) là thượng thư thời Lê sơ, đỗ tiến sĩ năm 1478."
+  "id": 2580,
+  "entityName": "Nguyễn Nho Tông",
+  "aliases": [],
+  "overview": "Nguyễn Nho Tông (chữ Hán: 阮儒宗) là thượng thư thời Lê sơ, đỗ tiến sĩ năm 1478."
 }

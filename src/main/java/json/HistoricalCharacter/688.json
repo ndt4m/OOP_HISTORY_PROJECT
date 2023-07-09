@@ -1,17 +1,17 @@
 {
-  "dateOfBirth" : "Canh Thân 1920",
-  "dateOfDeath" : "Nhâm Ngọ 2002",
-  "hometown" : "tại Hoa Kì, sinh quán tại Huế, cựu học sinh Trường Bưởi Hà Nội",
-  "occupation" : "Giáo sư, Nhà nghiên cứu ngôn ngữ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+  "dateOfBirth": "Canh Thân 1920",
+  "dateOfDeath": "Nhâm Ngọ 2002",
+  "hometown": "tại Hoa Kì, sinh quán tại Huế, cựu học sinh Trường Bưởi Hà Nội",
+  "occupation": "Giáo sư, Nhà nghiên cứu ngôn ngữ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11,
+    "Nước Việt Nam mới": 29
   },
-  "id" : 688,
-  "entityName" : "Nguyễn Đình Hòa",
-  "aliases" : [ ],
-  "overview" : "Đầu những năm 50 ông du học Hoa Kì, chuyên về ngôn ngữ học hiện đại, tốt nghiệp Ph.D (tiến sĩ) về ngôn ngữ học, ông là một trong vài người Việt tốt nghiệp Ph.D đầu tiên ở Mĩ trong năm 60. Năm 1960 về nước làm giáo sư tại Đại học văn khoa Sài Gòn, giữ chức Trưởng ban ngôn ngữ học tại Đại học Văn khoa và là giáo sư thỉnh giàng tại Đại học Sư phạm Sài Gòn, Đại học Văn khoa, Sư phạm Huế. Có lúc ông giữ chức Giám đốc Nhà Văn hóa Bộ Văn hóa Giáo dục, nhưng trước sau ông vẫn là một giáo sư chuyên ngành Ngôn ngữ học. Từ năm 1965 ông được biệt thỉnh tại một số Đại học Hoa Kì chuyên về Việt ngữ, có lúc làm phó Giám đốc rồi Giám đốc Trung tâm Việt Nam học viện Đại học Southern Illinois University ở Carbodale Hoa Kì cho đến ngày qua đời. Từ những năm 1962-1964 ông sang Hoa Kì giảng dạy, nghiên cứu văn chương và ngôn ngữ được giới nghiên cứu phương Đông (Mĩ) xem ông là một nhà Việt Nam học tầm cỡ ở Hoa Kì. Tại Hoa Kì ông có công giới thiệu các đề tài về Việt Nam cho công chúng độc giã Mĩ, nhất là trong giới học giả Mĩ Anh chuyên về Đông phương, trong đó có Việt Nam. Các đề tài ông giới thiệu là các tác phẩm thơ ca bắt đầu từ thế kỉ 14 cho đến giai đoạn cận đại (chủ yếu là tác phẩm chữ Nôm, Quốc ngữ, như: Bích câu kì ngộ, Chinh phụ ngâm, Thiên chúa Thánh giáo Hối tội kinh, Thiên chúa Thánh giáo khải mông, Truyện Đức chúa chi thu (Christ), Thiên chúa giáo Thánh mẫu... Các tác phẩm trên đều viết bằng chữ Nôm được ông giới thiệu (thông qua giáo sư Hoàng Xuân Hãn ở Paris) ở các Đại học Hoa Kì có môn Việt Nam học. Các tác phẩm chính: - Hig éducation in the Repubilic of Vietnam (1962) - The Vietnamese language (1962) - Reading list on Vietnamese language and writing (1962) - Ngữ học nhập môn (1962, Sài Gòn) - Song ngữ Anh văn - Việt văn các lớp 6, 7, 8, 9 (1962, Sài Gòn) Và các công trình vừa dẫn ở trên, cùng một số chuyên đề ngữ học, văn học cổ Việt Nam ở Sài Gòn và Hoa Kì."
+  "id": 688,
+  "entityName": "Nguyễn Đình Hòa",
+  "aliases": [],
+  "overview": "Đầu những năm 50 ông du học Hoa Kì, chuyên về ngôn ngữ học hiện đại, tốt nghiệp Ph.D (tiến sĩ) về ngôn ngữ học, ông là một trong vài người Việt tốt nghiệp Ph.D đầu tiên ở Mĩ trong năm 60. Năm 1960 về nước làm giáo sư tại Đại học văn khoa Sài Gòn, giữ chức Trưởng ban ngôn ngữ học tại Đại học Văn khoa và là giáo sư thỉnh giàng tại Đại học Sư phạm Sài Gòn, Đại học Văn khoa, Sư phạm Huế. Có lúc ông giữ chức Giám đốc Nhà Văn hóa Bộ Văn hóa Giáo dục, nhưng trước sau ông vẫn là một giáo sư chuyên ngành Ngôn ngữ học. Từ năm 1965 ông được biệt thỉnh tại một số Đại học Hoa Kì chuyên về Việt ngữ, có lúc làm phó Giám đốc rồi Giám đốc Trung tâm Việt Nam học viện Đại học Southern Illinois University ở Carbodale Hoa Kì cho đến ngày qua đời. Từ những năm 1962-1964 ông sang Hoa Kì giảng dạy, nghiên cứu văn chương và ngôn ngữ được giới nghiên cứu phương Đông (Mĩ) xem ông là một nhà Việt Nam học tầm cỡ ở Hoa Kì. Tại Hoa Kì ông có công giới thiệu các đề tài về Việt Nam cho công chúng độc giã Mĩ, nhất là trong giới học giả Mĩ Anh chuyên về Đông phương, trong đó có Việt Nam. Các đề tài ông giới thiệu là các tác phẩm thơ ca bắt đầu từ thế kỉ 14 cho đến giai đoạn cận đại (chủ yếu là tác phẩm chữ Nôm, Quốc ngữ, như: Bích câu kì ngộ, Chinh phụ ngâm, Thiên chúa Thánh giáo Hối tội kinh, Thiên chúa Thánh giáo khải mông, Truyện Đức chúa chi thu (Christ), Thiên chúa giáo Thánh mẫu... Các tác phẩm trên đều viết bằng chữ Nôm được ông giới thiệu (thông qua giáo sư Hoàng Xuân Hãn ở Paris) ở các Đại học Hoa Kì có môn Việt Nam học. Các tác phẩm chính: - Hig éducation in the Repubilic of Vietnam (1962) - The Vietnamese language (1962) - Reading list on Vietnamese language and writing (1962) - Ngữ học nhập môn (1962, Sài Gòn) - Song ngữ Anh văn - Việt văn các lớp 6, 7, 8, 9 (1962, Sài Gòn) Và các công trình vừa dẫn ở trên, cùng một số chuyên đề ngữ học, văn học cổ Việt Nam ở Sài Gòn và Hoa Kì."
 }

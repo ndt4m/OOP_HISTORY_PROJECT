@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Đinh Hợi 1527",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê làng Lương Xá, huyện Lang Tài, tỉnh Bắc Ninh (nay thuộc huyện Gia Lương, tỉnh Bắc Ninh) (Tên ông có sách chép Võ Cẩn là sai",
-  "occupation" : "Danh sĩ đời Mạc Mậu Hợp",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nam - Bắc Triều" : 19
+  "dateOfBirth": "Đinh Hợi 1527",
+  "dateOfDeath": "Không rõ",
+  "hometown": "quê làng Lương Xá, huyện Lang Tài, tỉnh Bắc Ninh (nay thuộc huyện Gia Lương, tỉnh Bắc Ninh) (Tên ông có sách chép Võ Cẩn là sai",
+  "occupation": "Danh sĩ đời Mạc Mậu Hợp",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nam - Bắc Triều": 19
   },
-  "id" : 1833,
-  "entityName" : "Võ Cận",
-  "aliases" : [ "Vũ Cận" ],
-  "overview" : "Năm Bính thìn 1556 ông đỗ tam giáp đồng tiến sĩ. Làm Tả thị lang bộ Hộ, rồi thăng dần đến Thượng thư, tước Xuân Giang Hầu, từng đi sứ nhà Minh trong năm 1580. Ông có soạn tập thơ Tĩnh Thiều kỉ hành, còn đưọc truyền tụng hàng trăm bài. Em ruột ông là Võ Cảnh đỗ Hoàng giáp, cháu gọi ông bằng chú ruột là Võ Giới về sau đỗ Trạng nguyên, đều là bậc có danh vọng trong lịch sử khoa cử nước nhà."
+  "id": 1833,
+  "entityName": "Võ Cận",
+  "aliases": [
+    "Vũ Cận"
+  ],
+  "overview": "Năm Bính thìn 1556 ông đỗ tam giáp đồng tiến sĩ. Làm Tả thị lang bộ Hộ, rồi thăng dần đến Thượng thư, tước Xuân Giang Hầu, từng đi sứ nhà Minh trong năm 1580. Ông có soạn tập thơ Tĩnh Thiều kỉ hành, còn đưọc truyền tụng hàng trăm bài. Em ruột ông là Võ Cảnh đỗ Hoàng giáp, cháu gọi ông bằng chú ruột là Võ Giới về sau đỗ Trạng nguyên, đều là bậc có danh vọng trong lịch sử khoa cử nước nhà."
 }

@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "1378",
-  "dateOfDeath" : "1437",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "nhà Lê" : null
+  "dateOfBirth": "1378",
+  "dateOfDeath": "1437",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "nhà Lê": null
   },
-  "id" : 2893,
-  "entityName" : "Nguyễn Nhữ Lãm",
-  "aliases" : [ "Lê Nhữ Lãm" ],
-  "overview" : "Nguyễn Nhữ Lãm hay Lê Nhữ Lãm(chữ Hán: 阮汝覧, 1378-1437) là công thần khai quốc nhà Lê sơ trong lịch sử Việt Nam."
+  "id": 2893,
+  "entityName": "Nguyễn Nhữ Lãm",
+  "aliases": [
+    "Lê Nhữ Lãm"
+  ],
+  "overview": "Nguyễn Nhữ Lãm hay Lê Nhữ Lãm(chữ Hán: 阮汝覧, 1378-1437) là công thần khai quốc nhà Lê sơ trong lịch sử Việt Nam."
 }

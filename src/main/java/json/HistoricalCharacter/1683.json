@@ -1,20 +1,22 @@
 {
-  "dateOfBirth" : "1237",
-  "dateOfDeath" : "1300 (62–63 tuổi)",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Trần Thái Tông (trên danh nghĩa)" : null
+  "dateOfBirth": "1237",
+  "dateOfDeath": "1300 (62–63 tuổi)",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {
+    "Trần Thái Tông (trên danh nghĩa)": null
   },
-  "motherName" : {
-    "Hiển Từ Thuận Thiên hoàng hậu" : null
+  "motherName": {
+    "Hiển Từ Thuận Thiên hoàng hậu": null
   },
-  "eraName" : {
-    "nhà Trần" : null
+  "eraName": {
+    "nhà Trần": null
   },
-  "id" : 1683,
-  "entityName" : "Trần Quốc Khang",
-  "aliases" : [ "Tĩnh Quốc Đại vương 靖國大王" ],
-  "overview" : "Trần Quốc Khang (chữ Hán: 陳國康, 1237 – 1300), được biết đến qua phong hiệu Tĩnh Quốc vương (靖國王) hay Tĩnh Quốc đại vương (靖國大王), là một hoàng tử nhà Trần trong lịch sử Việt Nam. Ông được nhắc tới nhiều do thân thế rất đặc biệt, trên danh nghĩa là con trưởng của Trần Thái Tông nhưng thực ra là con của Khâm Minh đại vương Trần Liễu, anh trai của Thái Tông."
+  "id": 1683,
+  "entityName": "Trần Quốc Khang",
+  "aliases": [
+    "Tĩnh Quốc Đại vương 靖國大王"
+  ],
+  "overview": "Trần Quốc Khang (chữ Hán: 陳國康, 1237 – 1300), được biết đến qua phong hiệu Tĩnh Quốc vương (靖國王) hay Tĩnh Quốc đại vương (靖國大王), là một hoàng tử nhà Trần trong lịch sử Việt Nam. Ông được nhắc tới nhiều do thân thế rất đặc biệt, trên danh nghĩa là con trưởng của Trần Thái Tông nhưng thực ra là con của Khâm Minh đại vương Trần Liễu, anh trai của Thái Tông."
 }

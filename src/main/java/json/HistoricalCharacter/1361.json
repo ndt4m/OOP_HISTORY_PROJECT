@@ -1,17 +1,23 @@
 {
-  "dateOfBirth" : "Giáp Dần 1914",
-  "dateOfDeath" : "Giáp Tí 1984",
-  "hometown" : "Nguyên quán làng Lương Ngọc, huyện Bình Giang, tỉnh Hải Dương sinh ra và lớn lên ở Hà Nội",
-  "occupation" : "Nhà văn",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+  "dateOfBirth": "Giáp Dần 1914",
+  "dateOfDeath": "Giáp Tí 1984",
+  "hometown": "Nguyên quán làng Lương Ngọc, huyện Bình Giang, tỉnh Hải Dương sinh ra và lớn lên ở Hà Nội",
+  "occupation": "Nhà văn",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11,
+    "Nước Việt Nam mới": 29
   },
-  "id" : 1361,
-  "entityName" : "Vũ Đăng Bằng",
-  "aliases" : [ "Hoàng Thị Trâm", "Vũ Tường Khanh", "Vũ Bằng", "Tiêu Liêu", "Lê Tâm" ],
-  "overview" : "Ông xuất thân trong một gia đình Nho học có tiếng ở Hải Dương. Thuở nhỏ học tại Trường Albert Sarraut, đang theo học năm cuối ban Tú tài, ông bỏ học dấn thân vào con đường làm báo. Từ những năm 1926-1930 ông cộng tác với các báo: Đông Tây, Ngọ báo, Tiểu thuyết thứ bảy, Ngày Mai, Trung Bắc tân văn... (Hà Nội) và một số ở Sài Gòn. Từng làm chủ nhiệm, chủ bút nhiều báo có tiếng ở Hà Nội trong những năm trước thế chiến II. Ông là một cây bút sung sức về nhiều lĩnh vực: sáng tác, nghiên cứu, dịch thuật rất sáng giá ở từng bộ môn, ngòi bút ông luôn luôn thuyết phục được tình cảm độc giả của nhiều thế hệ. Kể từ ngày bước vào làng báo (1928-1929) đến những năm cuối đời, số lượng trang viết của ông đến hàng vạn. Có thể nói suốt đời ông chuyên tâm vào việc làm báo, và việc viết báo đối với ông như là một lẽ sống. Trong một cuốn sách viết về nghề làm báo, ông tâm sự với mẹ mình: \"Nếu trở lại làm người, con cứ lại xin làm báo!\" Trong kháng chiến chống Pháp, ông tản cư ra vùng tự do cùng làm báo với Thượng Sĩ, Đặng Thai Mai... năm 1950 hồi cư về Hà Nội tiếp tục làm báo. Sau Hiệp định Genève 1954, ông di cư vào Sài Gòn và vẫn sống với nghề cũ, cộng tác với các báo: Lửa sống, Quê hương, Dân chúng, Tiếng chuông, Sài Gòn mới, Báo mới, Tin điện, Vịt vịt... cho đến năm 1975. Sau ngày thống nhất đất nước, ông \"rửa tay gác kiếm\", sống nghèo tại Khánh Hội - Sài Gòn. Theo một số bài báo gần đây, ông là người hoạt động nội thành trong ngành Quân báo QĐND Việt Nam. Ngày 7 tháng 4 năm 1984 ông mất tại Sài Gòn, thọ 70 tuổi, thi hài được hỏa táng tại An Dưỡng địa Phú Lâm. Các tác phẩm chính: - Lọ văn (1936) - Một mình trong đêm tối (1937) - Truyêhn hai người (1940) - Tội ác và hối hận (1940) - Để cho chàng khỏi khổ (1941) - Cai (1948) - Ăn tết thủy tiên (1956) - Món lạ miền Nam (1970) - Nhà văn lắm chuyện (1971) - Những cây cười tiền chiến (1971) - Khảo về tiểu thuyết (19601 - Bốn mươi năm nói láo (1969) - Cái lồng đèn (1971) - Nói có sách (1972) - Thương nhớ mười hai (1972)... Và một số sách dịch."
+  "id": 1361,
+  "entityName": "Vũ Đăng Bằng",
+  "aliases": [
+    "Hoàng Thị Trâm",
+    "Vũ Tường Khanh",
+    "Vũ Bằng",
+    "Tiêu Liêu",
+    "Lê Tâm"
+  ],
+  "overview": "Ông xuất thân trong một gia đình Nho học có tiếng ở Hải Dương. Thuở nhỏ học tại Trường Albert Sarraut, đang theo học năm cuối ban Tú tài, ông bỏ học dấn thân vào con đường làm báo. Từ những năm 1926-1930 ông cộng tác với các báo: Đông Tây, Ngọ báo, Tiểu thuyết thứ bảy, Ngày Mai, Trung Bắc tân văn... (Hà Nội) và một số ở Sài Gòn. Từng làm chủ nhiệm, chủ bút nhiều báo có tiếng ở Hà Nội trong những năm trước thế chiến II. Ông là một cây bút sung sức về nhiều lĩnh vực: sáng tác, nghiên cứu, dịch thuật rất sáng giá ở từng bộ môn, ngòi bút ông luôn luôn thuyết phục được tình cảm độc giả của nhiều thế hệ. Kể từ ngày bước vào làng báo (1928-1929) đến những năm cuối đời, số lượng trang viết của ông đến hàng vạn. Có thể nói suốt đời ông chuyên tâm vào việc làm báo, và việc viết báo đối với ông như là một lẽ sống. Trong một cuốn sách viết về nghề làm báo, ông tâm sự với mẹ mình: \"Nếu trở lại làm người, con cứ lại xin làm báo!\" Trong kháng chiến chống Pháp, ông tản cư ra vùng tự do cùng làm báo với Thượng Sĩ, Đặng Thai Mai... năm 1950 hồi cư về Hà Nội tiếp tục làm báo. Sau Hiệp định Genève 1954, ông di cư vào Sài Gòn và vẫn sống với nghề cũ, cộng tác với các báo: Lửa sống, Quê hương, Dân chúng, Tiếng chuông, Sài Gòn mới, Báo mới, Tin điện, Vịt vịt... cho đến năm 1975. Sau ngày thống nhất đất nước, ông \"rửa tay gác kiếm\", sống nghèo tại Khánh Hội - Sài Gòn. Theo một số bài báo gần đây, ông là người hoạt động nội thành trong ngành Quân báo QĐND Việt Nam. Ngày 7 tháng 4 năm 1984 ông mất tại Sài Gòn, thọ 70 tuổi, thi hài được hỏa táng tại An Dưỡng địa Phú Lâm. Các tác phẩm chính: - Lọ văn (1936) - Một mình trong đêm tối (1937) - Truyêhn hai người (1940) - Tội ác và hối hận (1940) - Để cho chàng khỏi khổ (1941) - Cai (1948) - Ăn tết thủy tiên (1956) - Món lạ miền Nam (1970) - Nhà văn lắm chuyện (1971) - Những cây cười tiền chiến (1971) - Khảo về tiểu thuyết (19601 - Bốn mươi năm nói láo (1969) - Cái lồng đèn (1971) - Nói có sách (1972) - Thương nhớ mười hai (1972)... Và một số sách dịch."
 }

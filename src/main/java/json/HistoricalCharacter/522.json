@@ -1,16 +1,22 @@
 {
-  "dateOfBirth" : "Bính Dần 1866",
-  "dateOfDeath" : "Canh Ngọ 1930",
-  "hometown" : "Quê cha ở Gia Định, sinh tại làng Hương Điểm, tỉnh Bến Tre, sau theo thân phụ ra cư ngụ ở tỉnh Bình Thuận",
-  "occupation" : "Chí sĩ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "Bính Dần 1866",
+  "dateOfDeath": "Canh Ngọ 1930",
+  "hometown": "Quê cha ở Gia Định, sinh tại làng Hương Điểm, tỉnh Bến Tre, sau theo thân phụ ra cư ngụ ở tỉnh Bình Thuận",
+  "occupation": "Chí sĩ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 522,
-  "entityName" : "Trương Gia Mô",
-  "aliases" : [ "Nghè Mô", "Hoài Huyền Tử", "Sư Thánh", "Cúc Nông", "Sư Quản" ],
-  "overview" : "Đương thời ông liên hệ mật thiết với Phan Bội Châu, Phan Châu Trinh... Ông tập ấm làm quan một thời gian ngắn tại bộ Công, rồi từ chức về sống tại quê nhà. Năm 1908, ông tham gia phong trào Duy tân, bị bắt giam một thời gian ngắn. Năm 1910, ông cùng Hồ Tá Bang, Trần Lê Chất đưa Nguyễn Thất Thành vào Sài Gòn rồi ở luôn trong Nam. Từ đó ông thường qua lại các tỉnh miền Tây Nam Bộ như Trà Vinh, Sa Đéc, Long Xuyên Rạch Giá, Hà Tiên... Về sau, ông cư ngụ ở Châu Đốc. Khoảng năm 1927-1929, ông và phó bảng Nguyễn Sinh Huy (tức Nguyễn Sinh Sắc) thường tiếp xúc với nhau về việc nước, khi thì ở Châu Đốc, lúc ở Cao Lãnh. Về sau, ông bị mật thám theo dõi ráo riết vì những hoạt động chống Pháp. Khoảng đầu tháng 1-1930 ông gieo mình từ đỉnh núi Sam, Châu Đốc xuống chân núi tử tiết. Phan Bội Châu nghe tin ông mất có thơ khóc ông: Em muốn thăm anh chửa kịp vào Đi đâu? Anh vội trốn đời sao? Lánh Tần may có nguồn đào nữa. Tìm Tống e không mảnh đất nào. Mây bạc non sông người vắng vẻ, Chim vàng đưa gió bạn lao xao. Giang Nam còn phú ai kìa nhớ, Máu quốc đầu gành mấy đoạn đau. Ông sáng tác văn chương khá nhiều Tác phẩm chính của ông gồm: - Thi hoài (phú) - Gia Định tam tiên liệt truyện (biên soạn tiểu sử công nghiệp của ba vị liệt sĩ ở Gia Định: Hồ Huân Nghiệp, Nguyễn Trung Trực, Nguyễn Hữu Huân). - Cúc Nông thư tập (bằng chữ Hán, Tạp chí Nam Phong sao lục). Nhưng trước khi mất ông đã cho chôn tất cả các tác phẩm của mình vào một nơi mà ông gọi là Cúc Nông trùng thư (mồ chôn sách của Cúc Nông). Trên mộ sách có hai câu đối: \"Hán học, hà niên phục Di biên tử nhật tàng\". Nghĩa: Hán học biết năm nào mới phục hồi; Cho nên những gì còn lại, ngày người mất nên chôn hết đi cho rồi!"
+  "id": 522,
+  "entityName": "Trương Gia Mô",
+  "aliases": [
+    "Nghè Mô",
+    "Hoài Huyền Tử",
+    "Sư Thánh",
+    "Cúc Nông",
+    "Sư Quản"
+  ],
+  "overview": "Đương thời ông liên hệ mật thiết với Phan Bội Châu, Phan Châu Trinh... Ông tập ấm làm quan một thời gian ngắn tại bộ Công, rồi từ chức về sống tại quê nhà. Năm 1908, ông tham gia phong trào Duy tân, bị bắt giam một thời gian ngắn. Năm 1910, ông cùng Hồ Tá Bang, Trần Lê Chất đưa Nguyễn Thất Thành vào Sài Gòn rồi ở luôn trong Nam. Từ đó ông thường qua lại các tỉnh miền Tây Nam Bộ như Trà Vinh, Sa Đéc, Long Xuyên Rạch Giá, Hà Tiên... Về sau, ông cư ngụ ở Châu Đốc. Khoảng năm 1927-1929, ông và phó bảng Nguyễn Sinh Huy (tức Nguyễn Sinh Sắc) thường tiếp xúc với nhau về việc nước, khi thì ở Châu Đốc, lúc ở Cao Lãnh. Về sau, ông bị mật thám theo dõi ráo riết vì những hoạt động chống Pháp. Khoảng đầu tháng 1-1930 ông gieo mình từ đỉnh núi Sam, Châu Đốc xuống chân núi tử tiết. Phan Bội Châu nghe tin ông mất có thơ khóc ông: Em muốn thăm anh chửa kịp vào Đi đâu? Anh vội trốn đời sao? Lánh Tần may có nguồn đào nữa. Tìm Tống e không mảnh đất nào. Mây bạc non sông người vắng vẻ, Chim vàng đưa gió bạn lao xao. Giang Nam còn phú ai kìa nhớ, Máu quốc đầu gành mấy đoạn đau. Ông sáng tác văn chương khá nhiều Tác phẩm chính của ông gồm: - Thi hoài (phú) - Gia Định tam tiên liệt truyện (biên soạn tiểu sử công nghiệp của ba vị liệt sĩ ở Gia Định: Hồ Huân Nghiệp, Nguyễn Trung Trực, Nguyễn Hữu Huân). - Cúc Nông thư tập (bằng chữ Hán, Tạp chí Nam Phong sao lục). Nhưng trước khi mất ông đã cho chôn tất cả các tác phẩm của mình vào một nơi mà ông gọi là Cúc Nông trùng thư (mồ chôn sách của Cúc Nông). Trên mộ sách có hai câu đối: \"Hán học, hà niên phục Di biên tử nhật tàng\". Nghĩa: Hán học biết năm nào mới phục hồi; Cho nên những gì còn lại, ngày người mất nên chôn hết đi cho rồi!"
 }

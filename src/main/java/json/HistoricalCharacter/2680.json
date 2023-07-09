@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "1841\n----------------------------------------------\nTân Sửu 1841",
-  "hometown" : "quê làng Hanh Thông, huyện Bình Dương tỉnh Gia Định (nay thuộc Quận Gò Vấp Thành phố Hồ Chí Minh)",
-  "occupation" : "Danh tướng, tác giả đời Nguyễn, con Thượng thư Trương Minh Thành",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+  "dateOfBirth": "…",
+  "dateOfDeath": "1841\n----------------------------------------------\nTân Sửu 1841",
+  "hometown": "quê làng Hanh Thông, huyện Bình Dương tỉnh Gia Định (nay thuộc Quận Gò Vấp Thành phố Hồ Chí Minh)",
+  "occupation": "Danh tướng, tác giả đời Nguyễn, con Thượng thư Trương Minh Thành",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 2680,
-  "entityName" : "Trương Minh Giảng",
-  "aliases" : [ ],
-  "overview" : "Trương Minh Giảng (chữ Hán: 張明講; ?-1841) là một danh thần nhà Nguyễn. Ông được đánh giá là một người \"văn võ song toàn\", là công thần bậc nhất của nhà Nguyễn, vừa là một võ tướng vừa là một sử gia, từng giữ chức Tổng tài Quốc sử quán.\n----------------------------------------------\nNăm Kỉ mão 1819 ông đỗ cử nhân được bổ chức Tư vụ, dần thăng tới Lang trung bộ Binh, rồi đổi sang bộ Hình. Năm 1829 ông thăng chức Tham tri, được phái vào Nam công cán ở Gia Định, khi đổi về kinh ông làm Tả tham tri bộ Hộ và được thụ chức Thượng thư kiêm cả Khâm thiên giám. Năm Quí tị 1833, Lê Văn Khôi, khởi binh trong Nam, ông sung chức Tham tán quân vụ, cùng với Thảo nghịch tướng quân Phan Văn Thúy đem binh vào đánh. Thắng trận, ông được khen thưởng một tấm bài bằng ngọc và tiền phi long bằng vàng. Kế đó ông cùng Nguyễn Xuân đẩy lui được quân Xiêm xâm phạm miền Nam, được tấn phong tước Bình Thành Nam. Ông lại cùng Nguyễn Văn Năng đánh quân Xiêm xâm lược, giúp Chân Lạp (Campuchia) thu phục lại thành Nam Vang, được gia phong Bình Thành Bá. Sau ông được phong Hiệp biện đại học sĩ, lãnh chức Tổng đốc An Giang không lâu ông lại được phong Đông các đại học sĩ kiêm chức vụ Bảo hộ Chân Lạp. Ông từng cùng các tướng dày công giữ vững thành Trấn Tây, nên khi triều đình dựng bia võ công (1838), tên ông được khắc hàng đầu đặt trong võ miếu. Năm Tân sửu 1841, tháng 7 âm lịch ông bệnh mất tại An Giang. Ông có hợp với Phan Huy Thực (Thượng thư hợp bộ Lễ) biên soạn bộ Liệt thánh thực lục trong năm 1832 và làm Tổng tài Quốc sử quán soạn Đại Nam thực lục chính biên."
+  "id": 2680,
+  "entityName": "Trương Minh Giảng",
+  "aliases": [],
+  "overview": "Trương Minh Giảng (chữ Hán: 張明講; ?-1841) là một danh thần nhà Nguyễn. Ông được đánh giá là một người \"văn võ song toàn\", là công thần bậc nhất của nhà Nguyễn, vừa là một võ tướng vừa là một sử gia, từng giữ chức Tổng tài Quốc sử quán.\n----------------------------------------------\nNăm Kỉ mão 1819 ông đỗ cử nhân được bổ chức Tư vụ, dần thăng tới Lang trung bộ Binh, rồi đổi sang bộ Hình. Năm 1829 ông thăng chức Tham tri, được phái vào Nam công cán ở Gia Định, khi đổi về kinh ông làm Tả tham tri bộ Hộ và được thụ chức Thượng thư kiêm cả Khâm thiên giám. Năm Quí tị 1833, Lê Văn Khôi, khởi binh trong Nam, ông sung chức Tham tán quân vụ, cùng với Thảo nghịch tướng quân Phan Văn Thúy đem binh vào đánh. Thắng trận, ông được khen thưởng một tấm bài bằng ngọc và tiền phi long bằng vàng. Kế đó ông cùng Nguyễn Xuân đẩy lui được quân Xiêm xâm phạm miền Nam, được tấn phong tước Bình Thành Nam. Ông lại cùng Nguyễn Văn Năng đánh quân Xiêm xâm lược, giúp Chân Lạp (Campuchia) thu phục lại thành Nam Vang, được gia phong Bình Thành Bá. Sau ông được phong Hiệp biện đại học sĩ, lãnh chức Tổng đốc An Giang không lâu ông lại được phong Đông các đại học sĩ kiêm chức vụ Bảo hộ Chân Lạp. Ông từng cùng các tướng dày công giữ vững thành Trấn Tây, nên khi triều đình dựng bia võ công (1838), tên ông được khắc hàng đầu đặt trong võ miếu. Năm Tân sửu 1841, tháng 7 âm lịch ông bệnh mất tại An Giang. Ông có hợp với Phan Huy Thực (Thượng thư hợp bộ Lễ) biên soạn bộ Liệt thánh thực lục trong năm 1832 và làm Tổng tài Quốc sử quán soạn Đại Nam thực lục chính biên."
 }

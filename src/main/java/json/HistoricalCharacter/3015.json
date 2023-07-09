@@ -1,18 +1,23 @@
 {
-  "dateOfBirth" : "Tuy Viễn (Tây Sơn, Bình Định)",
-  "dateOfDeath" : "10/7/1802 (tức 16 tháng 6 năm Nhâm Tuất) thành cổ Xương Giang",
-  "hometown" : "Không rõ",
-  "occupation" : "Chính cung Hoàng hậu nhà Tây Sơn",
-  "workTenure" : "1791 - 1792",
-  "fatherName" : {
-    "Bùi Đức Lương" : null
+  "dateOfBirth": "Tuy Viễn (Tây Sơn, Bình Định)",
+  "dateOfDeath": "10/7/1802 (tức 16 tháng 6 năm Nhâm Tuất) thành cổ Xương Giang",
+  "hometown": "Không rõ",
+  "occupation": "Chính cung Hoàng hậu nhà Tây Sơn",
+  "workTenure": "1791 - 1792",
+  "fatherName": {
+    "Bùi Đức Lương": null
   },
-  "motherName" : { },
-  "eraName" : {
-    "nhà Tây Sơn" : null
+  "motherName": {},
+  "eraName": {
+    "nhà Tây Sơn": null
   },
-  "id" : 3015,
-  "entityName" : "Bùi Thị Nhạn",
-  "aliases" : [ "Bùi Thị Nhạn", "Đệ nhị Quang Trung hoàng hậu", "Quang Trung Bùi hoàng hậu", "Thái Tổ Vũ hoàng hậu" ],
-  "overview" : "Bùi Thị Nhạn (chữ Hán: 裴氏雁, ?- 1802) là một trong Tây Sơn ngũ phụng thư. Sau này, khi trở thành vợ chính thức của vua Quang Trung (Nguyễn Huệ), bà được tấn phong làm Chính cung Hoàng hậu, và sau đó là Hoàng thái hậu khi con bà (?) là Nguyễn Quang Toản lên nối ngôi vua nhà Tây Sơn trong lịch sử Việt Nam."
+  "id": 3015,
+  "entityName": "Bùi Thị Nhạn",
+  "aliases": [
+    "Bùi Thị Nhạn",
+    "Đệ nhị Quang Trung hoàng hậu",
+    "Quang Trung Bùi hoàng hậu",
+    "Thái Tổ Vũ hoàng hậu"
+  ],
+  "overview": "Bùi Thị Nhạn (chữ Hán: 裴氏雁, ?- 1802) là một trong Tây Sơn ngũ phụng thư. Sau này, khi trở thành vợ chính thức của vua Quang Trung (Nguyễn Huệ), bà được tấn phong làm Chính cung Hoàng hậu, và sau đó là Hoàng thái hậu khi con bà (?) là Nguyễn Quang Toản lên nối ngôi vua nhà Tây Sơn trong lịch sử Việt Nam."
 }

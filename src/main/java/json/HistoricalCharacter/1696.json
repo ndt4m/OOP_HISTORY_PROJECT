@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "nhà Đường" : null
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "nhà Đường": null
   },
-  "id" : 1696,
-  "entityName" : "Lý Hy Liệt",
-  "aliases" : [ "Đổng Hi Liệt" ],
-  "overview" : "Lý Hi Liệt (chữ Hán: 李希烈, bính âm: Li Xilie, 9 tháng 5 năm 786 ), hay Đổng Hi Liệt (董希烈), là Tiết độ sứ Hoài Tây dưới thời đại nhà Đường trong lịch sử Trung Quốc. Ông tiến hành cuộc chính biến lật đổ Tiết độ sứ Lý Trung Thần năm 779 và nắm quyền cai trị ở Hoài Tây. Khi loạn tứ trấn bùng nổ, ông hưởng ứng triều đình tham gia tiêu diệt Tiết độ sứ Lương Sùng Nghĩa ở Sơn Nam Đông Đạo , tuy nhiên sau đó lại bất mãn với triều đình và tự xưng là hoàng đế nước Đại Sở (784). Trong tình thế loạn Phụng Thiên sắp bị dẹp, Lý Hi Liệt vẫn cố gắng mở rộng lãnh thổ của mình, nhưng bị phản kháng liên tiếp từ các lực lượng ủng hộ nhà Đường. Năm 785, quốc đô Biện châu bị chiếm, Lý Hi Liệt bỏ chạy về Thái châu rồi bị tướng dưới quyền là Trần Tiên Kì đầu độc giết năm 786, chính quyền Đại Sở bị tiêu diệt. Trấn Hoài Tây sau đó thuộc quyền quản lý của Ngô Thiếu Thành."
+  "id": 1696,
+  "entityName": "Lý Hy Liệt",
+  "aliases": [
+    "Đổng Hi Liệt"
+  ],
+  "overview": "Lý Hi Liệt (chữ Hán: 李希烈, bính âm: Li Xilie, 9 tháng 5 năm 786 ), hay Đổng Hi Liệt (董希烈), là Tiết độ sứ Hoài Tây dưới thời đại nhà Đường trong lịch sử Trung Quốc. Ông tiến hành cuộc chính biến lật đổ Tiết độ sứ Lý Trung Thần năm 779 và nắm quyền cai trị ở Hoài Tây. Khi loạn tứ trấn bùng nổ, ông hưởng ứng triều đình tham gia tiêu diệt Tiết độ sứ Lương Sùng Nghĩa ở Sơn Nam Đông Đạo , tuy nhiên sau đó lại bất mãn với triều đình và tự xưng là hoàng đế nước Đại Sở (784). Trong tình thế loạn Phụng Thiên sắp bị dẹp, Lý Hi Liệt vẫn cố gắng mở rộng lãnh thổ của mình, nhưng bị phản kháng liên tiếp từ các lực lượng ủng hộ nhà Đường. Năm 785, quốc đô Biện châu bị chiếm, Lý Hi Liệt bỏ chạy về Thái châu rồi bị tướng dưới quyền là Trần Tiên Kì đầu độc giết năm 786, chính quyền Đại Sở bị tiêu diệt. Trấn Hoài Tây sau đó thuộc quyền quản lý của Ngô Thiếu Thành."
 }

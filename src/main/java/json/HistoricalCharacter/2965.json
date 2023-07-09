@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "1903",
-  "dateOfDeath" : "1990",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 2965,
-  "entityName" : "Trần Văn Đỗ",
-  "aliases" : [ ],
-  "overview" : "Trần Văn Đỗ (1903-1990) là một cựu chính khách, cựu Bộ trưởng Ngoại giao của Quốc gia Việt Nam, Phó thủ tướng, Bộ trưởng ngoại giao của Việt Nam Cộng hòa."
+  "dateOfBirth": "1903",
+  "dateOfDeath": "1990",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 2965,
+  "entityName": "Trần Văn Đỗ",
+  "aliases": [],
+  "overview": "Trần Văn Đỗ (1903-1990) là một cựu chính khách, cựu Bộ trưởng Ngoại giao của Quốc gia Việt Nam, Phó thủ tướng, Bộ trưởng ngoại giao của Việt Nam Cộng hòa."
 }

@@ -1,16 +1,19 @@
 {
-  "dateOfBirth" : "Bính Dần 1506",
-  "dateOfDeath" : "Bính Thân 1584",
-  "hometown" : "tại châu Ô, tự là Văn Dụng, hiệu Phước Tâm, sau khi mất được ban thụy là Trường Tự, nguyên quán huyện Tống Sơn tỉnh Thanh Hóa",
-  "occupation" : "Tiền hiền, tổ nghề gốm làng Phước Tích tại châu Ô",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
+  "dateOfBirth": "Bính Dần 1506",
+  "dateOfDeath": "Bính Thân 1584",
+  "hometown": "tại châu Ô, tự là Văn Dụng, hiệu Phước Tâm, sau khi mất được ban thụy là Trường Tự, nguyên quán huyện Tống Sơn tỉnh Thanh Hóa",
+  "occupation": "Tiền hiền, tổ nghề gốm làng Phước Tích tại châu Ô",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34
   },
-  "id" : 1311,
-  "entityName" : "Phan Ngọc Lãm",
-  "aliases" : [ "Văn Dụng", "Phước Tâm" ],
-  "overview" : "Khi Nguyễn Hoàng vào châu Ô, ông theo thân phụ (Phan Ngọc Phổ) vào khai nghiệp, lập làng Phước Tích, huyện Hương Trà, tỉnh Thừa Thiên ngày nay. Tại đây, ông và thân phụ cùng đoàn đi dân theo chúa Nguyễn vào đến huyện Hương Trà rồi xuống Cồn Dương (nay là làng Phước Tích) khai khẩn đất đai xây dựng nhà cửa, tổ chức nghề gốm. Từ đó con cháu ngày càng có sản nghiệp dân chúng an cư lạc nghiệp tại vùng đất mới này. Sau khi qua đời được triều đình phong \"Dực Bảo trung hưng linh phò chi thần\" thờ tại đình làng. Ông được nhân dân xưng tụng và tôn là ông tổ nghề gốm xứ Đàng Trong."
+  "id": 1311,
+  "entityName": "Phan Ngọc Lãm",
+  "aliases": [
+    "Văn Dụng",
+    "Phước Tâm"
+  ],
+  "overview": "Khi Nguyễn Hoàng vào châu Ô, ông theo thân phụ (Phan Ngọc Phổ) vào khai nghiệp, lập làng Phước Tích, huyện Hương Trà, tỉnh Thừa Thiên ngày nay. Tại đây, ông và thân phụ cùng đoàn đi dân theo chúa Nguyễn vào đến huyện Hương Trà rồi xuống Cồn Dương (nay là làng Phước Tích) khai khẩn đất đai xây dựng nhà cửa, tổ chức nghề gốm. Từ đó con cháu ngày càng có sản nghiệp dân chúng an cư lạc nghiệp tại vùng đất mới này. Sau khi qua đời được triều đình phong \"Dực Bảo trung hưng linh phò chi thần\" thờ tại đình làng. Ông được nhân dân xưng tụng và tôn là ông tổ nghề gốm xứ Đàng Trong."
 }

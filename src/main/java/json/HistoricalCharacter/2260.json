@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Quê ở châu Thường Xuân, tỉnh Thanh Hóa, (nay vẫn thuộc tỉnh Thanh Hóa)",
-  "occupation" : "Chí sĩ đời Hàm Nghi",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Quê ở châu Thường Xuân, tỉnh Thanh Hóa, (nay vẫn thuộc tỉnh Thanh Hóa)",
+  "occupation": "Chí sĩ đời Hàm Nghi",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 2260,
-  "entityName" : "Hà Triều Nguyệt",
-  "aliases" : [ "Lãnh Nguyệt" ],
-  "overview" : "Năm Kỉ hợi 1899, hưởng ứng phong trào Văn thân, Cần Vương, ông theo giúp Đề Thám chống giặc Pháp. Ông có sức vóc mạnh mẽ, da ngăm đen, râu quai nón, ăn uống chẳng kém Lê Như Hổ đời Lê. Năm Giáp thìn 1904, chiến khu Yên Thế bị phá vỡ, ông bị bắt. Năm sau, ông bị đưa đi đày ở Guyane với bản án 12 năm khổ sai. Đến năm Ất mão 1915, được thả về, ông lại bị đưa đi an trí ở Huế. Sau nhờ Tôn Thất Hân (phụ chánh triều Bảo Đại) bảo lãnh, ông được về sống ở quê, rồi chết ở đấy."
+  "id": 2260,
+  "entityName": "Hà Triều Nguyệt",
+  "aliases": [
+    "Lãnh Nguyệt"
+  ],
+  "overview": "Năm Kỉ hợi 1899, hưởng ứng phong trào Văn thân, Cần Vương, ông theo giúp Đề Thám chống giặc Pháp. Ông có sức vóc mạnh mẽ, da ngăm đen, râu quai nón, ăn uống chẳng kém Lê Như Hổ đời Lê. Năm Giáp thìn 1904, chiến khu Yên Thế bị phá vỡ, ông bị bắt. Năm sau, ông bị đưa đi đày ở Guyane với bản án 12 năm khổ sai. Đến năm Ất mão 1915, được thả về, ông lại bị đưa đi an trí ở Huế. Sau nhờ Tôn Thất Hân (phụ chánh triều Bảo Đại) bảo lãnh, ông được về sống ở quê, rồi chết ở đấy."
 }

@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê ở Mĩ Tho, tỉnh Định Tường (nay thuộc tỉnh Tiền Giang)",
-  "occupation" : "Nhà văn cận đại, ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "quê ở Mĩ Tho, tỉnh Định Tường (nay thuộc tỉnh Tiền Giang)",
+  "occupation": "Nhà văn cận đại, ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 1852,
-  "entityName" : "Mai Đằng Phương",
-  "aliases" : [ "Nhiêu Phang" ],
-  "overview" : "Khi quân Pháp chiếm Định Tường (1861), ông giữ tiết tháo, chịu sống nghèo nhất định không hợp tác với giặc dù được giặc Pháp nhiều lần mời ra cộng tác ông sống với nghề dạy học và làm thuốc đương thời được nhân dân trọng vọng. Mai Đằng Phương là một nhà thơ có thi tài tương truyền ông sáng tác nhiều, nhưng tác phẩm ông đã thất lạc phần lớn. Bài thơ \"CON CHÓ\" hàm ý sâu sắc được truyền tụng trong dân gian: Ban đêm ai nấy ngủ tư bề, Can cớ chi mà sủa tía lia? Láu quáu chẳng cho hồn điệp nghỉ, Gầm gừ không để giấc hòe mê. Một là giận kẻ say về tối. Hai nữa ghét người thức học khuya! Trờì đất xui ta làm đặng chủ, Muợn đao Phàn Khoái giết không ghê."
+  "id": 1852,
+  "entityName": "Mai Đằng Phương",
+  "aliases": [
+    "Nhiêu Phang"
+  ],
+  "overview": "Khi quân Pháp chiếm Định Tường (1861), ông giữ tiết tháo, chịu sống nghèo nhất định không hợp tác với giặc dù được giặc Pháp nhiều lần mời ra cộng tác ông sống với nghề dạy học và làm thuốc đương thời được nhân dân trọng vọng. Mai Đằng Phương là một nhà thơ có thi tài tương truyền ông sáng tác nhiều, nhưng tác phẩm ông đã thất lạc phần lớn. Bài thơ \"CON CHÓ\" hàm ý sâu sắc được truyền tụng trong dân gian: Ban đêm ai nấy ngủ tư bề, Can cớ chi mà sủa tía lia? Láu quáu chẳng cho hồn điệp nghỉ, Gầm gừ không để giấc hòe mê. Một là giận kẻ say về tối. Hai nữa ghét người thức học khuya! Trờì đất xui ta làm đặng chủ, Muợn đao Phàn Khoái giết không ghê."
 }

@@ -1,18 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Thủ lĩnh",
-  "workTenure" : "791—791",
-  "fatherName" : {
-    "Phùng Hưng" : 2349
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Thủ lĩnh",
+  "workTenure": "791—791",
+  "fatherName": {
+    "Phùng Hưng": 2602
   },
-  "motherName" : { },
-  "eraName" : {
-    "Họ Phùng" : 4
+  "motherName": {},
+  "eraName": {
+    "Họ Phùng": 4
   },
-  "id" : 1233,
-  "entityName" : "Phùng An",
-  "aliases" : [ ],
-  "overview" : "Phùng An là vua Việt Nam trong thời thuộc Đường đầu thế kỷ thứ 9."
+  "id": 1233,
+  "entityName": "Phùng An",
+  "aliases": [],
+  "overview": "Phùng An là vua Việt Nam trong thời thuộc Đường đầu thế kỷ thứ 9."
 }

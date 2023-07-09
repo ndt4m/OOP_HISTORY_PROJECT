@@ -1,22 +1,27 @@
 {
-  "dateOfBirth" : "6 tháng 7, 1173\n----------------------------------------------\nQuí Tị 1173\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "15 tháng 11, 1210 (37 tuổi)\n----------------------------------------------\nCanh Ngọ 1210\n----------------------------------------------\nKhông rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua nhà Lý, tác giả, con thứ 6 Lý Anh tông và Hoàng hậu họ Đỗ, sinh ngày 25-5 âm lịch Quí tị (6-7-1173), được tôn làm vua lúc mới 3 tuổi \n----------------------------------------------\nVua",
-  "workTenure" : "1175 - 1210\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1176—1204",
-  "fatherName" : {
-    "Lý Anh tông" : null,
-    "Lý Anh Tông" : 2394
+  "dateOfBirth": "6 tháng 7, 1173\n----------------------------------------------\nQuí Tị 1173\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath": "15 tháng 11, 1210 (37 tuổi)\n----------------------------------------------\nCanh Ngọ 1210\n----------------------------------------------\nKhông rõ",
+  "hometown": "Không rõ",
+  "occupation": "Hoàng đế Đại Việt\n----------------------------------------------\nVua nhà Lý, tác giả, con thứ 6 Lý Anh tông và Hoàng hậu họ Đỗ, sinh ngày 25-5 âm lịch Quí tị (6-7-1173), được tôn làm vua lúc mới 3 tuổi \n----------------------------------------------\nVua",
+  "workTenure": "1175 - 1210\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1176—1204",
+  "fatherName": {
+    "Lý Anh tông": null,
+    "Lý Anh Tông": 2664
   },
-  "motherName" : {
-    "Hoàng hậu họ Đỗ" : null,
-    "Đỗ Thụy Châu" : null
+  "motherName": {
+    "Hoàng hậu họ Đỗ": null,
+    "Đỗ Thụy Châu": null
   },
-  "eraName" : {
-    "Nhà Lý" : 14
+  "eraName": {
+    "Nhà Lý": 14
   },
-  "id" : 1709,
-  "entityName" : "Lý Long Trát",
-  "aliases" : [ "Niên hiệu Trinh Phù (1176 - 1185) Thiên Tư Gia Thuỵ (1186 - 1201) Thiên Gia Bảo Hựu (1202 - 1204) Trị Bình Long Ứng (1205 - 1210", "Lý Long Cán (hay Trát )", "Cao Tông", "Lý Cao Tông" ],
-  "overview" : "Lý Cao Tông (chữ Hán: 李高宗, 1173–1210), là vị Hoàng đế thứ bảy của nhà Lý, cai trị từ năm 1175 đến năm 1210.\n----------------------------------------------\nĐến khi nhóm Quách Bối nổi loạn, vua phải lánh ra sông Qui Hóa (Thao Giang, ở phía Bắc. huyện Tam Nông, Phú Thọ, nay là Vĩnh Phú) nhờ anh em Trần Lễ tập hợp lương binh cứu giúp mới yên, nhưng cũng từ đấy cánh họ Trần mạnh lên, triều Lý dần dần suy sụp. Khoảng năm Đinh mão 120, trong cơn nước loạn, nhà vua có ban tờ chiếu hối lỗi. Ngày 28-10 âm lịch Canh ngọ (17-11-1210) ông mất, hưởng dương 37 tuổi, ở ngôi 34 năm đổi hiệu bốn lần: 1. Trinh Phù: Bính thân 1176-1186. 2. Thiên Tư GiaThụy: Bính ngọ 1186 Tân dậu 1201. 3. Thiện Gia Bảo Hựu: Tân dậu 1201 - Ất sửu 1201. 4. Trị Bình Long Ứng: Ất sửu 1205 - Canh ngọ 1210.\n----------------------------------------------\nLý Cao Tông (chữ Hán: 李高宗 6 tháng 7 năm 1173 – 15 tháng 11 năm 1210) là vị hoàng đế thứ bảy của nhà Lý, cai trị từ năm 1175 đến năm 1210. Thời kỳ của ông đánh dấu sự suy tàn không thể vực dậy của nhà Lý hay còn gọi là Cao Tông Trung Suy (高宗中衰)."
+  "id": 1709,
+  "entityName": "Lý Long Trát",
+  "aliases": [
+    "Niên hiệu Trinh Phù (1176 - 1185) Thiên Tư Gia Thuỵ (1186 - 1201) Thiên Gia Bảo Hựu (1202 - 1204) Trị Bình Long Ứng (1205 - 1210",
+    "Lý Long Cán (hay Trát )",
+    "Cao Tông",
+    "Lý Cao Tông"
+  ],
+  "overview": "Lý Cao Tông (chữ Hán: 李高宗, 1173–1210), là vị Hoàng đế thứ bảy của nhà Lý, cai trị từ năm 1175 đến năm 1210.\n----------------------------------------------\nĐến khi nhóm Quách Bối nổi loạn, vua phải lánh ra sông Qui Hóa (Thao Giang, ở phía Bắc. huyện Tam Nông, Phú Thọ, nay là Vĩnh Phú) nhờ anh em Trần Lễ tập hợp lương binh cứu giúp mới yên, nhưng cũng từ đấy cánh họ Trần mạnh lên, triều Lý dần dần suy sụp. Khoảng năm Đinh mão 120, trong cơn nước loạn, nhà vua có ban tờ chiếu hối lỗi. Ngày 28-10 âm lịch Canh ngọ (17-11-1210) ông mất, hưởng dương 37 tuổi, ở ngôi 34 năm đổi hiệu bốn lần: 1. Trinh Phù: Bính thân 1176-1186. 2. Thiên Tư GiaThụy: Bính ngọ 1186 Tân dậu 1201. 3. Thiện Gia Bảo Hựu: Tân dậu 1201 - Ất sửu 1201. 4. Trị Bình Long Ứng: Ất sửu 1205 - Canh ngọ 1210.\n----------------------------------------------\nLý Cao Tông (chữ Hán: 李高宗 6 tháng 7 năm 1173 – 15 tháng 11 năm 1210) là vị hoàng đế thứ bảy của nhà Lý, cai trị từ năm 1175 đến năm 1210. Thời kỳ của ông đánh dấu sự suy tàn không thể vực dậy của nhà Lý hay còn gọi là Cao Tông Trung Suy (高宗中衰)."
 }

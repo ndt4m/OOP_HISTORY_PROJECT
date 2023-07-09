@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 2564,
-  "entityName" : "Kỷ Hồng Bàng",
-  "aliases" : [ ],
-  "overview" : "Hồng Bàng Thị (chữ Hán: 鴻龐氏) hay Thời đại Hồng Bàng là một giai đoạn lịch sử thuộc thời đại thượng cổ của lịch sử Việt Nam."
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 2564,
+  "entityName": "Kỷ Hồng Bàng",
+  "aliases": [],
+  "overview": "Hồng Bàng Thị (chữ Hán: 鴻龐氏) hay Thời đại Hồng Bàng là một giai đoạn lịch sử thuộc thời đại thượng cổ của lịch sử Việt Nam."
 }

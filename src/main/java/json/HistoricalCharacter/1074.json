@@ -1,18 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Vua",
-  "workTenure" : "1677–1681",
-  "fatherName" : {
-    "Mạc Kính Vũ" : 1506
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Vua",
+  "workTenure": "1677–1681",
+  "fatherName": {
+    "Mạc Kính Vũ": 1816
   },
-  "motherName" : { },
-  "eraName" : {
-    "Bắc triều – Nhà Mạc  và thời kỳ Cao Bằng" : null
+  "motherName": {},
+  "eraName": {
+    "Bắc triều – Nhà Mạc  và thời kỳ Cao Bằng": null
   },
-  "id" : 1074,
-  "entityName" : "Mạc Quý Tông",
-  "aliases" : [ ],
-  "overview" : "Mạc Kính Hẻ (莫敬喜), cũng có tên là Mạc Kính Thụy (莫敬瑞) hay Mạc Nguyên Thanh (莫元清), là vị vua (không chính thức) của nhà Mạc thời hậu kỳ trong lịch sử Việt Nam. Nguyên quán Mạc Kính Hẻ là người xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách, tỉnh Hải Dương). Tuy nhiên, ông không được nhắc đến trong sử sách Việt Nam."
+  "id": 1074,
+  "entityName": "Mạc Quý Tông",
+  "aliases": [],
+  "overview": "Mạc Kính Hẻ (莫敬喜), cũng có tên là Mạc Kính Thụy (莫敬瑞) hay Mạc Nguyên Thanh (莫元清), là vị vua (không chính thức) của nhà Mạc thời hậu kỳ trong lịch sử Việt Nam. Nguyên quán Mạc Kính Hẻ là người xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách, tỉnh Hải Dương). Tuy nhiên, ông không được nhắc đến trong sử sách Việt Nam."
 }

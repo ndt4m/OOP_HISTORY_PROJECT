@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Quê làng Hoa Duệ, hạt Kì Hoa",
-  "occupation" : "Danh thần đời Lê Trung tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nam - Bắc Triều" : 19
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Quê làng Hoa Duệ, hạt Kì Hoa",
+  "occupation": "Danh thần đời Lê Trung tông",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nam - Bắc Triều": 19
   },
-  "id" : 2636,
-  "entityName" : "Biện Hoành",
-  "aliases" : [ ],
-  "overview" : "Năm Thuận Bình 6 (Giáp dần 1554), ông đỗ nhị giáp đồng chế khoa xuất thân. Có tài văn thơ, được sĩ phu trọng vọng. Làm quan đến Hiến sát sứ. Nổi tiếng thanh liêm chính trực."
+  "id": 2636,
+  "entityName": "Biện Hoành",
+  "aliases": [],
+  "overview": "Năm Thuận Bình 6 (Giáp dần 1554), ông đỗ nhị giáp đồng chế khoa xuất thân. Có tài văn thơ, được sĩ phu trọng vọng. Làm quan đến Hiến sát sứ. Nổi tiếng thanh liêm chính trực."
 }

@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "…",
-  "dateOfDeath" : "Kỉ Hợi 1119",
-  "hometown" : "quê ở Hải Thanh (có sách chép Giao Thủy)",
-  "occupation" : "Thiền sư đời Lý Anh tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Lý" : 14
+  "dateOfBirth": "…",
+  "dateOfDeath": "Kỉ Hợi 1119",
+  "hometown": "quê ở Hải Thanh (có sách chép Giao Thủy)",
+  "occupation": "Thiền sư đời Lý Anh tông",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Lý": 14
   },
-  "id" : 2319,
-  "entityName" : "Dương Không Lộ",
-  "aliases" : [ ],
-  "overview" : "Ông xuất thân làm nghề chài lưới, nhưng có học, giỏi văn chương, mộ đạo Phật, ông tu nơi chùa Hà Trạch. Về sau được truyền tâm ấn, ông nghiễm nhiên là đời tổ thứ 6 phái Thảo Đường. Năm Kỉ hợi 1119, ngày 3-6 ông mất. Lý Nhân tông có sai sửa rộng ngôi chùa của ông trụ trì và quyên cho 20 hộ để hương khói. Nhiều nơi trong huyện Giao Thủy có đền thờ ông."
+  "id": 2319,
+  "entityName": "Dương Không Lộ",
+  "aliases": [],
+  "overview": "Ông xuất thân làm nghề chài lưới, nhưng có học, giỏi văn chương, mộ đạo Phật, ông tu nơi chùa Hà Trạch. Về sau được truyền tâm ấn, ông nghiễm nhiên là đời tổ thứ 6 phái Thảo Đường. Năm Kỉ hợi 1119, ngày 3-6 ông mất. Lý Nhân tông có sai sửa rộng ngôi chùa của ông trụ trì và quyên cho 20 hộ để hương khói. Nhiều nơi trong huyện Giao Thủy có đền thờ ông."
 }

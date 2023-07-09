@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Giáp Thân 1224",
-  "hometown" : "quê ở kinh đô Thăng Long (nay là Hà Nội)",
-  "occupation" : "Thiền sư đời Lý Huệ tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Lý" : 14
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Giáp Thân 1224",
+  "hometown": "quê ở kinh đô Thăng Long (nay là Hà Nội)",
+  "occupation": "Thiền sư đời Lý Huệ tông",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Lý": 14
   },
-  "id" : 33,
-  "entityName" : "Lê Thuần",
-  "aliases" : [ "Hiện Quang" ],
-  "overview" : "Ông mồ côi cha từ ngày còn bé, được sư Thường Chiếu đem về nuôi dạy hơn 10 năm. Sau khi Thường Chiếu qua đời, ông theo tu học với sư Trí Thông. Tương truyền khi ở chùa, một hôm vì nhận một món lễ vật của công chúa Hoa Dương, bị xuyên tạc, đạo hữu chê cười, ông bèn vào núi Uyên Trừng ở Nghệ An theo học với sư Pháp Giới. Khi tu học ở Uyên Trừng, Lý Huệ tông nhiều lần cho vời ông về triều, ông đều từ chối. Có nguời biết vậy hỏi: - Thầy ở trên núi làm gì? Ông đáp bằng một bài kệ: \"Ná dĩ Hứa Do đức, Hà tri thế kỉ xuân. Vô vi cư khoáng dã, Tiêu dao tự tại nhân.\" Nghĩa: Họ Hứa đường quen nết Bao xuân mặc cõi đời. Mênh mông quãng đồng rộng. Tùy ý tự rong chơi. Năm Tân tị 1221 ông mất tại núi Uyên Trừng. Trước khi mất ông còn lưu lại bài kệ cho đệ tử: \"Huyễn pháp giai thị huyễn, Huyễn tu giai thị huyễn, Nhị huyễn giai bất tức, Tức thị trừ như huyễn.\" Nghĩa: Pháp chính là huyền pháp Tu, đều là huyễn tu. Biết hai cái đều huyễn, Mọi huyễn thảy tiêu trừ. Ông là tác giả một số bài kệ."
+  "id": 33,
+  "entityName": "Lê Thuần",
+  "aliases": [
+    "Hiện Quang"
+  ],
+  "overview": "Ông mồ côi cha từ ngày còn bé, được sư Thường Chiếu đem về nuôi dạy hơn 10 năm. Sau khi Thường Chiếu qua đời, ông theo tu học với sư Trí Thông. Tương truyền khi ở chùa, một hôm vì nhận một món lễ vật của công chúa Hoa Dương, bị xuyên tạc, đạo hữu chê cười, ông bèn vào núi Uyên Trừng ở Nghệ An theo học với sư Pháp Giới. Khi tu học ở Uyên Trừng, Lý Huệ tông nhiều lần cho vời ông về triều, ông đều từ chối. Có nguời biết vậy hỏi: - Thầy ở trên núi làm gì? Ông đáp bằng một bài kệ: \"Ná dĩ Hứa Do đức, Hà tri thế kỉ xuân. Vô vi cư khoáng dã, Tiêu dao tự tại nhân.\" Nghĩa: Họ Hứa đường quen nết Bao xuân mặc cõi đời. Mênh mông quãng đồng rộng. Tùy ý tự rong chơi. Năm Tân tị 1221 ông mất tại núi Uyên Trừng. Trước khi mất ông còn lưu lại bài kệ cho đệ tử: \"Huyễn pháp giai thị huyễn, Huyễn tu giai thị huyễn, Nhị huyễn giai bất tức, Tức thị trừ như huyễn.\" Nghĩa: Pháp chính là huyền pháp Tu, đều là huyễn tu. Biết hai cái đều huyễn, Mọi huyễn thảy tiêu trừ. Ông là tác giả một số bài kệ."
 }

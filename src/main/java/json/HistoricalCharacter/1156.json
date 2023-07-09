@@ -1,18 +1,21 @@
 {
-  "dateOfBirth" : "Canh Thìn 1940",
-  "dateOfDeath" : "Mậu Thân 1968",
-  "hometown" : "quê ở Vàm Nước Trong, xã Tân Bình Thành, huyện Mỏ Cày, tỉnh Bến Tre",
-  "occupation" : "Nhà văn",
-  "workTenure" : "Không rõ",
-  "fatherName" : {
-    "cụ Ca Văn Thỉnh" : null
+  "dateOfBirth": "Canh Thìn 1940",
+  "dateOfDeath": "Mậu Thân 1968",
+  "hometown": "quê ở Vàm Nước Trong, xã Tân Bình Thành, huyện Mỏ Cày, tỉnh Bến Tre",
+  "occupation": "Nhà văn",
+  "workTenure": "Không rõ",
+  "fatherName": {
+    "cụ Ca Văn Thỉnh": null
   },
-  "motherName" : { },
-  "eraName" : {
-    "Nước Việt Nam mới" : 29
+  "motherName": {},
+  "eraName": {
+    "Nước Việt Nam mới": 29
   },
-  "id" : 1156,
-  "entityName" : "Ca Lê Hiến",
-  "aliases" : [ "Lê Anh Xuân", "Ca Lê Xuân" ],
-  "overview" : "Năm 1952, ông thoát li gia đình đi tham gia công tác tại nhà in Trịnh Đình Trọng của Sở Giáo dục Nam Bộ, với tư cách là một công nhân xếp chữ. Đến năm 1954, ông tập kết ra miền Bắc, học ở trưởng học sinh miền Nam, trường Nguyễn Trãi, Hà Nội và Đại học Tổng hợp về khoa Sử, rồi làm cán bộ phụ giảng. Ít lâu, được cử đi học ở nước ngoài, nhưng ông xin được về quê hương chiến đấu. Cuối năm 1964, về Nam trong đoàn cán bộ giáo dục, công tác ở Tiểu ban Giáo dục thuộc Ban Tuyên huấn trung ương cục, rồi chuyền về công tác ở ngành Văn, Văn nghệ Giải phóng. Trên đường kháng chiến quyết liệt, trong cuộc tổng tiến công tết Mậu thân 1968, ông hi sinh vào ngày 25-05-1968 ở vùng phụ cận Sài Gòn, ấp Phước Quảng, xã Phước Lợi, huyện Cần Đước, tỉnh Long An. Ca Lê Hiến còn để lại cho đời 3 tập thơ: - Tiếng gà gáy - Hoa dừa - Trường ca Nguyễn Văn Trỗi và bài thơ nổi tiếng Dáng đứng Việt Nam ."
+  "id": 1156,
+  "entityName": "Ca Lê Hiến",
+  "aliases": [
+    "Lê Anh Xuân",
+    "Ca Lê Xuân"
+  ],
+  "overview": "Năm 1952, ông thoát li gia đình đi tham gia công tác tại nhà in Trịnh Đình Trọng của Sở Giáo dục Nam Bộ, với tư cách là một công nhân xếp chữ. Đến năm 1954, ông tập kết ra miền Bắc, học ở trưởng học sinh miền Nam, trường Nguyễn Trãi, Hà Nội và Đại học Tổng hợp về khoa Sử, rồi làm cán bộ phụ giảng. Ít lâu, được cử đi học ở nước ngoài, nhưng ông xin được về quê hương chiến đấu. Cuối năm 1964, về Nam trong đoàn cán bộ giáo dục, công tác ở Tiểu ban Giáo dục thuộc Ban Tuyên huấn trung ương cục, rồi chuyền về công tác ở ngành Văn, Văn nghệ Giải phóng. Trên đường kháng chiến quyết liệt, trong cuộc tổng tiến công tết Mậu thân 1968, ông hi sinh vào ngày 25-05-1968 ở vùng phụ cận Sài Gòn, ấp Phước Quảng, xã Phước Lợi, huyện Cần Đước, tỉnh Long An. Ca Lê Hiến còn để lại cho đời 3 tập thơ: - Tiếng gà gáy - Hoa dừa - Trường ca Nguyễn Văn Trỗi và bài thơ nổi tiếng Dáng đứng Việt Nam ."
 }

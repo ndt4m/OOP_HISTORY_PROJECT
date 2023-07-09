@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Canh Thìn 1940",
-  "dateOfDeath" : "Đinh Mùi 1967",
-  "hometown" : "quê ở xã Nhuận Đức, quận Củ Chi, tỉnh Bình Dương, nay là xã Phạm Văn Cội, huyện Củ Chi, TP",
-  "occupation" : "Liệt sĩ hiện đại",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nước Việt Nam mới" : 29
+  "dateOfBirth": "Canh Thìn 1940",
+  "dateOfDeath": "Đinh Mùi 1967",
+  "hometown": "quê ở xã Nhuận Đức, quận Củ Chi, tỉnh Bình Dương, nay là xã Phạm Văn Cội, huyện Củ Chi, TP",
+  "occupation": "Liệt sĩ hiện đại",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nước Việt Nam mới": 29
   },
-  "id" : 1328,
-  "entityName" : "Phạm Văn Cội",
-  "aliases" : [ ],
-  "overview" : "Ông tham gia đánh Mĩ từ lúc còn trẻ, từng chiến đấu khắp mặt trận ở Bến Cát, Củ Chi lập được nhiều chiến công được phong tặng danh hiệu Anh hùng lực lượng vũ trang Việt Nam. Ông hi sinh năm 1967 tại chiến trường. Sau ngày 30-4-1975 tên ông được đặt cho một xã nơi sinh quán ông, gọi là xã Phạm Văn Cội, huyện Củ Chi, TP.HCM."
+  "id": 1328,
+  "entityName": "Phạm Văn Cội",
+  "aliases": [],
+  "overview": "Ông tham gia đánh Mĩ từ lúc còn trẻ, từng chiến đấu khắp mặt trận ở Bến Cát, Củ Chi lập được nhiều chiến công được phong tặng danh hiệu Anh hùng lực lượng vũ trang Việt Nam. Ông hi sinh năm 1967 tại chiến trường. Sau ngày 30-4-1975 tên ông được đặt cho một xã nơi sinh quán ông, gọi là xã Phạm Văn Cội, huyện Củ Chi, TP.HCM."
 }

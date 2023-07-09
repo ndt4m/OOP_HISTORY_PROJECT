@@ -1,20 +1,23 @@
 {
-  "dateOfBirth" : "1396\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "?\n----------------------------------------------\nKhông rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua",
-  "workTenure" : "1398 - 1400\n----------------------------------------------\n1398—1400",
-  "fatherName" : {
-    "Trần Thuận Tông" : 279
+  "dateOfBirth": "1396\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath": "?\n----------------------------------------------\nKhông rõ",
+  "hometown": "Không rõ",
+  "occupation": "Hoàng đế Đại Việt\n----------------------------------------------\nVua",
+  "workTenure": "1398 - 1400\n----------------------------------------------\n1398—1400",
+  "fatherName": {
+    "Trần Thuận Tông": 78
   },
-  "motherName" : {
-    "Khâm Thánh hoàng hậu" : null
+  "motherName": {
+    "Khâm Thánh hoàng hậu": null
   },
-  "eraName" : {
-    "Nhà Trần" : 15
+  "eraName": {
+    "Nhà Trần": 15
   },
-  "id" : 1390,
-  "entityName" : "Trần Thiếu Đế",
-  "aliases" : [ "Kiến Tân (建新)", "Trần An (陳 )" ],
-  "overview" : "Trần Thiếu Đế (chữ Hán: 陳少帝; 1396 - ?), là vị Hoàng đế thứ 12 và là vị Hoàng đế cuối cùng của Triều đại nhà Trần trong lịch sử Việt Nam.\n----------------------------------------------\nvua Trần Thiếu Đế (chữ Hán: 陳少帝; 1396 - ?) là vị Vua thứ 13 và là vị vua cuối cùng của Triều đại nhà Trần trong lịch sử Việt Nam."
+  "id": 1390,
+  "entityName": "Trần Thiếu Đế",
+  "aliases": [
+    "Kiến Tân (建新)",
+    "Trần An (陳 )"
+  ],
+  "overview": "Trần Thiếu Đế (chữ Hán: 陳少帝; 1396 - ?), là vị Hoàng đế thứ 12 và là vị Hoàng đế cuối cùng của Triều đại nhà Trần trong lịch sử Việt Nam.\n----------------------------------------------\nvua Trần Thiếu Đế (chữ Hán: 陳少帝; 1396 - ?) là vị Vua thứ 13 và là vị vua cuối cùng của Triều đại nhà Trần trong lịch sử Việt Nam."
 }

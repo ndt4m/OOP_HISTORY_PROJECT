@@ -1,18 +1,20 @@
 {
-  "dateOfBirth" : "Kỉ Hợi 1659",
-  "dateOfDeath" : "Kỉ Mùi 1739",
-  "hometown" : "Quê xã Hoạch Trạch, huyện Đường An, tỉnh Hải Dương",
-  "occupation" : "Văn thần đời Lê Hi tông, có sách chép là Nhữ Đình Hiền, con tiến sĩ Nhữ Tiến Dụng, cha tiến sĩ Đình Toản",
-  "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Nhữ Tiến Dụng" : 2564
+  "dateOfBirth": "Kỉ Hợi 1659",
+  "dateOfDeath": "Kỉ Mùi 1739",
+  "hometown": "Quê xã Hoạch Trạch, huyện Đường An, tỉnh Hải Dương",
+  "occupation": "Văn thần đời Lê Hi tông, có sách chép là Nhữ Đình Hiền, con tiến sĩ Nhữ Tiến Dụng, cha tiến sĩ Đình Toản",
+  "workTenure": "Không rõ",
+  "fatherName": {
+    "Nhữ Tiến Dụng": 2891
   },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34
   },
-  "id" : 1202,
-  "entityName" : "Nhữ Tiến Hiền",
-  "aliases" : [ "Nhữ Đình Hiền" ],
-  "overview" : "Năm Canh thân 1860 ông đỗ tiến sĩ lúc 21 tuổi, làm quan đến Thượng thư bộ Hình, Bồi tụng, có lúc được cử đi sứ Trung Quốc. Ông xử kiện công minh, đứng đắn, từng phát giác những vụ án mờ ám, cứu kẻ hàm oan, chính sự nổi tiếng, người thời bấy giờ đều khen ngợi. Năm Kỉ mùi 1739 ông mất, thọ 80 tuổi, được truy tặng Thiếu phó, tước Quận Công. Bài chế truy tặng ông, có những câu tán tụng: \"Nhập ngự sử dĩ tham đài, sương ngưng tố giản; Tiến Thượng thư nhi nhị tướng, thì trứ hu mô. Huân nghiệp vu tín sử hữu trưng; Tri ngộ tại tiên triều vô thế. Vị ư tài nhi vị mãn, mai chính hi Phó đỉnh chi điều; Lộc dự phúc dĩ quân lưu, hòe nhược đãi Vương lư chi uất. Quả chung lịch tự, thực cán hồng xu (…) Kiều mộc thiêu phương, lịch tam thế nhi phong thanh giao ánh, công năng kiêm tác thuật ư nhất thân; Cam đường lưu ấm, tích bách niên nhi chính tích như tân, trẫm thượng kí tụng dao ư vạn thế\". Bản dịch: Sung chức Ngự sử, tham dự Đô đài, giữ, mình trong sạch như sương; Thăng lên Thượng thư mà phụ Tể tướng, giúp nước thường bày mưu lớn. Công lao được sử ghi chép rõ ràng, ơn tri ngộ từ triều trước đến già vẫn không sút kém. Địa vị so với tài chưa đối xứng, mong được qua mơ Phó Duyệt để nên canh; Nhưng lộc và phúc dành để về sau, cây hòe họ Vương hẳn trở nên tươi tốt. Công quả chung đúc vào con trai, thực tài làm nên rường cột lớn (...) Cây cả nối dấu thơm, trải ba đời danh tiếng lẫy lừng, một mình ông hay gồm các tác thuật Cội Cam đường rũ bóng, hơn trăm năm chính tích như mới, trẫm còn ghi muôn thuở ngợi khen Ông là tác giả một số thơ Hán, Nôm nhưng nay đã thất lạc phần lớn."
+  "id": 1202,
+  "entityName": "Nhữ Tiến Hiền",
+  "aliases": [
+    "Nhữ Đình Hiền"
+  ],
+  "overview": "Năm Canh thân 1860 ông đỗ tiến sĩ lúc 21 tuổi, làm quan đến Thượng thư bộ Hình, Bồi tụng, có lúc được cử đi sứ Trung Quốc. Ông xử kiện công minh, đứng đắn, từng phát giác những vụ án mờ ám, cứu kẻ hàm oan, chính sự nổi tiếng, người thời bấy giờ đều khen ngợi. Năm Kỉ mùi 1739 ông mất, thọ 80 tuổi, được truy tặng Thiếu phó, tước Quận Công. Bài chế truy tặng ông, có những câu tán tụng: \"Nhập ngự sử dĩ tham đài, sương ngưng tố giản; Tiến Thượng thư nhi nhị tướng, thì trứ hu mô. Huân nghiệp vu tín sử hữu trưng; Tri ngộ tại tiên triều vô thế. Vị ư tài nhi vị mãn, mai chính hi Phó đỉnh chi điều; Lộc dự phúc dĩ quân lưu, hòe nhược đãi Vương lư chi uất. Quả chung lịch tự, thực cán hồng xu (…) Kiều mộc thiêu phương, lịch tam thế nhi phong thanh giao ánh, công năng kiêm tác thuật ư nhất thân; Cam đường lưu ấm, tích bách niên nhi chính tích như tân, trẫm thượng kí tụng dao ư vạn thế\". Bản dịch: Sung chức Ngự sử, tham dự Đô đài, giữ, mình trong sạch như sương; Thăng lên Thượng thư mà phụ Tể tướng, giúp nước thường bày mưu lớn. Công lao được sử ghi chép rõ ràng, ơn tri ngộ từ triều trước đến già vẫn không sút kém. Địa vị so với tài chưa đối xứng, mong được qua mơ Phó Duyệt để nên canh; Nhưng lộc và phúc dành để về sau, cây hòe họ Vương hẳn trở nên tươi tốt. Công quả chung đúc vào con trai, thực tài làm nên rường cột lớn (...) Cây cả nối dấu thơm, trải ba đời danh tiếng lẫy lừng, một mình ông hay gồm các tác thuật Cội Cam đường rũ bóng, hơn trăm năm chính tích như mới, trẫm còn ghi muôn thuở ngợi khen Ông là tác giả một số thơ Hán, Nôm nhưng nay đã thất lạc phần lớn."
 }

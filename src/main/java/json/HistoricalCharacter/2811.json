@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "tại chức Hoàng được Gia Long chiều chuộng, vì là quốc thích, nên thường làm nhiều điều ngang ngược, tiếp tay cho bọn cường hào ác bá hoành hành",
-  "occupation" : "Người nhà của Gia Long",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "tại chức Hoàng được Gia Long chiều chuộng, vì là quốc thích, nên thường làm nhiều điều ngang ngược, tiếp tay cho bọn cường hào ác bá hoành hành",
+  "occupation": "Người nhà của Gia Long",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 2811,
-  "entityName" : "Huỳnh Công Lý",
-  "aliases" : [ ],
-  "overview" : "Vào Gia Định, làm việc dưới quyền Tả quân Quận Công Lê Văn Duyệt, y vẫn ngang nhiên làm những điều trái phép, khiến nhân dân than oán, Lê Văn Duyệt cả giận, ghép tội xử trảm, hành quyết tại Gia Định. Nhân dân rất hả dạ."
+  "id": 2811,
+  "entityName": "Huỳnh Công Lý",
+  "aliases": [],
+  "overview": "Vào Gia Định, làm việc dưới quyền Tả quân Quận Công Lê Văn Duyệt, y vẫn ngang nhiên làm những điều trái phép, khiến nhân dân than oán, Lê Văn Duyệt cả giận, ghép tội xử trảm, hành quyết tại Gia Định. Nhân dân rất hả dạ."
 }

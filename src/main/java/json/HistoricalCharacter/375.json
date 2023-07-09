@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê quán",
-  "occupation" : "Danh tướng nhà Trần",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Trần" : 15
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "quê quán",
+  "occupation": "Danh tướng nhà Trần",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Trần": 15
   },
-  "id" : 375,
-  "entityName" : "Nguyễn Khoái",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Khoái (阮蒯 1240 -?) là một tướng lĩnh thời Trần, có công lớn trong cuộc kháng chiến chống quân Nguyên.\n----------------------------------------------\nTháng 4 năm Ất dậu 1285 vua Trần Nhân Tông sai Trần Nhật Duật, Trần Quốc Toản cùng ông đem quân chận đánh quân Nguyên ở Tây Kết. Cuộc chiến xày ra ở Hàm Tử quan, quân địch bị tiêu diệt hàng trăm tên. Trong trận Bạch Đằng Giang vào tháng 8 năm Mậu tí 1288, ông cùng các tướng dưới quyền chỉ huy của Hưng Đạo Vương Trần Quốc Tuấn đã tạo nên một chiến thắng vang dội nhất trong lịch sử. Chính ông đã bắt sống được tướng địch là Áo Lộ Xích. Nhờ có công trạng ấy mà sau khi kết thúc cuộc kháng chiến, ông được gia phong làm Liệt hầu, ban cho một quận làm thực ấp, gọi là Khoái Lộ, tức phủ Khoái Châu về sau."
+  "id": 375,
+  "entityName": "Nguyễn Khoái",
+  "aliases": [],
+  "overview": "Nguyễn Khoái (阮蒯 1240 -?) là một tướng lĩnh thời Trần, có công lớn trong cuộc kháng chiến chống quân Nguyên.\n----------------------------------------------\nTháng 4 năm Ất dậu 1285 vua Trần Nhân Tông sai Trần Nhật Duật, Trần Quốc Toản cùng ông đem quân chận đánh quân Nguyên ở Tây Kết. Cuộc chiến xày ra ở Hàm Tử quan, quân địch bị tiêu diệt hàng trăm tên. Trong trận Bạch Đằng Giang vào tháng 8 năm Mậu tí 1288, ông cùng các tướng dưới quyền chỉ huy của Hưng Đạo Vương Trần Quốc Tuấn đã tạo nên một chiến thắng vang dội nhất trong lịch sử. Chính ông đã bắt sống được tướng địch là Áo Lộ Xích. Nhờ có công trạng ấy mà sau khi kết thúc cuộc kháng chiến, ông được gia phong làm Liệt hầu, ban cho một quận làm thực ấp, gọi là Khoái Lộ, tức phủ Khoái Châu về sau."
 }

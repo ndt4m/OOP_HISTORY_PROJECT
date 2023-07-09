@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "17 tháng 11, 1949 (69 tuổi) Cà Mau",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Hà Nội",
-  "occupation" : "Thiếu tá",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 58,
-  "entityName" : "Nguyễn Tấn Dũng",
-  "aliases" : [ "Ba Dũng" ],
-  "overview" : "Nguyễn Tấn Dũng (tên thường gọi: Ba Dũng, sinh ngày 17 tháng 11 năm 1949 tại Cà Mau) là một chính trị gia Việt Nam. Ông là Thủ tướng chính phủ thứ sáu của Cộng hòa Xã hội chủ nghĩa Việt Nam (2006–2016). Từ năm 1997, ông cũng đồng thời là Đại biểu Quốc hội Việt Nam các khóa X, XI, XII, XIII thuộc đơn vị bầu cử khu vực 3 Thành phố Hải Phòng (huyện Tiên Lãng), Uỷ viên Bộ Chính trị các khóa VIII, IX, X, XI, Trưởng ban Ban Chỉ đạo thi hành án phần tài sản vụ án EPCO - Minh Phụng từ năm 2002. Ông cũng từng giữ chức Trưởng ban Ban chỉ đạo Trung ương về phòng, chống tham nhũng, tuy nhiên tình trạng tham nhũng hầu như không có hướng giải quyết nên sau Hội nghị Trung ương 6 (khóa XI), ban này chuyển sang cho Bộ Chính trị quản lý, đứng đầu là Tổng Bí thư Nguyễn Phú Trọng."
+  "dateOfBirth": "17 tháng 11, 1949 (69 tuổi) Cà Mau",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Hà Nội",
+  "occupation": "Thiếu tá",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 58,
+  "entityName": "Nguyễn Tấn Dũng",
+  "aliases": [
+    "Ba Dũng"
+  ],
+  "overview": "Nguyễn Tấn Dũng (tên thường gọi: Ba Dũng, sinh ngày 17 tháng 11 năm 1949 tại Cà Mau) là một chính trị gia Việt Nam. Ông là Thủ tướng chính phủ thứ sáu của Cộng hòa Xã hội chủ nghĩa Việt Nam (2006–2016). Từ năm 1997, ông cũng đồng thời là Đại biểu Quốc hội Việt Nam các khóa X, XI, XII, XIII thuộc đơn vị bầu cử khu vực 3 Thành phố Hải Phòng (huyện Tiên Lãng), Uỷ viên Bộ Chính trị các khóa VIII, IX, X, XI, Trưởng ban Ban Chỉ đạo thi hành án phần tài sản vụ án EPCO - Minh Phụng từ năm 2002. Ông cũng từng giữ chức Trưởng ban Ban chỉ đạo Trung ương về phòng, chống tham nhũng, tuy nhiên tình trạng tham nhũng hầu như không có hướng giải quyết nên sau Hội nghị Trung ương 6 (khóa XI), ban này chuyển sang cho Bộ Chính trị quản lý, đứng đầu là Tổng Bí thư Nguyễn Phú Trọng."
 }

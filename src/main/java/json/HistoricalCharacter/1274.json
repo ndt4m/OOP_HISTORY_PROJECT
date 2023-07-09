@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "20 tháng 8, 1922 (95 tuổi) Kim Động, Hưng Yên, Liên bang Đông Dương",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Thuộc",
-  "workTenure" : "1945-1992",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 1274,
-  "entityName" : "Nguyễn Quyết",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Quyết (sinh năm 1922) là một nhà hoạt động cách mạng, nhà chính trị, nhà quân sự của Việt Nam."
+  "dateOfBirth": "20 tháng 8, 1922 (95 tuổi) Kim Động, Hưng Yên, Liên bang Đông Dương",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Thuộc",
+  "workTenure": "1945-1992",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 1274,
+  "entityName": "Nguyễn Quyết",
+  "aliases": [],
+  "overview": "Nguyễn Quyết (sinh năm 1922) là một nhà hoạt động cách mạng, nhà chính trị, nhà quân sự của Việt Nam."
 }

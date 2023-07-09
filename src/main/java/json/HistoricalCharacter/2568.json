@@ -1,17 +1,17 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "1209\n----------------------------------------------\nKhông rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Quan hoạn đời Lý Cao tông không rõ năm sinh, năm mất. Năm Mậu thìn 1208, ông nhận lệnh triều đình đem quân Đằng Châu đi đánh dẹp loạn Phạm Du. Dẹp xong, ông tịch thu tài sản và phóng hỏa đốt nhà Du cháy rụi. Du căm hận, lo lót với các cận thần xin tội cho mình và vu cáo ông làm phản. Lý Cao tông tin lời Du, triệu ông về đối chất. Có người khuyên ông đừng về, ông vẫn cứ đi, rồi bị bắt giam",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Lý" : 14,
-    "nhà Lý" : null
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "1209\n----------------------------------------------\nKhông rõ",
+  "hometown": "Không rõ",
+  "occupation": "Quan hoạn đời Lý Cao tông không rõ năm sinh, năm mất. Năm Mậu thìn 1208, ông nhận lệnh triều đình đem quân Đằng Châu đi đánh dẹp loạn Phạm Du. Dẹp xong, ông tịch thu tài sản và phóng hỏa đốt nhà Du cháy rụi. Du căm hận, lo lót với các cận thần xin tội cho mình và vu cáo ông làm phản. Lý Cao tông tin lời Du, triệu ông về đối chất. Có người khuyên ông đừng về, ông vẫn cứ đi, rồi bị bắt giam",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Lý": 14,
+    "nhà Lý": null
   },
-  "id" : 2568,
-  "entityName" : "Phạm Bỉnh Di",
-  "aliases" : [ ],
-  "overview" : "Phạm Bỉnh Di (范秉彛, ?-1209) là tướng nhà Lý trong lịch sử Việt Nam dưới thời Lý Cao Tông.\n----------------------------------------------\nLý Cao tông vẫn nghe lời gièm pha của đám quyền gian, giết Bỉnh Di và người con là Phụ trước tảng đá ở đền thần Kim Tinh. Đám Quách Bốc cướp lấy thây cha con ông, làm lễ mai táng trọng hậu, rồi dấy binh đánh phá kinh thành. Từ đấy nhà Lý suy sụp dần."
+  "id": 2568,
+  "entityName": "Phạm Bỉnh Di",
+  "aliases": [],
+  "overview": "Phạm Bỉnh Di (范秉彛, ?-1209) là tướng nhà Lý trong lịch sử Việt Nam dưới thời Lý Cao Tông.\n----------------------------------------------\nLý Cao tông vẫn nghe lời gièm pha của đám quyền gian, giết Bỉnh Di và người con là Phụ trước tảng đá ở đền thần Kim Tinh. Đám Quách Bốc cướp lấy thây cha con ông, làm lễ mai táng trọng hậu, rồi dấy binh đánh phá kinh thành. Từ đấy nhà Lý suy sụp dần."
 }

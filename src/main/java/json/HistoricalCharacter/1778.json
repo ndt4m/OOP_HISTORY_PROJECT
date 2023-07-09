@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "1900",
-  "dateOfDeath" : "1994",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 1778,
-  "entityName" : "Hoàng Đạo Thuý",
-  "aliases" : [ ],
-  "overview" : "Hoàng Đạo Thúy (1900–1994) là một nhà cách mạng và nhà hoạt động văn hóa xã hội Việt Nam. Ông từng là thủ lĩnh Phong trào Hướng đạo Việt Nam tại khu vực Bắc Kỳ thuộc Pháp và là một Đại tá Quân đội Nhân dân Việt Nam."
+  "dateOfBirth": "1900",
+  "dateOfDeath": "1994",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 1778,
+  "entityName": "Hoàng Đạo Thuý",
+  "aliases": [],
+  "overview": "Hoàng Đạo Thúy (1900–1994) là một nhà cách mạng và nhà hoạt động văn hóa xã hội Việt Nam. Ông từng là thủ lĩnh Phong trào Hướng đạo Việt Nam tại khu vực Bắc Kỳ thuộc Pháp và là một Đại tá Quân đội Nhân dân Việt Nam."
 }

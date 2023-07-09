@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "xã thuộc huyện Thanh Thuỷ, tỉnh Phú Thọ, Việt Nam.",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 1961,
-  "entityName" : "Hoàng Xá",
-  "aliases" : [ ],
-  "overview" : "Hoàng Xá là một xã thuộc huyện Thanh Thuỷ, tỉnh Phú Thọ, Việt Nam."
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "xã thuộc huyện Thanh Thuỷ, tỉnh Phú Thọ, Việt Nam.",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 1961,
+  "entityName": "Hoàng Xá",
+  "aliases": [],
+  "overview": "Hoàng Xá là một xã thuộc huyện Thanh Thuỷ, tỉnh Phú Thọ, Việt Nam."
 }

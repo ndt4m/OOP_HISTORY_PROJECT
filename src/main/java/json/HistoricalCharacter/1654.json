@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 1654,
-  "entityName" : "Phạm Ngạn",
-  "aliases" : [ ],
-  "overview" : "Phạm Ngạn(范彥), một tướng lĩnh kiệt xuất của phong trào Tây Sơn."
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 1654,
+  "entityName": "Phạm Ngạn",
+  "aliases": [],
+  "overview": "Phạm Ngạn(范彥), một tướng lĩnh kiệt xuất của phong trào Tây Sơn."
 }

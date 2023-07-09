@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 2996,
-  "entityName" : "Trần Húc",
-  "aliases" : [ ],
-  "overview" : "Trần Húc có thể là một trong các nhân vật sau:"
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 2996,
+  "entityName": "Trần Húc",
+  "aliases": [],
+  "overview": "Trần Húc có thể là một trong các nhân vật sau:"
 }

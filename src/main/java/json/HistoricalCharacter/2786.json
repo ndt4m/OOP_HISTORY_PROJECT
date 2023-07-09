@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Ất Tị 1425",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê xã Lạc Quán, huyện Thanh Lâm, phủ Nam Sách, tỉnh Hải Dương",
-  "occupation" : "Danh thần đời Lê, có sách chép là Nguyễn Nguyên Xân",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Triều Lê Sơ" : 7
+  "dateOfBirth": "Ất Tị 1425",
+  "dateOfDeath": "Không rõ",
+  "hometown": "quê xã Lạc Quán, huyện Thanh Lâm, phủ Nam Sách, tỉnh Hải Dương",
+  "occupation": "Danh thần đời Lê, có sách chép là Nguyễn Nguyên Xân",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Triều Lê Sơ": 7
   },
-  "id" : 2786,
-  "entityName" : "Nguyễn Nguyên Chân",
-  "aliases" : [ "Nguyễn Nguyên Xân" ],
-  "overview" : "Năm Nhâm tuất, 1442 ông đỗ Tam giáp đồng tiến sĩ, mới 17 tuổi. Thầy học của ông là Trịnh Thiết Trường cũng đỗ tiến sĩ khoa này. Nhưng vì đứng ất bảng, Trịnh Thiết Trường và ông rất bực vì không đỗ cao, đều bỏ cuộc, quyết tranh khoa tới. Năm Mậu thìn 1448, thầy trò ông lại ra thi. Trịnh Thiết Trường đỗ Bảng nhãn, ông đỗ Nhị giáp tiến sĩ, làm đến Khu mật trực học sĩ. Ông cùng thầy học làm quan đồng triều Lê Nhân tông, Thánh tông, nổi tiếng văn chương lại có khí tiết, được sĩ phu đương thời trọng vọng."
+  "id": 2786,
+  "entityName": "Nguyễn Nguyên Chân",
+  "aliases": [
+    "Nguyễn Nguyên Xân"
+  ],
+  "overview": "Năm Nhâm tuất, 1442 ông đỗ Tam giáp đồng tiến sĩ, mới 17 tuổi. Thầy học của ông là Trịnh Thiết Trường cũng đỗ tiến sĩ khoa này. Nhưng vì đứng ất bảng, Trịnh Thiết Trường và ông rất bực vì không đỗ cao, đều bỏ cuộc, quyết tranh khoa tới. Năm Mậu thìn 1448, thầy trò ông lại ra thi. Trịnh Thiết Trường đỗ Bảng nhãn, ông đỗ Nhị giáp tiến sĩ, làm đến Khu mật trực học sĩ. Ông cùng thầy học làm quan đồng triều Lê Nhân tông, Thánh tông, nổi tiếng văn chương lại có khí tiết, được sĩ phu đương thời trọng vọng."
 }

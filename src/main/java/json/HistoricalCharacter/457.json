@@ -1,14 +1,16 @@
 {
-  "dateOfBirth" : "1769",
-  "dateOfDeath" : "1788",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 457,
-  "entityName" : "Mạc Tử Sanh",
-  "aliases" : [ "Mạc Tử Sinh" ],
-  "overview" : "Mạc Tử Sanh hay Mạc Tử Sinh (鄚子泩, 1769- 1788) là võ tướng dưới thời chúa Nguyễn Phúc Ánh trong lịch sử Việt Nam."
+  "dateOfBirth": "1769",
+  "dateOfDeath": "1788",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 457,
+  "entityName": "Mạc Tử Sanh",
+  "aliases": [
+    "Mạc Tử Sinh"
+  ],
+  "overview": "Mạc Tử Sanh hay Mạc Tử Sinh (鄚子泩, 1769- 1788) là võ tướng dưới thời chúa Nguyễn Phúc Ánh trong lịch sử Việt Nam."
 }

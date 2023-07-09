@@ -1,17 +1,21 @@
 {
-  "dateOfBirth" : "Ất Sửu 1265",
-  "dateOfDeath" : "Bính Dần 1326",
-  "hometown" : "quê ở làng Tri Lai, tổng Tri Lai, huyện Vũ Tiên, phủ Kiến Xương (nay là thôn Phú Lạc, xã Phú Xuân, thành phố Thái Bình.\n----------------------------------------------\nquê ở Hoàng Giang",
-  "occupation" : "Văn thần đời Trần Anh tông",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Trần" : 15,
-    "nhà Hậu Lê" : null
+  "dateOfBirth": "Ất Sửu 1265",
+  "dateOfDeath": "Bính Dần 1326",
+  "hometown": "quê ở làng Tri Lai, tổng Tri Lai, huyện Vũ Tiên, phủ Kiến Xương (nay là thôn Phú Lạc, xã Phú Xuân, thành phố Thái Bình.\n----------------------------------------------\nquê ở Hoàng Giang",
+  "occupation": "Văn thần đời Trần Anh tông",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Trần": 15,
+    "nhà Hậu Lê": null
   },
-  "id" : 1267,
-  "entityName" : "Bùi Quốc Hưng",
-  "aliases" : [ "Lê Quốc Hưng", "Phí Mộc Lạc", "Minh Đạo" ],
-  "overview" : "Bùi Quốc Hưng hay Lê Quốc Hưng là khai quốc công thần nhà Hậu Lê, quê ở làng Tri Lai, tổng Tri Lai, huyện Vũ Tiên, phủ Kiến Xương (nay là thôn Phú Lạc, xã Phú Xuân, thành phố Thái Bình. ông là chắt nội của Bùi Mộc Đạc (tức Phí Mộc Lạc)\n----------------------------------------------\nÔng làm quan đến Trung thứ thị lang, Tri thẩm hình viện sự, Thị trung đại phu. Năm Bính ngọ 1306, ông cùng Hàn Lâm học sĩ Lê Tông Nguyên đi sứ sang nhà Nguyên đáp lễ. Tính người cẩn thận cung kính, văn chất khả quan, từng làm quan qua 3 triều. Khi Thượng hoàng Trần Anh tông sắp mất, dặn lại Minh tông phải cất nhắc ông, đối xử cho khéo. Minh tông bèn sai vẽ chân dung ông cất ở kho sách, và có ý sẽ dùng ông vào chức lớn. Nhưng đến năm Bính dần 1326, tháng 3, chưa kịp được thăng thưởng thì ông mất, thọ 61 tuổi."
+  "id": 1267,
+  "entityName": "Bùi Quốc Hưng",
+  "aliases": [
+    "Lê Quốc Hưng",
+    "Phí Mộc Lạc",
+    "Minh Đạo"
+  ],
+  "overview": "Bùi Quốc Hưng hay Lê Quốc Hưng là khai quốc công thần nhà Hậu Lê, quê ở làng Tri Lai, tổng Tri Lai, huyện Vũ Tiên, phủ Kiến Xương (nay là thôn Phú Lạc, xã Phú Xuân, thành phố Thái Bình. ông là chắt nội của Bùi Mộc Đạc (tức Phí Mộc Lạc)\n----------------------------------------------\nÔng làm quan đến Trung thứ thị lang, Tri thẩm hình viện sự, Thị trung đại phu. Năm Bính ngọ 1306, ông cùng Hàn Lâm học sĩ Lê Tông Nguyên đi sứ sang nhà Nguyên đáp lễ. Tính người cẩn thận cung kính, văn chất khả quan, từng làm quan qua 3 triều. Khi Thượng hoàng Trần Anh tông sắp mất, dặn lại Minh tông phải cất nhắc ông, đối xử cho khéo. Minh tông bèn sai vẽ chân dung ông cất ở kho sách, và có ý sẽ dùng ông vào chức lớn. Nhưng đến năm Bính dần 1326, tháng 3, chưa kịp được thăng thưởng thì ông mất, thọ 61 tuổi."
 }

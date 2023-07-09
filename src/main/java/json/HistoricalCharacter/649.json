@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "không rõ năm sinh, năm mất và quê quán",
-  "occupation" : "Danh thần đời Minh Mạng",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "không rõ năm sinh, năm mất và quê quán",
+  "occupation": "Danh thần đời Minh Mạng",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 649,
-  "entityName" : "Cao Bá Nghi",
-  "aliases" : [ ],
-  "overview" : "Khoảng năm Nhâm ngọ 1822, chính ông đã soạn thào bài văn bia Thoại Sơn (Núi Sập) thề theo ý Thoại Ngọc Hầu Nguyễn Văn Thoại, nguyên văn chữ Hán, gồm 622 chữ, được truyền tụng đến bây giờ. (Văn bia hiện còn tại làng ông Thoại Ngọc Hầu ở Châu Đốc)."
+  "id": 649,
+  "entityName": "Cao Bá Nghi",
+  "aliases": [],
+  "overview": "Khoảng năm Nhâm ngọ 1822, chính ông đã soạn thào bài văn bia Thoại Sơn (Núi Sập) thề theo ý Thoại Ngọc Hầu Nguyễn Văn Thoại, nguyên văn chữ Hán, gồm 622 chữ, được truyền tụng đến bây giờ. (Văn bia hiện còn tại làng ông Thoại Ngọc Hầu ở Châu Đốc)."
 }

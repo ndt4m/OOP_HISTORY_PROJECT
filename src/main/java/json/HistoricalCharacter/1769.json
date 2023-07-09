@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 1769,
-  "entityName" : "Phạm Thông",
-  "aliases" : [ ],
-  "overview" : "Phạm Thông (12/8/1943 - 03/11/2016) là một điêu khắc gia và nhà báo người Việt, đặc biệt là tác giả của nhiều pho tượng Đức ông Trần Hưng Đạo tại Việt Nam trước 1975 và sau này tại Hoa Kỳ."
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 1769,
+  "entityName": "Phạm Thông",
+  "aliases": [],
+  "overview": "Phạm Thông (12/8/1943 - 03/11/2016) là một điêu khắc gia và nhà báo người Việt, đặc biệt là tác giả của nhiều pho tượng Đức ông Trần Hưng Đạo tại Việt Nam trước 1975 và sau này tại Hoa Kỳ."
 }

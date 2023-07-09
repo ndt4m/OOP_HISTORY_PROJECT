@@ -1,18 +1,20 @@
 {
-  "dateOfBirth" : "Mậu Tí 1828",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "quê ở phường Dũng Thọ, huyện Thọ Xương, nay thuộc Hà Nội, con tiến sĩ Trần Văn Vi",
-  "occupation" : "Văn thần đời ",
-  "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Trần Văn Vi" : 775
+  "dateOfBirth": "Mậu Tí 1828",
+  "dateOfDeath": "Không rõ",
+  "hometown": "quê ở phường Dũng Thọ, huyện Thọ Xương, nay thuộc Hà Nội, con tiến sĩ Trần Văn Vi",
+  "occupation": "Văn thần đời ",
+  "workTenure": "Không rõ",
+  "fatherName": {
+    "Trần Văn Vi": 1211
   },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+  "motherName": {},
+  "eraName": {
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 818,
-  "entityName" : "Trần Huy Tích",
-  "aliases" : [ "Thanh Am" ],
-  "overview" : "Năm Canh tuất 1850 ông đỗ cử nhân. Năm sau (1851) đỗ tiến sĩ khoa Cát sĩ ông làm Đốc học Hải Dương. Ít lâu ông từ chức về ở ẩn nơi quê ngoại làng Thanh Liêm, thuộc huyện Lý Nhân (nay thuộc tỉnh Hà Nam). Ông sống thanh đạm, ít giao du, thầm lặng đọc sách, làm sách, ngao du sơn thủy với các bạn tâm giao. Ông có soạn tập thơ Quán Sơn thi thảo làm trong năm 1883. Ngoài ra ông có hiệu đính bộ Lê sử toản yếu của thân phụ ông. Lê sử toản yếu (10 quyển) do thân phụ ông biên soạn, ông là người hiệu chỉnh. Đây là một bộ lược sử Việt Nam về triều Lê, sách khởi thảo từ năm 1843 đến năm 1848 thì xong. Tác giả đưa bản thảo cho Lê Tông Quang là phòng sư (quan giám khảo khoa thi xem lại) đến năm 1863 Trần Huy Tích hiệu chỉnh. Qua nội dung sách, tác giả đã sưu tập được nhiều tài liệu theo quan điểm và lập trường triều Lê để chép. Theo các nhà thư tịch và sử gia khác thì Lê sử toản yếu là bộ sử thứ nhất của người sống vào triều Nguyễn chép sử triều Lê. Nội dung sách chép từ Lê Lợi (Lê Thái tổ) - đầu triều Lê - đến hết đời Cảnh Hưng sang Chiêu Thống (1878). Thủ bản sách này khoăng năm 1919-1920 được một người Việt Nam đem bán cho Thư viện Trường Viễn đông Bác cổ Hà Nội, nhưng một tư nhân người Pháp mua được với giá cao hơn. Sau nhiều lần điều đình, Thư viện Bác cổ mới chỉ được sao chép lại còn thủ bản thì người Pháp mua được lúc đầu đã đem về Paris. Theo GS. Trần Văn Giáp thì thủ bản Lê sử toản yếu hiện còn lưu trữ trong một kho sách ở Paris."
+  "id": 818,
+  "entityName": "Trần Huy Tích",
+  "aliases": [
+    "Thanh Am"
+  ],
+  "overview": "Năm Canh tuất 1850 ông đỗ cử nhân. Năm sau (1851) đỗ tiến sĩ khoa Cát sĩ ông làm Đốc học Hải Dương. Ít lâu ông từ chức về ở ẩn nơi quê ngoại làng Thanh Liêm, thuộc huyện Lý Nhân (nay thuộc tỉnh Hà Nam). Ông sống thanh đạm, ít giao du, thầm lặng đọc sách, làm sách, ngao du sơn thủy với các bạn tâm giao. Ông có soạn tập thơ Quán Sơn thi thảo làm trong năm 1883. Ngoài ra ông có hiệu đính bộ Lê sử toản yếu của thân phụ ông. Lê sử toản yếu (10 quyển) do thân phụ ông biên soạn, ông là người hiệu chỉnh. Đây là một bộ lược sử Việt Nam về triều Lê, sách khởi thảo từ năm 1843 đến năm 1848 thì xong. Tác giả đưa bản thảo cho Lê Tông Quang là phòng sư (quan giám khảo khoa thi xem lại) đến năm 1863 Trần Huy Tích hiệu chỉnh. Qua nội dung sách, tác giả đã sưu tập được nhiều tài liệu theo quan điểm và lập trường triều Lê để chép. Theo các nhà thư tịch và sử gia khác thì Lê sử toản yếu là bộ sử thứ nhất của người sống vào triều Nguyễn chép sử triều Lê. Nội dung sách chép từ Lê Lợi (Lê Thái tổ) - đầu triều Lê - đến hết đời Cảnh Hưng sang Chiêu Thống (1878). Thủ bản sách này khoăng năm 1919-1920 được một người Việt Nam đem bán cho Thư viện Trường Viễn đông Bác cổ Hà Nội, nhưng một tư nhân người Pháp mua được với giá cao hơn. Sau nhiều lần điều đình, Thư viện Bác cổ mới chỉ được sao chép lại còn thủ bản thì người Pháp mua được lúc đầu đã đem về Paris. Theo GS. Trần Văn Giáp thì thủ bản Lê sử toản yếu hiện còn lưu trữ trong một kho sách ở Paris."
 }

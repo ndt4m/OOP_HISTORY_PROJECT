@@ -1,18 +1,18 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Vua",
-  "workTenure" : "1561–1592",
-  "fatherName" : {
-    "Mạc Tuyên Tông" : 878
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Vua",
+  "workTenure": "1561–1592",
+  "fatherName": {
+    "Mạc Tuyên Tông": 1348
   },
-  "motherName" : { },
-  "eraName" : {
-    "Bắc triều – Nhà Mạc  và thời kỳ Cao Bằng" : null
+  "motherName": {},
+  "eraName": {
+    "Bắc triều – Nhà Mạc  và thời kỳ Cao Bằng": null
   },
-  "id" : 2149,
-  "entityName" : "Mạc Mục Tông Mạc Anh Tổ",
-  "aliases" : [ ],
-  "overview" : "Mạc Mục Tông (chữ Hán: 莫穆宗 1560 – tháng 1 năm 1593) tên thật là Mạc Mậu Hợp là vị hoàng đế Đại Việt thứ năm của nhà Mạc thời Nam – Bắc triều trong lịch sử Việt Nam. Ông lên ngôi năm 1562 lúc mới 2 tuổi và qua đó trở thành vua trẻ thứ hai lúc lên ngôi. Ông trị vì cho đến khi truyền ngôi cho con là Mạc Toàn năm 1592, tổng cộng 30 năm."
+  "id": 2149,
+  "entityName": "Mạc Mục Tông Mạc Anh Tổ",
+  "aliases": [],
+  "overview": "Mạc Mục Tông (chữ Hán: 莫穆宗 1560 – tháng 1 năm 1593) tên thật là Mạc Mậu Hợp là vị hoàng đế Đại Việt thứ năm của nhà Mạc thời Nam – Bắc triều trong lịch sử Việt Nam. Ông lên ngôi năm 1562 lúc mới 2 tuổi và qua đó trở thành vua trẻ thứ hai lúc lên ngôi. Ông trị vì cho đến khi truyền ngôi cho con là Mạc Toàn năm 1592, tổng cộng 30 năm."
 }

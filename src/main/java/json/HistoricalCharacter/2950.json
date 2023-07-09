@@ -1,18 +1,20 @@
 {
-  "dateOfBirth" : "1748\n----------------------------------------------\nMậu Thìn 1748",
-  "dateOfDeath" : "1819\n----------------------------------------------\nKỉ Mão 1819",
-  "hometown" : "Quê tại Giồng Cái Én",
-  "occupation" : "Danh tướng đời Gia Long, nguyên tên là Huỳnh Tường Đức, từng theo giúp Nguyễn Ánh lập công lớn nên được nang họ vua",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Trịnh - Nguyễn" : 34,
-    "Nhà Tây Sơn" : 21,
-    "Nhà Nguyễn độc lập" : 30
+  "dateOfBirth": "1748\n----------------------------------------------\nMậu Thìn 1748",
+  "dateOfDeath": "1819\n----------------------------------------------\nKỉ Mão 1819",
+  "hometown": "Quê tại Giồng Cái Én",
+  "occupation": "Danh tướng đời Gia Long, nguyên tên là Huỳnh Tường Đức, từng theo giúp Nguyễn Ánh lập công lớn nên được nang họ vua",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Trịnh - Nguyễn": 34,
+    "Nhà Tây Sơn": 21,
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 2950,
-  "entityName" : "Nguyễn Huỳnh Đức",
-  "aliases" : [ "Huỳnh Tường Đức" ],
-  "overview" : "Nguyễn Huỳnh Đức (chữ Hán: 阮黃德; 1748 - 1819) là danh tướng và là công thần khai quốc của nhà Nguyễn. Ông là một trong số các võ quan cao cấp đầu triều Nguyễn, từng giữ chức Tổng trấn của cả Bắc Thành lẫn Gia Định Thành.\n----------------------------------------------\nXuất thân trong một gia đình quan võ ngay từ tuổi trẻ ông có sức mạnh hơn nguời đương thời gọi là \"ông hổ tướng\". Lúc đầu ông đứng trong hàng ngũ quân Đông Sơn của Đỗ Thanh Nhơn, đến năm 33 tuổi (1781) ông mới theo Nguyễn Ánh. Năm 1783 bị nghĩa quân Tây Sơn bắt làm tù binh, được Nguyễn Huệ trọng dụng, ra Bắc đánh quân chúa Trịnh, từng làm phó tướng cho Nguyễn Văn Duệ. Sau Duệ phản Nguyễn Huệ, nên ông có dịp trốn sang Xiêm (Thái Lan) theo về với Nguyễn Ánh. Năm Canh tuất 1790 được thăng chức Chưởng quản Hữu quân dinh, ra đánh chiếm được Phan Rí, rồi tiến chiếm cửa Thị Nại ở Bình Định. Năm sau hạ được thành Qui Nhơn, năm 1799 về cai quản xứ Định Tường (nay thuộc tỉnh Tiền Giang). Sau khi Nguyễn Ánh chiếm thành Phú Xuân, giao ông trấn giữ thành Qui Nhơn. Sau khi Nguyễn Ánh lên ngôi, ông được phong tước Quận Công, đến năm 1810, ông làm tổng trấn Bắc thành kiêm Khâm sai Chưởng tiền quân. Năm 1816 trở về Nam làm Tổng trấn Gia Định cùng với Trịnh Hoài Đức (Đức làm Hiệp Tổng trấn) cai quân cả khu vực miền Nam (Nam Kì). Ngày 9-9 năm Kỉ mão (1819), ông mất tại chức thọ 71 tuổi an táng ở quê nhà (làng Khảnh Hậu, tỉnh Long An ngày nay). Sau khi ông mất, triều đình truy tặng Phụ quốc thượng tướng quân, Thượng trụ quốc Thái phó Quận Công, được thờ tại miếu Trung hưng công thần tại kinh đô Huế. Năm Minh Mạng thứ 12 (1831) được truy tặng là Kiến Xương Quận Công. Ông có 4 người con trai đều xuất thân là võ quan có hai nguời là rể vua Gia Long."
+  "id": 2950,
+  "entityName": "Nguyễn Huỳnh Đức",
+  "aliases": [
+    "Huỳnh Tường Đức"
+  ],
+  "overview": "Nguyễn Huỳnh Đức (chữ Hán: 阮黃德; 1748 - 1819) là danh tướng và là công thần khai quốc của nhà Nguyễn. Ông là một trong số các võ quan cao cấp đầu triều Nguyễn, từng giữ chức Tổng trấn của cả Bắc Thành lẫn Gia Định Thành.\n----------------------------------------------\nXuất thân trong một gia đình quan võ ngay từ tuổi trẻ ông có sức mạnh hơn nguời đương thời gọi là \"ông hổ tướng\". Lúc đầu ông đứng trong hàng ngũ quân Đông Sơn của Đỗ Thanh Nhơn, đến năm 33 tuổi (1781) ông mới theo Nguyễn Ánh. Năm 1783 bị nghĩa quân Tây Sơn bắt làm tù binh, được Nguyễn Huệ trọng dụng, ra Bắc đánh quân chúa Trịnh, từng làm phó tướng cho Nguyễn Văn Duệ. Sau Duệ phản Nguyễn Huệ, nên ông có dịp trốn sang Xiêm (Thái Lan) theo về với Nguyễn Ánh. Năm Canh tuất 1790 được thăng chức Chưởng quản Hữu quân dinh, ra đánh chiếm được Phan Rí, rồi tiến chiếm cửa Thị Nại ở Bình Định. Năm sau hạ được thành Qui Nhơn, năm 1799 về cai quản xứ Định Tường (nay thuộc tỉnh Tiền Giang). Sau khi Nguyễn Ánh chiếm thành Phú Xuân, giao ông trấn giữ thành Qui Nhơn. Sau khi Nguyễn Ánh lên ngôi, ông được phong tước Quận Công, đến năm 1810, ông làm tổng trấn Bắc thành kiêm Khâm sai Chưởng tiền quân. Năm 1816 trở về Nam làm Tổng trấn Gia Định cùng với Trịnh Hoài Đức (Đức làm Hiệp Tổng trấn) cai quân cả khu vực miền Nam (Nam Kì). Ngày 9-9 năm Kỉ mão (1819), ông mất tại chức thọ 71 tuổi an táng ở quê nhà (làng Khảnh Hậu, tỉnh Long An ngày nay). Sau khi ông mất, triều đình truy tặng Phụ quốc thượng tướng quân, Thượng trụ quốc Thái phó Quận Công, được thờ tại miếu Trung hưng công thần tại kinh đô Huế. Năm Minh Mạng thứ 12 (1831) được truy tặng là Kiến Xương Quận Công. Ông có 4 người con trai đều xuất thân là võ quan có hai nguời là rể vua Gia Long."
 }

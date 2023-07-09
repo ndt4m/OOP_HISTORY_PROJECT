@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "1922",
-  "dateOfDeath" : "2012",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 71,
-  "entityName" : "Hoàng Hữu Đản",
-  "aliases" : [ ],
-  "overview" : "Hoàng Hữu Đản (1922-2012) - Nhà văn, dịch giả Việt Nam"
+  "dateOfBirth": "1922",
+  "dateOfDeath": "2012",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 71,
+  "entityName": "Hoàng Hữu Đản",
+  "aliases": [],
+  "overview": "Hoàng Hữu Đản (1922-2012) - Nhà văn, dịch giả Việt Nam"
 }

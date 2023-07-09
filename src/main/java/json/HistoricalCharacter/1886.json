@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 1886,
-  "entityName" : "Phạm Sư Ôn",
-  "aliases" : [ ],
-  "overview" : "Phạm Sư Ôn (chữ Hán: 范師温) là nhà sư nổi tiếng của đất Quốc Oai (Hà Nội). Sư chuẩn bị khởi nghĩa vào năm 1390."
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 1886,
+  "entityName": "Phạm Sư Ôn",
+  "aliases": [],
+  "overview": "Phạm Sư Ôn (chữ Hán: 范師温) là nhà sư nổi tiếng của đất Quốc Oai (Hà Nội). Sư chuẩn bị khởi nghĩa vào năm 1390."
 }

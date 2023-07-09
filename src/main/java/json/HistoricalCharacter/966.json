@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 966,
-  "entityName" : "Lý Hóa Long",
-  "aliases" : [ ],
-  "overview" : "Lý Hóa Long có thể là một trong những nhân vật sau:"
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 966,
+  "entityName": "Lý Hóa Long",
+  "aliases": [],
+  "overview": "Lý Hóa Long có thể là một trong những nhân vật sau:"
 }

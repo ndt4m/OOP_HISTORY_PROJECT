@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : {
-    "An Dương Vương Thục Phán" : null
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {
+    "An Dương Vương Thục Phán": null
   },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 2988,
-  "entityName" : "Mỵ Châu",
-  "aliases" : [ ],
-  "overview" : "Mị Châu (chữ Hán: 媚珠) là một nhân vật truyền thuyết, tương truyền nàng là con gái của An Dương Vương Thục Phán, người đã đánh bại Hùng Vương và khai sinh ra nước Âu Lạc trong lịch sử Việt Nam."
+  "motherName": {},
+  "eraName": {},
+  "id": 2988,
+  "entityName": "Mỵ Châu",
+  "aliases": [],
+  "overview": "Mị Châu (chữ Hán: 媚珠) là một nhân vật truyền thuyết, tương truyền nàng là con gái của An Dương Vương Thục Phán, người đã đánh bại Hùng Vương và khai sinh ra nước Âu Lạc trong lịch sử Việt Nam."
 }

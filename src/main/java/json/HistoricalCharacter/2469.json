@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Kỉ Mão 1939",
-  "dateOfDeath" : "Đinh Mùi 1967",
-  "hometown" : "quê làng Phú Thọ Hòa, quận Tân Bình, tỉnh Gia Định (nay là quận Tân Bình, TP",
-  "occupation" : "Liệt sĩ hiện đại, Anh hùng lực lượng vũ trang",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nước Việt Nam mới" : 29
+  "dateOfBirth": "Kỉ Mão 1939",
+  "dateOfDeath": "Đinh Mùi 1967",
+  "hometown": "quê làng Phú Thọ Hòa, quận Tân Bình, tỉnh Gia Định (nay là quận Tân Bình, TP",
+  "occupation": "Liệt sĩ hiện đại, Anh hùng lực lượng vũ trang",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nước Việt Nam mới": 29
   },
-  "id" : 2469,
-  "entityName" : "Nguyễn Công Thành",
-  "aliases" : [ "Đồng Đen" ],
-  "overview" : "Ông tham gia cách mạng từ những năm 60, vào lực lượng võ trang biệt động thành, tham dự nhiều trận đánh ở nội thành Sài Gòn. Nổi danh nhất là trận đột nhập sân bay Tân Sơn Nhất và địa đạo ở quận Tân Bình. Ông hi sinh ngày 26 tháng 9 năm 1967 ở đường Địa Đạo quận Tân Bình."
+  "id": 2469,
+  "entityName": "Nguyễn Công Thành",
+  "aliases": [
+    "Đồng Đen"
+  ],
+  "overview": "Ông tham gia cách mạng từ những năm 60, vào lực lượng võ trang biệt động thành, tham dự nhiều trận đánh ở nội thành Sài Gòn. Nổi danh nhất là trận đột nhập sân bay Tân Sơn Nhất và địa đạo ở quận Tân Bình. Ông hi sinh ngày 26 tháng 9 năm 1967 ở đường Địa Đạo quận Tân Bình."
 }

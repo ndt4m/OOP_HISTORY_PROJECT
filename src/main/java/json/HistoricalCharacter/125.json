@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Tân Sửu 1901",
-  "dateOfDeath" : "Ất Dậu 1945",
-  "hometown" : "quê ở tỉnh Nam Định (nay vẫn thuộc tỉnh Nam Định)",
-  "occupation" : "Bác sĩ y khoa",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11
+  "dateOfBirth": "Tân Sửu 1901",
+  "dateOfDeath": "Ất Dậu 1945",
+  "hometown": "quê ở tỉnh Nam Định (nay vẫn thuộc tỉnh Nam Định)",
+  "occupation": "Bác sĩ y khoa",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11
   },
-  "id" : 125,
-  "entityName" : "Vũ Ngọc Ánh",
-  "aliases" : [ ],
-  "overview" : "Ông xuất thân trong một gia đình khoa bảng, con Tổng đốc Vũ Ngọc Oánh, ông là thông gia với GS. Bùi Xuân Báo. Thuở nhỏ học tại trường Albert Sarraut, tốt nghiệp Tú tài, rồi du học Pháp đỗ Bác sĩ y khoa năm 1928. Về nước làm việc tại các bệnh viện ở Hà Nội, năm 1945 ông nhận lời mời của Trần Trọng Kim làm bộ trưởng Bộ Y tế trong chính phủ Trần Trọng Kim. Tháng 8 năm 1945, trong chuyến ra Hà Nội tiếp nhận các cơ sở Y tế do Nhật giao lại cho chính phủ Việt Nam, ông bị tử thương do máy bay quân đội đồng minh (Mĩ) oanh tạc trên đường từ Hà Nội đi Nam Định. Ông là tác giả một số sách về y học viết bằng tiếng Pháp. Các tác phẩm của ông: - La chèque de bétel en Indochine (1928, Paris) - Notes sur la Vaccination antivariolique destinées au \"bà mụ\" (1930, Hà Nội)."
+  "id": 125,
+  "entityName": "Vũ Ngọc Ánh",
+  "aliases": [],
+  "overview": "Ông xuất thân trong một gia đình khoa bảng, con Tổng đốc Vũ Ngọc Oánh, ông là thông gia với GS. Bùi Xuân Báo. Thuở nhỏ học tại trường Albert Sarraut, tốt nghiệp Tú tài, rồi du học Pháp đỗ Bác sĩ y khoa năm 1928. Về nước làm việc tại các bệnh viện ở Hà Nội, năm 1945 ông nhận lời mời của Trần Trọng Kim làm bộ trưởng Bộ Y tế trong chính phủ Trần Trọng Kim. Tháng 8 năm 1945, trong chuyến ra Hà Nội tiếp nhận các cơ sở Y tế do Nhật giao lại cho chính phủ Việt Nam, ông bị tử thương do máy bay quân đội đồng minh (Mĩ) oanh tạc trên đường từ Hà Nội đi Nam Định. Ông là tác giả một số sách về y học viết bằng tiếng Pháp. Các tác phẩm của ông: - La chèque de bétel en Indochine (1928, Paris) - Notes sur la Vaccination antivariolique destinées au \"bà mụ\" (1930, Hà Nội)."
 }

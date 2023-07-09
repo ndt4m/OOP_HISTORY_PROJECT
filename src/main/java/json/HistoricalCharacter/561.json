@@ -1,17 +1,19 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "687\n----------------------------------------------\nKhông rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Ông là đồng chí của Lý ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Bắc thuộc lần lần 3" : 1,
-    "nhà Đường" : null
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "687\n----------------------------------------------\nKhông rõ",
+  "hometown": "Không rõ",
+  "occupation": "Ông là đồng chí của Lý ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Bắc thuộc lần lần 3": 1,
+    "nhà Đường": null
   },
-  "id" : 561,
-  "entityName" : "Lý Tự Tiên",
-  "aliases" : [ "Tiên" ],
-  "overview" : "Lý Tự Tiên (李嗣先, ?-687) là thủ lĩnh cuộc khởi nghĩa tại An Nam chống lại sự đô hộ của nhà Đường năm 687.\n----------------------------------------------\nNăm Đinh hợi 687, không phục nhà Đường đô hộ, ông theo Lý Tự Tiên phất cờ khởi nghĩa. Đô hộ Lưu Diên Hựu và tướng Quang Sở Khánh đàn áp, giết Lý Tự Tiên. Ông càng sôi máu căm thù, cùng đồng chí là Tư Thận nối chí Tự Tiên kêu gọi toàn thể nhân dân vùng lên khởi nghĩa. Ông tiếp tục lãnh đạo cuộc khởi nghĩa, nghĩa quân tiến vây phủ thành Tống Bình (Hà Nội), bắt giết được Lưu Diên Hựu. Đám quân đô hộ trong thành lo sợ, đắp lũy cầm cự chờ quân cứu viện. Chẳng bao lâu, Tư Mã Quế Châu là Tào Huyền Tĩnh kéo quân sang đàn áp dữ dội. Thế yếu, ông và các đồng chí đều hi sinh."
+  "id": 561,
+  "entityName": "Lý Tự Tiên",
+  "aliases": [
+    "Tiên"
+  ],
+  "overview": "Lý Tự Tiên (李嗣先, ?-687) là thủ lĩnh cuộc khởi nghĩa tại An Nam chống lại sự đô hộ của nhà Đường năm 687.\n----------------------------------------------\nNăm Đinh hợi 687, không phục nhà Đường đô hộ, ông theo Lý Tự Tiên phất cờ khởi nghĩa. Đô hộ Lưu Diên Hựu và tướng Quang Sở Khánh đàn áp, giết Lý Tự Tiên. Ông càng sôi máu căm thù, cùng đồng chí là Tư Thận nối chí Tự Tiên kêu gọi toàn thể nhân dân vùng lên khởi nghĩa. Ông tiếp tục lãnh đạo cuộc khởi nghĩa, nghĩa quân tiến vây phủ thành Tống Bình (Hà Nội), bắt giết được Lưu Diên Hựu. Đám quân đô hộ trong thành lo sợ, đắp lũy cầm cự chờ quân cứu viện. Chẳng bao lâu, Tư Mã Quế Châu là Tào Huyền Tĩnh kéo quân sang đàn áp dữ dội. Thế yếu, ông và các đồng chí đều hi sinh."
 }

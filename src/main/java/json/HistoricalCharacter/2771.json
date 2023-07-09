@@ -1,20 +1,22 @@
 {
-  "dateOfBirth" : "Canh Thìn 1940",
-  "dateOfDeath" : "Quí Mão 1963",
-  "hometown" : "quê làng Long Tĩnh, xã Liên Hương, quận Tuy Phong, tỉnh Bình Thuận",
-  "occupation" : "Tu sĩ Phật giáo",
-  "workTenure" : "Không rõ",
-  "fatherName" : {
-    "Hoàng Thân" : null
+  "dateOfBirth": "Canh Thìn 1940",
+  "dateOfDeath": "Quí Mão 1963",
+  "hometown": "quê làng Long Tĩnh, xã Liên Hương, quận Tuy Phong, tỉnh Bình Thuận",
+  "occupation": "Tu sĩ Phật giáo",
+  "workTenure": "Không rõ",
+  "fatherName": {
+    "Hoàng Thân": null
   },
-  "motherName" : {
-    "Trương Thị Sang" : null
+  "motherName": {
+    "Trương Thị Sang": null
   },
-  "eraName" : {
-    "Nước Việt Nam mới" : 29
+  "eraName": {
+    "Nước Việt Nam mới": 29
   },
-  "id" : 2771,
-  "entityName" : "Hoàng Văn Lễ",
-  "aliases" : [ "Nguyên Hương" ],
-  "overview" : "Năm lên 6 tuổi, ông xuất gia học đạo với thượng tọa Quảng Chí ở chùa Linh Bửu. Về sau, ông theo học tại chùa Linh Quang (Huế), Phật Quang (Phan Thiết). Năm 18 tuổi ông thọ giới với thượng tọa Viên Trí ở chùa Bửu Tính thuộc quận Hòa Đa, tỉnh Bình Thuận. Năm 1963 ông phản đối chính quyền Ngô Đình Diệm đàn áp nhân dân và Phật giáo, ông tuyệt thực từ ngày 2-8-1963, đến ngày 4-8 ông tự thiêu trước quảng trường thị xã Phan Thiết. Ông hi sinh vào lúc 12 giờ trưa ngày 4-8-1963. Sau này giáo hội Phật giáo Việt Nam lấy tên ông đật tên cho một ngôi chùa tại đường Nguyễn Đình Chiểu thuộc Quận 3 thành phố Hồ Chí Minh."
+  "id": 2771,
+  "entityName": "Hoàng Văn Lễ",
+  "aliases": [
+    "Nguyên Hương"
+  ],
+  "overview": "Năm lên 6 tuổi, ông xuất gia học đạo với thượng tọa Quảng Chí ở chùa Linh Bửu. Về sau, ông theo học tại chùa Linh Quang (Huế), Phật Quang (Phan Thiết). Năm 18 tuổi ông thọ giới với thượng tọa Viên Trí ở chùa Bửu Tính thuộc quận Hòa Đa, tỉnh Bình Thuận. Năm 1963 ông phản đối chính quyền Ngô Đình Diệm đàn áp nhân dân và Phật giáo, ông tuyệt thực từ ngày 2-8-1963, đến ngày 4-8 ông tự thiêu trước quảng trường thị xã Phan Thiết. Ông hi sinh vào lúc 12 giờ trưa ngày 4-8-1963. Sau này giáo hội Phật giáo Việt Nam lấy tên ông đật tên cho một ngôi chùa tại đường Nguyễn Đình Chiểu thuộc Quận 3 thành phố Hồ Chí Minh."
 }

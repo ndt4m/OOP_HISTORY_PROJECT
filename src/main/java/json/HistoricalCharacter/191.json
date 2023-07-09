@@ -1,14 +1,17 @@
 {
-  "dateOfBirth" : "huyện Thuỷ Hưng, tỉnh Quảng Đông, Trung Quốc",
-  "dateOfDeath" : "Hồng Kông, thuộc địa Anh quốc",
-  "hometown" : "huyện Thuỷ Hưng tỉnh Quảng Đông, Trung Quốc, thượng tướng quân đội Trung Hoa Dân Quốc (quốc quân)",
-  "occupation" : "Phục vụ",
-  "workTenure" : "1912 - 1949",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 191,
-  "entityName" : "Trương Phát Khuê",
-  "aliases" : [ "Hướng Hoa", "Dật Bân" ],
-  "overview" : "Trương Phát Khuê (Chang Fa-Kui, 张发奎), 1896 - 1980, tên tự Hướng Hoa (向华), còn có tên là Dật Bân (逸斌), người huyện Thuỷ Hưng tỉnh Quảng Đông, Trung Quốc, thượng tướng quân đội Trung Hoa Dân Quốc (quốc quân), tham gia Bắc phạt, nổi tiếng trong binh biến Nam Xương. Trong chiến tranh kháng Nhật, là tư lệnh mặt trận Thượng Hải lần thứ nhất, sau đó là tư lệnh của đệ tứ quân khu. Sau năm 1949, tướng Trương Phát Khuê sống tại Hương Cảng."
+  "dateOfBirth": "huyện Thuỷ Hưng, tỉnh Quảng Đông, Trung Quốc",
+  "dateOfDeath": "Hồng Kông, thuộc địa Anh quốc",
+  "hometown": "huyện Thuỷ Hưng tỉnh Quảng Đông, Trung Quốc, thượng tướng quân đội Trung Hoa Dân Quốc (quốc quân)",
+  "occupation": "Phục vụ",
+  "workTenure": "1912 - 1949",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 191,
+  "entityName": "Trương Phát Khuê",
+  "aliases": [
+    "Hướng Hoa",
+    "Dật Bân"
+  ],
+  "overview": "Trương Phát Khuê (Chang Fa-Kui, 张发奎), 1896 - 1980, tên tự Hướng Hoa (向华), còn có tên là Dật Bân (逸斌), người huyện Thuỷ Hưng tỉnh Quảng Đông, Trung Quốc, thượng tướng quân đội Trung Hoa Dân Quốc (quốc quân), tham gia Bắc phạt, nổi tiếng trong binh biến Nam Xương. Trong chiến tranh kháng Nhật, là tư lệnh mặt trận Thượng Hải lần thứ nhất, sau đó là tư lệnh của đệ tứ quân khu. Sau năm 1949, tướng Trương Phát Khuê sống tại Hương Cảng."
 }

@@ -1,14 +1,17 @@
 {
-  "dateOfBirth" : "Năm 225 Yên Định, Thanh Hóa",
-  "dateOfDeath" : "Năm 248 Hậu Lộc, Thanh Hóa",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 1452,
-  "entityName" : "Bà Triệu",
-  "aliases" : [ "Triệu Ẩu", "Triệu Trinh Nương, Triệu Thị Trinh, Triệu Quốc Trinh" ],
-  "overview" : "Bà Triệu (chữ Hán: 趙婆), còn được gọi là Triệu Ẩu (趙嫗), Triệu Trinh Nương (趙貞娘), Triệu Thị Trinh (趙氏貞), Triệu Quốc Trinh (225–248), là một trong những vị anh hùng dân tộc trong lịch sử Việt Nam."
+  "dateOfBirth": "Năm 225 Yên Định, Thanh Hóa",
+  "dateOfDeath": "Năm 248 Hậu Lộc, Thanh Hóa",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 1452,
+  "entityName": "Bà Triệu",
+  "aliases": [
+    "Triệu Ẩu",
+    "Triệu Trinh Nương, Triệu Thị Trinh, Triệu Quốc Trinh"
+  ],
+  "overview": "Bà Triệu (chữ Hán: 趙婆), còn được gọi là Triệu Ẩu (趙嫗), Triệu Trinh Nương (趙貞娘), Triệu Thị Trinh (趙氏貞), Triệu Quốc Trinh (225–248), là một trong những vị anh hùng dân tộc trong lịch sử Việt Nam."
 }

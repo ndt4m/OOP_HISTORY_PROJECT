@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "Châu Thành, Tây Ninh",
-  "dateOfDeath" : "Châu Thành, Tây Ninh",
-  "hometown" : "Không rõ",
-  "occupation" : "Luật sư, chính khách",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 1871,
-  "entityName" : "Dương Minh Châu",
-  "aliases" : [ ],
-  "overview" : "Dương Minh Châu (1912-1947) là Chủ tịch Ủy ban hành chính kháng chiến tỉnh Tây Ninh. Hy sinh khi trên đường đi thương thuyết với Cao Đài năm 1947."
+  "dateOfBirth": "Châu Thành, Tây Ninh",
+  "dateOfDeath": "Châu Thành, Tây Ninh",
+  "hometown": "Không rõ",
+  "occupation": "Luật sư, chính khách",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 1871,
+  "entityName": "Dương Minh Châu",
+  "aliases": [],
+  "overview": "Dương Minh Châu (1912-1947) là Chủ tịch Ủy ban hành chính kháng chiến tỉnh Tây Ninh. Hy sinh khi trên đường đi thương thuyết với Cao Đài năm 1947."
 }

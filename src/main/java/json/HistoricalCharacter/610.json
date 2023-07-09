@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Giám sát ngự sử",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Lê sơ, Mạc" : null
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Giám sát ngự sử",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Lê sơ, Mạc": null
   },
-  "id" : 610,
-  "entityName" : "Đặng Ất",
-  "aliases" : [ ],
-  "overview" : "Đặng Ất là giám sát ngự sử thời Lê sơ, đỗ hoàng giáp năm 1518."
+  "id": 610,
+  "entityName": "Đặng Ất",
+  "aliases": [],
+  "overview": "Đặng Ất là giám sát ngự sử thời Lê sơ, đỗ hoàng giáp năm 1518."
 }

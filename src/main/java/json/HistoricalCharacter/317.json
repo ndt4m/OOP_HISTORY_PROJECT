@@ -1,20 +1,26 @@
 {
-  "dateOfBirth" : "12 tháng 2, 1271",
-  "dateOfDeath" : "19 tháng 3, 1279 (8 tuổi) Quảng Đông, Trung Quốc",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đại Tống",
-  "workTenure" : "10 tháng 5 năm 1278 - 19 tháng 3 năm 1279 (0 năm, 313 ngày)",
-  "fatherName" : {
-    "Tống Độ Tông" : null
+  "dateOfBirth": "12 tháng 2, 1271",
+  "dateOfDeath": "19 tháng 3, 1279 (8 tuổi) Quảng Đông, Trung Quốc",
+  "hometown": "Không rõ",
+  "occupation": "Hoàng đế Đại Tống",
+  "workTenure": "10 tháng 5 năm 1278 - 19 tháng 3 năm 1279 (0 năm, 313 ngày)",
+  "fatherName": {
+    "Tống Độ Tông": null
   },
-  "motherName" : {
-    "Du Tu Dung" : null
+  "motherName": {
+    "Du Tu Dung": null
   },
-  "eraName" : {
-    "Nhà Nam Tống" : null
+  "eraName": {
+    "Nhà Nam Tống": null
   },
-  "id" : 317,
-  "entityName" : "Triệu Bính",
-  "aliases" : [ "Triệu Bính (赵昺)", "Hoài Tông (懷宗)", "Niên hiệu Tường Hưng (祥興: 5/1278 - 3/1279)", "Cung Văn Ninh Vũ Ai Hiếu Hoàng đế (恭文寧武哀孝皇帝) Thiếu Đế (少帝)", "Tống Đế Bính" ],
-  "overview" : "Tống Hoài Tông (chữ Hán: 宋懷宗; 12 tháng 2, 1271 - 19 tháng 3, 1279) hay Tống Đế Bính (宋帝昺), là vị hoàng đế thứ chín và là hoàng đế cuối cùng của vương triều Nam Tống trong lịch sử Trung Quốc. Ông là con trai thứ của hoàng đế Độ Tông triều Nam Tống, mẹ là Du tu dung. Sau khi kinh thành Lâm An thất thủ về tay quân Nguyên, Triệu Bính cùng anh là Tống Đoan Tông chạy ra Mân, Quảng tiếp tục kháng Nguyên. Vào tháng 5 năm 1278, đế Thị qua đời, Triệu Bính mới 8 tuổi được lập làm hoàng đế ở Phong châu với niên hiệu Tường Hưng để duy trì nhà Tống. Lúc này quân Nguyên tiếp tục tiến về phía nam hòng diệt hẳn triều đình lưu vong và thống nhất Trung Quốc. Ngày 19 tháng 3 năm 1279, quân Nguyên do Trương Hoằng Phạm chỉ huy tiến công vào lãnh địa cuối cùng của Tống là Nhai Sơn, Tả thừa tướng Lục Tú Phu ôm đế Bính nhảy xuống biển tự vẫn, triều Nam Tống diệt vong."
+  "id": 317,
+  "entityName": "Triệu Bính",
+  "aliases": [
+    "Triệu Bính (赵昺)",
+    "Hoài Tông (懷宗)",
+    "Niên hiệu Tường Hưng (祥興: 5/1278 - 3/1279)",
+    "Cung Văn Ninh Vũ Ai Hiếu Hoàng đế (恭文寧武哀孝皇帝) Thiếu Đế (少帝)",
+    "Tống Đế Bính"
+  ],
+  "overview": "Tống Hoài Tông (chữ Hán: 宋懷宗; 12 tháng 2, 1271 - 19 tháng 3, 1279) hay Tống Đế Bính (宋帝昺), là vị hoàng đế thứ chín và là hoàng đế cuối cùng của vương triều Nam Tống trong lịch sử Trung Quốc. Ông là con trai thứ của hoàng đế Độ Tông triều Nam Tống, mẹ là Du tu dung. Sau khi kinh thành Lâm An thất thủ về tay quân Nguyên, Triệu Bính cùng anh là Tống Đoan Tông chạy ra Mân, Quảng tiếp tục kháng Nguyên. Vào tháng 5 năm 1278, đế Thị qua đời, Triệu Bính mới 8 tuổi được lập làm hoàng đế ở Phong châu với niên hiệu Tường Hưng để duy trì nhà Tống. Lúc này quân Nguyên tiếp tục tiến về phía nam hòng diệt hẳn triều đình lưu vong và thống nhất Trung Quốc. Ngày 19 tháng 3 năm 1279, quân Nguyên do Trương Hoằng Phạm chỉ huy tiến công vào lãnh địa cuối cùng của Tống là Nhai Sơn, Tả thừa tướng Lục Tú Phu ôm đế Bính nhảy xuống biển tự vẫn, triều Nam Tống diệt vong."
 }

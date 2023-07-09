@@ -1,20 +1,22 @@
 {
-  "dateOfBirth" : "14 tháng 12 năm 1914 Gò Công, Liên bang Đông Dương",
-  "dateOfDeath" : "16 tháng 9, 1963 (48 tuổi) Corrèze, Pháp",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng hậu Đại Nam",
-  "workTenure" : "20 tháng 3 năm 1934 – 25 tháng 8 năm 1945 (11 năm, 158 ngày)",
-  "fatherName" : {
-    "Nguyễn Hữu Hào" : 2955
+  "dateOfBirth": "14 tháng 12 năm 1914 Gò Công, Liên bang Đông Dương",
+  "dateOfDeath": "16 tháng 9, 1963 (48 tuổi) Corrèze, Pháp",
+  "hometown": "Không rõ",
+  "occupation": "Hoàng hậu Đại Nam",
+  "workTenure": "20 tháng 3 năm 1934 – 25 tháng 8 năm 1945 (11 năm, 158 ngày)",
+  "fatherName": {
+    "Nguyễn Hữu Hào": 304
   },
-  "motherName" : {
-    "Lê Thị Bình" : null
+  "motherName": {
+    "Lê Thị Bình": null
   },
-  "eraName" : {
-    "Nhà Nguyễn" : null
+  "eraName": {
+    "Nhà Nguyễn": null
   },
-  "id" : 195,
-  "entityName" : "Nguyễn Hữu Thị Lan",
-  "aliases" : [ "Jeanne Mariette Nguyễn Hữu Thị Lan" ],
-  "overview" : "Nam Phương hoàng hậu (chữ Hán: 南芳皇后; 14 tháng 12 năm 1914 - 16 tháng 9 năm 1963) là hoàng hậu của hoàng đế Bảo Đại thuộc triều đại nhà Nguyễn trong lịch sử Việt Nam."
+  "id": 195,
+  "entityName": "Nguyễn Hữu Thị Lan",
+  "aliases": [
+    "Jeanne Mariette Nguyễn Hữu Thị Lan"
+  ],
+  "overview": "Nam Phương hoàng hậu (chữ Hán: 南芳皇后; 14 tháng 12 năm 1914 - 16 tháng 9 năm 1963) là hoàng hậu của hoàng đế Bảo Đại thuộc triều đại nhà Nguyễn trong lịch sử Việt Nam."
 }

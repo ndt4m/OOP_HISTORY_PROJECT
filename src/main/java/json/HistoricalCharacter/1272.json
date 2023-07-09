@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Vua",
-  "workTenure" : "?–?",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Hồng Bàng" : 17
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Vua",
+  "workTenure": "?–?",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Hồng Bàng": 17
   },
-  "id" : 1272,
-  "entityName" : "Hùng Vương thứ 17",
-  "aliases" : [ ],
-  "overview" : "Hùng Vương thứ XVII là một vị vua truyền thuyết của nước Văn Lang trong lịch sử Việt Nam. Tương truyền, vua Hùng thứ XVII có một người con nuôi là Mai An Tiêm, ông tổ trồng dưa ở Việt Nam."
+  "id": 1272,
+  "entityName": "Hùng Vương thứ 17",
+  "aliases": [],
+  "overview": "Hùng Vương thứ XVII là một vị vua truyền thuyết của nước Văn Lang trong lịch sử Việt Nam. Tương truyền, vua Hùng thứ XVII có một người con nuôi là Mai An Tiêm, ông tổ trồng dưa ở Việt Nam."
 }

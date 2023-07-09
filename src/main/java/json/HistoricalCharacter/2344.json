@@ -1,22 +1,28 @@
 {
-  "dateOfBirth" : "4 tháng 10, 1506 hoặc 1501 Đông Kinh\n----------------------------------------------\nBính Dần 1506\n----------------------------------------------\nKhông rõ",
-  "dateOfDeath" : "18 tháng 12, 1526 (20 tuổi) phường Đông Hà (Hàng Chiếu), Đông Kinh, Đại Việt\n----------------------------------------------\nBính Tuất 1526\n----------------------------------------------\nKhông rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đại Việt\n----------------------------------------------\nVua nhà Hậu Lê\n----------------------------------------------\nVua",
-  "workTenure" : "1516 - 1522\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1516–1525",
-  "fatherName" : {
-    "Lê Minh Tông" : null
+  "dateOfBirth": "4 tháng 10, 1506 hoặc 1501 Đông Kinh\n----------------------------------------------\nBính Dần 1506\n----------------------------------------------\nKhông rõ",
+  "dateOfDeath": "18 tháng 12, 1526 (20 tuổi) phường Đông Hà (Hàng Chiếu), Đông Kinh, Đại Việt\n----------------------------------------------\nBính Tuất 1526\n----------------------------------------------\nKhông rõ",
+  "hometown": "Không rõ",
+  "occupation": "Hoàng đế Đại Việt\n----------------------------------------------\nVua nhà Hậu Lê\n----------------------------------------------\nVua",
+  "workTenure": "1516 - 1522\n----------------------------------------------\nKhông rõ\n----------------------------------------------\n1516–1525",
+  "fatherName": {
+    "Lê Minh Tông": null
   },
-  "motherName" : {
-    "Trịnh Thị Loan" : null
+  "motherName": {
+    "Trịnh Thị Loan": null
   },
-  "eraName" : {
-    "Nhà Hậu Lê – giai đoạn Lê sơ" : 20,
-    "Nhà Lê sơ" : null,
-    "Triều Lê Sơ" : 7
+  "eraName": {
+    "Nhà Hậu Lê – giai đoạn Lê sơ": 20,
+    "Nhà Lê sơ": null,
+    "Triều Lê Sơ": 7
   },
-  "id" : 2344,
-  "entityName" : "Lê Chiêu Tông",
-  "aliases" : [ "Chiêu Tông (昭宗)", "Lê Y (黎椅)", "Quang Thiệu (光紹)", "Thần Hoàng đế (神皇帝)", "Lê Chiêu tông" ],
-  "overview" : "Lê Chiêu Tông (chữ Hán: 黎昭宗, 4 tháng 10, 1506 hoặc 1501 - 18 tháng 12, 1526), là vị hoàng đế thứ 10 của nhà Lê Sơ, ở ngôi từ năm 1516 đến 1522, tổng cộng 7 năm.\n----------------------------------------------\nBấy giờ triều chính rối loạn, nhóm lộng quyền do Trịnh Duy Sản cầm đầu đưa ông lên ngôi, mới 11 tuổi, nhằm ngày 27-4 năm Bính tí 1516. Ông đóng đô ở Tây Kinh, vì Đông Đô đã bị tàn phá trong các cuộc biến loạn vừa qua. Tại Đông Đô, giặc Trần Cảo càng hoành hành, tự xưng vương. Đến khi các tướng Trịnh Duy Sản, Nguyễn Hoằng Dũ, Trịnh Tuy, Trần Chân dẹp được loạn Trần Cảo, lại xảy ra việc các tướng chống đối nhau, tình thế đổ nát, tạo cơ hội cho Mạc Đăng Dung tập trung được quyền hành. Mạc Đăng Dung được thế lộng quyền khiến triều thần bất mãn. Ông mới mật mưu với bọn nội thần là Phạm Hiến, Phạm Thứ để đánh Đăng Dung, rồi sai nguời lén vào Tây Kinh vời Trịnh Tuy đem binh về làm ngoại ứng. Sắp đặt xong, đêm 27-7 Nhâm ngọ 1522, ông lên Sơn Tây để tiện bề phát động cuộc tiễu trừ họ Mạc. Ông đi rồi, Mạc Đăng Dung tôn ngay em ông là Lê Xuân lên ngôi tức Cung Hoàng. Rồi đến tháng 8 Quí vị 1523, ông bị Đăng Dung chính thức tưyên bố truất phế. Năm Bính tuất 1526, Mạc Đăng Dung đánh bắt được ông, đem về Đông Hà (thuộc huyện Thọ Xương) rồi ra lệnh giết ông trong ngày 18 tháng chạp, mới 21 tuổi chôn tại Vĩnh Hưng lăng. Ông ở ngôi 7 năm (1516-1522), hiệu năm là Quang Thiệu.\n----------------------------------------------\nLê Chiêu Tông (chữ Hán: 黎昭宗 18 tháng 11 năm 1506 – 19 tháng 1 năm 1527), tên thật là Lê Y (黎椅), là vị hoàng đế thứ 10 của Hoàng triều Lê nước Đại Việt, ở ngôi từ năm 1516 đến 1522, tổng cộng 7 năm với niên hiệu Quang Thiệu."
+  "id": 2344,
+  "entityName": "Lê Chiêu Tông",
+  "aliases": [
+    "Chiêu Tông (昭宗)",
+    "Lê Y (黎椅)",
+    "Quang Thiệu (光紹)",
+    "Thần Hoàng đế (神皇帝)",
+    "Lê Chiêu tông"
+  ],
+  "overview": "Lê Chiêu Tông (chữ Hán: 黎昭宗, 4 tháng 10, 1506 hoặc 1501 - 18 tháng 12, 1526), là vị hoàng đế thứ 10 của nhà Lê Sơ, ở ngôi từ năm 1516 đến 1522, tổng cộng 7 năm.\n----------------------------------------------\nBấy giờ triều chính rối loạn, nhóm lộng quyền do Trịnh Duy Sản cầm đầu đưa ông lên ngôi, mới 11 tuổi, nhằm ngày 27-4 năm Bính tí 1516. Ông đóng đô ở Tây Kinh, vì Đông Đô đã bị tàn phá trong các cuộc biến loạn vừa qua. Tại Đông Đô, giặc Trần Cảo càng hoành hành, tự xưng vương. Đến khi các tướng Trịnh Duy Sản, Nguyễn Hoằng Dũ, Trịnh Tuy, Trần Chân dẹp được loạn Trần Cảo, lại xảy ra việc các tướng chống đối nhau, tình thế đổ nát, tạo cơ hội cho Mạc Đăng Dung tập trung được quyền hành. Mạc Đăng Dung được thế lộng quyền khiến triều thần bất mãn. Ông mới mật mưu với bọn nội thần là Phạm Hiến, Phạm Thứ để đánh Đăng Dung, rồi sai nguời lén vào Tây Kinh vời Trịnh Tuy đem binh về làm ngoại ứng. Sắp đặt xong, đêm 27-7 Nhâm ngọ 1522, ông lên Sơn Tây để tiện bề phát động cuộc tiễu trừ họ Mạc. Ông đi rồi, Mạc Đăng Dung tôn ngay em ông là Lê Xuân lên ngôi tức Cung Hoàng. Rồi đến tháng 8 Quí vị 1523, ông bị Đăng Dung chính thức tưyên bố truất phế. Năm Bính tuất 1526, Mạc Đăng Dung đánh bắt được ông, đem về Đông Hà (thuộc huyện Thọ Xương) rồi ra lệnh giết ông trong ngày 18 tháng chạp, mới 21 tuổi chôn tại Vĩnh Hưng lăng. Ông ở ngôi 7 năm (1516-1522), hiệu năm là Quang Thiệu.\n----------------------------------------------\nLê Chiêu Tông (chữ Hán: 黎昭宗 18 tháng 11 năm 1506 – 19 tháng 1 năm 1527), tên thật là Lê Y (黎椅), là vị hoàng đế thứ 10 của Hoàng triều Lê nước Đại Việt, ở ngôi từ năm 1516 đến 1522, tổng cộng 7 năm với niên hiệu Quang Thiệu."
 }

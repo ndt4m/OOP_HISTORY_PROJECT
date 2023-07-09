@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Tân Sửu 1121",
-  "dateOfDeath" : "Canh Tuất 1190",
-  "hometown" : "quê ở Đan Phượng (nay thuộc tỉnh Bắc Ninh), họ Nguyễn nên thường gọi là Nguyễn Quảng Nghiêm",
-  "occupation" : "Thiền sư đời Lý Anh tông, không rõ tên thật",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Lý" : 14
+  "dateOfBirth": "Tân Sửu 1121",
+  "dateOfDeath": "Canh Tuất 1190",
+  "hometown": "quê ở Đan Phượng (nay thuộc tỉnh Bắc Ninh), họ Nguyễn nên thường gọi là Nguyễn Quảng Nghiêm",
+  "occupation": "Thiền sư đời Lý Anh tông, không rõ tên thật",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Lý": 14
   },
-  "id" : 2581,
-  "entityName" : "Nguyễn Quảng Nghiêm",
-  "aliases" : [ "Quảng Nghiêm" ],
-  "overview" : "Ông đi tu từ thuở nhỏ học với cậu là Bảo Nhạc, sau theo học với sư Trí Thiền (Tô Minh Trí) ở chùa Chúc Thánh, rồi về trụ trì ở chùa Thánh ân, huyện Siêu Loại, được Thượng thư bộ Binh là Phùng Giáng Tường trọng vọng, vời ông đến trụ trì ở chùa Tịnh Quả. Ông được truyền tâm ấn, đứng vào thế hệ thứ 11 dòng Thiền Quan Bích. Ngày 15-2 âm lịch Canh tuất (22-3-1190) ông mất, thọ 69 tuổi. Còn lưu truyền một bài kệ: \"Li tịch phương ngôn tịch diệt khứ Sinh vô sinh hậu thuyết vô sinh. Nam nhi tự hữu xung thiên chí, Hưu hưởng Như Lai hành xứ hành. Bản dịch: Thoát kiếp rồi bàn câu tịch diệt, Không sinh hãy nói chuyên siêu sinh. Tài trai có chí xông trời thẳm, Dẫm vết Như Lai uổng nhọc mình."
+  "id": 2581,
+  "entityName": "Nguyễn Quảng Nghiêm",
+  "aliases": [
+    "Quảng Nghiêm"
+  ],
+  "overview": "Ông đi tu từ thuở nhỏ học với cậu là Bảo Nhạc, sau theo học với sư Trí Thiền (Tô Minh Trí) ở chùa Chúc Thánh, rồi về trụ trì ở chùa Thánh ân, huyện Siêu Loại, được Thượng thư bộ Binh là Phùng Giáng Tường trọng vọng, vời ông đến trụ trì ở chùa Tịnh Quả. Ông được truyền tâm ấn, đứng vào thế hệ thứ 11 dòng Thiền Quan Bích. Ngày 15-2 âm lịch Canh tuất (22-3-1190) ông mất, thọ 69 tuổi. Còn lưu truyền một bài kệ: \"Li tịch phương ngôn tịch diệt khứ Sinh vô sinh hậu thuyết vô sinh. Nam nhi tự hữu xung thiên chí, Hưu hưởng Như Lai hành xứ hành. Bản dịch: Thoát kiếp rồi bàn câu tịch diệt, Không sinh hãy nói chuyên siêu sinh. Tài trai có chí xông trời thẳm, Dẫm vết Như Lai uổng nhọc mình."
 }

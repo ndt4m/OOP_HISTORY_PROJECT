@@ -1,20 +1,24 @@
 {
-  "dateOfBirth" : "5 tháng 7 năm 182 Hạ Bi, Từ Châu, Nhà Hán",
-  "dateOfDeath" : "21 tháng 5 năm 252 (70 tuổi) Kiến Nghiệp, Đông Ngô",
-  "hometown" : "Không rõ",
-  "occupation" : "Hoàng đế Đông Ngô",
-  "workTenure" : "23 tháng 5 229 – 21 tháng 5 252 22 năm, 344 ngày",
-  "fatherName" : {
-    "Tôn Kiên" : null
+  "dateOfBirth": "5 tháng 7 năm 182 Hạ Bi, Từ Châu, Nhà Hán",
+  "dateOfDeath": "21 tháng 5 năm 252 (70 tuổi) Kiến Nghiệp, Đông Ngô",
+  "hometown": "Không rõ",
+  "occupation": "Hoàng đế Đông Ngô",
+  "workTenure": "23 tháng 5 229 – 21 tháng 5 252 22 năm, 344 ngày",
+  "fatherName": {
+    "Tôn Kiên": null
   },
-  "motherName" : {
-    "Ngô thị" : null
+  "motherName": {
+    "Ngô thị": null
   },
-  "eraName" : {
-    "Đông Ngô" : null
+  "eraName": {
+    "Đông Ngô": null
   },
-  "id" : 1269,
-  "entityName" : "Tôn Quyền",
-  "aliases" : [ "Trọng Mưu", "Tên đầy đủ Họ: Tôn (孫) Tên: Quyền (權) tự Trọng Mưu (仲謀) Niên hiệu xem phần Niên hiệu Thụy hiệu Đại hoàng đế (大皇帝) Miếu hiệu Thái Tổ (太祖)", "Ngô Đại Đế" ],
-  "overview" : "Tôn Quyền (giản thể: 孙权; phồn thể: 孫權; 5 tháng 7 năm 181– 21 tháng 5, 252), tự là Trọng Mưu (仲谋), thụy hiệu Ngô Đại Đế (吴大帝, tức là \"Hoàng đế lớn của Ngô\"), là người sáng lập của chính quyền Đông Ngô dưới thời Tam Quốc trong lịch sử Trung Quốc. Ông thừa hưởng quyền kiểm soát đất Giang Đông từ tay huynh trưởng, Tôn Sách, năm 200. Ông tuyên bố độc lập và cai trị Giang Đông từ năm 222 đến 229 với tước hiệu Ngô vương và từ 229 đến 252 với tước hiệu hoàng đế Ngô. Không như các đối thủ Tào Tháo và Lưu Bị, Tôn Quyền thường đóng vai trò trung lập trong các cuộc xung đột của Thục và Ngụy, và chỉ đứng về một trong phía hai bên còn lại nếu điều đó có lợi cho nước Ngô; cũng không bao giờ cố gắng để thống nhất ba nước, mặc dù nhiều sử gia cho rằng là do không đủ thực lực để làm điều đó."
+  "id": 1269,
+  "entityName": "Tôn Quyền",
+  "aliases": [
+    "Trọng Mưu",
+    "Tên đầy đủ Họ: Tôn (孫) Tên: Quyền (權) tự Trọng Mưu (仲謀) Niên hiệu xem phần Niên hiệu Thụy hiệu Đại hoàng đế (大皇帝) Miếu hiệu Thái Tổ (太祖)",
+    "Ngô Đại Đế"
+  ],
+  "overview": "Tôn Quyền (giản thể: 孙权; phồn thể: 孫權; 5 tháng 7 năm 181– 21 tháng 5, 252), tự là Trọng Mưu (仲谋), thụy hiệu Ngô Đại Đế (吴大帝, tức là \"Hoàng đế lớn của Ngô\"), là người sáng lập của chính quyền Đông Ngô dưới thời Tam Quốc trong lịch sử Trung Quốc. Ông thừa hưởng quyền kiểm soát đất Giang Đông từ tay huynh trưởng, Tôn Sách, năm 200. Ông tuyên bố độc lập và cai trị Giang Đông từ năm 222 đến 229 với tước hiệu Ngô vương và từ 229 đến 252 với tước hiệu hoàng đế Ngô. Không như các đối thủ Tào Tháo và Lưu Bị, Tôn Quyền thường đóng vai trò trung lập trong các cuộc xung đột của Thục và Ngụy, và chỉ đứng về một trong phía hai bên còn lại nếu điều đó có lợi cho nước Ngô; cũng không bao giờ cố gắng để thống nhất ba nước, mặc dù nhiều sử gia cho rằng là do không đủ thực lực để làm điều đó."
 }

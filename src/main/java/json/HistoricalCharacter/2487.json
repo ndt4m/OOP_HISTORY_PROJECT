@@ -1,16 +1,16 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "nhà Tiền Lê" : null
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "nhà Tiền Lê": null
   },
-  "id" : 2487,
-  "entityName" : "Nguyễn Đê",
-  "aliases" : [ ],
-  "overview" : "Nguyễn Đê (Chữ Hán: 阮低, ? - ?) là một võ quan của nhà Tiền Lê trong lịch sử Việt Nam."
+  "id": 2487,
+  "entityName": "Nguyễn Đê",
+  "aliases": [],
+  "overview": "Nguyễn Đê (Chữ Hán: 阮低, ? - ?) là một võ quan của nhà Tiền Lê trong lịch sử Việt Nam."
 }

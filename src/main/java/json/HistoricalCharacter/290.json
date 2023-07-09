@@ -1,16 +1,18 @@
 {
-  "dateOfBirth" : "Nhâm Tuất 1802",
-  "dateOfDeath" : "Bính Tuất 1886",
-  "hometown" : "quê làng Mĩ Trà (Cao Lãnh, Đồng Tháp), có chồng là Lê Văn Tấn",
-  "occupation" : "Thường gọi là Bà Hai Đệ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Nhà Nguyễn độc lập" : 30
+  "dateOfBirth": "Nhâm Tuất 1802",
+  "dateOfDeath": "Bính Tuất 1886",
+  "hometown": "quê làng Mĩ Trà (Cao Lãnh, Đồng Tháp), có chồng là Lê Văn Tấn",
+  "occupation": "Thường gọi là Bà Hai Đệ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Nhà Nguyễn độc lập": 30
   },
-  "id" : 290,
-  "entityName" : "Đỗ Thị Đệ",
-  "aliases" : [ "Bà Hai Đệ" ],
-  "overview" : "Năm Kỉ vị 1859, bà giúp lương thực cho nghĩa quân kháng Pháp khi lưu động qua vùng Cao Lãnh, được triều đình ân tứ một tấm biển sơn son thếp vàng \"Háo nghĩa khả phong\". Bà lại còn nổi tiếng nhân đức, hay làm việc thiện, được nhân dân kính yêu. Năm Bính tuất 1886, bà mất thọ 84 tuổi."
+  "id": 290,
+  "entityName": "Đỗ Thị Đệ",
+  "aliases": [
+    "Bà Hai Đệ"
+  ],
+  "overview": "Năm Kỉ vị 1859, bà giúp lương thực cho nghĩa quân kháng Pháp khi lưu động qua vùng Cao Lãnh, được triều đình ân tứ một tấm biển sơn son thếp vàng \"Háo nghĩa khả phong\". Bà lại còn nổi tiếng nhân đức, hay làm việc thiện, được nhân dân kính yêu. Năm Bính tuất 1886, bà mất thọ 84 tuổi."
 }

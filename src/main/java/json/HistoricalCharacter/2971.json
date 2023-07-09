@@ -1,17 +1,17 @@
 {
-  "dateOfBirth" : "Kỉ Mùi 1919",
-  "dateOfDeath" : "Tân Tị 2001",
-  "hometown" : "quê ở xã Mĩ Bình, huyện Củ Chi, tỉnh Gia Định cũ (nay thuộc Thành phố Hồ Chí Minh)",
-  "occupation" : "Thiếu tướng QĐND Việt Nam",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : {
-    "Pháp đô hộ" : 11,
-    "Nước Việt Nam mới" : 29
+  "dateOfBirth": "Kỉ Mùi 1919",
+  "dateOfDeath": "Tân Tị 2001",
+  "hometown": "quê ở xã Mĩ Bình, huyện Củ Chi, tỉnh Gia Định cũ (nay thuộc Thành phố Hồ Chí Minh)",
+  "occupation": "Thiếu tướng QĐND Việt Nam",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {
+    "Pháp đô hộ": 11,
+    "Nước Việt Nam mới": 29
   },
-  "id" : 2971,
-  "entityName" : "Tô Ký",
-  "aliases" : [ ],
-  "overview" : "Ông là một chiến sĩ cách mạng kiên cường ở Hóc Môn, từng tham gia khởi nghĩa Nam Kì năm 1940. Sau cách mạng tháng 8, ông chỉ huy các mặt trận Tây Bắc Sài Gòn, Gia Định. Suốt 9 năm kháng chiến (1945-1954), ông cùng đơn vị bám trụ trên đất Gia Định nói chung và Hóc Môn nói riêng. Sau hiệp định Genève, ông cùng đơn vị tập kết ra Bắc làm chính ủy sư đoàn 338, chánh án Tòa án quân sự trung ương... Những năm 60 ông về Nam chỉ huy các lực lượng quân Giải phóng ở chiến trường Đông Nam Bộ và Sài Gòn - Gia Định. Sau năm 1975 có lúc ông là chỉ huy trưởng Bộ Tư lệnh Thành phố Hồ Chí Minh. Năm 1978 chuyển ngành sang Tổng cục Dầu khí, từng được tặng thưởng Huân chương độc lập hạng nhất. Ông mất trong năm 2001 tại TP.HCM thọ 82 tuổi."
+  "id": 2971,
+  "entityName": "Tô Ký",
+  "aliases": [],
+  "overview": "Ông là một chiến sĩ cách mạng kiên cường ở Hóc Môn, từng tham gia khởi nghĩa Nam Kì năm 1940. Sau cách mạng tháng 8, ông chỉ huy các mặt trận Tây Bắc Sài Gòn, Gia Định. Suốt 9 năm kháng chiến (1945-1954), ông cùng đơn vị bám trụ trên đất Gia Định nói chung và Hóc Môn nói riêng. Sau hiệp định Genève, ông cùng đơn vị tập kết ra Bắc làm chính ủy sư đoàn 338, chánh án Tòa án quân sự trung ương... Những năm 60 ông về Nam chỉ huy các lực lượng quân Giải phóng ở chiến trường Đông Nam Bộ và Sài Gòn - Gia Định. Sau năm 1975 có lúc ông là chỉ huy trưởng Bộ Tư lệnh Thành phố Hồ Chí Minh. Năm 1978 chuyển ngành sang Tổng cục Dầu khí, từng được tặng thưởng Huân chương độc lập hạng nhất. Ông mất trong năm 2001 tại TP.HCM thọ 82 tuổi."
 }

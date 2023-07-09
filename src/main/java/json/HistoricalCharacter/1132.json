@@ -1,14 +1,14 @@
 {
-  "dateOfBirth" : "Không rõ",
-  "dateOfDeath" : "Không rõ",
-  "hometown" : "Không rõ",
-  "occupation" : "Không rõ",
-  "workTenure" : "Không rõ",
-  "fatherName" : { },
-  "motherName" : { },
-  "eraName" : { },
-  "id" : 1132,
-  "entityName" : "Hoàng Văn Đồng",
-  "aliases" : [ ],
-  "overview" : "Hoàng Văn Đồng là một sĩ quan cấp cao trong Quân đội Nhân dân Việt Nam, hàm Trung tướng, hiện là Chính ủy Bộ Tư lệnh Cảnh sát biển Việt Nam."
+  "dateOfBirth": "Không rõ",
+  "dateOfDeath": "Không rõ",
+  "hometown": "Không rõ",
+  "occupation": "Không rõ",
+  "workTenure": "Không rõ",
+  "fatherName": {},
+  "motherName": {},
+  "eraName": {},
+  "id": 1132,
+  "entityName": "Hoàng Văn Đồng",
+  "aliases": [],
+  "overview": "Hoàng Văn Đồng là một sĩ quan cấp cao trong Quân đội Nhân dân Việt Nam, hàm Trung tướng, hiện là Chính ủy Bộ Tư lệnh Cảnh sát biển Việt Nam."
 }
