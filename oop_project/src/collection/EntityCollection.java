@@ -7,7 +7,7 @@ import java.util.Collection;
 
 import entity.Entity;
 
-public abstract class EntityCollection <T extends Entity>
+public abstract class EntityCollection <T extends Entity> implements JsonFilesHandling
 {
     protected ObservableList<T> data = FXCollections.observableArrayList();
 

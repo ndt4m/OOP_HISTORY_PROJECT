@@ -13,8 +13,10 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 
 
-public class EraCollection extends EntityCollection<Era> implements EraJsonFilesHandling
+public class EraCollection extends EntityCollection<Era>
 {
+    public final static String DIR_NAME = "\\Era";
+    
     public void toJsonFiles()
     {
         for (Entity era: this.getData())

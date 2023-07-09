@@ -50,20 +50,6 @@ public class CrawHistorycalCharFromVS extends CrawlHistoricalChar
         return s;
     }
 
-    public boolean isUpperCase(String s)
-    {
-        String words[] = s.split(" ");
-
-        for (String word : words)
-        {
-            if (!Character.isUpperCase(word.charAt(0)))
-            {
-                return false;
-            }
-        }
-        return true;
-    }
-
     public List<String> extractDateOfBirthAndDateOfDeath(String s)
     {
         List<String> result = new ArrayList<String>();
@@ -346,7 +332,7 @@ public class CrawHistorycalCharFromVS extends CrawlHistoricalChar
         {   
             for (String name : extractAliasesBy(first_pTagContent))
             {
-                if (isUpperCase(name))
+                if (isUpperCase(name, " "))
                 {
                     aliases.add(name.trim());
                 }
@@ -381,7 +367,7 @@ public class CrawHistorycalCharFromVS extends CrawlHistoricalChar
                     continue;
                 }
 
-                if (isUpperCase(name))
+                if (isUpperCase(name, " "))
                 {
                     aliases.add(name.trim());
                 }

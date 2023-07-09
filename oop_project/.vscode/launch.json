@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Crawler",
+            "request": "launch",
+            "mainClass": "crawling.Crawler",
+            "projectName": "oop_project_fe880ddf"
+        },
+        {
+            "type": "java",
             "name": "RelationUtils",
             "request": "launch",
             "mainClass": "utils.RelationUtils",

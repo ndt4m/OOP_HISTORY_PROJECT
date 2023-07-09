@@ -12,8 +12,10 @@ import java.nio.file.Path;
 import java.io.IOException;
 
 
-public class EventCollection extends EntityCollection<Event> implements EventJsonFilesHandling
+public class EventCollection extends EntityCollection<Event>
 {
+    public final static String DIR_NAME = "\\Event";
+
     public void toJsonFiles()
     {
         for (Entity event: this.getData())
