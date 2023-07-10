@@ -193,7 +193,8 @@ public class CrawlHistoricalSiteFromFirstWikiLink extends CrawlHistoricalSite
                 relatedCharacters.clear();
             }
         }
-        this.historicalSiteCollection.setData(historicalsiteList);
+         //this.historicalSiteCollection.setData(historicalsiteList);
+        this.setHistoricalSiteCollection(historicalsiteList);
         // outPutStream.close();
         outPutStreamHistorycalSite.close();
     }
