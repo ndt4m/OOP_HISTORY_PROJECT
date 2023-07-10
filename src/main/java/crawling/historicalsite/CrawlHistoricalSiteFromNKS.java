@@ -257,7 +257,8 @@ public class CrawlHistoricalSiteFromNKS extends CrawlHistoricalSite
             historicalSiteList.add(crawlHistoricalSiteFrom(url));
             //break;
         }
-        this.historicalSiteCollection.setData(historicalSiteList);
+        //this.historicalSiteCollection.setData(historicalSiteList);
+        this.setHistoricalSiteCollection(historicalSiteList);
     }
 
     public void crawlHistoricalSite() throws IOException
