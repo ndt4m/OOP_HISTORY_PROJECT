@@ -46,7 +46,8 @@ public class CrawlEventFromNKS extends CrawlEvent
         {
             eventList.add(crawlEventFrom(url));
         }
-        this.eventCollection.setData(eventList);
+        //this.eventCollection.setData(eventList);
+        this.setEventCollection(eventList);
     }
 
     public Event crawlEventFrom(String url) throws IOException
