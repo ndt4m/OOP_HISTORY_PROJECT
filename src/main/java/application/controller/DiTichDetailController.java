@@ -17,6 +17,7 @@ import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.FlowPane;
 import javafx.scene.paint.Color;
 import javafx.scene.text.Text;
+import javafx.scene.text.TextFlow;
 
 public class DiTichDetailController extends PreviousStack{
 
@@ -36,7 +37,7 @@ public class DiTichDetailController extends PreviousStack{
     private Text nameText;
 
     @FXML
-    private Text overviewText;
+    private TextFlow overviewTextFlow;
 
     @FXML
     private ScrollPane diTichDetailRoot;
@@ -64,7 +65,7 @@ public class DiTichDetailController extends PreviousStack{
 
         nameText.setText(site.getEntityName());
         locationText.setText(site.getLocation());
-        overviewText.setText(site.getOverview());
+        overviewTextFlow.getChildren().add(new Text(site.getOverview()));
         categoryText.setText(site.getCategory());
         approvedYearText.setText(site.getEstablishment());
 

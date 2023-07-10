@@ -17,6 +17,7 @@ import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.FlowPane;
 import javafx.scene.paint.Color;
 import javafx.scene.text.Text;
+import javafx.scene.text.TextFlow;
 
 public class EventDetailController extends PreviousStack{
 
@@ -30,7 +31,7 @@ public class EventDetailController extends PreviousStack{
     private Text nameText;
 
     @FXML
-    private Text overviewText;
+    private TextFlow overviewTextFlow;
 
     @FXML
     private FlowPane relatedCharsFlowPane;
@@ -59,7 +60,7 @@ public class EventDetailController extends PreviousStack{
         nameText.setText(event.getEntityName());
         timeText.setText(event.getTime());
         locationText.setText(event.getLocation());
-        overviewText.setText(event.getOverview());
+        overviewTextFlow.getChildren().add(new Text(event.getOverview()));
         resultText.setText(event.getResult());
 
         if (!event.getAliases().isEmpty()){
