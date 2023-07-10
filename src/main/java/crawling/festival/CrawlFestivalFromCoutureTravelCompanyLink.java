@@ -76,7 +76,8 @@ public class CrawlFestivalFromCoutureTravelCompanyLink extends CrawlFestival
             location = "Không rõ";
             overview = "";
         }
-        this.festivalCollection.setData(festivalList);
+        //this.festivalCollection.setData(festivalList);
+        this.setFestivalCollection(festivalList);
         outPutStream.close();
     }
 
