@@ -10,7 +10,7 @@ import entity.Era;
 
 public abstract class CrawlEra extends Crawler
 {
-    protected EntityCollection<Era> eraCollection = new EraCollection();
+    private EntityCollection<Era> eraCollection = new EraCollection();
 
     public EraCollection getEraCollection() 
     {
@@ -19,6 +19,11 @@ public abstract class CrawlEra extends Crawler
             return (EraCollection) eraCollection;
         }
         return null;
+    }
+
+    public void setEraCollection(List<Era> eras)
+    {
+        this.eraCollection.setData(eras);
     }
 
     public abstract void crawlEra() throws IOException;

@@ -180,7 +180,8 @@ public class CrawlHistoricalCharFromWikiLink extends CrawlHistoricalChar
             occupation = "Không rõ";
             eraName = "Không rõ";
         }
-        this.historicalCharCollection.setData(historicalCharList);
+        //this.historicalCharCollection.setData(historicalCharList);
+        this.setHistoricalCharCollection(historicalCharList);
         outPutStream.close();
     }
 

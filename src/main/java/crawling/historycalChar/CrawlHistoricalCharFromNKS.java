@@ -459,7 +459,8 @@ public class CrawlHistoricalCharFromNKS extends CrawlHistoricalChar
             historicalCharList.add(crawlCharFrom(url));
             //break;
         }
-        this.historicalCharCollection.setData(historicalCharList);
+        //this.historicalCharCollection.setData(historicalCharList);
+        this.setHistoricalCharCollection(historicalCharList);
     }
 
     public void crawlHistoricalChar() throws IOException

@@ -8,7 +8,7 @@ import java.io.IOException;
 
 public abstract class CrawlEvent extends Crawler 
 {
-    protected EntityCollection<Event> eventCollection = new EventCollection();
+    private EntityCollection<Event> eventCollection = new EventCollection();
 
     public EventCollection getEventCollection() 
     {
@@ -19,5 +19,10 @@ public abstract class CrawlEvent extends Crawler
         return null;
     }
 
+    public void setEventCollection(List<Event> events)
+    {
+        this.eventCollection.setData(events);
+    }
+    
     public abstract void crawlEvent() throws IOException;
 }
