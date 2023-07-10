@@ -75,7 +75,8 @@ public class CrawlEraFromVS extends CrawlEra
                     aliases,
                     relatedCharacters));
         }
-        this.eraCollection.setData(eraList);
+        //this.eraCollection.setData(eraList);
+        this.setEraCollection(eraList);
         outPutStream.close();
 
     }
