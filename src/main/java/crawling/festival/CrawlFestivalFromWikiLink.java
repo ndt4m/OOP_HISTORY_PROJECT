@@ -230,7 +230,8 @@ public class CrawlFestivalFromWikiLink extends CrawlFestival
             overview = "Không rõ";
             relatedCharacters.clear();
         }
-        this.festivalCollection.setData(festivalList);
+        //this.festivalCollection.setData(festivalList);
+        this.setFestivalCollection(festivalList);
         outPutStream.close();
 
     }
