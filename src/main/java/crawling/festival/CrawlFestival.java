@@ -9,7 +9,7 @@ import java.io.IOException;
 
 public abstract class CrawlFestival extends Crawler
 {
-    protected EntityCollection<Festival> festivalCollection = new FestivalCollection();
+    private EntityCollection<Festival> festivalCollection = new FestivalCollection();
 
     public FestivalCollection getFestivalCollection()
     {
@@ -18,6 +18,11 @@ public abstract class CrawlFestival extends Crawler
             return (FestivalCollection) festivalCollection;
         }
         return null;
+    }
+
+    public void setFestivalCollection(List<Festival> festivals)
+    {
+        this.festivalCollection.setData(festivals);
     }
 
     public abstract void crawlFestival() throws IOException;
