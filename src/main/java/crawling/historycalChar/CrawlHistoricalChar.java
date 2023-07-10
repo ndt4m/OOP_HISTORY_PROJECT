@@ -9,7 +9,7 @@ import collection.HistoricalCharCollection;
 
 public abstract class CrawlHistoricalChar extends Crawler
 {
-    protected EntityCollection<HistoricalCharacter> historicalCharCollection = new HistoricalCharCollection();
+    private EntityCollection<HistoricalCharacter> historicalCharCollection = new HistoricalCharCollection();
 
     public HistoricalCharCollection getHistoricalCharCollection()
     {
@@ -18,6 +18,11 @@ public abstract class CrawlHistoricalChar extends Crawler
             return (HistoricalCharCollection) historicalCharCollection;
         }
         return null;
+    }
+
+    public void setHistoricalCharCollection(List<HistoricalCharacter> historicalCharacters)
+    {
+        this.historicalCharCollection.setData(historicalCharacters);
     }
 
     public abstract void crawlHistoricalChar() throws IOException;
