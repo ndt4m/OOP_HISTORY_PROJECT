@@ -277,7 +277,8 @@ public class CrawlEraFromWiki extends CrawlEra
             }
 
         }
-        this.eraCollection.setData(eraList);
+       //this.eraCollection.setData(eraList);
+        this.setEraCollection(eraList);
         outPutStream.close();
 
 
