@@ -8,7 +8,7 @@ import java.io.IOException;
 
 public abstract class CrawlHistoricalSite extends Crawler
 {
-    protected EntityCollection<HistoricalSite> historicalSiteCollection = new HistoricalSiteCollection();
+    private EntityCollection<HistoricalSite> historicalSiteCollection = new HistoricalSiteCollection();
 
     public HistoricalSiteCollection getHistoricalSiteCollection()
     {
@@ -17,6 +17,11 @@ public abstract class CrawlHistoricalSite extends Crawler
             return (HistoricalSiteCollection) historicalSiteCollection;
         }
         return null;
+    }
+
+    public void setHistoricalSiteCollection(List<HistoricalSite> historicalSites)
+    {
+        this.historicalSiteCollection.setData(historicalSites);
     }
 
     public abstract void crawlHistoricalSite() throws IOException;
