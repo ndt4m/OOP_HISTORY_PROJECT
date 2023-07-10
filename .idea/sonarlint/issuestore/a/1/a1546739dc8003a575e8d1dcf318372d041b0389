@@ -1,0 +1,24 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø‹œßúÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(½¿…
+a
+java:S1192"KDefine a constant instead of duplicating this literal "KhÃ´ng rÃµ" 6 times.(¯è¦Š
+m	java:S127-"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+f	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞúË”
+7
+java:S16436"Use a StringBuilder instead.(Ç˜•‡øÿÿÿÿ
+V
+java:S1854"@Remove this useless assignment to local variable "festivalName".(¯è¦Š
+V
+java:S1854J"@Remove this useless assignment to local variable "festivalName".(èè€‡
+}
+java:S58540"gUse the CANON_EQ flag with "Pattern.compile(pattern, CANON_EQ).matcher(input).replaceAll(replacement)".(ûœµ
+^
+java:S53610"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ûœµ
+‚
+java:S58541"gUse the CANON_EQ flag with "Pattern.compile(pattern, CANON_EQ).matcher(input).replaceAll(replacement)".(ÑÜåşÿÿÿÿÿ
+c
+java:S53611"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ÑÜåşÿÿÿÿÿ
+N	java:S106\"9Replace this use of System.out or System.err by a logger.(µ×ÇÅ

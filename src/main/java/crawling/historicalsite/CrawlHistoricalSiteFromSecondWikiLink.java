@@ -81,7 +81,6 @@ public class CrawlHistoricalSiteFromSecondWikiLink extends CrawlHistoricalSite
 
         Elements wikitables = doc.select("#mw-content-text > div.mw-parser-output > table:gt(13) > tbody");
         wikitables.select("sup").remove();
-        //System.out.println(wikitables.get(wikitables.size()-2).child(1).child(4).text());
         for (Element wikitable : wikitables)
         {
             for (int i = 1; i < wikitable.children().size(); i++)
@@ -153,14 +152,7 @@ public class CrawlHistoricalSiteFromSecondWikiLink extends CrawlHistoricalSite
                         }
                     }
                 }
-                // System.out.println("historicalSiteName: " + historicalSiteName);
-                // System.out.println("Location: " + location);
-                // System.out.println("establishment: " + establishment);
-                // System.out.println("Category: " + category);
-                // System.out.println("aliase: " + aliases);
-                // System.out.println("RelatedCharacter: " + relatedCharacters);
-                // System.out.println("overview: " + overview);
-                // System.out.println("================================================================================");
+
                 // outPutStream.println(relatedCharacters);
                 outPutStreamHistorycalSite.println("historicalSiteName: " + historicalSiteName);
                 outPutStreamHistorycalSite.println("Location: " + location);

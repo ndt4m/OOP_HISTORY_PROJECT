@@ -65,6 +65,7 @@ public class EraController extends PreviousStack{
                 new PropertyValueFactory<Era, String>("time"));
 
         eraTable.setItems(eraCollection.getData());
+        eraTable.getSortOrder().addAll(colEraId);
 
         searchBarController.setSearchBoxListener(
                 new SearchBoxListener() {

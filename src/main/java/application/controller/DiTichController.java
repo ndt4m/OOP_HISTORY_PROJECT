@@ -56,6 +56,7 @@ public class DiTichController extends PreviousStack{
                 new PropertyValueFactory<HistoricalSite, String>("location")
         );
         siteTable.setItems(historicalSiteCollection.getData());
+        siteTable.getSortOrder().addAll(colSiteId);
 
         searchBarController.setSearchBoxListener(
                 new SearchBoxListener() {

@@ -63,6 +63,7 @@ public class EventController extends PreviousStack{
                 new PropertyValueFactory<Event, String>("time")
         );
         eventTable.setItems(eventCollection.getData());
+        eventTable.getSortOrder().addAll(colEventId);
 
         searchBarController.setSearchBoxListener(
                 new SearchBoxListener() {

@@ -63,6 +63,7 @@ public class FestivalController extends PreviousStack{
                 new PropertyValueFactory<Festival, String>("time")
         );
         fesTable.setItems(festivalCollection.getData());
+        fesTable.getSortOrder().addAll(colFesId);
 
         searchBarController.setSearchBoxListener(
                 new SearchBoxListener() {

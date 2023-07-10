@@ -293,11 +293,9 @@ public class CrawHistorycalCharFromVS extends CrawlHistoricalChar
         int tableSize = table.children().size();
 
         overview = table.child(tableSize - 1).select("p:not(:first-child)").text();
-        //System.out.println(overview);
 
         eraName = extractEraNameBy(table.child(tableSize - 2).selectFirst("td:nth-child(2)").text());
-        //System.out.println(eraName);
-          
+
         List<String> result;
         
         String first_pTagContent = table.child(tableSize - 1).selectFirst("p").text();
@@ -314,9 +312,7 @@ public class CrawHistorycalCharFromVS extends CrawlHistoricalChar
         }
         
         occupation = extractOccupationBy(first_pTagContent);
-        //System.out.println("------/" + occupation + "\\-----");
         result = extractHometownBy(first_pTagContent);
-        //System.out.println("------/" + result + "\\-----");
 
         if (result.get(1).equals("Không rõ"))
         {
@@ -394,18 +390,6 @@ public class CrawHistorycalCharFromVS extends CrawlHistoricalChar
 
         }
 
-        // System.out.println("charName: " + charName);
-        // System.out.println("eraName: " + eraName);
-        // System.out.println("dateOfBirth: " + dateOfBirth);
-        // System.out.println("dateOfDeath: " + dateOfDeath);
-        // System.out.println("fatherName: " + fatherName);
-        // System.out.println("motherName: " + motherName);
-        // System.out.println("hometown: " + hometown);
-        // System.out.println("occupation: " + occupation);
-        // System.out.println("workTenure: " + workTenure);
-        // System.out.println("overview: " + overview);
-        // System.out.println("aliases: " + aliases);
-        // System.out.println("=================================================================");
         fw.write("charName: " + charName + "\n");
         fw.write("eraName: " + eraName + "\n");
         fw.write("dateOfBirth: " + dateOfBirth + "\n");

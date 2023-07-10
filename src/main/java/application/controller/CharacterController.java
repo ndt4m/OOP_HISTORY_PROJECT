@@ -54,7 +54,7 @@ public class CharacterController extends PreviousStack{
                 new PropertyValueFactory<HistoricalCharacter, String>("overview"));
 
         tblFigure.setItems(historicalCharCollection.getData());
-
+        tblFigure.getSortOrder().addAll(colFigureId);
 
         searchBarController.setSearchBoxListener(
                 new SearchBoxListener() {

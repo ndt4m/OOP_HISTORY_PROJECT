@@ -1,0 +1,30 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ØÏØ™ıÿÿÿÿ
+u
+java:S2293Ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ËÏ³ıÿÿÿÿ
+f
+java:S1192"JDefine a constant instead of duplicating this literal "PÃ  HÆ°ng" 3 times.(¥½Îùüÿÿÿÿ
+e
+java:S1192v"JDefine a constant instead of duplicating this literal "Niá»…ng O" 3 times.(×ÎÃüøÿÿÿÿ
+c
+java:S1192$"HDefine a constant instead of duplicating this literal "Páº§u Y" 3 times.(ùØù´ıÿÿÿÿ
+s
+java:S1104
+"^Make VN_ETHNICITY_NAMES a static final constant or non-public and provide accessors if needed.(Ô»²L
+o
+java:S1104Í"XMake VN_ERA_NAMES a static final constant or non-public and provide accessors if needed.(¢¤¯¶
+M
+java:S1444
+"8Make this "public static VN_ETHNICITY_NAMES" field final(Ô»²L
+I
+java:S1444Í"2Make this "public static VN_ERA_NAMES" field final(¢¤¯¶
+r
+java:S3008
+"]Rename this field "VN_ETHNICITY_NAMES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô»²L
+n
+java:S3008Í"WRename this field "VN_ERA_NAMES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¤¯¶
+H
+java:S2386"-Make member "VN_ETHNICITY_NAMES" "protected".(ØÏØ™ıÿÿÿÿ
+C
+java:S2386Ğ"'Make member "VN_ERA_NAMES" "protected".(ËÏ³ıÿÿÿÿ

@@ -1,4 +1,4 @@
-package application.gui;
+package application;
 
 import java.io.IOException;
 

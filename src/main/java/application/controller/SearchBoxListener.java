@@ -15,7 +15,6 @@ public interface SearchBoxListener {
 
     /**
      * Định nghĩa phương thức thực thi khi có sự kiện tìm kiếm theo id
-     * @param id id cần tìm kiếm
      */
     void handleSearchId(String id);
 

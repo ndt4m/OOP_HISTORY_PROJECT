@@ -1,0 +1,20 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Øÿ»¨
+o
+java:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(½¿…
+f
+java:S11929"KDefine a constant instead of duplicating this literal "KhÃ´ng rÃµ" 5 times.(ò¿–ğûÿÿÿÿ
+^
+java:S20957"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(¨Ô×†
+M
+java:S1854"7Remove this useless assignment to local variable "doc".(ÙœâÀ
+m
+java:S37764"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(€“Êùÿÿÿÿ
+X
+java:S18549"=Remove this useless assignment to local variable "eventName".(ò¿–ğûÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(óñÃ´øÿÿÿÿ
+‚
+java:S5854D"gUse the CANON_EQ flag with "Pattern.compile(pattern, CANON_EQ).matcher(input).replaceAll(replacement)".(«ğšùÿÿÿÿ
+W	java:S125‚"<This block of commented-out lines of code should be removed.(½•ÉÙıÿÿÿÿ
+O	java:S106•"9Replace this use of System.out or System.err by a logger.(Ú‘²˜
